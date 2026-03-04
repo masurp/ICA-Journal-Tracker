@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ICA Journal Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-title-group">
+        <span class="header-eyebrow">International Communication Association</span>
+        <h1 class="header-title">Journal Tracker</h1>
+        <p class="header-sub">Most read, cited &amp; latest papers — updated weekly</p>
+      </div>
+      <div class="header-meta">
+        <div class="update-badge" id="last-updated" title="Data refresh timestamp">
+          <span class="update-dot"></span>
+          <span id="update-text">Loading…</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="journal-nav" id="journal-tabs" role="tablist" aria-label="Select journal"></nav>
+
+  <main class="main-content" id="main-content">
+    <div class="loading-state" id="loading-state">
+      <div class="spinner"></div>
+      <p>Fetching journal data…</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-text">
+        Data sourced from
+        <a href="https://www.crossref.org/" target="_blank" rel="noopener">Crossref</a>,
+        <a href="https://www.semanticscholar.org/" target="_blank" rel="noopener">Semantic Scholar</a>
+        &amp; <a href="https://www.altmetric.com/" target="_blank" rel="noopener">Altmetric</a>.
+        "Most Read" is approximated by Altmetric Attention Score.
+        Not affiliated with ICA or Oxford University Press.
+      </p>
+      <p class="footer-source">
+        <a href="https://github.com/philippmasur/ICA-Journal-Tracker" target="_blank" rel="noopener">View source on GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

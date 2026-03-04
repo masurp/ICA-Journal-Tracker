@@ -1,0 +1,52 @@
+{
+  "journals": [
+    {
+      "id": "journal_of_communication",
+      "name": "Journal of Communication",
+      "short": "JoC",
+      "color": "#4f8ef7",
+      "issns": ["0021-9916", "1460-2466"],
+      "url": "https://academic.oup.com/joc"
+    },
+    {
+      "id": "human_communication_research",
+      "name": "Human Communication Research",
+      "short": "HCR",
+      "color": "#3ecf8e",
+      "issns": ["0360-3989", "1468-2958"],
+      "url": "https://academic.oup.com/hcr"
+    },
+    {
+      "id": "communication_theory",
+      "name": "Communication Theory",
+      "short": "CT",
+      "color": "#a78bfa",
+      "issns": ["1050-3293", "1468-2885"],
+      "url": "https://academic.oup.com/ct"
+    },
+    {
+      "id": "jcmc",
+      "name": "Journal of Computer-Mediated Communication",
+      "short": "JCMC",
+      "color": "#f59e0b",
+      "issns": ["1083-6101"],
+      "url": "https://academic.oup.com/jcmc"
+    },
+    {
+      "id": "communication_culture_critique",
+      "name": "Communication, Culture & Critique",
+      "short": "CCC",
+      "color": "#f87171",
+      "issns": ["1753-9129", "1753-9137"],
+      "url": "https://academic.oup.com/ccc"
+    },
+    {
+      "id": "annals_ica",
+      "name": "Annals of the ICA",
+      "short": "Annals",
+      "color": "#22d3ee",
+      "issns": ["2380-8985", "2380-8977"],
+      "url": "https://academic.oup.com/anncom"
+    }
+  ]
+}

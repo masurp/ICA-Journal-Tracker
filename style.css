@@ -1,0 +1,618 @@
+/* ── Reset & Base ─────────────────────────────────────────────────────────── */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #08080e;
+  --bg-card: #0f0f18;
+  --bg-card-hover: #15151f;
+  --bg-nav: #0c0c14;
+  --border: rgba(255, 255, 255, 0.06);
+  --border-hover: rgba(255, 255, 255, 0.12);
+  --text-primary: #f0f0f8;
+  --text-secondary: #8892a4;
+  --text-muted: #50586a;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --radius-pill: 999px;
+  --journal-color: #4f8ef7;  /* overridden per-journal by JS */
+  --transition: 0.18s ease;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: var(--journal-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── Header ────────────────────────────────────────────────────────────────── */
+
+.site-header {
+  background: linear-gradient(180deg, rgba(8,8,14,1) 0%, rgba(8,8,14,0.9) 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 2.5rem 1.5rem 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.site-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 80% 60% at 50% -20%, rgba(79, 142, 247, 0.12) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.header-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.header-eyebrow {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--journal-color);
+  margin-bottom: 0.4rem;
+  opacity: 0.9;
+}
+
+.header-title {
+  font-size: clamp(2rem, 5vw, 3.25rem);
+  font-weight: 900;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  background: linear-gradient(135deg, #f0f0f8 30%, #8892a4 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-sub {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+  font-weight: 400;
+}
+
+.update-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 0.4rem 0.9rem;
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+  white-space: nowrap;
+}
+
+.update-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #3ecf8e;
+  box-shadow: 0 0 6px #3ecf8e;
+  flex-shrink: 0;
+}
+
+/* ── Journal Nav Tabs ─────────────────────────────────────────────────────── */
+
+.journal-nav {
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.journal-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 0.5rem 1.1rem;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: color var(--transition), border-color var(--transition), background var(--transition), box-shadow var(--transition);
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tab-btn:hover {
+  color: var(--text-primary);
+  border-color: var(--border-hover);
+  background: rgba(255,255,255,0.04);
+}
+
+.tab-btn.active {
+  color: #fff;
+  border-color: var(--journal-color);
+  background: color-mix(in srgb, var(--journal-color) 15%, transparent);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--journal-color) 30%, transparent),
+              inset 0 0 0 1px color-mix(in srgb, var(--journal-color) 40%, transparent);
+}
+
+.tab-short {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+
+.tab-name {
+  display: none;
+}
+
+@media (min-width: 640px) {
+  .tab-name {
+    display: inline;
+  }
+  .tab-short {
+    display: none;
+  }
+}
+
+/* ── Main Content ─────────────────────────────────────────────────────────── */
+
+.main-content {
+  flex: 1;
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* ── Loading / Error States ───────────────────────────────────────────────── */
+
+.loading-state,
+.error-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 40vh;
+  gap: 1rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.spinner {
+  width: 36px;
+  height: 36px;
+  border: 2px solid var(--border);
+  border-top-color: var(--journal-color);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.error-state {
+  color: #f87171;
+}
+
+/* ── Journal View ─────────────────────────────────────────────────────────── */
+
+.journal-view {
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.journal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.journal-name {
+  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text-primary);
+}
+
+.journal-link {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--journal-color);
+  opacity: 0.8;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: opacity var(--transition);
+}
+
+.journal-link:hover {
+  opacity: 1;
+  text-decoration: none;
+}
+
+/* ── Sections Grid ────────────────────────────────────────────────────────── */
+
+.sections-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .sections-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .section-col:last-child {
+    grid-column: span 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .sections-grid {
+    grid-template-columns: 1fr;
+  }
+  .section-col:last-child {
+    grid-column: span 1;
+  }
+}
+
+/* ── Section Column ───────────────────────────────────────────────────────── */
+
+.section-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 0.1rem;
+}
+
+.section-label {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--journal-color);
+}
+
+.section-info-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 2px;
+  border-radius: 50%;
+  transition: color var(--transition);
+  position: relative;
+}
+
+.section-info-btn:hover {
+  color: var(--text-secondary);
+}
+
+.section-tooltip {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1a1a26;
+  border: 1px solid var(--border-hover);
+  border-radius: var(--radius-sm);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  width: 220px;
+  z-index: 20;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.section-info-btn:hover .section-tooltip,
+.section-info-btn:focus .section-tooltip {
+  opacity: 1;
+}
+
+/* ── Paper Card ───────────────────────────────────────────────────────────── */
+
+.paper-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem 0.9rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  transition: background var(--transition), border-color var(--transition), box-shadow var(--transition), transform var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+
+.paper-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+  background: var(--journal-color);
+  opacity: 0.7;
+  border-radius: 3px 0 0 3px;
+}
+
+.paper-card:hover {
+  background: var(--bg-card-hover);
+  border-color: color-mix(in srgb, var(--journal-color) 25%, var(--border));
+  box-shadow: 0 0 24px color-mix(in srgb, var(--journal-color) 10%, transparent),
+              0 2px 12px rgba(0,0,0,0.4);
+  transform: translateY(-1px);
+}
+
+.paper-rank {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.9rem;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+
+.paper-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  min-height: 0;
+}
+
+.topic-chip {
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-pill);
+  opacity: 0.9;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.paper-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: var(--text-primary);
+  padding-right: 1.2rem; /* room for rank badge */
+}
+
+.paper-title a {
+  color: inherit;
+  transition: color var(--transition);
+}
+
+.paper-title a:hover {
+  color: var(--journal-color);
+  text-decoration: none;
+}
+
+.paper-authors {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  font-weight: 400;
+}
+
+.paper-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(255,255,255,0.04);
+  flex-wrap: wrap;
+}
+
+.paper-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.meta-badge {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.meta-badge .badge-icon {
+  font-size: 0.65rem;
+}
+
+.altmetric-badge {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.18rem 0.55rem;
+  border-radius: var(--radius-pill);
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  white-space: nowrap;
+}
+
+.altmetric-badge.notable {
+  background: color-mix(in srgb, #f59e0b 12%, transparent);
+  border-color: color-mix(in srgb, #f59e0b 30%, transparent);
+  color: #fbbf24;
+  box-shadow: 0 0 8px color-mix(in srgb, #f59e0b 20%, transparent);
+}
+
+.altmetric-badge.viral {
+  background: color-mix(in srgb, #f87171 12%, transparent);
+  border-color: color-mix(in srgb, #f87171 35%, transparent);
+  color: #fca5a5;
+  box-shadow: 0 0 10px color-mix(in srgb, #f87171 20%, transparent);
+}
+
+/* ── Empty State ──────────────────────────────────────────────────────────── */
+
+.empty-card {
+  background: var(--bg-card);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* ── Footer ───────────────────────────────────────────────────────────────── */
+
+.site-footer {
+  margin-top: auto;
+  border-top: 1px solid var(--border);
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-nav);
+}
+
+.footer-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer-text {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.footer-text a {
+  color: var(--text-secondary);
+  transition: color var(--transition);
+}
+
+.footer-text a:hover {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.footer-source {
+  font-size: 0.73rem;
+}
+
+.footer-source a {
+  color: var(--text-muted);
+  transition: color var(--transition);
+}
+
+.footer-source a:hover {
+  color: var(--text-secondary);
+  text-decoration: none;
+}
+
+/* ── Scrollbar (Webkit) ───────────────────────────────────────────────────── */
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.1);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255,255,255,0.18);
+}
+
+/* ── Accessibility ────────────────────────────────────────────────────────── */
+
+:focus-visible {
+  outline: 2px solid var(--journal-color);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
