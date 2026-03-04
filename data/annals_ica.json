@@ -1,6 +1,7 @@
 {
   "journal_id": "annals_ica",
-  "updated_at": "2026-03-04T16:51:54Z",
+  "updated_at": "2026-03-04T17:10:32Z",
+  "trending_from": "2025-03-04",
   "sections": {
     "most_cited": [
       {
@@ -178,6 +179,101 @@
         "citation_count": 0,
         "topics": [],
         "url": "https://doi.org/10.1093/anncom/wlaf025"
+      }
+    ],
+    "trending": [
+      {
+        "doi": "10.1093/anncom/wlaf005",
+        "title": "Types, methods, and evaluations of artificial intelligence (AI) in public communication research in the early phases of adoption: a systematic review",
+        "authors": [
+          "Irina Lock",
+          "Lukas Benedikt Hoffmann",
+          "Christian Burgers",
+          "Theo Araujo"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "Computer Science"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf005"
+      },
+      {
+        "doi": "10.1093/anncom/wlaf001",
+        "title": "Conceptualizing the evolving nature of computational propaganda: a systematic literature review",
+        "authors": [
+          "Hassan Mustafa",
+          "Markus Luczak-Roesch",
+          "David Johnstone"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [],
+        "url": "https://doi.org/10.1093/anncom/wlaf001"
+      },
+      {
+        "doi": "10.1093/anncom/wlaf007",
+        "title": "The persuasive effects of narratives: a systematic review of reviews",
+        "authors": [
+          "Zexin Ma",
+          "Xiaoli Nan"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "Psychology",
+          "Medicine"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf007"
+      },
+      {
+        "doi": "10.1093/anncom/wlaf010",
+        "title": "Character assassination as a communicative phenomenon: a retrospective review of concept development and extensions",
+        "authors": [
+          "Madeline J Moore",
+          "Lili R Romann",
+          "Rachel V Tucker",
+          "Elizabeth A Hintz"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Political Science",
+          "Sociology",
+          "Linguistics"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf010"
+      },
+      {
+        "doi": "10.1093/anncom/wlaf009",
+        "title": "What do you mean by “social media”? Introducing the Reporting Items for Social Media Research (RISoMeR)",
+        "authors": [
+          "Lara N Wolfers",
+          "Dominik Neumann",
+          "Stefanie H Klein",
+          "Franziska Gaiser",
+          "Christine Anderl",
+          "Sonja Utz"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [],
+        "url": "https://doi.org/10.1093/anncom/wlaf009"
+      },
+      {
+        "doi": "10.1093/anncom/wlaf003",
+        "title": "Media anti-populism and political parallelism in Latin America",
+        "authors": [
+          "Daniel C Hallin",
+          "Philip Kitzberger",
+          "Manel Palos-Pons"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Political Science"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf003"
       }
     ]
   }

@@ -1,6 +1,7 @@
 {
   "journal_id": "communication_theory",
-  "updated_at": "2026-03-04T16:50:26Z",
+  "updated_at": "2026-03-04T17:08:12Z",
+  "trending_from": "2025-03-04",
   "sections": {
     "most_cited": [
       {
@@ -156,6 +157,97 @@
         "citation_count": 0,
         "topics": [],
         "url": "https://doi.org/10.1093/ct/qtaf035"
+      }
+    ],
+    "trending": [
+      {
+        "doi": "10.1093/ct/qtaf007",
+        "title": "Theory of affective bonding: a framework to explain how people may relate to social robots and artificial others",
+        "authors": [
+          "Elly A Konijn",
+          "Daniel F Preciado Vanegas",
+          "Peggy van Minkelen"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Psychology",
+          "Computer Science"
+        ],
+        "url": "https://doi.org/10.1093/ct/qtaf007"
+      },
+      {
+        "doi": "10.1093/ct/qtaf018",
+        "title": "Epistemic welfare and algorithmic recommender systems: overcoming the epistemic crisis in the digitalized public sphere",
+        "authors": [
+          "Aaron Hyzen",
+          "Hilde Van den Bulck",
+          "Manuel Puppis",
+          "Michelle Kulig",
+          "Steve Paulussen"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Computer Science",
+          "Sociology"
+        ],
+        "url": "https://doi.org/10.1093/ct/qtaf018"
+      },
+      {
+        "doi": "10.1093/ct/qtaf006",
+        "title": "The art of delirium: social media suppression in authoritarian regimes",
+        "authors": [
+          "Hossein Kermani"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Political Science"
+        ],
+        "url": "https://doi.org/10.1093/ct/qtaf006"
+      },
+      {
+        "doi": "10.1093/ct/qtaf017",
+        "title": "On the stabilization of media effects after repeated exposure: consequences for media effects research",
+        "authors": [
+          "Susanne E Baumgartner"
+        ],
+        "year": 2025,
+        "citation_count": 3,
+        "topics": [],
+        "url": "https://doi.org/10.1093/ct/qtaf017"
+      },
+      {
+        "doi": "10.1093/ct/qtaf009",
+        "title": "Disinformation as process: modeling the lifecycle of deceit",
+        "authors": [
+          "Vera Tolz",
+          "Stephen Hutchings",
+          "Vitaly Kazakov",
+          "Sofia Tipaldou"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "Sociology"
+        ],
+        "url": "https://doi.org/10.1093/ct/qtaf009"
+      },
+      {
+        "doi": "10.1093/ct/qtaf005",
+        "title": "Understanding news media trust through the lens of phenomenological sociology",
+        "authors": [
+          "Diego Garusi",
+          "Clara Juarez Miro",
+          "Folker Hanusch"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "Sociology"
+        ],
+        "url": "https://doi.org/10.1093/ct/qtaf005"
       }
     ]
   }
