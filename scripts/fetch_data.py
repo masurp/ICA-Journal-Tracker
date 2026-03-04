@@ -9,7 +9,7 @@ import json
 import os
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -88,9 +88,9 @@ def parse_crossref_paper(item: dict) -> dict:
 
 # ── API Passes ────────────────────────────────────────────────────────────────
 
-def fetch_crossref(issn: str, sort: str) -> list[dict]:
+def fetch_crossref(issn: str, sort: str, from_date: str = "2000") -> list[dict]:
     data = get(CROSSREF_BASE, params={
-        "filter": f"issn:{issn},from-pub-date:2000",
+        "filter": f"issn:{issn},from-pub-date:{from_date}",
         "sort": sort,
         "order": "desc",
         "rows": ROWS,
@@ -149,18 +149,25 @@ def fetch_journal(journal: dict) -> dict:
     print(f"  {name} ({issn})")
     print(f"{'─'*60}")
 
-    print("  [1/2] Crossref — most cited…")
+    # Trending window: papers published in the last 12 months
+    trending_from = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
+
+    print("  [1/3] Crossref — most cited (all time)…")
     cited = fetch_crossref(issn, sort="is-referenced-by-count")
     print(f"        {len(cited)} papers returned")
 
-    print("  [1/2] Crossref — latest…")
+    print("  [1/3] Crossref — latest…")
     latest = fetch_crossref(issn, sort="published")
     print(f"        {len(latest)} papers returned")
 
-    all_papers = deduplicate(cited + latest)
+    print(f"  [1/3] Crossref — trending (since {trending_from})…")
+    trending = fetch_crossref(issn, sort="is-referenced-by-count", from_date=trending_from)
+    print(f"        {len(trending)} papers returned")
+
+    all_papers = deduplicate(cited + latest + trending)
     print(f"  Unique papers to enrich: {len(all_papers)}")
 
-    print("  [2/2] Semantic Scholar — topic labels…")
+    print("  [2/3] Semantic Scholar — topic labels…")
     enrich_semantic_scholar(all_papers)
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
@@ -170,13 +177,16 @@ def fetch_journal(journal: dict) -> dict:
 
     cited_enriched = enrich_list(cited)[:TOP_N]
     latest_enriched = enrich_list(latest)[:TOP_N]
+    trending_enriched = enrich_list(trending)[:TOP_N]
 
     return {
         "journal_id": journal["id"],
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "trending_from": trending_from,
         "sections": {
             "most_cited": cited_enriched,
             "latest": latest_enriched,
+            "trending": trending_enriched,
         },
     }
 

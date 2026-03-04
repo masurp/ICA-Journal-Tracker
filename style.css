@@ -401,6 +401,45 @@ a:hover {
   color: var(--journal-color);
 }
 
+/* ── Cite Toggle ──────────────────────────────────────────────────────────── */
+
+.cite-toggle {
+  display: flex;
+  gap: 2px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 2px;
+}
+
+.cite-toggle-btn {
+  background: transparent;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 0.25rem 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+}
+
+.cite-toggle-btn:hover {
+  color: var(--text-secondary);
+}
+
+.cite-toggle-btn.active {
+  background: color-mix(in srgb, var(--toggle-color) 18%, transparent);
+  color: var(--toggle-color);
+  box-shadow: 0 0 8px color-mix(in srgb, var(--toggle-color) 20%, transparent);
+}
+
+/* ── ──────────────────────────────────────────────────────────────────────── */
+
 .section-info-btn {
   background: none;
   border: none;

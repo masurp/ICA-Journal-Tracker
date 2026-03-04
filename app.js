@@ -1,17 +1,27 @@
 /* ICA Journal Tracker — Frontend */
 
-const SECTIONS = [
-  {
+// The first section supports a toggle between two datasets
+const CITE_MODES = {
+  most_cited: {
     key: 'most_cited',
     label: 'Most Cited',
-    tooltip: 'Ranked by total citation count from Crossref. Includes all citations since publication.',
+    tooltip: 'Ranked by total citation count (Crossref). Established, high-impact papers.',
   },
-  {
-    key: 'latest',
-    label: 'Latest',
-    tooltip: 'Most recently published articles, sorted by publication date.',
+  trending: {
+    key: 'trending',
+    label: 'Trending',
+    tooltip: 'Papers published in the last 12 months, ranked by citation count. Shows what\'s gaining traction right now.',
   },
-];
+};
+
+const LATEST_SECTION = {
+  key: 'latest',
+  label: 'Latest',
+  tooltip: 'Most recently published articles, sorted by publication date.',
+};
+
+// Per-journal cite mode state (persists across tab switches)
+const citeModeState = {};
 
 // Deterministic topic chip color from string hash
 const TOPIC_PALETTE = [
@@ -78,18 +88,56 @@ function renderCard(paper, rank) {
   `;
 }
 
-function renderSection(section, papers, journalColor) {
-  const cardsHtml = papers && papers.length > 0
+function renderCiteSection(data, journalId, journalColor) {
+  const mode = citeModeState[journalId] || 'most_cited';
+  const section = CITE_MODES[mode];
+  const papers = data.sections?.[section.key] || [];
+  const cardsHtml = papers.length > 0
+    ? papers.map((p, i) => renderCard(p, i + 1)).join('')
+    : '<div class="empty-card">No data available</div>';
+
+  const trendingFrom = data.trending_from
+    ? new Date(data.trending_from).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })
+    : 'last 12 months';
+
+  return `
+    <div class="section-col" id="cite-section-${escapeHtml(journalId)}">
+      <div class="section-heading">
+        <div class="cite-toggle" role="group" aria-label="Citation view">
+          <button class="cite-toggle-btn ${mode === 'most_cited' ? 'active' : ''}"
+            data-mode="most_cited" data-journal="${escapeHtml(journalId)}"
+            style="--toggle-color:${journalColor}">
+            All Time
+          </button>
+          <button class="cite-toggle-btn ${mode === 'trending' ? 'active' : ''}"
+            data-mode="trending" data-journal="${escapeHtml(journalId)}"
+            style="--toggle-color:${journalColor}">
+            Trending
+          </button>
+        </div>
+        <button class="section-info-btn" aria-label="Info">
+          ⓘ
+          <span class="section-tooltip">${escapeHtml(section.tooltip)}${mode === 'trending' ? ` Since ${trendingFrom}.` : ''}</span>
+        </button>
+      </div>
+      ${cardsHtml}
+    </div>
+  `;
+}
+
+function renderLatestSection(data, journalColor) {
+  const papers = data.sections?.[LATEST_SECTION.key] || [];
+  const cardsHtml = papers.length > 0
     ? papers.map((p, i) => renderCard(p, i + 1)).join('')
     : '<div class="empty-card">No data available</div>';
 
   return `
     <div class="section-col">
       <div class="section-heading">
-        <span class="section-label" style="color:${journalColor}">${escapeHtml(section.label)}</span>
-        <button class="section-info-btn" aria-label="Info about ${escapeHtml(section.label)}">
+        <span class="section-label" style="color:${journalColor}">${escapeHtml(LATEST_SECTION.label)}</span>
+        <button class="section-info-btn" aria-label="Info about Latest">
           ⓘ
-          <span class="section-tooltip">${escapeHtml(section.tooltip)}</span>
+          <span class="section-tooltip">${escapeHtml(LATEST_SECTION.tooltip)}</span>
         </button>
       </div>
       ${cardsHtml}
@@ -101,10 +149,8 @@ function renderJournalView(journal, publisher, data) {
   const color = publisher.color;
   document.documentElement.style.setProperty('--journal-color', color);
 
-  const sectionsHtml = SECTIONS.map(sec => {
-    const papers = data.sections?.[sec.key] || [];
-    return renderSection(sec, papers, color);
-  }).join('');
+  const sectionsHtml = renderCiteSection(data, journal.id, color)
+    + renderLatestSection(data, color);
 
   return `
     <div class="journal-view">
@@ -279,9 +325,26 @@ async function loadJournal(journal, publisher) {
     const data = dataCache[journal.id];
     main.innerHTML = renderJournalView(journal, publisher, data);
     setLastUpdated(data.updated_at);
+    bindToggleButtons(journal, publisher);
   } catch (err) {
     main.innerHTML = `<div class="error-state">⚠ Failed to load ${escapeHtml(journal.name)}: ${escapeHtml(err.message)}</div>`;
   }
+}
+
+function bindToggleButtons(journal, publisher) {
+  document.querySelectorAll('.cite-toggle-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const mode = btn.dataset.mode;
+      const journalId = btn.dataset.journal;
+      if (citeModeState[journalId] === mode) return;
+      citeModeState[journalId] = mode;
+      const data = dataCache[journalId];
+      if (!data) return;
+      const col = document.getElementById(`cite-section-${journalId}`);
+      if (col) col.outerHTML = renderCiteSection(data, journalId, publisher.color);
+      bindToggleButtons(journal, publisher);
+    });
+  });
 }
 
 function showError(msg) {
