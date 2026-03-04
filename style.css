@@ -145,11 +145,11 @@ a:hover {
 .publisher-nav {
   display: flex;
   gap: 0.35rem;
-  padding: 0.7rem 1.5rem 0;
+  padding: 0.7rem 1rem 0 1.5rem;
   overflow-x: auto;
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
-  border-bottom: 1px solid var(--border);
+  flex: 1;
 }
 
 .publisher-nav::-webkit-scrollbar { display: none; }
@@ -201,18 +201,18 @@ a:hover {
 
 /* ── Journal Nav Tabs ─────────────────────────────────────────────────────── */
 
-.journal-nav-row {
+.publisher-nav-row {
   display: flex;
   align-items: center;
-  padding-right: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-right: 1rem;
 }
 
 .journal-nav {
   display: flex;
   gap: 0.4rem;
-  padding: 0.6rem 0.75rem 0.6rem 1.5rem;
+  padding: 0.6rem 1.5rem;
   overflow-x: auto;
-  flex: 1;
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
 }
@@ -678,7 +678,7 @@ a:hover {
   transition: color var(--transition), border-color var(--transition), background var(--transition);
   white-space: nowrap;
   letter-spacing: 0.03em;
-  margin-left: auto;
+  margin-bottom: 4px;
 }
 
 .trends-btn:hover {

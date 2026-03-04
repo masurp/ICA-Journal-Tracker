@@ -86,6 +86,12 @@ JOURNALS = [
         "issns": ["1521-3269", "1532-785X"],
         "primary_issn": "1521-3269",
     },
+    {
+        "id": "communication_methods_measures",
+        "name": "Communication Methods and Measures",
+        "issns": ["1931-2458", "1931-2466"],
+        "primary_issn": "1931-2458",
+    },
     # ── Hogrefe ──────────────────────────────────────────────────────────────
     {
         "id": "journal_media_psychology",
