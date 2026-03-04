@@ -150,6 +150,7 @@ a:hover {
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
   flex: 1;
+  min-width: 0;
 }
 
 .publisher-nav::-webkit-scrollbar { display: none; }
@@ -204,6 +205,7 @@ a:hover {
 .publisher-nav-row {
   display: flex;
   align-items: center;
+  flex-wrap: nowrap;
   border-bottom: 1px solid var(--border);
   padding-right: 1rem;
 }

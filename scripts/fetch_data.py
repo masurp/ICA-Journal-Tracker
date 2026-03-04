@@ -3,8 +3,14 @@
 ICA Journal Tracker — Data Fetching Script
 Fetches paper metadata from Crossref and Semantic Scholar.
 Run locally or via GitHub Actions (weekly cron).
+
+Usage:
+  python3 fetch_data.py                  # fetch all journals
+  python3 fetch_data.py --journal jcmc   # fetch one journal by id
+  python3 fetch_data.py --force          # skip DOI cache, re-fetch all enrichment
 """
 
+import argparse
 import json
 import os
 import sys
@@ -30,6 +36,29 @@ S2_BASE = "https://api.semanticscholar.org/graph/v1/paper"
 ALTMETRIC_BASE = "https://api.altmetric.com/v1/doi"
 
 errors: list[str] = []
+
+
+# ── DOI cache ────────────────────────────────────────────────────────────────
+
+def load_doi_cache(journal_id: str) -> dict[str, dict]:
+    """Load existing enrichment data (topics + altmetric_score) keyed by DOI."""
+    path = DATA_DIR / f"{journal_id}.json"
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text())
+        cache: dict[str, dict] = {}
+        for section in data.get("sections", {}).values():
+            for paper in section:
+                doi = paper.get("doi", "").lower()
+                if doi:
+                    cache[doi] = {
+                        "topics": paper.get("topics", []),
+                        "altmetric_score": paper.get("altmetric_score"),
+                    }
+        return cache
+    except Exception:
+        return {}
 
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
@@ -104,11 +133,17 @@ def fetch_crossref(issn: str, sort: str, from_date: str = "2000") -> list[dict]:
     return [parse_crossref_paper(item) for item in items]
 
 
-def enrich_semantic_scholar(papers: list[dict]) -> None:
-    """Mutates papers in-place, adding topic labels from Semantic Scholar."""
+def enrich_semantic_scholar(papers: list[dict], doi_cache: dict[str, dict]) -> None:
+    """Mutates papers in-place, adding topic labels from Semantic Scholar.
+    Uses doi_cache to skip API calls for already-known DOIs."""
     seen: dict[str, list[str]] = {}
     for paper in papers:
-        doi = paper["doi"]
+        doi = paper["doi"].lower()
+        # Hit local cache first
+        if doi in doi_cache and doi_cache[doi]["topics"]:
+            paper["topics"] = doi_cache[doi]["topics"]
+            seen[doi] = doi_cache[doi]["topics"]
+            continue
         if doi in seen:
             paper["topics"] = seen[doi]
             continue
@@ -131,23 +166,30 @@ def enrich_semantic_scholar(papers: list[dict]) -> None:
         paper["topics"] = seen[doi]
 
 
-def enrich_altmetric(papers: list[dict]) -> None:
-    """Mutates papers in-place, adding Altmetric attention scores."""
+def enrich_altmetric(papers: list[dict], doi_cache: dict[str, dict]) -> None:
+    """Mutates papers in-place, adding Altmetric attention scores.
+    Uses doi_cache to skip API calls for already-known DOIs."""
     seen: dict[str, float | None] = {}
     for paper in papers:
-        doi = paper["doi"]
+        doi = paper["doi"].lower()
+        # Hit local cache first (None means "we looked and found nothing" — still skip)
+        if doi in doi_cache and "altmetric_score" in doi_cache[doi]:
+            paper["altmetric_score"] = doi_cache[doi]["altmetric_score"]
+            seen[doi] = doi_cache[doi]["altmetric_score"]
+            continue
         if doi in seen:
             paper["altmetric_score"] = seen[doi]
             continue
         data = get(f"{ALTMETRIC_BASE}/{doi}")
-        time.sleep(1.5)
         if not data:
             seen[doi] = None
             paper["altmetric_score"] = None
+            time.sleep(0.3)  # short pause on 404/miss — no rate limit needed
             continue
         score = data.get("score")
         seen[doi] = round(score, 1) if score is not None else None
         paper["altmetric_score"] = seen[doi]
+        time.sleep(1.5)  # rate-limit only on successful hits
 
 
 # ── Per-journal pipeline ──────────────────────────────────────────────────────
@@ -163,7 +205,7 @@ def deduplicate(papers: list[dict]) -> list[dict]:
     return result
 
 
-def fetch_journal(journal: dict) -> dict:
+def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
     name = journal["name"]
     issn = journal["primary_issn"]
     print(f"\n{'─'*60}")
@@ -177,22 +219,23 @@ def fetch_journal(journal: dict) -> dict:
     cited = fetch_crossref(issn, sort="is-referenced-by-count")
     print(f"        {len(cited)} papers returned")
 
-    print("  [1/4] Crossref — latest…")
+    print("  [2/4] Crossref — latest…")
     latest = fetch_crossref(issn, sort="published")
     print(f"        {len(latest)} papers returned")
 
-    print(f"  [1/4] Crossref — trending (since {trending_from})…")
+    print(f"  [3/4] Crossref — trending (since {trending_from})…")
     trending = fetch_crossref(issn, sort="is-referenced-by-count", from_date=trending_from)
     print(f"        {len(trending)} papers returned")
 
     all_papers = deduplicate(cited + latest + trending)
-    print(f"  Unique papers to enrich: {len(all_papers)}")
+    cached = sum(1 for p in all_papers if p["doi"].lower() in doi_cache)
+    print(f"  Unique papers to enrich: {len(all_papers)} ({cached} cached, {len(all_papers) - cached} new)")
 
-    print("  [2/4] Semantic Scholar — topic labels…")
-    enrich_semantic_scholar(all_papers)
+    print("  [4/4] Semantic Scholar — topic labels…")
+    enrich_semantic_scholar(all_papers, doi_cache)
 
-    print("  [3/4] Altmetric — attention scores…")
-    enrich_altmetric(all_papers)
+    print("  [4/4] Altmetric — attention scores…")
+    enrich_altmetric(all_papers, doi_cache)
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
@@ -218,18 +261,46 @@ def fetch_journal(journal: dict) -> dict:
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
+    parser = argparse.ArgumentParser(description="ICA Journal Tracker — Data Fetch")
+    parser.add_argument(
+        "--journal", metavar="ID",
+        help="Fetch only this journal id (e.g. jcmc, communication_research). "
+             "Can be specified multiple times.",
+        action="append", dest="journals",
+    )
+    parser.add_argument(
+        "--force", action="store_true",
+        help="Ignore DOI cache — re-fetch all S2 and Altmetric data from scratch.",
+    )
+    args = parser.parse_args()
+
     DATA_DIR.mkdir(exist_ok=True)
     print(f"ICA Journal Tracker — Data Fetch")
     print(f"Time: {datetime.now(timezone.utc).isoformat()}")
     print(f"Mailto: {MAILTO or '(not set — using anonymous Crossref pool)'}")
     print(f"Output: {DATA_DIR}")
+    if args.force:
+        print("Mode: --force (DOI cache disabled)")
+
+    # Filter journals if --journal was given
+    journals = JOURNALS
+    if args.journals:
+        ids = set(args.journals)
+        journals = [j for j in JOURNALS if j["id"] in ids]
+        unknown = ids - {j["id"] for j in journals}
+        if unknown:
+            print(f"WARNING: unknown journal id(s): {', '.join(sorted(unknown))}")
+            print(f"Valid ids: {', '.join(j['id'] for j in JOURNALS)}")
+        if not journals:
+            sys.exit(1)
 
     successes = []
     failures = []
 
-    for journal in JOURNALS:
+    for journal in journals:
+        doi_cache = {} if args.force else load_doi_cache(journal["id"])
         try:
-            result = fetch_journal(journal)
+            result = fetch_journal(journal, doi_cache)
             out_path = DATA_DIR / f"{journal['id']}.json"
             out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
             total = sum(len(s) for s in result["sections"].values())
