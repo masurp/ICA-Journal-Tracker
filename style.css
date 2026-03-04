@@ -130,34 +130,96 @@ a:hover {
   flex-shrink: 0;
 }
 
-/* ── Journal Nav Tabs ─────────────────────────────────────────────────────── */
+/* ── Nav Wrapper (sticky two-level nav) ───────────────────────────────────── */
 
-.journal-nav {
-  background: var(--bg-nav);
-  border-bottom: 1px solid var(--border);
-  padding: 0.75rem 1.5rem;
-  display: flex;
-  gap: 0.5rem;
-  overflow-x: auto;
-  scrollbar-width: none;
-  -webkit-overflow-scrolling: touch;
+.nav-wrapper {
   position: sticky;
   top: 0;
   z-index: 10;
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border);
 }
 
-.journal-nav::-webkit-scrollbar {
-  display: none;
+/* ── Publisher Nav ────────────────────────────────────────────────────────── */
+
+.publisher-nav {
+  display: flex;
+  gap: 0.35rem;
+  padding: 0.7rem 1.5rem 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  border-bottom: 1px solid var(--border);
 }
+
+.publisher-nav::-webkit-scrollbar { display: none; }
+
+.publisher-btn {
+  flex-shrink: 0;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  padding: 0.45rem 0.9rem 0.6rem;
+  font-family: var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color var(--transition), border-color var(--transition);
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  margin-bottom: -1px;
+}
+
+.publisher-btn:hover {
+  color: var(--text-secondary);
+}
+
+.publisher-btn.active {
+  color: var(--pub-color);
+  border-bottom-color: var(--pub-color);
+}
+
+.pub-count {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 500;
+  background: rgba(255,255,255,0.07);
+  border-radius: var(--radius-pill);
+  padding: 0.1rem 0.4rem;
+  color: var(--text-muted);
+}
+
+.publisher-btn.active .pub-count {
+  background: color-mix(in srgb, var(--pub-color) 18%, transparent);
+  color: var(--pub-color);
+}
+
+/* ── Journal Nav Tabs ─────────────────────────────────────────────────────── */
+
+.journal-nav {
+  display: flex;
+  gap: 0.4rem;
+  padding: 0.6rem 1.5rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.journal-nav::-webkit-scrollbar { display: none; }
 
 .tab-btn {
   flex-shrink: 0;
   background: transparent;
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
-  padding: 0.5rem 1.1rem;
+  padding: 0.4rem 1rem;
   font-family: var(--font-body);
-  font-size: 0.8rem;
+  font-size: 0.78rem;
   font-weight: 600;
   color: var(--text-secondary);
   cursor: pointer;
@@ -179,8 +241,7 @@ a:hover {
   color: #fff;
   border-color: var(--journal-color);
   background: color-mix(in srgb, var(--journal-color) 15%, transparent);
-  box-shadow: 0 0 12px color-mix(in srgb, var(--journal-color) 30%, transparent),
-              inset 0 0 0 1px color-mix(in srgb, var(--journal-color) 40%, transparent);
+  box-shadow: 0 0 12px color-mix(in srgb, var(--journal-color) 25%, transparent);
 }
 
 .tab-short {
@@ -194,12 +255,8 @@ a:hover {
 }
 
 @media (min-width: 640px) {
-  .tab-name {
-    display: inline;
-  }
-  .tab-short {
-    display: none;
-  }
+  .tab-name { display: inline; }
+  .tab-short { display: none; }
 }
 
 /* ── Main Content ─────────────────────────────────────────────────────────── */
@@ -261,6 +318,24 @@ a:hover {
   margin-bottom: 2rem;
   gap: 1rem;
   flex-wrap: wrap;
+}
+
+.journal-header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.journal-publisher-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.65rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid;
+  white-space: nowrap;
 }
 
 .journal-name {

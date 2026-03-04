@@ -97,8 +97,8 @@ function renderSection(section, papers, journalColor) {
   `;
 }
 
-function renderJournalView(journal, data) {
-  const color = journal.color;
+function renderJournalView(journal, publisher, data) {
+  const color = publisher.color;
   document.documentElement.style.setProperty('--journal-color', color);
 
   const sectionsHtml = SECTIONS.map(sec => {
@@ -109,7 +109,10 @@ function renderJournalView(journal, data) {
   return `
     <div class="journal-view">
       <div class="journal-header">
-        <h2 class="journal-name">${escapeHtml(journal.name)}</h2>
+        <div class="journal-header-left">
+          <span class="journal-publisher-badge" style="background:color-mix(in srgb, ${color} 15%, transparent);color:${color};border-color:color-mix(in srgb, ${color} 30%, transparent)">${escapeHtml(publisher.name)}</span>
+          <h2 class="journal-name">${escapeHtml(journal.name)}</h2>
+        </div>
         <a class="journal-link" href="${escapeHtml(journal.url)}" target="_blank" rel="noopener">
           Visit journal ↗
         </a>
@@ -144,7 +147,8 @@ function escapeHtml(str) {
 
 // ── App State ───────────────────────────────────────────────────────────────
 
-let journals = [];
+let publishers = [];
+let activePublisherId = null;
 let activeJournalId = null;
 const dataCache = {};
 
@@ -156,24 +160,72 @@ async function init() {
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
       return r.json();
     });
-    journals = config.journals || [];
-    renderTabs();
-    if (journals.length > 0) {
-      await loadJournal(journals[0]);
+    publishers = config.publishers || [];
+    renderPublisherTabs();
+    if (publishers.length > 0) {
+      await selectPublisher(publishers[0]);
     }
   } catch (err) {
     showError(`Failed to load journal config: ${err.message}`);
   }
 }
 
-function renderTabs() {
+// ── Publisher tabs ──────────────────────────────────────────────────────────
+
+function renderPublisherTabs() {
+  const nav = document.getElementById('publisher-tabs');
+  nav.innerHTML = publishers.map(p => `
+    <button
+      class="publisher-btn"
+      role="tab"
+      data-publisher-id="${escapeHtml(p.id)}"
+      style="--pub-color: ${escapeHtml(p.color)}"
+      aria-selected="false"
+      aria-label="${escapeHtml(p.full_name)}"
+    >
+      <span class="pub-name">${escapeHtml(p.name)}</span>
+      <span class="pub-count">${p.journals.length}</span>
+    </button>
+  `).join('');
+
+  nav.querySelectorAll('.publisher-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pub = publishers.find(p => p.id === btn.dataset.publisherId);
+      if (pub) selectPublisher(pub, true);
+    });
+  });
+}
+
+function setActivePublisherTab(publisherId) {
+  document.querySelectorAll('.publisher-btn').forEach(btn => {
+    const isActive = btn.dataset.publisherId === publisherId;
+    btn.classList.toggle('active', isActive);
+    btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
+  });
+}
+
+async function selectPublisher(publisher) {
+  activePublisherId = publisher.id;
+  setActivePublisherTab(publisher.id);
+  document.documentElement.style.setProperty('--journal-color', publisher.color);
+
+  renderJournalTabs(publisher);
+
+  const firstJournal = publisher.journals[0];
+  if (firstJournal) {
+    await loadJournal(firstJournal, publisher);
+  }
+}
+
+// ── Journal tabs ────────────────────────────────────────────────────────────
+
+function renderJournalTabs(publisher) {
   const nav = document.getElementById('journal-tabs');
-  nav.innerHTML = journals.map(j => `
+  nav.innerHTML = publisher.journals.map(j => `
     <button
       class="tab-btn"
       role="tab"
       data-journal-id="${escapeHtml(j.id)}"
-      style="--journal-color: ${escapeHtml(j.color)}"
       aria-selected="false"
       aria-label="${escapeHtml(j.name)}"
     >
@@ -184,37 +236,34 @@ function renderTabs() {
 
   nav.querySelectorAll('.tab-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      const id = btn.dataset.journalId;
-      const journal = journals.find(j => j.id === id);
-      if (journal) loadJournal(journal);
+      const pub = publishers.find(p => p.id === activePublisherId);
+      const journal = pub?.journals.find(j => j.id === btn.dataset.journalId);
+      if (journal && pub) loadJournal(journal, pub);
     });
   });
 }
 
-function setActiveTab(journalId) {
-  const tabs = document.querySelectorAll('.tab-btn');
-  tabs.forEach(btn => {
+function setActiveJournalTab(journalId) {
+  document.querySelectorAll('.tab-btn').forEach(btn => {
     const isActive = btn.dataset.journalId === journalId;
     btn.classList.toggle('active', isActive);
     btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
     if (isActive) {
-      // scroll tab into view on mobile
       btn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
     }
   });
 }
 
-async function loadJournal(journal) {
+// ── Journal loading ─────────────────────────────────────────────────────────
+
+async function loadJournal(journal, publisher) {
   if (activeJournalId === journal.id) return;
   activeJournalId = journal.id;
-  setActiveTab(journal.id);
-
-  // Update root journal color for header accent
-  document.documentElement.style.setProperty('--journal-color', journal.color);
+  setActiveJournalTab(journal.id);
+  document.documentElement.style.setProperty('--journal-color', publisher.color);
 
   const main = document.getElementById('main-content');
 
-  // Show loading state only on first load of this journal
   if (!dataCache[journal.id]) {
     main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading ${escapeHtml(journal.short)} data…</p></div>`;
   }
@@ -228,7 +277,7 @@ async function loadJournal(journal) {
       dataCache[journal.id] = data;
     }
     const data = dataCache[journal.id];
-    main.innerHTML = renderJournalView(journal, data);
+    main.innerHTML = renderJournalView(journal, publisher, data);
     setLastUpdated(data.updated_at);
   } catch (err) {
     main.innerHTML = `<div class="error-state">⚠ Failed to load ${escapeHtml(journal.name)}: ${escapeHtml(err.message)}</div>`;

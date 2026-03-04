@@ -1,52 +1,141 @@
 {
-  "journals": [
+  "publishers": [
     {
-      "id": "journal_of_communication",
-      "name": "Journal of Communication",
-      "short": "JoC",
+      "id": "ica",
+      "name": "ICA",
+      "full_name": "International Communication Association",
       "color": "#4f8ef7",
-      "issns": ["0021-9916", "1460-2466"],
-      "url": "https://academic.oup.com/joc"
+      "journals": [
+        {
+          "id": "journal_of_communication",
+          "name": "Journal of Communication",
+          "short": "JoC",
+          "issns": ["0021-9916", "1460-2466"],
+          "url": "https://academic.oup.com/joc"
+        },
+        {
+          "id": "human_communication_research",
+          "name": "Human Communication Research",
+          "short": "HCR",
+          "issns": ["0360-3989", "1468-2958"],
+          "url": "https://academic.oup.com/hcr"
+        },
+        {
+          "id": "communication_theory",
+          "name": "Communication Theory",
+          "short": "CT",
+          "issns": ["1050-3293", "1468-2885"],
+          "url": "https://academic.oup.com/ct"
+        },
+        {
+          "id": "jcmc",
+          "name": "Journal of Computer-Mediated Communication",
+          "short": "JCMC",
+          "issns": ["1083-6101"],
+          "url": "https://academic.oup.com/jcmc"
+        },
+        {
+          "id": "communication_culture_critique",
+          "name": "Communication, Culture & Critique",
+          "short": "CCC",
+          "issns": ["1753-9129", "1753-9137"],
+          "url": "https://academic.oup.com/ccc"
+        },
+        {
+          "id": "annals_ica",
+          "name": "Annals of the ICA",
+          "short": "Annals",
+          "issns": ["2380-8985", "2380-8977"],
+          "url": "https://academic.oup.com/anncom"
+        }
+      ]
     },
     {
-      "id": "human_communication_research",
-      "name": "Human Communication Research",
-      "short": "HCR",
-      "color": "#3ecf8e",
-      "issns": ["0360-3989", "1468-2958"],
-      "url": "https://academic.oup.com/hcr"
+      "id": "sage",
+      "name": "SAGE",
+      "full_name": "SAGE Publications",
+      "color": "#f97316",
+      "journals": [
+        {
+          "id": "communication_research",
+          "name": "Communication Research",
+          "short": "CR",
+          "issns": ["0093-6502", "1552-3810"],
+          "url": "https://journals.sagepub.com/home/crx"
+        },
+        {
+          "id": "new_media_society",
+          "name": "New Media & Society",
+          "short": "NM&S",
+          "issns": ["1461-4448", "1461-7315"],
+          "url": "https://journals.sagepub.com/home/nms"
+        },
+        {
+          "id": "social_media_society",
+          "name": "Social Media + Society",
+          "short": "SM+S",
+          "issns": ["2056-3051"],
+          "url": "https://journals.sagepub.com/home/sms"
+        },
+        {
+          "id": "mobile_media_communication",
+          "name": "Mobile Media & Communication",
+          "short": "MM&C",
+          "issns": ["2050-1579", "2050-1587"],
+          "url": "https://journals.sagepub.com/home/mmc"
+        }
+      ]
     },
     {
-      "id": "communication_theory",
-      "name": "Communication Theory",
-      "short": "CT",
+      "id": "tandf",
+      "name": "Taylor & Francis",
+      "full_name": "Taylor & Francis",
+      "color": "#2dd4bf",
+      "journals": [
+        {
+          "id": "political_communication",
+          "name": "Political Communication",
+          "short": "PolComm",
+          "issns": ["1058-4609", "1091-7675"],
+          "url": "https://www.tandfonline.com/journals/upcp20"
+        },
+        {
+          "id": "information_communication_society",
+          "name": "Information, Communication & Society",
+          "short": "ICS",
+          "issns": ["1369-118X", "1468-4462"],
+          "url": "https://www.tandfonline.com/journals/rics20"
+        },
+        {
+          "id": "digital_journalism",
+          "name": "Digital Journalism",
+          "short": "DigJ",
+          "issns": ["2167-0811", "2167-082X"],
+          "url": "https://www.tandfonline.com/journals/rdij20"
+        },
+        {
+          "id": "media_psychology_tandf",
+          "name": "Media Psychology",
+          "short": "MedPsy",
+          "issns": ["1521-3269", "1532-785X"],
+          "url": "https://www.tandfonline.com/journals/hmep20"
+        }
+      ]
+    },
+    {
+      "id": "hogrefe",
+      "name": "Hogrefe",
+      "full_name": "Hogrefe Publishing",
       "color": "#a78bfa",
-      "issns": ["1050-3293", "1468-2885"],
-      "url": "https://academic.oup.com/ct"
-    },
-    {
-      "id": "jcmc",
-      "name": "Journal of Computer-Mediated Communication",
-      "short": "JCMC",
-      "color": "#f59e0b",
-      "issns": ["1083-6101"],
-      "url": "https://academic.oup.com/jcmc"
-    },
-    {
-      "id": "communication_culture_critique",
-      "name": "Communication, Culture & Critique",
-      "short": "CCC",
-      "color": "#f87171",
-      "issns": ["1753-9129", "1753-9137"],
-      "url": "https://academic.oup.com/ccc"
-    },
-    {
-      "id": "annals_ica",
-      "name": "Annals of the ICA",
-      "short": "Annals",
-      "color": "#22d3ee",
-      "issns": ["2380-8985", "2380-8977"],
-      "url": "https://academic.oup.com/anncom"
+      "journals": [
+        {
+          "id": "journal_media_psychology",
+          "name": "Journal of Media Psychology",
+          "short": "JMedPsy",
+          "issns": ["1864-1105", "2151-2388"],
+          "url": "https://www.hogrefe.com/us/journal/journal-of-media-psychology"
+        }
+      ]
     }
   ]
 }
