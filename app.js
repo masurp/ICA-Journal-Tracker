@@ -10,7 +10,7 @@ const CITE_MODES = {
   trending: {
     key: 'trending',
     label: 'Trending',
-    tooltip: 'Papers published in the last 12 months, ranked by citation count. Shows what\'s gaining traction right now.',
+    tooltip: 'Papers published in the last 2 years, ranked by citation count. Shows what\'s gaining traction recently.',
   },
 };
 
@@ -35,18 +35,26 @@ const TOPIC_PALETTE = [
   { bg: 'rgba(163,230,53,0.18)',   text: '#bef264' },
 ];
 
+// Stop words for title keyword extraction
+const STOP_WORDS = new Set([
+  'the','and','for','are','but','not','you','all','can','had','her','was','one',
+  'our','out','get','has','him','his','how','man','new','now','old','see','two',
+  'way','who','its','let','put','say','she','too','use','this','that','with',
+  'from','they','have','been','than','your','more','will','into','just','some',
+  'such','then','them','well','were','what','when','which','about','after','also',
+  'back','even','most','over','same','take','does','each','make','many','much',
+  'only','other','very','these','those','their','there','would','could','should',
+  'being','between','through','during','without','across','using','used','based',
+  'study','paper','case','role','effects','news','online','among','toward',
+  'across','within','beyond','between','under','upon','both','here','there',
+]);
+
 function topicColor(topic) {
   let hash = 0;
   for (let i = 0; i < topic.length; i++) {
     hash = (hash * 31 + topic.charCodeAt(i)) >>> 0;
   }
   return TOPIC_PALETTE[hash % TOPIC_PALETTE.length];
-}
-
-function formatAuthors(authors) {
-  if (!authors || authors.length === 0) return 'Unknown authors';
-  if (authors.length <= 3) return authors.join(', ');
-  return authors.slice(0, 3).join(', ') + ' et al.';
 }
 
 function renderTopics(topics) {
@@ -58,11 +66,22 @@ function renderTopics(topics) {
   return `<div class="paper-topics">${chips.join('')}</div>`;
 }
 
+function renderAuthorLinks(authors) {
+  if (!authors || authors.length === 0) return '<span>Unknown authors</span>';
+  const displayed = authors.slice(0, 3).map(name =>
+    `<a href="https://scholar.google.com/scholar?q=author%3A%22${encodeURIComponent(name)}%22" target="_blank" rel="noopener noreferrer">${escapeHtml(name)}</a>`
+  );
+  const suffix = authors.length > 3 ? ' et al.' : '';
+  return displayed.join(', ') + suffix;
+}
+
 function renderCard(paper, rank) {
   const rankStr = `#${rank}`;
-  const authorsStr = formatAuthors(paper.authors);
   const yearStr = paper.year || '—';
   const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
+  const altStr = paper.altmetric_score != null
+    ? `<span class="meta-badge"><span class="badge-icon">🌐</span>${paper.altmetric_score} Altmetric</span>`
+    : '';
 
   return `
     <article class="paper-card">
@@ -73,7 +92,7 @@ function renderCard(paper, rank) {
           ${escapeHtml(paper.title)}
         </a>
       </div>
-      <div class="paper-authors">${escapeHtml(authorsStr)}</div>
+      <div class="paper-authors">${renderAuthorLinks(paper.authors)}</div>
       <div class="paper-footer">
         <div class="paper-meta">
           <span class="meta-badge">
@@ -82,6 +101,7 @@ function renderCard(paper, rank) {
           <span class="meta-badge">
             <span class="badge-icon">🔗</span>${citStr} citations
           </span>
+          ${altStr}
         </div>
       </div>
     </article>
@@ -98,7 +118,7 @@ function renderCiteSection(data, journalId, journalColor) {
 
   const trendingFrom = data.trending_from
     ? new Date(data.trending_from).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })
-    : 'last 12 months';
+    : 'last 2 years';
 
   return `
     <div class="section-col" id="cite-section-${escapeHtml(journalId)}">
@@ -191,14 +211,189 @@ function escapeHtml(str) {
     .replace(/'/g, '&#39;');
 }
 
-// ── App State ───────────────────────────────────────────────────────────────
+// ── Trends ───────────────────────────────────────────────────────────────────
+
+function extractTopWords(papers, topN = 30) {
+  const counts = {};
+  for (const paper of papers) {
+    if (!paper.title) continue;
+    const words = paper.title.toLowerCase().split(/[^a-z]+/).filter(w =>
+      w.length >= 4 && !STOP_WORDS.has(w)
+    );
+    for (const w of words) {
+      counts[w] = (counts[w] || 0) + 1;
+    }
+  }
+  return Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, topN)
+    .map(([word, count]) => ({ word, count }));
+}
+
+async function renderTrendsView() {
+  trendsActive = true;
+  activeJournalId = null;
+  document.querySelectorAll('.tab-btn').forEach(b => {
+    b.classList.remove('active');
+    b.setAttribute('aria-selected', 'false');
+  });
+  document.getElementById('trends-btn')?.classList.add('active');
+
+  const main = document.getElementById('main-content');
+  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading trends across all journals…</p></div>`;
+
+  await loadAllJournals();
+
+  const allPapers = getAllPapers();
+  const topWords = extractTopWords(allPapers);
+
+  if (topWords.length === 0) {
+    main.innerHTML = `<div class="error-state">No title data available.</div>`;
+    return;
+  }
+
+  const maxCount = topWords[0].count;
+  const rows = topWords.map(({ word, count }) => {
+    const pct = Math.round((count / maxCount) * 100);
+    return `
+      <div class="chart-row">
+        <span class="chart-label">${escapeHtml(word)}</span>
+        <div class="chart-bar-wrap">
+          <div class="chart-bar" style="width:${pct}%">
+            <span class="chart-count">${count}</span>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  main.innerHTML = `
+    <div class="trends-view">
+      <div class="trends-header">
+        <h2 class="trends-title">Keyword Trends</h2>
+        <p class="trends-sub">Most frequent words in paper titles across all 15 journals — based on ${allPapers.length} unique papers</p>
+      </div>
+      <div class="trends-chart">${rows}</div>
+    </div>
+  `;
+}
+
+// ── Search ───────────────────────────────────────────────────────────────────
+
+let searchDebounce = null;
+
+function initSearch() {
+  const input = document.getElementById('search-input');
+  if (!input) return;
+  input.addEventListener('input', () => {
+    clearTimeout(searchDebounce);
+    const q = input.value.trim();
+    if (!q) {
+      restoreJournalView();
+      return;
+    }
+    searchDebounce = setTimeout(() => performSearch(q), 250);
+  });
+}
+
+async function loadAllJournals() {
+  const fetches = [];
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      if (!dataCache[journal.id]) {
+        fetches.push(
+          fetch(`data/${journal.id}.json`)
+            .then(r => r.ok ? r.json() : null)
+            .then(data => { if (data) dataCache[journal.id] = data; })
+            .catch(() => {})
+        );
+      }
+    }
+  }
+  await Promise.all(fetches);
+}
+
+function getAllPapers() {
+  const seen = new Set();
+  const results = [];
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const section of Object.values(data.sections)) {
+        for (const paper of section) {
+          if (paper.doi && !seen.has(paper.doi)) {
+            seen.add(paper.doi);
+            results.push({ ...paper, _journalName: journal.name });
+          }
+        }
+      }
+    }
+  }
+  return results;
+}
+
+async function performSearch(query) {
+  trendsActive = false;
+  document.getElementById('trends-btn')?.classList.remove('active');
+  const main = document.getElementById('main-content');
+  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Searching across all journals…</p></div>`;
+
+  await loadAllJournals();
+
+  const q = query.toLowerCase();
+  const results = getAllPapers()
+    .filter(p =>
+      p.title?.toLowerCase().includes(q) ||
+      p.authors?.some(a => a.toLowerCase().includes(q))
+    )
+    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0));
+
+  main.innerHTML = renderSearchResults(query, results);
+}
+
+function renderSearchResults(query, results) {
+  const header = `
+    <div class="search-results-header">
+      ${results.length} paper${results.length !== 1 ? 's' : ''} matching <em>"${escapeHtml(query)}"</em> across all journals
+    </div>
+  `;
+
+  if (results.length === 0) {
+    return `<div class="search-results">${header}<div class="empty-card" style="margin-top:1rem">No papers found. Try a different keyword.</div></div>`;
+  }
+
+  const cards = results.map((paper, i) => `
+    <div class="search-result-item">
+      <div class="search-journal-label">${escapeHtml(paper._journalName)}</div>
+      ${renderCard(paper, i + 1)}
+    </div>
+  `).join('');
+
+  return `<div class="search-results">${header}<div class="search-cards">${cards}</div></div>`;
+}
+
+function restoreJournalView() {
+  trendsActive = false;
+  document.getElementById('trends-btn')?.classList.remove('active');
+  const pub = publishers.find(p => p.id === activePublisherId);
+  const journal = pub?.journals.find(j => j.id === activeJournalId);
+  if (!journal || !pub || !dataCache[journal.id]) return;
+  const main = document.getElementById('main-content');
+  main.innerHTML = renderJournalView(journal, pub, dataCache[journal.id]);
+  setLastUpdated(dataCache[journal.id].updated_at);
+  bindToggleButtons(journal, pub);
+}
+
+// ── App State ────────────────────────────────────────────────────────────────
 
 let publishers = [];
 let activePublisherId = null;
 let activeJournalId = null;
+let trendsActive = false;
 const dataCache = {};
 
-// ── Init ────────────────────────────────────────────────────────────────────
+// ── Init ─────────────────────────────────────────────────────────────────────
 
 async function init() {
   try {
@@ -208,6 +403,12 @@ async function init() {
     });
     publishers = config.publishers || [];
     renderPublisherTabs();
+    initSearch();
+    document.getElementById('trends-btn')?.addEventListener('click', () => {
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) searchInput.value = '';
+      renderTrendsView();
+    });
     if (publishers.length > 0) {
       await selectPublisher(publishers[0]);
     }
@@ -216,7 +417,7 @@ async function init() {
   }
 }
 
-// ── Publisher tabs ──────────────────────────────────────────────────────────
+// ── Publisher tabs ────────────────────────────────────────────────────────────
 
 function renderPublisherTabs() {
   const nav = document.getElementById('publisher-tabs');
@@ -237,7 +438,7 @@ function renderPublisherTabs() {
   nav.querySelectorAll('.publisher-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const pub = publishers.find(p => p.id === btn.dataset.publisherId);
-      if (pub) selectPublisher(pub, true);
+      if (pub) selectPublisher(pub);
     });
   });
 }
@@ -252,6 +453,12 @@ function setActivePublisherTab(publisherId) {
 
 async function selectPublisher(publisher) {
   activePublisherId = publisher.id;
+  activeJournalId = null;
+  trendsActive = false;
+  document.getElementById('trends-btn')?.classList.remove('active');
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) searchInput.value = '';
+
   setActivePublisherTab(publisher.id);
   document.documentElement.style.setProperty('--journal-color', publisher.color);
 
@@ -263,7 +470,7 @@ async function selectPublisher(publisher) {
   }
 }
 
-// ── Journal tabs ────────────────────────────────────────────────────────────
+// ── Journal tabs ──────────────────────────────────────────────────────────────
 
 function renderJournalTabs(publisher) {
   const nav = document.getElementById('journal-tabs');
@@ -300,29 +507,36 @@ function setActiveJournalTab(journalId) {
   });
 }
 
-// ── Journal loading ─────────────────────────────────────────────────────────
+// ── Journal loading ───────────────────────────────────────────────────────────
 
 async function loadJournal(journal, publisher) {
-  if (activeJournalId === journal.id) return;
+  trendsActive = false;
+  document.getElementById('trends-btn')?.classList.remove('active');
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) searchInput.value = '';
+
   activeJournalId = journal.id;
   setActiveJournalTab(journal.id);
   document.documentElement.style.setProperty('--journal-color', publisher.color);
 
   const main = document.getElementById('main-content');
 
-  if (!dataCache[journal.id]) {
-    main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading ${escapeHtml(journal.short)} data…</p></div>`;
+  if (dataCache[journal.id]) {
+    main.innerHTML = renderJournalView(journal, publisher, dataCache[journal.id]);
+    setLastUpdated(dataCache[journal.id].updated_at);
+    bindToggleButtons(journal, publisher);
+    return;
   }
 
+  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading ${escapeHtml(journal.short)} data…</p></div>`;
+
   try {
-    if (!dataCache[journal.id]) {
-      const data = await fetch(`data/${journal.id}.json`).then(r => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      });
-      dataCache[journal.id] = data;
-    }
-    const data = dataCache[journal.id];
+    const data = await fetch(`data/${journal.id}.json`).then(r => {
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      return r.json();
+    });
+    dataCache[journal.id] = data;
+    if (activeJournalId !== journal.id) return;
     main.innerHTML = renderJournalView(journal, publisher, data);
     setLastUpdated(data.updated_at);
     bindToggleButtons(journal, publisher);
@@ -352,6 +566,6 @@ function showError(msg) {
     `<div class="error-state">⚠ ${escapeHtml(msg)}</div>`;
 }
 
-// ── Boot ────────────────────────────────────────────────────────────────────
+// ── Boot ──────────────────────────────────────────────────────────────────────
 
 document.addEventListener('DOMContentLoaded', init);

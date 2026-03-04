@@ -1,7 +1,7 @@
 {
   "journal_id": "jcmc",
-  "updated_at": "2026-03-04T17:08:58Z",
-  "trending_from": "2025-03-04",
+  "updated_at": "2026-03-04T19:18:47Z",
+  "trending_from": "2024-03-04",
   "sections": {
     "most_cited": [
       {
@@ -186,100 +186,98 @@
     ],
     "trending": [
       {
-        "doi": "10.1093/jcmc/zmaf013",
-        "title": "AI-mediated social support: the prospect of human–AI collaboration",
+        "doi": "10.1093/jcmc/zmae015",
+        "title": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots",
         "authors": [
-          "Jingbo Meng",
-          "Renwen Zhang",
-          "Jiaqi Qin",
-          "Yu-Jen Lee",
-          "Yi-Chieh Lee"
+          "Han Li",
+          "Renwen Zhang"
         ],
-        "year": 2025,
-        "citation_count": 3,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmaf013"
-      },
-      {
-        "doi": "10.1093/jcmc/zmaf018",
-        "title": "How social media users adopt the toxic behaviors of ingroup and outgroup accounts",
-        "authors": [
-          "Alon Zoizner",
-          "Avraham Levy"
-        ],
-        "year": 2025,
-        "citation_count": 3,
+        "year": 2024,
+        "citation_count": 53,
         "topics": [
-          "Sociology",
-          "Political Science"
+          "Computer Science"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf018"
+        "url": "https://doi.org/10.1093/jcmc/zmae015"
       },
       {
-        "doi": "10.1093/jcmc/zmaf006",
-        "title": "Illuminating the relative dominance of awareness and pervasiveness over visibility in organizational ICT affordances",
+        "doi": "10.1093/jcmc/zmae019",
+        "title": "Machine heuristic: concept explication and development of a measurement scale",
         "authors": [
-          "Ward van Zoonen",
-          "Ronald Rice",
-          "Anu Sivunen"
+          "Hyun Yang",
+          "S Shyam Sundar"
         ],
-        "year": 2025,
-        "citation_count": 3,
-        "topics": [
-          "Computer Science",
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf006"
-      },
-      {
-        "doi": "10.1093/jcmc/zmaf007",
-        "title": "First-level fundamentals: computer ownership is more important for internet benefits than in-home internet service",
-        "authors": [
-          "Amy L Gonzales",
-          "Ceciley (Xinyi) Zhang"
-        ],
-        "year": 2025,
-        "citation_count": 2,
-        "topics": [
-          "Computer Science",
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf007"
-      },
-      {
-        "doi": "10.1093/jcmc/zmaf014",
-        "title": "How cognitive elaboration fosters knowledge acquisition on social media—a field experiment",
-        "authors": [
-          "Luna T Frauhammer",
-          "Jana H Dreston"
-        ],
-        "year": 2025,
-        "citation_count": 2,
+        "year": 2024,
+        "citation_count": 31,
         "topics": [
           "Psychology",
-          "Education"
+          "Computer Science"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf014"
+        "url": "https://doi.org/10.1093/jcmc/zmae019"
       },
       {
-        "doi": "10.1093/jcmc/zmaf008",
-        "title": "Liking without borders? Authenticity and the evaluation of Instagram photo genres",
+        "doi": "10.1093/jcmc/zmae017",
+        "title": "The lonely algorithm problem: the relationship between algorithmic personalization and social connectedness on TikTok",
         "authors": [
-          "Tommaso Trillò",
-          "Blake Hallinan",
-          "Saki Mizoroki",
-          "Rebecca Scharlach",
-          "Pyung Hwa Park",
-          "Avishai Green",
-          "Naama Weiss Yaniv",
-          "Limor Shifman"
+          "Samuel Hardman Taylor",
+          "Y Anthony Chen"
         ],
-        "year": 2025,
-        "citation_count": 2,
+        "year": 2024,
+        "citation_count": 20,
         "topics": [
+          "Computer Science",
           "Sociology"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf008"
+        "url": "https://doi.org/10.1093/jcmc/zmae017"
+      },
+      {
+        "doi": "10.1093/jcmc/zmae008",
+        "title": "Enabling and constraining factors of remote informal communication: a socio-technical systems perspective",
+        "authors": [
+          "Vanessa Begemann",
+          "Lisa Handke",
+          "Nale Lehmann-Willenbrock"
+        ],
+        "year": 2024,
+        "citation_count": 16,
+        "topics": [
+          "Sociology",
+          "Computer Science"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmae008"
+      },
+      {
+        "doi": "10.1093/jcmc/zmae022",
+        "title": "Tailoring generative AI chatbots for multiethnic communities in disaster preparedness communication: extending the CASA paradigm",
+        "authors": [
+          "Xinyan Zhao",
+          "Yuan Sun",
+          "Wenlin Liu",
+          "Chau-Wai Wong"
+        ],
+        "year": 2025,
+        "citation_count": 15,
+        "topics": [
+          "Sociology",
+          "Computer Science",
+          "Environmental Science"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmae022"
+      },
+      {
+        "doi": "10.1093/jcmc/zmae016",
+        "title": "Reinvention mediates impacts of skin tone bias in algorithms: implications for technology diffusion",
+        "authors": [
+          "Hannah Overbye-Thompson",
+          "Kristy A Hamilton",
+          "Dana Mastro"
+        ],
+        "year": 2024,
+        "citation_count": 12,
+        "topics": [
+          "Psychology",
+          "Computer Science"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmae016"
       }
     ]
   }

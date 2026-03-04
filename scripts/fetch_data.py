@@ -27,6 +27,7 @@ ROWS = 10       # fetch more than needed so we have room to deduplicate
 TOP_N = 6       # papers shown per section
 CROSSREF_BASE = "https://api.crossref.org/works"
 S2_BASE = "https://api.semanticscholar.org/graph/v1/paper"
+ALTMETRIC_BASE = "https://api.altmetric.com/v1/doi"
 
 errors: list[str] = []
 
@@ -81,6 +82,7 @@ def parse_crossref_paper(item: dict) -> dict:
         "authors": authors,
         "year": year,
         "citation_count": citations,
+        "altmetric_score": None,
         "topics": [],
         "url": f"https://doi.org/{doi}" if doi else "",
     }
@@ -129,6 +131,25 @@ def enrich_semantic_scholar(papers: list[dict]) -> None:
         paper["topics"] = seen[doi]
 
 
+def enrich_altmetric(papers: list[dict]) -> None:
+    """Mutates papers in-place, adding Altmetric attention scores."""
+    seen: dict[str, float | None] = {}
+    for paper in papers:
+        doi = paper["doi"]
+        if doi in seen:
+            paper["altmetric_score"] = seen[doi]
+            continue
+        data = get(f"{ALTMETRIC_BASE}/{doi}")
+        time.sleep(1.5)
+        if not data:
+            seen[doi] = None
+            paper["altmetric_score"] = None
+            continue
+        score = data.get("score")
+        seen[doi] = round(score, 1) if score is not None else None
+        paper["altmetric_score"] = seen[doi]
+
+
 # ── Per-journal pipeline ──────────────────────────────────────────────────────
 
 def deduplicate(papers: list[dict]) -> list[dict]:
@@ -149,26 +170,29 @@ def fetch_journal(journal: dict) -> dict:
     print(f"  {name} ({issn})")
     print(f"{'─'*60}")
 
-    # Trending window: papers published in the last 12 months
-    trending_from = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
+    # Trending window: papers published in the last 2 years
+    trending_from = (datetime.now(timezone.utc) - timedelta(days=730)).strftime("%Y-%m-%d")
 
-    print("  [1/3] Crossref — most cited (all time)…")
+    print("  [1/4] Crossref — most cited (all time)…")
     cited = fetch_crossref(issn, sort="is-referenced-by-count")
     print(f"        {len(cited)} papers returned")
 
-    print("  [1/3] Crossref — latest…")
+    print("  [1/4] Crossref — latest…")
     latest = fetch_crossref(issn, sort="published")
     print(f"        {len(latest)} papers returned")
 
-    print(f"  [1/3] Crossref — trending (since {trending_from})…")
+    print(f"  [1/4] Crossref — trending (since {trending_from})…")
     trending = fetch_crossref(issn, sort="is-referenced-by-count", from_date=trending_from)
     print(f"        {len(trending)} papers returned")
 
     all_papers = deduplicate(cited + latest + trending)
     print(f"  Unique papers to enrich: {len(all_papers)}")
 
-    print("  [2/3] Semantic Scholar — topic labels…")
+    print("  [2/4] Semantic Scholar — topic labels…")
     enrich_semantic_scholar(all_papers)
+
+    print("  [3/4] Altmetric — attention scores…")
+    enrich_altmetric(all_papers)
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
