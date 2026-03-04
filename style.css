@@ -290,26 +290,14 @@ a:hover {
 
 .sections-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
   align-items: start;
-}
-
-@media (max-width: 900px) {
-  .sections-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-  .section-col:last-child {
-    grid-column: span 2;
-  }
 }
 
 @media (max-width: 600px) {
   .sections-grid {
     grid-template-columns: 1fr;
-  }
-  .section-col:last-child {
-    grid-column: span 1;
   }
 }
 
@@ -499,34 +487,6 @@ a:hover {
   font-size: 0.65rem;
 }
 
-.altmetric-badge {
-  font-family: var(--font-mono);
-  font-size: 0.68rem;
-  font-weight: 600;
-  padding: 0.18rem 0.55rem;
-  border-radius: var(--radius-pill);
-  background: rgba(255,255,255,0.04);
-  border: 1px solid rgba(255,255,255,0.08);
-  color: var(--text-secondary);
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  white-space: nowrap;
-}
-
-.altmetric-badge.notable {
-  background: color-mix(in srgb, #f59e0b 12%, transparent);
-  border-color: color-mix(in srgb, #f59e0b 30%, transparent);
-  color: #fbbf24;
-  box-shadow: 0 0 8px color-mix(in srgb, #f59e0b 20%, transparent);
-}
-
-.altmetric-badge.viral {
-  background: color-mix(in srgb, #f87171 12%, transparent);
-  border-color: color-mix(in srgb, #f87171 35%, transparent);
-  color: #fca5a5;
-  box-shadow: 0 0 10px color-mix(in srgb, #f87171 20%, transparent);
-}
 
 /* ── Empty State ──────────────────────────────────────────────────────────── */
 

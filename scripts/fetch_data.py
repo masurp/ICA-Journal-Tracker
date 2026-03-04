@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ICA Journal Tracker — Data Fetching Script
-Fetches paper metadata from Crossref, Semantic Scholar, and Altmetric.
+Fetches paper metadata from Crossref and Semantic Scholar.
 Run locally or via GitHub Actions (weekly cron).
 """
 
@@ -20,14 +20,13 @@ from journal_config import JOURNALS
 
 MAILTO = os.environ.get("MAILTO", "")
 HEADERS = {
-    "User-Agent": f"ICA-Journal-Tracker/1.0 (https://github.com/philippmasur/ICA-Journal-Tracker; mailto:{MAILTO})"
+    "User-Agent": f"ICA-Journal-Tracker/1.0 (https://github.com/masurp/ICA-Journal-Tracker; mailto:{MAILTO})"
 }
 DATA_DIR = Path(__file__).parent.parent / "data"
 ROWS = 10       # fetch more than needed so we have room to deduplicate
 TOP_N = 6       # papers shown per section
 CROSSREF_BASE = "https://api.crossref.org/works"
 S2_BASE = "https://api.semanticscholar.org/graph/v1/paper"
-ALTMETRIC_BASE = "https://api.altmetric.com/v1/doi"
 
 errors: list[str] = []
 
@@ -82,7 +81,6 @@ def parse_crossref_paper(item: dict) -> dict:
         "authors": authors,
         "year": year,
         "citation_count": citations,
-        "altmetric_score": 0.0,
         "topics": [],
         "url": f"https://doi.org/{doi}" if doi else "",
     }
@@ -118,11 +116,9 @@ def enrich_semantic_scholar(papers: list[dict]) -> None:
             seen[doi] = []
             continue
         fields = data.get("s2FieldsOfStudy", [])
-        # Prefer model-predicted categories; fall back to external ones
         model_cats = [f["category"] for f in fields if f.get("source") == "s2-fos-model"]
         ext_cats = [f["category"] for f in fields if f.get("source") == "external"]
         topics = model_cats or ext_cats
-        # Deduplicate while preserving order
         seen_topics: set[str] = set()
         unique_topics = []
         for t in topics:
@@ -131,21 +127,6 @@ def enrich_semantic_scholar(papers: list[dict]) -> None:
                 unique_topics.append(t)
         seen[doi] = unique_topics[:4]
         paper["topics"] = seen[doi]
-
-
-def enrich_altmetric(papers: list[dict]) -> None:
-    """Mutates papers in-place, adding Altmetric Attention Scores."""
-    seen: dict[str, float] = {}
-    for paper in papers:
-        doi = paper["doi"]
-        if doi in seen:
-            paper["altmetric_score"] = seen[doi]
-            continue
-        data = get(f"{ALTMETRIC_BASE}/{doi}")
-        time.sleep(1.5)
-        score = float(data.get("score", 0.0)) if data else 0.0
-        seen[doi] = score
-        paper["altmetric_score"] = score
 
 
 # ── Per-journal pipeline ──────────────────────────────────────────────────────
@@ -168,25 +149,20 @@ def fetch_journal(journal: dict) -> dict:
     print(f"  {name} ({issn})")
     print(f"{'─'*60}")
 
-    print("  [1/3] Crossref — most cited…")
+    print("  [1/2] Crossref — most cited…")
     cited = fetch_crossref(issn, sort="is-referenced-by-count")
     print(f"        {len(cited)} papers returned")
 
-    print("  [1/3] Crossref — latest…")
+    print("  [1/2] Crossref — latest…")
     latest = fetch_crossref(issn, sort="published")
     print(f"        {len(latest)} papers returned")
 
-    # Combine all unique papers for enrichment
     all_papers = deduplicate(cited + latest)
     print(f"  Unique papers to enrich: {len(all_papers)}")
 
-    print("  [2/3] Semantic Scholar — topic labels…")
+    print("  [2/2] Semantic Scholar — topic labels…")
     enrich_semantic_scholar(all_papers)
 
-    print("  [3/3] Altmetric — attention scores…")
-    enrich_altmetric(all_papers)
-
-    # Rebuild sections from enriched pool
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
     def enrich_list(papers: list[dict]) -> list[dict]:
@@ -195,16 +171,12 @@ def fetch_journal(journal: dict) -> dict:
     cited_enriched = enrich_list(cited)[:TOP_N]
     latest_enriched = enrich_list(latest)[:TOP_N]
 
-    # Most read = combined pool sorted by Altmetric score
-    most_read = sorted(all_papers, key=lambda p: p["altmetric_score"], reverse=True)[:TOP_N]
-
     return {
         "journal_id": journal["id"],
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "sections": {
             "most_cited": cited_enriched,
             "latest": latest_enriched,
-            "most_read": most_read,
         },
     }
 

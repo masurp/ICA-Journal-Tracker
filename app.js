@@ -2,11 +2,6 @@
 
 const SECTIONS = [
   {
-    key: 'most_read',
-    label: 'Most Read',
-    tooltip: 'Ranked by Altmetric Attention Score — a measure of online attention across news, social media, blogs, and policy documents. Publisher download counts are not publicly available.',
-  },
-  {
     key: 'most_cited',
     label: 'Most Cited',
     tooltip: 'Ranked by total citation count from Crossref. Includes all citations since publication.',
@@ -44,18 +39,6 @@ function formatAuthors(authors) {
   return authors.slice(0, 3).join(', ') + ' et al.';
 }
 
-function formatScore(score) {
-  if (score >= 1000) return (score / 1000).toFixed(1) + 'k';
-  if (score >= 100) return Math.round(score).toString();
-  return score.toFixed(score >= 10 ? 0 : 1);
-}
-
-function altmetricBadgeClass(score) {
-  if (score >= 100) return 'altmetric-badge viral';
-  if (score >= 20)  return 'altmetric-badge notable';
-  return 'altmetric-badge';
-}
-
 function renderTopics(topics) {
   if (!topics || topics.length === 0) return '';
   const chips = topics.slice(0, 3).map(topic => {
@@ -70,12 +53,6 @@ function renderCard(paper, rank) {
   const authorsStr = formatAuthors(paper.authors);
   const yearStr = paper.year || '—';
   const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
-
-  const altmetricHtml = paper.altmetric_score > 0
-    ? `<span class="${altmetricBadgeClass(paper.altmetric_score)}" title="Altmetric Attention Score">
-         ◈ ${formatScore(paper.altmetric_score)}
-       </span>`
-    : '';
 
   return `
     <article class="paper-card">
@@ -96,7 +73,6 @@ function renderCard(paper, rank) {
             <span class="badge-icon">🔗</span>${citStr} citations
           </span>
         </div>
-        ${altmetricHtml}
       </div>
     </article>
   `;
