@@ -277,50 +277,38 @@ async function renderOverview() {
   }
 
   // Sort and take top 10
-  const topCited = bySection.most_cited
-    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
-    .slice(0, 10);
-  const topTrending = bySection.trending
-    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
-    .slice(0, 10);
-  const topLatest = bySection.latest
-    .sort((a, b) => (b.year || 0) - (a.year || 0))
-    .slice(0, 10);
+  const overviewData = {
+    trending_from: Object.values(dataCache)[0]?.trending_from,
+    sections: {
+      most_cited: bySection.most_cited
+        .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
+        .slice(0, 10),
+      trending: bySection.trending
+        .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
+        .slice(0, 10),
+      latest: bySection.latest
+        .sort((a, b) => (b.year || 0) - (a.year || 0))
+        .slice(0, 10),
+    },
+  };
+  dataCache['_overview'] = overviewData;
 
-  function overviewSection(title, tooltip, papers) {
-    const cards = papers.map((p, i) => `
-      <div class="search-result-item">
-        <div class="search-journal-label">${escapeHtml(p._journalName)}</div>
-        ${renderCard(p, i + 1)}
-      </div>
-    `).join('');
-    return `
-      <div class="section-col">
-        <div class="section-heading">
-          <span class="section-label">${escapeHtml(title)}</span>
-          <button class="section-info-btn" aria-label="Info">
-            ⓘ
-            <span class="section-tooltip">${escapeHtml(tooltip)}</span>
-          </button>
-        </div>
-        ${cards}
-      </div>
-    `;
-  }
+  const accentColor = 'var(--accent)';
+  const totalJournals = publishers.reduce((n, p) => n + p.journals.length, 0);
 
   main.innerHTML = `
     <div class="overview-view">
       <div class="overview-header">
         <h2 class="overview-title">All Journals — Overview</h2>
-        <p class="overview-sub">Top papers across all ${publishers.reduce((n, p) => n + p.journals.length, 0)} journals</p>
+        <p class="overview-sub">Top papers across all ${totalJournals} journals</p>
       </div>
       <div class="sections-grid">
-        ${overviewSection('Most Cited', 'Top 10 most-cited papers across all journals (Crossref).', topCited)}
-        ${overviewSection('Trending', 'Top 10 papers from the last 2 years by citation count, across all journals.', topTrending)}
-        ${overviewSection('Latest', 'The 10 most recently published papers across all journals.', topLatest)}
+        ${renderCiteSection(overviewData, '_overview', accentColor)}
+        ${renderLatestSection(overviewData, accentColor)}
       </div>
     </div>
   `;
+  bindToggleButtons({}, { color: accentColor });
 }
 
 async function renderTrendsView() {
@@ -520,7 +508,19 @@ async function init() {
 
 function renderPublisherTabs() {
   const nav = document.getElementById('publisher-tabs');
-  nav.innerHTML = publishers.map(p => `
+  const overviewBtn = `
+    <button
+      class="publisher-btn"
+      role="tab"
+      id="overview-btn"
+      style="--pub-color: var(--accent)"
+      aria-selected="false"
+      aria-label="Overview across all journals"
+    >
+      <span class="pub-name">Overview</span>
+    </button>
+  `;
+  const pubBtns = publishers.map(p => `
     <button
       class="publisher-btn"
       role="tab"
@@ -533,8 +533,9 @@ function renderPublisherTabs() {
       <span class="pub-count">${p.journals.length}</span>
     </button>
   `).join('');
+  nav.innerHTML = overviewBtn + pubBtns;
 
-  nav.querySelectorAll('.publisher-btn').forEach(btn => {
+  nav.querySelectorAll('.publisher-btn[data-publisher-id]').forEach(btn => {
     btn.addEventListener('click', () => {
       const pub = publishers.find(p => p.id === btn.dataset.publisherId);
       if (pub) selectPublisher(pub);
