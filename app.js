@@ -79,9 +79,6 @@ function renderCard(paper, rank) {
   const rankStr = `#${rank}`;
   const yearStr = paper.year || '—';
   const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
-  const altStr = paper.altmetric_score != null
-    ? `<span class="meta-badge"><span class="badge-icon">🌐</span>${paper.altmetric_score} Altmetric</span>`
-    : '';
 
   return `
     <article class="paper-card">
@@ -101,7 +98,6 @@ function renderCard(paper, rank) {
           <span class="meta-badge">
             <span class="badge-icon">🔗</span>${citStr} citations
           </span>
-          ${altStr}
         </div>
       </div>
     </article>
