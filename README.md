@@ -62,8 +62,6 @@ A [GitHub Actions](.github/workflows/update_data.yml) workflow runs every **Mond
 3. Writes static JSON files to `data/` and commits them back to `main`
 4. GitHub Pages serves the updated site automatically
 
-The frontend is plain HTML/CSS/JS — no build step, no framework.
-
 ---
 
 ## Data sources & notes
@@ -75,48 +73,6 @@ The frontend is plain HTML/CSS/JS — no build step, no framework.
 
 > **Note on citation counts:** Crossref only counts citations from papers with registered reference lists, which systematically undercounts relative to Semantic Scholar or Google Scholar. The rankings are consistent within this tracker but will differ from other sources.
 
----
-
-## Local setup
-
-```bash
-git clone https://github.com/masurp/ICA-Journal-Tracker.git
-cd ICA-Journal-Tracker/scripts
-pip3 install -r requirements.txt
-MAILTO=your@email.com python3 fetch_data.py
-```
-
-Setting `MAILTO` is optional but recommended — it routes Crossref requests through their "polite pool" with higher rate limits.
-
-### Fetch options
-
-```bash
-# Fetch a single journal (fast — uses DOI cache for already-known papers)
-python3 fetch_data.py --journal jcmc
-
-# Fetch multiple specific journals
-python3 fetch_data.py --journal jcmc --journal new_media_society
-
-# Force re-fetch all Semantic Scholar topic data (ignore cache)
-python3 fetch_data.py --force
-```
-
-Open `index.html` via a local server to view the site:
-
-```bash
-python3 -m http.server
-```
-
----
-
-## GitHub Actions setup
-
-To run the weekly workflow in your own fork:
-
-1. Go to **Settings → Secrets and variables → Actions**
-2. Add a repository secret: `CROSSREF_MAILTO` = your email address
-3. Enable GitHub Pages: **Settings → Pages → Source: branch `main`, folder `/`**
-4. Trigger the first run manually: **Actions → Update Journal Data → Run workflow**
 
 ---
 
