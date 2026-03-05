@@ -1,6 +1,6 @@
 # ICA Journal Tracker
 
-A lightweight, automatically updated dashboard tracking the most cited, trending, and latest papers from 16 communication science journals across four publishers.
+A lightweight, automatically updated dashboard tracking the most cited, trending, and latest papers from 17 communication science journals across five publishers.
 
 **Live site:** [masurp.github.io/ICA-Journal-Tracker](https://masurp.github.io/ICA-Journal-Tracker/)
 
@@ -39,6 +39,11 @@ A lightweight, automatically updated dashboard tracking the most cited, trending
 | Journal | Abbreviation |
 |---------|-------------|
 | Journal of Media Psychology | JMP |
+
+### Amsterdam University Press
+| Journal | Abbreviation |
+|---------|-------------|
+| Computational Communication Research | CCR |
 
 ---
 

@@ -99,4 +99,11 @@ JOURNALS = [
         "issns": ["1864-1105", "2151-2388"],
         "primary_issn": "1864-1105",
     },
+    # ── Amsterdam University Press ────────────────────────────────────────────
+    {
+        "id": "computational_communication_research",
+        "name": "Computational Communication Research",
+        "issns": ["2665-9085"],
+        "primary_issn": "2665-9085",
+    },
 ]
