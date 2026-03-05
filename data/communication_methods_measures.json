@@ -1,6 +1,6 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-05T08:31:47Z",
+  "updated_at": "2026-03-05T13:33:11Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -14,9 +14,13 @@
         "year": 2007,
         "citation_count": 3126,
         "topics": [
-          "Computer Science"
+          "Reliability measurement",
+          "Content analysis",
+          "Coding methodology",
+          "Intercoder reliability"
         ],
-        "url": "https://doi.org/10.1080/19312450709336664"
+        "url": "https://doi.org/10.1080/19312450709336664",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2020.1718629",
@@ -28,9 +32,13 @@
         "year": 2020,
         "citation_count": 2071,
         "topics": [
-          "Psychology"
+          "Reliability estimation",
+          "Cronbach's alpha",
+          "Omega coefficient",
+          "Measurement theory"
         ],
-        "url": "https://doi.org/10.1080/19312458.2020.1718629"
+        "url": "https://doi.org/10.1080/19312458.2020.1718629",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2012.679848",
@@ -42,9 +50,13 @@
         "year": 2012,
         "citation_count": 1517,
         "topics": [
-          "Economics"
+          "Monte Carlo methods",
+          "Confidence intervals",
+          "Indirect effects",
+          "Statistical inference"
         ],
-        "url": "https://doi.org/10.1080/19312458.2012.679848"
+        "url": "https://doi.org/10.1080/19312458.2012.679848",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2017.1396583",
@@ -55,9 +67,13 @@
         "year": 2017,
         "citation_count": 847,
         "topics": [
-          "Business"
+          "Scale development",
+          "Measurement",
+          "Research methodology",
+          "Psychometrics"
         ],
-        "url": "https://doi.org/10.1080/19312458.2017.1396583"
+        "url": "https://doi.org/10.1080/19312458.2017.1396583",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312450802458935",
@@ -68,9 +84,13 @@
         "year": 2008,
         "citation_count": 747,
         "topics": [
-          "Psychology"
+          "Structural equation modeling",
+          "Item parceling",
+          "Research methodology",
+          "Measurement validation"
         ],
-        "url": "https://doi.org/10.1080/19312450802458935"
+        "url": "https://doi.org/10.1080/19312450802458935",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2018.1430754",
@@ -90,10 +110,13 @@
         "year": 2018,
         "citation_count": 599,
         "topics": [
-          "Computer Science",
-          "Linguistics"
+          "Topic modeling",
+          "LDA methodology",
+          "Communication research",
+          "Validity and reliability"
         ],
-        "url": "https://doi.org/10.1080/19312458.2018.1430754"
+        "url": "https://doi.org/10.1080/19312458.2018.1430754",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -108,10 +131,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Social bots",
+          "Bot detection methods",
+          "Computational communication",
+          "Social media analysis"
         ],
-        "url": "https://doi.org/10.1080/19312458.2026.2613829"
+        "url": "https://doi.org/10.1080/19312458.2026.2613829",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2605946",
@@ -126,10 +152,13 @@
         "year": 2025,
         "citation_count": 0,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Data donation",
+          "Platform comparison",
+          "Privacy willingness",
+          "Selection bias"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2605946"
+        "url": "https://doi.org/10.1080/19312458.2025.2605946",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2573265",
@@ -143,10 +172,13 @@
         "year": 2025,
         "citation_count": 0,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Hidden Markov models",
+          "Measurement error",
+          "Digital trace data",
+          "Computational methods"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2573265"
+        "url": "https://doi.org/10.1080/19312458.2025.2573265",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2554864",
@@ -157,9 +189,13 @@
         "year": 2025,
         "citation_count": 1,
         "topics": [
-          "Sociology"
+          "Gender classification",
+          "Social media",
+          "Automated content analysis",
+          "Binary categories"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2554864"
+        "url": "https://doi.org/10.1080/19312458.2025.2554864",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2575468",
@@ -172,10 +208,13 @@
         "year": 2025,
         "citation_count": 0,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Computational Social Science",
+          "Bias detection",
+          "Research methodology",
+          "Algorithmic bias"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2575468"
+        "url": "https://doi.org/10.1080/19312458.2025.2575468",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2558736",
@@ -189,9 +228,13 @@
         "year": 2025,
         "citation_count": 0,
         "topics": [
-          "Political Science"
+          "Political communication",
+          "Multimodal analysis",
+          "News coverage",
+          "Automated methods"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2558736"
+        "url": "https://doi.org/10.1080/19312458.2025.2558736",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -207,10 +250,13 @@
         "year": 2024,
         "citation_count": 7,
         "topics": [
-          "Sociology",
-          "Computer Science"
+          "Digital trace data",
+          "Web tracking",
+          "Data bias",
+          "Undercoverage"
         ],
-        "url": "https://doi.org/10.1080/19312458.2024.2393165"
+        "url": "https://doi.org/10.1080/19312458.2024.2393165",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2024.2324789",
@@ -223,10 +269,13 @@
         "year": 2024,
         "citation_count": 5,
         "topics": [
-          "Computer Science",
-          "Linguistics"
+          "Named Entity Recognition",
+          "Multilingual NLP",
+          "Text Analysis",
+          "Computational Linguistics"
         ],
-        "url": "https://doi.org/10.1080/19312458.2024.2324789"
+        "url": "https://doi.org/10.1080/19312458.2024.2324789",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2024.2349987",
@@ -236,8 +285,14 @@
         ],
         "year": 2024,
         "citation_count": 5,
-        "topics": [],
-        "url": "https://doi.org/10.1080/19312458.2024.2349987"
+        "topics": [
+          "Statistical methodology",
+          "Research validity",
+          "Communication research",
+          "Evidence alignment"
+        ],
+        "url": "https://doi.org/10.1080/19312458.2024.2349987",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2025.2482538",
@@ -252,9 +307,13 @@
         "year": 2025,
         "citation_count": 5,
         "topics": [
-          "Computer Science"
+          "web scraping",
+          "online news consumption",
+          "measurement bias",
+          "digital media"
         ],
-        "url": "https://doi.org/10.1080/19312458.2025.2482538"
+        "url": "https://doi.org/10.1080/19312458.2025.2482538",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2024.2413973",
@@ -269,9 +328,13 @@
         "year": 2024,
         "citation_count": 3,
         "topics": [
-          "Linguistics"
+          "Dyadic conversation",
+          "State space grids",
+          "Conversation dynamics",
+          "Quantitative analysis"
         ],
-        "url": "https://doi.org/10.1080/19312458.2024.2413973"
+        "url": "https://doi.org/10.1080/19312458.2024.2413973",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/19312458.2024.2363776",
@@ -286,10 +349,13 @@
         "year": 2024,
         "citation_count": 3,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Web search behavior",
+          "Political communication",
+          "Computational methods",
+          "Digital news consumption"
         ],
-        "url": "https://doi.org/10.1080/19312458.2024.2363776"
+        "url": "https://doi.org/10.1080/19312458.2024.2363776",
+        "topics_llm": true
       }
     ]
   }

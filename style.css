@@ -21,6 +21,7 @@
   --radius: 12px;
   --radius-sm: 8px;
   --radius-pill: 999px;
+  --accent: #4f8ef7;
   --journal-color: #4f8ef7;  /* overridden per-journal by JS */
   --transition: 0.18s ease;
 }
@@ -553,6 +554,13 @@ a:hover {
   opacity: 0.9;
   white-space: nowrap;
   text-transform: uppercase;
+  cursor: pointer;
+  transition: opacity var(--transition), filter var(--transition);
+}
+
+.topic-chip:hover {
+  opacity: 1;
+  filter: brightness(1.2);
 }
 
 .paper-title {
@@ -621,6 +629,13 @@ a:hover {
   font-size: 0.65rem;
 }
 
+.meta-badge-journal {
+  font-family: var(--font-body);
+  font-style: italic;
+  margin-left: auto;
+  color: var(--text-muted);
+  opacity: 0.7;
+}
 
 /* ── Empty State ──────────────────────────────────────────────────────────── */
 
@@ -697,17 +712,75 @@ a:hover {
 /* ── Search Results ───────────────────────────────────────────────────────── */
 
 .search-results-header {
-  font-size: 0.82rem;
-  color: var(--text-muted);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
   margin-bottom: 1.25rem;
   padding-bottom: 0.75rem;
   border-bottom: 1px solid var(--border);
 }
 
-.search-results-header em {
+.search-results-count {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.search-results-count em {
   color: var(--text-secondary);
   font-style: normal;
   font-weight: 600;
+}
+
+.search-filter-tabs {
+  display: inline-flex;
+  gap: 2px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 2px;
+}
+
+.search-filter-btn {
+  background: transparent;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 0.25rem 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: background var(--transition), color var(--transition);
+  white-space: nowrap;
+}
+
+.search-filter-btn:hover {
+  color: var(--text-secondary);
+}
+
+.search-filter-btn.active {
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+  color: var(--accent);
+}
+
+.search-filter-count {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  font-weight: 500;
+  background: rgba(255,255,255,0.07);
+  border-radius: var(--radius-pill);
+  padding: 0.05rem 0.35rem;
+  color: var(--text-muted);
+}
+
+.search-filter-btn.active .search-filter-count {
+  background: color-mix(in srgb, var(--accent) 20%, transparent);
+  color: var(--accent);
 }
 
 .search-cards {
@@ -777,6 +850,42 @@ a:hover {
 .trends-sub {
   font-size: 0.82rem;
   color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.trends-toggle {
+  display: inline-flex;
+  gap: 2px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 2px;
+}
+
+.trends-toggle-btn {
+  background: transparent;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 0.25rem 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+  white-space: nowrap;
+}
+
+.trends-toggle-btn:hover {
+  color: var(--text-secondary);
+}
+
+.trends-toggle-btn.active {
+  background: color-mix(in srgb, var(--accent) 18%, transparent);
+  color: var(--accent);
+  box-shadow: 0 0 8px color-mix(in srgb, var(--accent) 20%, transparent);
 }
 
 .trends-chart {

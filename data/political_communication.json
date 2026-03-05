@@ -1,6 +1,6 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-03-05T08:29:57Z",
+  "updated_at": "2026-03-05T13:30:48Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -13,9 +13,13 @@
         "year": 2005,
         "citation_count": 942,
         "topics": [
-          "Political Science"
+          "Digital public sphere",
+          "Political deliberation",
+          "Internet communication",
+          "Online discourse"
         ],
-        "url": "https://doi.org/10.1080/10584600590933160"
+        "url": "https://doi.org/10.1080/10584600590933160",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584600902854363",
@@ -26,9 +30,13 @@
         "year": 2009,
         "citation_count": 646,
         "topics": [
-          "Political Science"
+          "Internet use",
+          "Civic engagement",
+          "Meta-analysis",
+          "Digital media"
         ],
-        "url": "https://doi.org/10.1080/10584600902854363"
+        "url": "https://doi.org/10.1080/10584600902854363",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/105846001750322952",
@@ -39,10 +47,13 @@
         "year": 2001,
         "citation_count": 590,
         "topics": [
-          "Sociology",
-          "Computer Science"
+          "Internet use",
+          "Social capital",
+          "Civic engagement",
+          "Digital communication"
         ],
-        "url": "https://doi.org/10.1080/105846001750322952"
+        "url": "https://doi.org/10.1080/105846001750322952",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584600390244176",
@@ -53,9 +64,13 @@
         "year": 2003,
         "citation_count": 575,
         "topics": [
-          "Political Science"
+          "Political communication",
+          "Framing analysis",
+          "Crisis communication",
+          "Media discourse"
         ],
-        "url": "https://doi.org/10.1080/10584600390244176"
+        "url": "https://doi.org/10.1080/10584600390244176",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2019.1668894",
@@ -69,9 +84,13 @@
         "year": 2019,
         "citation_count": 469,
         "topics": [
-          "Political Science"
+          "Fact-checking",
+          "Misinformation",
+          "Meta-analysis",
+          "Persuasion effects"
         ],
-        "url": "https://doi.org/10.1080/10584609.2019.1668894"
+        "url": "https://doi.org/10.1080/10584609.2019.1668894",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2015.1102187",
@@ -82,9 +101,13 @@
         "year": 2015,
         "citation_count": 447,
         "topics": [
-          "Political Science"
+          "Misinformation correction",
+          "Belief persistence",
+          "Backfire effects",
+          "Information processing"
         ],
-        "url": "https://doi.org/10.1080/10584609.2015.1102187"
+        "url": "https://doi.org/10.1080/10584609.2015.1102187",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -95,7 +118,8 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [],
-        "url": "https://doi.org/10.1080/10584609.2026.2635255"
+        "url": "https://doi.org/10.1080/10584609.2026.2635255",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2026.2618486",
@@ -113,9 +137,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Political Science"
+          "Large Language Models",
+          "Communication research methodology",
+          "Research ethics",
+          "AI adoption critique"
         ],
-        "url": "https://doi.org/10.1080/10584609.2026.2618486"
+        "url": "https://doi.org/10.1080/10584609.2026.2618486",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2026.2633335",
@@ -126,9 +154,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Political Science"
+          "Gender representation",
+          "Political personalization",
+          "Voter behavior",
+          "Taiwan elections"
         ],
-        "url": "https://doi.org/10.1080/10584609.2026.2633335"
+        "url": "https://doi.org/10.1080/10584609.2026.2633335",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2026.2627253",
@@ -139,9 +171,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Political Science"
+          "Misinformation correction",
+          "Political credibility",
+          "Journalistic balance",
+          "Fact-checking"
         ],
-        "url": "https://doi.org/10.1080/10584609.2026.2627253"
+        "url": "https://doi.org/10.1080/10584609.2026.2627253",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2025.2611913",
@@ -154,10 +190,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Artificial Intelligence",
+          "Election campaigns",
+          "Political communication",
+          "Public perception"
         ],
-        "url": "https://doi.org/10.1080/10584609.2025.2611913"
+        "url": "https://doi.org/10.1080/10584609.2025.2611913",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2026.2613661",
@@ -170,9 +209,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Political Science"
+          "Misinformation",
+          "Political communication",
+          "Social media",
+          "Institutional accountability"
         ],
-        "url": "https://doi.org/10.1080/10584609.2026.2613661"
+        "url": "https://doi.org/10.1080/10584609.2026.2613661",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -187,10 +230,13 @@
         "year": 2024,
         "citation_count": 25,
         "topics": [
-          "Sociology",
-          "Political Science"
+          "Hyperpartisan media",
+          "Conspiracy theories",
+          "Alternative media",
+          "Political polarization"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2325426"
+        "url": "https://doi.org/10.1080/10584609.2024.2325426",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2024.2325423",
@@ -202,9 +248,13 @@
         "year": 2024,
         "citation_count": 22,
         "topics": [
-          "Political Science"
+          "Social media",
+          "Political engagement",
+          "Polarization",
+          "Democratic participation"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2325423"
+        "url": "https://doi.org/10.1080/10584609.2024.2325423",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2024.2350416",
@@ -218,9 +268,13 @@
         "year": 2024,
         "citation_count": 16,
         "topics": [
-          "Political Science"
+          "Social media",
+          "Alternative news media",
+          "Populism",
+          "Emotional engagement"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2350416"
+        "url": "https://doi.org/10.1080/10584609.2024.2350416",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2024.2354389",
@@ -231,9 +285,13 @@
         "year": 2024,
         "citation_count": 14,
         "topics": [
-          "Political Science"
+          "Visual disinformation",
+          "Social media",
+          "Content analysis",
+          "Alternative media"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2354389"
+        "url": "https://doi.org/10.1080/10584609.2024.2354389",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2024.2363545",
@@ -244,9 +302,13 @@
         "year": 2024,
         "citation_count": 12,
         "topics": [
-          "Political Science"
+          "Epistemic vulnerability",
+          "System-level analysis",
+          "Knowledge systems",
+          "Information credibility"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2363545"
+        "url": "https://doi.org/10.1080/10584609.2024.2363545",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/10584609.2024.2352483",
@@ -266,9 +328,13 @@
         "year": 2024,
         "citation_count": 12,
         "topics": [
-          "Political Science"
+          "Disinformation",
+          "Political communication",
+          "Persuasion",
+          "War rhetoric"
         ],
-        "url": "https://doi.org/10.1080/10584609.2024.2352483"
+        "url": "https://doi.org/10.1080/10584609.2024.2352483",
+        "topics_llm": true
       }
     ]
   }

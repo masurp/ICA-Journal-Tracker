@@ -1,7 +1,7 @@
 {
   "journal_id": "jcmc",
-  "updated_at": "2026-03-04T20:05:10Z",
-  "trending_from": "2024-03-04",
+  "updated_at": "2026-03-05T13:26:59Z",
+  "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
       {
@@ -12,14 +12,15 @@
           "Nicole B. Ellison"
         ],
         "year": 2007,
-        "citation_count": 8376,
-        "altmetric_score": null,
+        "citation_count": 8377,
         "topics": [
-          "History",
-          "Sociology",
-          "Computer Science"
+          "Social network sites",
+          "Online communities",
+          "Digital communication",
+          "Internet history"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.2007.00393.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.2007.00393.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1083-6101.2007.00367.x",
@@ -30,12 +31,15 @@
           "Cliff Lampe"
         ],
         "year": 2007,
-        "citation_count": 6170,
-        "altmetric_score": null,
+        "citation_count": 6172,
         "topics": [
-          "Sociology"
+          "Social capital",
+          "Online social networks",
+          "College students",
+          "Facebook"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.2007.00367.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.2007.00367.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1083-6101.1997.tb00072.x",
@@ -46,11 +50,14 @@
         ],
         "year": 2006,
         "citation_count": 1699,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Presence",
+          "Communication theory",
+          "Mediated communication",
+          "Human-computer interaction"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.1997.tb00072.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.1997.tb00072.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1083-6101.2009.01474.x",
@@ -62,11 +69,14 @@
         ],
         "year": 2009,
         "citation_count": 1412,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Social capital",
+          "Social network sites",
+          "Facebook",
+          "College students"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.2009.01474.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.2009.01474.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1083-6101.2012.01574.x",
@@ -77,13 +87,15 @@
           "Sebastián Valenzuela"
         ],
         "year": 2012,
-        "citation_count": 1221,
-        "altmetric_score": null,
+        "citation_count": 1222,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "Social media",
+          "News consumption",
+          "Civic engagement",
+          "Political participation"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.2012.01574.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.2012.01574.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1083-6101.2005.tb00259.x",
@@ -92,13 +104,15 @@
           "Kevin B. Wright"
         ],
         "year": 2006,
-        "citation_count": 1053,
-        "altmetric_score": null,
+        "citation_count": 1054,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Online surveys",
+          "Internet research methods",
+          "Web-based data collection",
+          "Survey methodology"
         ],
-        "url": "https://doi.org/10.1111/j.1083-6101.2005.tb00259.x"
+        "url": "https://doi.org/10.1111/j.1083-6101.2005.tb00259.x",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -111,9 +125,13 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmaf027"
+        "topics": [
+          "Machine companionship",
+          "Human-AI interaction",
+          "Conceptualization and measurement"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmaf027",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmaf025",
@@ -124,9 +142,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmaf025"
+        "topics": [
+          "Social media privacy",
+          "Privacy concerns",
+          "User control and trust",
+          "Privacy protection behaviors"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmaf025",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmaf024",
@@ -142,9 +165,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmaf024"
+        "topics": [
+          "Creator culture",
+          "YouTube reviews",
+          "Cultural values",
+          "Social media content"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmaf024",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmag001",
@@ -158,9 +186,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmag001"
+        "topics": [
+          "Intergroup contact theory",
+          "Video games",
+          "Cross-group friendship",
+          "Contact heterogeneity"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmag001",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmaf022",
@@ -171,12 +204,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Medicine"
+          "Mobile health privacy",
+          "Contextual integrity",
+          "Digital health communication",
+          "Privacy norms"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmaf022"
+        "url": "https://doi.org/10.1093/jcmc/zmaf022",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmaf026",
@@ -188,9 +223,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmaf026"
+        "topics": [
+          "Digital hate speech",
+          "Moral disengagement",
+          "Immigration attitudes",
+          "Online incivility"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmaf026",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -203,11 +243,14 @@
         ],
         "year": 2024,
         "citation_count": 53,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Human-AI relationships",
+          "Emotional communication",
+          "AI chatbots",
+          "Social interaction"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmae015"
+        "url": "https://doi.org/10.1093/jcmc/zmae015",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmae019",
@@ -218,12 +261,14 @@
         ],
         "year": 2024,
         "citation_count": 31,
-        "altmetric_score": null,
         "topics": [
-          "Psychology",
-          "Computer Science"
+          "Machine heuristic",
+          "Automated systems",
+          "Measurement scale",
+          "Human-computer interaction"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmae019"
+        "url": "https://doi.org/10.1093/jcmc/zmae019",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmae017",
@@ -234,12 +279,14 @@
         ],
         "year": 2024,
         "citation_count": 20,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Algorithmic personalization",
+          "Social connectedness",
+          "Social media algorithms",
+          "TikTok"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmae017"
+        "url": "https://doi.org/10.1093/jcmc/zmae017",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmae008",
@@ -251,12 +298,14 @@
         ],
         "year": 2024,
         "citation_count": 16,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Computer Science"
+          "Remote work communication",
+          "Informal workplace interaction",
+          "Socio-technical systems",
+          "Hybrid work collaboration"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmae008"
+        "url": "https://doi.org/10.1093/jcmc/zmae008",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmae022",
@@ -269,9 +318,14 @@
         ],
         "year": 2025,
         "citation_count": 15,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/jcmc/zmae022"
+        "topics": [
+          "AI chatbots",
+          "Disaster communication",
+          "Cultural tailoring",
+          "Multiethnic audiences"
+        ],
+        "url": "https://doi.org/10.1093/jcmc/zmae022",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/jcmc/zmae016",
@@ -283,12 +337,14 @@
         ],
         "year": 2024,
         "citation_count": 12,
-        "altmetric_score": null,
         "topics": [
-          "Psychology",
-          "Computer Science"
+          "Algorithmic bias",
+          "Technology adoption",
+          "Image recognition",
+          "Diffusion of innovations"
         ],
-        "url": "https://doi.org/10.1093/jcmc/zmae016"
+        "url": "https://doi.org/10.1093/jcmc/zmae016",
+        "topics_llm": true
       }
     ]
   }

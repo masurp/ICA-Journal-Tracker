@@ -1,7 +1,7 @@
 {
   "journal_id": "annals_ica",
-  "updated_at": "2026-03-04T21:28:14Z",
-  "trending_from": "2024-03-04",
+  "updated_at": "2026-03-05T13:27:53Z",
+  "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
       {
@@ -12,13 +12,15 @@
           "Paul M. Leonardi"
         ],
         "year": 2013,
-        "citation_count": 828,
-        "altmetric_score": null,
+        "citation_count": 829,
         "topics": [
-          "Business",
-          "Computer Science"
+          "Social media",
+          "Organizational communication",
+          "Affordances",
+          "Digital visibility"
         ],
-        "url": "https://doi.org/10.1080/23808985.2013.11679130"
+        "url": "https://doi.org/10.1080/23808985.2013.11679130",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2017.1288551",
@@ -37,11 +39,14 @@
         ],
         "year": 2017,
         "citation_count": 669,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Political communication",
+          "Media choice",
+          "Democracy",
+          "High-choice media environment"
         ],
-        "url": "https://doi.org/10.1080/23808985.2017.1288551"
+        "url": "https://doi.org/10.1080/23808985.2017.1288551",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2019.1602782",
@@ -52,11 +57,14 @@
         ],
         "year": 2019,
         "citation_count": 402,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Fake news",
+          "Misinformation",
+          "Media credibility",
+          "Information quality"
         ],
-        "url": "https://doi.org/10.1080/23808985.2019.1602782"
+        "url": "https://doi.org/10.1080/23808985.2019.1602782",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2020.1755338",
@@ -72,9 +80,14 @@
         ],
         "year": 2020,
         "citation_count": 398,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1080/23808985.2020.1755338"
+        "topics": [
+          "Media trust",
+          "News consumption",
+          "Media use",
+          "Framework development"
+        ],
+        "url": "https://doi.org/10.1080/23808985.2020.1755338",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2021.1976070",
@@ -85,11 +98,14 @@
         ],
         "year": 2021,
         "citation_count": 386,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Political polarization",
+          "Social media",
+          "Media effects",
+          "Political communication"
         ],
-        "url": "https://doi.org/10.1080/23808985.2021.1976070"
+        "url": "https://doi.org/10.1080/23808985.2021.1976070",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2018.1497452",
@@ -108,12 +124,14 @@
         ],
         "year": 2018,
         "citation_count": 364,
-        "altmetric_score": null,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "Immigration discourse",
+          "European media",
+          "Media effects",
+          "Literature review"
         ],
-        "url": "https://doi.org/10.1080/23808985.2018.1497452"
+        "url": "https://doi.org/10.1080/23808985.2018.1497452",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -127,9 +145,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlag005"
+        "topics": [
+          "Media System Dependency Theory",
+          "Social media dependency",
+          "Emotional dynamics",
+          "Misinformation"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlag005",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/anncom/wlag001",
@@ -139,9 +162,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlag001"
+        "topics": [
+          "Time perception",
+          "Media nostalgia",
+          "Digital communication",
+          "Cultural memory"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlag001",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/anncom/wlag002",
@@ -151,9 +179,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlag002"
+        "topics": [
+          "Data journalism",
+          "Science communication",
+          "Narrative structure",
+          "Evidence presentation"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlag002",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/anncom/wlaf028",
@@ -164,9 +197,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlaf028"
+        "topics": [
+          "International information flows",
+          "Developing societies",
+          "Digital communication",
+          "Information inequality"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf028",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/anncom/wlaf026",
@@ -176,9 +214,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlaf026"
+        "topics": [
+          "Ethnography",
+          "Artificial intelligence",
+          "Context and meaning-making",
+          "Digital communication"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf026",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/anncom/wlaf025",
@@ -188,9 +231,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/anncom/wlaf025"
+        "topics": [
+          "Strategic communication theory",
+          "Conceptual framework",
+          "Interdisciplinary analysis",
+          "Communication strategy"
+        ],
+        "url": "https://doi.org/10.1093/anncom/wlaf025",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -202,12 +250,15 @@
           "Jesper Strömbäck"
         ],
         "year": 2024,
-        "citation_count": 112,
-        "altmetric_score": null,
+        "citation_count": 113,
         "topics": [
-          "Political Science"
+          "Misinformation",
+          "Disinformation",
+          "Fake news",
+          "Media literacy"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2323736"
+        "url": "https://doi.org/10.1080/23808985.2024.2323736",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2024.2393845",
@@ -217,11 +268,14 @@
         ],
         "year": 2024,
         "citation_count": 11,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Moral framing",
+          "Ethics communication",
+          "Experimental design",
+          "Systematic review"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2393845"
+        "url": "https://doi.org/10.1080/23808985.2024.2393845",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2024.2382752",
@@ -233,11 +287,14 @@
         ],
         "year": 2024,
         "citation_count": 9,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Virtual reality",
+          "Immersive media",
+          "Presence and embodiment",
+          "Communication technology"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2382752"
+        "url": "https://doi.org/10.1080/23808985.2024.2382752",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2024.2336924",
@@ -250,11 +307,14 @@
         ],
         "year": 2024,
         "citation_count": 4,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Femicide",
+          "Media representation",
+          "Systematic review",
+          "Gender violence"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2336924"
+        "url": "https://doi.org/10.1080/23808985.2024.2336924",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2024.2391308",
@@ -266,11 +326,14 @@
         ],
         "year": 2024,
         "citation_count": 4,
-        "altmetric_score": null,
         "topics": [
-          "Psychology"
+          "Biological measurement",
+          "Mediated communication",
+          "Communication theory",
+          "Literature review"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2391308"
+        "url": "https://doi.org/10.1080/23808985.2024.2391308",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/23808985.2024.2338826",
@@ -280,11 +343,14 @@
         ],
         "year": 2024,
         "citation_count": 3,
-        "altmetric_score": null,
         "topics": [
-          "Linguistics"
+          "Communication theory",
+          "Theory construction",
+          "Academic research practices",
+          "Communication journals"
         ],
-        "url": "https://doi.org/10.1080/23808985.2024.2338826"
+        "url": "https://doi.org/10.1080/23808985.2024.2338826",
+        "topics_llm": true
       }
     ]
   }

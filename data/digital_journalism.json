@@ -1,6 +1,6 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-03-05T08:30:54Z",
+  "updated_at": "2026-03-05T13:32:00Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -15,9 +15,13 @@
         "year": 2017,
         "citation_count": 1377,
         "topics": [
-          "Business"
+          "Misinformation",
+          "Media literacy",
+          "News credibility",
+          "Information verification"
         ],
-        "url": "https://doi.org/10.1080/21670811.2017.1360143"
+        "url": "https://doi.org/10.1080/21670811.2017.1360143",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2014.976411",
@@ -28,10 +32,13 @@
         "year": 2014,
         "citation_count": 499,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Algorithmic transparency",
+          "Platform accountability",
+          "Digital governance",
+          "Computational journalism"
         ],
-        "url": "https://doi.org/10.1080/21670811.2014.976411"
+        "url": "https://doi.org/10.1080/21670811.2014.976411",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2017.1345645",
@@ -43,11 +50,13 @@
         "year": 2017,
         "citation_count": 494,
         "topics": [
-          "Political Science",
-          "Economics",
-          "Computer Science"
+          "Misinformation",
+          "Emotional appeals",
+          "Media effects",
+          "Information economy"
         ],
-        "url": "https://doi.org/10.1080/21670811.2017.1345645"
+        "url": "https://doi.org/10.1080/21670811.2017.1345645",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2014.976412",
@@ -58,9 +67,13 @@
         "year": 2014,
         "citation_count": 379,
         "topics": [
-          "Computer Science"
+          "Artificial intelligence",
+          "Automated journalism",
+          "News production",
+          "Technology and media"
         ],
-        "url": "https://doi.org/10.1080/21670811.2014.976412"
+        "url": "https://doi.org/10.1080/21670811.2014.976412",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2014.976400",
@@ -71,9 +84,13 @@
         "year": 2014,
         "citation_count": 356,
         "topics": [
-          "Computer Science"
+          "Journalism",
+          "Quantitative methods",
+          "Data journalism",
+          "Media studies"
         ],
-        "url": "https://doi.org/10.1080/21670811.2014.976400"
+        "url": "https://doi.org/10.1080/21670811.2014.976400",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2015.1093271",
@@ -86,12 +103,57 @@
         "year": 2015,
         "citation_count": 354,
         "topics": [
-          "Computer Science"
+          "Topic modelling",
+          "Computational text analysis",
+          "Journalism",
+          "Natural language processing"
         ],
-        "url": "https://doi.org/10.1080/21670811.2015.1093271"
+        "url": "https://doi.org/10.1080/21670811.2015.1093271",
+        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/21670811.2026.2636906",
+        "title": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
+        "authors": [
+          "Henning Eichler",
+          "Bernadette Uth",
+          "Hannah Ötting",
+          "Vanessa Kokoschka"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Public service media",
+          "Audience engagement",
+          "Digital debate platforms",
+          "Interactive communication"
+        ],
+        "url": "https://doi.org/10.1080/21670811.2026.2636906",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2633623",
+        "title": "Algorithmic News Content Personalization and Readers’ Attitudes",
+        "authors": [
+          "Yixue Wang",
+          "Aaron Shaw",
+          "Stephanie Edgerly",
+          "Darren Gergle",
+          "Nicholas Diakopoulos"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Algorithmic personalization",
+          "News consumption",
+          "Filter bubbles",
+          "Audience attitudes"
+        ],
+        "url": "https://doi.org/10.1080/21670811.2026.2633623",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/21670811.2026.2626739",
         "title": "Conceptualizing Fidelity: Reimagining Contemporary Visual Journalism’s Occupational Ideologies",
@@ -100,8 +162,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "topics": [],
-        "url": "https://doi.org/10.1080/21670811.2026.2626739"
+        "topics": [
+          "Visual journalism",
+          "Occupational ideology",
+          "Media fidelity",
+          "Professional identity"
+        ],
+        "url": "https://doi.org/10.1080/21670811.2026.2626739",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2026.2626737",
@@ -114,9 +182,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Computer Science"
+          "TikTok",
+          "News consumption",
+          "User experience",
+          "Social media platforms"
         ],
-        "url": "https://doi.org/10.1080/21670811.2026.2626737"
+        "url": "https://doi.org/10.1080/21670811.2026.2626737",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2026.2626733",
@@ -129,9 +201,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Art"
+          "Visual journalism",
+          "Photojournalism",
+          "Temporal analysis",
+          "Truth claims"
         ],
-        "url": "https://doi.org/10.1080/21670811.2026.2626733"
+        "url": "https://doi.org/10.1080/21670811.2026.2626733",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2026.2623275",
@@ -142,37 +218,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Computer Science"
+          "News media",
+          "Platform dependency",
+          "Digital journalism",
+          "Media economics"
         ],
-        "url": "https://doi.org/10.1080/21670811.2026.2623275"
-      },
-      {
-        "doi": "10.1080/21670811.2025.2610612",
-        "title": "Conceptualising Youth Media Strategies: Balancing Platforms, Profiles, and People",
-        "authors": [
-          "Vilde Schanke Sundet"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1080/21670811.2025.2610612"
-      },
-      {
-        "doi": "10.1080/21670811.2025.2604740",
-        "title": "Inequalities in Offline and Online News Media Environments Across Six Countries: The Role of Social Class and Interest in News",
-        "authors": [
-          "Antonis Kalogeropoulos",
-          "Richard Fletcher",
-          "Rasmus Kleis Nielsen"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1080/21670811.2025.2604740"
+        "url": "https://doi.org/10.1080/21670811.2026.2623275",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -187,9 +239,13 @@
         "year": 2024,
         "citation_count": 42,
         "topics": [
-          "Computer Science"
+          "Generative AI",
+          "News organizations",
+          "Visual journalism",
+          "Media policy"
         ],
-        "url": "https://doi.org/10.1080/21670811.2024.2331769"
+        "url": "https://doi.org/10.1080/21670811.2024.2331769",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2024.2397088",
@@ -200,9 +256,13 @@
         "year": 2024,
         "citation_count": 21,
         "topics": [
-          "Sociology"
+          "Influencer journalism",
+          "Platform media",
+          "Digital content creation",
+          "Online news production"
         ],
-        "url": "https://doi.org/10.1080/21670811.2024.2397088"
+        "url": "https://doi.org/10.1080/21670811.2024.2397088",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2024.2326928",
@@ -214,8 +274,14 @@
         ],
         "year": 2024,
         "citation_count": 16,
-        "topics": [],
-        "url": "https://doi.org/10.1080/21670811.2024.2326928"
+        "topics": [
+          "Alternative media",
+          "Misinformation",
+          "Media typology",
+          "Disinformation"
+        ],
+        "url": "https://doi.org/10.1080/21670811.2024.2326928",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2024.2394764",
@@ -227,9 +293,13 @@
         "year": 2024,
         "citation_count": 15,
         "topics": [
-          "Sociology"
+          "Clickbait journalism",
+          "Social media news",
+          "User engagement",
+          "Legacy vs. online-native media"
         ],
-        "url": "https://doi.org/10.1080/21670811.2024.2394764"
+        "url": "https://doi.org/10.1080/21670811.2024.2394764",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2024.2332609",
@@ -241,9 +311,13 @@
         "year": 2024,
         "citation_count": 13,
         "topics": [
-          "Political Science"
+          "Visual disinformation",
+          "Fact-checking",
+          "Ukraine conflict",
+          "Media analysis"
         ],
-        "url": "https://doi.org/10.1080/21670811.2024.2332609"
+        "url": "https://doi.org/10.1080/21670811.2024.2332609",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/21670811.2024.2431519",
@@ -256,10 +330,13 @@
         "year": 2025,
         "citation_count": 12,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Artificial Intelligence",
+          "Journalism",
+          "Media Policy",
+          "Comparative Analysis"
         ],
-        "url": "https://doi.org/10.1080/21670811.2024.2431519"
+        "url": "https://doi.org/10.1080/21670811.2024.2431519",
+        "topics_llm": true
       }
     ]
   }

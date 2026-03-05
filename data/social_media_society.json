@@ -1,6 +1,6 @@
 {
   "journal_id": "social_media_society",
-  "updated_at": "2026-03-05T05:25:21Z",
+  "updated_at": "2026-03-05T13:29:37Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -12,11 +12,14 @@
         ],
         "year": 2015,
         "citation_count": 682,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Platformization",
+          "Social media platforms",
+          "Web infrastructure",
+          "Platform economics"
         ],
-        "url": "https://doi.org/10.1177/2056305115603080"
+        "url": "https://doi.org/10.1177/2056305115603080",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/2056305120903408",
@@ -27,11 +30,14 @@
         ],
         "year": 2020,
         "citation_count": 517,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Deepfakes",
+          "Disinformation",
+          "Trust in news",
+          "Visual communication"
         ],
-        "url": "https://doi.org/10.1177/2056305120903408"
+        "url": "https://doi.org/10.1177/2056305120903408",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/2056305117691544",
@@ -42,12 +48,14 @@
         ],
         "year": 2017,
         "citation_count": 454,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Computer Science"
+          "Social media platforms",
+          "Uses and gratifications",
+          "College students",
+          "Platform motivations"
         ],
-        "url": "https://doi.org/10.1177/2056305117691544"
+        "url": "https://doi.org/10.1177/2056305117691544",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/2056305115603385",
@@ -58,11 +66,13 @@
         ],
         "year": 2015,
         "citation_count": 425,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Affordance theory",
+          "Technology and communication",
+          "Socio-technical systems"
         ],
-        "url": "https://doi.org/10.1177/2056305115603385"
+        "url": "https://doi.org/10.1177/2056305115603385",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/2056305116641342",
@@ -72,12 +82,14 @@
         ],
         "year": 2016,
         "citation_count": 398,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Business"
+          "Influencer culture",
+          "Social media authenticity",
+          "Digital labor",
+          "Selfie aesthetics"
         ],
-        "url": "https://doi.org/10.1177/2056305116641342"
+        "url": "https://doi.org/10.1177/2056305116641342",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/2056305115604337",
@@ -88,12 +100,14 @@
         ],
         "year": 2015,
         "citation_count": 346,
-        "altmetric_score": null,
         "topics": [
-          "Business",
-          "Sociology"
+          "Fashion blogging",
+          "Self-branding",
+          "Entrepreneurial femininity",
+          "Social media"
         ],
-        "url": "https://doi.org/10.1177/2056305115604337"
+        "url": "https://doi.org/10.1177/2056305115604337",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -107,11 +121,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Extremism and radicalization",
+          "Content moderation",
+          "Algorithmic amplification",
+          "Social media propaganda"
         ],
-        "url": "https://doi.org/10.1177/20563051251412167"
+        "url": "https://doi.org/10.1177/20563051251412167",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051261417516",
@@ -122,12 +139,13 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Political Science"
+          "Disinformation",
+          "Social media polarization",
+          "Ethnic polarization"
         ],
-        "url": "https://doi.org/10.1177/20563051261417516"
+        "url": "https://doi.org/10.1177/20563051261417516",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051261419392",
@@ -139,12 +157,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Body positivity",
+          "Postfeminism",
+          "Digital activism",
+          "Computational text analysis"
         ],
-        "url": "https://doi.org/10.1177/20563051261419392"
+        "url": "https://doi.org/10.1177/20563051261419392",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051261417300",
@@ -156,12 +176,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Political Science"
+          "Online misogyny",
+          "Chinese digital communities",
+          "Opportunity structure theory",
+          "Gender and extremism"
         ],
-        "url": "https://doi.org/10.1177/20563051261417300"
+        "url": "https://doi.org/10.1177/20563051261417300",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051251413920",
@@ -174,12 +196,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "Art"
+          "Online radicalization",
+          "Aesthetic communities",
+          "Content moderation",
+          "Far-right ideology"
         ],
-        "url": "https://doi.org/10.1177/20563051251413920"
+        "url": "https://doi.org/10.1177/20563051251413920",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051261420610",
@@ -191,11 +215,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Misinformation",
+          "Democratic satisfaction",
+          "Online persuasion",
+          "Public perception"
         ],
-        "url": "https://doi.org/10.1177/20563051261420610"
+        "url": "https://doi.org/10.1177/20563051261420610",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -209,11 +236,14 @@
         ],
         "year": 2024,
         "citation_count": 27,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Content creators",
+          "Platform visibility",
+          "Sexual content",
+          "Digital marginalization"
         ],
-        "url": "https://doi.org/10.1177/20563051241244674"
+        "url": "https://doi.org/10.1177/20563051241244674",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051251317779",
@@ -224,13 +254,14 @@
         ],
         "year": 2025,
         "citation_count": 22,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology",
-          "Philosophy"
+          "Postdigital intimacies",
+          "More-than-human communication",
+          "Digital-nondigital convergence",
+          "Posthuman theory"
         ],
-        "url": "https://doi.org/10.1177/20563051251317779"
+        "url": "https://doi.org/10.1177/20563051251317779",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051241269269",
@@ -243,11 +274,14 @@
         ],
         "year": 2024,
         "citation_count": 21,
-        "altmetric_score": null,
         "topics": [
-          "Business"
+          "Influencer marketing",
+          "Celebrity endorsement",
+          "Meta-analysis",
+          "Advertising effectiveness"
         ],
-        "url": "https://doi.org/10.1177/20563051241269269"
+        "url": "https://doi.org/10.1177/20563051241269269",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051241269281",
@@ -258,12 +292,14 @@
         ],
         "year": 2024,
         "citation_count": 20,
-        "altmetric_score": null,
         "topics": [
-          "Sociology",
-          "History"
+          "TikTok",
+          "War and conflict representation",
+          "Digital trauma and play",
+          "Embodied expression"
         ],
-        "url": "https://doi.org/10.1177/20563051241269281"
+        "url": "https://doi.org/10.1177/20563051241269281",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051241248591",
@@ -275,9 +311,14 @@
         ],
         "year": 2024,
         "citation_count": 19,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1177/20563051241248591"
+        "topics": [
+          "Adolescent social media use",
+          "Well-being and mental health",
+          "Qualitative research",
+          "Differential susceptibility to media effects"
+        ],
+        "url": "https://doi.org/10.1177/20563051241248591",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/20563051241279248",
@@ -287,11 +328,14 @@
         ],
         "year": 2024,
         "citation_count": 18,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Digital storytelling",
+          "Ukraine conflict",
+          "TikTok",
+          "Refugee representation"
         ],
-        "url": "https://doi.org/10.1177/20563051241279248"
+        "url": "https://doi.org/10.1177/20563051241279248",
+        "topics_llm": true
       }
     ]
   }

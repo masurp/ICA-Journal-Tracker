@@ -1,6 +1,6 @@
 {
   "journal_id": "information_communication_society",
-  "updated_at": "2026-03-05T08:30:23Z",
+  "updated_at": "2026-03-05T13:31:25Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -12,14 +12,15 @@
           "Kate Crawford"
         ],
         "year": 2012,
-        "citation_count": 3877,
+        "citation_count": 3878,
         "topics": [
-          "Political Science",
-          "Computer Science",
-          "Sociology",
-          "Economics"
+          "Big Data",
+          "Data Analytics",
+          "Communication Research",
+          "Methodological Critique"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2012.678878"
+        "url": "https://doi.org/10.1080/1369118x.2012.678878",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2012.670661",
@@ -31,10 +32,13 @@
         "year": 2012,
         "citation_count": 2442,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "Connective action",
+          "Digital networks",
+          "Social movements",
+          "Political participation"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2012.670661"
+        "url": "https://doi.org/10.1080/1369118x.2012.670661",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2015.1008542",
@@ -45,10 +49,13 @@
         "year": 2015,
         "citation_count": 865,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "Social media",
+          "Civic participation",
+          "Meta-analysis",
+          "Digital engagement"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2015.1008542"
+        "url": "https://doi.org/10.1080/1369118x.2015.1008542",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2016.1154086",
@@ -59,10 +66,13 @@
         "year": 2016,
         "citation_count": 855,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Algorithms",
+          "Social media",
+          "Affect theory",
+          "Facebook"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2016.1154086"
+        "url": "https://doi.org/10.1080/1369118x.2016.1154086",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2015.1012532",
@@ -81,9 +91,13 @@
         "year": 2015,
         "citation_count": 780,
         "topics": [
-          "Sociology"
+          "Digital inequality",
+          "Access and participation",
+          "Communication technology",
+          "Social disparities"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2015.1012532"
+        "url": "https://doi.org/10.1080/1369118x.2015.1012532",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/13691180500146185",
@@ -94,14 +108,92 @@
         "year": 2005,
         "citation_count": 741,
         "topics": [
-          "Sociology",
-          "Computer Science",
-          "Education"
+          "Social networks",
+          "Internet connectivity",
+          "Network effects",
+          "Digital communication"
         ],
-        "url": "https://doi.org/10.1080/13691180500146185"
+        "url": "https://doi.org/10.1080/13691180500146185",
+        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1369118x.2026.2634845",
+        "title": "Developing and testing an AI-based risk information-seeking model (ARISM): A structural equation modeling approach",
+        "authors": [
+          "Soo Jung Hong"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Risk communication",
+          "Information-seeking behavior",
+          "Artificial intelligence",
+          "Structural equation modeling"
+        ],
+        "url": "https://doi.org/10.1080/1369118x.2026.2634845",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2631703",
+        "title": "How election management bodies disrupt electoral disinformation: Australia and the UK in comparative perspective",
+        "authors": [
+          "Max Grömping",
+          "Tenzin Liddy-Corlett",
+          "Andrea Carson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Electoral disinformation",
+          "Election management",
+          "Comparative political communication",
+          "Democratic institutions"
+        ],
+        "url": "https://doi.org/10.1080/1369118x.2026.2631703",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2636134",
+        "title": "Nudging against judging? Mitigating anti-LGBTQIA + online hostility by raising bystanders’ awareness and behavioral intentions",
+        "authors": [
+          "Melanie Saumer",
+          "Kevin Koban",
+          "Jörg Matthes"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online harassment",
+          "LGBTQIA+ advocacy",
+          "Bystander intervention",
+          "Nudge theory"
+        ],
+        "url": "https://doi.org/10.1080/1369118x.2026.2636134",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2636132",
+        "title": "Everyday encounters with misinformation online: examining sources, topics and modes",
+        "authors": [
+          "Aimee Hourigan",
+          "T.J. Thomson",
+          "Tanya Notley",
+          "Sora Park",
+          "Michael Dezuanni"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Misinformation",
+          "Online communication",
+          "Digital media literacy",
+          "Information sources"
+        ],
+        "url": "https://doi.org/10.1080/1369118x.2026.2636132",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1369118x.2026.2632169",
         "title": "Filtered Latinidad: ethnoracial abstraction and everyday resistance in TikTok beauty filters",
@@ -111,9 +203,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Sociology"
+          "TikTok filters",
+          "Latinidad representation",
+          "Ethnoracial identity",
+          "Digital resistance"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2026.2632169"
+        "url": "https://doi.org/10.1080/1369118x.2026.2632169",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2026.2631709",
@@ -127,80 +223,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Computer Science",
-          "Business",
-          "Law",
-          "Engineering"
+          "Cloud technology",
+          "Connected autonomous vehicles",
+          "Patent discourse",
+          "Innovation imaginaries"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2026.2631709"
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2630697",
-        "title": "What is a fact in the age of generative AI? Fact-checking as an epistemological lens",
-        "authors": [
-          "Laurence Dierickx",
-          "Andreas L. Opdahl",
-          "Fredrik Bjerknes",
-          "Carl-Gustav Lindén"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Computer Science",
-          "Philosophy"
-        ],
-        "url": "https://doi.org/10.1080/1369118x.2026.2630697"
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2624711",
-        "title": "Concluding reflections: polycentricity and legitimacy in digital governance",
-        "authors": [
-          "Jan Aart Scholte"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Computer Science",
-          "Political Science",
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1080/1369118x.2026.2624711"
-      },
-      {
-        "doi": "10.1080/1369118x.2025.2552374",
-        "title": "Introduction – towards polycentricity? The quest for legitimacy and trust in digital governance",
-        "authors": [
-          "Matthew Dylag",
-          "Daniëlle Flonk",
-          "Cristiana Lauri",
-          "Morshed Mannan"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Computer Science",
-          "Political Science",
-          "Sociology"
-        ],
-        "url": "https://doi.org/10.1080/1369118x.2025.2552374"
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2624702",
-        "title": "Algorithmic reproduction of social inequality: language attitude bias in Chinese and English pre-trained language models",
-        "authors": [
-          "Zhenzhen Zhang",
-          "Guowen Huang",
-          "Wanting Chen",
-          "Sihui Chen",
-          "Bingkun Yang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Linguistics",
-          "Computer Science"
-        ],
-        "url": "https://doi.org/10.1080/1369118x.2026.2624702"
+        "url": "https://doi.org/10.1080/1369118x.2026.2631709",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -213,10 +242,13 @@
         "year": 2024,
         "citation_count": 26,
         "topics": [
-          "Environmental Science",
-          "Business"
+          "AI ethics",
+          "Supply chain capitalism",
+          "Environmental justice",
+          "Algorithmic harm"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2420021"
+        "url": "https://doi.org/10.1080/1369118x.2024.2420021",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2024.2341013",
@@ -227,11 +259,13 @@
         "year": 2024,
         "citation_count": 24,
         "topics": [
-          "Environmental Science",
-          "Sociology",
-          "Economics"
+          "Digital infrastructure",
+          "Resource extraction",
+          "Environmental communication",
+          "Technology and sustainability"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2341013"
+        "url": "https://doi.org/10.1080/1369118x.2024.2341013",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2024.2343369",
@@ -246,10 +280,13 @@
         "year": 2024,
         "citation_count": 21,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Political parties",
+          "Digitalization",
+          "European politics",
+          "Political communication"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2343369"
+        "url": "https://doi.org/10.1080/1369118x.2024.2343369",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2024.2329610",
@@ -262,10 +299,13 @@
         "year": 2024,
         "citation_count": 18,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "Internet memes",
+          "Far-right communication",
+          "Political humor",
+          "Mainstreaming extremism"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2329610"
+        "url": "https://doi.org/10.1080/1369118x.2024.2329610",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2024.2334913",
@@ -277,9 +317,13 @@
         "year": 2024,
         "citation_count": 17,
         "topics": [
-          "Sociology"
+          "Parent influencers",
+          "Social media",
+          "Parenting communication",
+          "Systematic literature review"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2334913"
+        "url": "https://doi.org/10.1080/1369118x.2024.2334913",
+        "topics_llm": true
       },
       {
         "doi": "10.1080/1369118x.2024.2361095",
@@ -291,10 +335,13 @@
         "year": 2024,
         "citation_count": 14,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Platform power",
+          "Platformization",
+          "Digital politics",
+          "Social media governance"
         ],
-        "url": "https://doi.org/10.1080/1369118x.2024.2361095"
+        "url": "https://doi.org/10.1080/1369118x.2024.2361095",
+        "topics_llm": true
       }
     ]
   }

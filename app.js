@@ -61,7 +61,7 @@ function renderTopics(topics) {
   if (!topics || topics.length === 0) return '';
   const chips = topics.slice(0, 3).map(topic => {
     const { bg, text } = topicColor(topic);
-    return `<span class="topic-chip" style="background:${bg};color:${text}">${escapeHtml(topic)}</span>`;
+    return `<span class="topic-chip" data-topic="${escapeHtml(topic)}" style="background:${bg};color:${text}" title="Search all papers tagged '${escapeHtml(topic)}'">${escapeHtml(topic)}</span>`;
   });
   return `<div class="paper-topics">${chips.join('')}</div>`;
 }
@@ -79,6 +79,9 @@ function renderCard(paper, rank) {
   const rankStr = `#${rank}`;
   const yearStr = paper.year || '—';
   const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
+  const journalStr = paper._journalName
+    ? `<span class="meta-badge meta-badge-journal">${escapeHtml(paper._journalName)}</span>`
+    : '';
 
   return `
     <article class="paper-card">
@@ -98,6 +101,7 @@ function renderCard(paper, rank) {
           <span class="meta-badge">
             <span class="badge-icon">🔗</span>${citStr} citations
           </span>
+          ${journalStr}
         </div>
       </div>
     </article>
@@ -226,6 +230,21 @@ function extractTopWords(papers, topN = 30) {
     .map(([word, count]) => ({ word, count }));
 }
 
+function extractTopKeywords(papers, topN = 30) {
+  const counts = {};
+  for (const paper of papers) {
+    if (!paper.topics || paper.topics.length === 0) continue;
+    for (const topic of paper.topics) {
+      const key = topic.toLowerCase();
+      counts[key] = (counts[key] || 0) + 1;
+    }
+  }
+  return Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, topN)
+    .map(([word, count]) => ({ word, count }));
+}
+
 // ── Overview ─────────────────────────────────────────────────────────────────
 
 let overviewActive = false;
@@ -311,6 +330,29 @@ async function renderOverview() {
   bindToggleButtons({}, { color: accentColor });
 }
 
+let trendsMode = 'title_words';
+
+function renderTrendsChartHtml(papers) {
+  const items = trendsMode === 'title_words'
+    ? extractTopWords(papers)
+    : extractTopKeywords(papers);
+  if (items.length === 0) return '<div class="empty-card">No data available.</div>';
+  const maxCount = items[0].count;
+  return items.map(({ word, count }) => {
+    const pct = Math.round((count / maxCount) * 100);
+    return `
+      <div class="chart-row">
+        <span class="chart-label">${escapeHtml(word)}</span>
+        <div class="chart-bar-wrap">
+          <div class="chart-bar" style="width:${pct}%">
+            <span class="chart-count">${count}</span>
+          </div>
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
 async function renderTrendsView() {
   trendsActive = true;
   overviewActive = false;
@@ -327,42 +369,53 @@ async function renderTrendsView() {
   await loadAllJournals();
 
   const allPapers = getAllPapers();
-  const topWords = extractTopWords(allPapers);
 
-  if (topWords.length === 0) {
-    main.innerHTML = `<div class="error-state">No title data available.</div>`;
-    return;
+  function subText() {
+    return trendsMode === 'title_words'
+      ? `Most frequent words in paper titles across all 16 journals — ${allPapers.length} unique papers`
+      : `Most frequent AI-generated topic keywords across all 16 journals — ${allPapers.length} unique papers`;
   }
-
-  const maxCount = topWords[0].count;
-  const rows = topWords.map(({ word, count }) => {
-    const pct = Math.round((count / maxCount) * 100);
-    return `
-      <div class="chart-row">
-        <span class="chart-label">${escapeHtml(word)}</span>
-        <div class="chart-bar-wrap">
-          <div class="chart-bar" style="width:${pct}%">
-            <span class="chart-count">${count}</span>
-          </div>
-        </div>
-      </div>
-    `;
-  }).join('');
 
   main.innerHTML = `
     <div class="trends-view">
       <div class="trends-header">
         <h2 class="trends-title">Keyword Trends</h2>
-        <p class="trends-sub">Most frequent words in paper titles across all 16 journals — based on ${allPapers.length} unique papers</p>
+        <p class="trends-sub" id="trends-sub">${subText()}</p>
+        <div class="trends-toggle" role="group" aria-label="Trend source">
+          <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
+          <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
+        </div>
       </div>
-      <div class="trends-chart">${rows}</div>
+      <div class="trends-chart" id="trends-chart">${renderTrendsChartHtml(allPapers)}</div>
     </div>
   `;
+
+  main.querySelectorAll('.trends-toggle-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (trendsMode === btn.dataset.mode) return;
+      trendsMode = btn.dataset.mode;
+      main.querySelectorAll('.trends-toggle-btn').forEach(b =>
+        b.classList.toggle('active', b.dataset.mode === trendsMode)
+      );
+      document.getElementById('trends-sub').textContent = subText();
+      document.getElementById('trends-chart').innerHTML = renderTrendsChartHtml(allPapers);
+    });
+  });
 }
 
 // ── Search ───────────────────────────────────────────────────────────────────
 
 let searchDebounce = null;
+let searchResults = [];
+let searchQuery = '';
+let searchFilter = 'all';
+
+const SEARCH_FILTERS = [
+  { key: 'all',        label: 'All' },
+  { key: 'most_cited', label: 'Most Cited' },
+  { key: 'trending',   label: 'Trending' },
+  { key: 'latest',     label: 'Latest' },
+];
 
 function initSearch() {
   const input = document.getElementById('search-input');
@@ -415,6 +468,34 @@ function getAllPapers() {
   return results;
 }
 
+function getAllPapersWithSections() {
+  const paperMap = new Map();
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const [sectionKey, papers] of Object.entries(data.sections)) {
+        for (const paper of papers) {
+          if (!paper.doi) continue;
+          if (!paperMap.has(paper.doi)) {
+            paperMap.set(paper.doi, { ...paper, _journalName: journal.name, _sections: new Set([sectionKey]) });
+          } else {
+            paperMap.get(paper.doi)._sections.add(sectionKey);
+          }
+        }
+      }
+    }
+  }
+  return Array.from(paperMap.values());
+}
+
+function applySearchFilter(results, filter) {
+  const filtered = filter === 'all' ? results : results.filter(p => p._sections?.has(filter));
+  return filter === 'latest'
+    ? [...filtered].sort((a, b) => (b.year || 0) - (a.year || 0))
+    : [...filtered].sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0));
+}
+
 async function performSearch(query) {
   trendsActive = false;
   overviewActive = false;
@@ -426,28 +507,49 @@ async function performSearch(query) {
   await loadAllJournals();
 
   const q = query.toLowerCase();
-  const results = getAllPapers()
+  searchQuery = query;
+  searchFilter = 'all';
+  searchResults = getAllPapersWithSections()
     .filter(p =>
       p.title?.toLowerCase().includes(q) ||
-      p.authors?.some(a => a.toLowerCase().includes(q))
-    )
-    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0));
+      p.authors?.some(a => a.toLowerCase().includes(q)) ||
+      p.topics?.some(t => t.toLowerCase().includes(q))
+    );
 
-  main.innerHTML = renderSearchResults(query, results);
+  main.innerHTML = renderSearchResults();
+  bindSearchFilterTabs();
 }
 
-function renderSearchResults(query, results) {
+function renderSearchResults() {
+  const filtered = applySearchFilter(searchResults, searchFilter);
+
+  const tabsHtml = SEARCH_FILTERS.map(f => {
+    const count = f.key === 'all'
+      ? searchResults.length
+      : searchResults.filter(p => p._sections?.has(f.key)).length;
+    const isActive = searchFilter === f.key;
+    return `<button class="search-filter-btn ${isActive ? 'active' : ''}" data-filter="${f.key}">
+      ${f.label}<span class="search-filter-count">${count}</span>
+    </button>`;
+  }).join('');
+
   const header = `
     <div class="search-results-header">
-      ${results.length} paper${results.length !== 1 ? 's' : ''} matching <em>"${escapeHtml(query)}"</em> across all journals
+      <div class="search-results-count">
+        ${searchResults.length} paper${searchResults.length !== 1 ? 's' : ''} matching <em>"${escapeHtml(searchQuery)}"</em> across all journals
+      </div>
+      <div class="search-filter-tabs" role="group" aria-label="Filter results">${tabsHtml}</div>
     </div>
   `;
 
-  if (results.length === 0) {
-    return `<div class="search-results">${header}<div class="empty-card" style="margin-top:1rem">No papers found. Try a different keyword.</div></div>`;
+  if (filtered.length === 0) {
+    const msg = searchResults.length === 0
+      ? 'No papers found. Try a different keyword.'
+      : 'No papers in this section match your query.';
+    return `<div class="search-results">${header}<div class="empty-card" style="margin-top:1rem">${msg}</div></div>`;
   }
 
-  const cards = results.map((paper, i) => `
+  const cards = filtered.map((paper, i) => `
     <div class="search-result-item">
       <div class="search-journal-label">${escapeHtml(paper._journalName)}</div>
       ${renderCard(paper, i + 1)}
@@ -455,6 +557,17 @@ function renderSearchResults(query, results) {
   `).join('');
 
   return `<div class="search-results">${header}<div class="search-cards">${cards}</div></div>`;
+}
+
+function bindSearchFilterTabs() {
+  document.querySelectorAll('.search-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (searchFilter === btn.dataset.filter) return;
+      searchFilter = btn.dataset.filter;
+      document.getElementById('main-content').innerHTML = renderSearchResults();
+      bindSearchFilterTabs();
+    });
+  });
 }
 
 function restoreJournalView() {
@@ -488,6 +601,14 @@ async function init() {
     publishers = config.publishers || [];
     renderPublisherTabs();
     initSearch();
+    document.addEventListener('click', e => {
+      const chip = e.target.closest('.topic-chip[data-topic]');
+      if (!chip) return;
+      const topic = chip.dataset.topic;
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) searchInput.value = topic;
+      performSearch(topic);
+    });
     document.getElementById('overview-btn')?.addEventListener('click', () => {
       const searchInput = document.getElementById('search-input');
       if (searchInput) searchInput.value = '';

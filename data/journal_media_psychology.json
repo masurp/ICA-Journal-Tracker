@@ -1,6 +1,6 @@
 {
   "journal_id": "journal_media_psychology",
-  "updated_at": "2026-03-05T08:32:19Z",
+  "updated_at": "2026-03-05T13:33:47Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -14,10 +14,13 @@
         "year": 2008,
         "citation_count": 465,
         "topics": [
-          "Psychology",
-          "Computer Science"
+          "Impression Management",
+          "Self-presentation",
+          "Social Media",
+          "Self-disclosure"
         ],
-        "url": "https://doi.org/10.1027/1864-1105.20.3.106"
+        "url": "https://doi.org/10.1027/1864-1105.20.3.106",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105.20.2.67",
@@ -28,9 +31,12 @@
         "year": 2008,
         "citation_count": 305,
         "topics": [
-          "Psychology"
+          "Communication apprehension",
+          "Social media use",
+          "Gratifications sought and obtained"
         ],
-        "url": "https://doi.org/10.1027/1864-1105.20.2.67"
+        "url": "https://doi.org/10.1027/1864-1105.20.2.67",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105.21.3.95",
@@ -43,10 +49,13 @@
         "year": 2009,
         "citation_count": 298,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Virtual reality",
+          "Human-computer interaction",
+          "Social science research methods",
+          "Technology effects"
         ],
-        "url": "https://doi.org/10.1027/1864-1105.21.3.95"
+        "url": "https://doi.org/10.1027/1864-1105.21.3.95",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105.21.1.25",
@@ -59,10 +68,12 @@
         "year": 2009,
         "citation_count": 258,
         "topics": [
-          "Sociology",
-          "Psychology"
+          "Cyberbullying",
+          "Online victimization",
+          "Adolescent communication"
         ],
-        "url": "https://doi.org/10.1027/1864-1105.21.1.25"
+        "url": "https://doi.org/10.1027/1864-1105.21.1.25",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000137",
@@ -82,9 +93,13 @@
         "year": 2016,
         "citation_count": 230,
         "topics": [
-          "Psychology"
+          "Spatial presence",
+          "Media psychology",
+          "Self-report measurement",
+          "Immersive media"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000137"
+        "url": "https://doi.org/10.1027/1864-1105/a000137",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105.21.3.126",
@@ -95,10 +110,13 @@
         "year": 2009,
         "citation_count": 205,
         "topics": [
-          "Computer Science",
-          "Psychology"
+          "Video games",
+          "Stress recovery",
+          "Coping mechanisms",
+          "Work-related fatigue"
         ],
-        "url": "https://doi.org/10.1027/1864-1105.21.3.126"
+        "url": "https://doi.org/10.1027/1864-1105.21.3.126",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -112,10 +130,13 @@
         "year": 2026,
         "citation_count": 3,
         "topics": [
-          "Psychology",
-          "Sociology"
+          "Online support-seeking",
+          "Social affordances",
+          "Relationship closeness",
+          "Computer-mediated communication"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000453"
+        "url": "https://doi.org/10.1027/1864-1105/a000453",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000449",
@@ -130,10 +151,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Psychology",
-          "Sociology"
+          "Sexual behavior",
+          "Adolescent development",
+          "Internet pornography",
+          "Sexual aggression"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000449"
+        "url": "https://doi.org/10.1027/1864-1105/a000449",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000456",
@@ -147,9 +171,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Psychology"
+          "Intergroup prejudice",
+          "Media effects",
+          "Identity cues",
+          "Supernatural genre"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000456"
+        "url": "https://doi.org/10.1027/1864-1105/a000456",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000507",
@@ -159,8 +187,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "topics": [],
-        "url": "https://doi.org/10.1027/1864-1105/a000507"
+        "topics": [
+          "Scholarly publishing",
+          "Academic peer review",
+          "Editorial practices",
+          "Research communication"
+        ],
+        "url": "https://doi.org/10.1027/1864-1105/a000507",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000450",
@@ -172,9 +206,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Psychology"
+          "Social anxiety",
+          "Online social behavior",
+          "Perceived social support",
+          "Social media"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000450"
+        "url": "https://doi.org/10.1027/1864-1105/a000450",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000452",
@@ -187,9 +225,13 @@
         "year": 2026,
         "citation_count": 1,
         "topics": [
-          "Psychology"
+          "Relationship dissolution",
+          "Communication channel selection",
+          "Intimate partner abuse",
+          "Media affordances"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000452"
+        "url": "https://doi.org/10.1027/1864-1105/a000452",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -203,9 +245,13 @@
         "year": 2024,
         "citation_count": 28,
         "topics": [
-          "Psychology"
+          "Misinformation",
+          "Psychological interventions",
+          "Fact-checking",
+          "Reasoning biases"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000407"
+        "url": "https://doi.org/10.1027/1864-1105/a000407",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000420",
@@ -219,9 +265,13 @@
         "year": 2025,
         "citation_count": 10,
         "topics": [
-          "Sociology"
+          "Social media",
+          "Body image",
+          "Youth",
+          "Appearance comparison"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000420"
+        "url": "https://doi.org/10.1027/1864-1105/a000420",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000402",
@@ -233,9 +283,13 @@
         "year": 2024,
         "citation_count": 7,
         "topics": [
-          "Sociology"
+          "Intimate partner violence",
+          "Social media representation",
+          "Sexual violence survivors",
+          "Stigma and disclosure"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000402"
+        "url": "https://doi.org/10.1027/1864-1105/a000402",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000427",
@@ -248,10 +302,13 @@
         "year": 2024,
         "citation_count": 6,
         "topics": [
-          "Psychology",
-          "Computer Science"
+          "Virtual Reality",
+          "Mixed Reality",
+          "Plausibility Illusion",
+          "Emotional States"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000427"
+        "url": "https://doi.org/10.1027/1864-1105/a000427",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000460",
@@ -264,11 +321,13 @@
         "year": 2025,
         "citation_count": 5,
         "topics": [
-          "Education",
-          "Psychology",
-          "Computer Science"
+          "Virtual Reality Learning",
+          "Cognitive Load Theory",
+          "Educational Technology",
+          "Interactivity"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000460"
+        "url": "https://doi.org/10.1027/1864-1105/a000460",
+        "topics_llm": true
       },
       {
         "doi": "10.1027/1864-1105/a000441",
@@ -280,10 +339,13 @@
         "year": 2025,
         "citation_count": 5,
         "topics": [
-          "Computer Science",
-          "Psychology"
+          "AI-generated news",
+          "Political polarization",
+          "Source credibility",
+          "Confirmation bias"
         ],
-        "url": "https://doi.org/10.1027/1864-1105/a000441"
+        "url": "https://doi.org/10.1027/1864-1105/a000441",
+        "topics_llm": true
       }
     ]
   }

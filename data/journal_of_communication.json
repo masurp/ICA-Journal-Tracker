@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_of_communication",
-  "updated_at": "2026-03-04T19:45:06Z",
-  "trending_from": "2024-03-04",
+  "updated_at": "2026-03-05T13:25:36Z",
+  "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
       {
@@ -11,12 +11,15 @@
           "Annie Lang"
         ],
         "year": 2000,
-        "citation_count": 1506,
-        "altmetric_score": null,
+        "citation_count": 1507,
         "topics": [
-          "Psychology"
+          "Cognitive processing",
+          "Media effects",
+          "Information processing",
+          "Message comprehension"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02833.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02833.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1460-2466.2000.tb02843.x",
@@ -26,12 +29,15 @@
           "Patti M. Valkenburg Valkenburg"
         ],
         "year": 2000,
-        "citation_count": 1399,
-        "altmetric_score": null,
+        "citation_count": 1397,
         "topics": [
-          "Political Science"
+          "Political framing",
+          "European politics",
+          "News media",
+          "Content analysis"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02843.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02843.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1460-2466.2008.01402.x",
@@ -42,11 +48,14 @@
         ],
         "year": 2009,
         "citation_count": 1294,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Media selectivity",
+          "Political ideology",
+          "Partisan media",
+          "News consumption"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2008.01402.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2008.01402.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1460-2466.2010.01488.x",
@@ -58,12 +67,14 @@
         ],
         "year": 2010,
         "citation_count": 1001,
-        "altmetric_score": null,
         "topics": [
-          "Psychology",
-          "Sociology"
+          "Credibility evaluation",
+          "Online communication",
+          "Heuristics",
+          "Social influence"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2010.01488.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2010.01488.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1460-2466.2001.tb02892.x",
@@ -73,11 +84,14 @@
         ],
         "year": 2001,
         "citation_count": 990,
-        "altmetric_score": null,
         "topics": [
-          "Psychology"
+          "Uncertainty management",
+          "Communication theory",
+          "Risk communication",
+          "Organizational communication"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2001.tb02892.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2001.tb02892.x",
+        "topics_llm": true
       },
       {
         "doi": "10.1111/j.1460-2466.2006.00336.x",
@@ -86,12 +100,15 @@
           "Robert M. Entman"
         ],
         "year": 2007,
-        "citation_count": 970,
-        "altmetric_score": null,
+        "citation_count": 971,
         "topics": [
-          "Political Science"
+          "Media framing",
+          "Power dynamics",
+          "News bias",
+          "Political communication"
         ],
-        "url": "https://doi.org/10.1111/j.1460-2466.2006.00336.x"
+        "url": "https://doi.org/10.1111/j.1460-2466.2006.00336.x",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -101,9 +118,13 @@
         "authors": [],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf053"
+        "topics": [
+          "Public broadcasting",
+          "Trust in media",
+          "Communication policy"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf053",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqag001",
@@ -115,9 +136,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqag001"
+        "topics": [
+          "Political polarization",
+          "Media effects",
+          "Co-adaptation",
+          "Cultural evolution"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqag001",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf050",
@@ -128,9 +154,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf050"
+        "topics": [
+          "Temporal communication",
+          "Communication theory",
+          "Time perception",
+          "Message timing"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf050",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf047",
@@ -143,9 +174,13 @@
         ],
         "year": 2026,
         "citation_count": 1,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf047"
+        "topics": [
+          "Longitudinal studies",
+          "Research methodology",
+          "Communication research"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf047",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf054",
@@ -159,9 +194,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf054"
+        "topics": [
+          "Virtual reality",
+          "Moral decision-making",
+          "Threat response",
+          "Altruism"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf054",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf052",
@@ -173,9 +213,14 @@
         ],
         "year": 2025,
         "citation_count": 0,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf052"
+        "topics": [
+          "Vocational anticipatory socialization",
+          "Undocumented immigrants",
+          "Parent-child communication",
+          "Career development"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf052",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -188,9 +233,13 @@
         ],
         "year": 2024,
         "citation_count": 30,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqae029"
+        "topics": [
+          "AI-generated content",
+          "Narrative transportation",
+          "Persuasion"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqae029",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqae022",
@@ -201,9 +250,14 @@
         ],
         "year": 2024,
         "citation_count": 20,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqae022"
+        "topics": [
+          "Deepfakes",
+          "Misinformation",
+          "AI disclaimers",
+          "Media literacy"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqae022",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqae044",
@@ -222,12 +276,14 @@
         ],
         "year": 2024,
         "citation_count": 16,
-        "altmetric_score": null,
         "topics": [
-          "Political Science",
-          "Sociology"
+          "News trust",
+          "Media use patterns",
+          "Longitudinal analysis",
+          "Social media news"
         ],
-        "url": "https://doi.org/10.1093/joc/jqae044"
+        "url": "https://doi.org/10.1093/joc/jqae044",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqae039",
@@ -240,11 +296,14 @@
         ],
         "year": 2024,
         "citation_count": 14,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Media trust",
+          "Selective exposure",
+          "Reinforcing spirals",
+          "Longitudinal dynamics"
         ],
-        "url": "https://doi.org/10.1093/joc/jqae039"
+        "url": "https://doi.org/10.1093/joc/jqae039",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf016",
@@ -256,9 +315,13 @@
         ],
         "year": 2025,
         "citation_count": 14,
-        "altmetric_score": null,
-        "topics": [],
-        "url": "https://doi.org/10.1093/joc/jqaf016"
+        "topics": [
+          "Memorable messages",
+          "Communication theory",
+          "Identity and behavior change"
+        ],
+        "url": "https://doi.org/10.1093/joc/jqaf016",
+        "topics_llm": true
       },
       {
         "doi": "10.1093/joc/jqaf003",
@@ -268,14 +331,14 @@
         ],
         "year": 2025,
         "citation_count": 13,
-        "altmetric_score": null,
         "topics": [
-          "History",
-          "Sociology",
-          "Computer Science",
-          "Law"
+          "Digital colonialism",
+          "Tech power",
+          "Global South",
+          "Digital rights"
         ],
-        "url": "https://doi.org/10.1093/joc/jqaf003"
+        "url": "https://doi.org/10.1093/joc/jqaf003",
+        "topics_llm": true
       }
     ]
   }

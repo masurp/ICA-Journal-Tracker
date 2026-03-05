@@ -1,6 +1,6 @@
 {
   "journal_id": "new_media_society",
-  "updated_at": "2026-03-05T04:42:45Z",
+  "updated_at": "2026-03-05T13:29:00Z",
   "trending_from": "2024-03-05",
   "sections": {
     "most_cited": [
@@ -13,11 +13,14 @@
         ],
         "year": 2010,
         "citation_count": 2712,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Context collapse",
+          "Imagined audience",
+          "Twitter",
+          "Audience management"
         ],
-        "url": "https://doi.org/10.1177/1461444810365313"
+        "url": "https://doi.org/10.1177/1461444810365313",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/1461444809342738",
@@ -27,11 +30,14 @@
         ],
         "year": 2010,
         "citation_count": 1764,
-        "altmetric_score": null,
         "topics": [
-          "Political Science"
+          "Platform politics",
+          "Online content moderation",
+          "Digital communication policy",
+          "Corporate rhetoric"
         ],
-        "url": "https://doi.org/10.1177/1461444809342738"
+        "url": "https://doi.org/10.1177/1461444809342738",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/1461444813487959",
@@ -41,13 +47,15 @@
           "Jan AGM van Dijk"
         ],
         "year": 2013,
-        "citation_count": 1063,
-        "altmetric_score": null,
+        "citation_count": 1064,
         "topics": [
-          "Sociology",
-          "Computer Science"
+          "Digital divide",
+          "Internet usage patterns",
+          "Online behavior",
+          "Digital inequality"
         ],
-        "url": "https://doi.org/10.1177/1461444813487959"
+        "url": "https://doi.org/10.1177/1461444813487959",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/1461444808089415",
@@ -57,11 +65,14 @@
         ],
         "year": 2008,
         "citation_count": 1035,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Social media",
+          "Youth identity",
+          "Privacy and self-expression",
+          "Online risk"
         ],
-        "url": "https://doi.org/10.1177/1461444808089415"
+        "url": "https://doi.org/10.1177/1461444808089415",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/1461444816676645",
@@ -72,14 +83,14 @@
         ],
         "year": 2016,
         "citation_count": 1033,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Philosophy",
-          "Sociology",
-          "Political Science"
+          "Algorithmic accountability",
+          "Transparency",
+          "Black box problem",
+          "Computational systems governance"
         ],
-        "url": "https://doi.org/10.1177/1461444816676645"
+        "url": "https://doi.org/10.1177/1461444816676645",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/1461444816661553",
@@ -92,12 +103,14 @@
         ],
         "year": 2016,
         "citation_count": 904,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Platform studies",
+          "Digital infrastructure",
+          "Social media platforms",
+          "Media governance"
         ],
-        "url": "https://doi.org/10.1177/1461444816661553"
+        "url": "https://doi.org/10.1177/1461444816661553",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -110,11 +123,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Digital segregation",
+          "Migration and integration",
+          "Platform ecosystems",
+          "Homophily"
         ],
-        "url": "https://doi.org/10.1177/14614448261420798"
+        "url": "https://doi.org/10.1177/14614448261420798",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448261422367",
@@ -124,11 +140,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science"
+          "Algorithmic recommendation",
+          "Data realism",
+          "Music streaming platforms",
+          "Datafication"
         ],
-        "url": "https://doi.org/10.1177/14614448261422367"
+        "url": "https://doi.org/10.1177/14614448261422367",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448261424891",
@@ -140,12 +159,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Social media privacy",
+          "Identity management",
+          "Instagram",
+          "Self-presentation"
         ],
-        "url": "https://doi.org/10.1177/14614448261424891"
+        "url": "https://doi.org/10.1177/14614448261424891",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448261419096",
@@ -156,12 +177,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Business",
-          "Computer Science"
+          "Platform complementarity",
+          "Conversational AI",
+          "Platformization",
+          "Digital ecosystems"
         ],
-        "url": "https://doi.org/10.1177/14614448261419096"
+        "url": "https://doi.org/10.1177/14614448261419096",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448261418999",
@@ -175,12 +198,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Political Science",
-          "Psychology"
+          "Social media algorithms",
+          "User control and autonomy",
+          "Political toxicity",
+          "Content moderation"
         ],
-        "url": "https://doi.org/10.1177/14614448261418999"
+        "url": "https://doi.org/10.1177/14614448261418999",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448261421873",
@@ -196,12 +221,14 @@
         ],
         "year": 2026,
         "citation_count": 0,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "AI governance",
+          "Content moderation",
+          "Platform regulation",
+          "Adult content"
         ],
-        "url": "https://doi.org/10.1177/14614448261421873"
+        "url": "https://doi.org/10.1177/14614448261421873",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -215,12 +242,14 @@
         ],
         "year": 2024,
         "citation_count": 81,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Psychology"
+          "Misinformation",
+          "Generative AI",
+          "Information Processing",
+          "Heuristic-Systematic Model"
         ],
-        "url": "https://doi.org/10.1177/14614448241234040"
+        "url": "https://doi.org/10.1177/14614448241234040",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448241304106",
@@ -230,12 +259,14 @@
         ],
         "year": 2024,
         "citation_count": 31,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Sociology"
+          "Algorithmic curation",
+          "Social media platforms",
+          "Public formation",
+          "TikTok"
         ],
-        "url": "https://doi.org/10.1177/14614448241304106"
+        "url": "https://doi.org/10.1177/14614448241304106",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448241253138",
@@ -246,12 +277,14 @@
         ],
         "year": 2024,
         "citation_count": 28,
-        "altmetric_score": null,
         "topics": [
-          "Law",
-          "Political Science"
+          "Deepfakes",
+          "Media literacy",
+          "Digital regulation",
+          "Misinformation"
         ],
-        "url": "https://doi.org/10.1177/14614448241253138"
+        "url": "https://doi.org/10.1177/14614448241253138",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448241251804",
@@ -262,12 +295,14 @@
         ],
         "year": 2024,
         "citation_count": 26,
-        "altmetric_score": null,
         "topics": [
-          "Political Science",
-          "Computer Science"
+          "Disinformation",
+          "TikTok",
+          "Computational propaganda",
+          "Ukraine conflict"
         ],
-        "url": "https://doi.org/10.1177/14614448241251804"
+        "url": "https://doi.org/10.1177/14614448241251804",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448241293154",
@@ -280,12 +315,14 @@
         ],
         "year": 2024,
         "citation_count": 24,
-        "altmetric_score": null,
         "topics": [
-          "Computer Science",
-          "Psychology"
+          "AI credibility assessment",
+          "Generative AI",
+          "Information credibility",
+          "User authentication strategies"
         ],
-        "url": "https://doi.org/10.1177/14614448241293154"
+        "url": "https://doi.org/10.1177/14614448241293154",
+        "topics_llm": true
       },
       {
         "doi": "10.1177/14614448241255955",
@@ -295,11 +332,14 @@
         ],
         "year": 2024,
         "citation_count": 22,
-        "altmetric_score": null,
         "topics": [
-          "Sociology"
+          "Social media news consumption",
+          "Young adults",
+          "Instagram and TikTok",
+          "News discovery"
         ],
-        "url": "https://doi.org/10.1177/14614448241255955"
+        "url": "https://doi.org/10.1177/14614448241255955",
+        "topics_llm": true
       }
     ]
   }
