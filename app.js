@@ -396,13 +396,13 @@ async function renderOverview() {
     <div class="overview-view">
       <div class="overview-header">
         <h2 class="overview-title">All Journals — Overview</h2>
-        <p class="overview-sub">Top papers across all ${totalJournals} journals</p>
+        <p class="overview-sub">Top papers across all ${totalJournals} journals &nbsp;·&nbsp; <button class="trends-anchor-btn" id="trends-anchor-btn">Keyword Trends ↓</button></p>
       </div>
       <div class="sections-grid">
         ${renderLatestSection(overviewData, accentColor)}
         ${renderCiteSection(overviewData, '_overview', accentColor)}
       </div>
-      <div class="trends-section">
+      <div class="trends-section" id="trends-section">
         <div class="trends-header">
           <h2 class="trends-title">Keyword Trends</h2>
           <p class="trends-sub" id="trends-sub">${trendsSubText()}</p>
@@ -416,6 +416,11 @@ async function renderOverview() {
     </div>
   `;
   bindToggleButtons({}, { color: accentColor });
+
+  // Bind trends anchor button
+  document.getElementById('trends-anchor-btn')?.addEventListener('click', () => {
+    document.getElementById('trends-section')?.scrollIntoView({ behavior: 'smooth' });
+  });
 
   // Bind trends toggle buttons
   main.querySelectorAll('.trends-toggle-btn').forEach(btn => {
