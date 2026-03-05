@@ -1,0 +1,379 @@
+{
+  "journal_id": "computational_communication_research",
+  "updated_at": "2026-03-05T14:29:37Z",
+  "trending_from": "2024-03-05",
+  "sections": {
+    "most_cited": [
+      {
+        "doi": "10.5117/ccr2022.2.002.boes",
+        "title": "A framework for privacy preserving digital trace data collection through data donation",
+        "authors": [
+          "Laura Boeschoten",
+          "Jef Ausloos",
+          "Judith E. Möller",
+          "Theo Araujo",
+          "Daniel L. Oberski"
+        ],
+        "year": 2022,
+        "citation_count": 62,
+        "topics": [
+          "Privacy",
+          "Digital trace data",
+          "Data donation",
+          "Data collection methods"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2022.2.002.boes",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.2.004.guin",
+        "title": "Fifteen Seconds of Fame: TikTok and the Supply Side of Social Video",
+        "authors": [
+          "Benjamin Guinaudeau",
+          "Kevin Munger",
+          "Fabio Votta"
+        ],
+        "year": 2022,
+        "citation_count": 53,
+        "topics": [
+          "TikTok",
+          "Short-form video",
+          "Social media platforms",
+          "Content creation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2022.2.004.guin",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.2.001.arau",
+        "title": "OSD2F: An Open-Source Data Donation Framework",
+        "authors": [
+          "Theo Araujo",
+          "Jef Ausloos",
+          "Wouter van Atteveldt",
+          "Felicia Loecherbach",
+          "Judith Moeller",
+          "Jakob Ohme",
+          "Damian Trilling",
+          "Bob van de Velde",
+          "Claes de Vreese",
+          "Kasper Welbers"
+        ],
+        "year": 2022,
+        "citation_count": 47,
+        "topics": [
+          "Data donation",
+          "Open-source framework",
+          "Data science",
+          "Research methodology"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2022.2.001.arau",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.2.007.hage",
+        "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
+        "authors": [
+          "Stijn Peeters",
+          "Sal Hagen"
+        ],
+        "year": 2022,
+        "citation_count": 43,
+        "topics": [
+          "Social media research",
+          "Digital research methodology",
+          "Data analysis tools",
+          "Research transparency"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2022.2.007.hage",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.2.002.lu",
+        "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
+        "authors": [
+          "Yingdan Lu",
+          "Jennifer Pan"
+        ],
+        "year": 2022,
+        "citation_count": 32,
+        "topics": [
+          "Chinese government communication",
+          "Social media content analysis",
+          "Douyin/TikTok",
+          "Political propaganda"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2022.2.002.lu",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2020.1.005.kath",
+        "title": "Detecting Impoliteness and Incivility in Online Discussions",
+        "authors": [
+          "Anke Stoll",
+          "Marc Ziegele",
+          "Oliver Quiring"
+        ],
+        "year": 2020,
+        "citation_count": 29,
+        "topics": [
+          "Online communication",
+          "Incivility detection",
+          "Computational linguistics",
+          "Social media discourse"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2020.1.005.kath",
+        "topics_llm": true
+      }
+    ],
+    "latest": [
+      {
+        "doi": "10.5117/ccr2026.2.3.kim",
+        "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
+        "authors": [
+          "Sang Jung Kim",
+          "Lei Chen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Visual framing",
+          "Protest imagery",
+          "Computational analysis",
+          "Generative AI"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.2.3.kim",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.4.liu",
+        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
+        "authors": [
+          "Anna Yan Liu",
+          "Maggie Mengqing Zhang"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "AI-generated content",
+          "Bias in summarization",
+          "User-generated content",
+          "Public sentiment"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.2.toma",
+        "title": "transforEmotion: An Open-Source R Package for Emotion Analysis Using Transformer-Based Generative AI Models",
+        "authors": [
+          "Aleksandar Tomašević",
+          "Hudson Golino",
+          "Alexander Christensen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Emotion Analysis",
+          "Transformer Models",
+          "Natural Language Processing",
+          "Computational Linguistics"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.2.elda",
+        "title": "Visual Framing in the AI Era: Lessons from Manual Approaches for Computational Methods",
+        "authors": [
+          "Kareem El Damanhoury",
+          "Carol Winkler",
+          "Ayse Lokmanoglu",
+          "Keyu Alexander Chen Glanz"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Visual framing",
+          "Computational communication analysis",
+          "Artificial intelligence",
+          "Manual coding methods"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.1.2.elda",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.1.haga",
+        "title": "Topic Classification of News Articles from URLs Alone",
+        "authors": [
+          "Nick Hagar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Topic classification",
+          "Natural language processing",
+          "News articles",
+          "Web content analysis"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.1.1.haga",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.3.wede",
+        "title": "Longitudinal Data Donation Behavior and Data Omission across Four Social Media Platforms",
+        "authors": [
+          "Lion Wedel",
+          "Jakob Ohme"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Data donation",
+          "Social media platforms",
+          "Longitudinal behavior",
+          "Data privacy"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2026.1.3.wede",
+        "topics_llm": true
+      }
+    ],
+    "trending": [
+      {
+        "doi": "10.5117/ccr2025.1.6.nenn",
+        "title": "Fact-checks as Data Source?  Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
+        "authors": [
+          "Sami Nenno"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Fact-checking",
+          "Content analysis",
+          "Misinformation",
+          "Digital journalism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.4.horn",
+        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
+        "authors": [
+          "Benjamin D. Horne",
+          "Myles Bowman",
+          "Milo Z. Trujillo",
+          "Mauricio Gruppi",
+          "Cody Buntain"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Alternative social media",
+          "Platform economics",
+          "Content distribution",
+          "Digital ecosystems"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.3.dumi",
+        "title": "AMMICO, an AI-based Media and Misinformation Content Analysis Tool",
+        "authors": [
+          "Delia Dumitrescu",
+          "Inga Sabine Ulusoy",
+          "Petr Andriushchenko",
+          "Gwydoin Daskalakis",
+          "Dominic Kempf",
+          "Xianghe Ma"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Misinformation detection",
+          "AI content analysis",
+          "Media analysis tools",
+          "Computational communication"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.3.dumi",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.11.melt",
+        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
+        "authors": [
+          "Christine E. Meltzer",
+          "Michael Scharkow",
+          "Pascal Jürgens"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Gender representation",
+          "Music videos",
+          "Media analysis",
+          "Genre comparison"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.7.righ",
+        "title": "CooRTweet: A Generalized R Software for Coordinated Network Detection",
+        "authors": [
+          "Nicola Righetti",
+          "Paul Balluff"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Coordinated behavior detection",
+          "Twitter networks",
+          "Social media analysis",
+          "R software"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.12.cros",
+        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
+        "authors": [
+          "James Cross",
+          "Derek Greene",
+          "Stefan Müller",
+          "Martijn Schoonvelde"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Political communication",
+          "Digital campaigns",
+          "Social media strategy",
+          "Constituency engagement"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
+        "topics_llm": true
+      }
+    ]
+  }
+}
