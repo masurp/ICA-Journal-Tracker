@@ -368,12 +368,28 @@ async function renderTrendsView() {
 
   await loadAllJournals();
 
-  const allPapers = getAllPapers();
+  // Only use trending + latest sections (not most_cited) for recency relevance
+  const seen = new Set();
+  const allPapers = [];
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const key of ['trending', 'latest']) {
+        for (const paper of data.sections?.[key] || []) {
+          if (paper.doi && !seen.has(paper.doi)) {
+            seen.add(paper.doi);
+            allPapers.push(paper);
+          }
+        }
+      }
+    }
+  }
 
   function subText() {
     return trendsMode === 'title_words'
-      ? `Most frequent words in paper titles across all 16 journals — ${allPapers.length} unique papers`
-      : `Most frequent AI-generated topic keywords across all 16 journals — ${allPapers.length} unique papers`;
+      ? `Most frequent words in paper titles across all 16 journals — ${allPapers.length} recent papers`
+      : `Most frequent AI-generated topic keywords across all 16 journals — ${allPapers.length} recent papers`;
   }
 
   main.innerHTML = `
