@@ -619,7 +619,7 @@ a:hover {
 .meta-badge {
   font-family: var(--font-mono);
   font-size: 0.7rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   display: flex;
   align-items: center;
   gap: 0.3rem;
@@ -633,8 +633,8 @@ a:hover {
   font-family: var(--font-body);
   font-style: italic;
   margin-left: auto;
-  color: var(--text-muted);
-  opacity: 0.7;
+  color: var(--text-secondary);
+  opacity: 0.8;
 }
 
 /* ── Empty State ──────────────────────────────────────────────────────────── */
