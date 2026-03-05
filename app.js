@@ -226,8 +226,106 @@ function extractTopWords(papers, topN = 30) {
     .map(([word, count]) => ({ word, count }));
 }
 
+// ── Overview ─────────────────────────────────────────────────────────────────
+
+let overviewActive = false;
+
+async function renderOverview() {
+  overviewActive = true;
+  trendsActive = false;
+  activeJournalId = null;
+  activePublisherId = null;
+
+  document.querySelectorAll('.publisher-btn').forEach(b => {
+    b.classList.remove('active');
+    b.setAttribute('aria-selected', 'false');
+  });
+  document.querySelectorAll('.tab-btn').forEach(b => {
+    b.classList.remove('active');
+    b.setAttribute('aria-selected', 'false');
+  });
+  document.getElementById('trends-btn')?.classList.remove('active');
+  document.getElementById('overview-btn')?.classList.add('active');
+  document.getElementById('journal-tabs').innerHTML = '';
+
+  const searchInput = document.getElementById('search-input');
+  if (searchInput) searchInput.value = '';
+
+  const main = document.getElementById('main-content');
+  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading overview…</p></div>`;
+
+  await loadAllJournals();
+
+  // Collect papers per section across all journals, with journal label
+  const bySection = { most_cited: [], trending: [], latest: [] };
+  const seenPerSection = { most_cited: new Set(), trending: new Set(), latest: new Set() };
+
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const [sectionKey, papers] of Object.entries(data.sections)) {
+        if (!(sectionKey in bySection)) continue;
+        for (const paper of papers) {
+          if (paper.doi && !seenPerSection[sectionKey].has(paper.doi)) {
+            seenPerSection[sectionKey].add(paper.doi);
+            bySection[sectionKey].push({ ...paper, _journalName: journal.name });
+          }
+        }
+      }
+    }
+  }
+
+  // Sort and take top 10
+  const topCited = bySection.most_cited
+    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
+    .slice(0, 10);
+  const topTrending = bySection.trending
+    .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
+    .slice(0, 10);
+  const topLatest = bySection.latest
+    .sort((a, b) => (b.year || 0) - (a.year || 0))
+    .slice(0, 10);
+
+  function overviewSection(title, tooltip, papers) {
+    const cards = papers.map((p, i) => `
+      <div class="search-result-item">
+        <div class="search-journal-label">${escapeHtml(p._journalName)}</div>
+        ${renderCard(p, i + 1)}
+      </div>
+    `).join('');
+    return `
+      <div class="section-col">
+        <div class="section-heading">
+          <span class="section-label">${escapeHtml(title)}</span>
+          <button class="section-info-btn" aria-label="Info">
+            ⓘ
+            <span class="section-tooltip">${escapeHtml(tooltip)}</span>
+          </button>
+        </div>
+        ${cards}
+      </div>
+    `;
+  }
+
+  main.innerHTML = `
+    <div class="overview-view">
+      <div class="overview-header">
+        <h2 class="overview-title">All Journals — Overview</h2>
+        <p class="overview-sub">Top papers across all ${publishers.reduce((n, p) => n + p.journals.length, 0)} journals</p>
+      </div>
+      <div class="sections-grid">
+        ${overviewSection('Most Cited', 'Top 10 most-cited papers across all journals (Crossref).', topCited)}
+        ${overviewSection('Trending', 'Top 10 papers from the last 2 years by citation count, across all journals.', topTrending)}
+        ${overviewSection('Latest', 'The 10 most recently published papers across all journals.', topLatest)}
+      </div>
+    </div>
+  `;
+}
+
 async function renderTrendsView() {
   trendsActive = true;
+  overviewActive = false;
   activeJournalId = null;
   document.querySelectorAll('.tab-btn').forEach(b => {
     b.classList.remove('active');
@@ -267,7 +365,7 @@ async function renderTrendsView() {
     <div class="trends-view">
       <div class="trends-header">
         <h2 class="trends-title">Keyword Trends</h2>
-        <p class="trends-sub">Most frequent words in paper titles across all 15 journals — based on ${allPapers.length} unique papers</p>
+        <p class="trends-sub">Most frequent words in paper titles across all 16 journals — based on ${allPapers.length} unique papers</p>
       </div>
       <div class="trends-chart">${rows}</div>
     </div>
@@ -331,7 +429,9 @@ function getAllPapers() {
 
 async function performSearch(query) {
   trendsActive = false;
+  overviewActive = false;
   document.getElementById('trends-btn')?.classList.remove('active');
+  document.getElementById('overview-btn')?.classList.remove('active');
   const main = document.getElementById('main-content');
   main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Searching across all journals…</p></div>`;
 
@@ -400,14 +500,17 @@ async function init() {
     publishers = config.publishers || [];
     renderPublisherTabs();
     initSearch();
+    document.getElementById('overview-btn')?.addEventListener('click', () => {
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) searchInput.value = '';
+      renderOverview();
+    });
     document.getElementById('trends-btn')?.addEventListener('click', () => {
       const searchInput = document.getElementById('search-input');
       if (searchInput) searchInput.value = '';
       renderTrendsView();
     });
-    if (publishers.length > 0) {
-      await selectPublisher(publishers[0]);
-    }
+    await renderOverview();
   } catch (err) {
     showError(`Failed to load journal config: ${err.message}`);
   }
@@ -451,7 +554,9 @@ async function selectPublisher(publisher) {
   activePublisherId = publisher.id;
   activeJournalId = null;
   trendsActive = false;
+  overviewActive = false;
   document.getElementById('trends-btn')?.classList.remove('active');
+  document.getElementById('overview-btn')?.classList.remove('active');
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.value = '';
 
@@ -507,7 +612,9 @@ function setActiveJournalTab(journalId) {
 
 async function loadJournal(journal, publisher) {
   trendsActive = false;
+  overviewActive = false;
   document.getElementById('trends-btn')?.classList.remove('active');
+  document.getElementById('overview-btn')?.classList.remove('active');
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.value = '';
 
