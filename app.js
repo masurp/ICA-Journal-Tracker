@@ -304,7 +304,7 @@ let overviewActive = false;
 
 async function renderOverview() {
   overviewActive = true;
-  trendsActive = false;
+
   activeJournalId = null;
   activePublisherId = null;
 
@@ -316,7 +316,7 @@ async function renderOverview() {
     b.classList.remove('active');
     b.setAttribute('aria-selected', 'false');
   });
-  document.getElementById('trends-btn')?.classList.remove('active');
+
   document.getElementById('overview-btn')?.classList.add('active');
   document.getElementById('journal-tabs').innerHTML = '';
 
@@ -368,6 +368,30 @@ async function renderOverview() {
   const accentColor = 'var(--accent)';
   const totalJournals = publishers.reduce((n, p) => n + p.journals.length, 0);
 
+  // Collect recent papers for trends (trending + latest only)
+  const trendsSeen = new Set();
+  const trendsPapers = [];
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const key of ['trending', 'latest']) {
+        for (const paper of data.sections?.[key] || []) {
+          if (paper.doi && !trendsSeen.has(paper.doi)) {
+            trendsSeen.add(paper.doi);
+            trendsPapers.push(paper);
+          }
+        }
+      }
+    }
+  }
+
+  function trendsSubText() {
+    return trendsMode === 'title_words'
+      ? `Most frequent words in paper titles — ${trendsPapers.length} recent papers`
+      : `Most frequent AI-generated topic keywords — ${trendsPapers.length} recent papers`;
+  }
+
   main.innerHTML = `
     <div class="overview-view">
       <div class="overview-header">
@@ -378,9 +402,33 @@ async function renderOverview() {
         ${renderLatestSection(overviewData, accentColor)}
         ${renderCiteSection(overviewData, '_overview', accentColor)}
       </div>
+      <div class="trends-section">
+        <div class="trends-header">
+          <h2 class="trends-title">Keyword Trends</h2>
+          <p class="trends-sub" id="trends-sub">${trendsSubText()}</p>
+          <div class="trends-toggle" role="group" aria-label="Trend source">
+            <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
+            <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
+          </div>
+        </div>
+        <div class="trends-chart" id="trends-chart">${renderTrendsChartHtml(trendsPapers)}</div>
+      </div>
     </div>
   `;
   bindToggleButtons({}, { color: accentColor });
+
+  // Bind trends toggle buttons
+  main.querySelectorAll('.trends-toggle-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (trendsMode === btn.dataset.mode) return;
+      trendsMode = btn.dataset.mode;
+      main.querySelectorAll('.trends-toggle-btn').forEach(b =>
+        b.classList.toggle('active', b.dataset.mode === trendsMode)
+      );
+      document.getElementById('trends-sub').textContent = trendsSubText();
+      document.getElementById('trends-chart').innerHTML = renderTrendsChartHtml(trendsPapers);
+    });
+  });
 }
 
 let trendsMode = 'title_words';
@@ -406,71 +454,6 @@ function renderTrendsChartHtml(papers) {
   }).join('');
 }
 
-async function renderTrendsView() {
-  trendsActive = true;
-  overviewActive = false;
-  activeJournalId = null;
-  document.querySelectorAll('.tab-btn').forEach(b => {
-    b.classList.remove('active');
-    b.setAttribute('aria-selected', 'false');
-  });
-  document.getElementById('trends-btn')?.classList.add('active');
-
-  const main = document.getElementById('main-content');
-  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading trends across all journals…</p></div>`;
-
-  await loadAllJournals();
-
-  // Only use trending + latest sections (not most_cited) for recency relevance
-  const seen = new Set();
-  const allPapers = [];
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      const data = dataCache[journal.id];
-      if (!data) continue;
-      for (const key of ['trending', 'latest']) {
-        for (const paper of data.sections?.[key] || []) {
-          if (paper.doi && !seen.has(paper.doi)) {
-            seen.add(paper.doi);
-            allPapers.push(paper);
-          }
-        }
-      }
-    }
-  }
-
-  function subText() {
-    return trendsMode === 'title_words'
-      ? `Most frequent words in paper titles across all 16 journals — ${allPapers.length} recent papers`
-      : `Most frequent AI-generated topic keywords across all 16 journals — ${allPapers.length} recent papers`;
-  }
-
-  main.innerHTML = `
-    <div class="trends-view">
-      <div class="trends-header">
-        <h2 class="trends-title">Keyword Trends</h2>
-        <p class="trends-sub" id="trends-sub">${subText()}</p>
-        <div class="trends-toggle" role="group" aria-label="Trend source">
-          <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
-          <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
-        </div>
-      </div>
-      <div class="trends-chart" id="trends-chart">${renderTrendsChartHtml(allPapers)}</div>
-    </div>
-  `;
-
-  main.querySelectorAll('.trends-toggle-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      if (trendsMode === btn.dataset.mode) return;
-      trendsMode = btn.dataset.mode;
-      main.querySelectorAll('.trends-toggle-btn').forEach(b =>
-        b.classList.toggle('active', b.dataset.mode === trendsMode)
-      );
-      document.getElementById('trends-sub').textContent = subText();
-      document.getElementById('trends-chart').innerHTML = renderTrendsChartHtml(allPapers);
-    });
-  });
-}
 
 // ── Search ───────────────────────────────────────────────────────────────────
 
@@ -576,9 +559,9 @@ function applySearchFilter(results, filter) {
 }
 
 async function performSearch(query) {
-  trendsActive = false;
+
   overviewActive = false;
-  document.getElementById('trends-btn')?.classList.remove('active');
+
   document.getElementById('overview-btn')?.classList.remove('active');
   const main = document.getElementById('main-content');
   main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Searching across all journals…</p></div>`;
@@ -650,8 +633,8 @@ function bindSearchFilterTabs() {
 }
 
 function restoreJournalView() {
-  trendsActive = false;
-  document.getElementById('trends-btn')?.classList.remove('active');
+
+
   const pub = publishers.find(p => p.id === activePublisherId);
   const journal = pub?.journals.find(j => j.id === activeJournalId);
   if (!journal || !pub || !dataCache[journal.id]) return;
@@ -666,7 +649,7 @@ function restoreJournalView() {
 let publishers = [];
 let activePublisherId = null;
 let activeJournalId = null;
-let trendsActive = false;
+
 const dataCache = {};
 
 // ── Init ─────────────────────────────────────────────────────────────────────
@@ -693,11 +676,6 @@ async function init() {
       const searchInput = document.getElementById('search-input');
       if (searchInput) searchInput.value = '';
       renderOverview();
-    });
-    document.getElementById('trends-btn')?.addEventListener('click', () => {
-      const searchInput = document.getElementById('search-input');
-      if (searchInput) searchInput.value = '';
-      renderTrendsView();
     });
     await renderOverview();
   } catch (err) {
@@ -755,9 +733,9 @@ function setActivePublisherTab(publisherId) {
 async function selectPublisher(publisher) {
   activePublisherId = publisher.id;
   activeJournalId = null;
-  trendsActive = false;
+
   overviewActive = false;
-  document.getElementById('trends-btn')?.classList.remove('active');
+
   document.getElementById('overview-btn')?.classList.remove('active');
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.value = '';
@@ -813,9 +791,9 @@ function setActiveJournalTab(journalId) {
 // ── Journal loading ───────────────────────────────────────────────────────────
 
 async function loadJournal(journal, publisher) {
-  trendsActive = false;
+
   overviewActive = false;
-  document.getElementById('trends-btn')?.classList.remove('active');
+
   document.getElementById('overview-btn')?.classList.remove('active');
   const searchInput = document.getElementById('search-input');
   if (searchInput) searchInput.value = '';

@@ -151,12 +151,11 @@ a:hover {
 .publisher-nav {
   display: flex;
   gap: 0.35rem;
-  padding: 0.7rem 1rem 0 1.5rem;
+  padding: 0.7rem 1.5rem 0;
   overflow-x: auto;
   scrollbar-width: none;
   -webkit-overflow-scrolling: touch;
-  flex: 1;
-  min-width: 0;
+  border-bottom: 1px solid var(--border);
 }
 
 .publisher-nav::-webkit-scrollbar { display: none; }
@@ -207,14 +206,6 @@ a:hover {
 }
 
 /* ── Journal Nav Tabs ─────────────────────────────────────────────────────── */
-
-.publisher-nav-row {
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
-  border-bottom: 1px solid var(--border);
-  padding-right: 1rem;
-}
 
 .journal-nav {
   display: flex;
@@ -684,36 +675,6 @@ a:hover {
   box-shadow: 0 0 0 3px color-mix(in srgb, var(--journal-color) 12%, transparent);
 }
 
-/* ── Trends Button ────────────────────────────────────────────────────────── */
-
-.trends-btn {
-  flex-shrink: 0;
-  background: transparent;
-  border: 1px solid var(--border);
-  border-radius: var(--radius-pill);
-  padding: 0.3rem 0.85rem;
-  font-family: var(--font-body);
-  font-size: 0.72rem;
-  font-weight: 600;
-  color: var(--text-muted);
-  cursor: pointer;
-  transition: color var(--transition), border-color var(--transition), background var(--transition);
-  white-space: nowrap;
-  letter-spacing: 0.03em;
-  margin-bottom: 4px;
-}
-
-.trends-btn:hover {
-  color: var(--text-secondary);
-  border-color: var(--border-hover);
-}
-
-.trends-btn.active {
-  color: var(--journal-color);
-  border-color: var(--journal-color);
-  background: color-mix(in srgb, var(--journal-color) 10%, transparent);
-}
-
 /* ── Search Results ───────────────────────────────────────────────────────── */
 
 .search-results-header {
@@ -837,6 +798,13 @@ a:hover {
 
 .trends-view {
   animation: fadeIn 0.25s ease;
+  max-width: 720px;
+}
+
+.trends-section {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
   max-width: 720px;
 }
 
