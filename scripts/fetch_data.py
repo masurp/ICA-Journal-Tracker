@@ -7,7 +7,7 @@ Run locally or via GitHub Actions (weekly cron).
 Usage:
   python3 fetch_data.py                  # fetch all journals
   python3 fetch_data.py --journal jcmc   # fetch one journal by id
-  python3 fetch_data.py --force          # skip DOI cache, re-fetch all enrichment
+  python3 fetch_data.py --force          # skip DOI cache, re-fetch all S2 topic data
 """
 
 import argparse
@@ -33,7 +33,6 @@ ROWS = 10       # fetch more than needed so we have room to deduplicate
 TOP_N = 6       # papers shown per section
 CROSSREF_BASE = "https://api.crossref.org/works"
 S2_BASE = "https://api.semanticscholar.org/graph/v1/paper"
-ALTMETRIC_BASE = "https://api.altmetric.com/v1/doi"
 
 errors: list[str] = []
 
@@ -111,7 +110,6 @@ def parse_crossref_paper(item: dict) -> dict:
         "authors": authors,
         "year": year,
         "citation_count": citations,
-        "altmetric_score": None,
         "topics": [],
         "url": f"https://doi.org/{doi}" if doi else "",
     }
@@ -166,32 +164,6 @@ def enrich_semantic_scholar(papers: list[dict], doi_cache: dict[str, dict]) -> N
         paper["topics"] = seen[doi]
 
 
-def enrich_altmetric(papers: list[dict], doi_cache: dict[str, dict]) -> None:
-    """Mutates papers in-place, adding Altmetric attention scores.
-    Uses doi_cache to skip API calls for already-known DOIs."""
-    seen: dict[str, float | None] = {}
-    for paper in papers:
-        doi = paper["doi"].lower()
-        # Hit local cache first (None means "we looked and found nothing" — still skip)
-        if doi in doi_cache and "altmetric_score" in doi_cache[doi]:
-            paper["altmetric_score"] = doi_cache[doi]["altmetric_score"]
-            seen[doi] = doi_cache[doi]["altmetric_score"]
-            continue
-        if doi in seen:
-            paper["altmetric_score"] = seen[doi]
-            continue
-        data = get(f"{ALTMETRIC_BASE}/{doi}")
-        if not data:
-            seen[doi] = None
-            paper["altmetric_score"] = None
-            time.sleep(0.3)  # short pause on 404/miss — no rate limit needed
-            continue
-        score = data.get("score")
-        seen[doi] = round(score, 1) if score is not None else None
-        paper["altmetric_score"] = seen[doi]
-        time.sleep(1.5)  # rate-limit only on successful hits
-
-
 # ── Per-journal pipeline ──────────────────────────────────────────────────────
 
 def deduplicate(papers: list[dict]) -> list[dict]:
@@ -231,11 +203,8 @@ def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
     cached = sum(1 for p in all_papers if p["doi"].lower() in doi_cache)
     print(f"  Unique papers to enrich: {len(all_papers)} ({cached} cached, {len(all_papers) - cached} new)")
 
-    print("  [4/4] Semantic Scholar — topic labels…")
+    print("  [3/3] Semantic Scholar — topic labels…")
     enrich_semantic_scholar(all_papers, doi_cache)
-
-    print("  [4/4] Altmetric — attention scores…")
-    enrich_altmetric(all_papers, doi_cache)
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
@@ -270,7 +239,7 @@ def main():
     )
     parser.add_argument(
         "--force", action="store_true",
-        help="Ignore DOI cache — re-fetch all S2 and Altmetric data from scratch.",
+        help="Ignore DOI cache — re-fetch all S2 topic data from scratch.",
     )
     args = parser.parse_args()
 
