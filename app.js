@@ -82,6 +82,7 @@ function renderCard(paper, rank) {
   const journalStr = paper._journalName
     ? `<span class="meta-badge meta-badge-journal">${escapeHtml(paper._journalName)}</span>`
     : '';
+  const doiAttr = escapeHtml(paper.doi || '');
 
   return `
     <article class="paper-card">
@@ -103,13 +104,65 @@ function renderCard(paper, rank) {
           </span>
           ${journalStr}
         </div>
+        <button class="paper-details-btn" data-doi="${doiAttr}" aria-label="Show abstract">Abstract ↗</button>
       </div>
     </article>
   `;
 }
 
+// ── Paper Detail Modal ────────────────────────────────────────────────────────
+
+const paperIndex = new Map(); // doi → paper object, built on demand
+
+function indexPaper(paper) {
+  if (paper.doi) paperIndex.set(paper.doi.toLowerCase(), paper);
+}
+
+function openPaperModal(doi) {
+  const paper = paperIndex.get(doi.toLowerCase());
+  if (!paper) return;
+
+  const yearStr = paper.year || '—';
+  const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
+  const topicsHtml = renderTopics(paper.topics);
+  const abstractHtml = paper.abstract
+    ? `<p class="modal-abstract">${escapeHtml(paper.abstract)}</p>`
+    : `<p class="modal-abstract modal-abstract-empty">No abstract available.</p>`;
+
+  const modal = document.getElementById('paper-modal');
+  document.getElementById('modal-title').textContent = paper.title;
+  document.getElementById('modal-authors').innerHTML = renderAuthorLinks(paper.authors);
+  document.getElementById('modal-meta').innerHTML = `
+    <span class="meta-badge"><span class="badge-icon">📅</span>${yearStr}</span>
+    <span class="meta-badge"><span class="badge-icon">🔗</span>${citStr} citations</span>
+    ${paper._journalName ? `<span class="meta-badge meta-badge-journal">${escapeHtml(paper._journalName)}</span>` : ''}
+  `;
+  document.getElementById('modal-topics').innerHTML = topicsHtml;
+  document.getElementById('modal-abstract-wrap').innerHTML = abstractHtml;
+  document.getElementById('modal-link').href = paper.url || '#';
+
+  modal.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closePaperModal() {
+  document.getElementById('paper-modal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function initModal() {
+  document.addEventListener('click', e => {
+    const btn = e.target.closest('.paper-details-btn[data-doi]');
+    if (btn) { openPaperModal(btn.dataset.doi); return; }
+    if (e.target.id === 'paper-modal' || e.target.closest('.modal-close-btn')) closePaperModal();
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closePaperModal();
+  });
+}
+
 function renderCiteSection(data, journalId, journalColor) {
-  const mode = citeModeState[journalId] || 'most_cited';
+  const mode = citeModeState[journalId] || 'trending';
   const section = CITE_MODES[mode];
   const papers = data.sections?.[section.key] || [];
   const cardsHtml = papers.length > 0
@@ -124,15 +177,15 @@ function renderCiteSection(data, journalId, journalColor) {
     <div class="section-col" id="cite-section-${escapeHtml(journalId)}">
       <div class="section-heading">
         <div class="cite-toggle" role="group" aria-label="Citation view">
-          <button class="cite-toggle-btn ${mode === 'most_cited' ? 'active' : ''}"
-            data-mode="most_cited" data-journal="${escapeHtml(journalId)}"
-            style="--toggle-color:${journalColor}">
-            All Time
-          </button>
           <button class="cite-toggle-btn ${mode === 'trending' ? 'active' : ''}"
             data-mode="trending" data-journal="${escapeHtml(journalId)}"
             style="--toggle-color:${journalColor}">
             Trending
+          </button>
+          <button class="cite-toggle-btn ${mode === 'most_cited' ? 'active' : ''}"
+            data-mode="most_cited" data-journal="${escapeHtml(journalId)}"
+            style="--toggle-color:${journalColor}">
+            All Time
           </button>
         </div>
         <button class="section-info-btn" aria-label="Info">
@@ -169,8 +222,8 @@ function renderJournalView(journal, publisher, data) {
   const color = publisher.color;
   document.documentElement.style.setProperty('--journal-color', color);
 
-  const sectionsHtml = renderCiteSection(data, journal.id, color)
-    + renderLatestSection(data, color);
+  const sectionsHtml = renderLatestSection(data, color)
+    + renderCiteSection(data, journal.id, color);
 
   return `
     <div class="journal-view">
@@ -322,8 +375,8 @@ async function renderOverview() {
         <p class="overview-sub">Top papers across all ${totalJournals} journals</p>
       </div>
       <div class="sections-grid">
-        ${renderCiteSection(overviewData, '_overview', accentColor)}
         ${renderLatestSection(overviewData, accentColor)}
+        ${renderCiteSection(overviewData, '_overview', accentColor)}
       </div>
     </div>
   `;
@@ -455,13 +508,23 @@ async function loadAllJournals() {
         fetches.push(
           fetch(`data/${journal.id}.json`)
             .then(r => r.ok ? r.json() : null)
-            .then(data => { if (data) dataCache[journal.id] = data; })
+            .then(data => { if (data) { dataCache[journal.id] = data; indexJournalData(data, journal.name); } })
             .catch(() => {})
         );
       }
     }
   }
   await Promise.all(fetches);
+}
+
+function indexJournalData(data, journalName) {
+  for (const section of Object.values(data.sections || {})) {
+    for (const paper of section) {
+      if (paper.doi && !paperIndex.has(paper.doi.toLowerCase())) {
+        paperIndex.set(paper.doi.toLowerCase(), { ...paper, _journalName: journalName });
+      }
+    }
+  }
 }
 
 function getAllPapers() {
@@ -617,6 +680,7 @@ async function init() {
     publishers = config.publishers || [];
     renderPublisherTabs();
     initSearch();
+    initModal();
     document.addEventListener('click', e => {
       const chip = e.target.closest('.topic-chip[data-topic]');
       if (!chip) return;
@@ -777,6 +841,7 @@ async function loadJournal(journal, publisher) {
       return r.json();
     });
     dataCache[journal.id] = data;
+    indexJournalData(data, journal.name);
     if (activeJournalId !== journal.id) return;
     main.innerHTML = renderJournalView(journal, publisher, data);
     setLastUpdated(data.updated_at);

@@ -116,7 +116,7 @@ def parse_crossref_paper(item: dict) -> dict:
         "year": year,
         "citation_count": citations,
         "topics": [],
-        "_abstract": abstract,   # used during enrichment, stripped before writing
+        "abstract": abstract,
         "url": f"https://doi.org/{doi}" if doi else "",
     }
 
@@ -160,7 +160,7 @@ def enrich_with_llm(papers: list[dict], doi_cache: dict[str, dict]) -> None:
             continue
 
         title = paper.get("title", "")
-        abstract = paper.get("_abstract", "")
+        abstract = paper.get("abstract", "")
         content = f"Title: {title}"
         if abstract:
             content += f"\nAbstract: {abstract[:800]}"
@@ -233,9 +233,6 @@ def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
     print("  [4/4] Claude Haiku — topic keywords…")
     enrich_with_llm(all_papers, doi_cache)
 
-    # Strip temporary abstract field before writing to JSON
-    for p in all_papers:
-        p.pop("_abstract", None)
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
