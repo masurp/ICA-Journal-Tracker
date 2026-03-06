@@ -822,7 +822,6 @@ a:hover {
   margin-top: 2.5rem;
   padding-top: 2rem;
   border-top: 1px solid var(--border);
-  max-width: 720px;
 }
 
 .trends-header {
@@ -878,10 +877,11 @@ a:hover {
   box-shadow: 0 0 8px color-mix(in srgb, var(--accent) 20%, transparent);
 }
 
-.trends-chart {
+.chart-bars {
   display: flex;
   flex-direction: column;
   gap: 0.55rem;
+  max-width: 720px;
 }
 
 .chart-row {
@@ -891,6 +891,8 @@ a:hover {
 }
 
 .chart-label {
+  -webkit-appearance: none;
+  appearance: none;
   font-family: var(--font-mono);
   font-size: 0.72rem;
   color: var(--text-secondary);
@@ -898,6 +900,16 @@ a:hover {
   flex-shrink: 0;
   text-align: right;
   text-transform: lowercase;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  transition: color var(--transition);
+}
+
+.chart-label:hover {
+  color: var(--accent);
 }
 
 .chart-bar-wrap {
@@ -925,6 +937,71 @@ a:hover {
   font-size: 0.65rem;
   color: var(--text-secondary);
   white-space: nowrap;
+}
+
+/* ── Topic Cluster Cards ─────────────────────────────────────────────────── */
+
+.cluster-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .cluster-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cluster-card {
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--bg-card);
+  color: inherit;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.15rem;
+  cursor: pointer;
+  transition: border-color var(--transition), background var(--transition);
+  text-align: left;
+  font-family: var(--font-body);
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.cluster-card:hover {
+  border-color: var(--accent);
+  background: var(--bg-card-hover);
+}
+
+.cluster-name {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  text-transform: capitalize;
+}
+
+.cluster-count {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text-muted);
+}
+
+.cluster-keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.2rem;
+}
+
+.cluster-kw {
+  font-size: 0.65rem;
+  font-family: var(--font-mono);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+  border-radius: var(--radius-pill);
+  padding: 0.15rem 0.5rem;
 }
 
 /* ── Paper Details Button ─────────────────────────────────────────────────── */

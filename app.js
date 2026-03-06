@@ -298,6 +298,74 @@ function extractTopKeywords(papers, topN = 30) {
     .map(([word, count]) => ({ word, count }));
 }
 
+function extractTopicClusters(papers, maxClusters = 8) {
+  // Build keyword → papers index
+  const keywordPapers = {};
+  for (const paper of papers) {
+    if (!paper.topics || paper.topics.length === 0) continue;
+    for (const topic of paper.topics) {
+      const key = topic.toLowerCase();
+      if (!keywordPapers[key]) keywordPapers[key] = [];
+      keywordPapers[key].push(paper);
+    }
+  }
+
+  // Build co-occurrence matrix (keyword pairs that appear on same paper)
+  const cooccur = {};
+  for (const paper of papers) {
+    if (!paper.topics || paper.topics.length < 2) continue;
+    const keys = paper.topics.map(t => t.toLowerCase());
+    for (let i = 0; i < keys.length; i++) {
+      for (let j = i + 1; j < keys.length; j++) {
+        const pair = [keys[i], keys[j]].sort().join('|||');
+        cooccur[pair] = (cooccur[pair] || 0) + 1;
+      }
+    }
+  }
+
+  // Greedy clustering: start with most frequent keyword, absorb co-occurring ones
+  const allKeywords = Object.keys(keywordPapers).sort((a, b) =>
+    keywordPapers[b].length - keywordPapers[a].length
+  );
+  const assigned = new Set();
+  const clusters = [];
+
+  for (const seed of allKeywords) {
+    if (assigned.has(seed)) continue;
+    if (clusters.length >= maxClusters) break;
+
+    const cluster = { keywords: [seed], paperDois: new Set() };
+    assigned.add(seed);
+    for (const p of keywordPapers[seed]) { if (p.doi) cluster.paperDois.add(p.doi); }
+
+    // Find co-occurring keywords with this seed
+    const candidates = [];
+    for (const kw of allKeywords) {
+      if (assigned.has(kw)) continue;
+      const pair = [seed, kw].sort().join('|||');
+      const score = cooccur[pair] || 0;
+      if (score >= 2) candidates.push({ kw, score });
+    }
+    candidates.sort((a, b) => b.score - a.score);
+
+    for (const { kw } of candidates.slice(0, 4)) {
+      assigned.add(kw);
+      cluster.keywords.push(kw);
+      for (const p of keywordPapers[kw]) { if (p.doi) cluster.paperDois.add(p.doi); }
+    }
+
+    if (cluster.paperDois.size >= 3) {
+      clusters.push({
+        name: cluster.keywords[0],
+        keywords: cluster.keywords,
+        count: cluster.paperDois.size,
+      });
+    }
+  }
+
+  return clusters;
+}
+
 // ── Overview ─────────────────────────────────────────────────────────────────
 
 let overviewActive = false;
@@ -387,9 +455,9 @@ async function renderOverview() {
   }
 
   function trendsSubText() {
-    return trendsMode === 'title_words'
-      ? `Most frequent words in paper titles — ${trendsPapers.length} recent papers`
-      : `Most frequent AI-generated topic keywords — ${trendsPapers.length} recent papers`;
+    if (trendsMode === 'title_words') return `Most frequent words in paper titles — ${trendsPapers.length} recent papers`;
+    if (trendsMode === 'clusters') return `Topics clustered by co-occurrence — ${trendsPapers.length} recent papers`;
+    return `Most frequent AI-generated topic keywords — ${trendsPapers.length} recent papers`;
   }
 
   main.innerHTML = `
@@ -407,8 +475,9 @@ async function renderOverview() {
           <h2 class="trends-title">Keyword Trends</h2>
           <p class="trends-sub" id="trends-sub">${trendsSubText()}</p>
           <div class="trends-toggle" role="group" aria-label="Trend source">
-            <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
             <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
+            <button class="trends-toggle-btn ${trendsMode === 'clusters' ? 'active' : ''}" data-mode="clusters">Topic Clusters</button>
+            <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
           </div>
         </div>
         <div class="trends-chart" id="trends-chart">${renderTrendsChartHtml(trendsPapers)}</div>
@@ -432,23 +501,52 @@ async function renderOverview() {
       );
       document.getElementById('trends-sub').textContent = trendsSubText();
       document.getElementById('trends-chart').innerHTML = renderTrendsChartHtml(trendsPapers);
+      bindTrendsSearchLinks();
+    });
+  });
+
+  bindTrendsSearchLinks();
+}
+
+function bindTrendsSearchLinks() {
+  document.querySelectorAll('[data-search]').forEach(el => {
+    el.addEventListener('click', () => {
+      const query = el.dataset.search;
+      const searchInput = document.getElementById('search-input');
+      if (searchInput) searchInput.value = query;
+      performSearch(query);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   });
 }
 
-let trendsMode = 'title_words';
+let trendsMode = 'openalex_keywords';
 
 function renderTrendsChartHtml(papers) {
+  if (trendsMode === 'clusters') {
+    const clusters = extractTopicClusters(papers);
+    if (clusters.length === 0) return '<div class="empty-card">No data available.</div>';
+    return `<div class="cluster-grid">${clusters.map(c => `
+      <button class="cluster-card" data-search="${escapeHtml(c.keywords[0])}">
+        <span class="cluster-name">${escapeHtml(c.name)}</span>
+        <span class="cluster-count">${c.count} papers</span>
+        <div class="cluster-keywords">${c.keywords.map(k =>
+          `<span class="cluster-kw">${escapeHtml(k)}</span>`
+        ).join('')}</div>
+      </button>
+    `).join('')}</div>`;
+  }
+
   const items = trendsMode === 'title_words'
     ? extractTopWords(papers)
     : extractTopKeywords(papers);
   if (items.length === 0) return '<div class="empty-card">No data available.</div>';
   const maxCount = items[0].count;
-  return items.map(({ word, count }) => {
+  const rows = items.map(({ word, count }) => {
     const pct = Math.round((count / maxCount) * 100);
     return `
       <div class="chart-row">
-        <span class="chart-label">${escapeHtml(word)}</span>
+        <button class="chart-label" data-search="${escapeHtml(word)}">${escapeHtml(word)}</button>
         <div class="chart-bar-wrap">
           <div class="chart-bar" style="width:${pct}%">
             <span class="chart-count">${count}</span>
@@ -457,6 +555,7 @@ function renderTrendsChartHtml(papers) {
       </div>
     `;
   }).join('');
+  return `<div class="chart-bars">${rows}</div>`;
 }
 
 
