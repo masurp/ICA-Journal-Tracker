@@ -104,7 +104,7 @@ function renderCard(paper, rank) {
           </span>
           ${journalStr}
         </div>
-        <button class="paper-details-btn" data-doi="${doiAttr}" aria-label="Show abstract">Abstract ↗</button>
+        ${paper.abstract ? `<button class="paper-details-btn" data-doi="${doiAttr}" aria-label="Show abstract">Abstract ↗</button>` : ''}
       </div>
     </article>
   `;
