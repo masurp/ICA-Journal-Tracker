@@ -1,6 +1,6 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-03-09T07:03:47Z",
+  "updated_at": "2026-03-09T15:37:53Z",
   "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
@@ -13,33 +13,15 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 1378,
+        "citation_count": 2040,
         "topics": [
           "Misinformation",
           "Media literacy",
           "News credibility",
           "Information verification"
         ],
-        "abstract": "",
+        "abstract": "This paper is based on a review of how previous studies have defined and operationalized the term “fake news.” An examination of 34 academic articles that used the term “fake news” between 2003 and 2017 resulted in a typology of types of fake news: news satire, news parody, fabrication, manipulation, advertising, and propaganda. These definitions are based on two dimensions: levels of facticity and deception. Such a typology is offered to clarify what we mean by fake news and to guide future studies.",
         "url": "https://doi.org/10.1080/21670811.2017.1360143",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2014.976411",
-        "title": "Algorithmic Accountability",
-        "authors": [
-          "Nicholas Diakopoulos"
-        ],
-        "year": 2014,
-        "citation_count": 499,
-        "topics": [
-          "Algorithmic transparency",
-          "Platform accountability",
-          "Digital governance",
-          "Computational journalism"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2014.976411",
         "topics_llm": true
       },
       {
@@ -50,51 +32,33 @@
           "Andrew McStay"
         ],
         "year": 2017,
-        "citation_count": 495,
+        "citation_count": 755,
         "topics": [
           "Misinformation",
           "Emotional appeals",
           "Media effects",
           "Information economy"
         ],
-        "abstract": "",
+        "abstract": "This paper examines the 2016 US presidential election campaign to identify problems with, causes of and solutions to the contemporary fake news phenomenon. To achieve this, we employ textual analysis and feedback from engagement, meetings and panels with technologists, journalists, editors, non-profits, public relations firms, analytics firms and academics during the globally leading technology conference, South-by-South West, in March 2017. We further argue that what is most significant about the contemporary fake news furore is what it portends: the use of personally and emotionally targeted news produced by algo-journalism and what we term “empathic media”. In assessing solutions to this democratically problematic situation, we recommend that greater attention is paid to the role of digital advertising in causing, and combating, both the contemporary fake news phenomenon, and the near-horizon variant of empathically optimised automated fake news.",
         "url": "https://doi.org/10.1080/21670811.2017.1345645",
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2014.976412",
-        "title": "The Robotic Reporter",
+        "doi": "10.1080/21670811.2014.976411",
+        "title": "Algorithmic Accountability",
         "authors": [
-          "Matt Carlson"
+          "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 380,
+        "citation_count": 663,
         "topics": [
-          "Artificial intelligence",
-          "Automated journalism",
-          "News production",
-          "Technology and media"
+          "Algorithmic transparency",
+          "Platform accountability",
+          "Digital governance",
+          "Computational journalism"
         ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2014.976412",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2014.976400",
-        "title": "Clarifying Journalism’s Quantitative Turn",
-        "authors": [
-          "Mark Coddington"
-        ],
-        "year": 2014,
-        "citation_count": 356,
-        "topics": [
-          "Journalism",
-          "Quantitative methods",
-          "Data journalism",
-          "Media studies"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2014.976400",
+        "abstract": "Every day automated algorithms make decisions that can amplify the power of businesses and governments. Yet as algorithms come to regulate more aspects of our lives, the contours of their power can remain difficult to grasp. This paper studies the notion of algorithmic accountability reporting as a mechanism for elucidating and articulating the power structures, biases, and influences that computational artifacts exercise in society. A framework for algorithmic power based on autonomous decision-making is proffered and motivates specific questions about algorithmic influence. Five cases of algorithmic accountability reporting involving the use of reverse engineering methods in journalism are then studied and analyzed to provide insight into the method and its application in a journalism context. The applicability of transparency policies for algorithms is discussed alongside challenges to implementing algorithmic accountability as a broadly viable investigative method.",
+        "url": "https://doi.org/10.1080/21670811.2014.976411",
         "topics_llm": true
       },
       {
@@ -106,19 +70,74 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 355,
+        "citation_count": 503,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
           "Journalism",
           "Natural language processing"
         ],
-        "abstract": "",
+        "abstract": "The huge collections of news content which have become available through digital technologies both enable and warrant scientific inquiry, challenging journalism scholars to analyse unprecedented amounts of texts. We propose Latent Dirichlet Allocation (LDA) topic modelling as a tool to face this challenge. LDA is a cutting edge technique for content analysis, designed to automatically organize large archives of documents based on latent topics, measured as patterns of word (co-)occurrence. We explain how this technique works, how different choices by the researcher affect the results and how the results can be meaningfully interpreted. To demonstrate its usefulness for journalism research, we conducted a case study of the New York Times coverage of nuclear technology from 1945 to the present, partially replicating a study by Gamson and Modigliani. This shows that LDA is a useful tool for analysing trends and patterns in news content in large digital news archives relatively quickly.",
         "url": "https://doi.org/10.1080/21670811.2015.1093271",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.976412",
+        "title": "The Robotic Reporter",
+        "authors": [
+          "Matt Carlson"
+        ],
+        "year": 2014,
+        "citation_count": 474,
+        "topics": [
+          "Artificial intelligence",
+          "Automated journalism",
+          "News production",
+          "Technology and media"
+        ],
+        "abstract": "Among the emergent data-centric practices of journalism, none appear to be as potentially disruptive as “automated journalism.” The term denotes algorithmic processes that convert data into narrative news texts with limited to no human intervention beyond the initial programming choices. The growing ability of machine-written news texts portends new possibilities for an expansive terrain of news content far exceeding the production capabilities of human journalists. A case study analysis of the pioneering automated journalism provider Narrative Science and journalists’ published reactions to its services reveals intense competition both to imagine an emergent journalism landscape in which most news content is automated and to define how this situation creates new challenges for journalists. What emerges is a technological drama over the potentials of this emerging news technology concerning issues of the future of journalistic labor, the rigid conformity of news compositional forms, and the normative foundation of journalistic authority. In these ways, this study contends with the emergent practice of automated news content creation both in how it alters the working practices of journalists and how it affects larger understandings of what journalism is and how it ought to operate.",
+        "url": "https://doi.org/10.1080/21670811.2014.976412",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.976400",
+        "title": "Clarifying Journalism’s Quantitative Turn",
+        "authors": [
+          "Mark Coddington"
+        ],
+        "year": 2014,
+        "citation_count": 474,
+        "topics": [
+          "Journalism",
+          "Quantitative methods",
+          "Data journalism",
+          "Media studies"
+        ],
+        "abstract": "As quantitative forms have become more prevalent in professional journalism, it has become increasingly important to distinguish between them and examine their roles in contemporary journalistic practice. This study defines and compares three quantitative forms of journalism—computer-assisted reporting, data journalism, and computational journalism—examining the points of overlap and divergence among their journalistic values and practices. After setting the three forms against the cultural backdrop of the convergence between the open-source movement and professional journalistic norms, the study introduces a four-part typology to evaluate their epistemological and professional dimensions. In it, the three forms are classified according to their orientation toward professional expertise or networked participation, transparency or opacity, big data or targeted sampling, and a vision of an active or passive public. These three quantitative journalistic forms are ultimately characterized as related but distinct approaches to integrating the values of open-source culture and social science with those of professional journalism, each with its own flaws but also its own distinct contribution to democratically robust journalistic practice.",
+        "url": "https://doi.org/10.1080/21670811.2014.976400",
         "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/21670811.2026.2633613",
+        "title": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
+        "authors": [
+          "Laura Jacobs",
+          "Peter Van Aelst"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "News Media Consumption",
+          "Conspiracy Theories",
+          "Misinformation",
+          "Media Effects"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2633613",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/21670811.2026.2640421",
         "title": "Journalistic Epistemic Authority in the Age of AI: The Incorporation of Generative AI in Newsrooms",
@@ -130,32 +149,13 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Journalistic authority",
-          "Generative AI",
-          "Newsroom practices",
-          "Epistemic credibility"
+          "Artificial intelligence",
+          "Journalism",
+          "Epistemic authority",
+          "News production"
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2026.2640421",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2026.2633613",
-        "title": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
-        "authors": [
-          "Laura Jacobs",
-          "Peter Van Aelst"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Conspiracy theories",
-          "News media consumption",
-          "Misinformation",
-          "Belief formation"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2633613",
         "topics_llm": true
       },
       {
@@ -167,10 +167,10 @@
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Visual journalism",
-          "Open source investigation",
-          "Digital media",
-          "Investigative reporting"
+          "Open source journalism",
+          "Visual investigative reporting",
+          "Digital media futures",
+          "Participatory journalism"
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2026.2636905",
@@ -188,9 +188,9 @@
         "citation_count": 0,
         "topics": [
           "Digital authoritarianism",
-          "Press freedom",
-          "Accountability journalism",
-          "Latin America"
+          "Journalism accountability",
+          "Chilling effect",
+          "Latin American media"
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2026.2638928",
@@ -202,7 +202,7 @@
         "authors": [
           "Henning Eichler",
           "Bernadette Uth",
-          "Hannah Ötting",
+          "Hannah Lea Ötting",
           "Vanessa Kokoschka"
         ],
         "year": 2026,
@@ -218,21 +218,25 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2026.2636907",
-        "title": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
+        "doi": "10.1080/21670811.2026.2633623",
+        "title": "Algorithmic News Content Personalization and Readers’ Attitudes",
         "authors": [
-          "Patrick Ferrucci"
+          "Yixue Wang",
+          "Aaron Shaw",
+          "Stephanie Edgerly",
+          "Darren Gergle",
+          "Nicholas Diakopoulos"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Algorithmic journalism",
-          "Newsroom automation",
-          "Occupational change",
-          "Organizational communication"
+          "Algorithmic personalization",
+          "News consumption",
+          "Filter bubbles",
+          "Audience attitudes"
         ],
         "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2636907",
+        "url": "https://doi.org/10.1080/21670811.2026.2633623",
         "topics_llm": true
       }
     ],
@@ -241,7 +245,7 @@
         "doi": "10.1080/21670811.2024.2331769",
         "title": "Generative Visual AI in News Organizations: Challenges, Opportunities, Perceptions, and Policies",
         "authors": [
-          "T. J. Thomson",
+          "T.J. Thomson",
           "Ryan J. Thomas",
           "Phoebe Matich"
         ],
@@ -253,7 +257,7 @@
           "Visual journalism",
           "Media policy"
         ],
-        "abstract": "",
+        "abstract": "The use of AI-enabled text-to-image generators, such as Midjourney and DALL-E, raises profound questions about the purpose, meaning, and value of images generally, and the production, editing, and consumption of images in journalism specifically. This study explores how photo editors (or their equivalents) in seven countries perceive and/or use generative visual AI in their editorial operations and outlines the challenges and opportunities they see for the technology. It also identifies the extent to which these news organizations have policies governing how generative visual AI is used or, if not, the principles that they feel should inform their development. Participants identified mis/disinformation as the primary challenge of AI-generated images, also raising concerns about labor and copyright implications, the difficulty or impossibility of detecting AI-generated images, the potential for algorithmic bias, and the potential reputational risk of using AI-generated images. Conversely, participants saw potential for using AI for illustrations and brainstorming, while a minority saw it as an opportunity to increase efficiencies and cut costs.",
         "url": "https://doi.org/10.1080/21670811.2024.2331769",
         "topics_llm": true
       },
@@ -264,7 +268,7 @@
           "Edward Hurcombe"
         ],
         "year": 2024,
-        "citation_count": 21,
+        "citation_count": 22,
         "topics": [
           "Influencer journalism",
           "Platform media",
@@ -276,6 +280,45 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2329648",
+        "title": "Recasting Twitch: Livestreaming, Platforms, and New Frontiers in Digital Journalism",
+        "authors": [
+          "Maxwell Foxman",
+          "Brandon C. Harris",
+          "William Clyde Partin"
+        ],
+        "year": 2024,
+        "citation_count": 17,
+        "topics": [
+          "Livestreaming",
+          "Digital journalism",
+          "Platform studies",
+          "Online communities"
+        ],
+        "abstract": "Despite Twitch's dominant position in Western livestreaming markets, institutional journalists rarely produce content on the platform. This paper investigates how journalistic practices, cultures, business models, and institutions approach Twitch through three empirical sites: The Washington Post's experimentation with the app, left-leaning political influencer Hasan Piker, and the pro-QAnon 24/7 \"news\" channel, Patriots' Soapbox. The cases demonstrate how newsmaking on Twitch flouts traditional journalists' ideological and occupational boundaries, exploiting the platform's features and affordances to enroll the audience in a live broadcasting experience.",
+        "url": "https://doi.org/10.1080/21670811.2024.2329648",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2394764",
+        "title": "Analyzing Sensationalism in News on Twitter ( <i>X</i> ): Clickbait Journalism by Legacy vs. Online-Native Outlets and the Consequences for User Engagement",
+        "authors": [
+          "Salman Khawar",
+          "Mark Boukes"
+        ],
+        "year": 2024,
+        "citation_count": 16,
+        "topics": [
+          "Clickbait journalism",
+          "Social media news",
+          "User engagement",
+          "Legacy vs. online-native media"
+        ],
+        "abstract": "News consumption patterns have evolved as people increasingly get news through social media. A by-product of this change has been the rise of “clickbaits”—a form of journalism that utilizes sensationalist techniques to lure readers into clicking on links. Although clickbaits have become common, not much is known about the use of this journalistic practice. This study empirically investigates whether online-native news outlets utilize more sensational features than legacy news outlets to promote their news stories on Twitter (now X). The impact of sensationalism on subsequent user engagement metrics is also tested. First, a manual content analysis of 1,440 tweets by news media organizations was conducted, identifying sensationalism through ten features. Second, an automated content analysis was conducted on a dataset of 25,600 tweets, replicating the manual coding process. The results confirm that online-native outlets (Huffington Post, BuzzFeed) utilized more sensationalism than online legacy outlets (USA Today, L.A. Times). Furthermore, a positive relationship was found between the number of sensationalist features employed and the favorite count, confirming the effectiveness of clickbaits. The automated content analysis by-and-large corroborated the findings of the manual annotation, and additionally revealed a positive effect of sensationalism on the number of retweets.",
+        "url": "https://doi.org/10.1080/21670811.2024.2394764",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2326928",
         "title": "Alternative Media Vary Between Mild Distortion and Extreme Misinformation: Steps Toward a Typology",
         "authors": [
@@ -284,75 +327,34 @@
           "Frank Esser"
         ],
         "year": 2024,
-        "citation_count": 16,
+        "citation_count": 15,
         "topics": [
           "Alternative media",
           "Misinformation",
           "Media typology",
           "Disinformation"
         ],
-        "abstract": "",
+        "abstract": "Social media has faced criticism for promoting misinformation. The role of alternative media in spreading misinformation, however, remains uncertain. We examined 1661 Facebook posts from 25 most popular alternative media outlets during the Covid-19 pandemic in five countries (France, Germany, Switzerland, the UK, and the US). Our codebook covered a wide range of categories, from mild misleading content to blatant misinformation. Through cluster analysis, we identified four reporting types in alternative media: Light distortion, heavy distortion, ideological misinformation, and extreme misinformation. Light and heavy distortion were most prevalent in popular alternative media, while ideological and extreme misinformation had smaller but more engaged audiences. In summary, alternative media found more success on Facebook with content categorized as light and heavy distortion. This typology recognizes complexity in misinformation and alternative media research, while simultaneously reduces complexity to contribute to comparative studies in the future.",
         "url": "https://doi.org/10.1080/21670811.2024.2326928",
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2394764",
-        "title": "Analyzing Sensationalism in News on Twitter (\n            <i>X</i>\n            ): Clickbait Journalism by Legacy vs. Online-Native Outlets and the Consequences for User Engagement",
-        "authors": [
-          "Salman Khawar",
-          "Mark Boukes"
-        ],
-        "year": 2024,
-        "citation_count": 15,
-        "topics": [
-          "Clickbait journalism",
-          "Social media news",
-          "User engagement",
-          "Legacy vs. online-native media"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2024.2394764",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2024.2332609",
-        "title": "The War in Ukraine Through the Prism of Visual Disinformation and the Limits of Specialized Fact-Checking. A Case-Study at\n            <i>Le Monde</i>",
+        "title": "The War in Ukraine Through the Prism of Visual Disinformation and the Limits of Specialized Fact-Checking. A Case-Study at <i>Le Monde</i>",
         "authors": [
           "Pauline Zecchinon",
           "Olivier Standaert"
         ],
         "year": 2024,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Visual disinformation",
           "Fact-checking",
           "Ukraine conflict",
           "Media analysis"
         ],
-        "abstract": "",
+        "abstract": "The Russian invasion of Ukraine in February 2022 led to a flood of disinformation circulating online, making fact-checking and verification crucial for journalists covering the conflict. Based on five semi-structured interviews and an analysis of 48 debunks published between February and October 2022, this study aims to understand how Les Décodeurs, the fact-checking unit of the French daily newspaper Le Monde, organized its practices in response to the flow of visual disinformation surrounding the conflict, and to place them within the broader framework of practices and categorizations of previous research on fact-checking and disinformation. The findings show that most fact-checks focuses on authentic images with misleading captions, rather than sophisticated manipulation. Previous categorizations prove their ability to describe the 48 pieces of visual disinformation but a more refined approach is suggested by considering visual disinformation as mainly multi-modal. The study reveals the fact-checkers’ role as gatekeepers in filtering content from social networks and addressing the challenge of countering viral disinformation while avoiding unintended amplification. It also identifies a blend of shared and individualized approaches among fact-checking journalists, including manual and pre-digital methods, reflecting the adaptable nature of their work. Based on the latest developments of gatekeeping functions, the study highlights limitations in the challenge of reconciling reactive and retroactive practices with mid-term editorial considerations in a rapidly evolving media ecosystem.",
         "url": "https://doi.org/10.1080/21670811.2024.2332609",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2435579",
-        "title": "“I Resist”. A Study of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk Perceptions, Trust and Credibility",
-        "authors": [
-          "Sophie Morosoli",
-          "Valeria Resendez",
-          "Laurens Naudts",
-          "Natali Helberger",
-          "Claes de Vreese"
-        ],
-        "year": 2025,
-        "citation_count": 13,
-        "topics": [
-          "Generative AI",
-          "Journalism",
-          "Risk perception",
-          "Trust and credibility"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2024.2435579",
         "topics_llm": true
       }
     ]

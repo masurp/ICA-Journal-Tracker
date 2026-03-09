@@ -1,9 +1,28 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-03-09T07:03:19Z",
+  "updated_at": "2026-03-09T15:37:23Z",
   "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.1080/10584609.1993.9962963",
+        "title": "Framing analysis: An approach to news discourse",
+        "authors": [
+          "Zhongdang Pan",
+          "Gerald M. Kosicki"
+        ],
+        "year": 1993,
+        "citation_count": 1951,
+        "topics": [
+          "News framing",
+          "Political discourse",
+          "Media analysis",
+          "Public policy communication"
+        ],
+        "abstract": "Abstract In the American political process, news discourse concerning public policy issues is carefully constructed. This occurs in part because both politicians and interest groups take an increasingly proactive approach to amplify their views of what an issue is about However, news media also play an active role in framing public policy issues. Thus, in this article, news discourse is conceived as a sociocognitive process involving all three players: sources, journalists, and audience members operating in the universe of shared culture and on the basis of socially defined roles. Framing analysis is presented as a constructivist approach to examine news discourse with the primary focus on conceptualizing news texts into empirically operationalizable dimensions—syntactical, script, thematic, and rhetorical structures—so that evidence of the news media's framing of issues in news texts may be gathered. This is considered an initial step toward analyzing the news discourse process as a whole. Finally, an extended empirical example is provided to illustrate the applications of this conceptual framework of news texts.",
+        "url": "https://doi.org/10.1080/10584609.1993.9962963",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584600590933160",
         "title": "The Internet, Public Spheres, and Political Communication: Dispersion and Deliberation",
@@ -11,50 +30,70 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 943,
+        "citation_count": 1542,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
           "Internet communication",
           "Online discourse"
         ],
-        "abstract": "",
+        "abstract": "The theme of the Internet and the public sphere now has a permanent place on research agendas and in intellectual inquiry; it is entering the mainstream of political communication studies. The first part of this presentation briefly pulls together key elements in the public sphere perspective, underscoring three main analytic dimensions: the structural, the representational, and the interactional. Then the discussion addresses some central themes in the current difficulties facing democracy, refracted through the lens of the public sphere perspective. In particular, the destabilization of political communication systems is seen as a context for understanding the role of the Internet: It enters into, as well as contributes to, this destabilization. At the same time, the notion of destabilization can also embody a positive sense, pointing to dispersions of older patterns that may have outlived their utility. Further, the discussion takes up obvious positive consequences that follow from the Internet, for example that it extends and pluralizes the public sphere in a number of ways. Thereafter the focus moves on to the interactional dimension of the public sphere, specifically in regard to recent research on how deliberation proceeds in the online public sphere in the contemporary environment of political communication. Finally, the analytic category of deliberative democracy is critically examined; while useful, some of its rationalist biases, particularly in the context of extra–parliamentarian politics, limit its utility. It is suggested that the concept of civic cultures offers an alternative way to understand the significance of online political discussion.",
         "url": "https://doi.org/10.1080/10584600590933160",
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584600902854363",
-        "title": "Does Internet Use Affect Engagement? A Meta-Analysis of Research",
+        "doi": "10.1080/105846099198613",
+        "title": "\"Mediatization\" of Politics: A Challenge for Democracy?",
         "authors": [
-          "Shelley Boulianne"
+          "Gianpietro Mazzoleni",
+          "Winfried Schulz"
         ],
-        "year": 2009,
-        "citation_count": 646,
+        "year": 1999,
+        "citation_count": 1460,
         "topics": [
-          "Internet use",
-          "Civic engagement",
-          "Meta-analysis",
-          "Digital media"
+          "Mediatization",
+          "Media and politics",
+          "Democratic institutions",
+          "Political communication"
         ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584600902854363",
+        "abstract": "The growing intrusion of media into the political domain in many countries has led critics to worry about the approach of the \"media-driven republic,\" in which mass media will usurp the functions of political institutions in the liberal state. However, close inspection of the evidence reveals that political institutions in many nations have retained their functions in the face of expanded media power. The best description of the current situation is \"mediatization,\" where political institutions increasingly are dependent on and shaped by mass media but nevertheless remain in control of political processes and functions.",
+        "url": "https://doi.org/10.1080/105846099198613",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/105846099198596",
+        "title": "The Third Age of Political Communication: Influences and Features",
+        "authors": [
+          "Jay G. Blumler",
+          "Dennis Kavanagh"
+        ],
+        "year": 1999,
+        "citation_count": 1029,
+        "topics": [
+          "Political communication",
+          "Media evolution",
+          "Democratic institutions",
+          "Electoral behavior"
+        ],
+        "abstract": "This article identifies key changes in society and the media that have shaped political communication in many democracies over the postwar period. Three distinct ages are described. In the first, much political communication was subordinate to relatively strong and stable political institutions and beliefs. In the second, faced with a more mobile electorate, the parties increasingly \"professionalized\" and adapted their communications to the news values and formats of limited-channel television. In the third (still emerging) age of media abundance, political communication may be reshaped by five trends: intensified professionalizing imperatives, increased competitive pressures, anti-elitist populism, a process of \"centrifugal diversification,\" and changes in how people receive politics. This system is full of tensions, sets new research priorities, and reopens long-standing issues of democratic theory.",
+        "url": "https://doi.org/10.1080/105846099198596",
         "topics_llm": true
       },
       {
         "doi": "10.1080/105846001750322952",
         "title": "\"Connecting\" and \"Disconnecting\" With Civic Life: Patterns of Internet Use and the Production of Social Capital",
         "authors": [
-          "Dhavan V. Shah, Nojin Kwak, R. Lance Holbe"
+          "Dhavan V. Shah"
         ],
         "year": 2001,
-        "citation_count": 591,
+        "citation_count": 971,
         "topics": [
           "Internet use",
           "Social capital",
           "Civic engagement",
           "Digital communication"
         ],
-        "abstract": "",
+        "abstract": "This article explores the relationship between Internet use and the individual-level production of social capital. To do so, the authors adopt a motivational perspective to distinguish among types of Internet use when examining the factors predicting civic engagement, interpersonal trust, and life contentment. The predictive power of new media use is then analyzed relative to key demographic, contextual, and traditional media use variables using the 1999 DDB Life Style Study. Although the size of associations is generally small, the data suggest that informational uses of the Internet are positively related to individual differences in the production of social capital, whereas social-recreational uses are negatively related to these civic indicators. Analyses within subsamples defined by generational age breaks further suggest that social capital production is related to Internet use among Generation X, while it is tied to television use among Baby Boomers and newspaper use among members of the Civic Generation. The possibility of life cycle and cohort effects is discussed.",
         "url": "https://doi.org/10.1080/105846001750322952",
         "topics_llm": true
       },
@@ -62,57 +101,18 @@
         "doi": "10.1080/10584600390244176",
         "title": "Cascading Activation: Contesting the White House's Frame After 9/11",
         "authors": [
-          "ROBERT M. ENTMAN"
+          "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 578,
+        "citation_count": 958,
         "topics": [
           "Political communication",
           "Framing analysis",
           "Crisis communication",
           "Media discourse"
         ],
-        "abstract": "",
+        "abstract": "President Bush's initial frame for the attacks of September 11, 2001, overwhelmingly dominated the news.Using that frame as a springboard, this article advances a coherent conception of framing within a new model of the relationship between government and the media in U.S. foreign policy making.The cascading activation model supplements research using the hegemony or indexing approaches.The model explains how interpretive frames activate and spread from the top level of a stratified system (the White House) to the network of nonadministration elites, and on to news organizations, their texts, and the public-and how interpretations feed back from lower to higher levels.To illustrate the model's potential, the article explores the frame challenge mounted by two journalists, Seymour Hersh and Thomas Friedman, who attempted to shift the focus from Afghanistan to Saudi Arabia.As hegemony theory predicts, 9/11 revealed yet again that media patrol the boundaries of culture and keep discord within conventional bounds.But inside those borders, even when government is promoting \"war\" against terrorism, media are not entirely passive receptacles for government propaganda, and the cascade model illuminates deviations from the preferred frame.As index theorists suggest, elite discord is a necessary condition for politically influential frame challenges.Among other things, the cascade model helps explain whether that condition arises, and how journalists can hinder or advance it.",
         "url": "https://doi.org/10.1080/10584600390244176",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2019.1668894",
-        "title": "Fact-Checking: A Meta-Analysis of What Works and for Whom",
-        "authors": [
-          "Nathan Walter",
-          "Jonathan Cohen",
-          "R. Lance Holbert",
-          "Yasmin Morag"
-        ],
-        "year": 2019,
-        "citation_count": 469,
-        "topics": [
-          "Fact-checking",
-          "Misinformation",
-          "Meta-analysis",
-          "Persuasion effects"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2019.1668894",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2015.1102187",
-        "title": "Belief Echoes: The Persistent Effects of Corrected Misinformation",
-        "authors": [
-          "Emily Thorson"
-        ],
-        "year": 2015,
-        "citation_count": 449,
-        "topics": [
-          "Misinformation correction",
-          "Belief persistence",
-          "Backfire effects",
-          "Information processing"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2015.1102187",
         "topics_llm": true
       }
     ],
@@ -128,8 +128,8 @@
         "citation_count": 0,
         "topics": [
           "Misinformation",
-          "Negative framing",
-          "Social media discourse",
+          "Negative messaging",
+          "Communication effects",
           "Information credibility"
         ],
         "abstract": "",
@@ -149,31 +149,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/10584609.2026.2635255",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2026.2618486",
-        "title": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
-        "authors": [
-          "Paul Balluff",
-          "Justin Chun-ting Ho",
-          "Johannes B. Gruber",
-          "Sean Palicki",
-          "Alexis Palmer",
-          "Luca Rossi",
-          "Irina Shklovski",
-          "Chung-hong Chan"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Large Language Models",
-          "Communication research methodology",
-          "Research ethics",
-          "AI adoption critique"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2026.2618486",
         "topics_llm": true
       },
       {
@@ -213,6 +188,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2026.2618486",
+        "title": "Newer, Larger, Better? A Critique of the Unreflective LLM Adoption in Communication Research",
+        "authors": [
+          "Paul Balluff",
+          "Justin Chun‐ting Ho",
+          "Johannes B. Gruber",
+          "Sean Palicki",
+          "Alexis Palmer",
+          "Luca Rossi",
+          "Irina Shklovski",
+          "Chung‐hong Chan"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Large Language Models",
+          "Communication research methodology",
+          "Research ethics",
+          "AI adoption critique"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2618486",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2025.2611913",
         "title": "Artificial Intelligence in Election Campaigns: Perceptions, Penalties, and Implications",
         "authors": [
@@ -243,14 +243,14 @@
           "Silke Adam"
         ],
         "year": 2024,
-        "citation_count": 26,
+        "citation_count": 28,
         "topics": [
           "Hyperpartisan media",
           "Conspiracy theories",
           "Alternative media",
           "Political polarization"
         ],
-        "abstract": "",
+        "abstract": "While there is growing academic attention to readers of hyperpartisan, alternative, and conspiracy (HAC) media, our understanding of these sites has developed in separate bodies of work. We make a case for studying HAC media in unison, recognizing them as different information sources that share the same underlying anti-establishment sentiment. We do so by painting a detailed portrait of HAC media users, detailing 1) who consumes HAC media; 2) how they access it; and 3) how its consumption relates to public opinion. This is made possible by the unique combination of panel surveys taken before and after the first COVID-19 lockdowns in Germany and Switzerland, and webtracking data capturing participants' actual online behavior. Our results show that those exposed to HAC media have a strong distrust of government and place themselves at the ideological extremes. While social media was a quintessential entry point for such media, most visits were registered by a small percentage of repeat visitors. Lastly, we show that those who consumed HAC media developed distinct opinions about the threat posed by COVID-19, mirroring the sentiments expressed in HAC media that the danger of the virus was exaggerated and that the real threat was to individual freedoms. With this case study, we showcase the theoretical utility of taking an integrated approach to HAC media, while providing nuanced insights into their audience.",
         "url": "https://doi.org/10.1080/10584609.2024.2325426",
         "topics_llm": true
       },
@@ -262,14 +262,14 @@
           "Jingjing Yi"
         ],
         "year": 2024,
-        "citation_count": 23,
+        "citation_count": 24,
         "topics": [
           "Social media",
           "Political engagement",
           "Polarization",
           "Democratic participation"
         ],
-        "abstract": "",
+        "abstract": "Studies addressing the normative questions of whether social media use positively or negatively affects citizens' levels of democratic engagement and satisfaction with democracy have produced mixed findings.This study tests the proposition that political polarization plays an important contingent role in explaining these relationships.Combining Varieties of Democracy (VDEM) and World Values Survey (WVS) data, this study examines how issue polarization and affective polarization at the country level shape the relationships between social media use for political information and democratic outcomes in 27 developed democracies.The findings show divergent consequences of social media use contingent on affective polarization.In the countries with high affective polarization, social media use increased democratic engagement (i.e.participation and voting) and decreased satisfaction with democracy (i.e.political satisfaction and perceived quality of democracy), which may have implications for democratic erosion and backsliding.In the countries with low affective polarization, social media use increased the perceived quality of democracy but had no effect on political satisfaction.Issue polarization had a limited contingent influence.The findings contribute to the literature by explicating the dynamics of country-level affective polarization that can shape and contextualize the relationship between social media use and democratic engagement in democracies across the world.",
         "url": "https://doi.org/10.1080/10584609.2024.2325423",
         "topics_llm": true
       },
@@ -283,14 +283,14 @@
           "Peter Van Aelst"
         ],
         "year": 2024,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Social media",
           "Alternative news media",
           "Populism",
           "Emotional engagement"
         ],
-        "abstract": "",
+        "abstract": "This study employs a comparative analytical framework to enhance our understanding of the conducive opportunity structures that foster emotionally charged political discourse. We examined 175,539 Facebook posts characterized by variations in content (in terms of themes and populist rhetoric), authorship (including populist politicians, traditional news, and alternative media), and geographic context (Belgium, France, Germany, Switzerland, UK, US). We then analyzed 360,000 emotional responses from Facebook users to determine which posts create the most conducive conditions for eliciting angry emotions. Our key findings show that posts from alternative and hyperpartisan media, as well as those from populist politicians and parties, tend to elicit elevated levels of angry reactions. These posts often use anti-elitist and exclusionary language. This finding has significant implications, as the anger generated by such accounts can propagate incivility and polarization and facilitate the spread of ideologically driven misinformation. A particular case is Donald Trump, who, as a populist governing figure, manages to elicit positive emotions, including \"love,\" despite delivering seemingly antagonistic messages. To strengthen the robustness of our findings, we conducted a replication analysis with 67,620 Facebook posts from three of the six countries and examined two different time periods. This analysis confirmed the persistence of our findings over time. Our opportunitystructure framework offers valuable insights for designing targeted strategies to improve the quality of public discourse and promote informed and constructive political engagement in diverse societies.",
         "url": "https://doi.org/10.1080/10584609.2024.2350416",
         "topics_llm": true
       },
@@ -301,33 +301,35 @@
           "Michael Hameleers"
         ],
         "year": 2024,
-        "citation_count": 14,
+        "citation_count": 17,
         "topics": [
           "Visual disinformation",
           "Social media",
           "Content analysis",
           "Alternative media"
         ],
-        "abstract": "",
+        "abstract": "Online political disinformation often relies on decontextualized or manipulated images. Visual content can make disinformation more attention-grabbing and credible as it offers a direct index of reality. Yet, most research to date has mapped the salience and nature of disinformation by exclusively focusing on textual content. Responding to urgent calls in the literature, this paper relies on an inductive qualitative analysis of visual disinformation disseminated by alternative media platforms. Based on the analysis, we propose a typology of different applications of visuals in disinformation: (1) Signaling legitimacy and adherence to conventional news values through seemingly unrelated images; (2) illustrating authoritative expert consensus through the visualization of disinformation by alternative experts; (3) emphasizing widespread social support for unconventional truth claims through the inclusion of visuals depicting the vox populi; (4) offering decontextualized proof for conspiracy theories and counter-factual claims. This typology intends to inform future empirical research that aims to detect disinformation narratives across different (digital) contexts.",
         "url": "https://doi.org/10.1080/10584609.2024.2354389",
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2024.2363545",
-        "title": "Epistemic Vulnerability: Theory and Measurement at the System Level",
+        "doi": "10.1080/10584609.2024.2414268",
+        "title": "Political Communication Research is Unprepared for the Far Right",
         "authors": [
-          "Julien Labarre"
+          "Curd Knüpfer",
+          "Sarah J. Jackson",
+          "Daniel Kreiss"
         ],
         "year": 2024,
-        "citation_count": 12,
+        "citation_count": 15,
         "topics": [
-          "Epistemic vulnerability",
-          "System-level analysis",
-          "Knowledge systems",
-          "Information credibility"
+          "Far-right movements",
+          "Political communication",
+          "Democratic discourse",
+          "Illiberalism"
         ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2024.2363545",
+        "abstract": "In this introductory piece to a special issue of the Forum, we explore the inadequacies of the field of political communication in addressing the rising threats posed by illiberalism and the far right. We argue that the discipline’s frameworks, developed within the context of Western liberal democracies, are ill-equipped to tackle the complexities and self-reflexive strategies of contemporary far-right movements and actor types. These formations exploit liberal norms and practices to ultimately undermine and dismantle democratic values. We call for more “democratic clarity,” urging political communication scholars to adopt a clear stance in defense of democratic principles and to develop more robust conceptual tools to accurately classify and understand far-right actors. We introduce the other discussion pieces featured in this special section and ultimately point to actionable items meant to move the field forward.",
+        "url": "https://doi.org/10.1080/10584609.2024.2414268",
         "topics_llm": true
       },
       {
@@ -346,14 +348,14 @@
           "Luisa Gehle"
         ],
         "year": 2024,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Disinformation",
           "Political communication",
           "Persuasion",
           "War rhetoric"
         ],
-        "abstract": "",
+        "abstract": "Conventional wisdom suggests that social media, especially when used by authoritarian powers with nefarious aims, leaves citizens of democratic countries vulnerable to psychological influence campaigns. But such concerns overlook predispositions among recipients of false claims to reject (or to endorse) conspiratorial narratives. Analyzing responses from a survey fielded in 19 countries, we find that it is a preexisting conspiracy outlook at the individual level, more so than media diets, which consistently predicts rating Russia's pretenses for the invasion as more accurate. In all countries, individuals who view the world in general with a conspiratorial mindset are more likely to believe war-related disinformation. Receiving news via YouTube, Facebook, or TikTok is also associated with greater belief in Russian narratives justifying the invasion in several countries, but these relationships are weaker compared to those observed for conspiracy thinking. Without downplaying a potential positive role for media interventions, the findings highlight the importance of a deeper understanding of the underlying causes of conspiratorial thinking.",
         "url": "https://doi.org/10.1080/10584609.2024.2352483",
         "topics_llm": true
       }

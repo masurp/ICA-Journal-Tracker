@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ICA Journal Tracker — Data Fetching Script
-Fetches paper metadata from Crossref; enriches with LLM-generated topic keywords.
+Fetches paper metadata from OpenAlex; enriches with LLM-generated topic keywords.
 Run locally or via GitHub Actions (weekly cron).
 
 Usage:
@@ -32,9 +32,10 @@ HEADERS = {
     "User-Agent": f"ICA-Journal-Tracker/1.0 (https://github.com/masurp/ICA-Journal-Tracker; mailto:{MAILTO})"
 }
 DATA_DIR = Path(__file__).parent.parent / "data"
-ROWS = 10       # fetch more than needed so we have room to deduplicate
+ROWS = 10       # papers fetched per section (before deduplication)
 TOP_N = 6       # papers shown per section
-CROSSREF_BASE = "https://api.crossref.org/works"
+OPENALEX_BASE = "https://api.openalex.org/works"
+OPENALEX_SELECT = "doi,title,authorships,publication_date,cited_by_count,abstract_inverted_index"
 
 errors: list[str] = []
 
@@ -86,28 +87,35 @@ def get(url: str, params: dict | None = None, retries: int = 2, delay: float = 5
     return None
 
 
-def parse_crossref_paper(item: dict) -> dict:
-    doi = item.get("DOI", "")
-    title_parts = item.get("title", [])
-    title = title_parts[0] if title_parts else "Untitled"
+def reconstruct_abstract(inverted_index: dict | None) -> str:
+    """Reconstruct plain text from OpenAlex's inverted index abstract format."""
+    if not inverted_index:
+        return ""
+    pairs = [(pos, word) for word, positions in inverted_index.items() for pos in positions]
+    pairs.sort()
+    return " ".join(word for _, word in pairs)
 
-    authors_raw = item.get("author", [])
+
+def parse_openalex_paper(item: dict) -> dict:
+    raw_doi = item.get("doi", "")
+    # OpenAlex returns full URL: "https://doi.org/10.xxxx/..."
+    doi = raw_doi.replace("https://doi.org/", "") if raw_doi else ""
+
+    title = item.get("title") or "Untitled"
+
+    authorships = item.get("authorships", [])
     authors = []
-    for a in authors_raw[:10]:
-        given = a.get("given", "")
-        family = a.get("family", "")
-        name = f"{given} {family}".strip() if given else family
+    for a in authorships[:10]:
+        name = a.get("author", {}).get("display_name", "")
         if name:
             authors.append(name)
 
-    published = item.get("published", item.get("published-print", item.get("published-online", {})))
-    date_parts = published.get("date-parts", [[None]])[0]
-    year = date_parts[0] if date_parts else None
+    pub_date = item.get("publication_date", "")
+    year = int(pub_date[:4]) if pub_date and len(pub_date) >= 4 else None
 
-    citations = item.get("is-referenced-by-count", 0)
+    citations = item.get("cited_by_count", 0)
 
-    abstract_raw = item.get("abstract", "")
-    abstract = re.sub(r"<[^>]+>", "", abstract_raw).strip() if abstract_raw else ""
+    abstract = reconstruct_abstract(item.get("abstract_inverted_index"))
 
     return {
         "doi": doi,
@@ -123,28 +131,31 @@ def parse_crossref_paper(item: dict) -> dict:
 
 # ── API Passes ────────────────────────────────────────────────────────────────
 
-def fetch_crossref(issn: str, sort: str, from_date: str = "2000") -> list[dict]:
-    data = get(CROSSREF_BASE, params={
-        "filter": f"issn:{issn},from-pub-date:{from_date}",
+def fetch_openalex(issn: str, sort: str, from_date: str | None = None) -> list[dict]:
+    filter_parts = [f"primary_location.source.issn:{issn}", "type:article"]
+    if from_date:
+        filter_parts.append(f"from_publication_date:{from_date}")
+
+    data = get(OPENALEX_BASE, params={
+        "filter": ",".join(filter_parts),
         "sort": sort,
-        "order": "desc",
-        "rows": ROWS,
-        "select": "DOI,title,author,published,published-print,published-online,is-referenced-by-count,abstract",
+        "per-page": ROWS,
+        "select": OPENALEX_SELECT,
+        "mailto": MAILTO,
     })
     if not data:
         return []
-    items = data.get("message", {}).get("items", [])
-    return [parse_crossref_paper(item) for item in items]
+    return [parse_openalex_paper(item) for item in data.get("results", [])]
 
+
+# ── LLM enrichment ───────────────────────────────────────────────────────────
 
 def enrich_with_llm(papers: list[dict], doi_cache: dict[str, dict]) -> None:
     """Mutates papers in-place, adding LLM-generated topic keywords via Claude Haiku.
     Uses doi_cache to skip API calls for already-known DOIs."""
-    if not ANTHROPIC_API_KEY:
-        print("  WARNING: ANTHROPIC_API_KEY not set — topic enrichment skipped")
-        return
-
-    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+    client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY) if ANTHROPIC_API_KEY else None
+    if not client:
+        print("  WARNING: ANTHROPIC_API_KEY not set — LLM calls skipped, cache still applied")
     seen: dict[str, list[str]] = {}
 
     for paper in papers:
@@ -158,6 +169,9 @@ def enrich_with_llm(papers: list[dict], doi_cache: dict[str, dict]) -> None:
         if doi in seen:
             paper["topics"] = seen[doi]
             continue
+
+        if not client:
+            continue  # no API key — skip LLM, leave topics empty for new papers
 
         title = paper.get("title", "")
         abstract = paper.get("abstract", "")
@@ -214,16 +228,16 @@ def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
     # Trending window: papers published in the last 2 years
     trending_from = (datetime.now(timezone.utc) - timedelta(days=730)).strftime("%Y-%m-%d")
 
-    print("  [1/4] Crossref — most cited (all time)…")
-    cited = fetch_crossref(issn, sort="is-referenced-by-count")
+    print("  [1/4] OpenAlex — most cited (all time)…")
+    cited = fetch_openalex(issn, sort="cited_by_count:desc")
     print(f"        {len(cited)} papers returned")
 
-    print("  [2/4] Crossref — latest…")
-    latest = fetch_crossref(issn, sort="published")
+    print("  [2/4] OpenAlex — latest…")
+    latest = fetch_openalex(issn, sort="publication_date:desc")
     print(f"        {len(latest)} papers returned")
 
-    print(f"  [3/4] Crossref — trending (since {trending_from})…")
-    trending = fetch_crossref(issn, sort="is-referenced-by-count", from_date=trending_from)
+    print(f"  [3/4] OpenAlex — trending (since {trending_from})…")
+    trending = fetch_openalex(issn, sort="cited_by_count:desc", from_date=trending_from)
     print(f"        {len(trending)} papers returned")
 
     all_papers = deduplicate(cited + latest + trending)
@@ -232,7 +246,6 @@ def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
 
     print("  [4/4] Claude Haiku — topic keywords…")
     enrich_with_llm(all_papers, doi_cache)
-
 
     doi_map = {p["doi"].lower(): p for p in all_papers}
 
@@ -274,7 +287,7 @@ def main():
     DATA_DIR.mkdir(exist_ok=True)
     print(f"ICA Journal Tracker — Data Fetch")
     print(f"Time: {datetime.now(timezone.utc).isoformat()}")
-    print(f"Mailto: {MAILTO or '(not set — using anonymous Crossref pool)'}")
+    print(f"Mailto: {MAILTO or '(not set — using anonymous OpenAlex pool)'}")
     print(f"Output: {DATA_DIR}")
     if args.force:
         print("Mode: --force (DOI cache disabled, all papers re-enriched via LLM)")

@@ -1,46 +1,46 @@
 {
   "journal_id": "human_communication_research",
-  "updated_at": "2026-03-09T07:01:28Z",
+  "updated_at": "2026-03-09T15:35:30Z",
   "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.1111/j.1468-2958.1975.tb00258.x",
+        "title": "SOME EXPLORATIONS IN INITIAL INTERACTION AND BEYOND: TOWARD A DEVELOPMENTAL THEORY OF INTERPERSONAL COMMUNICATION",
+        "authors": [
+          "Charles R. Berger",
+          "Richard J. Calabrese"
+        ],
+        "year": 1975,
+        "citation_count": 2881,
+        "topics": [
+          "Interpersonal communication",
+          "Relationship development",
+          "Initial interaction",
+          "Communication theory"
+        ],
+        "abstract": "This paper provides a theoretical perspective for dealing with the initial entry stage of interpersonal interaction. The seven axioms and 21 theorems presented suggest a set of research priorities for studying the development of interpersonal relationships. The paper concludes with a discussion of some of the problems to be considered if the theory is to be extended beyond the initial stages of interaction.",
+        "url": "https://doi.org/10.1111/j.1468-2958.1975.tb00258.x",
+        "topics_llm": true
+      },
       {
         "doi": "10.1111/j.1468-2958.2002.tb00826.x",
         "title": "Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability",
         "authors": [
           "Matthew Lombard",
-          "Jennifer Snyder-Duch",
+          "Jennifer Snyder‐Duch",
           "Cheryl Campanella Bracken"
         ],
         "year": 2002,
-        "citation_count": 1993,
+        "citation_count": 2799,
         "topics": [
           "Content analysis",
           "Intercoder reliability",
           "Mass communication methodology",
           "Research assessment"
         ],
-        "abstract": "",
+        "abstract": "As a method specifically intended for the study of messages, content analysis is fundamental to mass communication research. Intercoder reliability, more specifically termed intercoder agreement, is a measure of the extent to which independent judges make the same coding decisions in evaluating the characteristics of messages, and is at the heart of this method. Yet there are few standard and accessible guidelines available regarding the appropriate procedures to use to assess and report intercoder reliability, or software tools to calculate it. As a result, it seems likely that there is little consistency in how this critical element of content analysis is assessed and reported in published mass communication studies. Following a review of relevant concepts, indices, and tools, a content analysis of 200 studies utilizing content analysis published in the communication literature between 1994 and 1998 is used to characterize practices in the field. The results demonstrate that mass communication researchers often fail to assess (or at least report) intercoder reliability and often rely on percent agreement, an overly liberal index. Based on the review and these results, concrete guidelines are offered regarding procedures for assessment and reporting of this important aspect of content analysis.",
         "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00826.x",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/j.1468-2958.2007.00299.x",
-        "title": "The Proteus Effect: The Effect of Transformed Self-Representation on Behavior",
-        "authors": [
-          "Nick Yee",
-          "Jeremy Bailenson"
-        ],
-        "year": 2007,
-        "citation_count": 1552,
-        "topics": [
-          "Avatar representation",
-          "Virtual environments",
-          "Behavioral psychology",
-          "Self-presentation"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1111/j.1468-2958.2007.00299.x",
         "topics_llm": true
       },
       {
@@ -50,15 +50,52 @@
           "Klaus Krippendorff"
         ],
         "year": 2004,
-        "citation_count": 838,
+        "citation_count": 2111,
         "topics": [
           "Content analysis",
           "Research methodology",
           "Reliability measurement",
           "Coding validity"
         ],
-        "abstract": "",
+        "abstract": "In a recent article in this journal, Lombard, Snyder-Duch, and Bracken (2002) surveyed 200 content analyses for their reporting of reliability tests, compared the virtues and drawbacks of five popular reliability measures, and proposed guidelines and standards for their use. Their discussion revealed that numerous misconceptions circulate in the content analysis literature regarding how these measures behave and can aid or deceive content analysts in their effort to ensure the reliability of their data. This article proposes three conditions for statistical measures to serve as indices of the reliability of data and examines the mathematical structure and the behavior of the five coefficients discussed by the authors, as well as two others. It compares common beliefs about these coefficients with what they actually do and concludes with alternative recommendations for testing reliability in content analysis and similar data-making efforts.",
         "url": "https://doi.org/10.1111/j.1468-2958.2004.tb00738.x",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1111/j.1468-2958.2007.00299.x",
+        "title": "The Proteus Effect: The Effect of Transformed Self-Representation on Behavior",
+        "authors": [
+          "Nick Yee",
+          "Jeremy N. Bailenson"
+        ],
+        "year": 2007,
+        "citation_count": 1933,
+        "topics": [
+          "Avatar representation",
+          "Virtual environments",
+          "Behavioral psychology",
+          "Self-presentation"
+        ],
+        "abstract": "Virtual environments, such as online games and web-based chat rooms, increasingly allow us to alter our digital self-representations dramatically and easily. But as we change our self-representations, do our self-representations change our behavior in turn? In 2 experimental studies, we explore the hypothesis that an individual’s behavior conforms to their digital self-representation independent of how others perceive them—a process we term the Proteus Effect. In the first study, participants assigned to more attractive avatars in immersive virtual environments were more intimate with confederates in a self-disclosure and interpersonal distance task than participants assigned to less attractive avatars. In our second study, participants assigned taller avatars behaved more confidently in a negotiation task than participants assigned shorter avatars. We discuss the implications of the Proteus Effect with regards to social interactions in online environments.",
+        "url": "https://doi.org/10.1111/j.1468-2958.2007.00299.x",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1111/j.1468-2958.2006.00280.x",
+        "title": "Human Communication Research",
+        "authors": [
+          "Jake Harwood",
+          "Michelle Ortiz"
+        ],
+        "year": 2006,
+        "citation_count": 1290,
+        "topics": [
+          "Communication Research",
+          "Human Communication",
+          "Research Methods"
+        ],
+        "abstract": "Human Communication Research Get access Human Communication Research, Volume 32, Issue 3, 1 July 2006, Pages 373–374, https://doi.org/10.1111/j.1468-2958.2006.00280.x Published: 01 July 2006",
+        "url": "https://doi.org/10.1111/j.1468-2958.2006.00280.x",
         "topics_llm": true
       },
       {
@@ -69,101 +106,19 @@
           "Joseph B. Walther"
         ],
         "year": 2002,
-        "citation_count": 803,
+        "citation_count": 1196,
         "topics": [
           "Computer-Mediated Communication",
           "Self-disclosure",
           "Impression Formation",
           "Interpersonal Relationships"
         ],
-        "abstract": "",
+        "abstract": "This investigation examined how computer-mediated communication (CMC) partners exchange personal information in initial interactions, focusing on the effects of communication channels on self-disclosure, question-asking, and uncertainty reduction. Unacquainted individuals (N = 158) met either face-to-face or via CMC. Computer-mediated interactants exhibited a greater proportion of more direct and intimate uncertainty reduction behaviors than unmediated participants did, and demonstrated significantly greater gains in attributional confidence over the course of the conversations. The use of direct strategies by mediated interactants resulted in judgments of greater conversational effectiveness by partners. Results illuminate some microstructures previously asserted but unverified within social information processing theory (Walther, 1992), and extend uncertainty reduction theory (Berger & Calabrese, 1975) to CMC interaction.",
         "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00811.x",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/j.1468-2958.2002.tb00828.x",
-        "title": "Eta Squared, Partial Eta Squared, and Misreporting of Effect Size in Communication Research",
-        "authors": [
-          "Timothy R. Levine",
-          "Craig R. Hullett"
-        ],
-        "year": 2002,
-        "citation_count": 732,
-        "topics": [
-          "Effect size",
-          "Statistical analysis",
-          "Communication research methodology",
-          "Research reporting"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00828.x",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/j.1468-2958.2009.01367.x",
-        "title": "Explaining the Effects of Narrative in an Entertainment Television Program: Overcoming Resistance to Persuasion",
-        "authors": [
-          "Emily Moyer-GusÃ©",
-          "Robin L. Nabi"
-        ],
-        "year": 2010,
-        "citation_count": 516,
-        "topics": [
-          "Narrative persuasion",
-          "Entertainment television",
-          "Resistance to persuasion",
-          "Message effects"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1111/j.1468-2958.2009.01367.x",
         "topics_llm": true
       }
     ],
     "latest": [
-      {
-        "doi": "10.1093/hcr/hqag001",
-        "title": "Relationship uncertainty and person-specific dynamics of partner rumination and relational turbulence in day-to-day life",
-        "authors": [
-          "Alan K Goodboy",
-          "Megan R Dillow",
-          "San Bolkan",
-          "Rebekah M Chiasson",
-          "Megan A Vendemia"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Relational turbulence",
-          "Partner rumination",
-          "Relationship uncertainty",
-          "Daily diary study"
-        ],
-        "abstract": "Abstract\n                  This daily diary study examined dynamic processes of relational turbulence theory. Dating partners (N = 202) completed measures of pretest relationship uncertainty, followed by 30 days of daily rumination and relational turbulence, and then posttest collaborative planning. Using dynamic structural equation modeling with random effects, we found that for the typical partner: (a) on days when they ruminated more about their relationship than usual, they experienced greater than usual relational turbulence; and (b) when partners experienced more than typical turbulence on a day, the next day they ruminated more than usual. We found that partners who had higher (c) month-long averages in rumination, (d) ruminative inertia, and (e) ruminative volatility had higher averages in month-long relational turbulence. We also found that individual differences in partners’ relationship uncertainty predicted person-specific daily rumination (means, volatility) and relational turbulence (means, inertia, volatility), but only relational turbulence averages, in turn, predicted future collaborative planning.",
-        "url": "https://doi.org/10.1093/hcr/hqag001",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/hcr/hqaf030",
-        "title": "Revisiting the digital jukebox in daily life: applying Mood Management Theory to algorithmically curated music streaming environments",
-        "authors": [
-          "Alicia Ernst",
-          "Felix Dietrich",
-          "Benedikt Rohr",
-          "Leonard Reinecke",
-          "Michael Scharkow"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Mood Management Theory",
-          "Music streaming",
-          "Algorithmic recommendation",
-          "Mood regulation"
-        ],
-        "abstract": "Abstract\n                  A large body of experimental evidence has contributed to our understanding of Mood Management Theory (MMT) in the context of music. Extant research, however, lacks insights into everyday mood regulation through music listening, especially on music streaming services, where users’ choices are shaped by both self-selection and algorithmically personalized recommendations. Hence, we tested MMT using a novel in situ approach and investigated whether variations in self- versus algorithmically personalized music choices would moderate MMT’s proposed relationships between mood and music use. In a preregistered, two-week study, we combined experience sampling surveys with logged music streaming and audio feature metadata obtained via the Spotify API, utilizing 6,864 surveys from 144 listeners. Results largely indicated no support for MMT’s predictions. In addition, higher algorithmic personalization did not reinforce or distort MMT-related patterns. Our findings suggest re-specifying classic entertainment theories, such as MMT, for novel technological and methodological conditions.",
-        "url": "https://doi.org/10.1093/hcr/hqaf030",
-        "topics_llm": true
-      },
       {
         "doi": "10.1093/hcr/hqaf033",
         "title": "Testing message strategies that minimize White Americans’ backlash to racial equity information",
@@ -184,38 +139,39 @@
           "Psychological reactance",
           "Policy communication"
         ],
-        "abstract": "Abstract\n                  Scholars have worried that messages about racial equity can produce backlash from White respondents. Drawing upon psychological reactance theory, we compared cognitive and affective responses to a message emphasizing how a redistributive policy would benefit everyone (universalist message) to a message that also emphasized how the policy would especially benefit minoritized racial groups (targeted universalist message) among a sample of 871 White Americans. Participants in the targeted universalist condition experienced more anger, endorsed more harmful stereotypes about racial outgroups, and saw the government as less responsible for addressing poverty than participants in the universalist condition. Mediation analyses suggest that anger, stereotyping, and perceived government responsibility have a negative, indirect effect on policy support. Our findings underscore the need for future work to identify strategies for communicating about racial equity that avoid activating harmful stereotypes.",
+        "abstract": "Abstract Scholars have worried that messages about racial equity can produce backlash from White respondents. Drawing upon psychological reactance theory, we compared cognitive and affective responses to a message emphasizing how a redistributive policy would benefit everyone (universalist message) to a message that also emphasized how the policy would especially benefit minoritized racial groups (targeted universalist message) among a sample of 871 White Americans. Participants in the targeted universalist condition experienced more anger, endorsed more harmful stereotypes about racial outgroups, and saw the government as less responsible for addressing poverty than participants in the universalist condition. Mediation analyses suggest that anger, stereotyping, and perceived government responsibility have a negative, indirect effect on policy support. Our findings underscore the need for future work to identify strategies for communicating about racial equity that avoid activating harmful stereotypes.",
         "url": "https://doi.org/10.1093/hcr/hqaf033",
         "topics_llm": true
       },
       {
-        "doi": "10.1093/hcr/hqaf031",
-        "title": "The power of context: how choice set size and composition influence overall and cross-cutting news exposure",
+        "doi": "10.1093/hcr/hqag001",
+        "title": "Relationship uncertainty and person-specific dynamics of partner rumination and relational turbulence in day-to-day life",
         "authors": [
-          "Yijia Erika Zhu",
-          "Dominik J Leiner",
-          "Nathalie Laura Neuendorf",
-          "Sebastian Scherr"
+          "Alan K. Goodboy",
+          "Megan R. Dillow",
+          "San Bolkan",
+          "Rebekah M. Chiasson",
+          "Megan A Vendemia"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "News exposure",
-          "Choice architecture",
-          "Cross-cutting media",
-          "Selective exposure"
+          "Relational turbulence",
+          "Partner rumination",
+          "Relationship uncertainty",
+          "Daily diary study"
         ],
-        "abstract": "Abstract\n                  In times of diverse media choices, the context in which choices are made can influence news exposure and opinion change. Inspired by the marketing concept of the choice set, we conducted two experiments in the US (N1 = 731; N2 = 396) to examine how choice set size (number of articles presented at a time) and composition (ratio of supportive “pro” to opposing “anti” articles) affect news exposure, attitudes, and intentions. Smaller choice sets with fewer articles led individuals to select fewer articles overall and fewer cross-cutting articles that challenged preexisting attitudes. Choice set composition did not affect whether individuals engaged with articles or their overall news exposure, but it shaped which articles they chose: the selection and browsing of cross-cutting news differed notably between homogeneous (all pro or all anti) and mixed sets. Neither choice set size nor composition systematically affected attitudes or behavioral intentions in the short term.",
-        "url": "https://doi.org/10.1093/hcr/hqaf031",
+        "abstract": "Abstract This daily diary study examined dynamic processes of relational turbulence theory. Dating partners (N = 202) completed measures of pretest relationship uncertainty, followed by 30 days of daily rumination and relational turbulence, and then posttest collaborative planning. Using dynamic structural equation modeling with random effects, we found that for the typical partner: (a) on days when they ruminated more about their relationship than usual, they experienced greater than usual relational turbulence; and (b) when partners experienced more than typical turbulence on a day, the next day they ruminated more than usual. We found that partners who had higher (c) month-long averages in rumination, (d) ruminative inertia, and (e) ruminative volatility had higher averages in month-long relational turbulence. We also found that individual differences in partners’ relationship uncertainty predicted person-specific daily rumination (means, volatility) and relational turbulence (means, inertia, volatility), but only relational turbulence averages, in turn, predicted future collaborative planning.",
+        "url": "https://doi.org/10.1093/hcr/hqag001",
         "topics_llm": true
       },
       {
         "doi": "10.1093/hcr/hqaf032",
         "title": "A show for us: how racial and partisan cues about television audiences affect exposure intentions",
         "authors": [
-          "Stewart M Coles"
+          "Stewart M. Coles"
         ],
-        "year": 2026,
+        "year": 2025,
         "citation_count": 0,
         "topics": [
           "Media consumption",
@@ -223,61 +179,82 @@
           "Social identity",
           "Audience cues"
         ],
-        "abstract": "Abstract\n                  Current explanations for political divides in entertainment media use identify divergent preferences for or evaluations of content. According to the theory of normative social behavior (TNSB), extratextual information such as cues about the audience may also influence exposure intentions due to viewers’ perceptions of ingroup norms. Social media users discuss and form communities around entertainment content while conveying partisan and racial identities. A preregistered experiment exposed Black and White partisans (N = 1,259) to tweets in which a television show was endorsed by co- or out-partisans who were racial in- or out-group members. Exposure intentions were stronger when endorsement came from co-partisans; however, this effect was stronger for White partisans. Treatment effects were mediated by perceived ingroup norms and perceptions of how much of the audience consisted of ingroup members. Implications of multiple identities (i.e., race and partisanship) for the TNSB and the study of partisan entertainment divides are discussed.",
+        "abstract": "Abstract Current explanations for political divides in entertainment media use identify divergent preferences for or evaluations of content. According to the theory of normative social behavior (TNSB), extratextual information such as cues about the audience may also influence exposure intentions due to viewers’ perceptions of ingroup norms. Social media users discuss and form communities around entertainment content while conveying partisan and racial identities. A preregistered experiment exposed Black and White partisans (N = 1,259) to tweets in which a television show was endorsed by co- or out-partisans who were racial in- or out-group members. Exposure intentions were stronger when endorsement came from co-partisans; however, this effect was stronger for White partisans. Treatment effects were mediated by perceived ingroup norms and perceptions of how much of the audience consisted of ingroup members. Implications of multiple identities (i.e., race and partisanship) for the TNSB and the study of partisan entertainment divides are discussed.",
         "url": "https://doi.org/10.1093/hcr/hqaf032",
         "topics_llm": true
       },
       {
-        "doi": "10.1093/hcr/hqaf029",
-        "title": "The impact of body-positive and fitspirational influencers on body satisfaction: a longitudinal study of evolving parasocial relationships",
+        "doi": "10.1093/hcr/hqaf031",
+        "title": "The power of context: how choice set size and composition influence overall and cross-cutting news exposure",
         "authors": [
-          "Priska L Breves",
-          "Sophie C Boerman",
-          "Jan-Philipp Stein",
-          "Carolin Ischen",
-          "Zeph M C van Berlo"
+          "Yijia Zhu",
+          "Dominik J. Leiner",
+          "Nathalie Laura Neuendorf",
+          "Sebastian Scherr"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "News exposure",
+          "Choice architecture",
+          "Cross-cutting media",
+          "Selective exposure"
+        ],
+        "abstract": "Abstract In times of diverse media choices, the context in which choices are made can influence news exposure and opinion change. Inspired by the marketing concept of the choice set, we conducted two experiments in the US (N1 = 731; N2 = 396) to examine how choice set size (number of articles presented at a time) and composition (ratio of supportive “pro” to opposing “anti” articles) affect news exposure, attitudes, and intentions. Smaller choice sets with fewer articles led individuals to select fewer articles overall and fewer cross-cutting articles that challenged preexisting attitudes. Choice set composition did not affect whether individuals engaged with articles or their overall news exposure, but it shaped which articles they chose: the selection and browsing of cross-cutting news differed notably between homogeneous (all pro or all anti) and mixed sets. Neither choice set size nor composition systematically affected attitudes or behavioral intentions in the short term.",
+        "url": "https://doi.org/10.1093/hcr/hqaf031",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/hcr/hqaf030",
+        "title": "Revisiting the digital jukebox in daily life: applying Mood Management Theory to algorithmically curated music streaming environments",
+        "authors": [
+          "Alicia Ernst",
+          "Felix Dietrich",
+          "Benedikt Rohr",
+          "Leonard Reinecke",
+          "Michael Scharkow"
         ],
         "year": 2025,
         "citation_count": 1,
         "topics": [
-          "Influencer marketing",
-          "Body image",
-          "Parasocial relationships",
-          "Social media effects"
+          "Mood Management Theory",
+          "Music streaming",
+          "Algorithmic recommendation",
+          "Mood regulation"
         ],
-        "abstract": "Abstract\n                  Body-focused influencers are ubiquitous on social media, promoting diverse messages around physical appearances, fitness, and self-acceptance. This longitudinal study investigates how repeated exposure to body-positive, fitspirational, and nonbody-focused influencers shapes users’ parasocial relationship development, wishful identification, appearance-based social comparison, and body satisfaction over a 3-week period. Using a mobile-based experience sampling method, participants were exposed to daily influencer content and completed surveys at four time points (Nt1(Day 1) = 181, Nt2(Day 8) = 155, Nt3(Day 15) = 142, Nt4(Day 22) = 112). Findings show that parasocial relationships developed most strongly with the body-positive influencer, while no significant increase was found for the fitspirational and control conditions. Over time, exposure to body-positive content led to increases in wishful identification and body satisfaction, whereas fitspirational content did not produce significant longitudinal effects. Social comparison intensity was higher in both body-focused conditions compared to the control, but remained stable over time.",
-        "url": "https://doi.org/10.1093/hcr/hqaf029",
+        "abstract": "Abstract A large body of experimental evidence has contributed to our understanding of Mood Management Theory (MMT) in the context of music. Extant research, however, lacks insights into everyday mood regulation through music listening, especially on music streaming services, where users’ choices are shaped by both self-selection and algorithmically personalized recommendations. Hence, we tested MMT using a novel in situ approach and investigated whether variations in self- versus algorithmically personalized music choices would moderate MMT’s proposed relationships between mood and music use. In a preregistered, two-week study, we combined experience sampling surveys with logged music streaming and audio feature metadata obtained via the Spotify API, utilizing 6,864 surveys from 144 listeners. Results largely indicated no support for MMT’s predictions. In addition, higher algorithmic personalization did not reinforce or distort MMT-related patterns. Our findings suggest re-specifying classic entertainment theories, such as MMT, for novel technological and methodological conditions.",
+        "url": "https://doi.org/10.1093/hcr/hqaf030",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/hcr/hqaf026",
+        "title": "Relational introspections with machines: a social-cognitive framework of trait perception, relational schemas, and trust in intention to use AI",
+        "authors": [
+          "Wang Liao",
+          "Ya‐Ching Lee",
+          "Haoning Xue",
+          "Emily K McKinley"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Human-AI interaction",
+          "Trust in AI",
+          "Trait perception",
+          "Social information processing"
+        ],
+        "abstract": "Abstract This paper proposes a framework for understanding people’s relational introspections with machines. Through a social information processing lens, we argue that such introspections begin with relative perceptions of two basic traits: communion (prosocial intentionality) and agency (goal-pursuit capacities) for both machine and user. These relative perceptions are then interpreted through relational schemas in the short term and regulated by trust in the long term––jointly shaping relational behaviors toward the machine (e.g., intention to use). We surveyed three US samples of various AI-technology users (college students, N = 438; MTurk participants, N = 1,023; Prolific participants, N = 726, matched to census demographics). Results consistently showed that (a) intention to use such a machine was driven by self-agency followed by machine-communion, whereas machine-agency and self-communion had no direct impact, and (b) the relative importance of these trait perceptions was mediated by certain relational schemas and moderated by trust across respondents.",
+        "url": "https://doi.org/10.1093/hcr/hqaf026",
         "topics_llm": true
       }
     ],
     "trending": [
       {
-        "doi": "10.1093/hcr/hqae012",
-        "title": "A meta-analytical review of the relationship, antecedents, and consequences of information seeking and information scanning",
-        "authors": [
-          "Nehama Lewis",
-          "Emily A Andrews",
-          "Denali Keefe",
-          "Nathan Walter"
-        ],
-        "year": 2024,
-        "citation_count": 15,
-        "topics": [
-          "Health information seeking",
-          "Information scanning",
-          "Meta-analysis",
-          "Health communication"
-        ],
-        "abstract": "Abstract\n               Prior studies have examined correlates of health information seeking and scanning separately, focusing on distinct theoretical frameworks, antecedents, and outcomes. In this meta-analysis we synthesize this research (k = 21; N = 39,510) by examining the relationship between health information seeking and scanning, and their key antecedents and outcomes. Results show that seeking and scanning are moderately and positively correlated, supporting the claim that these are distinct, albeit related, and behaviors. Level of education and income are positive correlates of scanning (but not seeking) behaviors. Conversely, issue-relevance is positively associated with seeking (but not scanning). Results show substantial parity in associations between seeking and scanning with topic-relevant attitudes and behavioral intention. Information seeking (but not scanning), however, is a significant correlate of risk perceptions and perceived social norms. Thus, scanning and seeking are associated with distinct antecedents, but have similar effects. We offer theoretical implications and directions for future research.",
-        "url": "https://doi.org/10.1093/hcr/hqae012",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1093/hcr/hqae008",
         "title": "How repeated exposure to persuasive messaging shapes message responses over time: a longitudinal experiment",
         "authors": [
           "Chris Skurka",
-          "David M Keating"
+          "David M. Keating"
         ],
         "year": 2024,
         "citation_count": 14,
@@ -287,7 +264,7 @@
           "Psychological reactance",
           "Longitudinal experiment"
         ],
-        "abstract": "Abstract\n               Repeated exposure theories have articulated several processes that explain how message repetition shapes persuasion over time, yet these processes are often studied in isolation. Moreover, repeated exposure theories have largely failed to specify the temporal trajectories of negative message responses over time. Integrating theorizing on repeated exposure, psychological reactance, and message fatigue, we conducted a mixed-design experiment (N = 1,416 total observations), varying the amount of daily exposure audiences had to campaign advertisements about distracted driving over nearly 2 weeks. Exposure to these messages (compared to control messages) led to greater message elaboration and reactance but not fatigue or attitudes. We found no evidence that these message reactions shifted linearly, logarithmically, or quadratically over time, with the exception that anger increased linearly with subsequent exposures. These findings suggest constraints on predictions made by repeated exposure frameworks, and post hoc analyses underscore the need to distinguish fatigue’s two dimensions conceptually and operationally.",
+        "abstract": "Abstract Repeated exposure theories have articulated several processes that explain how message repetition shapes persuasion over time, yet these processes are often studied in isolation. Moreover, repeated exposure theories have largely failed to specify the temporal trajectories of negative message responses over time. Integrating theorizing on repeated exposure, psychological reactance, and message fatigue, we conducted a mixed-design experiment (N = 1,416 total observations), varying the amount of daily exposure audiences had to campaign advertisements about distracted driving over nearly 2 weeks. Exposure to these messages (compared to control messages) led to greater message elaboration and reactance but not fatigue or attitudes. We found no evidence that these message reactions shifted linearly, logarithmically, or quadratically over time, with the exception that anger increased linearly with subsequent exposures. These findings suggest constraints on predictions made by repeated exposure frameworks, and post hoc analyses underscore the need to distinguish fatigue’s two dimensions conceptually and operationally.",
         "url": "https://doi.org/10.1093/hcr/hqae008",
         "topics_llm": true
       },
@@ -301,15 +278,38 @@
           "Magdalena Wojcieszak"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
           "Message credibility",
           "Language intensity"
         ],
-        "abstract": "Abstract\n               Fact-checking labels have been widely accepted as an effective misinformation correction method. However, there is limited theoretical understanding of fact-checking labels’ impact. This study theorizes that language intensity influences fact-checking label processing and tests this idea through a multi-method design. We first rely on a large-scale observational dataset of fact-checking labels from 7 U.S. fact-checking organizations (N = 33,755) to examine the labels’ language intensity and then use a controlled online experiment in the United States (N = 656) to systematically test the causal effects of fact-checking label intensity (low, moderate, or high) and fact-checking source (professional journalists or artificial intelligence) on perceived message credibility of and the intention to engage with fact-checking messages. We found that two-thirds of existing labels were intense. Such high-intensity labels had null effects on messages’ perceived credibility, yet decreased engagement intention, especially when labels were attributed to AI. Using more intense labels may not be an effective fact-checking approach.",
+        "abstract": "Abstract Fact-checking labels have been widely accepted as an effective misinformation correction method. However, there is limited theoretical understanding of fact-checking labels’ impact. This study theorizes that language intensity influences fact-checking label processing and tests this idea through a multi-method design. We first rely on a large-scale observational dataset of fact-checking labels from 7 U.S. fact-checking organizations (N = 33,755) to examine the labels’ language intensity and then use a controlled online experiment in the United States (N = 656) to systematically test the causal effects of fact-checking label intensity (low, moderate, or high) and fact-checking source (professional journalists or artificial intelligence) on perceived message credibility of and the intention to engage with fact-checking messages. We found that two-thirds of existing labels were intense. Such high-intensity labels had null effects on messages’ perceived credibility, yet decreased engagement intention, especially when labels were attributed to AI. Using more intense labels may not be an effective fact-checking approach.",
         "url": "https://doi.org/10.1093/hcr/hqae007",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/hcr/hqae009",
+        "title": "Fictional friends and enemies as first aid after ostracism? Experimentally investigating the potential of para-/orthosocial relationships in belongingness need restoration and emotion regulation",
+        "authors": [
+          "S Lutz",
+          "Frank M. Schneider",
+          "Sabine Reich",
+          "M Schimmel",
+          "Hannah Oechler",
+          "Laura Beinlich"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Social exclusion",
+          "Parasocial relationships",
+          "Emotion regulation",
+          "Belongingness needs"
+        ],
+        "abstract": "Abstract Being socially excluded seriously threatens individuals’ need to belong and emotional well-being. This article investigates to what extent different coping strategies help overcome these detrimental effects: thinking about real-life friends/enemies (i.e., orthosocial relationships, OSRs) and thinking about (dis)liked media characters (i.e., parasocial relationships, PSRs). Across three experiments (NPilot = 129, NStudy1 = 132, NStudy2 = 855), we first induced social exclusion using a virtual ball-tossing game. Afterward, we manipulated different relationship types and valences and compared them to non- or less-relational control conditions. As hypothesized, belongingness and emotional well-being increased from pre- to post-coping. This effect was fully mediated by perceived relationship closeness to the respective person(a). Highlighting that PSRs represent more than surrogates (i.e., secondary replacements of OSR), both relationship types did not differ in coping effectiveness. Moreover, positive relationships were more effective in fulfilling both coping goals than negative ones.",
+        "url": "https://doi.org/10.1093/hcr/hqae009",
         "topics_llm": true
       },
       {
@@ -327,39 +327,16 @@
           "Persuasion",
           "Freedom-threatening language"
         ],
-        "abstract": "Abstract\n                  Psychological reactance is one of the underlying mechanisms of message effects on persuasion outcomes. We conducted meta-analyses across 28 articles, comprising 33 studies and 146 effect sizes (2005–2024), to examine (a) message effects on psychological reactance and (b) the influence of psychological reactance on persuasion outcomes. Results showed that high freedom-threatening language increased anger (k = 28, r = .21), negative cognitions (k = 25, r = .17), and psychological reactance (k = 53, r = .20) compared to low freedom-threatening language. These effects were moderated by behavior repetitiveness and communication modality. However, gain vs. loss framing showed no significant differences in anger (k = 6, r = –.03), negative cognitions (k = 6, r = –.01), or psychological reactance (k = 12, r = –.02). Both anger (r = –.23, k = 42) and negative cognitions (r = –.18, k = 39) were negatively associated with persuasion outcomes.",
+        "abstract": "Abstract Psychological reactance is one of the underlying mechanisms of message effects on persuasion outcomes. We conducted meta-analyses across 28 articles, comprising 33 studies and 146 effect sizes (2005–2024), to examine (a) message effects on psychological reactance and (b) the influence of psychological reactance on persuasion outcomes. Results showed that high freedom-threatening language increased anger (k = 28, r = .21), negative cognitions (k = 25, r = .17), and psychological reactance (k = 53, r = .20) compared to low freedom-threatening language. These effects were moderated by behavior repetitiveness and communication modality. However, gain vs. loss framing showed no significant differences in anger (k = 6, r = –.03), negative cognitions (k = 6, r = –.01), or psychological reactance (k = 12, r = –.02). Both anger (r = –.23, k = 42) and negative cognitions (r = –.18, k = 39) were negatively associated with persuasion outcomes.",
         "url": "https://doi.org/10.1093/hcr/hqaf016",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/hcr/hqae009",
-        "title": "Fictional friends and enemies as first aid after ostracism? Experimentally investigating the potential of para-/orthosocial relationships in belongingness need restoration and emotion regulation",
-        "authors": [
-          "Sarah Lutz",
-          "Frank M Schneider",
-          "Sabine Reich",
-          "Michelle Schimmel",
-          "Hannah Oechler",
-          "Laura Beinlich"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Social exclusion",
-          "Parasocial relationships",
-          "Emotion regulation",
-          "Belongingness needs"
-        ],
-        "abstract": "Abstract\n               Being socially excluded seriously threatens individuals’ need to belong and emotional well-being. This article investigates to what extent different coping strategies help overcome these detrimental effects: thinking about real-life friends/enemies (i.e., orthosocial relationships, OSRs) and thinking about (dis)liked media characters (i.e., parasocial relationships, PSRs). Across three experiments (NPilot = 129, NStudy1 = 132, NStudy2 = 855), we first induced social exclusion using a virtual ball-tossing game. Afterward, we manipulated different relationship types and valences and compared them to non- or less-relational control conditions. As hypothesized, belongingness and emotional well-being increased from pre- to post-coping. This effect was fully mediated by perceived relationship closeness to the respective person(a). Highlighting that PSRs represent more than surrogates (i.e., secondary replacements of OSR), both relationship types did not differ in coping effectiveness. Moreover, positive relationships were more effective in fulfilling both coping goals than negative ones.",
-        "url": "https://doi.org/10.1093/hcr/hqae009",
         "topics_llm": true
       },
       {
         "doi": "10.1093/hcr/hqaf004",
         "title": "Media literacy interventions: meta-analytic review of 40 years of research",
         "authors": [
-          "HyunYi Cho",
-          "Christopher J Carpenter",
+          "Hyunyi Cho",
+          "Christopher J. Carpenter",
           "Wenbo Li"
         ],
         "year": 2025,
@@ -368,10 +345,30 @@
           "Media literacy",
           "Intervention effectiveness",
           "Meta-analysis",
-          "Digital media"
+          "Digital literacy"
         ],
-        "abstract": "Abstract\n               We conducted a comprehensive meta-analysis of 160 media literacy interventions from 1983 to 2023, finding overall positive effects. Effects were larger for media-over behavior-relevant outcomes and for social over health topics. Stronger effects were found for knowledge outcomes at both immediate-post and delayed follow-up assessments. Attitudes and critical beliefs predicted behavior. No substantial decay in effects was observed between immediate-post and follow-up assessments for multiple outcomes but not for behavior. Interventions targeting social media showed smaller effects for some outcomes compared to those that did not. Online delivery had smaller effects for various outcomes compared to in-person delivery. These findings suggest challenges and opportunities regarding digital and social media for the interventions. Dose was inconsistently linked to outcomes. No significant relationship was found between study year and effect size. The heterogeneity of effects observed across variables suggests a need for more parsimonious frameworks in media literacy research.",
+        "abstract": "We conducted a comprehensive meta-analysis of 160 media literacy interventions from 1983 to 2023, finding overall positive effects. Effects were larger for media-over behavior-relevant outcomes and for social over health topics. Stronger effects were found for knowledge outcomes at both immediate-post and delayed follow-up assessments. Attitudes and critical beliefs predicted behavior. No substantial decay in effects was observed between immediate-post and follow-up assessments for multiple outcomes but not for behavior. Interventions targeting social media showed smaller effects for some outcomes compared to those that did not. Online delivery had smaller effects for various outcomes compared to in-person delivery. These findings suggest challenges and opportunities regarding digital and social media for the interventions. Dose was inconsistently linked to outcomes. No significant relationship was found between study year and effect size. The heterogeneity of effects observed across variables suggests a need for more parsimonious frameworks in media literacy research.",
         "url": "https://doi.org/10.1093/hcr/hqaf004",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/hcr/hqaf005",
+        "title": "The mirror of the metaverse: an exploration of reciprocal effects between self-views and avatar-based self-presentation",
+        "authors": [
+          "Hyun Suk Kim",
+          "Soela Kim",
+          "Eun-Ju Lee"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Avatar self-presentation",
+          "Identity and self-esteem",
+          "Metaverse psychology",
+          "Virtual identity"
+        ],
+        "abstract": "Abstract This study examined how users’ self-views (i.e., identity coherence, identity confusion, self-esteem) and their self-presentation through avatars (i.e., the number of avatars used, self-avatar dissimilarity, the frequency of and the expenditure on avatar customization) in the metaverse mutually influence each other, based on a three-wave panel survey of Zepeto users in South Korea (N = 640). Dynamic fixed-effects models yielded no significant effects of self-views on avatar-based self-presentation, but identified some significant reverse relationships: users who spent more money on customizing their avatars’ appearance experienced greater identity confusion and lower self-esteem two months later. By contrast, contemporaneous fixed-effects models found no significant effects in either direction. Overall, the results indicate limited unidirectional effects of avatar-based identity experimentation on users’ self-views that manifest over time, while casting doubt on the permeability between virtual and physical self-identities.",
+        "url": "https://doi.org/10.1093/hcr/hqaf005",
         "topics_llm": true
       }
     ]
