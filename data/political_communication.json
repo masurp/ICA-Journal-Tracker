@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-03-05T14:23:54Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:03:19Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 942,
+        "citation_count": 943,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -47,7 +47,7 @@
           "Dhavan V. Shah, Nojin Kwak, R. Lance Holbe"
         ],
         "year": 2001,
-        "citation_count": 590,
+        "citation_count": 591,
         "topics": [
           "Internet use",
           "Social capital",
@@ -65,7 +65,7 @@
           "ROBERT M. ENTMAN"
         ],
         "year": 2003,
-        "citation_count": 575,
+        "citation_count": 578,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -104,7 +104,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 447,
+        "citation_count": 449,
         "topics": [
           "Misinformation correction",
           "Belief persistence",
@@ -117,6 +117,25 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2613647",
+        "title": "Negativity and Misinformation",
+        "authors": [
+          "Stuart Soroka",
+          "Christopher Wlezien"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Misinformation",
+          "Negative framing",
+          "Social media discourse",
+          "Information credibility"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2613647",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2635255",
         "title": "Correction",
@@ -212,26 +231,6 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/10584609.2025.2611913",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2026.2613661",
-        "title": "Elected officials’ Online Sharing of Misinformation: Institutional and Ideological Checks",
-        "authors": [
-          "Yuehong Cassandra Tai",
-          "Yu-Ru Lin",
-          "Bruce A. Desmarais"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Misinformation",
-          "Political communication",
-          "Social media",
-          "Institutional accountability"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2026.2613661",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -244,7 +243,7 @@
           "Silke Adam"
         ],
         "year": 2024,
-        "citation_count": 25,
+        "citation_count": 26,
         "topics": [
           "Hyperpartisan media",
           "Conspiracy theories",
@@ -263,7 +262,7 @@
           "Jingjing Yi"
         ],
         "year": 2024,
-        "citation_count": 22,
+        "citation_count": 23,
         "topics": [
           "Social media",
           "Political engagement",

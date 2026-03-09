@@ -1,7 +1,7 @@
 {
   "journal_id": "media_psychology_tandf",
-  "updated_at": "2026-03-05T14:24:37Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:03:59Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Albert Bandura"
         ],
         "year": 2001,
-        "citation_count": 1620,
+        "citation_count": 1623,
         "topics": [
           "Social Cognitive Theory",
           "Mass Communication",
@@ -30,7 +30,7 @@
           "Jeremy N. Bailenson"
         ],
         "year": 2015,
-        "citation_count": 1287,
+        "citation_count": 1289,
         "topics": [
           "Immersive technology",
           "User presence",
@@ -50,7 +50,7 @@
           "Jochen Peter"
         ],
         "year": 2009,
-        "citation_count": 961,
+        "citation_count": 962,
         "topics": [
           "Game addiction",
           "Adolescents",
@@ -62,32 +62,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/15213260903287259",
-        "title": "Measuring Narrative Engagement",
-        "authors": [
-          "Rick Busselle",
-          "Helena Bilandzic"
-        ],
-        "year": 2009,
-        "citation_count": 758,
-        "topics": [
-          "Narrative engagement",
-          "Audience measurement",
-          "Media effects",
-          "Communication theory"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/15213260903287259",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1207/s1532785xmep0403_04",
         "title": "Parasocial Interaction: A Review of the Literature and a Model for Future Research",
         "authors": [
           "David C. Giles"
         ],
         "year": 2002,
-        "citation_count": 756,
+        "citation_count": 760,
         "topics": [
           "Parasocial interaction",
           "Audience engagement",
@@ -99,27 +80,75 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1207/s1532785xmep0503_01",
-        "title": "Unregulated Internet Usage: Addiction, Habit, or Deficient Self-Regulation?",
+        "doi": "10.1080/15213260903287259",
+        "title": "Measuring Narrative Engagement",
         "authors": [
-          "Robert LaRose",
-          "Carolyn A. Lin",
-          "Matthew S. Eastin"
+          "Rick Busselle",
+          "Helena Bilandzic"
         ],
-        "year": 2003,
-        "citation_count": 632,
+        "year": 2009,
+        "citation_count": 760,
         "topics": [
-          "Internet addiction",
-          "Self-regulation",
-          "Digital behavior",
-          "Online habits"
+          "Narrative engagement",
+          "Audience measurement",
+          "Media effects",
+          "Communication theory"
         ],
         "abstract": "",
-        "url": "https://doi.org/10.1207/s1532785xmep0503_01",
+        "url": "https://doi.org/10.1080/15213260903287259",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/15213260701283079",
+        "title": "A Process Model of the Formation of Spatial Presence Experiences",
+        "authors": [
+          "Werner Wirth",
+          "Tilo Hartmann",
+          "Saskia Böcking",
+          "Peter Vorderer",
+          "Christoph Klimmt",
+          "Holger Schramm",
+          "Timo Saari",
+          "Jari Laarni",
+          "Niklas Ravaja",
+          "Feliz Ribeiro Gouveia"
+        ],
+        "year": 2007,
+        "citation_count": 632,
+        "topics": [
+          "Spatial Presence",
+          "Virtual Reality",
+          "Cognitive Processing",
+          "Media Psychology"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/15213260701283079",
         "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/15213269.2026.2633579",
+        "title": "The Dynamic and Reciprocal Relationship Between Problematic Internet Use and Loneliness: A Longitudinal Study",
+        "authors": [
+          "Eetu Marttila",
+          "Aki Koivula",
+          "Iina Savolainen",
+          "Anu Sirola",
+          "Atte Oksanen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Problematic Internet Use",
+          "Loneliness",
+          "Longitudinal Study",
+          "Mental Health"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/15213269.2026.2633579",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/15213269.2026.2633228",
         "title": "Swipe, Chat, Unmatch: The Psychological Consequences of Being Rejected on Dating Apps",
@@ -219,26 +248,6 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/15213269.2026.2626701",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/15213269.2026.2618675",
-        "title": "Early Media Use Predicts Later Executive Function Difficulties Through Problematic Media Use: A Cross-Lagged Panel Model Testing Bidirectional Relations in Middle Childhood with an Early Childhood Media Use Predictor",
-        "authors": [
-          "Meryem Şeyda Özcan",
-          "Yea-Ji Hong",
-          "Koeun Choi"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Executive function",
-          "Media use",
-          "Child development",
-          "Cross-lagged panel model"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/15213269.2026.2618675",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -252,7 +261,7 @@
           "Jakob Ohme"
         ],
         "year": 2024,
-        "citation_count": 18,
+        "citation_count": 19,
         "topics": [
           "Smartphone notifications",
           "Digital well-being",

@@ -1,7 +1,7 @@
 {
   "journal_id": "human_communication_research",
-  "updated_at": "2026-03-05T14:21:15Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:01:28Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Cheryl Campanella Bracken"
         ],
         "year": 2002,
-        "citation_count": 1988,
+        "citation_count": 1993,
         "topics": [
           "Content analysis",
           "Intercoder reliability",
@@ -32,7 +32,7 @@
           "Jeremy Bailenson"
         ],
         "year": 2007,
-        "citation_count": 1551,
+        "citation_count": 1552,
         "topics": [
           "Avatar representation",
           "Virtual environments",
@@ -50,7 +50,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2004,
-        "citation_count": 836,
+        "citation_count": 838,
         "topics": [
           "Content analysis",
           "Research methodology",
@@ -69,7 +69,7 @@
           "Joseph B. Walther"
         ],
         "year": 2002,
-        "citation_count": 802,
+        "citation_count": 803,
         "topics": [
           "Computer-Mediated Communication",
           "Self-disclosure",
@@ -107,7 +107,7 @@
           "Robin L. Nabi"
         ],
         "year": 2010,
-        "citation_count": 515,
+        "citation_count": 516,
         "topics": [
           "Narrative persuasion",
           "Entertainment television",
@@ -355,21 +355,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1093/hcr/hqaf018",
-        "title": "Interparental conflict and parent–child triangulation: a meta-analytical review of children feeling caught between parents",
+        "doi": "10.1093/hcr/hqaf004",
+        "title": "Media literacy interventions: meta-analytic review of 40 years of research",
         "authors": [
-          "Paul Schrodt"
+          "HyunYi Cho",
+          "Christopher J Carpenter",
+          "Wenbo Li"
         ],
         "year": 2025,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
-          "Interparental conflict",
-          "Parent-child triangulation",
-          "Family relationships",
-          "Meta-analysis"
+          "Media literacy",
+          "Intervention effectiveness",
+          "Meta-analysis",
+          "Digital media"
         ],
-        "abstract": "Abstract\n               This meta-analysis reviews the findings from 49 studies (N = 23,336) examining the association between interparental conflict and children feeling caught between parents (also referred to as parent–child triangulation). The cumulative evidence indicates a moderate, meaningful relationship between interparental conflict and children feeling caught (r = .402, 95% confidence interval: .366, .437). On average, the positive association was stronger when researchers used: (a) samples that included both intact and post-divorce family members as opposed to only intact or post-divorce families; (b) samples that included young adult children as opposed to adolescent children; (c) cross-sectional as opposed to longitudinal research designs; (d) children’s reports of interparental conflict as opposed to parents’ reports or observational ratings; and (e) individuals as the unit of analysis as opposed to triads. Implications for developing a communication theory of feeling caught are discussed.",
-        "url": "https://doi.org/10.1093/hcr/hqaf018",
+        "abstract": "Abstract\n               We conducted a comprehensive meta-analysis of 160 media literacy interventions from 1983 to 2023, finding overall positive effects. Effects were larger for media-over behavior-relevant outcomes and for social over health topics. Stronger effects were found for knowledge outcomes at both immediate-post and delayed follow-up assessments. Attitudes and critical beliefs predicted behavior. No substantial decay in effects was observed between immediate-post and follow-up assessments for multiple outcomes but not for behavior. Interventions targeting social media showed smaller effects for some outcomes compared to those that did not. Online delivery had smaller effects for various outcomes compared to in-person delivery. These findings suggest challenges and opportunities regarding digital and social media for the interventions. Dose was inconsistently linked to outcomes. No significant relationship was found between study year and effect size. The heterogeneity of effects observed across variables suggests a need for more parsimonious frameworks in media literacy research.",
+        "url": "https://doi.org/10.1093/hcr/hqaf004",
         "topics_llm": true
       }
     ]

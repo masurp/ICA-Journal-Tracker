@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-05T14:24:51Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:04:09Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 3126,
+        "citation_count": 3131,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2071,
+        "citation_count": 2076,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1517,
+        "citation_count": 1520,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 847,
+        "citation_count": 851,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 747,
+        "citation_count": 750,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -126,6 +126,25 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/19312458.2026.2627548",
+        "title": "Felt Time Scale (FTS): Measuring how people experience screen time",
+        "authors": [
+          "Jana Dombrowski",
+          "Sabine Trepte"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Screen time perception",
+          "Time experience",
+          "Digital media",
+          "Temporal measurement"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2026.2627548",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2026.2613829",
         "title": "Navigating Ambiguities: A Systematic Review and Comparative Analysis of Social Bot Detection Methods in Communication Research",
@@ -226,27 +245,6 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/19312458.2025.2575468",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2558736",
-        "title": "Embedding, embedding on the wall; who is the most prominent politician of them all? Exploring automated methods to study multimodal political news coverage",
-        "authors": [
-          "Wies Ruyters",
-          "Susan Vermeer",
-          "Sanne Kruikemeier",
-          "Rens Vliegenthart"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political communication",
-          "Multimodal analysis",
-          "News coverage",
-          "Automated methods"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2558736",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -269,6 +267,28 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/19312458.2024.2393165",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2025.2482538",
+        "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
+        "authors": [
+          "Roberto Ulloa",
+          "Frank Mangold",
+          "Felix Schmidt",
+          "Judith Gilsbach",
+          "Sebastian Stier"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "web scraping",
+          "online news consumption",
+          "measurement bias",
+          "digital media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
       {
@@ -307,28 +327,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/19312458.2024.2349987",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2482538",
-        "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
-        "authors": [
-          "Roberto Ulloa",
-          "Frank Mangold",
-          "Felix Schmidt",
-          "Judith Gilsbach",
-          "Sebastian Stier"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "web scraping",
-          "online news consumption",
-          "measurement bias",
-          "digital media"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
       {

@@ -1,7 +1,7 @@
 {
   "journal_id": "information_communication_society",
-  "updated_at": "2026-03-05T14:24:08Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:03:32Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Kate Crawford"
         ],
         "year": 2012,
-        "citation_count": 3878,
+        "citation_count": 3879,
         "topics": [
           "Big Data",
           "Data Analytics",
@@ -31,7 +31,7 @@
           "Alexandra Segerberg"
         ],
         "year": 2012,
-        "citation_count": 2442,
+        "citation_count": 2463,
         "topics": [
           "Connective action",
           "Digital networks",
@@ -67,7 +67,7 @@
           "Taina Bucher"
         ],
         "year": 2016,
-        "citation_count": 855,
+        "citation_count": 857,
         "topics": [
           "Algorithms",
           "Social media",
@@ -93,7 +93,7 @@
           "Michael J. Stern"
         ],
         "year": 2015,
-        "citation_count": 780,
+        "citation_count": 783,
         "topics": [
           "Digital inequality",
           "Access and participation",
@@ -111,7 +111,7 @@
           "Caroline Haythornthwaite"
         ],
         "year": 2005,
-        "citation_count": 741,
+        "citation_count": 742,
         "topics": [
           "Social networks",
           "Internet connectivity",
@@ -124,6 +124,25 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1369118x.2026.2639568",
+        "title": "Problematic social media use and adolescent mental well-being: a cross-national study on socioeconomic inequalities",
+        "authors": [
+          "Seyma Celik",
+          "Pablo Gracia"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media use",
+          "Adolescent mental health",
+          "Socioeconomic inequalities",
+          "Cross-national study"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2639568",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1369118x.2026.2634845",
         "title": "Developing and testing an AI-based risk information-seeking model (ARISM): A structural equation modeling approach",
@@ -140,6 +159,41 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/1369118x.2026.2634845",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2639226",
+        "title": "Correction",
+        "authors": [],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Corrections",
+          "Misinformation",
+          "Media literacy",
+          "Message credibility"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2639226",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2636137",
+        "title": "Development and validation of FABLE-S: a scale to measure the ludic and pedagogical experience in serious games",
+        "authors": [
+          "Alba Merino-Cajaraville",
+          "Salvador Reyes-De-Cózar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Serious games",
+          "Game-based learning",
+          "Scale development",
+          "User experience measurement"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2636137",
         "topics_llm": true
       },
       {
@@ -180,67 +234,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/1369118x.2026.2636134",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2636132",
-        "title": "Everyday encounters with misinformation online: examining sources, topics and modes",
-        "authors": [
-          "Aimee Hourigan",
-          "T.J. Thomson",
-          "Tanya Notley",
-          "Sora Park",
-          "Michael Dezuanni"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Misinformation",
-          "Online communication",
-          "Digital media literacy",
-          "Information sources"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1369118x.2026.2636132",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2632169",
-        "title": "Filtered Latinidad: ethnoracial abstraction and everyday resistance in TikTok beauty filters",
-        "authors": [
-          "Catalina Farías"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "TikTok filters",
-          "Latinidad representation",
-          "Ethnoracial identity",
-          "Digital resistance"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1369118x.2026.2632169",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2631709",
-        "title": "Orchestrating scalability: how patents render cloud imaginaries in CAV innovation",
-        "authors": [
-          "A. (Alex) Gekker",
-          "S. (Sam) Hind",
-          "G. (Gabriel) Pereira",
-          "F. N. (Fernando) van der Vlist"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Cloud technology",
-          "Connected autonomous vehicles",
-          "Patent discourse",
-          "Innovation imaginaries"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1369118x.2026.2631709",
         "topics_llm": true
       }
     ],

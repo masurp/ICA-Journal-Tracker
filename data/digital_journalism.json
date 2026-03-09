@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-03-05T14:24:24Z",
-  "trending_from": "2024-03-05",
+  "updated_at": "2026-03-09T07:03:47Z",
+  "trending_from": "2024-03-09",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 1377,
+        "citation_count": 1378,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -50,7 +50,7 @@
           "Andrew McStay"
         ],
         "year": 2017,
-        "citation_count": 494,
+        "citation_count": 495,
         "topics": [
           "Misinformation",
           "Emotional appeals",
@@ -68,7 +68,7 @@
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 379,
+        "citation_count": 380,
         "topics": [
           "Artificial intelligence",
           "Automated journalism",
@@ -106,7 +106,7 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 354,
+        "citation_count": 355,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
@@ -119,6 +119,83 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/21670811.2026.2640421",
+        "title": "Journalistic Epistemic Authority in the Age of AI: The Incorporation of Generative AI in Newsrooms",
+        "authors": [
+          "Tamar Ashuri",
+          "Lior Zalmanson",
+          "Dovev Goldstein"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Journalistic authority",
+          "Generative AI",
+          "Newsroom practices",
+          "Epistemic credibility"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2640421",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2633613",
+        "title": "Unmasking the Mechanism: How News Media Consumption Drives Conspiracy Beliefs",
+        "authors": [
+          "Laura Jacobs",
+          "Peter Van Aelst"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Conspiracy theories",
+          "News media consumption",
+          "Misinformation",
+          "Belief formation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2633613",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2636905",
+        "title": "Future Imaginaries of Visual Open Source Investigative Journalism",
+        "authors": [
+          "Ståle Grut"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Visual journalism",
+          "Open source investigation",
+          "Digital media",
+          "Investigative reporting"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2636905",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2638928",
+        "title": "Accountability Sabotage and Journalism: Digital Authoritarian Practices and Chilling Effect in Latin America",
+        "authors": [
+          "Luiz Peres-Neto",
+          "Santiago Giraldo Luque",
+          "Juan Pablo Soriano Gatica"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital authoritarianism",
+          "Press freedom",
+          "Accountability journalism",
+          "Latin America"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2638928",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/21670811.2026.2636906",
         "title": "Debate Spaces for Everyone? How Public Service Media Aim to Reshape Audience Engagement and Interactions",
@@ -141,101 +218,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2026.2633623",
-        "title": "Algorithmic News Content Personalization and Readers’ Attitudes",
+        "doi": "10.1080/21670811.2026.2636907",
+        "title": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
         "authors": [
-          "Yixue Wang",
-          "Aaron Shaw",
-          "Stephanie Edgerly",
-          "Darren Gergle",
-          "Nicholas Diakopoulos"
+          "Patrick Ferrucci"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Algorithmic personalization",
-          "News consumption",
-          "Filter bubbles",
-          "Audience attitudes"
+          "Algorithmic journalism",
+          "Newsroom automation",
+          "Occupational change",
+          "Organizational communication"
         ],
         "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2633623",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2026.2626739",
-        "title": "Conceptualizing Fidelity: Reimagining Contemporary Visual Journalism’s Occupational Ideologies",
-        "authors": [
-          "Maxwell Foxman"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Visual journalism",
-          "Occupational ideology",
-          "Media fidelity",
-          "Professional identity"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2626739",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2026.2626737",
-        "title": "The User Experience of TikTok and Its Compatibility with News",
-        "authors": [
-          "Irene Costera Meijer",
-          "Kenza Lamot",
-          "Tim Groot Kormelink"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "TikTok",
-          "News consumption",
-          "User experience",
-          "Social media platforms"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2626737",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2026.2626733",
-        "title": "The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”",
-        "authors": [
-          "Patrik Åker",
-          "Jenni Mäenpää",
-          "Liudmila Voronova"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Visual journalism",
-          "Photojournalism",
-          "Temporal analysis",
-          "Truth claims"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2626733",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2026.2623275",
-        "title": "Do News Media Want to Disentangle from Platforms?",
-        "authors": [
-          "Rasmus Kleis Nielsen"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "News media",
-          "Platform dependency",
-          "Digital journalism",
-          "Media economics"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2026.2623275",
+        "url": "https://doi.org/10.1080/21670811.2026.2636907",
         "topics_llm": true
       }
     ],
@@ -249,7 +246,7 @@
           "Phoebe Matich"
         ],
         "year": 2024,
-        "citation_count": 42,
+        "citation_count": 43,
         "topics": [
           "Generative AI",
           "News organizations",
@@ -325,7 +322,7 @@
           "Olivier Standaert"
         ],
         "year": 2024,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Visual disinformation",
           "Fact-checking",
@@ -337,23 +334,25 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2431519",
-        "title": "Policies in Parallel? A Comparative Study of Journalistic AI Policies in 52 Global News Organisations",
+        "doi": "10.1080/21670811.2024.2435579",
+        "title": "“I Resist”. A Study of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk Perceptions, Trust and Credibility",
         "authors": [
-          "Kim Björn Becker",
-          "Felix M. Simon",
-          "Christopher Crum"
+          "Sophie Morosoli",
+          "Valeria Resendez",
+          "Laurens Naudts",
+          "Natali Helberger",
+          "Claes de Vreese"
         ],
         "year": 2025,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
-          "Artificial Intelligence",
+          "Generative AI",
           "Journalism",
-          "Media Policy",
-          "Comparative Analysis"
+          "Risk perception",
+          "Trust and credibility"
         ],
         "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2024.2431519",
+        "url": "https://doi.org/10.1080/21670811.2024.2435579",
         "topics_llm": true
       }
     ]
