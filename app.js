@@ -254,9 +254,10 @@ function renderJournalView(journal, publisher, data) {
           <span class="journal-publisher-badge" style="background:color-mix(in srgb, ${color} 15%, transparent);color:${color};border-color:color-mix(in srgb, ${color} 30%, transparent)">${escapeHtml(publisher.name)}</span>
           <h2 class="journal-name">${escapeHtml(journal.name)}</h2>
         </div>
-        <a class="journal-link" href="${escapeHtml(journal.url)}" target="_blank" rel="noopener">
-          Visit journal ↗
-        </a>
+        <div class="journal-header-actions">
+          <button class="trends-anchor-btn" id="journal-trends-anchor-btn">Keyword Trends ↓</button>
+          <a class="journal-link" href="${escapeHtml(journal.url)}" target="_blank" rel="noopener">Visit journal ↗</a>
+        </div>
       </div>
       <div class="sections-grid">
         ${sectionsHtml}
@@ -613,10 +614,26 @@ function renderHeatmapChart(papersByJournal) {
   if (!topTopics.length) return '<div class="empty-card">No topic data available.</div>';
 
   const journals = Object.keys(papersByJournal);
-  const abbrev = name => name
-    .replace(/\b(of|the|and|in|for|a|an)\b/gi, '')
-    .replace(/\s+/g, ' ').trim()
-    .split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 5);
+  const ABBREVS = {
+    'Journal of Communication':                              'JOC',
+    'Human Communication Research':                          'HCR',
+    'Communication Theory':                                  'CT',
+    'Journal of Computer-Mediated Communication':            'JCMC',
+    'Communication, Culture & Critique':                     'CCC',
+    'Annals of the International Communication Association': 'Annals',
+    'Communication Research':                                'CR',
+    'New Media & Society':                                   'NMS',
+    'Social Media + Society':                                'SM+S',
+    'Mobile Media & Communication':                          'MMC',
+    'Political Communication':                               'PC',
+    'Information, Communication & Society':                  'ICS',
+    'Digital Journalism':                                    'DJ',
+    'Media Psychology':                                      'MP',
+    'Communication Methods and Measures':                    'CMM',
+    'Journal of Media Psychology':                           'JMP',
+    'Computational Communication Research':                  'CCR',
+  };
+  const abbrev = name => ABBREVS[name] || name.split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 5);
 
   const header = `<div class="hm-cell hm-corner"></div>${journals.map(j =>
     `<div class="hm-cell hm-header" title="${escapeHtml(j)}"><span class="hm-abbrev">${escapeHtml(abbrev(j))}</span></div>`
@@ -1305,6 +1322,10 @@ function bindToggleButtons(journal, publisher) {
 function bindJournalTrendsEvents(data, journal, publisher) {
   const section = document.getElementById('journal-trends-section');
   if (!section) return;
+
+  document.getElementById('journal-trends-anchor-btn')?.addEventListener('click', () => {
+    section.scrollIntoView({ behavior: 'smooth' });
+  });
 
   section.querySelectorAll('.journal-trends-btn').forEach(btn => {
     btn.addEventListener('click', () => {

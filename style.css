@@ -351,6 +351,12 @@ a:hover {
   color: var(--text-primary);
 }
 
+.journal-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .journal-link {
   font-size: 0.8rem;
   font-weight: 500;
