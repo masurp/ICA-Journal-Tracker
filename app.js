@@ -155,10 +155,32 @@ function initModal() {
     const btn = e.target.closest('.paper-details-btn[data-doi]');
     if (btn) { openPaperModal(btn.dataset.doi); return; }
     if (e.target.id === 'paper-modal' || e.target.closest('.modal-close-btn')) closePaperModal();
+
+    const showMore = e.target.closest('.show-more-btn');
+    if (showMore) {
+      const container = showMore.closest('.section-col') || showMore.parentElement;
+      const hiddenSlots = [...container.querySelectorAll('.paper-slot[hidden]')];
+      hiddenSlots.slice(0, SHOW_MORE_STEP).forEach(s => s.removeAttribute('hidden'));
+      const remaining = container.querySelectorAll('.paper-slot[hidden]').length;
+      if (remaining === 0) showMore.remove();
+      else showMore.textContent = `Show ${Math.min(SHOW_MORE_STEP, remaining)} more`;
+    }
   });
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') closePaperModal();
   });
+}
+
+const INITIAL_VISIBLE = 6;
+const SHOW_MORE_STEP = 4;
+
+function renderPapersWithShowMore(papers) {
+  const html = papers.map((p, i) =>
+    `<div class="paper-slot"${i >= INITIAL_VISIBLE ? ' hidden' : ''}>${renderCard(p, i + 1)}</div>`
+  ).join('');
+  const remaining = papers.length - INITIAL_VISIBLE;
+  if (remaining <= 0) return html;
+  return html + `<button class="show-more-btn">Show ${Math.min(SHOW_MORE_STEP, remaining)} more</button>`;
 }
 
 function renderCiteSection(data, journalId, journalColor) {
@@ -166,7 +188,7 @@ function renderCiteSection(data, journalId, journalColor) {
   const section = CITE_MODES[mode];
   const papers = data.sections?.[section.key] || [];
   const cardsHtml = papers.length > 0
-    ? papers.map((p, i) => renderCard(p, i + 1)).join('')
+    ? renderPapersWithShowMore(papers)
     : '<div class="empty-card">No data available</div>';
 
   const trendingFrom = data.trending_from
@@ -201,7 +223,7 @@ function renderCiteSection(data, journalId, journalColor) {
 function renderLatestSection(data, journalColor) {
   const papers = data.sections?.[LATEST_SECTION.key] || [];
   const cardsHtml = papers.length > 0
-    ? papers.map((p, i) => renderCard(p, i + 1)).join('')
+    ? renderPapersWithShowMore(papers)
     : '<div class="empty-card">No data available</div>';
 
   return `
@@ -239,8 +261,61 @@ function renderJournalView(journal, publisher, data) {
       <div class="sections-grid">
         ${sectionsHtml}
       </div>
+      ${renderJournalTrendsSection(data, journal, publisher)}
     </div>
   `;
+}
+
+function renderJournalTrendsSection(data, journal, publisher) {
+  const papers = collectPapersFromSections(data, journalTrendsSections);
+  const modeButtons = [
+    ['alluvial',          'Topic Flow'],
+    ['openalex_keywords', 'AI Keywords'],
+    ['clusters',          'Topic Clusters'],
+  ].map(([m, label]) =>
+    `<button class="trends-toggle-btn journal-trends-btn ${journalTrendsMode === m ? 'active' : ''}" data-jmode="${m}" style="--toggle-color:${publisher.color}">${label}</button>`
+  ).join('');
+
+  const yearRangeHtml = journalTrendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+  const chart = journalTrendsMode === 'alluvial'
+    ? renderAlluvialChart(papers, journalTrendsYearMin, journalTrendsYearMax)
+    : renderTrendsChartHtml(papers, journalTrendsMode);
+
+  return `
+    <div class="journal-trends-section" id="journal-trends-section">
+      <div class="trends-header">
+        <h2 class="trends-title">Topic Trends</h2>
+        <div class="trends-toggle" role="group" aria-label="Trend view">${modeButtons}</div>
+      </div>
+      <div class="trends-controls" id="journal-trends-controls">
+        ${renderSectionFilterHtml(journalTrendsSections)}
+        ${yearRangeHtml}
+      </div>
+      <div id="journal-trends-chart">${chart}</div>
+    </div>
+  `;
+}
+
+function refreshJournalTrendsControls(data) {
+  const papers = collectPapersFromSections(data, journalTrendsSections);
+  const yearRangeHtml = journalTrendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+  const el = document.getElementById('journal-trends-controls');
+  if (el) {
+    el.innerHTML = renderSectionFilterHtml(journalTrendsSections) + yearRangeHtml;
+    bindJournalSectionFilter(data);
+    bindJournalYearRange(data);
+  }
+}
+
+function refreshJournalTrendsChart(data) {
+  const papers = collectPapersFromSections(data, journalTrendsSections);
+  const el = document.getElementById('journal-trends-chart');
+  if (el) {
+    el.innerHTML = journalTrendsMode === 'alluvial'
+      ? renderAlluvialChart(papers, journalTrendsYearMin, journalTrendsYearMax)
+      : renderTrendsChartHtml(papers, journalTrendsMode);
+    bindTrendsSearchLinks();
+  }
 }
 
 function setLastUpdated(isoString) {
@@ -366,13 +441,250 @@ function extractTopicClusters(papers, maxClusters = 8) {
   return clusters;
 }
 
+// ── Topic-by-year & cross-journal helpers ─────────────────────────────────────
+
+function collectPapersFromSections(data, sectionKeys) {
+  const seen = new Set();
+  const papers = [];
+  for (const key of sectionKeys) {
+    for (const paper of (data.sections?.[key] || [])) {
+      if (paper.doi && !seen.has(paper.doi)) {
+        seen.add(paper.doi);
+        papers.push(paper);
+      }
+    }
+  }
+  return papers;
+}
+
+function aggregateTopicsByYear(papers) {
+  const byYear = {};
+  for (const paper of papers) {
+    if (!paper.year || !paper.topics?.length) continue;
+    if (!byYear[paper.year]) byYear[paper.year] = {};
+    for (const topic of paper.topics) {
+      const k = topic.toLowerCase();
+      if (!byYear[paper.year][k]) byYear[paper.year][k] = { count: 0, label: topic };
+      byYear[paper.year][k].count++;
+    }
+  }
+  return byYear;
+}
+
+function renderSectionFilterHtml(activeSections) {
+  return `<div class="section-filter">${[
+    ['most_cited', 'Most Cited'],
+    ['trending',   'Trending'],
+    ['latest',     'Latest'],
+  ].map(([key, label]) =>
+    `<button class="section-filter-btn${activeSections.has(key) ? ' active' : ''}" data-section="${key}">${label}</button>`
+  ).join('')}</div>`;
+}
+
+function renderYearRangeHtml(papers) {
+  const years = [...new Set(papers.filter(p => p.year).map(p => p.year))].sort((a, b) => a - b);
+  if (years.length < 2) return '';
+  return `<div class="year-range-filter">
+    <span class="year-range-label">Years</span>
+    <select class="year-range-select" id="year-min-select">
+      <option value="">From</option>
+      ${years.map(y => `<option value="${y}" ${y == journalTrendsYearMin ? 'selected' : ''}>${y}</option>`).join('')}
+    </select>
+    <span class="year-range-sep">–</span>
+    <select class="year-range-select" id="year-max-select">
+      <option value="">To</option>
+      ${years.map(y => `<option value="${y}" ${y == journalTrendsYearMax ? 'selected' : ''}>${y}</option>`).join('')}
+    </select>
+  </div>`;
+}
+
+function renderByYearChart(papers, yearMin, yearMax) {
+  const byYear = aggregateTopicsByYear(papers);
+  let years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+  if (yearMin) years = years.filter(y => y >= yearMin);
+  if (yearMax) years = years.filter(y => y <= yearMax);
+  if (!years.length) return '<div class="empty-card">No data for selected year range.</div>';
+
+  const rows = years.map(year => {
+    const items = Object.entries(byYear[year])
+      .sort((a, b) => b[1].count - a[1].count)
+      .slice(0, 6);
+    if (!items.length) return '';
+    const maxCount = items[0][1].count;
+    const bars = items.map(([, { count, label }]) => {
+      const pct = Math.round((count / maxCount) * 100);
+      const { bg, text } = topicColor(label);
+      return `<div class="byyear-row">
+        <span class="byyear-topic">${escapeHtml(label)}</span>
+        <div class="byyear-bar-wrap">
+          <div class="byyear-bar" style="width:${pct}%;background:${bg}">
+            <span class="byyear-count" style="color:${text}">${count}</span>
+          </div>
+        </div>
+      </div>`;
+    }).join('');
+    return `<div class="byyear-group">
+      <div class="byyear-year">${year}</div>
+      <div class="byyear-bars">${bars}</div>
+    </div>`;
+  }).filter(Boolean).join('');
+
+  return rows ? `<div class="byyear-chart">${rows}</div>` : '<div class="empty-card">No topic data available.</div>';
+}
+
+function renderAlluvialChart(papers, yearMin = null, yearMax = null) {
+  const byYear = aggregateTopicsByYear(papers);
+  let years = Object.keys(byYear).map(Number).sort((a, b) => a - b);
+  if (yearMin) years = years.filter(y => y >= yearMin);
+  if (yearMax) years = years.filter(y => y <= yearMax);
+  if (years.length > 10) years = years.slice(-10);
+  if (years.length < 2) return '<div class="empty-card">Need papers from at least 2 different years. Try enabling "Most Cited".</div>';
+
+  const totalCounts = {}, topicLabels = {};
+  for (const yearData of Object.values(byYear)) {
+    for (const [k, { count, label }] of Object.entries(yearData)) {
+      totalCounts[k] = (totalCounts[k] || 0) + count;
+      topicLabels[k] = label;
+    }
+  }
+  const topTopics = Object.entries(totalCounts)
+    .sort((a, b) => b[1] - a[1]).slice(0, 10).map(([k]) => k);
+
+  const W = 900, H = 300, PAD_T = 20, PAD_B = 22;
+  const CHART_H = H - PAD_T - PAD_B;
+  const colW = W / years.length;
+  const blockW = Math.min(colW * 0.55, 100);
+  const blockX = i => i * colW + (colW - blockW) / 2;
+  const GAP = 2;
+
+  const maxTotal = Math.max(...years.map(yr =>
+    topTopics.reduce((s, t) => s + (byYear[yr]?.[t]?.count || 0), 0)
+  ));
+  if (!maxTotal) return '<div class="empty-card">No topic data available.</div>';
+
+  const pos = {};
+  for (let i = 0; i < years.length; i++) {
+    const yr = years[i];
+    pos[yr] = {};
+    const x = blockX(i);
+    const sorted = [...topTopics].sort((a, b) => (byYear[yr]?.[b]?.count || 0) - (byYear[yr]?.[a]?.count || 0));
+    let y = PAD_T;
+    for (const tk of sorted) {
+      const count = byYear[yr]?.[tk]?.count || 0;
+      if (!count) continue;
+      const h = Math.max(2, (count / maxTotal) * (CHART_H - GAP * topTopics.length));
+      pos[yr][tk] = { x, y, h };
+      y += h + GAP;
+    }
+  }
+
+  let svg = '';
+  for (let i = 0; i < years.length - 1; i++) {
+    const yr1 = years[i], yr2 = years[i + 1];
+    for (const tk of topTopics) {
+      const b1 = pos[yr1][tk], b2 = pos[yr2][tk];
+      if (!b1 || !b2) continue;
+      const { bg } = topicColor(topicLabels[tk]);
+      const x1 = b1.x + blockW, x2 = b2.x, mx = (x1 + x2) / 2;
+      svg += `<path d="M${x1},${b1.y} C${mx},${b1.y} ${mx},${b2.y} ${x2},${b2.y} L${x2},${b2.y+b2.h} C${mx},${b2.y+b2.h} ${mx},${b1.y+b1.h} ${x1},${b1.y+b1.h} Z" fill="${bg}" opacity="0.3"/>`;
+    }
+  }
+  for (let i = 0; i < years.length; i++) {
+    const yr = years[i];
+    for (const tk of topTopics) {
+      const b = pos[yr][tk];
+      if (!b) continue;
+      const { bg, text } = topicColor(topicLabels[tk]);
+      svg += `<rect x="${b.x}" y="${b.y}" width="${blockW}" height="${b.h}" fill="${bg}" rx="2" opacity="0.9"/>`;
+      if (b.h >= 13) {
+        const fs = Math.min(9, b.h - 4);
+        svg += `<text x="${b.x + blockW / 2}" y="${b.y + b.h / 2 + fs * 0.35}" text-anchor="middle" font-size="${fs}" fill="${text}" font-family="Inter,sans-serif">${escapeHtml(topicLabels[tk])}</text>`;
+      }
+    }
+    svg += `<text x="${blockX(i) + blockW / 2}" y="${H - 4}" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.6" font-family="Inter,sans-serif">${years[i]}</text>`;
+  }
+
+  return `<div class="alluvial-wrapper"><svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">${svg}</svg></div>`;
+}
+
+function renderHeatmapChart(papersByJournal) {
+  const allPapers = Object.values(papersByJournal).flat();
+  const topTopics = extractTopKeywords(allPapers, 15).map(({ word }) => word);
+  if (!topTopics.length) return '<div class="empty-card">No topic data available.</div>';
+
+  const journals = Object.keys(papersByJournal);
+  const abbrev = name => name
+    .replace(/\b(of|the|and|in|for|a|an)\b/gi, '')
+    .replace(/\s+/g, ' ').trim()
+    .split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 5);
+
+  const header = `<div class="hm-cell hm-corner"></div>${journals.map(j =>
+    `<div class="hm-cell hm-header" title="${escapeHtml(j)}"><span class="hm-abbrev">${escapeHtml(abbrev(j))}</span></div>`
+  ).join('')}`;
+
+  const rows = topTopics.map(tk => {
+    const cells = journals.map(jname => {
+      return (papersByJournal[jname] || []).filter(p =>
+        p.topics?.some(t => t.toLowerCase() === tk)
+      ).length;
+    });
+    const maxCount = Math.max(...cells, 1);
+    return `<div class="hm-cell hm-topic">${escapeHtml(tk)}</div>${cells.map(count => {
+      const alpha = count > 0 ? Math.max(0.1, (count / maxCount) * 0.85) : 0;
+      const bg = count > 0 ? `rgba(99,102,241,${alpha.toFixed(2)})` : 'transparent';
+      return `<div class="hm-cell hm-value" style="background:${bg}" title="${count > 0 ? count + ' papers' : ''}">${count > 0 ? count : ''}</div>`;
+    }).join('')}`;
+  }).join('');
+
+  return `<div class="heatmap-scroll">
+    <div class="heatmap-grid" style="grid-template-columns:140px ${journals.map(() => '1fr').join(' ')}">${header}${rows}</div>
+  </div>`;
+}
+
+function renderOverviewTrendsChart(papers, papersByJournal) {
+  if (trendsMode === 'alluvial') return renderAlluvialChart(papers, overviewTrendsYearMin, overviewTrendsYearMax);
+  if (trendsMode === 'heatmap') return renderHeatmapChart(papersByJournal);
+  return renderTrendsChartHtml(papers, trendsMode);
+}
+
+function getOverviewTrendsPapers() {
+  const seen = new Set();
+  const papers = [];
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      for (const key of overviewTrendsSections) {
+        for (const paper of (data.sections?.[key] || [])) {
+          if (paper.doi && !seen.has(paper.doi)) {
+            seen.add(paper.doi);
+            papers.push(paper);
+          }
+        }
+      }
+    }
+  }
+  return papers;
+}
+
+function getOverviewPapersByJournal() {
+  const result = {};
+  for (const pub of publishers) {
+    for (const journal of pub.journals) {
+      const data = dataCache[journal.id];
+      if (!data) continue;
+      result[journal.name] = collectPapersFromSections(data, overviewTrendsSections);
+    }
+  }
+  return result;
+}
+
 // ── Overview ─────────────────────────────────────────────────────────────────
 
 let overviewActive = false;
 
 async function renderOverview() {
   overviewActive = true;
-
   activeJournalId = null;
   activePublisherId = null;
 
@@ -396,10 +708,9 @@ async function renderOverview() {
 
   await loadAllJournals();
 
-  // Collect papers per section across all journals, with journal label
+  // Build per-section aggregates for the top-papers cards
   const bySection = { most_cited: [], trending: [], latest: [] };
   const seenPerSection = { most_cited: new Set(), trending: new Set(), latest: new Set() };
-
   for (const pub of publishers) {
     for (const journal of pub.journals) {
       const data = dataCache[journal.id];
@@ -416,19 +727,12 @@ async function renderOverview() {
     }
   }
 
-  // Sort and take top 10
   const overviewData = {
     trending_from: Object.values(dataCache)[0]?.trending_from,
     sections: {
-      most_cited: bySection.most_cited
-        .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
-        .slice(0, 10),
-      trending: bySection.trending
-        .sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0))
-        .slice(0, 10),
-      latest: bySection.latest
-        .sort((a, b) => (b.year || 0) - (a.year || 0))
-        .slice(0, 10),
+      most_cited: bySection.most_cited.sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0)).slice(0, 50),
+      trending:   bySection.trending.sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0)).slice(0, 50),
+      latest:     bySection.latest.sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 50),
     },
   };
   dataCache['_overview'] = overviewData;
@@ -436,29 +740,16 @@ async function renderOverview() {
   const accentColor = 'var(--accent)';
   const totalJournals = publishers.reduce((n, p) => n + p.journals.length, 0);
 
-  // Collect recent papers for trends (trending + latest only)
-  const trendsSeen = new Set();
-  const trendsPapers = [];
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      const data = dataCache[journal.id];
-      if (!data) continue;
-      for (const key of ['trending', 'latest']) {
-        for (const paper of data.sections?.[key] || []) {
-          if (paper.doi && !trendsSeen.has(paper.doi)) {
-            trendsSeen.add(paper.doi);
-            trendsPapers.push(paper);
-          }
-        }
-      }
-    }
+  function trendsSubText(papers) {
+    const n = papers.length;
+    if (trendsMode === 'clusters') return `Topics clustered by co-occurrence — ${n} papers`;
+    if (trendsMode === 'alluvial') return `Topic flow across years — ${n} papers (enable "Most Cited" for longer history)`;
+    if (trendsMode === 'heatmap')  return `Topic frequency across all journals`;
+    return `Most frequent AI-generated topic keywords — ${n} papers`;
   }
 
-  function trendsSubText() {
-    if (trendsMode === 'title_words') return `Most frequent words in paper titles — ${trendsPapers.length} recent papers`;
-    if (trendsMode === 'clusters') return `Topics clustered by co-occurrence — ${trendsPapers.length} recent papers`;
-    return `Most frequent AI-generated topic keywords — ${trendsPapers.length} recent papers`;
-  }
+  const trendsPapers    = getOverviewTrendsPapers();
+  const papersByJournal = getOverviewPapersByJournal();
 
   main.innerHTML = `
     <div class="overview-view">
@@ -473,38 +764,87 @@ async function renderOverview() {
       <div class="trends-section" id="trends-section">
         <div class="trends-header">
           <h2 class="trends-title">Keyword Trends</h2>
-          <p class="trends-sub" id="trends-sub">${trendsSubText()}</p>
-          <div class="trends-toggle" role="group" aria-label="Trend source">
-            <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
-            <button class="trends-toggle-btn ${trendsMode === 'clusters' ? 'active' : ''}" data-mode="clusters">Topic Clusters</button>
-            <button class="trends-toggle-btn ${trendsMode === 'title_words' ? 'active' : ''}" data-mode="title_words">Title Words</button>
+          <p class="trends-sub" id="trends-sub">${trendsSubText(trendsPapers)}</p>
+          <div class="trends-header-controls">
+            <div class="trends-toggle" role="group" aria-label="Trend source">
+              <button class="trends-toggle-btn ${trendsMode === 'openalex_keywords' ? 'active' : ''}" data-mode="openalex_keywords">AI Keywords</button>
+              <button class="trends-toggle-btn ${trendsMode === 'alluvial'          ? 'active' : ''}" data-mode="alluvial">Topic Flow</button>
+              <button class="trends-toggle-btn ${trendsMode === 'heatmap'           ? 'active' : ''}" data-mode="heatmap">Heatmap</button>
+              <button class="trends-toggle-btn ${trendsMode === 'clusters'          ? 'active' : ''}" data-mode="clusters">Topic Clusters</button>
+            </div>
+            <div class="trends-controls-row">
+              ${renderSectionFilterHtml(overviewTrendsSections)}
+              <div id="overview-year-range">${trendsMode === 'alluvial' ? renderYearRangeHtml(trendsPapers) : ''}</div>
+            </div>
           </div>
         </div>
-        <div class="trends-chart" id="trends-chart">${renderTrendsChartHtml(trendsPapers)}</div>
+        <div class="trends-chart" id="trends-chart">${renderOverviewTrendsChart(trendsPapers, papersByJournal)}</div>
       </div>
     </div>
   `;
+
   bindToggleButtons({}, { color: accentColor });
 
-  // Bind trends anchor button
   document.getElementById('trends-anchor-btn')?.addEventListener('click', () => {
     document.getElementById('trends-section')?.scrollIntoView({ behavior: 'smooth' });
   });
 
-  // Bind trends toggle buttons
+  function refreshOverviewTrends() {
+    const papers    = getOverviewTrendsPapers();
+    const byJournal = getOverviewPapersByJournal();
+    document.getElementById('trends-sub').textContent = trendsSubText(papers);
+    document.getElementById('trends-chart').innerHTML  = renderOverviewTrendsChart(papers, byJournal);
+    const yrEl = document.getElementById('overview-year-range');
+    if (yrEl) yrEl.innerHTML = trendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+    bindOverviewYearRange();
+    bindTrendsSearchLinks();
+  }
+
+  function bindOverviewYearRange() {
+    document.getElementById('year-min-select')?.addEventListener('change', e => {
+      overviewTrendsYearMin = e.target.value ? Number(e.target.value) : null;
+      const papers = getOverviewTrendsPapers();
+      const byJournal = getOverviewPapersByJournal();
+      document.getElementById('trends-chart').innerHTML = renderOverviewTrendsChart(papers, byJournal);
+      bindTrendsSearchLinks();
+    });
+    document.getElementById('year-max-select')?.addEventListener('change', e => {
+      overviewTrendsYearMax = e.target.value ? Number(e.target.value) : null;
+      const papers = getOverviewTrendsPapers();
+      const byJournal = getOverviewPapersByJournal();
+      document.getElementById('trends-chart').innerHTML = renderOverviewTrendsChart(papers, byJournal);
+      bindTrendsSearchLinks();
+    });
+  }
+
   main.querySelectorAll('.trends-toggle-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       if (trendsMode === btn.dataset.mode) return;
       trendsMode = btn.dataset.mode;
+      overviewTrendsYearMin = null;
+      overviewTrendsYearMax = null;
       main.querySelectorAll('.trends-toggle-btn').forEach(b =>
         b.classList.toggle('active', b.dataset.mode === trendsMode)
       );
-      document.getElementById('trends-sub').textContent = trendsSubText();
-      document.getElementById('trends-chart').innerHTML = renderTrendsChartHtml(trendsPapers);
-      bindTrendsSearchLinks();
+      refreshOverviewTrends();
     });
   });
 
+  main.querySelectorAll('#trends-section .section-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const sec = btn.dataset.section;
+      const isActive = overviewTrendsSections.has(sec);
+      if (isActive && overviewTrendsSections.size === 1) return;
+      if (isActive) overviewTrendsSections.delete(sec);
+      else overviewTrendsSections.add(sec);
+      btn.classList.toggle('active', !isActive);
+      overviewTrendsYearMin = null;
+      overviewTrendsYearMax = null;
+      refreshOverviewTrends();
+    });
+  });
+
+  bindOverviewYearRange();
   bindTrendsSearchLinks();
 }
 
@@ -520,10 +860,17 @@ function bindTrendsSearchLinks() {
   });
 }
 
+let overviewTrendsSections = new Set(['trending', 'latest']);
+let overviewTrendsYearMin = null;
+let overviewTrendsYearMax = null;
+let journalTrendsMode = 'alluvial';
+let journalTrendsSections = new Set(['most_cited', 'trending', 'latest']);
+let journalTrendsYearMin = null;
+let journalTrendsYearMax = null;
 let trendsMode = 'openalex_keywords';
 
-function renderTrendsChartHtml(papers) {
-  if (trendsMode === 'clusters') {
+function renderTrendsChartHtml(papers, mode = trendsMode) {
+  if (mode === 'clusters') {
     const clusters = extractTopicClusters(papers);
     if (clusters.length === 0) return '<div class="empty-card">No data available.</div>';
     return `<div class="cluster-grid">${clusters.map(c => `
@@ -537,7 +884,7 @@ function renderTrendsChartHtml(papers) {
     `).join('')}</div>`;
   }
 
-  const items = trendsMode === 'title_words'
+  const items = mode === 'title_words'
     ? extractTopWords(papers)
     : extractTopKeywords(papers);
   if (items.length === 0) return '<div class="empty-card">No data available.</div>';
@@ -909,9 +1256,12 @@ async function loadJournal(journal, publisher) {
   const main = document.getElementById('main-content');
 
   if (dataCache[journal.id]) {
+    journalTrendsYearMin = null;
+    journalTrendsYearMax = null;
     main.innerHTML = renderJournalView(journal, publisher, dataCache[journal.id]);
     setLastUpdated(dataCache[journal.id].updated_at);
     bindToggleButtons(journal, publisher);
+    bindJournalTrendsEvents(dataCache[journal.id], journal, publisher);
     return;
   }
 
@@ -925,9 +1275,12 @@ async function loadJournal(journal, publisher) {
     dataCache[journal.id] = data;
     indexJournalData(data, journal.name);
     if (activeJournalId !== journal.id) return;
+    journalTrendsYearMin = null;
+    journalTrendsYearMax = null;
     main.innerHTML = renderJournalView(journal, publisher, data);
     setLastUpdated(data.updated_at);
     bindToggleButtons(journal, publisher);
+    bindJournalTrendsEvents(data, journal, publisher);
   } catch (err) {
     main.innerHTML = `<div class="error-state">⚠ Failed to load ${escapeHtml(journal.name)}: ${escapeHtml(err.message)}</div>`;
   }
@@ -946,6 +1299,57 @@ function bindToggleButtons(journal, publisher) {
       if (col) col.outerHTML = renderCiteSection(data, journalId, publisher.color);
       bindToggleButtons(journal, publisher);
     });
+  });
+}
+
+function bindJournalTrendsEvents(data, journal, publisher) {
+  const section = document.getElementById('journal-trends-section');
+  if (!section) return;
+
+  section.querySelectorAll('.journal-trends-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (journalTrendsMode === btn.dataset.jmode) return;
+      journalTrendsMode = btn.dataset.jmode;
+      journalTrendsYearMin = null;
+      journalTrendsYearMax = null;
+      section.querySelectorAll('.journal-trends-btn').forEach(b =>
+        b.classList.toggle('active', b.dataset.jmode === journalTrendsMode)
+      );
+      refreshJournalTrendsControls(data);
+      refreshJournalTrendsChart(data);
+    });
+  });
+
+  bindJournalSectionFilter(data);
+  bindJournalYearRange(data);
+  bindTrendsSearchLinks();
+}
+
+function bindJournalSectionFilter(data) {
+  document.querySelectorAll('#journal-trends-controls .section-filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const sec = btn.dataset.section;
+      const isActive = journalTrendsSections.has(sec);
+      if (isActive && journalTrendsSections.size === 1) return; // keep at least one
+      if (isActive) journalTrendsSections.delete(sec);
+      else journalTrendsSections.add(sec);
+      btn.classList.toggle('active', !isActive);
+      journalTrendsYearMin = null;
+      journalTrendsYearMax = null;
+      refreshJournalTrendsControls(data);
+      refreshJournalTrendsChart(data);
+    });
+  });
+}
+
+function bindJournalYearRange(data) {
+  document.getElementById('year-min-select')?.addEventListener('change', e => {
+    journalTrendsYearMin = e.target.value ? Number(e.target.value) : null;
+    refreshJournalTrendsChart(data);
+  });
+  document.getElementById('year-max-select')?.addEventListener('change', e => {
+    journalTrendsYearMax = e.target.value ? Number(e.target.value) : null;
+    refreshJournalTrendsChart(data);
   });
 }
 

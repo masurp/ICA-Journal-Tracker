@@ -32,8 +32,8 @@ HEADERS = {
     "User-Agent": f"ICA-Journal-Tracker/1.0 (https://github.com/masurp/ICA-Journal-Tracker; mailto:{MAILTO})"
 }
 DATA_DIR = Path(__file__).parent.parent / "data"
-ROWS = 10       # papers fetched per section (before deduplication)
-TOP_N = 6       # papers shown per section
+ROWS = 50       # papers fetched per section (before deduplication)
+TOP_N = 50      # papers stored per section
 OPENALEX_BASE = "https://api.openalex.org/works"
 OPENALEX_SELECT = "doi,title,authorships,publication_date,cited_by_count,abstract_inverted_index"
 
@@ -145,7 +145,9 @@ def fetch_openalex(issn: str, sort: str, from_date: str | None = None) -> list[d
     })
     if not data:
         return []
-    return [parse_openalex_paper(item) for item in data.get("results", [])]
+    papers = [parse_openalex_paper(item) for item in data.get("results", [])]
+    # Drop non-article entries (TOC pages, editorials misclassified by OpenAlex)
+    return [p for p in papers if p["authors"] and "Get access" not in p["abstract"]]
 
 
 # ── LLM enrichment ───────────────────────────────────────────────────────────

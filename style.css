@@ -633,6 +633,30 @@ a:hover {
   opacity: 0.8;
 }
 
+/* ── Paper Slot (show-more wrapper) ─────────────────────────────────────── */
+
+.paper-slot[hidden] { display: none; }
+
+/* ── Show More ────────────────────────────────────────────────────────────── */
+
+.show-more-btn {
+  margin-top: 0.5rem;
+  width: 100%;
+  padding: 0.5rem;
+  background: none;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.show-more-btn:hover {
+  border-color: var(--journal-color, var(--text-secondary));
+  color: var(--text-primary);
+}
+
 /* ── Empty State ──────────────────────────────────────────────────────────── */
 
 .empty-card {
@@ -1212,4 +1236,242 @@ a:hover {
   outline: 2px solid var(--journal-color);
   outline-offset: 3px;
   border-radius: 4px;
+}
+
+/* ── Journal Trends Section ──────────────────────────────────────────────── */
+
+.journal-trends-section {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}
+
+/* ── Trends controls row ─────────────────────────────────────────────────── */
+
+.trends-header-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.trends-controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.trends-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.section-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.section-filter-btn {
+  padding: 0.2rem 0.6rem;
+  font-size: 0.72rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.section-filter-btn.active {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 40%, transparent);
+  color: var(--accent);
+}
+
+.section-filter-btn:hover:not(.active) {
+  border-color: var(--text-secondary);
+  color: var(--text-primary);
+}
+
+.year-range-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.year-range-label {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.year-range-sep {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.year-range-select {
+  font-size: 0.75rem;
+  padding: 0.2rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  cursor: pointer;
+}
+
+/* ── By-Year Chart ───────────────────────────────────────────────────────── */
+
+.byyear-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.byyear-group {
+  display: grid;
+  grid-template-columns: 3rem 1fr;
+  gap: 0.5rem;
+  align-items: start;
+}
+
+.byyear-year {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding-top: 0.15rem;
+  text-align: right;
+}
+
+.byyear-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.byyear-row {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.byyear-topic {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  text-align: right;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.byyear-bar-wrap {
+  background: var(--bg-card);
+  border-radius: 2px;
+  height: 1.1rem;
+  position: relative;
+}
+
+.byyear-bar {
+  height: 100%;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 0.3rem;
+  min-width: 1.5rem;
+  transition: width 0.2s ease;
+}
+
+.byyear-count {
+  font-size: 0.65rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* ── Alluvial Chart ──────────────────────────────────────────────────────── */
+
+.alluvial-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.alluvial-wrapper svg {
+  min-width: 400px;
+}
+
+/* ── Heatmap ─────────────────────────────────────────────────────────────── */
+
+.heatmap-scroll {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.heatmap-grid {
+  display: grid;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  min-width: 600px;
+}
+
+.hm-cell {
+  padding: 0.35rem 0.4rem;
+  font-size: 0.7rem;
+  border-right: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hm-cell:last-child,
+.hm-cell:nth-child(var(--hm-cols)) {
+  border-right: none;
+}
+
+.hm-corner {
+  background: var(--bg-card);
+}
+
+.hm-header {
+  background: var(--bg-card);
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  text-align: center;
+  font-weight: 600;
+  color: var(--text-secondary);
+  min-height: 60px;
+  padding: 0.5rem 0.25rem;
+}
+
+.hm-abbrev {
+  font-size: 0.65rem;
+  letter-spacing: 0.03em;
+}
+
+.hm-topic {
+  justify-content: flex-end;
+  text-align: right;
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  font-size: 0.7rem;
+  padding-right: 0.5rem;
+  border-right: 1px solid var(--border);
+}
+
+.hm-value {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  transition: background 0.15s;
+}
+
+.hm-count {
+  opacity: 0.9;
 }

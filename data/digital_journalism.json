@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-03-09T15:37:53Z",
-  "trending_from": "2024-03-09",
+  "updated_at": "2026-03-10T09:28:37Z",
+  "trending_from": "2024-03-10",
   "sections": {
     "most_cited": [
       {
@@ -115,6 +115,845 @@
         ],
         "abstract": "As quantitative forms have become more prevalent in professional journalism, it has become increasingly important to distinguish between them and examine their roles in contemporary journalistic practice. This study defines and compares three quantitative forms of journalism—computer-assisted reporting, data journalism, and computational journalism—examining the points of overlap and divergence among their journalistic values and practices. After setting the three forms against the cultural backdrop of the convergence between the open-source movement and professional journalistic norms, the study introduces a four-part typology to evaluate their epistemological and professional dimensions. In it, the three forms are classified according to their orientation toward professional expertise or networked participation, transparency or opacity, big data or targeted sampling, and a vision of an active or passive public. These three quantitative journalistic forms are ultimately characterized as related but distinct approaches to integrating the values of open-source culture and social science with those of professional journalism, each with its own flaws but also its own distinct contribution to democratically robust journalistic practice.",
         "url": "https://doi.org/10.1080/21670811.2014.976400",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1208053",
+        "title": "Algorithmic Transparency in the News Media",
+        "authors": [
+          "Nicholas Diakopoulos",
+          "Michael Koliska"
+        ],
+        "year": 2016,
+        "citation_count": 455,
+        "topics": [
+          "Algorithmic transparency",
+          "News media",
+          "Journalism ethics",
+          "Automated content production"
+        ],
+        "abstract": "The growing use of difficult-to-parse algorithmic systems in the production of news, from algorithmic curation to automated writing and news bots, problematizes the normative turn toward transparency as a key tenet of journalism ethics. Pragmatic guidelines that facilitate algorithmic transparency are needed. This research presents a focus group study that engaged 50 participants across the news media and academia to discuss case studies of algorithms in news production and elucidate factors that are amenable to disclosure. Results indicate numerous opportunities to disclose information about an algorithmic system across layers such as the data, model, inference, and interface. Findings underscore the deeply entwined roles of human actors in such systems as well as challenges to adoption of algorithmic transparency including the dearth of incentives for organizations and the concern for overwhelming end-users with a surfeit of transparency information.",
+        "url": "https://doi.org/10.1080/21670811.2016.1208053",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1625715",
+        "title": "Key Dimensions of Alternative News Media",
+        "authors": [
+          "Kristoffer Holt",
+          "Tine Ustad Figenschou",
+          "Lena Frischlich"
+        ],
+        "year": 2019,
+        "citation_count": 414,
+        "topics": [
+          "Alternative news media",
+          "Media criticism",
+          "News media definitions",
+          "Polarized media environment"
+        ],
+        "abstract": "This article proposes a definition of alternative news media and suggests routes for further research. It complements and extends previous conceptualizations in research on alternative media and outlines an umbrella definition of this phenomenon aimed to inspire contemporary research and scholarly debate. Previous research has been guided by a “progressive” perspective as a form of resistance against “bourgeois” hegemonic discourse. Such normative evaluations have in turn limited how the phenomenon has been studied empirically, by limiting the scope of research so that important contemporary phenomena fall outside the theoretical map. Conceptualizing alternative news media in the present hybrid and polarized media environment, we first propose a non-normative, multilevel relational definition: Alternative news media position themselves as correctives of the mainstream news media, as expressed in editorial agendas or statements and/or are perceived as such by their audiences or third-parties. This counter-hegemonic alternativeness can emerge on the macro-level of societal function, the meso-level of organizations and/or the micro-level of news content and producers. Second, demonstrating why this umbrella definition is fruitful in the changing media environment characterized by boundary struggles, crisis in legacy news media and mushrooming of alternative news outlets, we highlight research gaps and propose future research.CONCEPT DEFINITION: Alternative News Media",
+        "url": "https://doi.org/10.1080/21670811.2019.1625715",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1338145",
+        "title": "Burst of the Filter Bubble?",
+        "authors": [
+          "Mario Haim",
+          "Andreas Graefe",
+          "Hans‐Bernd Brosius"
+        ],
+        "year": 2017,
+        "citation_count": 375,
+        "topics": [
+          "Filter bubbles",
+          "Recommender systems",
+          "News diversity",
+          "Algorithmic personalization"
+        ],
+        "abstract": "In offering personalized content geared toward users’ individual interests, recommender systems are assumed to reduce news diversity and thus lead to partial information blindness (i.e., filter bubbles). We conducted two exploratory studies to test the effect of both implicit and explicit personalization on the content and source diversity of Google News. Except for small effects of implicit personalization on content diversity, we found no support for the filter-bubble hypothesis. We did, however, find a general bias in that Google News over-represents certain news outlets and under-represents other, highly frequented, news outlets. The results add to a growing body of evidence, which suggests that concerns about algorithmic filter bubbles in the context of online news might be exaggerated.",
+        "url": "https://doi.org/10.1080/21670811.2017.1338145",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2015.1096748",
+        "title": "Mapping the field of Algorithmic Journalism",
+        "authors": [
+          "Konstantin Dörr"
+        ],
+        "year": 2015,
+        "citation_count": 365,
+        "topics": [
+          "Algorithmic journalism",
+          "Natural language generation",
+          "News production",
+          "Automation"
+        ],
+        "abstract": "With software automatically producing texts in natural language from structured data, the evolution of natural language generation (NLG) is changing traditional news production. The paper first addresses the question whether NLG is able to perform the functions of professional journalism on a technical level. A technological potential analysis therefore uncovers the technological limitations and possibilities of NLG, accompanied by an institutional classification following Weischenberg, Malik, and Scholl. Overall, NLG is explained within the framework of algorithmic selection and along its technological functionality. The second part of the paper focuses on the economic potential of NLG in journalism as well as indicating its institutionalization on an organizational level. Thirteen semi-structured interviews with representatives of the most relevant service providers detail the current market situation. Following Heuss, the development of the NLG market is classified into phases. In summary, although the market for NLG in journalism is still at an early stage of market expansion, with only a few providers and journalistic products available, NLG is able to perform tasks of professional journalism at a technical level. The analysis therefore sets the basis to analyze upcoming challenges for journalism research at the intersection of technology and big data.",
+        "url": "https://doi.org/10.1080/21670811.2015.1096748",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1279979",
+        "title": "The Impact of Trust in the News Media on Online News Consumption and Participation",
+        "authors": [
+          "Richard Fletcher",
+          "Sora Park"
+        ],
+        "year": 2017,
+        "citation_count": 365,
+        "topics": [
+          "Media trust",
+          "Online news consumption",
+          "News participation",
+          "Digital news sources"
+        ],
+        "abstract": "Trust has long been considered an important factor that influences people’s relationship with news. However, the increase in the volume of information available online, together with the emergence of new tools and services that act as intermediaries and enable interactivity around the news, may have changed this relationship. Using Reuters Institute Digital News Report survey data (N = 21,524), this study explores the impact of individual trust in the news media on source preferences and online news participation behaviour, in particular sharing and commenting, across 11 countries. The results show that those with low levels of trust tend to prefer non-mainstream news sources like social media, blogs, and digital-born providers, and are more likely to engage in various forms of online news participation. These associations tend to be strongest in northern European countries, but are weaker elsewhere. Seeking alternative views and attempting to validate the credibility of news may be among the motivations behind these associations.",
+        "url": "https://doi.org/10.1080/21670811.2017.1279979",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2012.741316",
+        "title": "TWITTER AS A REPORTING TOOL FOR BREAKING NEWS",
+        "authors": [
+          "Farida Vis"
+        ],
+        "year": 2012,
+        "citation_count": 342,
+        "topics": [
+          "Twitter",
+          "Breaking news",
+          "Journalism",
+          "Social media reporting"
+        ],
+        "abstract": "This study focuses on journalists Paul Lewis (The Guardian) and Ravi Somaiya (The New York Times), the most frequently mentioned national and international journalists on Twitter during the 2011 UK summer riots. Both actively tweeted throughout the four-day riot period and this article highlights how they used Twitter as a reporting tool. It discusses a series of Twitter conventions in detail, including the use of links, the taking and sharing of images, the sharing of mainstream media content and the use of hashtags. The article offers an in-depth overview of methods for studying Twitter, reflecting critically on commonly used data collection strategies, offering possible alternatives as well as highlighting the possibilities for combining different methodological approaches. Finally, the article makes a series of suggestions for further research into the use of Twitter by professional journalists.",
+        "url": "https://doi.org/10.1080/21670811.2012.741316",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.927986",
+        "title": "Actors, Actants, Audiences, and Activities in Cross-Media News Work",
+        "authors": [
+          "Seth C. Lewis",
+          "Oscar Westlund"
+        ],
+        "year": 2014,
+        "citation_count": 328,
+        "topics": [
+          "Journalism studies",
+          "Cross-media news production",
+          "Sociotechnical systems",
+          "News organizations"
+        ],
+        "abstract": "In contemporary journalism, there is a need for better conceptualizing the changing nature of human actors, nonhuman technological actants, and diverse representations of audiences—and the activities of news production, distribution, and interpretation through which actors, actants, and audiences are inter-related. This article explicates each of these elements—the Four A’s—in the context of cross-media news work, a perspective that lends equal emphasis to editorial, business, and technology as key sites for studying the organizational influences shaping journalism. We argue for developing a sociotechnical emphasis for the study of institutional news production: a holistic framework through which to make sense of and conduct research about the full range of actors, actants, and audiences engaged in cross-media news work activities. This emphasis addresses two shortcomings in the journalism studies literature: a relative neglect about (1) the interplay of humans and technology, or manual and computational modes of orientation and operation, and (2) the interplay of editorial, business, and technology in news organizations. This article’s ultimate contribution is a cross-media news work matrix that illustrates the interconnections among the Four A’s and reveals where opportunities remain for empirical study.",
+        "url": "https://doi.org/10.1080/21670811.2014.927986",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1623700",
+        "title": "On the Democratic Role of News Recommenders",
+        "authors": [
+          "Natali Helberger"
+        ],
+        "year": 2019,
+        "citation_count": 328,
+        "topics": [
+          "News recommenders",
+          "Democratic media",
+          "Algorithmic journalism",
+          "Personalization and democracy"
+        ],
+        "abstract": "Are algorithmic news recommenders a threat to the democratic role of the media? Or are they an opportunity, and, if so, how would news recommenders need to be designed to advance values and goals that we consider essential in a democratic society? These are central questions in the ongoing academic and policy debate about the likely implications of data analytics and machine learning for the democratic role of the media and the shift from traditional mass-media modes of distribution towards more personalised news and platforms Building on democratic theory and the growing body of literature about the digital turn in journalism, this article offers a conceptual framework for assessing the threats and opportunities around the democratic role of news recommenders, and develops a typology of different ‘democratic recommenders’.",
+        "url": "https://doi.org/10.1080/21670811.2019.1623700",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1697626",
+        "title": "An Emotional Turn in Journalism Studies?",
+        "authors": [
+          "Karin Wahl‐Jorgensen"
+        ],
+        "year": 2019,
+        "citation_count": 325,
+        "topics": [
+          "Journalism studies",
+          "Emotion in media",
+          "Digital journalism",
+          "News production"
+        ],
+        "abstract": "This article develops the idea of an “emotional turn” in journalism studies, which has led to an increasingly nuanced investigation of the role of emotion in the production, texts and audience engagement with journalism. These developments have occurred in tandem with, and accelerated by, the emergence of digital and social media. Research on news production has shown that journalistic work has always taken emotion into consideration, shaping approaches to storytelling and presentation. However, the view of journalists as detached observers has rendered the emotional labor associated with news production invisible. Research on emotion in journalistic texts has highlighted the fact that even conventional “hard news genres” are shaped by an engagement with emotion. As studies on news audiences and emotions have shown, audiences are more likely to be emotionally engaged, recall information and take action when news stories are relatable. The affordances of digital platforms and social media have had a profound impact on the space for emotion. The expanded opportunities for participation have contributed to questioning traditional distinctions between news audiences and producers and have ushered in new and more forms of emotional expression that have spilled over into practices of news production.",
+        "url": "https://doi.org/10.1080/21670811.2019.1697626",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.937149",
+        "title": "Checking, Sharing, Clicking and Linking",
+        "authors": [
+          "Irene Costera Meijer",
+          "Tim Groot Kormelink"
+        ],
+        "year": 2014,
+        "citation_count": 317,
+        "topics": [
+          "News consumption",
+          "Media technology adoption",
+          "User practices",
+          "Social media platforms"
+        ],
+        "abstract": "This paper challenges the generally taken-for-granted automatic link between media platforms, media technology and news user practices. It explores what has changed in people’s news consumption by comparing patterns in news use between 2004–2005 and 2011–2014. While new, social and mobile media technologies did not unleash a revolution in people’s dealings with news, they have facilitated, deepened and broadened user practices we already found in 2004–2005: monitoring, checking, snacking, scanning, watching, viewing, reading, listening, searching and clicking. In addition, these forms of news usage appear to increasingly order, control, organize and anchor other practices and the experience of time and environment in which they occur. Meanwhile, new and mobile news practices like linking, sharing, liking, recommending, commenting and voting have not become as central to news consumption as often assumed.",
+        "url": "https://doi.org/10.1080/21670811.2014.937149",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1623701",
+        "title": "The Paradox of Participation Versus Misinformation: Social Media, Political Engagement, and the Spread of Misinformation",
+        "authors": [
+          "Sebastián Valenzuela",
+          "Daniel Halpern",
+          "James E. Katz",
+          "Juan Pablo Miranda"
+        ],
+        "year": 2019,
+        "citation_count": 299,
+        "topics": [
+          "Misinformation",
+          "Political engagement",
+          "Social media",
+          "News consumption"
+        ],
+        "abstract": "The mechanisms by which users of platforms such as Facebook and Twitter spread misinformation are not well understood. In this study, we argue that the effects of informational uses of social media on political participation are inextricable from its effects on misinformation sharing. That is, political engagement is both a major consequence of using social media for news as well as a key antecedent of sharing misinformation. We test our expectations via a two-wave panel survey of online media users in Chile, a country experiencing information disorders comparable to those of the global North. Analyses of the proposed and alternative causal models with two types of structural equation specifications (fixed effects and autoregressive) support our theoretical model. We close with a discussion on how changes in the way people engage with news and politics – brought about by social media – have produced a new dilemma: how to sustain a citizenry that is enthusiastically politically active, yet not spreading misinformation?",
+        "url": "https://doi.org/10.1080/21670811.2019.1623701",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.808456",
+        "title": "#JOURNALISM",
+        "authors": [
+          "Alfred Hermida"
+        ],
+        "year": 2013,
+        "citation_count": 280,
+        "topics": [
+          "Twitter",
+          "Journalism",
+          "Social media",
+          "News production"
+        ],
+        "abstract": "Scholarship about social media in general, and Twitter in particular, has increased dramatically in recent years as adoption by individuals and institutions has burgeoned; especially by journalists and media organisations. Much of the journalism research on Twitter has focused on the dynamics of professional news practices on the social media platform, with journalism considered as a cultural field of production. This paper considers Twitter as a networked communication space that results in a hybridity of old and new frames, values and approaches. It highlights research that points to the hybrid and innovative forms of news production on open, networked platforms, suggesting new paradigms of journalism at play that break with classic narrative structures and deviate from long-held and fiercely defended norms.",
+        "url": "https://doi.org/10.1080/21670811.2013.808456",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2020.1818111",
+        "title": "Mob Censorship: Online Harassment of US Journalists in Times of Digital Hate and Populism",
+        "authors": [
+          "Silvio Waisbord"
+        ],
+        "year": 2020,
+        "citation_count": 273,
+        "topics": [
+          "Online harassment",
+          "Journalist safety",
+          "Populism and media",
+          "Digital hate speech"
+        ],
+        "abstract": "Rising numbers of online attacks against journalists have been documented globally. Female, minority reporters and journalists who cover issues interwoven with right-wing identity anchors have been primary targets. This trend reflects growing forms of mob censorship linked to the demonization of journalists and the press by populist leaders. Based on recent cases in the United States, I define mob censorship as bottom-up, citizen vigilantism aimed at disciplining journalism. Effective responses are hard to come by given the pervasiveness of digital hate speech and the limitations of traditional approaches to the problems it represents for democratic communication.",
+        "url": "https://doi.org/10.1080/21670811.2020.1818111",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2018.1423625",
+        "title": "News in Social Media",
+        "authors": [
+          "Annika Bergström",
+          "Maria Jervelycke Belfrage"
+        ],
+        "year": 2018,
+        "citation_count": 270,
+        "topics": [
+          "Social media",
+          "News consumption",
+          "Online behavior",
+          "Opinion leaders"
+        ],
+        "abstract": "Social network sites are becoming essential to how people experience news. The social media feed is made up of a mixture of private and public postings, and news is intertwined with all sorts of activities. What people are exposed to partly depends on the behaviour of their fellow networkers. Drawing on theories of opinion leaders and the concept of incidental news consumption, this article examines news-gathering on social media using a combination of representative survey data and qualitative interviews with young people aged 16–19. Regression analysis of the survey data reveals the primary factor explaining use of news on social media is the habit of using online news services. Interest in news and age also contribute to this phenomenon. The qualitative study reveals that interviewees’ news consumption through social networks is frequent. While incidental, they nonetheless seem to count on being informed through this medium. There is a widespread presence of opinion leaders in the respondents’ social media feeds, bringing attention to news they otherwise would have missed, and just as important, delivering interpretation and context. The study also indicates that these opinion leaders are perceived as central or even crucial to the news-gathering process.",
+        "url": "https://doi.org/10.1080/21670811.2018.1423625",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.976418",
+        "title": "Big Data and Journalism",
+        "authors": [
+          "Seth C. Lewis",
+          "Oscar Westlund"
+        ],
+        "year": 2014,
+        "citation_count": 267,
+        "topics": [
+          "Big data",
+          "Journalism",
+          "Media technology",
+          "Data-driven reporting"
+        ],
+        "abstract": "Big data is a social, cultural, and technological phenomenon—a complex amalgamation of digital data abundance, emerging analytic techniques, mythology about data-driven insights, and growing critique about the overall consequences of big-data practices for democracy and society. While media and communication scholars have begun to examine and theorize about big data in the context of media and public life broadly, what are the particular implications for journalism? This article introduces and applies four conceptual lenses—epistemology, expertise, economics, and ethics—to explore both contemporary and potential applications of big data for the professional logic and industrial production of journalism. These distinct yet inter-related conceptual approaches reveal how journalists and news media organizations are seeking to make sense of, act upon, and derive value from big data during a time of exploration in algorithms, computation, and quantification. In all, the developments of big data potentially have great meaning for journalism’s ways of knowing (epistemology) and doing (expertise), as well as its negotiation of value (economics) and values (ethics). Ultimately, this article outlines future directions for journalism studies research in the context of big data.",
+        "url": "https://doi.org/10.1080/21670811.2014.976418",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1693905",
+        "title": "Emotions, media and politics",
+        "authors": [
+          "Nikki Usher"
+        ],
+        "year": 2019,
+        "citation_count": 267,
+        "topics": [
+          "Emotional communication",
+          "Political journalism",
+          "Media and politics",
+          "Affect and discourse"
+        ],
+        "abstract": "Journalism and politics have been understood in the Western context often as the result of a flawed premise: that we can abandon our passion, affect, and emotion, and that logic and reason instead ...",
+        "url": "https://doi.org/10.1080/21670811.2019.1693905",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2012.740273",
+        "title": "MOBILE NEWS",
+        "authors": [
+          "Oscar Westlund"
+        ],
+        "year": 2012,
+        "citation_count": 266,
+        "topics": [
+          "Mobile news",
+          "Digital journalism",
+          "Media convergence",
+          "News consumption"
+        ],
+        "abstract": "The technological convergence of mobile “phones” and multimedia has been taking place since the 1990s, but it was not until the commercial birth of touchscreen-enabled mobile devices, offered with flat-rate subscriptions for mobile internet, that widespread production and use of news-related content and services began to flourish. Accessing mobile news has gained traction in the everyday life of the public. In parallel, legacy news media have in recent<br/>years developed news provision, by repurposing or customising journalistic content published for mobile sites and/or applications. This article explores the production of mobile news, by discussing and synthesising the findings of the contemporary literature found in the nexus of journalism and mobile media. It posits a model of journalism focusing on the roles of humans and technology in activities characterised by customising or repurposing. The article also presents a research agenda focusing on the production of mobile news.",
+        "url": "https://doi.org/10.1080/21670811.2012.740273",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.838412",
+        "title": "Digital Disconnect: how capitalism is turning the internet against democracy",
+        "authors": [
+          "Jonathan Hardy"
+        ],
+        "year": 2013,
+        "citation_count": 257,
+        "topics": [
+          "Internet governance",
+          "Democracy",
+          "Political economy of technology",
+          "Capitalism and digital platforms"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2013.838412",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2018.1493936",
+        "title": "My Friends, Editors, Algorithms, and I",
+        "authors": [
+          "Neil Thurman",
+          "Judith Moeller",
+          "Natali Helberger",
+          "Damian Trilling"
+        ],
+        "year": 2018,
+        "citation_count": 254,
+        "topics": [
+          "Algorithmic curation",
+          "Editorial selection",
+          "News consumption",
+          "Audience preferences"
+        ],
+        "abstract": "Prompted by the ongoing development of content personalization by social networks and mainstream news brands, and recent debates about balancing algorithmic and editorial selection, this study explores what audiences think about news selection mechanisms and why. Analysing data from a 26-country survey (N = 53,314), we report the extent to which audiences believe story selection by editors and story selection by algorithms are good ways to get news online and, using multi-level models, explore the relationships that exist between individuals’ characteristics and those beliefs. The results show that, collectively, audiences believe algorithmic selection guided by a user’s past consumption behaviour is a better way to get news than editorial curation. There are, however, significant variations in these beliefs at the individual level. Age, trust in news, concerns about privacy, mobile news access, paying for news, and six other variables had effects. Our results are partly in line with current general theory on algorithmic appreciation, but diverge in our findings on the relative appreciation of algorithms and experts, and in how the appreciation of algorithms can differ according to the data that drive them. We believe this divergence is partly due to our study’s focus on news, showing algorithmic appreciation has context-specific characteristics.",
+        "url": "https://doi.org/10.1080/21670811.2018.1493936",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1178592",
+        "title": "From Editors to Algorithms",
+        "authors": [
+          "Michael Ann DeVito"
+        ],
+        "year": 2016,
+        "citation_count": 254,
+        "topics": [
+          "Algorithmic curation",
+          "News Feed",
+          "Editorial gatekeeping",
+          "Social media platforms"
+        ],
+        "abstract": "Facebook’s News Feed is an emerging, influential force in our personal information flows, especially where news information is concerned. However, as the News Feed’s story selection mechanism starts to supplant traditional editorial story selection, we have no window into its story curation process that is parallel to our extensive knowledge of the news values that drive traditional editorial curation. The sensitive, trade-secret nature of the News Feed and its constant updates and modifications make a traditional, computer science-based examination of this algorithmic giant difficult, if not impossible. This study takes an alternative approach, using a content analysis of Facebook’s own patents, press releases, and Securities and Exchange Commission filings to identify a core set of algorithmic values that drive story selection on the Facebook News Feed. Informed by the principles of material culture analysis, it ranks these values to create a window into Facebook’s curation process, and compares and contrasts Facebook’s story selection values with traditional news values, examining the possible consequences of one set of values supplanting the other. The study finds a set of nine News Feed values that drive story selection: friend relationships, explicitly expressed user interests, prior user engagement, implicitly expressed user preferences, post age, platform priorities, page relationships, negatively expressed preferences, and content quality. It also finds evidence that friend relationships act as an overall influence on all other story selection values.",
+        "url": "https://doi.org/10.1080/21670811.2016.1178592",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2019.1577147",
+        "title": "Automation, Journalism, and Human–Machine Communication: Rethinking Roles and Relationships of Humans and Machines in News",
+        "authors": [
+          "Seth C. Lewis",
+          "Andrea L. Guzman",
+          "Thomas Schmidt"
+        ],
+        "year": 2019,
+        "citation_count": 252,
+        "topics": [
+          "Automated journalism",
+          "Human-Machine Communication",
+          "Artificial Intelligence in news",
+          "Journalism technology"
+        ],
+        "abstract": "In this article, we argue that journalism studies, and particularly research focused on automated journalism, has much to learn from Human-Machine Communication (HMC), an emerging conceptual framework and empirically grounded research domain that has formed in response to the growing number of technologies—such as chatbots, social bots, and other communicative agents enabled by developments in artificial intelligence (AI)—that are designed to function as message sources, rather than as message channels. While the underlying, but often unquestioned, theoretical assumption in most communication research is that humans are communicators and machines are mediators, within HMC this assumption is challenged by asking what happens when a machine steps into this formerly human role. More than merely a semantic move, this theoretical reorientation opens up new questions about who or what constitutes a communicator, how social relationships are established through exchange among humans and machines, and what the resulting implications may be for self, society, and communication. In the particular case of automated journalism—in which software assumes a news-writing role that has long been considered a distinctly central, and indeed human, element of journalism—the introduction of HMC offers a generative starting point for theory development, advancing our understanding of humans, machines, and news for an oncoming era of AI technologies.",
+        "url": "https://doi.org/10.1080/21670811.2019.1577147",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2018.1440972",
+        "title": "The Audience-Oriented Editor",
+        "authors": [
+          "Raul Ferrer Conill",
+          "Edson C. Tandoc"
+        ],
+        "year": 2018,
+        "citation_count": 242,
+        "topics": [
+          "Audience metrics",
+          "Editorial decision-making",
+          "Newsroom roles",
+          "Digital journalism"
+        ],
+        "abstract": "Spurred by the increasingly central role of audience metrics in the editorial process, a new set of roles is being introduced in the newsroom primarily focused on navigating audience data. This paper aims to understand these emerging audience-oriented roles and to what extent considerations of the audience figures in editorial choices. This paper draws from a set of 15 in-depth interviews with engagement editors, social media editors and audience editors from different media systems around the world. Three major findings emerge: First, the definition of engagement is almost entirely centered on different types of metrics. Second, while audience-oriented editors take part in the editorial process, their role is to help journalists negotiate between the information obtained by their metrics and their journalistic intuition to make editorial decisions. Third, there is a lack of cohesiveness regarding what these newsroom positions are and how they operate. The paper contributes to the growing literature on the pervasiveness of metrics and quantification of journalistic processes by offering a more nuanced understanding of a new set of editorial roles.",
+        "url": "https://doi.org/10.1080/21670811.2018.1440972",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.849486",
+        "title": "Rebuilding the News: metropolitan journalism in the digital age",
+        "authors": [
+          "David Ryfe"
+        ],
+        "year": 2013,
+        "citation_count": 240,
+        "topics": [
+          "Digital journalism",
+          "Local news",
+          "Metropolitan media",
+          "News innovation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2013.849486",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.872420",
+        "title": "The Relative Importance of Social Media for Accessing, Finding, and Engaging with News",
+        "authors": [
+          "Rasmus Kleis Nielsen",
+          "Kim Christian Schrøder"
+        ],
+        "year": 2014,
+        "citation_count": 236,
+        "topics": [
+          "Social media",
+          "News consumption",
+          "Cross-national comparison",
+          "Digital media"
+        ],
+        "abstract": "The growing use of social media like Facebook and Twitter is in the process of changing how news is produced, disseminated, and discussed. But so far, we have only a preliminary understanding of (1) how important social media are as sources of news relative to other media, (2) the extent to which people use them to find news, (3) how many use them to engage in more participatory forms of news use, and (4) whether these developments are similar within countries with otherwise comparable levels of technological development. Based on data from a cross-country online survey of news media use, we present a comparative analysis of the relative importance of social media for news in Denmark, France, Germany, Italy, Japan, Spain, the United Kingdom, and the United States, covering eight developed democracies with different media systems. We show that television remains both the most widely used and most important source of news in all these countries, and that even print newspapers are still more widely used and seen as more important sources of news than social media. We identify a set of similarities in terms of the growing importance of social media as part of people’s cross-media news habits, but also important country-to-country differences, in particular in terms of how widespread the more active and participatory forms of media use are. Surprisingly, these differences do not correspond to differences in levels of internet use, suggesting that more than mere availability shapes the role of social media as parts of people’s news habits.",
+        "url": "https://doi.org/10.1080/21670811.2013.872420",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1279978",
+        "title": "Effective Headlines of Newspaper Articles in a Digital Environment",
+        "authors": [
+          "Jeffrey Kuiken",
+          "Anne Schuth",
+          "Martijn Spitters",
+          "M. Marx"
+        ],
+        "year": 2017,
+        "citation_count": 232,
+        "topics": [
+          "Clickbait",
+          "Headline optimization",
+          "Digital journalism",
+          "Click-through rates"
+        ],
+        "abstract": "We study the effect on click-through rates of applying textual and stylistic features often related to clickbait to headlines of newspaper articles which can be bought in a digital environment. Having a dataset consisting of triples—original headline, rewritten headline, CTR, where CTR is the click-through rate of the rewritten headline in a newsletter from the online kiosk Blendle—we can directly measure whether these “clickbait features” do what they are believed to do: entice readers to click on them. The main findings are as follows. First, the data shows that editors of Blendle indeed often use clickbait features when rewriting headlines. Second, most, but not all, of the clickbait features lead to a statistically significant increase in the number of clicks. Third, predicting the effectiveness of a headline only on the basis of its clickbait features is not possible. The data on which this article is based is publicly available online.",
+        "url": "https://doi.org/10.1080/21670811.2017.1279978",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1176534",
+        "title": "Personal Branding on Twitter",
+        "authors": [
+          "Cara Brems",
+          "Martina Temmerman",
+          "Todd Graham",
+          "Marcel Broersma"
+        ],
+        "year": 2016,
+        "citation_count": 231,
+        "topics": [
+          "Personal branding",
+          "Twitter",
+          "Journalism",
+          "Social media"
+        ],
+        "abstract": "Social media are increasingly embedded into everyday communication. This challenges journalism to anticipate the changes that social media trigger in the use and production of (news) media. In this paper, we focus on personal branding on Twitter. Journalists are increasingly encouraged to develop a personal brand on Twitter. This offers them the opportunity to become news and opinion hubs and to increase their “market value”. Erving Goffman’s theatre metaphor is used as an analytical framework in which journalists are conceptualized as performers who are acting on a stage in front of an audience. Through a quantitative content analysis of the tweeting behaviour of 40 employed and freelance journalists, we explore the way they use social media to present themselves and which dilemma’s they are facing. We analyse tweeting behaviour in terms of the types of tweets, functions of tweets and modes of interaction. The quantitative content analysis is supplemented with in-depth interviews with 12 journalists, in order to analyse the reasoning behind their social media habits. Our findings show that journalists particularly struggle with being factual or opinionated, being personal or professional, how to balance broadcasting their message with engagement and how to promote themselves strategically.",
+        "url": "https://doi.org/10.1080/21670811.2016.1176534",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1343648",
+        "title": "Modelling Contemporary Gatekeeping",
+        "authors": [
+          "Julian Wallace"
+        ],
+        "year": 2017,
+        "citation_count": 229,
+        "topics": [
+          "Gatekeeping theory",
+          "Algorithms",
+          "Digital news",
+          "Platform dynamics"
+        ],
+        "abstract": "Gatekeeping theory struggles to describe the rise of algorithms and users as information selectors in digital spaces. Algorithms and users may co-exist as decision-makers and reach high visibility through decentralised gatekeeping mechanisms. Classic gatekeeping theory is no longer adequate in describing contemporary news selection processes online and recent gatekeeping approaches at theory-building are isolated and have not been synthesised in a coherent gatekeeping theory. This theoretical paper addresses this issue and develops a digital gatekeeping model in three steps. First, four gatekeeper archetypes are identified that differ in access, selection criteria and publication choices. Second, gatekeeping frequently involves platforms on which gatekeepers operate. These platforms either apply gatekeeping mechanisms controlled by a central authority or rely on collaborations between many micro-level interactions to publish news. Third, a digital gatekeeping model is derived to model the four gatekeeper archetypes and their selection processes in relation to platforms employing collaborative gatekeeping mechanisms. This proposed digital gatekeeping model extends previous research on gatekeeping by synthesising classic gatekeeping theory with contemporary approaches and by providing a framework for future research on information control and dissemination.",
+        "url": "https://doi.org/10.1080/21670811.2017.1343648",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1334567",
+        "title": "Mobile News Consumption",
+        "authors": [
+          "Logan Molyneux"
+        ],
+        "year": 2017,
+        "citation_count": 220,
+        "topics": [
+          "Mobile news consumption",
+          "Media repertoires",
+          "News consumption patterns",
+          "Multi-platform media use"
+        ],
+        "abstract": "This study investigates news consumption on mobile devices with the goal of identifying where mobile devices fit into people’s media repertoires and how consumption patterns on them are different from those on other platforms. Results suggest that mobile devices are almost always used along with other platforms for getting news, that news sessions on smartphones are shorter than on other platforms, and mobile news consumption happens more times per day and is spread throughout the day. Implications for the study of news consumption, news producers, and consumers are discussed.",
+        "url": "https://doi.org/10.1080/21670811.2017.1334567",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2020.1811743",
+        "title": "Online Harassment and Its Implications for the Journalist–Audience Relationship",
+        "authors": [
+          "Seth C. Lewis",
+          "Rodrigo Zamith",
+          "Mark Coddington"
+        ],
+        "year": 2020,
+        "citation_count": 213,
+        "topics": [
+          "Online harassment",
+          "Journalist-audience relationships",
+          "Digital communication",
+          "Media criticism"
+        ],
+        "abstract": "Seth C. Lewisa* , Rodrigo Zamithb & Mark Coddingtonc a School of Journalism and Communication, University of Oregon, Eugene, OR, USAb Department of Journalism, University of Massachusetts Amherst, Amherst, MA, USAc Department of Journalism and Mass Communications, Washington and Lee University, Lexington, VA, USA",
+        "url": "https://doi.org/10.1080/21670811.2020.1811743",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.776804",
+        "title": "THE SOCIAL JOURNALIST",
+        "authors": [
+          "Ulrika Hedman",
+          "Monika Djerf‐Pierre"
+        ],
+        "year": 2013,
+        "citation_count": 212,
+        "topics": [
+          "Social media",
+          "Journalism",
+          "Professional norms",
+          "Journalist attitudes"
+        ],
+        "abstract": "The ongoing social media hype puts pressure on journalists to be active in social media 24/7. In this process professional values and journalistic norms are put to the test and not all journalists are equally keen to embrace the “social media life”. So far, few studies have examined the differences between categories of journalists when it comes to social media use. Based on a representative large-N survey of Swedish journalists conducted in 2011/2012, this paper examines journalists’ professional and personal use of social media. The study analyzes the level, purpose and evaluation of usage among different categories of journalists. The broad finding is that there are three main categories of users: “skeptical shunners”, “pragmatic conformists” and “enthusiastic activists”. Furthermore, there exists a professional digital divide between the “skeptical shunners” on one side and the “enthusiastic activists” on the other. The differences in social media use are mainly associated with journalists’ age and type of work but also with professional attitudes towards audience adaptation and branding.",
+        "url": "https://doi.org/10.1080/21670811.2013.776804",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1167612",
+        "title": "Ethical Challenges of Algorithmic Journalism",
+        "authors": [
+          "Konstantin Dörr",
+          "Katharina Hollnbuchner"
+        ],
+        "year": 2016,
+        "citation_count": 209,
+        "topics": [
+          "Algorithmic journalism",
+          "Media ethics",
+          "Natural language generation",
+          "Digital journalism"
+        ],
+        "abstract": "With the institutionalization of algorithms as content creators, professional journalism is facing transformation and novel ethical challenges. This article focuses on the concept of Algorithmic Journalism on the basis of natural language generation and provides a framework to identify and discuss ethical issues. The analysis builds on the moral theories of deontology, utilitarianism, virtue ethics, and contractualism, and remaps the ethical discussion for Algorithmic Journalism at the intersection of digital media ethics and cyber ethics. In order to capture the whole range of potential shifts and challenges in journalism ethics, the article combines the ethical multi-layer system of responsibility by Pürer with the classification of journalism by Weischenberg, Malik, and Scholl on an organizational, professional/individual, and social/audience sphere. This analytical framework is then complemented with attributes derived from the technical potential of Algorithmic Journalism. As a result, the analysis uncovers new ethical challenges and shifts of responsibility in news production for journalism practice and journalism research at the levels of objectivity, authority, transparency, and at the level of implicit or explicit values.",
+        "url": "https://doi.org/10.1080/21670811.2016.1167612",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2015.1096598",
+        "title": "Taking Stock of the Toolkit",
+        "authors": [
+          "Jelle W. Boumans",
+          "Damian Trilling"
+        ],
+        "year": 2015,
+        "citation_count": 209,
+        "topics": [
+          "Digital journalism",
+          "Computational methods",
+          "Content analysis",
+          "Research methodology"
+        ],
+        "abstract": "When analyzing digital journalism content, journalism scholars are confronted with a number of substantial differences compared to traditional journalistic content. The sheer amount of data and the unique features of digital content call for the application of valuable new techniques. Various other scholarly fields are already applying computational methods to study digital journalism data. Often, their research interests are closely related to those of journalism scholars. Despite the advantages that computational methods have over traditional content analysis methods, they are not commonplace in digital journalism studies. To increase awareness of what computational methods have to offer, we take stock of the toolkit and show the ways in which computational methods can aid journalism studies. Distinguishing between dictionary-based approaches, supervised machine learning, and unsupervised machine learning, we present a systematic inventory of recent applications both inside as well as outside journalism studies. We conclude with suggestions for how the application of new techniques can be encouraged.",
+        "url": "https://doi.org/10.1080/21670811.2015.1096598",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.801692",
+        "title": "Rethinking Journalism: trust and participation in a transformed news landscape",
+        "authors": [
+          "Henrik Bødker"
+        ],
+        "year": 2013,
+        "citation_count": 208,
+        "topics": [
+          "Journalism",
+          "Trust",
+          "Audience participation",
+          "Digital media"
+        ],
+        "abstract": "Chris Peters and Marcel Broersma (Eds) London: Routledge, 2012 247 pp., £27.99 (pbk), ISBN 978-0-415-69702-6 There is broad agreement that the present crisis in journalism is one of funding. But, a...",
+        "url": "https://doi.org/10.1080/21670811.2013.801692",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2012.756666",
+        "title": "INNOVATION AND THE FUTURE OF JOURNALISM",
+        "authors": [
+          "John V. Pavlik"
+        ],
+        "year": 2013,
+        "citation_count": 208,
+        "topics": [
+          "Digital journalism",
+          "Media innovation",
+          "News industry transformation",
+          "Digital revenue models"
+        ],
+        "abstract": "Journalism and the media are in the midst of tumultuous change, driven at least in part by technological and economic uncertainty on a global scale. The thesis of this paper is that the key to the viability of news media in the digital age, as demonstrated by both long- and short-term patterns, is innovation. To insure long-term success, innovation in news media should be guided by four principles: intelligence or research, a commitment to freedom of speech, a dedication to the pursuit of truth and accuracy in reporting, and ethics. Evidence is presented that early innovation by news media leaders that adhere to the principles outlined here are finding success in both building audience and generating digital revenue.",
+        "url": "https://doi.org/10.1080/21670811.2012.756666",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2015.1081822",
+        "title": "News Bots",
+        "authors": [
+          "Tetyana Lokot",
+          "Nicholas Diakopoulos"
+        ],
+        "year": 2015,
+        "citation_count": 206,
+        "topics": [
+          "News bots",
+          "Automated journalism",
+          "Social media",
+          "Twitter"
+        ],
+        "abstract": "AbstractSo-called \"robot\" journalism represents a shift towards the automation of journalistic tasks related to news reporting, writing, curation, and even data analysis. In this paper, we consider the extension of robot journalism to the domain of social platforms and study the use of \"news bots\"—automated accounts that participate in news and information dissemination on social networks. Such bots present an intriguing development opportunity for news organizations and journalists. In particular, we analyze a sample of existing news bot accounts on Twitter to understand how news bots are currently being used and to examine how using automation and algorithms may change the modern media environment. Based on our analysis, we propose a typology of news bots in the form of a design and editorial decision space that can guide designers in defining the intent, utility, and functionality of future bots. The proposed design space highlights the limits of news bots (e.g., automated commentary and opinion, algorithmic transparency and accountability) and areas where news bots may enable innovation, such as niche and local news.Keywords: algorithmic journalismautomated journalismbotscomputational journalismnews botssocial mediaTwitter SUPPLEMENTAL DATAThe raw data, including the accounts that were analyzed for this study, have been made available for research purposes and can be downloaded at https://goo.gl/ORU1Yz (Google spreadsheet, can be downloaded as .xls or .csv).Disclosure StatementNo potential conflict of interest was reported by the authors.Notes1. See http://blog.automatedinsights.com/post/109491692518/automation-helps-ap-publish-10-times-more-earnings.2. See http://www.newrepublic.com/article/121551/bot-bubble-click-farms-have-inflated-social-media-currency.3. See http://tinysubversions.com/botsummit/2014/.4. See http://www.bbc.com/news/technology-16108876.5. See http://www.technologyreview.com/news/428286/twitter-mischief-plagues-mexicos-election/.6. See http://truthy.indiana.edu/botornot/.Additional informationFundingNo grants were used to support this research.",
+        "url": "https://doi.org/10.1080/21670811.2015.1081822",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2018.1556314",
+        "title": "Fake News, Real Money: Ad Tech Platforms, Profit-Driven Hoaxes, and the Business of Journalism",
+        "authors": [
+          "Joshua A. Braun",
+          "Jessica L. Eklund"
+        ],
+        "year": 2019,
+        "citation_count": 206,
+        "topics": [
+          "Fake news",
+          "Ad tech platforms",
+          "Media economics",
+          "Misinformation"
+        ],
+        "abstract": "Following the viral spread of hoax political news in the lead-up to the 2016 US presidential election, it's been reported that at least some of the individuals publishing these stories made substantial sums of money—tens of thousands of US dollars—from their efforts. Whether or not such hoax stories are ultimately revealed to have had a persuasive impact on the electorate, they raise important normative questions about the underlying media infrastructures and industries—ad tech firms, programmatic advertising exchanges, etc.—that apparently created a lucrative incentive structure for \"fake news\" publishers. Legitimate ad-supported news organizations rely on the same infrastructure and industries for their livelihood. Thus, as traditional advertising subsidies for news have begun to collapse in the era of online advertising, it's important to understand how attempts to deal with for-profit hoaxes might simultaneously impact legitimate news organizations. Through 20 interviews with stakeholders in online advertising, this study looks at how the programmatic advertising industry understands “fake news,” how it conceptualizes and grapples with the use of its tools by hoax publishers to generate revenue, and how its approach to the issue may ultimately contribute to reshaping the financial underpinnings of the digital journalism industry that depends on the same economic infrastructure.",
+        "url": "https://doi.org/10.1080/21670811.2018.1556314",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2021.1943481",
+        "title": "Does a Crisis Change News Habits? A Comparative Study of the Effects of COVID-19 on News Media Use in 17 European Countries",
+        "authors": [
+          "Peter Van Aelst",
+          "Fanni Tóth",
+          "Laia Castro",
+          "Václav Štětka",
+          "Claes H. de Vreese",
+          "Toril Aalberg",
+          "Ana Sofía Cardenal",
+          "Nicoleta Corbu",
+          "Frank Esser",
+          "David Nicolas Hopmann"
+        ],
+        "year": 2021,
+        "citation_count": 204,
+        "topics": [
+          "News consumption",
+          "COVID-19 pandemic",
+          "Media use crisis",
+          "Digital vs traditional media"
+        ],
+        "abstract": "Exogenous shocks like the COVID-19 pandemic unleashes multiple fundamental questions about society beyond public health. Based on the classical concept of ‘need for orientation’ and the literature on the role of the media in times of crisis, we investigate to what extent the COVID-19 pandemic affected news consumption in comparative perspective. Based on a two-wave panel survey in 17 mostly European countries, our study targets the role of both legacy news brands (TV, radio, newspapers) and so-called contemporary news media (Internet-based and social media) during this global health crisis. Our results show an overall rise of news use across countries, but only for some types of news media. We find an increase of TV news consumption, and a higher reliance on social media and the Internet for news and information. This indicates that in times of crises and an unusually strong need for orientation, people mainly turn to news sources that are easily available and offer a more immediate coverage. Furthermore, we find the rise in news use to be mainly present among those who already have a higher level of trust in legacy media and among people that were more concerned about the impact of the pandemic.",
+        "url": "https://doi.org/10.1080/21670811.2021.1943481",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1289819",
+        "title": "When Reporters Get Hands-on with Robo-Writing",
+        "authors": [
+          "Neil Thurman",
+          "Konstantin Dörr",
+          "Jessica Kunert"
+        ],
+        "year": 2017,
+        "citation_count": 198,
+        "topics": [
+          "Automated journalism",
+          "Journalism technology",
+          "Professional journalists",
+          "News production"
+        ],
+        "abstract": "The availability of data feeds, the demand for news on digital devices, and advances in algorithms are helping to make automated journalism more prevalent. This article extends the literature on the subject by analysing professional journalists’ experiences with, and opinions about, the technology. Uniquely, the participants were drawn from a range of news organizations—including the BBC, CNN, and Thomson Reuters—and had first-hand experience working with robo-writing software provided by one of the leading technology suppliers. The results reveal journalists’ judgements on the limitations of automation, including the nature of its sources and the sensitivity of its “nose for news”. Nonetheless, journalists believe that automated journalism will become more common, increasing the depth, breadth, specificity, and immediacy of information available. While some news organizations and consumers may benefit, such changes raise ethical and societal issues and, counter-intuitively perhaps, may increase the need for skills—news judgement, curiosity, and scepticism—that human journalists embody.",
+        "url": "https://doi.org/10.1080/21670811.2017.1289819",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2020.1773888",
+        "title": "The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power",
+        "authors": [
+          "Natali Helberger"
+        ],
+        "year": 2020,
+        "citation_count": 197,
+        "topics": [
+          "Social media regulation",
+          "Platform accountability",
+          "Opinion power",
+          "Misinformation policy"
+        ],
+        "abstract": "This contribution critically reviews the ongoing policy initiatives in Europe to impose greater societal responsibility on social media platforms. I discuss the current regulatory approach of treating social platforms as mere 'intermediaries' of the speech of others and propose a different perspective. Instead of perceiving platforms as intermediaries and facilitators of the speech of others, I view social media platforms as active political actors in their own right, and wielders of considerable opinion power. I will explain how taking the perspective of opinion power throws a very different, and rather alarming light on the recent regulatory initiatives.",
+        "url": "https://doi.org/10.1080/21670811.2020.1773888",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2014.884344",
+        "title": "Data Journalism in Sweden",
+        "authors": [
+          "Ester Appelgren",
+          "Gunnar Nygren"
+        ],
+        "year": 2014,
+        "citation_count": 191,
+        "topics": [
+          "Data journalism",
+          "Investigative journalism",
+          "Swedish media",
+          "Computational journalism"
+        ],
+        "abstract": "Data journalism is an evolving form of investigative journalism. In previous research and handbooks published on this topic, this form of journalism has been called computer-assisted reporting and data-driven journalism, as well as precision, computational or database journalism. In Sweden, data journalism is still fairly uncommon. The purpose of this paper is to provide an overview of the development of data journalism at seven Swedish traditional media companies, using action research methods. The content of this paper is based on an online survey of journalists and in-depth interviews with editors at these participating companies. The results indicate that, based on how this field is currently perceived by journalists in the interviews, there is a common definition of data journalism. Furthermore, the survey shows that the attitudes towards data journalism during the process of introducing new methods and genres of journalism into “old” organizations are correlated with the level of perceived experience in data journalism working methods. The main challenges facing the working methods of data journalism today are a shortage of time and the need for training and developing data journalism skills.",
+        "url": "https://doi.org/10.1080/21670811.2014.884344",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1209083",
+        "title": "I, Robot. You, Journalist. Who is the Author?",
+        "authors": [
+          "Tal Montal",
+          "Zvi Reich"
+        ],
+        "year": 2016,
+        "citation_count": 186,
+        "topics": [
+          "Automated journalism",
+          "Algorithmic authorship",
+          "News algorithms",
+          "Disclosure and attribution"
+        ],
+        "abstract": "The broadening reliance on algorithms to generate news automatically, referred to as “automated journalism” or “robot journalism”, has significant practical, sociopolitical, psychological, legal and occupational implications for news organizations, journalists and their audiences. One of its most controversial yet unexplored aspects is the algorithmic authorship. This paper integrates a multidisciplinary theoretical framework of algorithmic creativity, bylines and full disclosure policies, legal views on computer-generated works, and an empirical study of attribution regimes in pioneering organizations that produce journalistic content automatically. Fieldwork included quantitative content analysis of automated stories on 12 websites and interviews with key figures from seven of the organizations that agreed to be interviewed, despite the general reluctance of news organizations to be identified with such an endeavor. The study detects major discrepancies between the perceptions of authorship and crediting policy, the prevailing attribution regimes and the scholarly literature. To mitigate these discrepancies, we offer a consistent and comprehensive crediting policy that sponsors public interest in automated news.",
+        "url": "https://doi.org/10.1080/21670811.2016.1209083",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2013.834142",
+        "title": "Citizen Witnessing: revisioning journalism in times of crisis",
+        "authors": [
+          "Jacqui Ewart"
+        ],
+        "year": 2013,
+        "citation_count": 186,
+        "topics": [
+          "Citizen journalism",
+          "Crisis communication",
+          "Digital journalism",
+          "Eyewitness reporting"
+        ],
+        "abstract": "\"Citizen Witnessing: revisioning journalism in times of crisis.\" Digital Journalism, 2(2), pp. 252–253",
+        "url": "https://doi.org/10.1080/21670811.2013.834142",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2015.1076344",
+        "title": "News Startups as Agents of Innovation",
+        "authors": [
+          "Matt Carlson",
+          "Nikki Usher"
+        ],
+        "year": 2015,
+        "citation_count": 183,
+        "topics": [
+          "Digital journalism",
+          "News innovation",
+          "Metajournalistic discourse",
+          "Venture capital in media"
+        ],
+        "abstract": "For-profit digital news startups backed by large investors, venture capital, and technology entrepreneurs have taken on an increasingly significant role in the journalism industry. This article examines 10 startups by focusing on the manifestos these new organizations offer when they introduce themselves to the public. These manifestos are an example of metajournalistic discourse, or interpretive discourse about journalism, that publicly define how journalism is changing—or is not. In identifying and touting the superiority of their technological innovations, the manifestos simultaneously affirm and critique existing journalistic practices while rethinking longstanding boundaries between journalism and technology.",
+        "url": "https://doi.org/10.1080/21670811.2015.1076344",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1348584",
+        "title": "What Journalism Could Be",
+        "authors": [
+          "Chrysi Dagoula"
+        ],
+        "year": 2017,
+        "citation_count": 178,
+        "topics": [
+          "Journalism",
+          "Media criticism",
+          "Professional standards",
+          "Future of news"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2017.1348584",
         "topics_llm": true
       }
     ],
@@ -238,6 +1077,852 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2026.2633623",
         "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2636907",
+        "title": "When Software Becomes the Newsroom: Journalists and the Loss of Organizational Connections",
+        "authors": [
+          "Patrick Ferrucci"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Algorithmic journalism",
+          "Newsroom automation",
+          "Professional identity",
+          "Organizational culture"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2636907",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2626739",
+        "title": "Conceptualizing Fidelity: Reimagining Contemporary Visual Journalism’s Occupational Ideologies",
+        "authors": [
+          "Maxwell Foxman"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Visual journalism",
+          "Occupational ideology",
+          "Media fidelity",
+          "Professional practice"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2626739",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2626737",
+        "title": "The User Experience of TikTok and Its Compatibility with News",
+        "authors": [
+          "Irene Costera Meijer",
+          "Kenza Lamot",
+          "Tim Groot Kormelink"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media platforms",
+          "News consumption",
+          "User experience",
+          "TikTok"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2626737",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2626733",
+        "title": "The Time Dimension of Visual Journalism: The Rhythm of Photographic “Truth Claims”",
+        "authors": [
+          "Patrik Åker",
+          "Jenni Mäenpää",
+          "Liudmila Voronova"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Visual journalism",
+          "Photojournalism",
+          "Temporal analysis",
+          "Truth claims"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2626733",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2623275",
+        "title": "Do News Media Want to Disentangle from Platforms?",
+        "authors": [
+          "Rasmus Kleis Nielsen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "News media",
+          "Digital platforms",
+          "Platform dependence",
+          "Media economics"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2623275",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2610612",
+        "title": "Conceptualising Youth Media Strategies: Balancing Platforms, Profiles, and People",
+        "authors": [
+          "Vilde Schanke Sundet"
+        ],
+        "year": 2026,
+        "citation_count": 1,
+        "topics": [
+          "Youth media literacy",
+          "Platform strategy",
+          "Digital identity",
+          "Social media management"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2610612",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2604740",
+        "title": "Inequalities in Offline and Online News Media Environments Across Six Countries: The Role of Social Class and Interest in News",
+        "authors": [
+          "Antonis Kalogeropoulos",
+          "Richard Fletcher",
+          "Rasmus Kleis Nielsen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "News consumption inequality",
+          "Social class",
+          "Digital divide",
+          "Comparative media study"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2604740",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2026.2622163",
+        "title": "Defending Academic Freedom in Digital Journalism Studies: The Community Standing Up for the Field, the Scholarship, and the Scholars",
+        "authors": [
+          "Oscar Westlund"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Academic freedom",
+          "Digital journalism",
+          "Scholarly communication",
+          "Professional advocacy"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2622163",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2605489",
+        "title": "Hardly Used, But Highly Appreciated? Use, Importance and Effects of Engagement-Oriented Journalism",
+        "authors": [
+          "Bernadette Uth"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Engagement journalism",
+          "Audience participation",
+          "Journalism practices",
+          "Media effects"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2605489",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2602870",
+        "title": "How Does GenAI “See” Climate Change: Exploring the Challenges and Opportunities of GenAI for Climate Visual Journalism",
+        "authors": [
+          "Saffron O’Neill",
+          "Veronica White",
+          "Tristan J. B. Cann",
+          "Felix M. Simon",
+          "Alastair Johnstone-Hack",
+          "Simon Puttock",
+          "Sylvia Hayes",
+          "Oliver Blewett",
+          "Chico Q. Camargo",
+          "Travis Coan"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Generative AI",
+          "Climate change communication",
+          "Visual journalism",
+          "AI perception and bias"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2602870",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2601961",
+        "title": "Self-Censorship in Journalism: The Role of Emotional, Professional, and Institutional Factors",
+        "authors": [
+          "Oscar Björkenfeldt"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Self-censorship",
+          "Journalism",
+          "Professional norms",
+          "Institutional constraints"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2601961",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2595216",
+        "title": "Spatiotemporal Unfixing, Image-Flow &amp; Palinode in Photography of the Ukraine War",
+        "authors": [
+          "Jennifer Good"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "War photography",
+          "Social media",
+          "Visual communication",
+          "Ukraine conflict"
+        ],
+        "abstract": "Russia’s full-scale invasion of Ukraine has been conveyed to global audiences via a complex range of image practices. This has included digital content that disturbs the traditionally monocular, stilled and privileged position of the ‘war photographer’. This is a theoretical discussion of the functions of social media in destabilising the established temporal characteristics of war photography, focusing on two examples from the work of photojournalist Lynsey Addario in her coverage of the war in Ukraine. It includes a discussion of Instagram’s ‘Stories’ function, in which photography’s ‘fixing’ and ‘capturing’ of war are challenged by means of deliberate, in-built ephemerality. The concept of the palinode – a change of mind or position – is used to further conceptualise war photography’s new and uncharted networks of digital proliferation, potentially representing a kind of unfixing of the atrocity image within what Jay Prosser (2012) has called ‘image-flows’, and making it possible for the limits of photojournalism’s technical and ideological stillness – its fixity – to be challenged.",
+        "url": "https://doi.org/10.1080/21670811.2025.2595216",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2593999",
+        "title": "Dancing with AI: The Impact of AI-Generated Images and Videos on Chinese Visual Journalism",
+        "authors": [
+          "Jing Meng",
+          "Haiyan Wang"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "AI-generated media",
+          "Visual journalism",
+          "Digital communication",
+          "Chinese media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2593999",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2592077",
+        "title": "Authoritarian Algorithmic Publics: Conceptualising the Nexus of Authoritarianism and Digital Innovation Uptake in Russian News Media",
+        "authors": [
+          "Olga Dovbysh",
+          "Mariëlle Wijermars"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Algorithmic journalism",
+          "Authoritarian media",
+          "Digital innovation",
+          "Russian news media"
+        ],
+        "abstract": "Scholarship on digital innovation uptake in journalism has expanded to include hybrid and authoritarian regimes. However, the intersection of digital innovation and algorithmisation with restricted media freedom remains undertheorised. This article introduces the concept of authoritarian algorithmic publics (AAP), building upon “authoritarian publics-at-large” (Toepfl) and “algorithmic publics” (Christen), and applies it to Russia. Based on in-depth interviews with media professionals in Russian media (N = 51) we elucidate how media professionals’ perceptions of advanced digital technologies, rooted in a journalistic culture shaped by the conditions of authoritarianism, affect the development of digital journalism in autocracies. Contrary to politically-determined perspectives on media development in autocracies, our findings suggest that political loyalty is a poor explanatory factor of digital innovation uptake. By examining three media outlets – RT, RBC, and Meduza – we illustrate digital innovation across the political spectrum, revealing a complexity of digital authoritarianism better captured by AAP. Both pro-state media, forming a non-critical public, and oppositional media, creating a leadership-critical public, may use similar technologies and practices for optimization. However, their different perceptions and tailored use of these tools lead to the production of distinct algorithmic publics.",
+        "url": "https://doi.org/10.1080/21670811.2025.2592077",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2591417",
+        "title": "What Makes for a Good News Experience: Developing a UX Perspective to Advance Audience Studies in Journalism",
+        "authors": [
+          "Emmanuel Maduneme",
+          "Seth C. Lewis"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "User Experience",
+          "Journalism",
+          "Audience Studies",
+          "News Consumption"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2591417",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2582158",
+        "title": "Updating Public Value: How Journalists Understand Their Societal Role in the Context of Digital Platforms",
+        "authors": [
+          "Anna-Theresa Mayer"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Journalism",
+          "Public value",
+          "Digital platforms",
+          "Professional identity"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2582158",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2587635",
+        "title": "A Way Out or Another Hurdle? Assessing the Impact of the “News Partnership Evaluation Committee” on Platform Dependence in South Korea",
+        "authors": [
+          "Ahran Park",
+          "Yoonmo Sang"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Platform dependence",
+          "News media regulation",
+          "South Korea",
+          "Digital journalism policy"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2587635",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2583336",
+        "title": "Twitch’s Digital News Standard: Breaking Journalistic Boundaries in Platform Streaming Environments",
+        "authors": [
+          "Nicole K. Stewart",
+          "Joseph M. Nicolaï",
+          "Graeme Beamiss"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Live streaming",
+          "Digital journalism",
+          "Platform governance",
+          "News distribution"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2583336",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2577127",
+        "title": "Journalists’ Perception of Artificial Intelligence: The Case of Nigerian Newsrooms",
+        "authors": [
+          "Amaka Peace Onebunne"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Artificial Intelligence",
+          "Journalism",
+          "Media perception",
+          "Nigerian newsrooms"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2577127",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2580979",
+        "title": "The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis",
+        "authors": [
+          "Bart Hermans",
+          "Cato Waeterloos",
+          "Michaël Opgenhaffen"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Fact-checking",
+          "Misinformation",
+          "Social media",
+          "Content remediation"
+        ],
+        "abstract": "The rise of social media has escalated the spread of misinformation, and the practice of fact-checking has become a key tool in the fight against it. Over time, the practice of fact-checking evolved and in recent years, fact-checking practices have shifted to social media platforms. However, social media’s unique logic requires fact-checkers to adapt—or “remediate” - their content to these platforms, which can prove to be challenging. Research is currently lacking on how fact-checks are remediated to this new format. This study examined how fact-checking organizations remediate their website fact-checks to different social media platforms, through an extensive content analysis (N = 14.891) of website and social media fact-checks published by eight fact-checking organizations (Belgium, the US, the UK). Results show that transfer rates from the website to social media are generally high, but that there are differences across organizations. Fact-checks are diffused to social media with an initial widespread burst across platforms but are often not re-shared after this. Reposting of content happens mostly within the platform, with reposts across platforms occurring less often. There is a prevalence of hard news topics both in website fact-checks as on social media, indicating no trend of news softening.",
+        "url": "https://doi.org/10.1080/21670811.2025.2580979",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2574927",
+        "title": "Building Legislative Legitimacy of “Fake News” Laws: A Study of How Governments May Seek to Legitimize Policy Interventions Against Fake News",
+        "authors": [
+          "Shangyuan Wu"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Fake news legislation",
+          "Political legitimacy",
+          "Government communication",
+          "Media regulation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2574927",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2573076",
+        "title": "Reality Re-Imag(in)ed. Mapping Publics’ Perceptions and Evaluations of AI-Generated Images in News Contexts",
+        "authors": [
+          "Edina Strikovic",
+          "Hannes Cools"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "AI-generated content",
+          "News media",
+          "Public perception",
+          "Misinformation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2573076",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2574931",
+        "title": "TikToking the Israel-Gaza War: A Content Analysis of Peace and War Narratives in Audiovisual News",
+        "authors": [
+          "Shahira Fahmy",
+          "Laila Abbas",
+          "Aliaa K. ElShabassy"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "TikTok",
+          "Israel-Gaza conflict",
+          "News narratives",
+          "Social media journalism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2574931",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2574935",
+        "title": "A Community Resilience Approach to Understanding News Deserts and Their Residents",
+        "authors": [
+          "Jessica R. Collier"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "News deserts",
+          "Community resilience",
+          "Local journalism",
+          "Information access"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2574935",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2573072",
+        "title": "Contextualizing Platform Dependence and Publisher Disentanglements in India",
+        "authors": [
+          "Simran Agarwal"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Platform dependence",
+          "Publisher business models",
+          "Digital media India",
+          "Platform-publisher relations"
+        ],
+        "abstract": "International audience",
+        "url": "https://doi.org/10.1080/21670811.2025.2573072",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2573080",
+        "title": "The Weight of the Rainbow: LGBTQ+ Journalists’ Navigation of Mental Health and Identity in Digital News Ecosystems",
+        "authors": [
+          "Patrick R. Johnson"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "LGBTQ+ journalists",
+          "Mental health",
+          "Digital news",
+          "Identity in journalism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2573080",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2573074",
+        "title": "The Press as Platform: Institutional Isomorphism and the Strategic Adoption of Platform Logics",
+        "authors": [
+          "James Meese",
+          "Theresa Josephine Seipp"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Platform logics",
+          "Institutional isomorphism",
+          "News media institutions",
+          "Digital transformation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2573074",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2570497",
+        "title": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
+        "authors": [
+          "Ragnhild Kr. Olsen",
+          "Helle Sjøvaag"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Platform studies",
+          "News media",
+          "Social media discourse",
+          "Digital journalism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2570497",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2569778",
+        "title": "Connecting to Local Publics Through Media: An in-Depth Study of Local Media Use and Public Connection",
+        "authors": [
+          "Anna Grøndahl Larsen"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Local media",
+          "Public engagement",
+          "Community communication",
+          "Audience studies"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2569778",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2568909",
+        "title": "Aspirational Metajournalism: What Nieman Journalism Lab Predictions Reveal About Platform and Audience Imaginaries",
+        "authors": [
+          "Gregory Perreault",
+          "Jacob L. Nelson"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Metajournalism",
+          "Platform imaginaries",
+          "Journalism futures",
+          "Audience analysis"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2568909",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2567349",
+        "title": "Podcasting as Alternative Media: Navigating Politics, Platform Power, and Journalistic Professionalism in China",
+        "authors": [
+          "Jing Meng",
+          "Haiyan Wang"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Podcasting",
+          "Alternative media",
+          "Chinese politics",
+          "Platform power"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2567349",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2567342",
+        "title": "‘It’s All About Money’ – News Users’ Folk Theory of Audience Data Utilisation in Journalism",
+        "authors": [
+          "Liisa Ovaska"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Audience analytics",
+          "Journalism",
+          "Audience data",
+          "Folk theories"
+        ],
+        "abstract": "Journalism scholars have extensively explored the implications of audience analytics for journalistic work and content. However, the audience’s perspective on this issue has received relatively little scholarly attention. This study investigates news users’ understandings of the role of audience data in journalism by employing folk theories as an analytical approach. In particular, it highlights news users’ beliefs regarding why audience data are collected and the resulting implications for journalism. The research material consists of five focus group interviews and instant messaging group chats conducted with 21 readers of the Finnish tabloid Iltalehti. The findings reveal that participants primarily perceive the utilisation of audience data as commercially driven. Consequently, in their view, this influences journalists’ relationships with both advertisers and audiences, as well as the production of journalistic content. Notably, news users associate the increased influence of advertisers and news business owners with the utilisation of user data, leading to a heightened commercial role for the audience. Furthermore, they see that commercial motivations negatively impact the quality of journalistic content. This research highlights the complex interplay among audience data, commercial interests, and journalistic practices, emphasising the need for a more nuanced understanding of audience analytics in contemporary journalism.",
+        "url": "https://doi.org/10.1080/21670811.2025.2567342",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2564165",
+        "title": "Is TikTok News Less “News-Like”? Investigating News Organizations’ Stories on TikTok and Their Alignment/ Divergence with Traditional News Values, Norms, Routines, and Roles",
+        "authors": [
+          "Shangyuan Wu"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "TikTok",
+          "News organizations",
+          "Journalism norms",
+          "Digital media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2564165",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2564159",
+        "title": "Populist Hustlers Versus Establishment Dynasties: The Contentious Visual Framing Dual of the 2022 Kenyan Election",
+        "authors": [
+          "Jimmy Ochieng",
+          "Kevin C. Mudavadi",
+          "Maria Elizabeth Grabe"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Political communication",
+          "Visual framing",
+          "Populism",
+          "Election coverage"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2564159",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2562143",
+        "title": "The Role of Choice Architecture in Mitigating News Avoidance",
+        "authors": [
+          "Dominika Betakova",
+          "Hajo G. Boomgaarden",
+          "Sophie Lecheler"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Choice architecture",
+          "News avoidance",
+          "Information consumption",
+          "Media design"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2562143",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2559370",
+        "title": "Examining Platforms’ Affordances: Bridging Journalists’ and Users’ Practices of Online Engagement",
+        "authors": [
+          "Constanza Gajardo",
+          "David Domingo",
+          "Irene Costera Meijer"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Platform affordances",
+          "Journalism and social media",
+          "Audience engagement",
+          "Digital platforms"
+        ],
+        "abstract": "Digital technologies, especially social media platforms, are crucial to journalism’s engagement with audiences. Journalists depend on these information technologies to distribute news, while users largely rely on social media platforms for informing themselves. However, research on the role of platforms in journalism appears to have mainly focused on the risks they pose to the profession with little attention given to how platforms’ affordances facilitate engagement. The aim of this study is to examine how the expectations of journalists and users about the role of digital platforms coincide or differ in terms of the affordances for engagement with each other. We conducted in-depth interviews with 31 news users and 10 professional journalists in Chile, focusing on their use of social media related to news. Our study reveals some alignments and misalignments on the platforms’ digital affordances in three dimensions: contextual flexibility, informational access and use, and interactive communication. Journalists primarily focus on mobile use on the go, while users often access news at home. Both groups align on the exposure function of platforms but differ in their perceptions of content personalization and availability. Additionally, while journalists encourage interaction, users are often reluctant to engage deeply or are unaware of these expectations.",
+        "url": "https://doi.org/10.1080/21670811.2025.2559370",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2557994",
+        "title": "Technological Hype and AI in Journalism: Five Functions and Why They Matter",
+        "authors": [
+          "Seth C. Lewis",
+          "Rodrigo Zamith",
+          "Jon Benedik Bunquin"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Artificial intelligence",
+          "Journalism",
+          "Technology adoption",
+          "Media innovation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2557994",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2553157",
+        "title": "Bringing People into the Story: How Virtual Reality Journalism Affects the Feeling of Presence",
+        "authors": [
+          "Sangwook Lee",
+          "Taenyun Kim",
+          "Sung‐Ho Kim",
+          "Kwan Min Lee",
+          "Namkee Park",
+          "Hayeon Song"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Virtual Reality",
+          "Journalism",
+          "Presence",
+          "Immersive Media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2553157",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2558000",
+        "title": "News Characteristics, Newsworthiness and Secondary Gatekeeping in Brazil: Influences of Right-Wing Authoritarianism",
+        "authors": [
+          "Marcos Paulo da Silva",
+          "Rachel R. Mourão",
+          "Tim P. Vos",
+          "Marialina C. Antolini",
+          "Gisele Souza Neuls"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Gatekeeping",
+          "News values",
+          "Political ideology",
+          "Brazilian media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2558000",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2558008",
+        "title": "Audience Expectations of Journalists: Demands, Beliefs and Assessments",
+        "authors": [
+          "Clara Juarez Miro",
+          "Sandra Banjac",
+          "Folker Hanusch"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "Journalism",
+          "Audience expectations",
+          "Media credibility",
+          "News consumption"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2558008",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2556183",
+        "title": "The Irony of Sophisticated Citizens and Misinformation: Explaining How People with High Need for Cognition Become Politically Cynical",
+        "authors": [
+          "Dam Hee Kim",
+          "Kate Kenski",
+          "S. Mo Jones-Jang"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Need for Cognition",
+          "Political Misinformation",
+          "Political Cynicism",
+          "Cognitive Processing"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2556183",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2554246",
+        "title": "(Trans)Locality in Social Media News Engagement: Geographic Effects on the Quality of Online Discussion",
+        "authors": [
+          "Yufan Guo",
+          "L Zhou"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Social media",
+          "News engagement",
+          "Geographic locality",
+          "Online discussion quality"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2554246",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2551628",
+        "title": "The Effects of AI Attribution, Source Priming, and Story Topic Polarization on News Credibility",
+        "authors": [
+          "Thomas K. Waddell"
+        ],
+        "year": 2025,
+        "citation_count": 2,
+        "topics": [
+          "AI-generated content",
+          "News credibility",
+          "Source attribution",
+          "Political polarization"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2551628",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2553161",
+        "title": "Pricing, Design and Cultivation – Conceptual Tools for the Normative Assessment of Fairness in the Age of Media Platformization",
+        "authors": [
+          "Jonathan Kropf",
+          "Jörn Lamla",
+          "Markus Uhlmann"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Media platformization",
+          "Algorithmic fairness",
+          "Platform economics",
+          "Media governance"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2553161",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -355,6 +2040,872 @@
         ],
         "abstract": "The Russian invasion of Ukraine in February 2022 led to a flood of disinformation circulating online, making fact-checking and verification crucial for journalists covering the conflict. Based on five semi-structured interviews and an analysis of 48 debunks published between February and October 2022, this study aims to understand how Les Décodeurs, the fact-checking unit of the French daily newspaper Le Monde, organized its practices in response to the flow of visual disinformation surrounding the conflict, and to place them within the broader framework of practices and categorizations of previous research on fact-checking and disinformation. The findings show that most fact-checks focuses on authentic images with misleading captions, rather than sophisticated manipulation. Previous categorizations prove their ability to describe the 48 pieces of visual disinformation but a more refined approach is suggested by considering visual disinformation as mainly multi-modal. The study reveals the fact-checkers’ role as gatekeepers in filtering content from social networks and addressing the challenge of countering viral disinformation while avoiding unintended amplification. It also identifies a blend of shared and individualized approaches among fact-checking journalists, including manual and pre-digital methods, reflecting the adaptable nature of their work. Based on the latest developments of gatekeeping functions, the study highlights limitations in the challenge of reconciling reactive and retroactive practices with mid-term editorial considerations in a rapidly evolving media ecosystem.",
         "url": "https://doi.org/10.1080/21670811.2024.2332609",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2323000",
+        "title": "Can AI Become Walter Cronkite? Testing the Machine Heuristic, the Hostile Media Effect, and Political News Written by Artificial Intelligence",
+        "authors": [
+          "Joo-Wha Hong",
+          "Ho-Chun Herbert Chang",
+          "David Tewksbury"
+        ],
+        "year": 2024,
+        "citation_count": 15,
+        "topics": [
+          "AI journalism",
+          "Credibility and trust",
+          "Hostile media effect",
+          "Political news bias"
+        ],
+        "abstract": "Advances in artificial intelligence (AI) in news writing are ushering in significant changes in journalism. This study examined how the nature of a story's author (human or news bot journalist) affects how audiences assess a news story and its writer. Applying a Relative Hostile Media perspective, an experiment examined the effect of the ideological distance between news outlets and audiences. Results reveal that people express more positive attitudes—and trust—toward human journalists than toward AI journalists, but they perceive the latter as less biased. Also, story and outlet credibility have a negative relationship with ideological distance from outlets.",
+        "url": "https://doi.org/10.1080/21670811.2024.2323000",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2431519",
+        "title": "Policies in Parallel? A Comparative Study of Journalistic AI Policies in 52 Global News Organisations",
+        "authors": [
+          "Kim-Björn Becker",
+          "Felix M. Simon",
+          "Christopher Crum"
+        ],
+        "year": 2025,
+        "citation_count": 14,
+        "topics": [
+          "Artificial intelligence in journalism",
+          "Media policy",
+          "Comparative analysis",
+          "News organizations"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2431519",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2435579",
+        "title": "“I Resist”. A Study of Individual Attitudes Towards Generative AI in Journalism and Acts of Resistance, Risk Perceptions, Trust and Credibility",
+        "authors": [
+          "Sophie Morosoli",
+          "Valeria Reséndez",
+          "Laurens Naudts",
+          "Natali Helberger",
+          "Claes H. de Vreese"
+        ],
+        "year": 2025,
+        "citation_count": 13,
+        "topics": [
+          "Generative AI",
+          "Journalism",
+          "Risk perception",
+          "Trust and credibility"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2435579",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2342468",
+        "title": "Collaborative Coding Cultures: How Journalists Use GitHub as a Trading Zone",
+        "authors": [
+          "Tomás Dodds",
+          "Valeria Reséndez",
+          "Gerret von Nordheim",
+          "Theo Araujo",
+          "Judith Moeller"
+        ],
+        "year": 2024,
+        "citation_count": 13,
+        "topics": [
+          "Journalism",
+          "GitHub",
+          "Collaborative coding",
+          "Data journalism"
+        ],
+        "abstract": "As the use of “big data” in journalism has become an increasing practice in recent years, its exercise is no longer limited to newsrooms in Europe and North America. The prevalence of coding cultures and collaboration in newsrooms worldwide has risen, in part to tackle challenges related to information overflow. This collaboration has been facilitated partly by the popularization of low-cost code hosting platforms such as GitHub. GitHub is a well-known public code management system with a significant potential for transparency and collaboration between communities. This study aims to map how newsrooms employ GitHub as a trading zone for collaborative journalism. We analyze the GitHub activities of leading media outlets from 27 countries. Based on content analysis of the newsroom’s repositories and users’ profiles, we found that media organizations in the United Kingdom and the United States continue to be the primary code producers in GitHub. However, our results show that newsrooms in developing countries benefit from these codes by stargazing these projects. The results of this article have important implications for understanding how newsrooms across the globe use GitHub for collaboration and the role journalistic code plays in bringing together various collaborative initiatives and actors in journalism.",
+        "url": "https://doi.org/10.1080/21670811.2024.2342468",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2510967",
+        "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
+        "authors": [
+          "Gregory Perreault",
+          "Seth C. Lewis",
+          "Maxwell Ely"
+        ],
+        "year": 2025,
+        "citation_count": 10,
+        "topics": [
+          "Generative AI",
+          "Journalistic Authority",
+          "Epistemology",
+          "ChatGPT"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2510967",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2361264",
+        "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
+        "authors": [
+          "Michael Koliska",
+          "Jessica Roberts"
+        ],
+        "year": 2024,
+        "citation_count": 10,
+        "topics": [
+          "Fact-checking",
+          "Journalism epistemology",
+          "Misinformation",
+          "Knowledge production"
+        ],
+        "abstract": "Epistemologies of journalism differ across genres, and fact-checking, as an independent operation or feature within existing news media organizations, can be considered a genre of journalism with its own epistemology. This paper explores the epistemology of fact-checking as expressed by fact-checkers from 40 fact-checking organizations serving more than 50 countries on six continents. Fact-checkers operate in various political, social, economic, and informational contexts, and yet reveal isomorphic norms, practices, and structures, particularly in the form of knowledge, production of knowledge, and defense of their knowledge. What emerged in interviews with fact-checkers is a shared belief in the ability to determine the objective truth of claims, which is validated by evidence and a transparent process of reproducibility or modeling the fact-checking process. This process is also seen as a way to convince the reader of the accuracy and trustworthiness of fact-checks. Fact-checkers define their role and work as a public service, and frequently offer media literacy and fact-checking training to the public and journalists to instill a culture of factuality. Overall, the cross-national findings suggest that as fact-checking is becoming increasingly taken-for-granted or institutionalized, fact-checkers share a common epistemology, promoting confidence in factually verifiable truth.",
+        "url": "https://doi.org/10.1080/21670811.2024.2361264",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2502851",
+        "title": "Navigating the AI Hype: Chinese Journalists’ Algorithmic Imaginaries and Role Perceptions in Reporting Emerging Technologies",
+        "authors": [
+          "Joanne Kuai"
+        ],
+        "year": 2025,
+        "citation_count": 9,
+        "topics": [
+          "Artificial intelligence reporting",
+          "Algorithmic imaginaries",
+          "Journalistic roles",
+          "Technology journalism"
+        ],
+        "abstract": "This study explores how Chinese journalists perceive, use, and report on artificial intelligence (AI) amid the global discourse of AI hype. Drawing on qualitative analysis of 18 in-depth interviews with journalists from a range of Chinese news organisations, this research examines (1) journalists’ algorithmic imaginaries and their role in shaping AI narratives, (2) perceptions of AI hype and strategies for responsible reporting, and (3) the journalistic roles reflected. The findings show that journalists predominantly frame AI as a pragmatic tool for enhancing newsroom efficiency, while also acknowledging its broader societal significance. Although aware of speculative discourses, they reject the label of “media hype,” portraying their coverage as balanced, event-driven, and aligned with public interest. Situated within China’s distinctive political and media environment, this study highlights the complexities of journalistic practice in the algorithmic age and calls for a contextualised theorisation of media hype and AI’s discursive construction in non-Western settings.",
+        "url": "https://doi.org/10.1080/21670811.2025.2502851",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2332614",
+        "title": "Mediated Clash of Civilizations: Examining the Proximity-Visual Framing Nexus in Al Jazeera Arabic and Fox News’ Coverage of the 2021 Gaza War",
+        "authors": [
+          "Kareem El Damanhoury",
+          "Faisal Saleh"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Visual framing",
+          "Media bias",
+          "Israeli-Palestinian conflict",
+          "Comparative news coverage"
+        ],
+        "abstract": "The Israeli–Palestinian conflict is amongst the most polarizing topics today, particularly when comparing predominant U.S. and Arab perspectives. News media are often criticized for being pro-Israel or pro-Palestine, and more so during deadly wars. This study examines all 320 images Al Jazeera Arabic and Fox News put out in their articles covering the May 2021 Gaza War and investigates how Qatar and the U.S.'s proximity to Israel and Palestine factored into the outlets' visual framing choices. Despite both invoking the David and Goliath master narrative, they provided a polarized coverage of the war, with Al Jazeera proliferating narratives of Hamas and pro-Palestine supporters and exclusively foregrounding the suffering of Palestinian civilians, and Fox legitimating Israeli military actions and presenting Hamas as a terrorizing force that disrupts the lives of Israelis as well as wreaks havoc and fuels anti-Jewish sentiments in the U.S. After dissecting the cross-cultural differences in death and dying portrayals, displays of Israelis and Palestinians, and recurrent visual themes, the study concludes with a discussion on the influence of news agencies on media's photographic decisions and the implications of extreme alignment in the proximity-framing nexus on the propagation of mediated clash of civilizations in the digital news sphere.",
+        "url": "https://doi.org/10.1080/21670811.2024.2332614",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2336028",
+        "title": "Show Me the Facts: Newsroom-Affiliated and Independent Fact-Checkers’ Transparency Acts",
+        "authors": [
+          "Seth Seet",
+          "Edson C. Tandoc"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Fact-checking",
+          "Transparency",
+          "Journalism",
+          "Misinformation"
+        ],
+        "abstract": "In response to skepticism and criticisms of bias, fact-checkers attempt to be transparent in their work, a practice adopted from their journalistic roots. This study identifies the acts of disclosure and participatory transparency practiced by fact-checkers in Asia and compares the differences between newsroom-affiliated and non-newsroom fact-checkers. Through a content analysis of 80 fact-checking websites in Asia, this study identifies the acts of disclosure and participatory transparency practiced by fact-checkers in Asia. This study also finds that newsroom fact-checkers engage in fewer acts of disclosure transparency than non-newsroom fact-checkers. Specifically, non-newsroom fact-checkers are more likely to explain their editorial process, disclose their correction policy, disclose their funding sources, and disclose the names and biography of their editorial team. While newsroom and non-newsroom fact-checkers did not differ in the number of acts of participatory transparency, non-newsroom fact-checkers were more likely to allow users to submit claims. These indicate that akin to journalism, fact-checking as an institution displays some differences in their acceptance of disclosure and participatory transparency as a norm.",
+        "url": "https://doi.org/10.1080/21670811.2024.2336028",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2454516",
+        "title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
+        "authors": [
+          "Mike Ananny",
+          "Jonathan D. Karr"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Media unions",
+          "Artificial intelligence discourse",
+          "Journalism",
+          "Technological hype"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2454516",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2443163",
+        "title": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
+        "authors": [
+          "Nadja Schaetz",
+          "Anna Schjøtt"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Artificial Intelligence",
+          "News Media",
+          "Organizational Communication",
+          "Technology Adoption"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2443163",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2350464",
+        "title": "Nudging News Readers: A Mixed-Methods Approach to Understanding When and How Interface Nudges Affect News Selection",
+        "authors": [
+          "Nicolas Mattis",
+          "Tim Groot Kormelink",
+          "Philipp K. Masur",
+          "Judith Moeller",
+          "Wouter van Atteveldt"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "News recommendation",
+          "Nudging interventions",
+          "User interface design",
+          "News selection behavior"
+        ],
+        "abstract": "Building on research on nudging as well as democratic news recommender design, this preregistered study employed a mixed-methods design to explore how interface nudges and article positioning affect news selection. Specifically, we tested whether a position nudge as well as three different types of interface nudges (e.g., popularity cues and social norm interventions) can facilitate readers’ engagement with current affairs news over other genres. To better understand how users processed and perceived the nudges, we further substantiated the experimental results with qualitative insights from a think-aloud protocol and semi-structured interviews. Our experimental results revealed strong effects of the position nudge, but no significant effects of interface nudges. Exploratory analyses indicated that interface nudges must be noticed to affect news selection, while our qualitative insights point to considerable individual-level differences in how nudges are perceived and evaluated. Thus, our study suggests that effective nudging requires carefully pre-tested design and a nuanced understanding of individual preferences.",
+        "url": "https://doi.org/10.1080/21670811.2024.2350464",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2462558",
+        "title": "Visuality as an Affordance on Instagram News Production",
+        "authors": [
+          "Saara-Maija Kallio",
+          "Jenni Mäenpää"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Instagram",
+          "News production",
+          "Visual communication",
+          "Social media journalism"
+        ],
+        "abstract": "News media organisations have turned to social media platforms to engage with younger audiences who mainly consume news through these channels. This article focuses on news production on Instagram and explores visuality as a necessity and an affordance in producing journalistic content to the platform. Our data comprises of thematic interviews with social media professionals as well as Instagram Posts and video Reels from news media accounts from Finland. Through qualitative content analysis we have recognised three thematic categories that are connected to visuality guiding the professional decision making: 1) adaptation (strategic adaptation to the platform), 2) condensing (simplifying and shortening the news content) and 3) attention gaining (a strong selectivity targeting specific audiences). Finally, the identification of image-dominated news suggests that visual social media news stories possess characteristics of a new journalistic genre.",
+        "url": "https://doi.org/10.1080/21670811.2025.2462558",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2377078",
+        "title": "Capture Beyond the Platforms: The Material and Infrastructural Conditions for Digital Journalism",
+        "authors": [
+          "Helle Sjøvaag",
+          "Raul Ferrer Conill",
+          "Ragnhild Kr. Olsen"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "Digital infrastructure",
+          "News organizations",
+          "Platform dependency",
+          "Data sovereignty"
+        ],
+        "abstract": "News organisations are growing increasingly dependent on digital infrastructures for the distribution of news, AI implementation, and management of data. In this article, we argue that this dependency goes beyond the level of platforms, reaching into the internet backbone infrastructures that transmit, peer, deliver and host data on which journalism relies. Using Norway as a case, we map the actors involved in the subsea cable sectors, internet exchange points, content delivery networks and the data centres and cloud services that traffic, store and process digital journalism. Given the private, foreign nature of most of the actors involved in these infrastructures, we ask how these backbone infrastructures create interdependencies for the news industries in terms of data sovereignty, distribution control and regulatory jurisdiction. We discuss journalism's dependency on each of these infrastructural sectors using sociotechnical theory, the contribution to which is to extend the range at which platform capture is considered in journalism scholarship.",
+        "url": "https://doi.org/10.1080/21670811.2024.2377078",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2351523",
+        "title": "“Because the News is Depressing as Hell”: Journalists’ Explanations of News Avoidance",
+        "authors": [
+          "Ruth Palmer",
+          "Stephanie Edgerly"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "News avoidance",
+          "Journalist perspectives",
+          "Media consumption"
+        ],
+        "abstract": "What journalists believe about the growing phenomenon of news avoidance will affect the way they address it. In this paper we use an iterative, mixed-methods approach to analyze responses to an open-ended survey question which asked US journalists why they believe people consume little to no news. Our data analysis consisted of 3-phases: an inductive close reading to detect initial patterns, a quantification of patterns through a word frequency analysis, and a final close reading. We find that journalists' responses about why people avoid news fit into three main categories based on whom or what they identified as responsible for this behavior. Some of these sources of blame were much more common than others, and they were associated with different tones, ranging from condescending to sympathetic. The most common reasons supplied were those blaming news itself (e.g., news is negative or biased), followed by those blaming contextual factors (e.g., life circumstances or competition from social media), and those blaming news avoiders themselves. In the discussion, we compare journalists' beliefs about the causes of news avoidance with findings from research on news avoiders themselves and explore implications for possible efforts to address news avoidance in the future.",
+        "url": "https://doi.org/10.1080/21670811.2024.2351523",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2475179",
+        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
+        "authors": [
+          "Nina Springer",
+          "Jana Rick"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Journalism precarity",
+          "Occupational stress and coping",
+          "Work conditions",
+          "Media labor"
+        ],
+        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
+        "url": "https://doi.org/10.1080/21670811.2025.2475179",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2355475",
+        "title": "Trustable News from China? How Chinese Journalists Negotiate Epistemic Authority in Transnational Digital News Production",
+        "authors": [
+          "Tucker Wang-Hai"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Journalistic credibility",
+          "Transnational news production",
+          "Chinese media",
+          "Epistemic authority"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2355475",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2464062",
+        "title": "Infotainment on Social Media: How News Companies Combine Information and Entertainment in News Stories on Instagram and TikTok",
+        "authors": [
+          "Dominique S. Wirz",
+          "Florin Zai"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Infotainment",
+          "Social media journalism",
+          "News on Instagram and TikTok",
+          "Information-entertainment hybrid"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2464062",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2429623",
+        "title": "Survival in the Passion Economy: Mental Health and Well-Being of Local Journalism Entrepreneurs",
+        "authors": [
+          "Karin Wahl‐Jorgensen"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Local journalism",
+          "Mental health",
+          "Entrepreneurship",
+          "Passion economy"
+        ],
+        "abstract": "This study investigates the mental health and well-being of local journalism entrepreneurs in the UK context. Drawing on in-depth interviews with 57 journalists in 2020 and 2021, 10 in 2022 and 7 in 2023, the paper focuses on key trade-offs that shape the experiences of local news entrepreneurs. First, these journalists experience their work as meaningful and rewarding, but at the same time it requires significant financial and lifestyle sacrifices. Second, while they enjoy the autonomy associated with their work, some experience challenges due to loneliness and isolation. As such, local journalism entrepreneurs constitute a particular manifestation of workers in the “passion economy”: While they are making significant material sacrifices and experience financial precarity, their passion is informed by their embeddedness in the community. The paper ultimately underscores the importance of problematizing the passion economy in relation to both professionals’ mental health and well-being and an analysis of the systemic and structural causes of stresses and sacrifices.",
+        "url": "https://doi.org/10.1080/21670811.2024.2429623",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2326629",
+        "title": "Boosting or Limiting? Examining How FoMO Influences Personal News Curation Through News Fatigue in Social Media",
+        "authors": [
+          "Biying Wu-Ouyang"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Fear of Missing Out (FoMO)",
+          "News curation",
+          "Social media algorithms",
+          "News fatigue"
+        ],
+        "abstract": "While the theoretical framework of curated flows provides valuable insights into the dynamics of the social media environment, it overlooks the interactions between curators and the mechanisms pertaining to these interactions.This study argues that each curator can interact with one another, resulting in an interplay between different flows and shaping an individual's information networks.Specifically focusing on personal news curation, this research argues that it can influence curated flows by signaling algorithms of user preferences.Furthermore, the affective mechanism of news curation has received limited attention.Drawing on the Stress-Strain-Outcome model, this study investigates how Fear of Missing Out (FoMO) manifests divergent effects on news-boosting and news-limiting curation via social media news fatigue.The findings, derived from a large-scale survey in a work-from-home context (N = 1198), reveal a noteworthy association: individuals experiencing FoMO are susceptible to news fatigue, leading them to prioritize being protected (news-limiting curation) than informed (news-boosting curation).This might contribute to a narrower news repertoire and influence the cultivation of informed citizens.Given the complexity and profusion of information on social media, customization, selectivity, and curation of news become necessary.Thorson and Wells (2016) proposed the framework of curated flows to capture the dynamics and fluidity of media exposure in the digital era.This framework encompasses diverse forms of curators, including journalists, algorithmic filters, social contacts, strategic communicators, and social media users themselves.These curators individually and collectively curate selection of contents, thus forming various curated flows in an individual's information network.While the curated flow framework provides valuable insights into the dynamics of a social media environment, it overlooks interactions between these curators and the mechanisms pertaining to these interactions.This manuscript argues that curations do not always occur in isolation but can interact with one another, resulting in an interplay between different flows, and influencing people's information networks.The current study focuses personal news curation, which refers to social media users' intentional manipulation and shaping of news feeds by signaling algorithm of their",
+        "url": "https://doi.org/10.1080/21670811.2024.2326629",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2323655",
+        "title": "The Power of Numbers: Four Ways Metrics are Transforming the News",
+        "authors": [
+          "Dalia Elsheikh",
+          "Daniel Jackson",
+          "Nael Jebril"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Web analytics",
+          "Journalism practice",
+          "Emerging media systems",
+          "Audience metrics"
+        ],
+        "abstract": "The benefits of analytics on news media organisations' revenues and traffic have been well documented, yet their consequences for news production and content remain double edged. To date, most empirical studies on their use and influence have focused on newsrooms in developed countries, with less attention paid to their impact on journalism practice in emerging and transitional media systems, which are often characterised by relationalism, informal economies, extensive state-owned enterprises and relatively low internet penetration rates. Building on interviews with twenty journalists, this study examines how journalists in transitional Egypt adapt to web analytics and how they perceive the influence of audience metrics on their journalistic practice. Based on their testimony, we identify four ways that metrics are changing journalistic practices and news content that relate to their role as agenda-setters, as newsroom change agent, as facilitators of institutional capture, and as drivers of tabloidisation. Each of these have power implications that are discussed in relation to ongoing debates in the field of digital journalism.",
+        "url": "https://doi.org/10.1080/21670811.2024.2323655",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2450312",
+        "title": "News Diversity Under Algorithms: The Effects of Pre-Selected and Self-Selected Personalization on Chinese TikTok (Douyin)",
+        "authors": [
+          "Wen Shi",
+          "Jinhui Li"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Algorithmic personalization",
+          "News diversity",
+          "Social media algorithms",
+          "Filter bubbles"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2450312",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2395477",
+        "title": "Why Context Matters in Code Studies: Exploring Ways to Globalize/ Diversify Understandings of Algorithmic and AI Use in Journalism",
+        "authors": [
+          "Shangyuan Wu"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Algorithmic journalism",
+          "Global perspectives",
+          "AI ethics",
+          "Code studies"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2395477",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2394789",
+        "title": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
+        "authors": [
+          "Archie Thomas",
+          "David Nolan"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Racial justice",
+          "Media criticism",
+          "Organizational change",
+          "Newsroom diversity"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2394789",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2329651",
+        "title": "Protest Paradigm Revisited: Is Depicting Protestors’ (Counter)Violence Really Bad?",
+        "authors": [
+          "Afrooz Mosallaei"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Protest paradigm",
+          "Media framing of violence",
+          "Visual documentation of civil unrest",
+          "State violence and counter-violence"
+        ],
+        "abstract": "This paper looks closely at the civil unrest in Iran sparked in 2022 by the murder of Mahsa Amini which visual documentation is flooded with imagery of violence and counter-violence. Through closely reading two videos of these protests and relying upon the theoretical framework of violence in the works of political philosophers, this study intends to examine and contextualize state and non-state violence and counter-violence. This paper primarily contributes to the literature on the protest paradigm and challenges the pre-established implications embedded in the framing of protests. This work aims to challenge the negative values associated with portraying protestors' violence in the news and offer a new perspective on such portrayals and strategies for keeping protest coverage both appealing and sympathetic to non-locals. This study illustrates and supports the existing literature about how image affordances of citizen camera-witnesses present the opportunity to make the unseen visible and to highlight the counter-narratives censored and manipulated by the state.",
+        "url": "https://doi.org/10.1080/21670811.2024.2329651",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2505982",
+        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
+        "authors": [
+          "Hannes Cools",
+          "Claes H. de Vreese"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Artificial Intelligence in journalism",
+          "Professional norms",
+          "Responsible AI",
+          "News organizations"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2505982",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2397091",
+        "title": "Viewer Preferences for Publication of Graphic Images of War",
+        "authors": [
+          "Keith Greenwood",
+          "Lisa Krantz",
+          "Cory W. MacNeil"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Visual journalism",
+          "War imagery",
+          "Media ethics",
+          "Audience perception"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2397091",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2345201",
+        "title": "Meso News-Spaces and Beyond: News-Related Communication Occurring Between the Public and Private Domains",
+        "authors": [
+          "Neta Kligler-Vilenchik",
+          "Ori Tenenboim"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Meso news-spaces",
+          "Digital media platforms",
+          "News-related communication",
+          "Public-private boundaries"
+        ],
+        "abstract": "The concept of meso news-spaces refers to online spaces located between the private and public realms, where everyday users, more professional media actors, or both, can produce and share news-related content among each other, yet not to a wide audience. Such spaces are afforded by digital media platforms, including, but not limited to, Facebook groups, X spaces, and group chats on WeChat, WhatsApp, or Telegram. This special issue is devoted to further understanding news-related communication that occurs neither in fully public nor fully private realms, but between or across the two. In the introduction to the special issue, we demonstrate the significance of meso news-spaces by considering the example of the use of WhatsApp groups in the mobilization of the pro-democracy movement in Israel in 2023. We then consider the challenges that meso news-spaces pose for researchers, in terms of conceptualization, research ethics, and context. We conclude with a review of the articles of the special issue, and with directions for future research around this phenomenon, that is proving to be a significant one in the digital news environment.",
+        "url": "https://doi.org/10.1080/21670811.2024.2345201",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2474530",
+        "title": "<i>Digital Journalism</i> (Studies): An Agenda for the Future",
+        "authors": [
+          "Oscar Westlund",
+          "Jan Lauren Boyles",
+          "Лэй Гуо",
+          "Magdalena Saldaña",
+          "Ramón Salaverría",
+          "T.J. Thomson",
+          "Shangyuan Wu"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Digital journalism",
+          "Journalism studies",
+          "Media transformation",
+          "News production"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2474530",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2435574",
+        "title": "This Isn’t Journalism, It’s Propaganda! Patterns of News Media Bias Accusations on Twitter, 2010–2020",
+        "authors": [
+          "Jesper Strömbäck",
+          "Mathilda Åkerlund"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Media bias",
+          "Social media discourse",
+          "Twitter analysis",
+          "Political polarization"
+        ],
+        "abstract": "In several countries, research shows that mainstream news media have increasingly become a target of political attacks, and a recurring accusation is that the news media are biased politically. Since social media play an important role in circulating accusations of media bias, in this paper we analyze 167,527 Swedish tweets about media bias over a ten-year period using the mixed-methods CADS approach, which incorporates computational processes with discourse analysis. Specifically, we explore the prevalence of bias accusations over time and which news outlets constitute the main targets; from what political perspectives these bias accusations have originated over time; and how discourses accusing the news media of political bias are constructed. Among other things, the results show that accusations of left-wing bias are much more common than accusations of right-wing bias. A key reason is that actors on the political right engage much more frequently in accusations of media bias than their center-left counterparts, and that discourses of media bias are heavily dominated by right-wing populist tropes in which mainstream media are part of the \"corrupt\", lying elite who spread \"politically correct\" disinformation.",
+        "url": "https://doi.org/10.1080/21670811.2024.2435574",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2443153",
+        "title": "Visual War Journalism",
+        "authors": [
+          "Stuart Allan"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "War journalism",
+          "Visual media",
+          "Conflict documentation",
+          "Media ethics"
+        ],
+        "abstract": "This Introduction to the Special Issue (SI) begins by discussing several risks, threats and dangers visual war journalists may be compelled to confront when performing the vital role of bearing witness, including ten specific imperatives of mediation. It proceeds to elaborate the conception of “visual war journalism” guiding the SI’s rationale and priorities, in general, before turning to examining in closer detail varied aspects of how ongoing conflicts in Syria, Ukraine and Gaza are being documented in visual terms, often under harrowing circumstances. Next, this Introduction offers a brief overview of each of its eight articles. It is the SI’s aim to foster dialogue and debate about visual war journalism’s trajectories today so as to encourage alternative, critical thinking about future prospects.",
+        "url": "https://doi.org/10.1080/21670811.2024.2443153",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2344125",
+        "title": "“Scooped by the Town Drunk”: Unpacking the Effects of COVID-19 on Rural Journalism Work",
+        "authors": [
+          "Ruth Moon",
+          "Mildred F. Perreault",
+          "Jessica Fargen Walsh",
+          "Gregory Perreault",
+          "Louisa Lincoln"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Rural journalism",
+          "Professional identity",
+          "COVID-19 pandemic",
+          "Local news"
+        ],
+        "abstract": "Journalists serving rural communities are crucial sources of information across the U.S.; they also face challenges and opportunities unlike those of their peers at large urban outlets. In this study, we take the COVID-19 pandemic as an opportunity to examine how these journalists define their group identities. We focus on local news creators to ask: How has COVID-19 influenced the identities of small-town and rural journalists in the U.S.? Using an approach informed by actor-network theory and social identity theory, we analyze interviews conducted during the height of the pandemic with 35 rural and small-town journalists across the Midwest, Appalachia, and Gulf South regions to understand the effects of COVID-19 on journalistic identities. We find that the pandemic disrupted the newsgathering process, depunctualizing it in a way that highlighted the centrality of relationships to the rural journalist’s identity. First, by physically distancing journalists from their sources, COVID-19 highlighted the importance of in-person connections. Second, by increasing the amount of contentious news available to report on, COVID-19 highlighted the tension between preserving news values and protecting community relationships. Our findings highlight the far-reaching effects of one actant in a network and the ways journalists in crisis situations negotiate conflicting pressures.",
+        "url": "https://doi.org/10.1080/21670811.2024.2344125",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2434025",
+        "title": "Mitigating Hostility in Digital Journalism: Digital Hostility as Ossifier of Field Boundaries",
+        "authors": [
+          "Gregory Perreault"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Digital journalism",
+          "Online hostility",
+          "Field boundaries",
+          "Journalistic identity"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2434025",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2340589",
+        "title": "Coding and Capability-Building in Nonprofit Digital-Native News Organizations in the Middle East and North Africa (MENA) and Latin America (LATAM)",
+        "authors": [
+          "Wafa Khalfan",
+          "Jairo Lugo‐Ocando",
+          "José Luís Requejo Alemán"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Data journalism",
+          "Digital-native news organizations",
+          "Global South journalism",
+          "Digital skills and capacity-building"
+        ],
+        "abstract": "Digital journalism scholars highlighted a gap in scholarly knowledge concerning data journalism in the Global South, emphasizing the importance of data literacy in newsrooms. This article investigates the coding capabilities within digital-native nonprofit news organizations amidst global digital inequalities, focusing on the MENA (Egypt, Iraq, Jordan, Lebanon, Oman, Sudan, Tunisia, and the United Arab Emirates) and LATAM (Argentina, Costa Rica, Peru, Venezuela, and the unincorporated territory of Puerto Rico) regions. We conducted a series of semi-structured interviews with 15 organizations and analyzed emerging themes to understand coding capabilities in the context of sustaining available resources and mitigating existing constraints.",
+        "url": "https://doi.org/10.1080/21670811.2024.2340589",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2472313",
+        "title": "Scanning vs. Thorough Processing the News: Antecedents of First- and Second-Level Incidental Exposure and the Role of the Relevance Appraisal",
+        "authors": [
+          "Andreas Nanz",
+          "Ruta Kaskeleviciute",
+          "Marlis Stubenvoll",
+          "Jörg Matthes"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "News consumption",
+          "Incidental exposure",
+          "Cognitive processing",
+          "Relevance appraisal"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2472313",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2450623",
+        "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
+        "authors": [
+          "Naoise McNally",
+          "Marco Bastos"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Algorithm transparency",
+          "News Feed curation",
+          "Social media engagement",
+          "Facebook news distribution"
+        ],
+        "abstract": "This study examines the effects of a series of significant algorithm changes within Facebook’s News Feed on user engagement with news content on the platform between 2011-2020. By tracking public announcements, industry research, and leaks to the press, we constructed a timeline of algorithm changes and collected data on 1 million news articles from The Guardian over the 10-year period, alongside their associated Facebook engagement metrics (likes, comments, shares, etc.) using the CrowdTangle API. Using time series analysis techniques including cross-correlation, Granger causality, and anomaly detection, we modeled this data to test for the relationship between significant algorithmic ranking updates to Facebook’s News Feed algorithms and user engagement with Guardian articles on the platform. Our results show that strategic interventions to the News Feed algorithm significantly impacted engagement with hard news items, whereas opinion, lifestyle, sports, and arts content were less affected. This study challenges the notion of algorithms as ‘black boxes’ by demonstrating how Facebook’s deliberate adjustments influence user engagement with news content. We conclude by outlining the limitations and challenges for systemic auditing of social media algorithms, advocating for greater data access, and discussing the opportunities afforded by the EU’s Digital Services Act to advance this research agenda.",
+        "url": "https://doi.org/10.1080/21670811.2025.2450623",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2436548",
+        "title": "The Relationship Between Incidental News Exposure and Political Participation: A Cross-Country, Multilevel Analysis",
+        "authors": [
+          "Jörg Matthes",
+          "Alon Zoizner",
+          "Andreas Nanz",
+          "David Nicolas Hopmann",
+          "Yannis Theocharis",
+          "Selina Noetzel"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "News exposure",
+          "Political participation",
+          "Cross-national analysis",
+          "Incidental media consumption"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2436548",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2452873",
+        "title": "Nowhere to Feel Safe Anymore Mapping Public and Organisational Violence Against Journalists in Belgium",
+        "authors": [
+          "Florence Le Cam",
+          "Manon Libert",
+          "Bart Vanhaelewyn",
+          "Sarah Van Leuven"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Violence against journalists",
+          "Press freedom",
+          "Workplace harassment",
+          "Belgium"
+        ],
+        "abstract": "Violence against journalists is on the increase around the world: murders, physical assaults, verbal abuse, etc. (Brambila and Hughes 2019; Waisbord 2020). As this has been more likely to occur in countries in extreme risk situations (Frère 2015), the situation in Belgium has never quite been a cause for concern. However, in recent years, Belgian journalists have also been experiencing situations of violence. In a national survey, 5069 Belgian journalists were questioned, 27.5% of whom responded. This article focuses on three specific points: (a) considering the importance of diverse forms of violence (intimidation, verbal violence, physical assault and sexual transgressive behaviours); (b) identifying to what extent certain social and professional identities are more affected, by looking at the gender, age and professional status; (c) analysing the psychological, physical, professional, and legal consequences of this violence and the ways in which journalists react to and cope. Our contribution suggests to study violence against journalists as a whole, not just in public terms but also organisational terms. Finally, we discuss the different dimensions of violence: the experience of, the production of, the resignation to, and the resistance to violence in journalism.",
+        "url": "https://doi.org/10.1080/21670811.2025.2452873",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2483737",
+        "title": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
+        "authors": [
+          "Bin Chen",
+          "Anfan Chen",
+          "Shuning Lu"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "AI media hype",
+          "International information flow",
+          "Chinese social media",
+          "Computational media analysis"
+        ],
+        "abstract": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
+        "url": "https://doi.org/10.1080/21670811.2025.2483737",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2346749",
+        "title": "Designing for Trust: How Online News Consumers View and Interpret Informational Transparency Boxes",
+        "authors": [
+          "Charlotte N. Varnum",
+          "Bartosz W. Wojdynski",
+          "Matthew T. Binford",
+          "Jeffrey Duncan"
+        ],
+        "year": 2024,
+        "citation_count": 4,
+        "topics": [
+          "News credibility",
+          "Informational transparency",
+          "Online journalism",
+          "User perception"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2346749",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2495693",
+        "title": "“There’s a Rule Book in my Head”: Journalism Ethics Meet A.I. in the Newsroom",
+        "authors": [
+          "Angela Misri",
+          "Nicole Blanchett",
+          "April Lindgren"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Journalism ethics",
+          "Artificial intelligence in news",
+          "Professional norms and standards"
+        ],
+        "abstract": "<p dir=\"ltr\">The burgeoning use of artificial intelligence (A.I.) to create journalistic products is challenging the ethical standards in Canadian newsrooms and calling into question the efficacy of existing norms and practice worldwide. Ethical literacy related to the use of A.I. remains low in the industry at large, and with no standardized ethical practice, there is little understanding of how journalistic doxa might need to expand to keep up with technology. Ensuring ethical practice is becoming more critical in a polarized political climate where mis- and disinformation abound, audiences demand transparency, and the very boundaries and definitions of journalism are contested by both journalists and their audiences. Utilizing field theory, through interviews with journalists and analysis of published codes of ethics and existing literature, this article examines how Canadian newsrooms are using A.I., and whether ethical frameworks are adequately evolving alongside technology.",
+        "url": "https://doi.org/10.1080/21670811.2025.2495693",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2340603",
+        "title": "Alternative Epistemologies as Distinguishing Features of Right-Wing and Left-Wing Media in the United States",
+        "authors": [
+          "Mark Coddington",
+          "Logan Molyneux"
+        ],
+        "year": 2024,
+        "citation_count": 4,
+        "topics": [
+          "Alternative media",
+          "Epistemology",
+          "Political polarization",
+          "News sourcing"
+        ],
+        "abstract": "This study builds on efforts to understand what alternative media are becoming by examining differences in epistemology among them and as compared with mainstream media. We find that alternative media present fewer sources on average and rely more often on unattributed assertions. The source count is particularly low in right-wing alternative media. Furthermore, alternative media outlets are more distant from the sources they do provide than mainstream media are. Thus, alternative media present both less evidence and less proximate evidence in their news texts, offering audiences a shaky epistemological foundation.",
+        "url": "https://doi.org/10.1080/21670811.2024.2340603",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2351524",
+        "title": "Different Media, Different Audiences, Different Harassment? How the Journalist-Audience Relationship Shapes Experiences of Harassment",
+        "authors": [
+          "Manuel Menke",
+          "Christina Seeger"
+        ],
+        "year": 2024,
+        "citation_count": 4,
+        "topics": [
+          "Journalist harassment",
+          "Media-audience relationships",
+          "Online harassment",
+          "Press freedom"
+        ],
+        "abstract": "Many journalists regularly experience harassment in their daily work. Audiences in Western democracies have become increasingly aggressive in their communication due to the spread of anti-press sentiments and populist attitudes. This is further facilitated by technological changes, rendering interaction with journalists simple and intrusive. So far, research has found that journalists reporting on specific topics and embodying particular social identities regarding gender, race, sexuality, and religion are predominately and systematically under threat. While these individual factors are important to expose the political targeting of these journalists, we shifted our focus to the different journalist-audience relationships different media outlets establish. In an explorative interview study with 32 German journalists, we analyzed how experiences of harassment are related to the journalist-audience relationships developing in national and local as well as quality, tabloid, constructive, and young audience media. Our findings indicate that these contextual factors determine the composition of the audience, leading journalists to assess closeness or distance differently in the journalist-audience relationship. Subsequently, this results in dissimilar experiences of harassment.",
+        "url": "https://doi.org/10.1080/21670811.2024.2351524",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2450624",
+        "title": "From Industry Hype to Emerging Criticism: Analysing Chilean News Media Coverage of Artificial Intelligence",
+        "authors": [
+          "Matías Valderrama",
+          "Martín Tironi",
+          "Dusan Cotorás",
+          "Teresa Correa",
+          "Mónica Humeres",
+          "Claudia López"
+        ],
+        "year": 2025,
+        "citation_count": 4,
+        "topics": [
+          "Artificial Intelligence",
+          "News Media Coverage",
+          "Critical Discourse Analysis",
+          "Media Representation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2450624",
         "topics_llm": true
       }
     ]
