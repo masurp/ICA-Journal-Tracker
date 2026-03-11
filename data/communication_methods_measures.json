@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-10T09:32:28Z",
-  "trending_from": "2024-03-10",
+  "updated_at": "2026-03-11T09:31:19Z",
+  "trending_from": "2024-03-11",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4045,
+        "citation_count": 4048,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2288,
+        "citation_count": 2289,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 866,
+        "citation_count": 867,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 770,
+        "citation_count": 771,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 419,
+        "citation_count": 420,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -2076,362 +2076,6 @@
         ],
         "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (N<sub>users</sub> = 315; N<sub>records</sub> = 9,868,209; N<sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2383453",
-        "title": "JST and rJST: joint estimation of sentiment and topics in textual data using a semi-supervised approach",
-        "authors": [
-          "Christian Pipal",
-          "Martijn Schoonvelde",
-          "Gijs Schumacher",
-          "Max Boiten"
-        ],
-        "year": 2024,
-        "citation_count": 4,
-        "topics": [
-          "Sentiment analysis",
-          "Topic modeling",
-          "Political communication",
-          "Semi-supervised learning"
-        ],
-        "abstract": "This paper demonstrates the performance of the Joint Sentiment Topic model (JST) and the reversed Joint Sentiment Topic model (rJST) in measuring sentiment in political speeches, comparing them against a set of popular methods for sentiment analysis: widely used off-the-shelf sentiment dictionaries; an embeddings-enhanced dictionary approach; Latent Semantic Scaling, a semi-supervised approach; and a zero-shot transformer-based approach using a large language model (GPT-4). The findings reveal JST’s superiority over all non-transformer-based approaches in predicting human-coded sentiment in multiple languages and its ability to replicate known sentiment trends in legislative speech. rJST, meanwhile, provides valuable topic-specific sentiment estimates, responsive to political dynamics and significant events. Both models are, however, outperformed by transformer-based models like GPT-4. Additionally, the paper introduces the ’sentitopics’ R-package, designed to facilitate the use of JST and rJST in computational text analysis workflows. This package is compatible with popular text analysis tools, making the models accessible for applied researchers in communication science.",
-        "url": "https://doi.org/10.1080/19312458.2024.2383453",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2378690",
-        "title": "On Measurement Validity and Language Models: Increasing Validity and Decreasing Bias with Instructions",
-        "authors": [
-          "Moritz Laurer",
-          "Wouter van Atteveldt",
-          "Andreu Casas",
-          "Kasper Welbers"
-        ],
-        "year": 2024,
-        "citation_count": 3,
-        "topics": [
-          "Language models",
-          "Measurement validity",
-          "Bias in NLP",
-          "Computational text analysis"
-        ],
-        "abstract": "Language models like BERT or GPT are becoming increasingly popular measurement tools, but are the measurements they produce valid? Literature suggests that there is still a relevant gap between the ambitions of computational text analysis methods and the validity of their outputs. One prominent threat to validity is hidden biases in the training data, where models learn group-specific language patterns instead of the concept researchers want to measure. This paper investigates to what extent these biases impact the validity of measurements created with language models. We conduct a comparative analysis across nine group types in four datasets with three types of classification models, focusing on the robustness of models against biases and on the validity of their outputs. While we find that all types of models learn biases, the effects on validity are surprisingly small. In particular when models receive instructions as an additional input, they become more robust against biases from the fine-tuning data and produce more valid measurements across different groups. An instruction-based model (BERT-NLI) sees its average test-set performance decrease by only 0.4% F1 macro when trained on biased data and its error probability on groups it has not seen during training increases only by 0.8%.",
-        "url": "https://doi.org/10.1080/19312458.2024.2378690",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2413973",
-        "title": "Using State Space Grids to Quantify and Examine Dynamics of Dyadic Conversation",
-        "authors": [
-          "Miriam Brinberg",
-          "Denise Haunani Solomon",
-          "Graham D. Bodie",
-          "Susanne M. Jones",
-          "Nilàm Ram"
-        ],
-        "year": 2024,
-        "citation_count": 3,
-        "topics": [
-          "Dyadic interaction",
-          "Conversation dynamics",
-          "State space grids",
-          "Nonlinear dynamics"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2024.2413973",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2551693",
-        "title": "Classification bias of LLMs in detecting incivility towards female and male politicians in German social media discourse",
-        "authors": [
-          "Anke Stoll",
-          "Jingyuan Yu",
-          "Aliya Andrich",
-          "Emese Domahidi"
-        ],
-        "year": 2025,
-        "citation_count": 2,
-        "topics": [
-          "Large Language Models",
-          "Incivility detection",
-          "Gender bias",
-          "Social media analysis"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2551693",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2443396",
-        "title": "Automated object detection in mobile eye-tracking research: comparing manual coding with tag detection, shape detection, matching, and machine learning",
-        "authors": [
-          "Claire M. Segijn",
-          "Pernu Menheer",
-          "Garim Lee",
-          "Eunah Kim",
-          "David Olsen",
-          "Alicia Hofelich Mohr"
-        ],
-        "year": 2024,
-        "citation_count": 2,
-        "topics": [
-          "Eye-tracking",
-          "Object detection",
-          "Automated coding",
-          "Machine learning"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2024.2443396",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2500329",
-        "title": "The Extended Morality as Cooperation Dictionary (eMACD): A Crowd-Sourced Approach via the Moral Narrative Analyzer Platform",
-        "authors": [
-          "Musa Malik",
-          "Sungbin Youk",
-          "Frederic R. Hopp",
-          "Oliver Scott Curry",
-          "Marc Cheong",
-          "Mark Alfano",
-          "René Weber"
-        ],
-        "year": 2025,
-        "citation_count": 2,
-        "topics": [
-          "Moral communication",
-          "Crowdsourcing",
-          "Narrative analysis",
-          "Digital methodology"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2500329",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2549707",
-        "title": "Topic modeling of video and image data: a visual semantic unsupervised approach",
-        "authors": [
-          "Ayse D. Lokmanoglu",
-          "Dror Walter"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Topic modeling",
-          "Visual content analysis",
-          "Media representation",
-          "Semantic clustering"
-        ],
-        "abstract": "Understanding visual narratives is crucial for examining the evolving dynamics of media representation. This study introduces VisTopics, a computational framework designed to analyze large-scale visual datasets through an end-to-end pipeline encompassing frame extraction, deduplication, and semantic clustering. Applying VisTopics to a dataset of 452 NBC News videos resulted in reducing 11,070 frames to 6,928 deduplicated frames, which were then semantically analyzed to uncover 35 topics ranging from political events to environmental crises. By integrating Latent Dirichlet Allocation with caption-based semantic analysis, VisTopics demonstrates its potential to unravel patterns in visual framing across diverse contexts. This approach enables longitudinal studies and cross-platform comparisons, shedding light on the intersection of media, technology, and public discourse. The study validates the method's reliability through human coding accuracy metrics and emphasizes its scalability for communication research. By bridging the gap between visual representation and semantic meaning, VisTopics provides a transformative tool for advancing the methodological toolkit in computational media studies. Future research may leverage VisTopics for comparative analyses across media outlets or geographic regions, offering insights into the shifting landscapes of media narratives and their societal implications.",
-        "url": "https://doi.org/10.1080/19312458.2025.2549707",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2553300",
-        "title": "Can we use automated approaches to measure the quality of online political discussion? How to (not) measure interactivity, diversity, rationality, and incivility in online comments to the news",
-        "authors": [
-          "Sjoerd Stolwijk",
-          "Mark Boukes",
-          "Wang Ngai Yeung",
-          "Y. P. Liao",
-          "Simon Münker",
-          "Anne C. Kroon",
-          "Damian Trilling"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Online political discussion",
-          "Automated content analysis",
-          "Comment quality measurement",
-          "Digital civility"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2553300",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2562034",
-        "title": "Whose truth is it anyway? An experiment on annotation bias in times of factual opinion polarization",
-        "authors": [
-          "Mariken Anna Catharina Geertruida van der Velden",
-          "Felicia Löecherbach",
-          "Wouter van Atteveldt",
-          "Antske Fokkens",
-          "Myrthe Reuver",
-          "Kasper Welbers"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Annotation bias",
-          "Political polarization",
-          "NLP benchmarks",
-          "Fact-checking"
-        ],
-        "abstract": "Information shapes citizens’ political decision-making. This process is amply studied by social scientists, for whom human annotation is a crucial instrument in their toolkit. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these benchmarks more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Currently, disagreement and bias are often conflated–ignoring the possibility of annotator sample bias and valid disagreement. In a preregistered experiment in the Netherlands and a close replication in the U.S. we show that personal characteristics of annotators, like political ideology or knowledge, can interfere with annotators’ judgment of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
-        "url": "https://doi.org/10.1080/19312458.2025.2562034",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2388098",
-        "title": "Bootstrapping public entities. Domain-specific NER for public speakers",
-        "authors": [
-          "Sami Nenno"
-        ],
-        "year": 2024,
-        "citation_count": 1,
-        "topics": [
-          "Named Entity Recognition",
-          "Computational social science",
-          "Public discourse analysis"
-        ],
-        "abstract": "Named Entity Recognition (NER) is a supervised machine learning task that finds various applications in automated content analysis, as the identification of entities is vital for understanding public discourse. However, sometimes the standard NER labels are not specific enough for a given domain. We introduce Public Entity Recognition (PER). PER is a domain-specific version of NER, that is trained for five entity types that are common to public discourse: politicians, parties, authorities, media, and journalists. PER can be used for pre-processing documents, in a pipeline with other classifiers or directly for analyzing information in texts. The taxonomy for PER is taken from the database of (German) public speakers and aims at low-threshold integration into computational social science research. We experiment with different training settings, involving weakly supervised training and training on manually annotated data. We evaluate multilingual transformer models of different sizes against rule-based entity matching and find that the models do not only outperform the baseline but also reach competitive absolute scores of around .8 and higher in F1. We further test for generalization and domain adaptation. We show that with only around 100–150 additional sentences, the model can be adapted to new languages.",
-        "url": "https://doi.org/10.1080/19312458.2024.2388098",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2554864",
-        "title": "Beyond the binary? Automated gender classification of social media profiles",
-        "authors": [
-          "Miriam Siemon"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Gender classification",
-          "Social media",
-          "Automated content analysis",
-          "Binary categories"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2554864",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2573265",
-        "title": "Using hidden Markov models to assess and correct for measurement error in digital trace data",
-        "authors": [
-          "Paulina Pankowska",
-          "Alexandru Cernat",
-          "Florian Keusch",
-          "Ruben L. Bach"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Hidden Markov models",
-          "Measurement error",
-          "Digital trace data",
-          "Computational methods"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2573265",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2026.2627548",
-        "title": "Felt Time Scale (FTS): Measuring how people experience screen time",
-        "authors": [
-          "Jana Dombrowski",
-          "Sabine Trepte"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Screen time perception",
-          "Temporal experience",
-          "Digital media",
-          "Time perception measurement"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2026.2627548",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2575468",
-        "title": "Critical, but constructive: defining, detecting, and addressing bias in Computational Social Science",
-        "authors": [
-          "Valerie Hase",
-          "Marko Bachl",
-          "Nathan TeBlunthuis"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Computational Social Science",
-          "Bias detection",
-          "Research methodology",
-          "Algorithmic bias"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2575468",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2026.2613829",
-        "title": "Navigating Ambiguities: A Systematic Review and Comparative Analysis of Social Bot Detection Methods in Communication Research",
-        "authors": [
-          "Xiao Meng",
-          "Xiaohui Wang",
-          "Kaiqi Yang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Social bots",
-          "Bot detection methods",
-          "Computational communication",
-          "Social media analysis"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2026.2613829",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2542725",
-        "title": "The public that engages invisibly: what visible engagement fails to capture in online political communication",
-        "authors": [
-          "Yijing Chen",
-          "Zoltán Kmetty",
-          "Gerardo Íñiguez",
-          "Elisa Omodei"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Online political polarization",
-          "Invisible engagement",
-          "Platform APIs",
-          "Selective exposure"
-        ],
-        "abstract": "Measurements of political polarization online have so far largely focused on visible traces accessible through platform APIs, neglecting invisible traces that are not recorded or otherwise unavailable to researchers, which can reveal key aspects of political engagement online. Our study addresses this gap by investigating the polarization measurement bias that arises when only visible engagement is analyzed, uncovering disparities at both the user and channel levels. Analyzing a combined dataset that links survey responses with YouTube digital traces through data donation from a sample of Hungarian Internet users (=758), we find that users who engage visibly through commenting are more politically polarized, and exhibit a greater level of selective exposure to content than users who engage invisibly through viewing. Moreover, ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, relying solely on public comment data may simplify, even overstate the segregation of political channels. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers on YouTube. We highlight the benefits of using combined datasets to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
-        "url": "https://doi.org/10.1080/19312458.2025.2542725",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2605946",
-        "title": "The platform matters: cross-platform differences in data donation willingness, behavior, and bias",
-        "authors": [
-          "Lion Wedel",
-          "Jakob Ohme",
-          "Anna-Theresa Mayer",
-          "Gaisbauer Felix",
-          "Yangliu Fan"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Data donation",
-          "Platform comparison",
-          "Privacy willingness",
-          "Selection bias"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2605946",
         "topics_llm": true
       }
     ]

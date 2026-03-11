@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-03-10T09:36:04Z",
-  "trending_from": "2024-03-10",
+  "updated_at": "2026-03-11T09:31:23Z",
+  "trending_from": "2024-03-11",
   "sections": {
     "most_cited": [
       {
@@ -1371,26 +1371,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2025.1.11.melt",
-        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
-        "authors": [
-          "Christine E. Meltzer",
-          "Michael Scharkow",
-          "Pascal Jürgens"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Gender representation",
-          "Music videos",
-          "Content analysis",
-          "Sexualization"
-        ],
-        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
-        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2025.1.1.neve",
         "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
         "authors": [
@@ -1408,6 +1388,26 @@
         ],
         "abstract": "The introduction of Transformers, neural networks employing self-attention mechanisms, revolutionized Natural Language Processing, handling long-range dependencies and capturing context effectively. Models like BERT and GPT, trained on massive text data, are at the forefront of Large Language Models and have found widespread use in text classification. Despite their benchmark performance, real-world applications pose challenges, including the requirement for substantial labeled data and class balance. Few-shot learning approaches, like the Recognizing Textual Entailment framework, have emerged to address these issues. RTE identifies relationships between a text T and a hypothesis H. T entails H if the meaning of H, as interpreted in the context of T, can be inferred from the meaning of T. This study explores an RTE- based framework for classifying vaccine-related news headlines with only 751 labeled data points distributed unevenly across 10 classes. The study evaluates eight models and procedures. The results highlight that deep transfer learning, combining language and task knowledge, like Transformers and RTE, enables the development of text classification models with superior performance, effectively addressing data scarcity and class imbalance. This approach provides a valuable protocol for creating new text classification models and delivers an advanced automated model for classifying vaccine- related content.",
         "url": "https://doi.org/10.5117/ccr2025.1.1.neve",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.11.melt",
+        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
+        "authors": [
+          "Christine E. Meltzer",
+          "Michael Scharkow",
+          "Pascal Jürgens"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Gender representation",
+          "Music videos",
+          "Content analysis",
+          "Sexualization"
+        ],
+        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
         "topics_llm": true
       },
       {
@@ -2035,387 +2035,6 @@
         "topics_llm": true
       }
     ],
-    "trending": [
-      {
-        "doi": "10.5117/ccr2025.1.6.nenn",
-        "title": "Fact-checks as Data Source? Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
-        "authors": [
-          "Sami Nenno"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Fact-checking",
-          "Content analysis",
-          "Misinformation",
-          "Digital journalism"
-        ],
-        "abstract": "Misinformation has to be uncovered before it can be used for research purposes. This is a resource intensive process, which is why fact-checks have been a popular data source. They have been used directly as proxy for misinformation and indirectly to identify its sources and analyze its content and spread. However, there is little research on the limitations of fact-checks as a data source. Are there patterns in their topics that might lead to biased research results? How does the fact-checkers’ choice of targeting certain actors and social media platforms influence their article’s content? The study provides answers to these questions. It analyzes fact-checks from four German outlets between 2019 and 2023. The study finds that certain topics appear continuously, while for others coverage is event- driven. Furthermore, political actors are covered only to a small extent and even less when they are the originators of misinformation. Finally, fact-checks focus strongly on misinformation on Facebook and the findings indicate that the topic distribution of fact-checks might be different if other platforms were focused. The article discusses the findings with respect to limitations of fact-checks as a data source and concludes with practical recommendations for future research.",
-        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.4.horn",
-        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
-        "authors": [
-          "Benjamin D. Horne",
-          "Michael K. Bowman",
-          "Milo Z. Trujillo",
-          "Maurício Gruppi",
-          "Cody Buntain"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Alternative social media",
-          "Platform economics",
-          "Content distribution",
-          "Digital ecosystems"
-        ],
-        "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
-        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.8.parr",
-        "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
-        "authors": [
-          "Douglas A. Parry",
-          "Roland Tóth"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Smartphone usage measurement",
-          "Android event logs",
-          "Digital behavior tracking",
-          "Methodological analysis"
-        ],
-        "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling these data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics (sessions, glances, app episodes) from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, advancing knowledge of smartphone use patterns and their effects.",
-        "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.7.righ",
-        "title": "CooRTweet: A Generalized R Software for Coordinated Network Detection",
-        "authors": [
-          "Nicola Righetti",
-          "Paul Balluff"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Coordinated behavior detection",
-          "Twitter networks",
-          "Social media analysis",
-          "R software"
-        ],
-        "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
-        "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.12.cros",
-        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
-        "authors": [
-          "James Cross",
-          "Derek Greene",
-          "Stefan Müller",
-          "Martijn Schoonvelde"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Political communication",
-          "Digital campaigns",
-          "Social media strategy",
-          "Constituency engagement"
-        ],
-        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
-        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.3.dumi",
-        "title": "AMMICO, an AI-based Media and Misinformation Content Analysis Tool",
-        "authors": [
-          "Delia Dumitrescu",
-          "Inga S. Ulusoy",
-          "Petr Andriushchenko",
-          "Gwydoin Daskalakis",
-          "Dominic Kempf",
-          "Xianghe Ma"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Misinformation detection",
-          "AI content analysis",
-          "Media analysis tools",
-          "Computational communication"
-        ],
-        "abstract": "ammico (AI-based Media and Misinformation Content Analysis Tool) is a publicly available software package written in Python 3, whose purpose is the simultaneous evaluation of the text and graphical content of image files. After describing the software features, we provide an assessment of its performance using a multi-country, multi-language data set containing COVID-19 social media disinformation posts. We conclude by highlighting the tool’s advantages for communication research.",
-        "url": "https://doi.org/10.5117/ccr2025.1.3.dumi",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.11.melt",
-        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
-        "authors": [
-          "Christine E. Meltzer",
-          "Michael Scharkow",
-          "Pascal Jürgens"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Gender representation",
-          "Music videos",
-          "Content analysis",
-          "Sexualization"
-        ],
-        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
-        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.9.schu",
-        "title": "The Telegram COVID-19 Protest Dataset 2020-2022",
-        "authors": [
-          "Heidi Schulze",
-          "Kilian Buehling",
-          "Maximilian Zehring"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "COVID-19 protests",
-          "Telegram communication",
-          "Social movement mobilization",
-          "Online activism"
-        ],
-        "abstract": "Telegram, known for its hybrid architecture combining features of instant messaging and social networking sites, offers various communication modes and a high degree of anonymity. This has made it a key platform for contentious political movements and extremist actors and the most important platform for COVID-19-related protest communication. This paper presents a novel, manually curated dataset, capturing the German-language COVID-19 protest mobilization on Telegram from 2020 to 2022. The dataset includes public messages from 715 broadcast channels and 229 public group chats N= 5,641,026 messages. Unlike other datasets, this collection was manually classified and processed, providing a detailed longitudinal overview of this movement and its network. Data were collected at multiple points during the observation period, minimizing data loss due to deletions and enhancing the historical value of the dataset. Additional variables, including network data and geolocations, are available for further research. Ethical considerations were addressed through consultation with data protection officers and an ethics review board, ensuring compliance with data protection regulations. The dataset adheres to the FAIR principles, making it accessible and useful for future scholarly research on digital mobilization.",
-        "url": "https://doi.org/10.5117/ccr2025.1.9.schu",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.4.liu",
-        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
-        "authors": [
-          "A. Y. Liu",
-          "Maggie Mengqing Zhang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "AI-generated content",
-          "Bias in summarization",
-          "User-generated content",
-          "Public sentiment"
-        ],
-        "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
-        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.002.yao",
-        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
-        "authors": [
-          "Jielu Yao",
-          "Travis N. Ridout",
-          "Markus Neumann",
-          "Erika Franklin Fowler"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political advertising",
-          "COVID-19 pandemic",
-          "Gender and politics",
-          "Party polarization"
-        ],
-        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
-        "url": "https://doi.org/10.5117/ccr2025.1.002.yao",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.10.wang",
-        "title": "Moralistic Imagination of Two-dimensional Politics: Identity and Moral Correlates of Social Media Engagement",
-        "authors": [
-          "Yifei Wang",
-          "Kokil Jaidka"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political polarization",
-          "Moral foundations",
-          "Social media engagement",
-          "Two-dimensional politics"
-        ],
-        "abstract": "Political polarization in the United States is often framed as an ideological divide between the left and the right. However, emerging research highlights a second, orthogonal dimension: the divide between establishment and anti- establishment movements. While prior work emphasizes the role of morality in shaping political motivations along both dimensions, we extend this by examining how moral rhetoric structures intergroup dynamics within a two-dimensional political space. Using computational linguistic analysis on over 600,000 posts and comments from three representative political communities on Reddit (r/Trump, r/JoeBiden, and r/SandersForPresident), we investigate how moral foundations are invoked differently across these communities. Our results show that anti-establishment communities exhibit consistently higher levels of moral expression than their establishment counterparts. Yet, patterns of engagement suggest that ideological identity—more than anti-establishment alignment—continues to anchor online political engagement. This study contributes a novel computational framework for mapping social identity dynamics in online political communication. Theoretically, it deepens our understanding of how emerging political identities interact with the ideological divide, revealing that while anti-establishment movements may reshape rhetorical styles, the ideological divide remains the primary axis of online political engagement.",
-        "url": "https://doi.org/10.5117/ccr2025.1.10.wang",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.2.yao",
-        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
-        "authors": [
-          "Jielu Yao",
-          "Travis N. Ridout",
-          "Markus Neumann",
-          "Erika Franklin Fowler"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political advertising",
-          "COVID-19 politicization",
-          "Gender and party politics",
-          "Visual communication analysis"
-        ],
-        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
-        "url": "https://doi.org/10.5117/ccr2025.1.2.yao",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.2.toma",
-        "title": "transforEmotion: An Open-Source R Package for Emotion Analysis Using Transformer-Based Generative AI Models",
-        "authors": [
-          "Aleksandar Tomašević",
-          "Hudson Golino",
-          "Alexander P. Christensen"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Emotion Analysis",
-          "Transformer Models",
-          "Natural Language Processing",
-          "Computational Linguistics"
-        ],
-        "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don&apos;t match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
-        "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.3.wede",
-        "title": "Longitudinal Data Donation Behavior and Data Omission across Four Social Media Platforms",
-        "authors": [
-          "Lion Wedel",
-          "Jakob Ohme"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Data donation",
-          "Social media platforms",
-          "Longitudinal behavior",
-          "Data privacy"
-        ],
-        "abstract": "This research article presents insights from a two-wave, longitudinal data donation study across four major social media platforms: TikTok, YouTube, Facebook, and Instagram. We investigate a critical yet underexplored aspect of data donation: allowing participants to delete specific data traces before submission. Our analysis quantifies the impact of this selective omission on data completeness and, consequently, the analytical power of the resulting datasets. Furthermore, leveraging a longitudinal design, we examine the stability of donation and deletion behaviors over time in a panel setting. Findings reveal an overall increase in the platform donor rate in the second wave. However, we also observe substantial donor attrition. Notably, the omission of data traces is predominantly observed among first-time donors.Our results suggest the feasibility of longitudinal data donation research designs. For allowing participants selective data omission, a careful weighing of the trade-offs is necessary, as this practice—when utilized—significantly compromises data completeness.",
-        "url": "https://doi.org/10.5117/ccr2026.1.3.wede",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.1.haga",
-        "title": "Topic Classification of News Articles from URLs Alone",
-        "authors": [
-          "Nick Hagar"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Topic classification",
-          "Natural language processing",
-          "News articles",
-          "Web content analysis"
-        ],
-        "abstract": "This paper presents a novel approach to classifying news articles by topic using only their URLs, addressing growing challenges in accessing article text due to paywalls and scraping restrictions. By fine-tuning a DistilBERT transformer model on URL data alone, I demonstrate topic classification performance that matches or exceeds traditional approaches requiring article text. Across three benchmark datasets spanning multiple languages and over 660,000 articles from more than 11,000 news domains, this URL-based topic classifier achieved superior F1 scores compared to both conventional machine learning methods and existing URL-based techniques. While this method requires more computational resources than simpler topic classification approaches, it dramatically reduces data collection requirements, offering researchers a practical alternative when text access is limited. These findings suggest that news article URLs contain richer semantic information than previously recognized, opening new possibilities for large-scale news content analysis in increasingly restrictive digital environments.",
-        "url": "https://doi.org/10.5117/ccr2026.1.1.haga",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.2.elda",
-        "title": "Visual Framing in the AI Era: Lessons from Manual Approaches for Computational Methods",
-        "authors": [
-          "Kareem El Damanhoury",
-          "Carol Winkler",
-          "Ayse D. Lokmanoglu",
-          "Keyu Alexander Chen"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Visual framing",
-          "Computational communication analysis",
-          "Artificial intelligence",
-          "Manual coding methods"
-        ],
-        "abstract": "Computational methods can minimize the time and resources needed to manually code thousands of images. Yet, they also come with challenges, including validation, algorithmic bias, and privacy concerns. Acknowledging that the pictorial turn has now entered a computational phase, this article reports on a manual and automated coding of 7000+ images to better understand online extremist content. Using Rodriguez and Dimitrova’s (2011) four-tiered model of visual framing, the study compares manual and OpenAI’s ChatGpt4o’s coding of Al-Qaeda and ISIS images across the denotative, semiotic, connotative, and ideological levels. AI coding exhibited moderate to strong performance on denotative variables but was weaker in the semiotic and connotative tiers. The study concludes with a discussion of the advantages of human and AI functioning together to better understand visual framing.",
-        "url": "https://doi.org/10.5117/ccr2026.1.2.elda",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.5.chew",
-        "title": "Machine Translation for Accessible Multi-Language Text Analysis",
-        "authors": [
-          "Edward W. Chew",
-          "Mahasweta Chakraborti",
-          "William Weisman",
-          "Seth Frey"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Machine translation",
-          "Computational methods",
-          "Multilingual analysis",
-          "Natural language processing"
-        ],
-        "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
-        "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.3.kim",
-        "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
-        "authors": [
-          "Sang Jung Kim",
-          "Libin Chen"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Visual framing",
-          "Protest imagery",
-          "Computational analysis",
-          "Generative AI"
-        ],
-        "abstract": "This study presents a theory-driven, three-stage computational framework for analyzing visual framing in protest imagery. Focusing on the Black Lives Matter movement, we examine how visual elements contribute to two well-established frames in protest media coverage: the protest paradigm and solidarity framing. Leveraging GPT-4o and OpenCV, our framework extracts denotative and semiotic features—such as police presence, contestation, solidarity actions, and color contrast—and links these features to higher-order frame classifications using interpretable logistic regression models. The framework includes: (1) feature definition and validation through generative AI and a feature extraction tool, supported by human coders; (2) model training; and (3) predictive application to unseen images. Results show strong alignment between human and machine annotations, as well as high predictive accuracy in identifying the protest paradigm or solidarity frame in BLM images. We also introduce an intra-prompt stability score for the generative AI model to help mitigate hallucination and enhance the reliability of its outputs. This study offers a scalable, replicable, and interpretable approach to visual framing analysis, bridging communication theory with advanced computational tools in the study of visual political communication.",
-        "url": "https://doi.org/10.5117/ccr2026.2.3.kim",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.1.neve",
-        "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
-        "authors": [
-          "Lucio Pereira Neves",
-          "Chico Q. Camargo",
-          "Luisa Massarani"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Textual Entailment",
-          "Vaccine Misinformation",
-          "Few-shot Learning",
-          "Text Classification"
-        ],
-        "abstract": "The introduction of Transformers, neural networks employing self-attention mechanisms, revolutionized Natural Language Processing, handling long-range dependencies and capturing context effectively. Models like BERT and GPT, trained on massive text data, are at the forefront of Large Language Models and have found widespread use in text classification. Despite their benchmark performance, real-world applications pose challenges, including the requirement for substantial labeled data and class balance. Few-shot learning approaches, like the Recognizing Textual Entailment framework, have emerged to address these issues. RTE identifies relationships between a text T and a hypothesis H. T entails H if the meaning of H, as interpreted in the context of T, can be inferred from the meaning of T. This study explores an RTE- based framework for classifying vaccine-related news headlines with only 751 labeled data points distributed unevenly across 10 classes. The study evaluates eight models and procedures. The results highlight that deep transfer learning, combining language and task knowledge, like Transformers and RTE, enables the development of text classification models with superior performance, effectively addressing data scarcity and class imbalance. This approach provides a valuable protocol for creating new text classification models and delivers an advanced automated model for classifying vaccine- related content.",
-        "url": "https://doi.org/10.5117/ccr2025.1.1.neve",
-        "topics_llm": true
-      }
-    ]
+    "trending": []
   }
 }

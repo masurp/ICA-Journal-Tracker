@@ -106,4 +106,55 @@ JOURNALS = [
         "issns": ["2665-9085"],
         "primary_issn": "2665-9085",
     },
+    # ── Cogitatio ─────────────────────────────────────────────────────────────
+    {
+        "id": "media_communication",
+        "name": "Media and Communication",
+        "issns": ["2183-2439"],
+        "primary_issn": "2183-2439",
+    },
+    # ── SAGE (additional) ─────────────────────────────────────────────────────
+    {
+        "id": "cyberpsychology_behavior",
+        "name": "Cyberpsychology, Behavior, and Social Networking",
+        "issns": ["2152-2715", "2152-2723"],
+        "primary_issn": "2152-2715",
+    },
+    {
+        "id": "journalism_sage",
+        "name": "Journalism",
+        "issns": ["1464-8849", "1741-3001"],
+        "primary_issn": "1464-8849",
+    },
+    {
+        "id": "journalism_studies",
+        "name": "Journalism Studies",
+        "issns": ["1461-670X", "1469-9699"],
+        "primary_issn": "1461-670X",
+    },
+    {
+        "id": "jmcq",
+        "name": "Journalism & Mass Communication Quarterly",
+        "issns": ["1077-6990", "2161-430X"],
+        "primary_issn": "1077-6990",
+    },
+    {
+        "id": "european_journal_communication",
+        "name": "European Journal of Communication",
+        "issns": ["0267-3231", "1460-3705"],
+        "primary_issn": "0267-3231",
+    },
+    # ── Taylor & Francis (additional) ─────────────────────────────────────────
+    {
+        "id": "communication_monographs",
+        "name": "Communication Monographs",
+        "issns": ["0363-7751", "1479-5787"],
+        "primary_issn": "0363-7751",
+    },
+    {
+        "id": "journal_broadcasting_electronic_media",
+        "name": "Journal of Broadcasting & Electronic Media",
+        "issns": ["0883-8151", "1550-6878"],
+        "primary_issn": "0883-8151",
+    },
 ]

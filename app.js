@@ -267,7 +267,7 @@ function renderJournalView(journal, publisher, data) {
   `;
 }
 
-function renderJournalTrendsSection(data, journal, publisher) {
+function renderJournalTrendsSection(data, _journal, publisher) {
   const papers = collectPapersFromSections(data, journalTrendsSections);
   const modeButtons = [
     ['alluvial',          'Topic Flow'],
@@ -632,6 +632,14 @@ function renderHeatmapChart(papersByJournal) {
     'Communication Methods and Measures':                    'CMM',
     'Journal of Media Psychology':                           'JMP',
     'Computational Communication Research':                  'CCR',
+    'Cyberpsychology, Behavior, and Social Networking':      'CBSN',
+    'Journalism':                                            'JOU',
+    'Journalism Studies':                                    'JS',
+    'Journalism & Mass Communication Quarterly':             'JMCQ',
+    'European Journal of Communication':                     'EJC',
+    'Communication Monographs':                              'CM',
+    'Journal of Broadcasting & Electronic Media':            'JBEM',
+    'Media and Communication':                               'M&C',
   };
   const abbrev = name => ABBREVS[name] || name.split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 5);
 
@@ -1319,7 +1327,7 @@ function bindToggleButtons(journal, publisher) {
   });
 }
 
-function bindJournalTrendsEvents(data, journal, publisher) {
+function bindJournalTrendsEvents(data, _journal, _publisher) {
   const section = document.getElementById('journal-trends-section');
   if (!section) return;
 

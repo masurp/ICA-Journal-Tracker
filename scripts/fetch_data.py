@@ -131,10 +131,12 @@ def parse_openalex_paper(item: dict) -> dict:
 
 # ── API Passes ────────────────────────────────────────────────────────────────
 
-def fetch_openalex(issn: str, sort: str, from_date: str | None = None) -> list[dict]:
+def fetch_openalex(issn: str, sort: str, from_date: str | None = None, min_citations: int | None = None) -> list[dict]:
     filter_parts = [f"primary_location.source.issn:{issn}", "type:article"]
     if from_date:
         filter_parts.append(f"from_publication_date:{from_date}")
+    if min_citations is not None:
+        filter_parts.append(f"cited_by_count:>{min_citations - 1}")
 
     data = get(OPENALEX_BASE, params={
         "filter": ",".join(filter_parts),
@@ -239,7 +241,7 @@ def fetch_journal(journal: dict, doi_cache: dict[str, dict]) -> dict:
     print(f"        {len(latest)} papers returned")
 
     print(f"  [3/4] OpenAlex — trending (since {trending_from})…")
-    trending = fetch_openalex(issn, sort="cited_by_count:desc", from_date=trending_from)
+    trending = fetch_openalex(issn, sort="cited_by_count:desc", from_date=trending_from, min_citations=5)
     print(f"        {len(trending)} papers returned")
 
     all_papers = deduplicate(cited + latest + trending)
