@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-11T09:31:19Z",
-  "trending_from": "2024-03-11",
+  "updated_at": "2026-03-16T07:16:51Z",
+  "trending_from": "2024-03-16",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4048,
+        "citation_count": 4051,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2289,
+        "citation_count": 2302,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1735,
+        "citation_count": 1741,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 988,
+        "citation_count": 994,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 867,
+        "citation_count": 871,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 771,
+        "citation_count": 773,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 431,
+        "citation_count": 433,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 412,
+        "citation_count": 413,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 260,
+        "citation_count": 263,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 228,
+        "citation_count": 229,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 222,
+        "citation_count": 223,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 164,
+        "citation_count": 165,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -498,6 +498,30 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilàm Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 133,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2012.703834",
         "title": "Testing Equivalence in Communication Research: Theory and Application",
         "authors": [
@@ -514,30 +538,6 @@
         ],
         "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
         "url": "https://doi.org/10.1080/19312458.2012.703834",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilàm Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 132,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       },
       {
@@ -607,7 +607,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 123,
+        "citation_count": 125,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 114,
+        "citation_count": 115,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -686,7 +686,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 111,
+        "citation_count": 113,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -746,7 +746,7 @@
           "Laurel S. Gleason"
         ],
         "year": 2012,
-        "citation_count": 99,
+        "citation_count": 100,
         "topics": [
           "Quantitative research methods",
           "Theory development",
@@ -845,7 +845,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 85,
+        "citation_count": 86,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -1407,7 +1407,7 @@
           "Computational methods",
           "Digital news consumption"
         ],
-        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (N<sub>users</sub> = 315; N<sub>records</sub> = 9,868,209; N<sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
+        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (<i>N</i><sub>users</sub> = 315; <i>N</i><sub>records</sub> = 9,868,209; <i>N</i><sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
         "topics_llm": true
       },
@@ -1425,7 +1425,7 @@
           "Communication research",
           "Evidence alignment"
         ],
-        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages). For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated. Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\" But that inference is mistaken. The reasoning mistake is not specific to that example, but rather is a common mistake in communication research. This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.",
+        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages).For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated.Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\"But that inference is mistaken.The reasoning mistake is not specific to that example, but rather is a common mistake in communication research.This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.Consider the following reasoning: \"Narrative transportation and persuasion are positively correlated: the more individuals are transported by a narrative (carried away by the story, immersed in the story world, etc.), the more persuaded they are.Hence when creating narrative messages meant to persuade, message designers should make the messages highly transporting, because messages that are more transporting will be more persuasive.\"This reasoning sounds quite sensible, but in fact is deeply flawed.The reasoning mistake here is not specific to narrative messages or transportation or persuasion, but instead is a common and general mistake evident in several aspects of communication research.In what follows, this article first specifies and explains the mistake in this reasoning.A second section provides multiple examples of the mistake.A concluding section discusses implications of, and remedies for, this circumstance. The reasoning mistakeTo continue the example: It seems obvious that if individuals who are more transported by a narrative are more persuaded (than individuals not so transported), then narratives that are more transporting will be more persuasive (than narratives that are not so transporting) and hence persuaders should use those narratives that are more transporting.For example, Green and Clark (2013) noted that \"individuals who are more highly transported into narratives show greater attitude, belief and behavior change\" (p.477); one implication drawn was that \"if a smoking scene occurs in a highly transporting movie, it should have a stronger effect on individuals' attitudes and behaviors than a smoking scene in a less transporting film\" (p.481).Similarly, A. J. Dillard et al. (2018) found that among people who read a narrative about skin cancer, greater",
         "url": "https://doi.org/10.1080/19312458.2024.2349987",
         "topics_llm": true
       },
@@ -1467,7 +1467,7 @@
           "Named Entity Recognition",
           "Text Preprocessing"
         ],
-        "abstract": "Topic Modelling has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communications science, in particular.The core strength of TM approaches is the fact that it is essentially a 2-in-1 method, as it both generates clusters into which the texts may fall as well as classifies the texts according to the clusters.Previous research has pointed out that pre-processing text corpora is as much a part of text analysis as the latter stages.Named Entity Recognition, however, is not often thought of when pre-processing texts for analysis and has thus far not received much attention in relation to the TM pipeline.If simply retaining or removing stop words can produce different interpretations of the outcomes of TM, retaining or removing NEs also has consequences on outcomes and interpretations.The current paper analyses the effects that removing/ retaining NEs has on the interpretability of topic models.Both model statistics and human validation are used to address this issue.The results show differences in topics models trained on corpora with and without NEs.TMs trained on corpora where NEs are removed exhibit different structural characteristics, and, more importantly, are perceived differently by human coders.We attempt to formulate recommendations regarding the preprocessing of NEs in TM applications.Topic Modelling (TM) has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communication science, in particular.The core strength of TM approaches is the fact that they essentially are a 2-in-1 method, as a TM both generates clusters into which texts may fall and classifies the texts according to these clusters.Also, TM makes possible the classification of texts without a priori defining these categories, which allows for relatively fast exploration of textual data.It has been extremely useful for clustering and classification of large quantities of text, that would otherwise be unmanageable for conventional analysis approaches.The proliferation of software and dedicated packages made TM a popular choice for dealing with large text corpora.Nevertheless, to make robust inferences from text-as-data methods, TMs require a substantial amount of validation (e.g., Grimmer & Stewart, 2013).Moreover, text-as-data methods in general, and TMs in particular, are quite sensitive to the input data and may result in different outcomes depending on what goes \"in.\"Within text analysis applications, much of the subsequent interpretation of the results strongly depends on the steps that researchers take at the beginning of the analysis (Maier et al., 2018).While such pre-",
+        "abstract": "Topic Modelling has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communications science, in particular. The core strength of TM approaches is the fact that it is essentially a 2-in-1 method, as it both generates clusters into which the texts may fall as well as classifies the texts according to the clusters. Previous research has pointed out that pre-processing text corpora is as much a part of text analysis as the latter stages. Named Entity Recognition, however, is not often thought of when pre-processing texts for analysis and has thus far not received much attention in relation to the TM pipeline. If simply retaining or removing stop words can produce different interpretations of the outcomes of TM, retaining or removing NEs also has consequences on outcomes and interpretations. The current paper analyses the effects that removing/retaining NEs has on the interpretability of topic models. Both model statistics and human validation are used to address this issue. The results show differences in topics models trained on corpora with and without NEs. TMs trained on corpora where NEs are removed exhibit different structural characteristics, and, more importantly, are perceived differently by human coders. We attempt to formulate recommendations regarding the pre-processing of NEs in TM applications.",
         "url": "https://doi.org/10.1080/19312458.2024.2302120",
         "topics_llm": true
       },
@@ -1585,7 +1585,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1633,7 +1633,7 @@
           "Media effects research",
           "Digital trace data"
         ],
-        "abstract": "The availability of individual-level digital trace data offers exciting new ways to study media uses and effects based on the actual content that people encountered. In this article, we argue that to really reap the benefits of this data, we need to update our methodology for automated text analysis. We review challenges for the automatic identification of theoretically relevant concepts in texts along three dimensions: format/style, language, and modality. These dimensions unveil a significantly higher level of diversity and complexity in individual-level digital trace data, as opposed to the content traditionally examined through automated text analysis in our field. Consequently, they provide a valuable perspective for exploring the limitations of traditional approaches. We argue that recent developments within the field of Natural Language Processing, in particular, transfer learning using transformer-based models, have the potential to aid the development, application, and performance of various computational tools. These tools can contribute to the meaningful categorization of the content of social (and other) media.",
+        "abstract": "The availability of individual-level digital trace data offers exciting new ways to study media uses and effects based on the actual content that people encountered. In this article, we argue that to really reap the benefits of this data, we need to update our methodology for automated text analysis. We review challenges for the automatic identification of theoretically relevant concepts in texts along three dimensions: <i>format/style, language</i>, and <i>modality</i>. These dimensions unveil a significantly higher level of diversity and complexity in individual-level digital trace data, as opposed to the content traditionally examined through automated text analysis in our field. Consequently, they provide a valuable perspective for exploring the limitations of traditional approaches. We argue that recent developments within the field of Natural Language Processing, in particular, <i>transfer learning</i> using <i>transformer-based models</i>, have the potential to aid the development, application, and performance of various computational tools. These tools can contribute to the meaningful categorization of the content of social (and other) media.",
         "url": "https://doi.org/10.1080/19312458.2023.2261372",
         "topics_llm": true
       },
@@ -1958,7 +1958,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2023,
-        "citation_count": 35,
+        "citation_count": 36,
         "topics": [
           "Data donations",
           "Digital trace data",
@@ -1982,7 +1982,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 132,
+        "citation_count": 133,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -2052,7 +2052,7 @@
           "Communication research",
           "Evidence alignment"
         ],
-        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages). For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated. Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\" But that inference is mistaken. The reasoning mistake is not specific to that example, but rather is a common mistake in communication research. This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.",
+        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages).For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated.Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\"But that inference is mistaken.The reasoning mistake is not specific to that example, but rather is a common mistake in communication research.This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.Consider the following reasoning: \"Narrative transportation and persuasion are positively correlated: the more individuals are transported by a narrative (carried away by the story, immersed in the story world, etc.), the more persuaded they are.Hence when creating narrative messages meant to persuade, message designers should make the messages highly transporting, because messages that are more transporting will be more persuasive.\"This reasoning sounds quite sensible, but in fact is deeply flawed.The reasoning mistake here is not specific to narrative messages or transportation or persuasion, but instead is a common and general mistake evident in several aspects of communication research.In what follows, this article first specifies and explains the mistake in this reasoning.A second section provides multiple examples of the mistake.A concluding section discusses implications of, and remedies for, this circumstance. The reasoning mistakeTo continue the example: It seems obvious that if individuals who are more transported by a narrative are more persuaded (than individuals not so transported), then narratives that are more transporting will be more persuasive (than narratives that are not so transporting) and hence persuaders should use those narratives that are more transporting.For example, Green and Clark (2013) noted that \"individuals who are more highly transported into narratives show greater attitude, belief and behavior change\" (p.477); one implication drawn was that \"if a smoking scene occurs in a highly transporting movie, it should have a stronger effect on individuals' attitudes and behaviors than a smoking scene in a less transporting film\" (p.481).Similarly, A. J. Dillard et al. (2018) found that among people who read a narrative about skin cancer, greater",
         "url": "https://doi.org/10.1080/19312458.2024.2349987",
         "topics_llm": true
       },
@@ -2074,7 +2074,7 @@
           "Computational methods",
           "Digital news consumption"
         ],
-        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (N<sub>users</sub> = 315; N<sub>records</sub> = 9,868,209; N<sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
+        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (<i>N</i><sub>users</sub> = 315; <i>N</i><sub>records</sub> = 9,868,209; <i>N</i><sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
         "topics_llm": true
       }

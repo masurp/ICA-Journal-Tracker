@@ -1,7 +1,7 @@
 {
   "journal_id": "annals_ica",
-  "updated_at": "2026-03-11T09:31:04Z",
-  "trending_from": "2024-03-11",
+  "updated_at": "2026-03-16T07:16:14Z",
+  "trending_from": "2024-03-16",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Paul M. Leonardi"
         ],
         "year": 2013,
-        "citation_count": 1138,
+        "citation_count": 1141,
         "topics": [
           "Social media",
           "Organizational communication",
@@ -39,7 +39,7 @@
           "Agnieszka Stępińska"
         ],
         "year": 2017,
-        "citation_count": 902,
+        "citation_count": 903,
         "topics": [
           "Political communication",
           "Media choice",
@@ -80,7 +80,7 @@
           "Robert M. McCann"
         ],
         "year": 2003,
-        "citation_count": 726,
+        "citation_count": 729,
         "topics": [
           "Information credibility",
           "Online media trustworthiness",
@@ -180,7 +180,7 @@
           "Torun Lindholm"
         ],
         "year": 2020,
-        "citation_count": 517,
+        "citation_count": 520,
         "topics": [
           "Media trust",
           "News consumption",
@@ -199,7 +199,7 @@
           "James Wdearing"
         ],
         "year": 1988,
-        "citation_count": 497,
+        "citation_count": 498,
         "topics": [
           "Agenda-setting theory",
           "Mass media influence",
@@ -238,7 +238,7 @@
           "Paul J. Wright"
         ],
         "year": 2011,
-        "citation_count": 352,
+        "citation_count": 353,
         "topics": [
           "Media effects",
           "Sexual behavior",
@@ -256,7 +256,7 @@
           "Philip Palmgreen"
         ],
         "year": 1984,
-        "citation_count": 339,
+        "citation_count": 340,
         "topics": [
           "Uses and Gratifications Theory",
           "Media Consumption",
@@ -298,7 +298,7 @@
           "Elina Lindgren"
         ],
         "year": 2020,
-        "citation_count": 319,
+        "citation_count": 320,
         "topics": [
           "Fake news",
           "Mainstream media",
@@ -372,7 +372,7 @@
           "Michael R. Cunningham"
         ],
         "year": 1995,
-        "citation_count": 283,
+        "citation_count": 284,
         "topics": [
           "Social support",
           "Interactive coping",
@@ -640,6 +640,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/23808985.2020.1846135",
+        "title": "Omega over alpha for reliability estimation of unidimensional communication measures",
+        "authors": [
+          "Alan K. Goodboy",
+          "Matthew M. Martin"
+        ],
+        "year": 2020,
+        "citation_count": 166,
+        "topics": [
+          "Measurement reliability",
+          "Coefficient omega",
+          "Cronbach's alpha",
+          "Scale validation"
+        ],
+        "abstract": "Cronbach’s alpha (coefficient α) is the conventional statistic communication scholars use to estimate the reliability of multi-item measurement instruments. For many, if not most communication measures, α should not be calculated for reliability estimation. Instead, coefficient omega (ω) should be reported as it aligns with the definition of reliability itself. In this primer, we review α and ω, and explain why ω should be the new ‘gold standard’ in reliability estimation. Using Mplus, we demonstrate how ω is calculated on an available data set and show how preliminary scales can be revised with ‘ω if item deleted.’ We also list several easy-to-use resources to calculate ω in other software programs. Communication researchers should routinely report ω instead of α.",
+        "url": "https://doi.org/10.1080/23808985.2020.1846135",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/23808985.2014.11679160",
         "title": "Relational and Identity Processes in Communication: A Contextual and Meta-Analytical Review of Communication Accommodation Theory",
         "authors": [
@@ -655,25 +674,6 @@
         ],
         "abstract": "Communication Accommodation Theory (CAT) has served as a cross-disciplinary framework for understanding the adjustments individuals make to create, maintain, or decrease social distance in interactions. We provide a systematic review of CAT by examining 149 articles (1973–2010) to identify categories and trends in the contexts of inquiry, sample characteristics, and locus of assessment. Next, we summarize a meta-analysis of a subset of these articles (k = 76, N = 18,382) to identify effect sizes for specific behaviors (e.g., nonaccommodation, reluctant accommodation) and correlates of these behaviors (e.g., quality of contact, relational solidarity). Theoretical and methodological considerations are discussed.Indicates manuscript was used in contextual or meta-analysis.",
         "url": "https://doi.org/10.1080/23808985.2014.11679160",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/23808985.2020.1846135",
-        "title": "Omega over alpha for reliability estimation of unidimensional communication measures",
-        "authors": [
-          "Alan K. Goodboy",
-          "Matthew M. Martin"
-        ],
-        "year": 2020,
-        "citation_count": 165,
-        "topics": [
-          "Measurement reliability",
-          "Coefficient omega",
-          "Cronbach's alpha",
-          "Scale validation"
-        ],
-        "abstract": "Cronbach’s alpha (coefficient α) is the conventional statistic communication scholars use to estimate the reliability of multi-item measurement instruments. For many, if not most communication measures, α should not be calculated for reliability estimation. Instead, coefficient omega (ω) should be reported as it aligns with the definition of reliability itself. In this primer, we review α and ω, and explain why ω should be the new ‘gold standard’ in reliability estimation. Using Mplus, we demonstrate how ω is calculated on an available data set and show how preliminary scales can be revised with ‘ω if item deleted.’ We also list several easy-to-use resources to calculate ω in other software programs. Communication researchers should routinely report ω instead of α.",
-        "url": "https://doi.org/10.1080/23808985.2020.1846135",
         "topics_llm": true
       },
       {
@@ -815,7 +815,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2024,
-        "citation_count": 139,
+        "citation_count": 140,
         "topics": [
           "Misinformation",
           "Disinformation",
@@ -879,7 +879,7 @@
           "David M. Lydon‐Staley"
         ],
         "year": 2021,
-        "citation_count": 134,
+        "citation_count": 135,
         "topics": [
           "Gender bias",
           "Citation practices",
@@ -986,6 +986,28 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/anncom/wlag006",
+        "title": "Authentic listening as relational praxis: theorizing from interpersonal, journalistic, ethnographic, and community work to a reflexive framework",
+        "authors": [
+          "Jeffrey Lane",
+          "Sanna Ala-Kortesmaa",
+          "Chelsea Peterson-Salahuddin",
+          "Calandra Lindstadt",
+          "Mohan J Dutta"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Authentic listening",
+          "Relational communication",
+          "Power and positionality",
+          "Reflexive methodology"
+        ],
+        "abstract": "Abstract This essay advances the concept of authentic listening as a multidimensional and multilevel process of relational, political, and ethical labor. Rather than conceptualizing authenticity as an individual trait or expressive ideal, as is often the case in communication research, we reframe it as a co-constructed achievement that emerges through listening, and is therefore shaped by power, positionality, and the conditions of reception. Drawing on four cases across different domains (interpersonal identity construction, Black feminist journalism, rural Extension-based health engagement, and urban ethnographic research), we trace three interrelated dimensions: authenticity as relational co-construction; authentic listening as emotional, ethical, and epistemic labor; and authentic listening as infrastructure for trust with community partners. Across these sites, listening is not a neutral behavior as it operates as a structure of relationship through which identities are affirmed, knowledge is legitimized, and voice is either redistributed or constrained. We contribute both conceptual tools and a reflexive, five-part framework to assess when listening practices foster inclusion and when they reproduce harm. In doing so, we call for a shift in communication studies of authenticity: from theorizing performance to theorizing reception, and from valuing expression to practicing accountability.",
+        "url": "https://doi.org/10.1093/anncom/wlag006",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/anncom/wlag008",
         "title": "The field of communication is becoming less disruptive: analyses of citation data over four decades",
         "authors": [
@@ -1044,6 +1066,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/anncom/wlag004",
+        "title": "Effects of data-driven campaigning: an integrative framework, literature review, and research agenda",
+        "authors": [
+          "Xiaotong Chu",
+          "Selina Noetzel",
+          "Marlis Stubenvoll",
+          "Lukas Otto",
+          "Sophie Lecheler",
+          "Jörg Matthes",
+          "Rens Vliegenthart",
+          "Sanne Kruikemeier"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Data-driven campaigning",
+          "Digital political communication",
+          "Voter persuasion",
+          "Election campaigns"
+        ],
+        "abstract": "Abstract The positive and negative consequences of data-driven campaigning (DDC) in the digital era have been hotly debated among policymakers and scholars. This article applies a top–down approach by first introducing a framework to conceptualize the potential individual-level effects of DDC. Based on the framework, we then conducted a literature review to evaluate existing findings. A research agenda is proposed to call for more attention to: (a) DDC with less-sophisticated data use and more communication strategies like message tailoring, (b) the effects of beneficial uses of DDC, including its potential to inform and enlighten voters, (c) how voters process DDC in terms of awareness and attention, (d) context-level characteristics with comparative research designs across countries, and (e) the temporal and reciprocal effects.",
+        "url": "https://doi.org/10.1093/anncom/wlag004",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/anncom/wlag002",
         "title": "Review of Hai Tran’s  <i>Data and narrative in news media: the science of communicating evidence</i>",
         "authors": [
@@ -1099,6 +1146,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/anncom/wlaf027",
+        "title": "“Participation” models for environmental stewardship: roots, trajectories, and core principles from environmental communication and participatory communication for social change",
+        "authors": [
+          "Patrick D. Murphy"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Environmental communication",
+          "Participatory communication",
+          "Community engagement",
+          "Social change"
+        ],
+        "abstract": "Abstract “Participation” in the research trajectories of Participatory Communication for Social Change (PCSC) and Environmental Communication (EC) has been driven by many of the same points of concern, such as community engagement and decision-making power tied to conflict and cooperation. Despite these overlaps, the two subfields have largely developed their understanding of participation in isolation. To help bridge this gap, this article traces the roots and trajectories of PCSC’s and EC’s elaboration of participation through a review of the theoretical contributions and conceptual directions of key thinkers and guiding principles. This inventory is concluded by comparing the two subfields’ main features and common challenges. The article ends with recommendations for charting future paths of research and practice in environmental governance.",
+        "url": "https://doi.org/10.1093/anncom/wlaf027",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/anncom/wlaf026",
         "title": "Ethnography and artificial intelligence: the question of context",
         "authors": [
@@ -1144,7 +1209,7 @@
           "Sabine Einwiller"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Employee appreciation",
           "Organizational communication",
@@ -1724,7 +1789,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2024,
-        "citation_count": 139,
+        "citation_count": 140,
         "topics": [
           "Misinformation",
           "Disinformation",
@@ -1767,7 +1832,7 @@
           "Technology affordances",
           "Platform design and communication"
         ],
-        "abstract": "Most analyses of far-right communication on social media focus on one specific platform, while findings are generalized. In this study, I argue that the far right's use of social media depends on technology affordances – the linkage between platform design and usage – and, thus, might not always be generalizable. After discussing six affordances – persistence, scalability, replicability, connectivity, searchability, and identifiability – I apply them to studies about the far right on Facebook, Twitter, Instagram, YouTube, and Telegram in a systematic literature review. I conclude that most research focuses on aspects linked to connectivity, scalability, and replicability, while persistence, searchability, and identifiability are barely researched so far. I further discuss shortcomings and possibilities for future research to consider aspect of technology affordances.",
+        "abstract": "Most analyses of far-right communication on social media focus on one specific platform, while findings are generalized.In this study, I argue that the far right's use of social media depends on technology affordancesthe linkage between platform design and usageand, thus, might not always be generalizable.After discussing six affordancespersistence, scalability, replicability, connectivity, searchability, and identifiability -I apply them to studies about the far right on Facebook, Twitter, Instagram, YouTube, and Telegram in a systematic literature review.I conclude that most research focuses on aspects linked to connectivity, scalability, and replicability, while persistence, searchability, and identifiability are barely researched so far.I further discuss shortcomings and possibilities for future research to consider aspect of technology affordances.",
         "url": "https://doi.org/10.1080/23808985.2023.2280824",
         "topics_llm": true
       },
@@ -1864,63 +1929,6 @@
         ],
         "abstract": "Talking about mental health conditions is still not commonplace in contemporary societies. This is despite data suggesting that many people around the globe suffer from diverse mental health issues. This submission offers a comprehensive theoretical model–the Media in Mental Health Model (MMH Model)–that conceptualizes the role of the media in explaining why some people with mental health issues seek help while others do not. In doing so, it proposes one possible explanation for how media consumption can influence help-seeking behavior by introducing, reducing, or reinforcing existing stigma, influencing thwarted belongingness, and impacting perceived burdensomeness. Finally, this paper proposes an agenda for future research that primarily aims to unravel the media’s potential to dismantle existing stigma and support help-seeking behavior.",
         "url": "https://doi.org/10.1080/23808985.2023.2231419",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/23808985.2023.2225489",
-        "title": "Health misinformation: what it is, why people believe it, how to counter it",
-        "authors": [
-          "Xiaoli Nan",
-          "Kathryn Thier",
-          "Yuan Wang"
-        ],
-        "year": 2023,
-        "citation_count": 23,
-        "topics": [
-          "Health misinformation",
-          "Misinformation susceptibility",
-          "Fact-checking interventions",
-          "Health communication"
-        ],
-        "abstract": "Despite growing concerns and rapidly expanding research about health misinformation, answers to some fundamental questions remain unclear. Among the open questions are the definition of health misinformation (what is health misinformation?), the psychological drivers of susceptibility to health misinformation (why do people believe it?) and effective interventions for reducing the impact of health misinformation (how to counter it?). In this in-depth review and critical analysis of the growing literature on health misinformation, we seek to answer these questions by proposing a tentative definition for health misinformation, a comprehensive psychological model of susceptibility to health misinformation, and a systematic framework for countering health misinformation, while addressing ongoing debate about the scale of the misinformation problem and the effectiveness of current interventions.",
-        "url": "https://doi.org/10.1080/23808985.2023.2225489",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/23808985.2023.2201601",
-        "title": "How open is communication science? Open-science principles in the field",
-        "authors": [
-          "Mario Haim",
-          "Marc Jungblut"
-        ],
-        "year": 2023,
-        "citation_count": 3,
-        "topics": [
-          "open science",
-          "research methodology",
-          "communication journals",
-          "research transparency"
-        ],
-        "abstract": "Open-science principles, such as open data, shared materials, and pre-registration, are expected to encourage a culture of replication in scientific research. Yet, with its topical and methodological heterogeneity, communication science has been described to fall short of such principles. We analyze the extent to which open-science principles were used in publications from 20 leading communication journals between 2010 and 2020, and compare the results to benchmarks from psychology. Results show that open-science principles were little used in communication science with some variation across methods, but were more consistently used in psychology papers. There was no relationship with scientific impact. This suggests a need for greater attention to open-science principles in communication science, while considering their appropriateness for different study designs.",
-        "url": "https://doi.org/10.1080/23808985.2023.2201601",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/23808985.2023.2201593",
-        "title": "Peeling the pod: towards a research agenda for podcast studies",
-        "authors": [
-          "Tzlil Sharon"
-        ],
-        "year": 2023,
-        "citation_count": 24,
-        "topics": [
-          "Podcast studies",
-          "Audio media",
-          "Media institutionalization",
-          "Sound studies"
-        ],
-        "abstract": "This article explores how the notion of podcast studies came about and questions its future among well-established media fields. Through a close reading of various definitions given to the term podcast in the formative years of its academic institutionalization, a first-time classification of the central traditions in podcast studies is proposed and critically discussed. This theoretical typology – whereby ‘podcast’ is understood as a technological, socio-cultural, or formalistic concept – draws attention to the complexities and limitations in justifying the very idea of studying podcasting as an autonomous media field. The critical meta-review leads to six research avenues that can make podcasting uniquely meaningful and innovative in wider contexts of media theory, such as sound studies, digital archiving, and everyday studies.",
-        "url": "https://doi.org/10.1080/23808985.2023.2201593",
         "topics_llm": true
       }
     ],

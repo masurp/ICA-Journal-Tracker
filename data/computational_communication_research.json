@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-03-11T09:31:23Z",
-  "trending_from": "2024-03-11",
+  "updated_at": "2026-03-16T07:16:56Z",
+  "trending_from": "2024-03-16",
   "sections": {
     "most_cited": [
       {
@@ -170,6 +170,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.001.joo",
+        "title": "Image as Data: Automated Content Analysis for Visual Presentations of Political Actors and Events",
+        "authors": [
+          "Jungseock Joo",
+          "ZACHARY STEINERT-THRELKELD"
+        ],
+        "year": 2022,
+        "citation_count": 28,
+        "topics": [
+          "Visual Content Analysis",
+          "Political Communication",
+          "Automated Image Recognition",
+          "Social Media"
+        ],
+        "abstract": "Images matter because they help individuals evaluate policies, primarily through emotional resonance, and can help researchers from a variety of fields measure otherwise difficult to estimate quantities. The lack of scalable analytic methods, however, has prevented researchers from incorporating large scale image data in studies. This article offers an in-depth overview of automated methods for image analysis and explains their usage and implementation. It elaborates on how these methods and results can be validated and interpreted and discusses ethical concerns. Two examples then highlight approaches to systematically understanding visual presentations of political actors and events from large scale image datasets collected from social media. The first study examines gender and party differences in the self-presentation of the U.S. politicians through their Facebook photographs, using an off-the-shelf computer vision model, Google’s Label Detection API. The second study develops image classifiers based on convolutional neural networks to detect custom labels from images of protesters shared on Twitter to understand how protests are framed on social media. These analyses demonstrate advantages of computer vision and deep learning as a novel analytic tool that can expand the scope and size of traditional visual analysis to thousands of features and millions of images. The paper also provides comprehensive technical details and practices to help guide political communication scholars and practitioners.",
+        "url": "https://doi.org/10.5117/ccr2022.1.001.joo",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2021.1.001.chan",
         "title": "Four best practices for measuring news sentiment using ‘off-the-shelf’ dictionaries: a large-scale p-hacking experiment",
         "authors": [
@@ -192,25 +211,6 @@
         ],
         "abstract": "We examined the validity of 37 sentiment scores based on dictionary-based methods using a large news corpus and demonstrated the risk of generating a spectrum of results with different levels of statistical significance by presenting an analysis of relationships between news sentiment and U.S. presidential approval. We summarize our findings into four best practices: 1) use a suitable sentiment dictionary; 2) do not assume that the validity and reliability of the dictionary is ‘built-in’; 3) check for the influence of content length and 4) do not use multiple dictionaries to test the same statistical hypothesis.",
         "url": "https://doi.org/10.5117/ccr2021.1.001.chan",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.001.joo",
-        "title": "Image as Data: Automated Content Analysis for Visual Presentations of Political Actors and Events",
-        "authors": [
-          "Jungseock Joo",
-          "ZACHARY STEINERT-THRELKELD"
-        ],
-        "year": 2022,
-        "citation_count": 27,
-        "topics": [
-          "Visual Content Analysis",
-          "Political Communication",
-          "Automated Image Recognition",
-          "Social Media"
-        ],
-        "abstract": "Images matter because they help individuals evaluate policies, primarily through emotional resonance, and can help researchers from a variety of fields measure otherwise difficult to estimate quantities. The lack of scalable analytic methods, however, has prevented researchers from incorporating large scale image data in studies. This article offers an in-depth overview of automated methods for image analysis and explains their usage and implementation. It elaborates on how these methods and results can be validated and interpreted and discusses ethical concerns. Two examples then highlight approaches to systematically understanding visual presentations of political actors and events from large scale image datasets collected from social media. The first study examines gender and party differences in the self-presentation of the U.S. politicians through their Facebook photographs, using an off-the-shelf computer vision model, Google’s Label Detection API. The second study develops image classifiers based on convolutional neural networks to detect custom labels from images of protesters shared on Twitter to understand how protests are framed on social media. These analyses demonstrate advantages of computer vision and deep learning as a novel analytic tool that can expand the scope and size of traditional visual analysis to thousands of features and millions of images. The paper also provides comprehensive technical details and practices to help guide political communication scholars and practitioners.",
-        "url": "https://doi.org/10.5117/ccr2022.1.001.joo",
         "topics_llm": true
       },
       {
@@ -299,7 +299,7 @@
           "Yilang Peng"
         ],
         "year": 2022,
-        "citation_count": 19,
+        "citation_count": 20,
         "topics": [
           "Visual aesthetics",
           "Computational analysis",
@@ -1070,6 +1070,32 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2026.1.4.sun",
+        "title": "When More Shots Don’t Help: LLM Sensitivity and Variability in Social Media Annotation and Stance Detection of Health Information",
+        "authors": [
+          "Luhang Sun",
+          "Varsha Pendyala",
+          "Yun-Shiuan Chuang",
+          "Shanglin Yang",
+          "Jonathan Feldman",
+          "Andrew Zhao",
+          "Munmun  De Choudhury",
+          "Sijia Yang",
+          "D.V. Shah"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Large Language Models",
+          "Stance Detection",
+          "Health Misinformation",
+          "Social Media Analysis"
+        ],
+        "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
+        "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2026.1.3.wede",
         "title": "Longitudinal Data Donation Behavior and Data Omission across Four Social Media Platforms",
         "authors": [
@@ -1128,6 +1154,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2026.2.5.foot",
+        "title": "Reddit Conversation Laboratory: Field experiments with conversational AI agents",
+        "authors": [
+          "Jeremy Foote",
+          "Loizos Bitsikokos",
+          "Hitesh Goel",
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Conversational AI",
+          "Field experiments",
+          "Reddit",
+          "Human-AI interaction"
+        ],
+        "abstract": "LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.",
+        "url": "https://doi.org/10.5117/ccr2026.2.5.foot",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2026.2.3.kim",
         "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
         "authors": [
@@ -1144,24 +1191,6 @@
         ],
         "abstract": "This study presents a theory-driven, three-stage computational framework for analyzing visual framing in protest imagery. Focusing on the Black Lives Matter movement, we examine how visual elements contribute to two well-established frames in protest media coverage: the protest paradigm and solidarity framing. Leveraging GPT-4o and OpenCV, our framework extracts denotative and semiotic features—such as police presence, contestation, solidarity actions, and color contrast—and links these features to higher-order frame classifications using interpretable logistic regression models. The framework includes: (1) feature definition and validation through generative AI and a feature extraction tool, supported by human coders; (2) model training; and (3) predictive application to unseen images. Results show strong alignment between human and machine annotations, as well as high predictive accuracy in identifying the protest paradigm or solidarity frame in BLM images. We also introduce an intra-prompt stability score for the generative AI model to help mitigate hallucination and enhance the reliability of its outputs. This study offers a scalable, replicable, and interpretable approach to visual framing analysis, bridging communication theory with advanced computational tools in the study of visual political communication.",
         "url": "https://doi.org/10.5117/ccr2026.2.3.kim",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.6.nenn",
-        "title": "Fact-checks as Data Source? Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
-        "authors": [
-          "Sami Nenno"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Fact-checking",
-          "Content analysis",
-          "Misinformation",
-          "Digital journalism"
-        ],
-        "abstract": "Misinformation has to be uncovered before it can be used for research purposes. This is a resource intensive process, which is why fact-checks have been a popular data source. They have been used directly as proxy for misinformation and indirectly to identify its sources and analyze its content and spread. However, there is little research on the limitations of fact-checks as a data source. Are there patterns in their topics that might lead to biased research results? How does the fact-checkers’ choice of targeting certain actors and social media platforms influence their article’s content? The study provides answers to these questions. It analyzes fact-checks from four German outlets between 2019 and 2023. The study finds that certain topics appear continuously, while for others coverage is event- driven. Furthermore, political actors are covered only to a small extent and even less when they are the originators of misinformation. Finally, fact-checks focus strongly on misinformation on Facebook and the findings indicate that the topic distribution of fact-checks might be different if other platforms were focused. The article discusses the findings with respect to limitations of fact-checks as a data source and concludes with practical recommendations for future research.",
-        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
         "topics_llm": true
       },
       {
@@ -1182,28 +1211,6 @@
         ],
         "abstract": "Telegram, known for its hybrid architecture combining features of instant messaging and social networking sites, offers various communication modes and a high degree of anonymity. This has made it a key platform for contentious political movements and extremist actors and the most important platform for COVID-19-related protest communication. This paper presents a novel, manually curated dataset, capturing the German-language COVID-19 protest mobilization on Telegram from 2020 to 2022. The dataset includes public messages from 715 broadcast channels and 229 public group chats N= 5,641,026 messages. Unlike other datasets, this collection was manually classified and processed, providing a detailed longitudinal overview of this movement and its network. Data were collected at multiple points during the observation period, minimizing data loss due to deletions and enhancing the historical value of the dataset. Additional variables, including network data and geolocations, are available for further research. Ethical considerations were addressed through consultation with data protection officers and an ethics review board, ensuring compliance with data protection regulations. The dataset adheres to the FAIR principles, making it accessible and useful for future scholarly research on digital mobilization.",
         "url": "https://doi.org/10.5117/ccr2025.1.9.schu",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.4.horn",
-        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
-        "authors": [
-          "Benjamin D. Horne",
-          "Michael K. Bowman",
-          "Milo Z. Trujillo",
-          "Maurício Gruppi",
-          "Cody Buntain"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Alternative social media",
-          "Platform economics",
-          "Content distribution",
-          "Digital ecosystems"
-        ],
-        "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
-        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
         "topics_llm": true
       },
       {
@@ -1228,6 +1235,47 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.12.cros",
+        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
+        "authors": [
+          "James Cross",
+          "Derek Greene",
+          "Stefan Müller",
+          "Martijn Schoonvelde"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Political communication",
+          "Digital campaigns",
+          "Social media strategy",
+          "Constituency engagement"
+        ],
+        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
+        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.11.melt",
+        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
+        "authors": [
+          "Christine E. Meltzer",
+          "Michael Scharkow",
+          "Pascal Jürgens"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Gender representation",
+          "Music videos",
+          "Content analysis",
+          "Sexualization"
+        ],
+        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2025.1.10.wang",
         "title": "Moralistic Imagination of Two-dimensional Politics: Identity and Moral Correlates of Social Media Engagement",
         "authors": [
@@ -1244,27 +1292,6 @@
         ],
         "abstract": "Political polarization in the United States is often framed as an ideological divide between the left and the right. However, emerging research highlights a second, orthogonal dimension: the divide between establishment and anti- establishment movements. While prior work emphasizes the role of morality in shaping political motivations along both dimensions, we extend this by examining how moral rhetoric structures intergroup dynamics within a two-dimensional political space. Using computational linguistic analysis on over 600,000 posts and comments from three representative political communities on Reddit (r/Trump, r/JoeBiden, and r/SandersForPresident), we investigate how moral foundations are invoked differently across these communities. Our results show that anti-establishment communities exhibit consistently higher levels of moral expression than their establishment counterparts. Yet, patterns of engagement suggest that ideological identity—more than anti-establishment alignment—continues to anchor online political engagement. This study contributes a novel computational framework for mapping social identity dynamics in online political communication. Theoretically, it deepens our understanding of how emerging political identities interact with the ideological divide, revealing that while anti-establishment movements may reshape rhetorical styles, the ideological divide remains the primary axis of online political engagement.",
         "url": "https://doi.org/10.5117/ccr2025.1.10.wang",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.2.yao",
-        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
-        "authors": [
-          "Jielu Yao",
-          "Travis N. Ridout",
-          "Markus Neumann",
-          "Erika Franklin Fowler"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political advertising",
-          "COVID-19 politicization",
-          "Gender and party politics",
-          "Visual communication analysis"
-        ],
-        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
-        "url": "https://doi.org/10.5117/ccr2025.1.2.yao",
         "topics_llm": true
       },
       {
@@ -1294,7 +1321,7 @@
           "Paul Balluff"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Coordinated behavior detection",
           "Twitter networks",
@@ -1303,27 +1330,6 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.12.cros",
-        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
-        "authors": [
-          "James Cross",
-          "Derek Greene",
-          "Stefan Müller",
-          "Martijn Schoonvelde"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Political communication",
-          "Digital campaigns",
-          "Social media strategy",
-          "Constituency engagement"
-        ],
-        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
-        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
         "topics_llm": true
       },
       {
@@ -1345,6 +1351,46 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.6.nenn",
+        "title": "Fact-checks as Data Source? Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
+        "authors": [
+          "Sami Nenno"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Fact-checking",
+          "Content analysis",
+          "Misinformation",
+          "Digital journalism"
+        ],
+        "abstract": "Misinformation has to be uncovered before it can be used for research purposes. This is a resource intensive process, which is why fact-checks have been a popular data source. They have been used directly as proxy for misinformation and indirectly to identify its sources and analyze its content and spread. However, there is little research on the limitations of fact-checks as a data source. Are there patterns in their topics that might lead to biased research results? How does the fact-checkers’ choice of targeting certain actors and social media platforms influence their article’s content? The study provides answers to these questions. It analyzes fact-checks from four German outlets between 2019 and 2023. The study finds that certain topics appear continuously, while for others coverage is event- driven. Furthermore, political actors are covered only to a small extent and even less when they are the originators of misinformation. Finally, fact-checks focus strongly on misinformation on Facebook and the findings indicate that the topic distribution of fact-checks might be different if other platforms were focused. The article discusses the findings with respect to limitations of fact-checks as a data source and concludes with practical recommendations for future research.",
+        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.4.horn",
+        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
+        "authors": [
+          "Benjamin D. Horne",
+          "Michael K. Bowman",
+          "Milo Z. Trujillo",
+          "Maurício Gruppi",
+          "Cody Buntain"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Alternative social media",
+          "Platform economics",
+          "Content distribution",
+          "Digital ecosystems"
+        ],
+        "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
+        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
         "topics_llm": true
       },
       {
@@ -1371,6 +1417,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.2.yao",
+        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
+        "authors": [
+          "Jielu Yao",
+          "Travis N. Ridout",
+          "Markus Neumann",
+          "Erika Franklin Fowler"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Political advertising",
+          "COVID-19 politicization",
+          "Gender and party politics",
+          "Visual communication analysis"
+        ],
+        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
+        "url": "https://doi.org/10.5117/ccr2025.1.2.yao",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2025.1.1.neve",
         "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
         "authors": [
@@ -1388,26 +1455,6 @@
         ],
         "abstract": "The introduction of Transformers, neural networks employing self-attention mechanisms, revolutionized Natural Language Processing, handling long-range dependencies and capturing context effectively. Models like BERT and GPT, trained on massive text data, are at the forefront of Large Language Models and have found widespread use in text classification. Despite their benchmark performance, real-world applications pose challenges, including the requirement for substantial labeled data and class balance. Few-shot learning approaches, like the Recognizing Textual Entailment framework, have emerged to address these issues. RTE identifies relationships between a text T and a hypothesis H. T entails H if the meaning of H, as interpreted in the context of T, can be inferred from the meaning of T. This study explores an RTE- based framework for classifying vaccine-related news headlines with only 751 labeled data points distributed unevenly across 10 classes. The study evaluates eight models and procedures. The results highlight that deep transfer learning, combining language and task knowledge, like Transformers and RTE, enables the development of text classification models with superior performance, effectively addressing data scarcity and class imbalance. This approach provides a valuable protocol for creating new text classification models and delivers an advanced automated model for classifying vaccine- related content.",
         "url": "https://doi.org/10.5117/ccr2025.1.1.neve",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.11.melt",
-        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
-        "authors": [
-          "Christine E. Meltzer",
-          "Michael Scharkow",
-          "Pascal Jürgens"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Gender representation",
-          "Music videos",
-          "Content analysis",
-          "Sexualization"
-        ],
-        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
-        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
         "topics_llm": true
       },
       {
@@ -1796,24 +1843,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.1.7.zinn",
-        "title": "Political discussions in online oppositional communities in the non-democratic context",
-        "authors": [
-          "Aidar Zinnatullin"
-        ],
-        "year": 2023,
-        "citation_count": 0,
-        "topics": [
-          "Political polarization",
-          "Online discourse",
-          "Oppositional communities",
-          "Incivility"
-        ],
-        "abstract": "Taking into account YouTube’s specific role in the Russian media system and the increasing level of political polarization in the country, this study examines the role of incivility in discussions and whether discussions in an anti-government community represent a place for disagreement between pro-opposition and pro-government users. I argue that an online environment helps these sides meet each other rather than creating echo chambers of like-minded users. Moreover, in the quite restrictive Russian context for political deliberation, the incivility of messages plays a role in further involving commenters in discussions. Using the corpus of comments posted in the discussion section of opposition leader Alexei Navalny’s YouTube channel, I exploited class affinity modeling to identify pro-government and pro-opposition stances. Incivility was studied based on Google’s Perspective API toxicity classifier. I found that users avoid extreme forms of incivility when interacting with other commenters, but uncivil comments are more likely to start discussion threads. Furthermore, the level of incivility in comments gets higher over time after a video release. Pro- government sentiments, on the one hand, are associated with a subsequent response from Navalny’s supporters to the out- group criticism and, on the other hand, contribute to the further formation of hubs with a pro-government narrative. This research contributes to the extant literature on affective polarization on social media, shedding light on political discussions within an oppositional community in a non-democracy.",
-        "url": "https://doi.org/10.5117/ccr2023.1.7.zinn",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.1.13.bern",
         "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
         "authors": [
@@ -1853,6 +1882,24 @@
         ],
         "abstract": "Comparative research in communication often involves selecting and analyzing documents in multiple languages. Machine translation is an effective preprocessing step for automated content analysis, however its impact on data collection remains under-examined. Using a parallel language corpus of European Parliament debates, this paper evaluates machine translation as an approach for multilingual document retrieval, i.e., selecting documents for analysis. We compare several strategies for retrieving relevant multilingual documents, including 1) expert-validated search queries, 2) machine translated search queries, and 3) multilingual semantic similarity search, comparing them against monolingual searches, and describing how these strategies can impact results from topic modeling. Results show that expert-validated search queries achieve reliable results across languages, while the accuracy of machine translated search queries varies significantly between languages and impacts further analyses. Whereas semantic similarity search retrieved a similar subset of relevant documents across languages, results were less accurate than keyword approaches. In sum, validated translations of search queries can be effective for multilingual document retrieval, but errors can lead to systematic bias in further analysis results. These results are important for researchers seeking opportunities to introduce, validate and generalize findings and theories beyond English-speaking countries.",
         "url": "https://doi.org/10.5117/ccr2023.2.5.pali",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.7.zinn",
+        "title": "Political discussions in online oppositional communities in the non-democratic context",
+        "authors": [
+          "Aidar Zinnatullin"
+        ],
+        "year": 2023,
+        "citation_count": 0,
+        "topics": [
+          "Political polarization",
+          "Online discourse",
+          "Oppositional communities",
+          "Incivility"
+        ],
+        "abstract": "Taking into account YouTube’s specific role in the Russian media system and the increasing level of political polarization in the country, this study examines the role of incivility in discussions and whether discussions in an anti-government community represent a place for disagreement between pro-opposition and pro-government users. I argue that an online environment helps these sides meet each other rather than creating echo chambers of like-minded users. Moreover, in the quite restrictive Russian context for political deliberation, the incivility of messages plays a role in further involving commenters in discussions. Using the corpus of comments posted in the discussion section of opposition leader Alexei Navalny’s YouTube channel, I exploited class affinity modeling to identify pro-government and pro-opposition stances. Incivility was studied based on Google’s Perspective API toxicity classifier. I found that users avoid extreme forms of incivility when interacting with other commenters, but uncivil comments are more likely to start discussion threads. Furthermore, the level of incivility in comments gets higher over time after a video release. Pro- government sentiments, on the one hand, are associated with a subsequent response from Navalny’s supporters to the out- group criticism and, on the other hand, contribute to the further formation of hubs with a pro-government narrative. This research contributes to the extant literature on affective polarization on social media, shedding light on political discussions within an oppositional community in a non-democracy.",
+        "url": "https://doi.org/10.5117/ccr2023.1.7.zinn",
         "topics_llm": true
       },
       {
@@ -1933,6 +1980,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.2.ho",
+        "title": "Evaluating Transferability in Multilingual Text Analyses",
+        "authors": [
+          "Justin Chun‐ting Ho",
+          "Chung‐hong Chan"
+        ],
+        "year": 2023,
+        "citation_count": 1,
+        "topics": [
+          "Multilingual NLP",
+          "Text Analysis",
+          "Cross-linguistic Transfer",
+          "Model Interpretability"
+        ],
+        "abstract": "The validity of multilingual text analysis should be studied through the lens of transferability, the equivalence in applicability of the method across different language contexts. This study has three purposes, first, it formally conceptualizes transferability in multilingual text analysis and introduces the concepts of linguistic and contextual transferability. Second, it proposes a novel approach to evaluate the transferability using natural and synthetic data pairs and the Local Interpretable Model-Agnostic Explanations technique. Finally, it demonstrates how to properly conduct error analysis using the proposed approach and presents a suggested workflow and a practical guide. Using a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language speaking countries of the Comparative Agendas Project as an example, we demonstrate the linguistic and societal transferability using the testing material of parliamentary data from UK, Basque, Hong Kong, and Taiwan. This study sheds light on the transferability of mBERT for four scenarios of high and low linguistic and contextual similarity and illustrates the common causes that lead to prediction error in multilingual topic classification using mBERT.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.ho",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.2.4.dele",
         "title": "URLs Can Facilitate Machine Learning Classification of News Stories Across Languages and Contexts",
         "authors": [
@@ -1950,25 +2016,6 @@
         ],
         "abstract": "Comparative scholars studying political news content at scale face the challenge of addressing multiple languages. While many train individual supervised machine learning classifiers for each language, this is a costly and time-consuming process. We propose that instead of relying on thematic labels generated by manual coding, researchers can use ‘distant’ labels created by cues in article URLs. Sections reflected in URLs (e.g., nytimes.com/politics/) can therefore help create training material for supervised machine learning classifiers. Using cues provided by news media organizations, such an approach allows for efficient political news identification at scale while facilitating implementation across languages. Using a dataset of approximately 870,000 URLs of news-related content from four countries (Italy, Germany, Netherlands, and Poland), we test this method by providing a comparison to ‘classical’ supervised machine learning and a multilingual BERT model, across four news topics. Our results suggest that the use of URL section cues to distantly annotate texts provides a cheap and easy-to- implement way of classifying large volumes of news texts that can save researchers many valuable resources without having to sacrifice quality.",
         "url": "https://doi.org/10.5117/ccr2023.2.4.dele",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.ho",
-        "title": "Evaluating Transferability in Multilingual Text Analyses",
-        "authors": [
-          "Justin Chun‐ting Ho",
-          "Chung‐hong Chan"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Multilingual NLP",
-          "Text Analysis",
-          "Cross-linguistic Transfer",
-          "Model Interpretability"
-        ],
-        "abstract": "The validity of multilingual text analysis should be studied through the lens of transferability, the equivalence in applicability of the method across different language contexts. This study has three purposes, first, it formally conceptualizes transferability in multilingual text analysis and introduces the concepts of linguistic and contextual transferability. Second, it proposes a novel approach to evaluate the transferability using natural and synthetic data pairs and the Local Interpretable Model-Agnostic Explanations technique. Finally, it demonstrates how to properly conduct error analysis using the proposed approach and presents a suggested workflow and a practical guide. Using a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language speaking countries of the Comparative Agendas Project as an example, we demonstrate the linguistic and societal transferability using the testing material of parliamentary data from UK, Basque, Hong Kong, and Taiwan. This study sheds light on the transferability of mBERT for four scenarios of high and low linguistic and contextual similarity and illustrates the common causes that lead to prediction error in multilingual topic classification using mBERT.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.ho",
         "topics_llm": true
       },
       {
@@ -1991,47 +2038,6 @@
         ],
         "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
         "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.8.wang",
-        "title": "Cross-Platform Information Flow and Multilingual Text Analysis: A Comparative Study of Weibo and Twitter Through Deep Learning",
-        "authors": [
-          "Zituo Wang",
-          "Jiayi Zhu",
-          "Yixuan Xu",
-          "Dong-Gyu Kim",
-          "Dmitri Williams"
-        ],
-        "year": 2023,
-        "citation_count": 14,
-        "topics": [
-          "Social media analysis",
-          "Multilingual text classification",
-          "Cross-platform information flow",
-          "Deep learning sentiment analysis"
-        ],
-        "abstract": "&lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; &lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; This study delved into cross-platform information flow and multilingual text analysis by examining social media posts on Weibo and Twitter in Chinese and English. We investigated public opinions about a violent restaurant attack in China that received widespread attention and validated three strategies of Bidirectional Encoder Representations from Transformers (BERT) to classify multilingual social media posts regarding their attitudes, targets, and frames. This study found that there was more criticism than support on Twitter than on Weibo when calling for social justice. When targeting the governments, Weibo users focused more on the local level, while Twitter users focused more on the state level. When framing their opinions, Weibo users focused more on gender violence, while Twitter users focused more on gang violence. These variations within social media posts across platforms were fundamentally influenced by the interruption of transnational information flow as a result of Chinese governance and censorship of the internet. Through the “porous censorship,” social media users’ autonomy and trust in the government played critical roles in the dynamics between online criticism and authoritarian responsiveness. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
-        "url": "https://doi.org/10.5117/ccr2023.1.8.wang",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.14.haim",
-        "title": "Device-Dependent Biases in Mobile Online News",
-        "authors": [
-          "Mario Haim",
-          "Cornelius Puschmann"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Mobile news consumption",
-          "Search engine bias",
-          "News source diversity",
-          "Mobile optimization"
-        ],
-        "abstract": "One in four German internet users claims that search engines are their main gateway to news and a majority of Germans reports to primarily use their smartphone over their laptop/desktop computer to access news online. Yet, search-engine providers such as Google have repeatedly pointed out to actively favor specific forms of technical content optimization for mobile devices (e.g., Accelerated Mobile Pages), raising the question of whether this preference results in biases toward mobile-optimized content. In light of regulatory changes, this study investigates source diversity and source prominence in news items related to a range of issues presented to users when searching for news-related subjects via a smartphone or laptop/desktop computer in Germany. Using agent-based testing, 75,767 searches were performed on Google in mid-2020, applying a dynamic set of search terms on a range of different topics. Results indicate significant discrepancies in source diversity and source prominence between smartphone and laptop/desktop computers that can largely be attributed to mobile-optimized content likely to reach primarily younger news consumers who favor mobile devices. Overall, however, source diversity is equally high on both types of devices, highlighting the necessity for future research to focus on algorithmic influences on societies shared understandings of relevance beyond source diversity.",
-        "url": "https://doi.org/10.5117/ccr2023.1.14.haim",
         "topics_llm": true
       }
     ],
