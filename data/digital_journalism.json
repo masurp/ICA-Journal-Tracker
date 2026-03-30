@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-03-23T07:09:57Z",
-  "trending_from": "2024-03-23",
+  "updated_at": "2026-03-30T07:27:01Z",
+  "trending_from": "2024-03-30",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2048,
+        "citation_count": 2052,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -70,7 +70,7 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 507,
+        "citation_count": 509,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
@@ -88,7 +88,7 @@
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 475,
+        "citation_count": 478,
         "topics": [
           "Artificial intelligence",
           "Automated journalism",
@@ -220,7 +220,7 @@
           "Karin Wahl‐Jorgensen"
         ],
         "year": 2019,
-        "citation_count": 343,
+        "citation_count": 345,
         "topics": [
           "Journalism studies",
           "Emotion in media",
@@ -257,7 +257,7 @@
           "Oscar Westlund"
         ],
         "year": 2014,
-        "citation_count": 329,
+        "citation_count": 331,
         "topics": [
           "Journalism studies",
           "Cross-media news production",
@@ -275,7 +275,7 @@
           "Natali Helberger"
         ],
         "year": 2019,
-        "citation_count": 328,
+        "citation_count": 330,
         "topics": [
           "News recommenders",
           "Democratic media",
@@ -294,7 +294,7 @@
           "Tim Groot Kormelink"
         ],
         "year": 2014,
-        "citation_count": 318,
+        "citation_count": 319,
         "topics": [
           "News consumption",
           "Media technology adoption",
@@ -333,7 +333,7 @@
           "Alfred Hermida"
         ],
         "year": 2013,
-        "citation_count": 280,
+        "citation_count": 281,
         "topics": [
           "Twitter",
           "Journalism",
@@ -351,7 +351,7 @@
           "Silvio Waisbord"
         ],
         "year": 2020,
-        "citation_count": 279,
+        "citation_count": 280,
         "topics": [
           "Online harassment",
           "Journalist safety",
@@ -389,7 +389,7 @@
           "Oscar Westlund"
         ],
         "year": 2014,
-        "citation_count": 267,
+        "citation_count": 268,
         "topics": [
           "Big data",
           "Journalism",
@@ -445,7 +445,7 @@
           "Thomas Schmidt"
         ],
         "year": 2019,
-        "citation_count": 257,
+        "citation_count": 258,
         "topics": [
           "Automated journalism",
           "Human-Machine Communication",
@@ -484,7 +484,7 @@
           "Damian Trilling"
         ],
         "year": 2018,
-        "citation_count": 254,
+        "citation_count": 255,
         "topics": [
           "Algorithmic curation",
           "Editorial selection",
@@ -502,7 +502,7 @@
           "Michael Ann DeVito"
         ],
         "year": 2016,
-        "citation_count": 254,
+        "citation_count": 255,
         "topics": [
           "Algorithmic curation",
           "News Feed",
@@ -579,7 +579,7 @@
           "Marcel Broersma"
         ],
         "year": 2016,
-        "citation_count": 235,
+        "citation_count": 236,
         "topics": [
           "Personal branding",
           "Twitter",
@@ -618,7 +618,7 @@
           "Julian Wallace"
         ],
         "year": 2017,
-        "citation_count": 231,
+        "citation_count": 232,
         "topics": [
           "Gatekeeping theory",
           "Algorithms",
@@ -656,7 +656,7 @@
           "Mark Coddington"
         ],
         "year": 2020,
-        "citation_count": 217,
+        "citation_count": 218,
         "topics": [
           "Online harassment",
           "Journalist-audience relationships",
@@ -687,6 +687,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2012.756666",
+        "title": "INNOVATION AND THE FUTURE OF JOURNALISM",
+        "authors": [
+          "John V. Pavlik"
+        ],
+        "year": 2013,
+        "citation_count": 210,
+        "topics": [
+          "Digital journalism",
+          "Media innovation",
+          "News industry transformation",
+          "Digital revenue models"
+        ],
+        "abstract": "Journalism and the media are in the midst of tumultuous change, driven at least in part by technological and economic uncertainty on a global scale. The thesis of this paper is that the key to the viability of news media in the digital age, as demonstrated by both long- and short-term patterns, is innovation. To insure long-term success, innovation in news media should be guided by four principles: intelligence or research, a commitment to freedom of speech, a dedication to the pursuit of truth and accuracy in reporting, and ethics. Evidence is presented that early innovation by news media leaders that adhere to the principles outlined here are finding success in both building audience and generating digital revenue.",
+        "url": "https://doi.org/10.1080/21670811.2012.756666",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2016.1167612",
         "title": "Ethical Challenges of Algorithmic Journalism",
         "authors": [
@@ -706,24 +724,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2012.756666",
-        "title": "INNOVATION AND THE FUTURE OF JOURNALISM",
-        "authors": [
-          "John V. Pavlik"
-        ],
-        "year": 2013,
-        "citation_count": 209,
-        "topics": [
-          "Digital journalism",
-          "Media innovation",
-          "News industry transformation",
-          "Digital revenue models"
-        ],
-        "abstract": "Journalism and the media are in the midst of tumultuous change, driven at least in part by technological and economic uncertainty on a global scale. The thesis of this paper is that the key to the viability of news media in the digital age, as demonstrated by both long- and short-term patterns, is innovation. To insure long-term success, innovation in news media should be guided by four principles: intelligence or research, a commitment to freedom of speech, a dedication to the pursuit of truth and accuracy in reporting, and ethics. Evidence is presented that early innovation by news media leaders that adhere to the principles outlined here are finding success in both building audience and generating digital revenue.",
-        "url": "https://doi.org/10.1080/21670811.2012.756666",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2015.1096598",
         "title": "Taking Stock of the Toolkit",
         "authors": [
@@ -731,7 +731,7 @@
           "Damian Trilling"
         ],
         "year": 2015,
-        "citation_count": 209,
+        "citation_count": 210,
         "topics": [
           "Digital journalism",
           "Computational methods",
@@ -787,7 +787,7 @@
           "Jessica L. Eklund"
         ],
         "year": 2019,
-        "citation_count": 206,
+        "citation_count": 207,
         "topics": [
           "Fake news",
           "Ad tech platforms",
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 186,
+        "citation_count": 187,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -1123,7 +1123,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Algorithmic personalization",
           "News consumption",
@@ -1179,7 +1179,7 @@
           "Tim Groot Kormelink"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Social media platforms",
           "News consumption",
@@ -1458,7 +1458,7 @@
           "Digital platforms",
           "Professional identity"
         ],
-        "abstract": "",
+        "abstract": "Journalism’s role transformation from gatekeeper to one of many communicating actors on digital platforms increasingly necessitates the profession to reflect on the societal value it can provide on digital platforms. Applying the concepts of ‘public value’ and ‘platformization,’ this case study examines funk, a unique content network from German public service media that produces content mainly for a young audience using social media platforms for distribution. Building on a newsroom observation that informed subsequent qualitative interviews with nine members of funk, the findings reveal that, while public value perceptions align with traditional understandings of public value, they are adapted to the digital environment. Furthermore, the funk members reflect on reaching the target group, interactivity, and technical features of digital platforms to enhance public value, while also stressing the boundaries mainly stemming from the commercially-oriented logic of digital platforms.",
         "url": "https://doi.org/10.1080/21670811.2025.2582158",
         "topics_llm": true
       },
@@ -1849,7 +1849,7 @@
           "Jon Benedik Bunquin"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Artificial intelligence",
           "Journalism",
@@ -2013,7 +2013,7 @@
           "Frank Esser"
         ],
         "year": 2024,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Alternative media",
           "Misinformation",
@@ -2044,22 +2044,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2332609",
-        "title": "The War in Ukraine Through the Prism of Visual Disinformation and the Limits of Specialized Fact-Checking. A Case-Study at <i>Le Monde</i>",
+        "doi": "10.1080/21670811.2024.2431519",
+        "title": "Policies in Parallel? A Comparative Study of Journalistic AI Policies in 52 Global News Organisations",
         "authors": [
-          "Pauline Zecchinon",
-          "Olivier Standaert"
+          "Kim-Björn Becker",
+          "Felix M. Simon",
+          "Christopher Crum"
         ],
-        "year": 2024,
-        "citation_count": 16,
+        "year": 2025,
+        "citation_count": 15,
         "topics": [
-          "Visual disinformation",
-          "Fact-checking",
-          "Ukraine conflict",
-          "Media analysis"
+          "Artificial intelligence in journalism",
+          "Media policy",
+          "Comparative analysis",
+          "News organizations"
         ],
-        "abstract": "The Russian invasion of Ukraine in February 2022 led to a flood of disinformation circulating online, making fact-checking and verification crucial for journalists covering the conflict. Based on five semi-structured interviews and an analysis of 48 debunks published between February and October 2022, this study aims to understand how Les Décodeurs, the fact-checking unit of the French daily newspaper Le Monde, organized its practices in response to the flow of visual disinformation surrounding the conflict, and to place them within the broader framework of practices and categorizations of previous research on fact-checking and disinformation. The findings show that most fact-checks focuses on authentic images with misleading captions, rather than sophisticated manipulation. Previous categorizations prove their ability to describe the 48 pieces of visual disinformation but a more refined approach is suggested by considering visual disinformation as mainly multi-modal. The study reveals the fact-checkers’ role as gatekeepers in filtering content from social networks and addressing the challenge of countering viral disinformation while avoiding unintended amplification. It also identifies a blend of shared and individualized approaches among fact-checking journalists, including manual and pre-digital methods, reflecting the adaptable nature of their work. Based on the latest developments of gatekeeping functions, the study highlights limitations in the challenge of reconciling reactive and retroactive practices with mid-term editorial considerations in a rapidly evolving media ecosystem.",
-        "url": "https://doi.org/10.1080/21670811.2024.2332609",
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2431519",
         "topics_llm": true
       },
       {
@@ -2082,26 +2083,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2024.2435579",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2431519",
-        "title": "Policies in Parallel? A Comparative Study of Journalistic AI Policies in 52 Global News Organisations",
-        "authors": [
-          "Kim-Björn Becker",
-          "Felix M. Simon",
-          "Christopher Crum"
-        ],
-        "year": 2025,
-        "citation_count": 14,
-        "topics": [
-          "Artificial intelligence in journalism",
-          "Media policy",
-          "Comparative analysis",
-          "News organizations"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2024.2431519",
         "topics_llm": true
       },
       {
@@ -2241,6 +2222,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2505982",
+        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
+        "authors": [
+          "Hannes Cools",
+          "Claes H. de Vreese"
+        ],
+        "year": 2025,
+        "citation_count": 9,
+        "topics": [
+          "Artificial Intelligence in journalism",
+          "Professional norms",
+          "Responsible AI",
+          "News organizations"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2505982",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2454516",
         "title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
         "authors": [
@@ -2257,25 +2257,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2025.2454516",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2505982",
-        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
-        "authors": [
-          "Hannes Cools",
-          "Claes H. de Vreese"
-        ],
-        "year": 2025,
-        "citation_count": 8,
-        "topics": [
-          "Artificial Intelligence in journalism",
-          "Professional norms",
-          "Responsible AI",
-          "News organizations"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2505982",
         "topics_llm": true
       },
       {
@@ -2314,6 +2295,44 @@
         ],
         "abstract": "News organisations are growing increasingly dependent on digital infrastructures for the distribution of news, AI implementation, and management of data. In this article, we argue that this dependency goes beyond the level of platforms, reaching into the internet backbone infrastructures that transmit, peer, deliver and host data on which journalism relies. Using Norway as a case, we map the actors involved in the subsea cable sectors, internet exchange points, content delivery networks and the data centres and cloud services that traffic, store and process digital journalism. Given the private, foreign nature of most of the actors involved in these infrastructures, we ask how these backbone infrastructures create interdependencies for the news industries in terms of data sovereignty, distribution control and regulatory jurisdiction. We discuss journalism's dependency on each of these infrastructural sectors using sociotechnical theory, the contribution to which is to extend the range at which platform capture is considered in journalism scholarship.",
         "url": "https://doi.org/10.1080/21670811.2024.2377078",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2475179",
+        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
+        "authors": [
+          "Nina Springer",
+          "Jana Rick"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Journalism precarity",
+          "Occupational stress and coping",
+          "Work conditions",
+          "Media labor"
+        ],
+        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
+        "url": "https://doi.org/10.1080/21670811.2025.2475179",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2435574",
+        "title": "This Isn’t Journalism, It’s Propaganda! Patterns of News Media Bias Accusations on Twitter, 2010–2020",
+        "authors": [
+          "Jesper Strömbäck",
+          "Mathilda Åkerlund"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Media bias",
+          "Social media discourse",
+          "Twitter analysis",
+          "Political polarization"
+        ],
+        "abstract": "In several countries, research shows that mainstream news media have increasingly become a target of political attacks, and a recurring accusation is that the news media are biased politically. Since social media play an important role in circulating accusations of media bias, in this paper we analyze 167,527 Swedish tweets about media bias over a ten-year period using the mixed-methods CADS approach, which incorporates computational processes with discourse analysis. Specifically, we explore the prevalence of bias accusations over time and which news outlets constitute the main targets; from what political perspectives these bias accusations have originated over time; and how discourses accusing the news media of political bias are constructed. Among other things, the results show that accusations of left-wing bias are much more common than accusations of right-wing bias. A key reason is that actors on the political right engage much more frequently in accusations of media bias than their center-left counterparts, and that discourses of media bias are heavily dominated by right-wing populist tropes in which mainstream media are part of the \"corrupt\", lying elite who spread \"politically correct\" disinformation.",
+        "url": "https://doi.org/10.1080/21670811.2024.2435574",
         "topics_llm": true
       },
       {
@@ -2377,6 +2396,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2450312",
+        "title": "News Diversity Under Algorithms: The Effects of Pre-Selected and Self-Selected Personalization on Chinese TikTok (Douyin)",
+        "authors": [
+          "Wen Shi",
+          "Jinhui Li"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Algorithmic personalization",
+          "News diversity",
+          "Social media algorithms",
+          "Filter bubbles"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2450312",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2351523",
         "title": "“Because the News is Depressing as Hell”: Journalists’ Explanations of News Avoidance",
         "authors": [
@@ -2411,44 +2449,6 @@
         ],
         "abstract": "Many journalists regularly experience harassment in their daily work. Audiences in Western democracies have become increasingly aggressive in their communication due to the spread of anti-press sentiments and populist attitudes. This is further facilitated by technological changes, rendering interaction with journalists simple and intrusive. So far, research has found that journalists reporting on specific topics and embodying particular social identities regarding gender, race, sexuality, and religion are predominately and systematically under threat. While these individual factors are important to expose the political targeting of these journalists, we shifted our focus to the different journalist-audience relationships different media outlets establish. In an explorative interview study with 32 German journalists, we analyzed how experiences of harassment are related to the journalist-audience relationships developing in national and local as well as quality, tabloid, constructive, and young audience media. Our findings indicate that these contextual factors determine the composition of the audience, leading journalists to assess closeness or distance differently in the journalist-audience relationship. Subsequently, this results in dissimilar experiences of harassment.",
         "url": "https://doi.org/10.1080/21670811.2024.2351524",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2475179",
-        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
-        "authors": [
-          "Nina Springer",
-          "Jana Rick"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Journalism precarity",
-          "Occupational stress and coping",
-          "Work conditions",
-          "Media labor"
-        ],
-        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
-        "url": "https://doi.org/10.1080/21670811.2025.2475179",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2435574",
-        "title": "This Isn’t Journalism, It’s Propaganda! Patterns of News Media Bias Accusations on Twitter, 2010–2020",
-        "authors": [
-          "Jesper Strömbäck",
-          "Mathilda Åkerlund"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Media bias",
-          "Social media discourse",
-          "Twitter analysis",
-          "Political polarization"
-        ],
-        "abstract": "In several countries, research shows that mainstream news media have increasingly become a target of political attacks, and a recurring accusation is that the news media are biased politically. Since social media play an important role in circulating accusations of media bias, in this paper we analyze 167,527 Swedish tweets about media bias over a ten-year period using the mixed-methods CADS approach, which incorporates computational processes with discourse analysis. Specifically, we explore the prevalence of bias accusations over time and which news outlets constitute the main targets; from what political perspectives these bias accusations have originated over time; and how discourses accusing the news media of political bias are constructed. Among other things, the results show that accusations of left-wing bias are much more common than accusations of right-wing bias. A key reason is that actors on the political right engage much more frequently in accusations of media bias than their center-left counterparts, and that discourses of media bias are heavily dominated by right-wing populist tropes in which mainstream media are part of the \"corrupt\", lying elite who spread \"politically correct\" disinformation.",
-        "url": "https://doi.org/10.1080/21670811.2024.2435574",
         "topics_llm": true
       },
       {
@@ -2488,25 +2488,6 @@
         ],
         "abstract": "Violence against journalists is on the increase around the world: murders, physical assaults, verbal abuse, etc. (Brambila and Hughes 2019; Waisbord 2020). As this has been more likely to occur in countries in extreme risk situations (Frère 2015), the situation in Belgium has never quite been a cause for concern. However, in recent years, Belgian journalists have also been experiencing situations of violence. In a national survey, 5069 Belgian journalists were questioned, 27.5% of whom responded. This article focuses on three specific points: (a) considering the importance of diverse forms of violence (intimidation, verbal violence, physical assault and sexual transgressive behaviours); (b) identifying to what extent certain social and professional identities are more affected, by looking at the gender, age and professional status; (c) analysing the psychological, physical, professional, and legal consequences of this violence and the ways in which journalists react to and cope. Our contribution suggests to study violence against journalists as a whole, not just in public terms but also organisational terms. Finally, we discuss the different dimensions of violence: the experience of, the production of, the resignation to, and the resistance to violence in journalism.",
         "url": "https://doi.org/10.1080/21670811.2025.2452873",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2450312",
-        "title": "News Diversity Under Algorithms: The Effects of Pre-Selected and Self-Selected Personalization on Chinese TikTok (Douyin)",
-        "authors": [
-          "Wen Shi",
-          "Jinhui Li"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Algorithmic personalization",
-          "News diversity",
-          "Social media algorithms",
-          "Filter bubbles"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2450312",
         "topics_llm": true
       },
       {

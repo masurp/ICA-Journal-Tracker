@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-23T07:09:58Z",
-  "trending_from": "2024-03-23",
+  "updated_at": "2026-03-30T07:27:04Z",
+  "trending_from": "2024-03-30",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4057,
+        "citation_count": 4063,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2316,
+        "citation_count": 2325,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1743,
+        "citation_count": 1748,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 996,
+        "citation_count": 998,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 873,
+        "citation_count": 874,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 776,
+        "citation_count": 777,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 435,
+        "citation_count": 437,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 414,
+        "citation_count": 415,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -243,7 +243,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2007,
-        "citation_count": 246,
+        "citation_count": 247,
         "topics": [
           "Statistical power analysis",
           "Research methodology",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 223,
+        "citation_count": 224,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 204,
+        "citation_count": 205,
         "topics": [
           "News framing",
           "Computational methods",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 179,
+        "citation_count": 180,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -478,6 +478,30 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilàm Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 135,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2012.651415",
         "title": "Cautions Regarding the Interpretation of Regression Coefficients and Hypothesis Tests in Linear Models with Interactions",
         "authors": [
@@ -498,30 +522,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilàm Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 134,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2021.1968361",
         "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
         "authors": [
@@ -530,7 +530,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 133,
+        "citation_count": 134,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -815,25 +815,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2014.903390",
-        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
-        "authors": [
-          "Saraswathi Bellur",
-          "S. Shyam Sundar"
-        ],
-        "year": 2014,
-        "citation_count": 87,
-        "topics": [
-          "Heuristics",
-          "Dual process models",
-          "Research methodology",
-          "Social cognition"
-        ],
-        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
-        "url": "https://doi.org/10.1080/19312458.2014.903390",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2022.2109608",
         "title": "Promises and Pitfalls of Social Media Data Donations",
         "authors": [
@@ -845,7 +826,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 87,
+        "citation_count": 89,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -854,6 +835,25 @@
         ],
         "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
         "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2014.903390",
+        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
+        "authors": [
+          "Saraswathi Bellur",
+          "S. Shyam Sundar"
+        ],
+        "year": 2014,
+        "citation_count": 88,
+        "topics": [
+          "Heuristics",
+          "Dual process models",
+          "Research methodology",
+          "Social cognition"
+        ],
+        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
+        "url": "https://doi.org/10.1080/19312458.2014.903390",
         "topics_llm": true
       },
       {
@@ -970,22 +970,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2012.732627",
-        "title": "EDA Positive Change: A Simple Algorithm for Electrodermal Activity to Measure General Audience Arousal During Media Exposure",
+        "doi": "10.1080/19312458.2016.1150973",
+        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
         "authors": [
-          "Dominik J. Leiner",
-          "Andreas Fahr",
-          "Hannah Früh"
+          "Kim Viborg Andersen",
+          "Claes H. de Vreese",
+          "Erik Albæk"
         ],
-        "year": 2012,
+        "year": 2016,
         "citation_count": 77,
         "topics": [
-          "Electrodermal activity",
-          "Audience arousal measurement",
-          "Media psychophysiology"
+          "Media exposure measurement",
+          "Survey methodology",
+          "Media diet",
+          "Self-reported exposure"
         ],
-        "abstract": "Skin conductance provides an inexpensive and nonreactive measure of electrodermal activity (EDA) that is widely used as an arousal indicator. When communication research employs real-world audiovisual stimuli, the measurement sensitivity of EDA-based data can become challenging. Measures that are commonly employed to correlate EDA with continuous stimuli (the tonic skin conductance level and the frequency of skin conductance responses) are replicable for stimuli of one minute or longer. This article discusses positive changes in EDA (EPC) as a measure that integrates the frequency of skin conductance responses with their amplitude while reducing processing complexity and error. The use of EDA data from 115 subjects demonstrates that EPC is a more accurate measure of stimulus-induced arousal than the response frequency, the conductance baseline, and average skin conductance. Assets and drawbacks are discussed in the context of theoretical and practical issues.",
-        "url": "https://doi.org/10.1080/19312458.2012.732627",
+        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
+        "url": "https://doi.org/10.1080/19312458.2016.1150973",
         "topics_llm": true
       }
     ],
@@ -1015,7 +1016,7 @@
         "authors": [
           "Xiao Meng",
           "Xiaohui Wang",
-          "Kaiqi Yang"
+          "Tai-Quan Peng"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1047,7 +1048,7 @@
           "Privacy willingness",
           "Selection bias"
         ],
-        "abstract": "",
+        "abstract": "Data donations are a method to access user-level digital trace data, as they provide fine-grained measures of content exposure on social media. The interest in data donation as a data collection method is accompanied by a broad uncertainty about the reasons that drive the donation of data by users. The current literature lacks comparative analysis across various platforms. This study investigates platform-specific predictors for data donation behavior of a non-probability quota sample of German social media users (N = 2,296) for YouTube, Facebook, Instagram, and TikTok and the resulting non-response biases. Based on the analysis of 340 data donation packages, we find that participants are less likely to donate TikTok data compared to the other platforms. Gender is the main driver during the willingness step for drop offs, while political leaning is a key predictor for all platforms except Facebook during the donation stage. Data donors tend to self-report less active social media usage with news and political content than those who do not donate data. Our findings highlight the importance of considering platform-specific differences in expected donation rates, biases, and the potential for discrepancies between indicated willingness and actual donation behavior when designing and interpreting data donation studies.",
         "url": "https://doi.org/10.1080/19312458.2025.2605946",
         "topics_llm": true
       },
@@ -1122,7 +1123,7 @@
           "Kasper Welbers"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Annotation bias",
           "Political polarization",
@@ -1253,7 +1254,7 @@
           "Sebastian Stier"
         ],
         "year": 2025,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "web scraping",
           "online news consumption",
@@ -1982,7 +1983,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 134,
+        "citation_count": 135,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -1995,6 +1996,28 @@
       }
     ],
     "trending": [
+      {
+        "doi": "10.1080/19312458.2025.2482538",
+        "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
+        "authors": [
+          "Roberto Ulloa",
+          "Frank Mangold",
+          "Felix Schmidt",
+          "J.M. Gilsbach",
+          "Sebastian Stier"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "web scraping",
+          "online news consumption",
+          "measurement bias",
+          "digital media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2025.2482538",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2024.2393165",
         "title": "Uncovering Digital Trace Data Biases: Tracking Undercoverage in Web Tracking Data",
@@ -2014,28 +2037,6 @@
         ],
         "abstract": "Digital trace data is an increasingly popular alternative to surveys, often considered as the gold standard. This study critically assesses the use of web tracking data to study online media exposure. Specifically, we focus on a critical error source of this type of data, tracking undercoverage: researchers’ failure to capture data from all the devices and browsers that individuals utilize to go online. Using data from Spain, Portugal, and Italy, we explore undercoverage in online panels and simulate biases in online media exposure estimates. We show that undercoverage is highly prevalent when using commercial panels, with more than 70% of participants affected. Additionally, the primary determinant of undercoverage is the type and number of devices used, rather than individual’s characteristics. Moreover, through a simulation study, we demonstrate that web tracking estimates are often substantially biased. Methodologically, the paper showcases how auxiliary survey data can help study web tracking errors.",
         "url": "https://doi.org/10.1080/19312458.2024.2393165",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2482538",
-        "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
-        "authors": [
-          "Roberto Ulloa",
-          "Frank Mangold",
-          "Felix Schmidt",
-          "J.M. Gilsbach",
-          "Sebastian Stier"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "web scraping",
-          "online news consumption",
-          "measurement bias",
-          "digital media"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
       {
