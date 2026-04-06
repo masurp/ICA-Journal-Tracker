@@ -1,7 +1,7 @@
 {
   "journal_id": "european_journal_communication",
-  "updated_at": "2026-03-30T07:27:46Z",
-  "trending_from": "2024-03-30",
+  "updated_at": "2026-04-06T07:43:34Z",
+  "trending_from": "2024-04-06",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Steven Livingston"
         ],
         "year": 2018,
-        "citation_count": 1416,
+        "citation_count": 1421,
         "topics": [
           "Disinformation",
           "Democratic institutions",
@@ -30,7 +30,7 @@
           "Winfried Schulz"
         ],
         "year": 2004,
-        "citation_count": 843,
+        "citation_count": 845,
         "topics": [
           "Mediatization",
           "Media theory",
@@ -66,7 +66,7 @@
           "Gunn Enli"
         ],
         "year": 2017,
-        "citation_count": 589,
+        "citation_count": 591,
         "topics": [
           "Twitter",
           "Political campaigns",
@@ -123,7 +123,7 @@
           "Inka Salovaara‐Moring"
         ],
         "year": 2009,
-        "citation_count": 496,
+        "citation_count": 497,
         "topics": [
           "Media systems",
           "Public knowledge",
@@ -227,6 +227,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/0267323112465369",
+        "title": "Age and the effects of news media attention and social media use on political interest and participation: Do social media function as leveller?",
+        "authors": [
+          "Kristoffer Holt",
+          "Adam Shehata",
+          "Jesper Strömbäck",
+          "Elisabet Ljungberg"
+        ],
+        "year": 2013,
+        "citation_count": 364,
+        "topics": [
+          "Digital divide",
+          "Political engagement",
+          "Social media",
+          "Age differences"
+        ],
+        "abstract": "This article investigates how media use differs across age groups- and whether this matters for people’s inclination to participate politically. More specifically, the study investigates the impact of social media use for political purposes and of attention to political news in traditional media, on political interest and offline political participation. The findings, based on a four-wave panel study conducted during the 2010 Swedish national election campaign, show (1) clear differences in media use between age groups and (2) that both political social media use and attention to political news in traditional media increase political engagement over time. Thus, this study suggests that frequent social media use among young citizens can function as a leveller in terms of motivating political participation.",
+        "url": "https://doi.org/10.1177/0267323112465369",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/0267323114539430c",
         "title": "Networks of Outrage and Hope: Social Movements in the Internet Age",
         "authors": [
@@ -242,27 +263,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1177/0267323114539430c",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/0267323112465369",
-        "title": "Age and the effects of news media attention and social media use on political interest and participation: Do social media function as leveller?",
-        "authors": [
-          "Kristoffer Holt",
-          "Adam Shehata",
-          "Jesper Strömbäck",
-          "Elisabet Ljungberg"
-        ],
-        "year": 2013,
-        "citation_count": 361,
-        "topics": [
-          "Digital divide",
-          "Political engagement",
-          "Social media",
-          "Age differences"
-        ],
-        "abstract": "This article investigates how media use differs across age groups- and whether this matters for people’s inclination to participate politically. More specifically, the study investigates the impact of social media use for political purposes and of attention to political news in traditional media, on political interest and offline political participation. The findings, based on a four-wave panel study conducted during the 2010 Swedish national election campaign, show (1) clear differences in media use between age groups and (2) that both political social media use and attention to political news in traditional media increase political engagement over time. Thus, this study suggests that frequent social media use among young citizens can function as a leveller in terms of motivating political participation.",
-        "url": "https://doi.org/10.1177/0267323112465369",
         "topics_llm": true
       },
       {
@@ -345,7 +345,7 @@
           "Bart Cammaerts"
         ],
         "year": 2012,
-        "citation_count": 311,
+        "citation_count": 312,
         "topics": [
           "Social movements",
           "Media representation",
@@ -381,7 +381,7 @@
           "Dag Elgesem"
         ],
         "year": 2020,
-        "citation_count": 302,
+        "citation_count": 303,
         "topics": [
           "Digital research methods",
           "Social media research",
@@ -472,7 +472,7 @@
           "Patrick Vyncke"
         ],
         "year": 2002,
-        "citation_count": 255,
+        "citation_count": 256,
         "topics": [
           "Lifestyle segmentation",
           "Psychographics",
@@ -512,7 +512,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2013,
-        "citation_count": 249,
+        "citation_count": 250,
         "topics": [
           "Online political communication",
           "Political engagement",
@@ -610,7 +610,7 @@
           "Elisabeth Staksrud"
         ],
         "year": 2014,
-        "citation_count": 223,
+        "citation_count": 224,
         "topics": [
           "Online safety",
           "Child internet risks",
@@ -773,7 +773,7 @@
           "Mervi Pantti"
         ],
         "year": 2010,
-        "citation_count": 199,
+        "citation_count": 200,
         "topics": [
           "Broadcast journalism",
           "Emotion in news",
@@ -781,6 +781,23 @@
         ],
         "abstract": "This article engages with current discussions about public emotions by examining journalists’ perceptions of the value of emotional expression in broadcast news. First, the study provides insight into how journalists assess the place and role of emotion in news reporting and the perceived emotionalizing of news. Second, it examines how the journalists’ discourse about emotion is linked to their ideas of ‘good journalism’, as well as to their professional self-image. The data consist of in-depth interviews with television journalists working for both public service and commercial news programmes in Finland and in the Netherlands.",
         "url": "https://doi.org/10.1177/0267323110363653",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/0267323113501148",
+        "title": "The communicative figurations of mediatized worlds: Mediatization research in times of the ‘mediation of everything’",
+        "authors": [
+          "Andreas Hepp"
+        ],
+        "year": 2013,
+        "citation_count": 196,
+        "topics": [
+          "Mediatization",
+          "Media and society",
+          "Communication change"
+        ],
+        "abstract": "When various media in their entirety mark how we articulate our social worlds, we need an approach of mediatization research that reflects this transmediality. To develop such an approach, the article first discusses the ‘institutionalist’ and ‘social-constructivist’ traditions of mediatization research. Both traditions concur in their understanding of mediatization as being a concept to capture the interrelation between the change of media and communication on the one hand, and the change of culture and society on the other hand. Taking this as a foundation it becomes possible to reflect on the role of certain media as ‘moulding forces’, i.e. as certain institutionalizations and reifications of communication. Such a conceptual reflection offers the chance to view the mediatization process as the change of transmedial communicative figurations by which we construct our mediatized worlds. Based on this theoretical foundation, the article subsequently reflects a twofold operationalization, i.e. as diachronous and synchronous mediatization research.",
+        "url": "https://doi.org/10.1177/0267323113501148",
         "topics_llm": true
       },
       {
@@ -799,23 +816,6 @@
         ],
         "abstract": "A comparative study of British and German journalists has brought to light extensive differences in their perception of their role, their professional motivations and their evaluation of the norm of objectivity. Even in countries with freedom of the press, therefore, journalism can develop in completely different directions, dependent upon the political, legal and historical settings. German journalism follows the traditional role of a species of political and intellectual career, which tends to place a lot of value on opinion and less on news. British journalism, in contrast, particularly sees itself in the role of transmitter of facts, a neutral reporter of current affairs.",
         "url": "https://doi.org/10.1177/0267323186001001004",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/0267323113501148",
-        "title": "The communicative figurations of mediatized worlds: Mediatization research in times of the ‘mediation of everything’",
-        "authors": [
-          "Andreas Hepp"
-        ],
-        "year": 2013,
-        "citation_count": 195,
-        "topics": [
-          "Mediatization",
-          "Media and society",
-          "Communication change"
-        ],
-        "abstract": "When various media in their entirety mark how we articulate our social worlds, we need an approach of mediatization research that reflects this transmediality. To develop such an approach, the article first discusses the ‘institutionalist’ and ‘social-constructivist’ traditions of mediatization research. Both traditions concur in their understanding of mediatization as being a concept to capture the interrelation between the change of media and communication on the one hand, and the change of culture and society on the other hand. Taking this as a foundation it becomes possible to reflect on the role of certain media as ‘moulding forces’, i.e. as certain institutionalizations and reifications of communication. Such a conceptual reflection offers the chance to view the mediatization process as the change of transmedial communicative figurations by which we construct our mediatized worlds. Based on this theoretical foundation, the article subsequently reflects a twofold operationalization, i.e. as diachronous and synchronous mediatization research.",
-        "url": "https://doi.org/10.1177/0267323113501148",
         "topics_llm": true
       },
       {
@@ -1012,7 +1012,7 @@
           "Alessio Cornia"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Coordinated inauthentic behavior",
           "Digital authoritarianism",
@@ -1573,32 +1573,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/02673231241290062",
-        "title": "How public service media are changing in the platform era: A comparative study across four European countries",
-        "authors": [
-          "Marius Dragomir",
-          "José Miguel Túñez López"
-        ],
-        "year": 2024,
-        "citation_count": 9,
-        "topics": [
-          "Public service media",
-          "Platform era",
-          "Digital transformation",
-          "European media systems"
-        ],
-        "abstract": "Despite enjoying a series of advantages and privileges, including access to public funding and technical infrastructure, as well as a special regulatory framework allowing them to reach almost the entire population, public service media (PSM) have historically faced a number of challenges. These include opposition from privately held media and various political parties, mounting criticism from audiences, and incessant pressures from state authorities. Some have been more successful than others in defending themselves against these attacks. Some PSM institutions have gained a high level of trust as a result of their ability to maintain a balanced approach to political coverage. Some are recognised for the quality of their news content. However, some other organisations have lost credibility and audience share as a result of various pressures. The platformisation trend has had a particularly disruptive impact on public service media (PSM) organisations. The challenge of adapting to the new digital landscape has been significant, requiring careful navigation to maintain the core values that guide their operations, as defined by the European Broadcasting Union (EBU): universality, independence, excellence, diversity, accountability and innovation. This article employs a recently developed framework for examining PSM and draws upon field research to analyse the transformation of PSM in response to platformisation-related pressures in four European countries: Austria, Romania, Spain and the United Kingdom.",
-        "url": "https://doi.org/10.1177/02673231241290062",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/02673231241290097",
         "title": "Embrace or leave social media? On the viability of public service media organizations’ strategies facing platform power",
         "authors": [
           "Hallvard Moe"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Public service media",
           "Platform power",
@@ -1620,7 +1601,7 @@
           "Emilie Bossens"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Digital literacy",
           "Refugee youth",
@@ -1629,6 +1610,25 @@
         ],
         "abstract": "This article examines how teenage refugees in Europe develop digital skills in and through conditions of vulnerability. We argue that recognising vulnerability as a productive force, rather than merely as context, is crucial if we are to fully understand the emergence, limits and lack of skills among young people experiencing perpetual marginality. Drawing on 96 interviews and five creative workshops with teenage refugees in the cities of Athens, Brussels and London, we discuss three ways in which vulnerability and digital skills become entangled: (i) (dis-)connection, especially in conditions of scarce, interrupted and unsafe digital connectivity; (ii) learning, especially in contexts where digital and transnational literacies co-exist, compete or compensate for educational inequalities; and (iii) digital bordering, especially as this relates to restrictive regimes of mobility control that prolong risks for young refugees’ wellbeing and even life itself.",
         "url": "https://doi.org/10.1177/02673231241245321",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/02673231241290062",
+        "title": "How public service media are changing in the platform era: A comparative study across four European countries",
+        "authors": [
+          "Marius Dragomir",
+          "José Miguel Túñez López"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Public service media",
+          "Platform era",
+          "Digital transformation",
+          "European media systems"
+        ],
+        "abstract": "Despite enjoying a series of advantages and privileges, including access to public funding and technical infrastructure, as well as a special regulatory framework allowing them to reach almost the entire population, public service media (PSM) have historically faced a number of challenges. These include opposition from privately held media and various political parties, mounting criticism from audiences, and incessant pressures from state authorities. Some have been more successful than others in defending themselves against these attacks. Some PSM institutions have gained a high level of trust as a result of their ability to maintain a balanced approach to political coverage. Some are recognised for the quality of their news content. However, some other organisations have lost credibility and audience share as a result of various pressures. The platformisation trend has had a particularly disruptive impact on public service media (PSM) organisations. The challenge of adapting to the new digital landscape has been significant, requiring careful navigation to maintain the core values that guide their operations, as defined by the European Broadcasting Union (EBU): universality, independence, excellence, diversity, accountability and innovation. This article employs a recently developed framework for examining PSM and draws upon field research to analyse the transformation of PSM in response to platformisation-related pressures in four European countries: Austria, Romania, Spain and the United Kingdom.",
+        "url": "https://doi.org/10.1177/02673231241290062",
         "topics_llm": true
       },
       {
@@ -1667,6 +1667,26 @@
         ],
         "abstract": "The communicative environment of public service media (PSM) has changed considerably due to the digital transformation. This includes the dissemination of misinformation and disinformation on social media platforms, which has the potential to undermine democracy. Against this background, the paper argues that the role of PSM should be expanded beyond the core tasks of high-quality, diverse and impartial reporting. PSM should increasingly also act as institutions that monitor social media, evaluate, and validate external information. In addition, they should engage in enhancing media literacy and developing genuine PSM platforms. The paper discusses the opportunities and limitations of each approach and addresses prerequisites for PSM, such as political independence and societal trust. It thus contributes to the understanding how PSM can continue to fulfil their democratic role under new conditions.",
         "url": "https://doi.org/10.1177/02673231241294185",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/02673231241290064",
+        "title": "‘Ye la nuestra’: Exploring how proximity shapes public service media and public service news’ value perception",
+        "authors": [
+          "Marta Rodríguez-Castro",
+          "Azahara Cañedo",
+          "Mónica López-Golán"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Public service media",
+          "Proximity journalism",
+          "Local news",
+          "Audience perception"
+        ],
+        "abstract": "Amidst a global media landscape dominated by transnational conglomerates and tech giants, proximity media face the imperative to reassess their mission and relevance. As market dynamics may lead to news deserts, proximity public service media (PSM) are crucial in catering to underserved audiences with news and entertainment tailored to their nearby environment. This paper draws on insights from seven focus groups involving stakeholders of Radiotelevisión del Principado de Asturias (RTPA), a proximity PSM outlet in northern Spain, to delve into the perspectives of audiences, production companies and advertisers on RTPA's proximity focus and informational role. The findings reveal widespread appreciation for proximity among RTPA's stakeholders, delineated into three dimensions: physical, emotional and economic. Moreover, the expectations on and assessments of RTPA's informational role are rooted in general PSM values such as impartiality, quality and participation. It is concluded that there is a need to explore the values of PSM beyond normative approaches and including the insights of stakeholders, and that proximity PSM outlets must dynamically adapt their values to meet the unique needs of proximity communities.",
+        "url": "https://doi.org/10.1177/02673231241290064",
         "topics_llm": true
       },
       {

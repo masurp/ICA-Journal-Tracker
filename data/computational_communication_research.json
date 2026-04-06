@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-03-30T07:27:08Z",
-  "trending_from": "2024-03-30",
+  "updated_at": "2026-04-06T07:43:12Z",
+  "trending_from": "2024-04-06",
   "sections": {
     "most_cited": [
       {
@@ -35,7 +35,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 69,
+        "citation_count": 70,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 57,
+        "citation_count": 58,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -241,7 +241,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2022,
-        "citation_count": 22,
+        "citation_count": 23,
         "topics": [
           "Topic modeling",
           "Frame analysis",
@@ -689,6 +689,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2024.2.5.welb",
+        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
+        "authors": [
+          "Kasper Welbers",
+          "Felicia Löecherbach",
+          "Zilin Lin",
+          "Damian Trilling"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Data donation",
+          "Media consumption measurement",
+          "Digital trace data",
+          "Research methodology"
+        ],
+        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
+        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.2.7.laur",
         "title": "Lowering the Language Barrier: Investigating Deep Transfer Learning and Machine Translation for Multilingual Analyses of Political Texts",
         "authors": [
@@ -726,27 +747,6 @@
         ],
         "abstract": "Political activity on social media presents a data-rich window into political behavior, but the vast amount of data means that almost all content analyses of social media require a data labeling step. However, most automated machine classification methods ignore the multimodality of posted content, focusing either on text or images. State-of-the-art vision-and-language models are unusable for most political science research: they require all observations to have both image and text and require computationally expensive pretraining. This paper proposes a novel vision-and-language framework called multimodal representations using modality translation (MARMOT). MARMOT presents two methodological contributions: it can construct representations for observations missing image or text, and it replaces the computationally expensive pretraining with modality translation. MARMOT outperforms an ensemble text-only classifier in 19 of 20 categories in multilabel classifications of tweets reporting election incidents during the 2016 U.S. general election. Moreover, MARMOT shows significant improvements over the results of benchmark multimodal models on the Hateful Memes dataset, improving the best result set by VisualBERT in terms of accuracy from 0.6473 to 0.6760 and area under the receiver operating characteristic curve (AUC) from 0.7141 to 0.7530. The GitHub repository for MARMOT can be found at github.com/patrickywu/MARMOT.",
         "url": "https://doi.org/10.5117/ccr2022.1.008.wu",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Data donation",
-          "Media consumption measurement",
-          "Digital trace data",
-          "Research methodology"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
         "topics_llm": true
       },
       {
@@ -1653,7 +1653,7 @@
           "Damian Trilling"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Data donation",
           "Media consumption measurement",
@@ -1673,7 +1673,7 @@
           "Johannes B. Gruber"
         ],
         "year": 2024,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Computational reproducibility",
           "Open Science",
@@ -1980,25 +1980,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.2.2.ho",
-        "title": "Evaluating Transferability in Multilingual Text Analyses",
-        "authors": [
-          "Justin Chun‐ting Ho",
-          "Chung‐hong Chan"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Multilingual NLP",
-          "Text Analysis",
-          "Cross-linguistic Transfer",
-          "Model Interpretability"
-        ],
-        "abstract": "The validity of multilingual text analysis should be studied through the lens of transferability, the equivalence in applicability of the method across different language contexts. This study has three purposes, first, it formally conceptualizes transferability in multilingual text analysis and introduces the concepts of linguistic and contextual transferability. Second, it proposes a novel approach to evaluate the transferability using natural and synthetic data pairs and the Local Interpretable Model-Agnostic Explanations technique. Finally, it demonstrates how to properly conduct error analysis using the proposed approach and presents a suggested workflow and a practical guide. Using a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language speaking countries of the Comparative Agendas Project as an example, we demonstrate the linguistic and societal transferability using the testing material of parliamentary data from UK, Basque, Hong Kong, and Taiwan. This study sheds light on the transferability of mBERT for four scenarios of high and low linguistic and contextual similarity and illustrates the common causes that lead to prediction error in multilingual topic classification using mBERT.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.ho",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.2.4.dele",
         "title": "URLs Can Facilitate Machine Learning Classification of News Stories Across Languages and Contexts",
         "authors": [
@@ -2016,6 +1997,25 @@
         ],
         "abstract": "Comparative scholars studying political news content at scale face the challenge of addressing multiple languages. While many train individual supervised machine learning classifiers for each language, this is a costly and time-consuming process. We propose that instead of relying on thematic labels generated by manual coding, researchers can use ‘distant’ labels created by cues in article URLs. Sections reflected in URLs (e.g., nytimes.com/politics/) can therefore help create training material for supervised machine learning classifiers. Using cues provided by news media organizations, such an approach allows for efficient political news identification at scale while facilitating implementation across languages. Using a dataset of approximately 870,000 URLs of news-related content from four countries (Italy, Germany, Netherlands, and Poland), we test this method by providing a comparison to ‘classical’ supervised machine learning and a multilingual BERT model, across four news topics. Our results suggest that the use of URL section cues to distantly annotate texts provides a cheap and easy-to- implement way of classifying large volumes of news texts that can save researchers many valuable resources without having to sacrifice quality.",
         "url": "https://doi.org/10.5117/ccr2023.2.4.dele",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.2.2.ho",
+        "title": "Evaluating Transferability in Multilingual Text Analyses",
+        "authors": [
+          "Justin Chun‐ting Ho",
+          "Chung‐hong Chan"
+        ],
+        "year": 2023,
+        "citation_count": 1,
+        "topics": [
+          "Multilingual NLP",
+          "Text Analysis",
+          "Cross-linguistic Transfer",
+          "Model Interpretability"
+        ],
+        "abstract": "The validity of multilingual text analysis should be studied through the lens of transferability, the equivalence in applicability of the method across different language contexts. This study has three purposes, first, it formally conceptualizes transferability in multilingual text analysis and introduces the concepts of linguistic and contextual transferability. Second, it proposes a novel approach to evaluate the transferability using natural and synthetic data pairs and the Local Interpretable Model-Agnostic Explanations technique. Finally, it demonstrates how to properly conduct error analysis using the proposed approach and presents a suggested workflow and a practical guide. Using a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language speaking countries of the Comparative Agendas Project as an example, we demonstrate the linguistic and societal transferability using the testing material of parliamentary data from UK, Basque, Hong Kong, and Taiwan. This study sheds light on the transferability of mBERT for four scenarios of high and low linguistic and contextual similarity and illustrates the common causes that lead to prediction error in multilingual topic classification using mBERT.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.ho",
         "topics_llm": true
       },
       {

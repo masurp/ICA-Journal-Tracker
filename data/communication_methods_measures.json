@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-03-30T07:27:04Z",
-  "trending_from": "2024-03-30",
+  "updated_at": "2026-04-06T07:43:08Z",
+  "trending_from": "2024-04-06",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4063,
+        "citation_count": 4071,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2325,
+        "citation_count": 2336,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1748,
+        "citation_count": 1753,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 998,
+        "citation_count": 1001,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 874,
+        "citation_count": 878,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 777,
+        "citation_count": 785,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 437,
+        "citation_count": 438,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 361,
+        "citation_count": 362,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 229,
+        "citation_count": 231,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 224,
+        "citation_count": 225,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 205,
+        "citation_count": 207,
         "topics": [
           "News framing",
           "Computational methods",
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 194,
+        "citation_count": 196,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 184,
+        "citation_count": 185,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 180,
+        "citation_count": 181,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 165,
+        "citation_count": 166,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -490,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 135,
+        "citation_count": 136,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -499,6 +499,26 @@
         ],
         "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
         "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2021.1968361",
+        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
+        "authors": [
+          "Leyla Dogruel",
+          "Philipp K. Masur",
+          "Sven Joeckel"
+        ],
+        "year": 2021,
+        "citation_count": 136,
+        "topics": [
+          "Algorithm literacy",
+          "Digital literacy",
+          "Algorithmic awareness",
+          "Scale development"
+        ],
+        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
+        "url": "https://doi.org/10.1080/19312458.2021.1968361",
         "topics_llm": true
       },
       {
@@ -522,26 +542,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2021.1968361",
-        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
-        "authors": [
-          "Leyla Dogruel",
-          "Philipp K. Masur",
-          "Sven Joeckel"
-        ],
-        "year": 2021,
-        "citation_count": 134,
-        "topics": [
-          "Algorithm literacy",
-          "Digital literacy",
-          "Algorithmic awareness",
-          "Scale development"
-        ],
-        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
-        "url": "https://doi.org/10.1080/19312458.2021.1968361",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2012.703834",
         "title": "Testing Equivalence in Communication Research: Theory and Application",
         "authors": [
@@ -549,7 +549,7 @@
           "Lucy Popova"
         ],
         "year": 2012,
-        "citation_count": 132,
+        "citation_count": 133,
         "topics": [
           "Equivalence testing",
           "Statistical methods",
@@ -570,7 +570,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2019,
-        "citation_count": 131,
+        "citation_count": 132,
         "topics": [
           "Sentiment analysis",
           "Automated content analysis",
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 115,
+        "citation_count": 116,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -779,6 +779,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2022.2109608",
+        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "authors": [
+          "Irene I. van Driel",
+          "Anastasia Giachanou",
+          "J. Loes Pouwels",
+          "Laura Boeschoten",
+          "Ine Beyens",
+          "Patti M. Valkenburg"
+        ],
+        "year": 2022,
+        "citation_count": 93,
+        "topics": [
+          "Data donations",
+          "Social media measurement",
+          "Digital data collection",
+          "Adolescent online behavior"
+        ],
+        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
+        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2013.873777",
         "title": "Experimental Manipulation of Psychological Involvement with Media",
         "authors": [
@@ -797,6 +820,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2014.903390",
+        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
+        "authors": [
+          "Saraswathi Bellur",
+          "S. Shyam Sundar"
+        ],
+        "year": 2014,
+        "citation_count": 91,
+        "topics": [
+          "Heuristics",
+          "Dual process models",
+          "Research methodology",
+          "Social cognition"
+        ],
+        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
+        "url": "https://doi.org/10.1080/19312458.2014.903390",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2019.1594742",
         "title": "The Reliability and Temporal Stability of Self-reported Media Exposure: A Meta-analysis",
         "authors": [
@@ -812,48 +854,6 @@
         ],
         "abstract": "The measurement of media exposure is essential to not only traditional audience research, but also media effects research which relies on accurate estimates of media exposure. Even in the age of digital trace data and passive audience measurement, the workhorse of basically all communication research is self-report data. This article presents a meta-analysis of the reliability and temporal stability of media exposure self-reports in 33 panel studies. Results from a Bayesian multilevel analysis show that self-reported media exposure was moderately reliable (0.69, 90% HDI: 0.65, 0.72) and highly stable (0.90, 90% HDI: 0.88, 0.92). In line with previous studies, the reliability of media exposure measures was higher in adult samples (0.72, 90% HDI: 0.69, 0.76) compared to adolescents (0.60, 90% HDI: 0.53, 0.66). Rank-order stability of media exposure was comparable in adult (0.91, 90% HDI: 0.89, 0.93) and adolescent samples (0.85, 90% HDI: 0.81, 0.90). Moderation analyses showed that self-reported exposure to specific outlets was more reliable than general media use in adult samples. Media-specific differences in reliability were only found in adolescent samples. Overall, moderate reliability in combination with high temporal stability poses important challenges for scholars investigating causes and consequences of media exposure.",
         "url": "https://doi.org/10.1080/19312458.2019.1594742",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2022.2109608",
-        "title": "Promises and Pitfalls of Social Media Data Donations",
-        "authors": [
-          "Irene I. van Driel",
-          "Anastasia Giachanou",
-          "J. Loes Pouwels",
-          "Laura Boeschoten",
-          "Ine Beyens",
-          "Patti M. Valkenburg"
-        ],
-        "year": 2022,
-        "citation_count": 89,
-        "topics": [
-          "Data donations",
-          "Social media measurement",
-          "Digital data collection",
-          "Adolescent online behavior"
-        ],
-        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
-        "url": "https://doi.org/10.1080/19312458.2022.2109608",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2014.903390",
-        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
-        "authors": [
-          "Saraswathi Bellur",
-          "S. Shyam Sundar"
-        ],
-        "year": 2014,
-        "citation_count": 88,
-        "topics": [
-          "Heuristics",
-          "Dual process models",
-          "Research methodology",
-          "Social cognition"
-        ],
-        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
-        "url": "https://doi.org/10.1080/19312458.2014.903390",
         "topics_llm": true
       },
       {
@@ -930,6 +930,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2012.732627",
+        "title": "EDA Positive Change: A Simple Algorithm for Electrodermal Activity to Measure General Audience Arousal During Media Exposure",
+        "authors": [
+          "Dominik J. Leiner",
+          "Andreas Fahr",
+          "Hannah Früh"
+        ],
+        "year": 2012,
+        "citation_count": 79,
+        "topics": [
+          "Electrodermal Activity",
+          "Audience Arousal",
+          "Media Exposure Measurement"
+        ],
+        "abstract": "Skin conductance provides an inexpensive and nonreactive measure of electrodermal activity (EDA) that is widely used as an arousal indicator. When communication research employs real-world audiovisual stimuli, the measurement sensitivity of EDA-based data can become challenging. Measures that are commonly employed to correlate EDA with continuous stimuli (the tonic skin conductance level and the frequency of skin conductance responses) are replicable for stimuli of one minute or longer. This article discusses positive changes in EDA (EPC) as a measure that integrates the frequency of skin conductance responses with their amplitude while reducing processing complexity and error. The use of EDA data from 115 subjects demonstrates that EPC is a more accurate measure of stimulus-induced arousal than the response frequency, the conductance baseline, and average skin conductance. Assets and drawbacks are discussed in the context of theoretical and practical issues.",
+        "url": "https://doi.org/10.1080/19312458.2012.732627",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312450802063404",
         "title": "Population-Based Assessment of Exposure to Risk Behaviors in Motion Pictures",
         "authors": [
@@ -967,26 +986,6 @@
         ],
         "abstract": "The ability to validly measure campaign exposure is central to claims of public communication campaign effectiveness. Surprisingly, scholars have paid remarkably little attention to questions about the validity of various ways to measure campaign exposure. This paper begins to address this gap by outlining conceptual, empirical, and practical issues in developing valid measures of campaign exposure. First, I offer a brief definition of measurement validity and describe a variety of measurement options utilized in recent, large–scale health communication campaign evaluations. Next, I outline conceptual and empirical assumptions behind these various measurement strategies. I continue with a review of research that has applied validation criteria to specific measures of campaign exposure. I conclude by offering a series of guidelines for exposure measurement and validation practices based on the evidence to date, which I caveat by describing tensions and emergent issues that researchers will need to consider in future work.",
         "url": "https://doi.org/10.1080/19312458.2014.903391",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2016.1150973",
-        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
-        "authors": [
-          "Kim Viborg Andersen",
-          "Claes H. de Vreese",
-          "Erik Albæk"
-        ],
-        "year": 2016,
-        "citation_count": 77,
-        "topics": [
-          "Media exposure measurement",
-          "Survey methodology",
-          "Media diet",
-          "Self-reported exposure"
-        ],
-        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
-        "url": "https://doi.org/10.1080/19312458.2016.1150973",
         "topics_llm": true
       }
     ],
@@ -1069,7 +1068,7 @@
           "Digital trace data",
           "Computational methods"
         ],
-        "abstract": "",
+        "abstract": "Digital trace data are increasingly used across the social and behavioral sciences. They allow researchers to access large volumes of highly detailed and continuous information. Such scale and speed cannot be achieved when using traditional sources, such as surveys. Digital traces are also believed to overcome some of the limitations that surveys are criticized for. However, while their use undoubtedly presents researchers with new possibilities, it also introduces new quality challenges that have been increasingly acknowledged. Accounting for these limitations is crucial, as they can lead to biased results and incorrect research findings. Therefore, in this paper, we apply hidden Markov models (HMMs) to digital trace data on Facebook use to assess the nature and incidence of error in measures of Facebook use frequency. HMMs are an attractive method that allows for the estimation and correction of error without the availability of (error-free) gold-standard data, if the assumptions regarding the underlying construct of interest and the nature of the error are met. Our results suggest that the measures derived from digital trace data severely underestimate the frequency of Facebook use for a third of our sample, in particular when not all relevant devices are tracked.",
         "url": "https://doi.org/10.1080/19312458.2025.2573265",
         "topics_llm": true
       },
@@ -1100,7 +1099,7 @@
           "Miriam Siemon"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Gender classification",
           "Social media",
@@ -1481,7 +1480,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1691,7 +1690,7 @@
           "Personality traits",
           "Communication measurement"
         ],
-        "abstract": "The need for privacy has been gaining importance in various disciplines and areas of communication, including computer-mediated, interpersonal, and health communication. These disciplines require reliable measurement of the need for privacy across different contexts. We propose a theoretical concept of the need for privacy as a personality trait and develop a multi-dimensional scale. In Study 1, we developed and tested the Need for Privacy Scale (NFP-S) using exploratory and confirmatory factor analysis (German internet users, n1 = 3,278; n2 = 1,226). The results support a second-order model with three first-order factors, i.e., informational, psychological, and physical need for privacy; social need for privacy was identified to be inherent to the three other dimensions and as such not a dimension on its own. The 12-item scale was validated with regard to loneliness, online privacy concerns, sex, online data protection and online information disclosure. In Study 2, we confirmed the factorial structure with a representative sample of N = 1,000 German internet users. We validated the scale with a self-assessment of the need for privacy, offline and online privacy concerns, online privacy literacy, social media usage, online data protection and social media self-disclosure, and sociodemographics.",
+        "abstract": "Need for privacy gains importance in various disciplines, i. e. computer mediated-, interpersonal-, and health communication. These disciplines demand the reliable measurement of he need for privacy across different contexts. We suggest a theoretical understanding of the need for privacy as a personality trait and developed a scale based on Burgoon’s (1982) privacy dimensions. In study 1, we developed and tested the need for privacy scale (NFP-S) using exploratory and confirmatory factor analysis (n1 = 3,278; n2 = 1,226). The results show support for a second-order model with three first-order factors, i.e. informational, psychological and physical need for privacy, consisting of 12 items. The scale is validated with regard to loneliness, online privacy concerns, sex, online data protection and online self-disclosure. In study 2, we confirmed the factorial structure with a representative sample of n = 1,000. We validated the scale with a self-assessment, offline and online privacy concerns, online privacy literacy and gender, as well as variables inherent to the particular setting of online media use, i.e. social media usage, data protection and social media self-disclosure. The results are discussed and areas of where and how the instrument might be used are proposed.",
         "url": "https://doi.org/10.1080/19312458.2023.2246014",
         "topics_llm": true
       },
@@ -1857,7 +1856,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2023,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Persuasion",
           "Message effects",
@@ -1959,7 +1958,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2023,
-        "citation_count": 36,
+        "citation_count": 37,
         "topics": [
           "Data donations",
           "Digital trace data",
@@ -1983,7 +1982,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 135,
+        "citation_count": 136,
         "topics": [
           "Digital trace data",
           "Social media effects",

@@ -1,9 +1,26 @@
 {
   "journal_id": "journal_of_communication",
-  "updated_at": "2026-03-30T07:26:19Z",
-  "trending_from": "2024-03-30",
+  "updated_at": "2026-04-06T07:42:10Z",
+  "trending_from": "2024-04-06",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.1111/j.1460-2466.1993.tb01304.x",
+        "title": "Framing: Toward Clarification of a Fractured Paradigm",
+        "authors": [
+          "Robert M. Entman"
+        ],
+        "year": 1993,
+        "citation_count": 15104,
+        "topics": [
+          "Framing theory",
+          "Communication paradigm",
+          "Interdisciplinary synthesis"
+        ],
+        "abstract": "In response to the proposition that communication lacks disciplinary sta-tus because of deficient core knowledge, I propose that we turn an osten-sible weakness into a strength. We should identify our mission as bring-ing together insights and theories that would otherwise remain scattered in other disciplines. Because of the lack of interchange among the disci-plines, hypotheses thoroughly discredited in one field may receive wide acceptance in another. Potential research paradigms remain fractured, with pieces here and there but no comprehensive statement to guide re-search. By bringing ideas together in one location, communication can aspire to become a master discipline that synthesizes related theories and concepts and exposes them to the most rigorous, comprehensive state-ment and exploration. Reaching this goal would require a more self-con-scious determination by communication scholars to plumb other fields and feed back their studies to outside researchers. At the same time, such an enterprise would enhance the theoretical rigor of communication",
+        "url": "https://doi.org/10.1111/j.1460-2466.1993.tb01304.x",
+        "topics_llm": true
+      },
       {
         "doi": "10.1111/j.1460-2466.1999.tb02784.x",
         "title": "Framing as a Theory of Media Effects",
@@ -11,7 +28,7 @@
           "Dietram A. Scheufele"
         ],
         "year": 1999,
-        "citation_count": 3197,
+        "citation_count": 3199,
         "topics": [
           "Media framing",
           "Political communication",
@@ -49,7 +66,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2000,
-        "citation_count": 2306,
+        "citation_count": 2315,
         "topics": [
           "Political framing",
           "European politics",
@@ -67,7 +84,7 @@
           "Annie Lang"
         ],
         "year": 2000,
-        "citation_count": 1982,
+        "citation_count": 1990,
         "topics": [
           "Information Processing",
           "Media Effects",
@@ -79,13 +96,32 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1460-2466.2008.01402.x",
+        "title": "Red Media, Blue Media: Evidence of Ideological Selectivity in Media Use",
+        "authors": [
+          "Shanto Iyengar",
+          "Kyu S. Hahn"
+        ],
+        "year": 2009,
+        "citation_count": 1913,
+        "topics": [
+          "Media selectivity",
+          "Political polarization",
+          "Partisan bias",
+          "News consumption"
+        ],
+        "abstract": "We show that the demand for news varies with the perceived affinity of the news organization to the consumer’s political preferences. In an experimental setting, conservatives and Republicans preferred to read news reports attributed to Fox News and to avoid news from CNN and NPR. Democrats and liberals exhibited exactly the opposite syndrome-dividing their attention equally between CNN and NPR, but avoiding Fox News. This pattern of selective exposure based on partisan affinity held not only for news coverage of controversial issues, but also for relatively “soft” subjects such as crime and travel. The tendency to select news based on anticipated agreement was also strengthened among more politically engaged partisans. Overall, our results suggest that the proliferation of new media and enhanced media choices will contribute to the further polarization of the news audience.",
+        "url": "https://doi.org/10.1111/j.1460-2466.2008.01402.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1460-2466.2006.00336.x",
         "title": "Framing Bias: Media in the Distribution of Power",
         "authors": [
           "Robert M. Entman"
         ],
         "year": 2007,
-        "citation_count": 1699,
+        "citation_count": 1700,
         "topics": [
           "Media framing",
           "Agenda-setting",
@@ -104,7 +140,7 @@
           "Christopher Wilson"
         ],
         "year": 2012,
-        "citation_count": 1508,
+        "citation_count": 1521,
         "topics": [
           "Social media",
           "Political protest",
@@ -123,7 +159,7 @@
           "Shanto Iyengar"
         ],
         "year": 2008,
-        "citation_count": 1484,
+        "citation_count": 1487,
         "topics": [
           "Political communication",
           "Media effects",
@@ -177,7 +213,7 @@
           "Natalie Jomini Stroud"
         ],
         "year": 2010,
-        "citation_count": 1312,
+        "citation_count": 1315,
         "topics": [
           "Partisan selective exposure",
           "Political polarization",
@@ -196,7 +232,7 @@
           "Jochen Peter"
         ],
         "year": 2013,
-        "citation_count": 1192,
+        "citation_count": 1198,
         "topics": [
           "Media effects",
           "Individual susceptibility",
@@ -235,7 +271,7 @@
           "James Druckman"
         ],
         "year": 2007,
-        "citation_count": 1137,
+        "citation_count": 1139,
         "topics": [
           "Framing effects",
           "Elite communication",
@@ -255,7 +291,7 @@
           "Adam Arvidsson"
         ],
         "year": 2014,
-        "citation_count": 1109,
+        "citation_count": 1110,
         "topics": [
           "Political homophily",
           "Twitter",
@@ -274,7 +310,7 @@
           "Matthias Kohring"
         ],
         "year": 2008,
-        "citation_count": 985,
+        "citation_count": 986,
         "topics": [
           "Media frames",
           "Content analysis",
@@ -294,7 +330,7 @@
           "Stephen A. Rains"
         ],
         "year": 2014,
-        "citation_count": 937,
+        "citation_count": 938,
         "topics": [
           "Online incivility",
           "News comments",
@@ -313,7 +349,7 @@
           "Joseph N. Cappella"
         ],
         "year": 2006,
-        "citation_count": 862,
+        "citation_count": 863,
         "topics": [
           "Health communication",
           "Behavioral theory",
@@ -332,7 +368,7 @@
           "Maria de Fátima Paim de Oliveira"
         ],
         "year": 2012,
-        "citation_count": 775,
+        "citation_count": 776,
         "topics": [
           "Twitter",
           "News values",
@@ -353,7 +389,7 @@
           "Peter Salovey"
         ],
         "year": 2006,
-        "citation_count": 754,
+        "citation_count": 755,
         "topics": [
           "Message framing",
           "Health communication",
@@ -371,7 +407,7 @@
           "David H. Weaver"
         ],
         "year": 2007,
-        "citation_count": 745,
+        "citation_count": 747,
         "topics": [
           "Agenda setting",
           "Framing",
@@ -388,7 +424,7 @@
           "Annie Lang"
         ],
         "year": 2006,
-        "citation_count": 705,
+        "citation_count": 706,
         "topics": [
           "Cancer communication",
           "Limited Capacity Model",
@@ -408,7 +444,7 @@
           "Pei Zheng"
         ],
         "year": 2014,
-        "citation_count": 683,
+        "citation_count": 684,
         "topics": [
           "Social media",
           "Political participation",
@@ -476,6 +512,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/jcom.12277",
+        "title": "Maximizing Opportunities and Minimizing Risks for Children Online: The Role of Digital Skills in Emerging Strategies of Parental Mediation",
+        "authors": [
+          "Sonia Livingstone",
+          "Kjartan Ólafsson",
+          "Ellen Helsper",
+          "Francisco Lupiáñez‐Villanueva",
+          "Giuseppe Veltri",
+          "Frans Folkvord"
+        ],
+        "year": 2017,
+        "citation_count": 641,
+        "topics": [
+          "Parental mediation",
+          "Digital skills",
+          "Children online safety",
+          "Internet risks and opportunities"
+        ],
+        "abstract": "As Internet use becomes widespread at home, parents are trying to maximize their children's online opportunities while also minimizing online risks. We surveyed parents of 6- to 14-year-olds in 8 European countries (N = 6,400). A factor analysis revealed 2 parental mediation strategies. Enabling mediation is associated with increased online opportunities but also risks. This strategy incorporates safety efforts, responds to child agency, and is employed when the parent or child is relatively digitally skilled, so may not support harm. Restrictive mediation is associated with fewer online risks but at the cost of opportunities, reflecting policy advice that regards media use as primarily problematic. It is favored when parent or child digital skills are lower, potentially keeping vulnerable children safe yet undermining their digital inclusion.",
+        "url": "https://doi.org/10.1111/jcom.12277",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/joc/49.1.103",
         "title": "Framing as a theory of media effects",
         "authors": [
@@ -494,36 +553,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/jcom.12277",
-        "title": "Maximizing Opportunities and Minimizing Risks for Children Online: The Role of Digital Skills in Emerging Strategies of Parental Mediation",
-        "authors": [
-          "Sonia Livingstone",
-          "Kjartan Ólafsson",
-          "Ellen Helsper",
-          "Francisco Lupiáñez‐Villanueva",
-          "Giuseppe Veltri",
-          "Frans Folkvord"
-        ],
-        "year": 2017,
-        "citation_count": 635,
-        "topics": [
-          "Parental mediation",
-          "Digital skills",
-          "Children online safety",
-          "Internet risks and opportunities"
-        ],
-        "abstract": "As Internet use becomes widespread at home, parents are trying to maximize their children's online opportunities while also minimizing online risks. We surveyed parents of 6- to 14-year-olds in 8 European countries (N = 6,400). A factor analysis revealed 2 parental mediation strategies. Enabling mediation is associated with increased online opportunities but also risks. This strategy incorporates safety efforts, responds to child agency, and is employed when the parent or child is relatively digitally skilled, so may not support harm. Restrictive mediation is associated with fewer online risks but at the cost of opportunities, reflecting policy advice that regards media use as primarily problematic. It is favored when parent or child digital skills are lower, potentially keeping vulnerable children safe yet undermining their digital inclusion.",
-        "url": "https://doi.org/10.1111/jcom.12277",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1460-2466.2011.01572.x",
         "title": "Audience evolution: New technologies and the transformation of media audiences",
         "authors": [
           "Todd Chambers"
         ],
         "year": 2011,
-        "citation_count": 633,
+        "citation_count": 634,
         "topics": [
           "Media audiences",
           "Digital technology",
@@ -541,7 +577,7 @@
           "Stephen D. Reese"
         ],
         "year": 2007,
-        "citation_count": 629,
+        "citation_count": 632,
         "topics": [
           "Media framing",
           "Political communication",
@@ -571,6 +607,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1460-2466.2000.tb02845.x",
+        "title": "Overrepresentation and Underrepresentation of African Americans and Latinos as Lawbreakers on Television News",
+        "authors": [
+          "Travis L. Dixon",
+          "Daniel Linz"
+        ],
+        "year": 2000,
+        "citation_count": 620,
+        "topics": [
+          "Media representation",
+          "Racial bias",
+          "Crime reporting",
+          "Television news"
+        ],
+        "abstract": "We conducted a content analysis of a random sample of local television news programming in Los Angeles and Orange counties to assess representations of Blacks, Latinos, and Whites as lawbreakers and law defenders. “Intergroup” comparisons of perpetrators (Black and Latino vs. White) revealed that Blacks and Latinos are significantly more likely than Whites to be portrayed as lawbreakers on television news. “Interrole” comparisons (lawbreakers vs. law defenders) revealed that Blacks and Latinos are more likely to be portrayed as lawbreakers than as defenders, whereas Whites are significantly more likely to be portrayed as defenders than as lawbreakers. “Interreality” comparisons of lawbreakers (television news vs. crime reports from the California Department of Justice) revealed that Blacks are overrepresented as lawbreakers, and Latinos and Whites are underrepresented as lawbreakers on television news compared to their respective crime rates obtained from the California Department of Justice for Los Angeles and Orange counties. Interreality comparisons of law defenders (television news vs. county employment records) revealed that Whites are overrepresented, Latinos are underrepresented, and Blacks are neither over- nor underrepresented as police officers on television news compared to employment reports. We speculate on the psychological effects of exposure to these intergroup, interrole, and interreality differentials on television news viewers.",
+        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02845.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/joc/jqy003",
         "title": "#CommunicationSoWhite",
         "authors": [
@@ -589,25 +644,6 @@
         ],
         "abstract": "Racial inequalities and the colonial legacies of White supremacy permeate scholarly and public discussions today. As part of an ongoing movement to decenter White masculinity as the normative core of scholarly inquiry, this paper is meant as a preliminary intervention. By coding and analyzing the racial composition of primary authors of both articles and citations in journals between 1990–2016, we find that non-White scholars continue to be underrepresented in publication rates, citation rates, and editorial positions in communication studies. We offer some analysis as to why these findings matter in our current political moment, and propose steps the field might take towards further documenting and rectifying race and representation in the production of disciplinary knowledge.",
         "url": "https://doi.org/10.1093/joc/jqy003",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/j.1460-2466.2000.tb02845.x",
-        "title": "Overrepresentation and Underrepresentation of African Americans and Latinos as Lawbreakers on Television News",
-        "authors": [
-          "Travis L. Dixon",
-          "Daniel Linz"
-        ],
-        "year": 2000,
-        "citation_count": 619,
-        "topics": [
-          "Media representation",
-          "Racial bias",
-          "Crime reporting",
-          "Television news"
-        ],
-        "abstract": "We conducted a content analysis of a random sample of local television news programming in Los Angeles and Orange counties to assess representations of Blacks, Latinos, and Whites as lawbreakers and law defenders. “Intergroup” comparisons of perpetrators (Black and Latino vs. White) revealed that Blacks and Latinos are significantly more likely than Whites to be portrayed as lawbreakers on television news. “Interrole” comparisons (lawbreakers vs. law defenders) revealed that Blacks and Latinos are more likely to be portrayed as lawbreakers than as defenders, whereas Whites are significantly more likely to be portrayed as defenders than as lawbreakers. “Interreality” comparisons of lawbreakers (television news vs. crime reports from the California Department of Justice) revealed that Blacks are overrepresented as lawbreakers, and Latinos and Whites are underrepresented as lawbreakers on television news compared to their respective crime rates obtained from the California Department of Justice for Los Angeles and Orange counties. Interreality comparisons of law defenders (television news vs. county employment records) revealed that Whites are overrepresented, Latinos are underrepresented, and Blacks are neither over- nor underrepresented as police officers on television news compared to employment reports. We speculate on the psychological effects of exposure to these intergroup, interrole, and interreality differentials on television news viewers.",
-        "url": "https://doi.org/10.1111/j.1460-2466.2000.tb02845.x",
         "topics_llm": true
       }
     ],
@@ -1589,7 +1625,7 @@
           "Sixiao Liu"
         ],
         "year": 2024,
-        "citation_count": 31,
+        "citation_count": 32,
         "topics": [
           "AI-generated content",
           "Narrative transportation",
@@ -1634,7 +1670,7 @@
           "Benjamin Toff"
         ],
         "year": 2024,
-        "citation_count": 19,
+        "citation_count": 21,
         "topics": [
           "News trust",
           "Media use patterns",
@@ -1673,7 +1709,7 @@
           "Elina Lindgren"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Media trust",
           "Selective exposure",
@@ -1710,7 +1746,7 @@
           "Ozan Kuru"
         ],
         "year": 2024,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Health misinformation",
           "Statistical literacy",
@@ -1719,6 +1755,24 @@
         ],
         "abstract": "Abstract Communicating statistics is challenging and fraught with mis-contextualization and causal misattributions. Can we train the public against statistical misrepresentations? Pre-emptive interventions against misinformation primarily include literacy tips/training and inoculation. In theory, inoculation has an additional motivational component (forewarning). However, forewarning has not been directly tested against literacy interventions, calling into question inoculation’s distinction. We critique the theoretical boundary work and compare these informational and motivational interventions in the context of health statistics. The longitudinal experiment compared the effects of interventions on processing accurate and inaccurate statistics about COVID-19 vaccines and/or genetically modified organisms across digital platforms. Both interventions prevented an elevation in risk perceptions following exposure to statistical misinformation at a later time. However, literacy intervention increased risk perceptions following exposure to accurate statistics too, suggesting an additional benefit of forewarning. Those with high levels of pre-existing misinformation concern exhibited inoculation effects more strongly. We discuss the theoretical, empirical, and practical implications.",
         "url": "https://doi.org/10.1093/joc/jqae032",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/joc/jqae045",
+        "title": "The visual nature of information warfare: the construction of partisan claims on truth and evidence in the context of wars in Ukraine and Israel/Palestine",
+        "authors": [
+          "Michael Hameleers"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Visual disinformation",
+          "Information warfare",
+          "Partisan narratives",
+          "Armed conflict communication"
+        ],
+        "abstract": "Abstract Despite the potential of visual disinformation to deceive people on pressing socio-political issues, we currently lack an understanding of how online visual disinformation (de)legitimizes partisan truth claims at times of war. As an important next step in disinformation theory and research, this article inductively mapped a wide variety of global visual disinformation narratives on armed conflicts disseminated via social media. The narratives were sampled through various international fact-checking databases, involving multiple social media platforms and countries. The analyses reveal that visual disinformation mainly consisted of existing footage that was decontextualized in a deceptive manner based on time, location, or fictionality. Moving beyond existing research exploring how decontextualized visuals offer proof for counter-factual narratives, our findings indicate that visuals contribute to the process of othering by constructing a “delusional rationality” that legitimizes mass violence and the destruction of the other. These findings have crucial ramifications for international policy and interventions at times of global armed conflicts that are covered widely across social media channels.",
+        "url": "https://doi.org/10.1093/joc/jqae045",
         "topics_llm": true
       },
       {
@@ -1741,24 +1795,6 @@
         ],
         "abstract": "Abstract Consuming media entertainment often challenges recipients’ self-control. While past research related self-control almost exclusively to whether individuals engage in media use, it might be equally relevant for the disengagement from media use. Testing core assumptions of the Appraisal of Media Use, Self-Control, and Entertainment (AMUSE) model, the present study investigates the situational interplay of self-control and affective appraisals in predicting disengagement from Netflix use. Preregistered hypotheses were tested based on an event-contingent experience sampling design, in which 205 adult Netflix users in the Netherlands and Germany were tracked and surveyed for two weeks. Results demonstrate that disengagement is contingent upon enjoyment and appreciation and that enjoyment, in turn, can be “spoiled” by feeling guilty. Self-control influenced goal conflict and enjoyment throughout the reception process. We discuss opportunities for modeling disengagement from media use with situational research approaches.",
         "url": "https://doi.org/10.1093/joc/jqae023",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/joc/jqae045",
-        "title": "The visual nature of information warfare: the construction of partisan claims on truth and evidence in the context of wars in Ukraine and Israel/Palestine",
-        "authors": [
-          "Michael Hameleers"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Visual disinformation",
-          "Information warfare",
-          "Partisan narratives",
-          "Armed conflict communication"
-        ],
-        "abstract": "Abstract Despite the potential of visual disinformation to deceive people on pressing socio-political issues, we currently lack an understanding of how online visual disinformation (de)legitimizes partisan truth claims at times of war. As an important next step in disinformation theory and research, this article inductively mapped a wide variety of global visual disinformation narratives on armed conflicts disseminated via social media. The narratives were sampled through various international fact-checking databases, involving multiple social media platforms and countries. The analyses reveal that visual disinformation mainly consisted of existing footage that was decontextualized in a deceptive manner based on time, location, or fictionality. Moving beyond existing research exploring how decontextualized visuals offer proof for counter-factual narratives, our findings indicate that visuals contribute to the process of othering by constructing a “delusional rationality” that legitimizes mass violence and the destruction of the other. These findings have crucial ramifications for international policy and interventions at times of global armed conflicts that are covered widely across social media channels.",
-        "url": "https://doi.org/10.1093/joc/jqae045",
         "topics_llm": true
       },
       {
