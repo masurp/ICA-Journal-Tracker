@@ -1,4 +1,4 @@
-# ICA Journal Tracker
+# Communication Science Journal Tracker
 
 A lightweight, automatically updated dashboard tracking the most cited, trending, and latest papers from 25 communication science journals across six publishers.
 
