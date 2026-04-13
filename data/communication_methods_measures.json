@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-04-06T07:43:08Z",
-  "trending_from": "2024-04-06",
+  "updated_at": "2026-04-13T08:02:34Z",
+  "trending_from": "2024-04-13",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4071,
+        "citation_count": 4078,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2336,
+        "citation_count": 2351,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1753,
+        "citation_count": 1757,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1001,
+        "citation_count": 1007,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 878,
+        "citation_count": 880,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 785,
+        "citation_count": 786,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 420,
+        "citation_count": 421,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 362,
+        "citation_count": 364,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 231,
+        "citation_count": 232,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 207,
+        "citation_count": 208,
         "topics": [
           "News framing",
           "Computational methods",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 181,
+        "citation_count": 182,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -466,7 +466,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 142,
+        "citation_count": 143,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -490,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 136,
+        "citation_count": 138,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -510,7 +510,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 136,
+        "citation_count": 137,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -589,7 +589,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 127,
+        "citation_count": 128,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -790,7 +790,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 93,
+        "citation_count": 94,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -1161,7 +1161,7 @@
           "Sjoerd Stolwijk",
           "Mark Boukes",
           "Wang Ngai Yeung",
-          "Y. P. Liao",
+          "Yufang Liao",
           "Simon Münker",
           "Anne C. Kroon",
           "Damian Trilling"
@@ -1260,7 +1260,7 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping; specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants' logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user's environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
@@ -1340,7 +1340,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -1543,7 +1543,7 @@
           "Martin Mafunda"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Speaker embeddings",
           "Linguistic similarity",
@@ -1982,7 +1982,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 136,
+        "citation_count": 138,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -1995,6 +1995,27 @@
       }
     ],
     "trending": [
+      {
+        "doi": "10.1080/19312458.2024.2393165",
+        "title": "Uncovering Digital Trace Data Biases: Tracking Undercoverage in Web Tracking Data",
+        "authors": [
+          "Oriol J. Bosch",
+          "Patrick Sturgis",
+          "Jouni Kuha",
+          "Mélanie Revilla"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Digital trace data",
+          "Web tracking",
+          "Data bias",
+          "Undercoverage"
+        ],
+        "abstract": "Digital trace data is an increasingly popular alternative to surveys, often considered as the gold standard. This study critically assesses the use of web tracking data to study online media exposure. Specifically, we focus on a critical error source of this type of data, tracking undercoverage: researchers’ failure to capture data from all the devices and browsers that individuals utilize to go online. Using data from Spain, Portugal, and Italy, we explore undercoverage in online panels and simulate biases in online media exposure estimates. We show that undercoverage is highly prevalent when using commercial panels, with more than 70% of participants affected. Additionally, the primary determinant of undercoverage is the type and number of devices used, rather than individual’s characteristics. Moreover, through a simulation study, we demonstrate that web tracking estimates are often substantially biased. Methodologically, the paper showcases how auxiliary survey data can help study web tracking errors.",
+        "url": "https://doi.org/10.1080/19312458.2024.2393165",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2025.2482538",
         "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
@@ -2013,29 +2034,8 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping; specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants' logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user's environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2393165",
-        "title": "Uncovering Digital Trace Data Biases: Tracking Undercoverage in Web Tracking Data",
-        "authors": [
-          "Oriol J. Bosch",
-          "Patrick Sturgis",
-          "Jouni Kuha",
-          "Mélanie Revilla"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Digital trace data",
-          "Web tracking",
-          "Data bias",
-          "Undercoverage"
-        ],
-        "abstract": "Digital trace data is an increasingly popular alternative to surveys, often considered as the gold standard. This study critically assesses the use of web tracking data to study online media exposure. Specifically, we focus on a critical error source of this type of data, tracking undercoverage: researchers’ failure to capture data from all the devices and browsers that individuals utilize to go online. Using data from Spain, Portugal, and Italy, we explore undercoverage in online panels and simulate biases in online media exposure estimates. We show that undercoverage is highly prevalent when using commercial panels, with more than 70% of participants affected. Additionally, the primary determinant of undercoverage is the type and number of devices used, rather than individual’s characteristics. Moreover, through a simulation study, we demonstrate that web tracking estimates are often substantially biased. Methodologically, the paper showcases how auxiliary survey data can help study web tracking errors.",
-        "url": "https://doi.org/10.1080/19312458.2024.2393165",
         "topics_llm": true
       },
       {

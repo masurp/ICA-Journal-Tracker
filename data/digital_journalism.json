@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-04-06T07:43:06Z",
-  "trending_from": "2024-04-06",
+  "updated_at": "2026-04-13T08:02:33Z",
+  "trending_from": "2024-04-13",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2056,
+        "citation_count": 2058,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -50,7 +50,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 664,
+        "citation_count": 665,
         "topics": [
           "Algorithmic transparency",
           "Platform accountability",
@@ -125,7 +125,7 @@
           "Michael Koliska"
         ],
         "year": 2016,
-        "citation_count": 461,
+        "citation_count": 462,
         "topics": [
           "Algorithmic transparency",
           "News media",
@@ -202,7 +202,7 @@
           "Konstantin Dörr"
         ],
         "year": 2015,
-        "citation_count": 366,
+        "citation_count": 367,
         "topics": [
           "Algorithmic journalism",
           "Natural language generation",
@@ -220,7 +220,7 @@
           "Karin Wahl‐Jorgensen"
         ],
         "year": 2019,
-        "citation_count": 346,
+        "citation_count": 347,
         "topics": [
           "Journalism studies",
           "Emotion in media",
@@ -250,6 +250,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2019.1623700",
+        "title": "On the Democratic Role of News Recommenders",
+        "authors": [
+          "Natali Helberger"
+        ],
+        "year": 2019,
+        "citation_count": 333,
+        "topics": [
+          "News recommenders",
+          "Democratic media",
+          "Algorithmic journalism",
+          "Personalization and democracy"
+        ],
+        "abstract": "Are algorithmic news recommenders a threat to the democratic role of the media? Or are they an opportunity, and, if so, how would news recommenders need to be designed to advance values and goals that we consider essential in a democratic society? These are central questions in the ongoing academic and policy debate about the likely implications of data analytics and machine learning for the democratic role of the media and the shift from traditional mass-media modes of distribution towards more personalised news and platforms Building on democratic theory and the growing body of literature about the digital turn in journalism, this article offers a conceptual framework for assessing the threats and opportunities around the democratic role of news recommenders, and develops a typology of different ‘democratic recommenders’.",
+        "url": "https://doi.org/10.1080/21670811.2019.1623700",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2014.927986",
         "title": "Actors, Actants, Audiences, and Activities in Cross-Media News Work",
         "authors": [
@@ -269,24 +287,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2019.1623700",
-        "title": "On the Democratic Role of News Recommenders",
-        "authors": [
-          "Natali Helberger"
-        ],
-        "year": 2019,
-        "citation_count": 332,
-        "topics": [
-          "News recommenders",
-          "Democratic media",
-          "Algorithmic journalism",
-          "Personalization and democracy"
-        ],
-        "abstract": "Are algorithmic news recommenders a threat to the democratic role of the media? Or are they an opportunity, and, if so, how would news recommenders need to be designed to advance values and goals that we consider essential in a democratic society? These are central questions in the ongoing academic and policy debate about the likely implications of data analytics and machine learning for the democratic role of the media and the shift from traditional mass-media modes of distribution towards more personalised news and platforms Building on democratic theory and the growing body of literature about the digital turn in journalism, this article offers a conceptual framework for assessing the threats and opportunities around the democratic role of news recommenders, and develops a typology of different ‘democratic recommenders’.",
-        "url": "https://doi.org/10.1080/21670811.2019.1623700",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2014.937149",
         "title": "Checking, Sharing, Clicking and Linking",
         "authors": [
@@ -294,7 +294,7 @@
           "Tim Groot Kormelink"
         ],
         "year": 2014,
-        "citation_count": 319,
+        "citation_count": 320,
         "topics": [
           "News consumption",
           "Media technology adoption",
@@ -558,7 +558,7 @@
           "Kim Christian Schrøder"
         ],
         "year": 2014,
-        "citation_count": 236,
+        "citation_count": 238,
         "topics": [
           "Social media",
           "News consumption",
@@ -630,6 +630,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2020.1811743",
+        "title": "Online Harassment and Its Implications for the Journalist–Audience Relationship",
+        "authors": [
+          "Seth C. Lewis",
+          "Rodrigo Zamith",
+          "Mark Coddington"
+        ],
+        "year": 2020,
+        "citation_count": 220,
+        "topics": [
+          "Online harassment",
+          "Journalist-audience relationships",
+          "Digital communication",
+          "Media criticism"
+        ],
+        "abstract": "Seth C. Lewisa* , Rodrigo Zamithb & Mark Coddingtonc a School of Journalism and Communication, University of Oregon, Eugene, OR, USAb Department of Journalism, University of Massachusetts Amherst, Amherst, MA, USAc Department of Journalism and Mass Communications, Washington and Lee University, Lexington, VA, USA",
+        "url": "https://doi.org/10.1080/21670811.2020.1811743",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2017.1334567",
         "title": "Mobile News Consumption",
         "authors": [
@@ -648,33 +668,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2020.1811743",
-        "title": "Online Harassment and Its Implications for the Journalist–Audience Relationship",
-        "authors": [
-          "Seth C. Lewis",
-          "Rodrigo Zamith",
-          "Mark Coddington"
-        ],
-        "year": 2020,
-        "citation_count": 218,
-        "topics": [
-          "Online harassment",
-          "Journalist-audience relationships",
-          "Digital communication",
-          "Media criticism"
-        ],
-        "abstract": "Seth C. Lewisa* , Rodrigo Zamithb & Mark Coddingtonc a School of Journalism and Communication, University of Oregon, Eugene, OR, USAb Department of Journalism, University of Massachusetts Amherst, Amherst, MA, USAc Department of Journalism and Mass Communications, Washington and Lee University, Lexington, VA, USA",
-        "url": "https://doi.org/10.1080/21670811.2020.1811743",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2012.756666",
         "title": "INNOVATION AND THE FUTURE OF JOURNALISM",
         "authors": [
           "John V. Pavlik"
         ],
         "year": 2013,
-        "citation_count": 214,
+        "citation_count": 216,
         "topics": [
           "Digital journalism",
           "Media innovation",
@@ -693,7 +693,7 @@
           "Monika Djerf‐Pierre"
         ],
         "year": 2013,
-        "citation_count": 212,
+        "citation_count": 213,
         "topics": [
           "Social media",
           "Journalism",
@@ -712,7 +712,7 @@
           "Katharina Hollnbuchner"
         ],
         "year": 2016,
-        "citation_count": 210,
+        "citation_count": 211,
         "topics": [
           "Algorithmic journalism",
           "Media ethics",
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 187,
+        "citation_count": 188,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -958,6 +958,25 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/21670811.2026.2655242",
+        "title": "Taking Care Online: Reconceptualising Professional Wellbeing for Social Media Engagement in Journalism",
+        "authors": [
+          "Diana Bossio",
+          "Jonathon Hutchinson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Journalist wellbeing",
+          "Social media engagement",
+          "Professional burnout",
+          "Digital labor"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2026.2655242",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/21670811.2026.2649018",
         "title": "The Effects of Generative AI in News on Media Credibility and Selectivity: Evidence from a Conjoint Experiment in Chile",
@@ -1679,7 +1698,7 @@
           "Theresa Josephine Seipp"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Platform logics",
           "Institutional isomorphism",
@@ -1790,7 +1809,7 @@
           "Shangyuan Wu"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "TikTok",
           "News organizations",
@@ -1903,51 +1922,9 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2025.2553157",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2558000",
-        "title": "News Characteristics, Newsworthiness and Secondary Gatekeeping in Brazil: Influences of Right-Wing Authoritarianism",
-        "authors": [
-          "Marcos Paulo da Silva",
-          "Rachel R. Mourão",
-          "Tim P. Vos",
-          "Marialina C. Antolini",
-          "Gisele Souza Neuls"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Gatekeeping",
-          "News values",
-          "Political ideology",
-          "Brazilian media"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2558000",
-        "topics_llm": true
       }
     ],
     "trending": [
-      {
-        "doi": "10.1080/21670811.2024.2331769",
-        "title": "Generative Visual AI in News Organizations: Challenges, Opportunities, Perceptions, and Policies",
-        "authors": [
-          "T.J. Thomson",
-          "Ryan J. Thomas",
-          "Phoebe Matich"
-        ],
-        "year": 2024,
-        "citation_count": 46,
-        "topics": [
-          "Generative AI",
-          "News organizations",
-          "Visual journalism",
-          "Media policy"
-        ],
-        "abstract": "The use of AI-enabled text-to-image generators, such as Midjourney and DALL-E, raises profound questions about the purpose, meaning, and value of images generally, and the production, editing, and consumption of images in journalism specifically.This study explores how photo editors (or their equivalents) in seven countries perceive and/or use generative visual AI in their editorial operations and outlines the challenges and opportunities they see for the technology.It also identifies the extent to which these news organizations have policies governing how generative visual AI is used or, if not, the principles that they feel should inform their development.Participants identified mis/disinformation as the primary challenge of AI-generated images, also raising concerns about labor and copyright implications, the difficulty or impossibility of detecting AI-generated images, the potential for algorithmic bias, and the potential reputational risk of using AI-generated images.Conversely, participants saw potential for using AI for illustrations and brainstorming, while a minority saw it as an opportunity to increase efficiencies and cut costs.",
-        "url": "https://doi.org/10.1080/21670811.2024.2331769",
-        "topics_llm": true
-      },
       {
         "doi": "10.1080/21670811.2024.2397088",
         "title": "Conceptualising the “Newsfluencer”: Intersecting Trajectories in Online Content Creation and Platformatised Journalism",
@@ -1955,7 +1932,7 @@
           "Edward Hurcombe"
         ],
         "year": 2024,
-        "citation_count": 22,
+        "citation_count": 25,
         "topics": [
           "Influencer journalism",
           "Platform media",
@@ -1987,6 +1964,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2326928",
+        "title": "Alternative Media Vary Between Mild Distortion and Extreme Misinformation: Steps Toward a Typology",
+        "authors": [
+          "Anna Staender",
+          "Edda Humprecht",
+          "Frank Esser"
+        ],
+        "year": 2024,
+        "citation_count": 18,
+        "topics": [
+          "Alternative media",
+          "Misinformation",
+          "Media typology",
+          "Disinformation"
+        ],
+        "abstract": "Social media has faced criticism for promoting misinformation. The role of alternative media in spreading misinformation, however, remains uncertain. We examined 1661 Facebook posts from 25 most popular alternative media outlets during the Covid-19 pandemic in five countries (France, Germany, Switzerland, the UK, and the US). Our codebook covered a wide range of categories, from mild misleading content to blatant misinformation. Through cluster analysis, we identified four reporting types in alternative media: Light distortion, heavy distortion, ideological misinformation, and extreme misinformation. Light and heavy distortion were most prevalent in popular alternative media, while ideological and extreme misinformation had smaller but more engaged audiences. In summary, alternative media found more success on Facebook with content categorized as light and heavy distortion. This typology recognizes complexity in misinformation and alternative media research, while simultaneously reduces complexity to contribute to comparative studies in the future.",
+        "url": "https://doi.org/10.1080/21670811.2024.2326928",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2570497",
         "title": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
         "authors": [
@@ -2003,26 +2000,6 @@
         ],
         "abstract": "Amid concerns about legacy news media’s dependency on third-party platforms, recent research calls for a more nuanced understanding of the platform–publisher relationship. This study explores how news organizations can strategically counter platform power, including retracting from platforms to regain control over audiences, data, and revenues. Using a discursive institutionalism lens, we examine how public service media (PSM) and commercial news media in Norway have articulated and implemented social media platform strategies. Based on discourse analysis of annual reports and interviews with 20 media professionals from public service, commercial media, and industry associations, we propose a novel framework for understanding platform (dis)entanglement. The framework reveals isomorphic patterns—both between platforms and legacy media, and between public service and commercial media. Drawing on the concept of reverse isomorphism, the study shows how PSM organization NRK can absorb platform disengagement risks, unlike commercial outlets facing prohibitive costs. The commercial actors find themselves in a double bind, experiencing isomorphism in two distinct ways: first, in relation to platforms, which they cannot abandon due to their business models; and second, in relation to PSM, which they perceive as upholding journalistic values they aspire to but are unable to replicate.",
         "url": "https://doi.org/10.1080/21670811.2025.2570497",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2326928",
-        "title": "Alternative Media Vary Between Mild Distortion and Extreme Misinformation: Steps Toward a Typology",
-        "authors": [
-          "Anna Staender",
-          "Edda Humprecht",
-          "Frank Esser"
-        ],
-        "year": 2024,
-        "citation_count": 17,
-        "topics": [
-          "Alternative media",
-          "Misinformation",
-          "Media typology",
-          "Disinformation"
-        ],
-        "abstract": "Social media has faced criticism for promoting misinformation. The role of alternative media in spreading misinformation, however, remains uncertain. We examined 1661 Facebook posts from 25 most popular alternative media outlets during the Covid-19 pandemic in five countries (France, Germany, Switzerland, the UK, and the US). Our codebook covered a wide range of categories, from mild misleading content to blatant misinformation. Through cluster analysis, we identified four reporting types in alternative media: Light distortion, heavy distortion, ideological misinformation, and extreme misinformation. Light and heavy distortion were most prevalent in popular alternative media, while ideological and extreme misinformation had smaller but more engaged audiences. In summary, alternative media found more success on Facebook with content categorized as light and heavy distortion. This typology recognizes complexity in misinformation and alternative media research, while simultaneously reduces complexity to contribute to comparative studies in the future.",
-        "url": "https://doi.org/10.1080/21670811.2024.2326928",
         "topics_llm": true
       },
       {
@@ -2107,6 +2084,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2361264",
+        "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
+        "authors": [
+          "Michael Koliska",
+          "Jessica Roberts"
+        ],
+        "year": 2024,
+        "citation_count": 12,
+        "topics": [
+          "Fact-checking",
+          "Journalism epistemology",
+          "Misinformation",
+          "Knowledge production"
+        ],
+        "abstract": "Epistemologies of journalism differ across genres, and fact-checking, as an independent operation or feature within existing news media organizations, can be considered a genre of journalism with its own epistemology. This paper explores the epistemology of fact-checking as expressed by fact-checkers from 40 fact-checking organizations serving more than 50 countries on six continents. Fact-checkers operate in various political, social, economic, and informational contexts, and yet reveal isomorphic norms, practices, and structures, particularly in the form of knowledge, production of knowledge, and defense of their knowledge. What emerged in interviews with fact-checkers is a shared belief in the ability to determine the objective truth of claims, which is validated by evidence and a transparent process of reproducibility or modeling the fact-checking process. This process is also seen as a way to convince the reader of the accuracy and trustworthiness of fact-checks. Fact-checkers define their role and work as a public service, and frequently offer media literacy and fact-checking training to the public and journalists to instill a culture of factuality. Overall, the cross-national findings suggest that as fact-checking is becoming increasingly taken-for-granted or institutionalized, fact-checkers share a common epistemology, promoting confidence in factually verifiable truth.",
+        "url": "https://doi.org/10.1080/21670811.2024.2361264",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2510967",
         "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
         "authors": [
@@ -2143,25 +2139,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2024.2443163",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2361264",
-        "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
-        "authors": [
-          "Michael Koliska",
-          "Jessica Roberts"
-        ],
-        "year": 2024,
-        "citation_count": 10,
-        "topics": [
-          "Fact-checking",
-          "Journalism epistemology",
-          "Misinformation",
-          "Knowledge production"
-        ],
-        "abstract": "Epistemologies of journalism differ across genres, and fact-checking, as an independent operation or feature within existing news media organizations, can be considered a genre of journalism with its own epistemology. This paper explores the epistemology of fact-checking as expressed by fact-checkers from 40 fact-checking organizations serving more than 50 countries on six continents. Fact-checkers operate in various political, social, economic, and informational contexts, and yet reveal isomorphic norms, practices, and structures, particularly in the form of knowledge, production of knowledge, and defense of their knowledge. What emerged in interviews with fact-checkers is a shared belief in the ability to determine the objective truth of claims, which is validated by evidence and a transparent process of reproducibility or modeling the fact-checking process. This process is also seen as a way to convince the reader of the accuracy and trustworthiness of fact-checks. Fact-checkers define their role and work as a public service, and frequently offer media literacy and fact-checking training to the public and journalists to instill a culture of factuality. Overall, the cross-national findings suggest that as fact-checking is becoming increasingly taken-for-granted or institutionalized, fact-checkers share a common epistemology, promoting confidence in factually verifiable truth.",
-        "url": "https://doi.org/10.1080/21670811.2024.2361264",
         "topics_llm": true
       },
       {
@@ -2203,6 +2180,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2475179",
+        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
+        "authors": [
+          "Nina Springer",
+          "Jana Rick"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Journalism precarity",
+          "Occupational stress and coping",
+          "Work conditions",
+          "Media labor"
+        ],
+        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
+        "url": "https://doi.org/10.1080/21670811.2025.2475179",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2429623",
         "title": "Survival in the Passion Economy: Mental Health and Well-Being of Local Journalism Entrepreneurs",
         "authors": [
@@ -2218,6 +2214,28 @@
         ],
         "abstract": "This study investigates the mental health and well-being of local journalism entrepreneurs in the UK context. Drawing on in-depth interviews with 57 journalists in 2020 and 2021, 10 in 2022 and 7 in 2023, the paper focuses on key trade-offs that shape the experiences of local news entrepreneurs. First, these journalists experience their work as meaningful and rewarding, but at the same time it requires significant financial and lifestyle sacrifices. Second, while they enjoy the autonomy associated with their work, some experience challenges due to loneliness and isolation. As such, local journalism entrepreneurs constitute a particular manifestation of workers in the “passion economy”: While they are making significant material sacrifices and experience financial precarity, their passion is informed by their embeddedness in the community. The paper ultimately underscores the importance of problematizing the passion economy in relation to both professionals’ mental health and well-being and an analysis of the systemic and structural causes of stresses and sacrifices.",
         "url": "https://doi.org/10.1080/21670811.2024.2429623",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2350464",
+        "title": "Nudging News Readers: A Mixed-Methods Approach to Understanding When and How Interface Nudges Affect News Selection",
+        "authors": [
+          "Nicolas Mattis",
+          "Tim Groot Kormelink",
+          "Philipp K. Masur",
+          "Judith Moeller",
+          "Wouter van Atteveldt"
+        ],
+        "year": 2024,
+        "citation_count": 8,
+        "topics": [
+          "News recommendation",
+          "Nudging interventions",
+          "User interface design",
+          "News selection behavior"
+        ],
+        "abstract": "Building on research on nudging as well as democratic news recommender design, this preregistered study employed a mixed-methods design to explore how interface nudges and article positioning affect news selection. Specifically, we tested whether a position nudge as well as three different types of interface nudges (e.g., popularity cues and social norm interventions) can facilitate readers’ engagement with current affairs news over other genres. To better understand how users processed and perceived the nudges, we further substantiated the experimental results with qualitative insights from a think-aloud protocol and semi-structured interviews. Our experimental results revealed strong effects of the position nudge, but no significant effects of interface nudges. Exploratory analyses indicated that interface nudges must be noticed to affect news selection, while our qualitative insights point to considerable individual-level differences in how nudges are perceived and evaluated. Thus, our study suggests that effective nudging requires carefully pre-tested design and a nuanced understanding of individual preferences.",
+        "url": "https://doi.org/10.1080/21670811.2024.2350464",
         "topics_llm": true
       },
       {
@@ -2238,25 +2256,6 @@
         ],
         "abstract": "News organisations are growing increasingly dependent on digital infrastructures for the distribution of news, AI implementation, and management of data. In this article, we argue that this dependency goes beyond the level of platforms, reaching into the internet backbone infrastructures that transmit, peer, deliver and host data on which journalism relies. Using Norway as a case, we map the actors involved in the subsea cable sectors, internet exchange points, content delivery networks and the data centres and cloud services that traffic, store and process digital journalism. Given the private, foreign nature of most of the actors involved in these infrastructures, we ask how these backbone infrastructures create interdependencies for the news industries in terms of data sovereignty, distribution control and regulatory jurisdiction. We discuss journalism’s dependency on each of these infrastructural sectors using sociotechnical theory, the contribution to which is to extend the range at which platform capture is considered in journalism scholarship.",
         "url": "https://doi.org/10.1080/21670811.2024.2377078",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2475179",
-        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
-        "authors": [
-          "Nina Springer",
-          "Jana Rick"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "Journalism precarity",
-          "Occupational stress and coping",
-          "Work conditions",
-          "Media labor"
-        ],
-        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
-        "url": "https://doi.org/10.1080/21670811.2025.2475179",
         "topics_llm": true
       },
       {
@@ -2295,28 +2294,6 @@
         ],
         "abstract": "News companies increasingly produce genuine content for social media platforms such as Instagram and TikTok. Unlike content posted on Facebook or X, these news stories are often stand-alone news products adapted to the platforms’ logic and aesthetics. Since Instagram and TikTok are primarily known as entertainment platforms, this raises concerns about the informativeness of such news content. With this study, we therefore explore to what extent news stories on Instagram and TikTok provide relevant information about current affairs, and to what extent this information is combined with entertaining elements. To do so, we collected Instagram stories (<i>N</i> = 1946) and TikTok videos (<i>N </i>= 677) of the six largest Swiss news outlets for a full week each month during a year (February 2022 to January 2023). We compare the prevalence of hard and soft news topics, the degree of information and entertaining elements, and the co-occurrence of information and entertainment (infotainment) between tabloid and quality news outlets, as well as between the two investigated platforms.",
         "url": "https://doi.org/10.1080/21670811.2025.2464062",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2350464",
-        "title": "Nudging News Readers: A Mixed-Methods Approach to Understanding When and How Interface Nudges Affect News Selection",
-        "authors": [
-          "Nicolas Mattis",
-          "Tim Groot Kormelink",
-          "Philipp K. Masur",
-          "Judith Moeller",
-          "Wouter van Atteveldt"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "News recommendation",
-          "Nudging interventions",
-          "User interface design",
-          "News selection behavior"
-        ],
-        "abstract": "Building on research on nudging as well as democratic news recommender design, this preregistered study employed a mixed-methods design to explore how interface nudges and article positioning affect news selection. Specifically, we tested whether a position nudge as well as three different types of interface nudges (e.g., popularity cues and social norm interventions) can facilitate readers’ engagement with current affairs news over other genres. To better understand how users processed and perceived the nudges, we further substantiated the experimental results with qualitative insights from a think-aloud protocol and semi-structured interviews. Our experimental results revealed strong effects of the position nudge, but no significant effects of interface nudges. Exploratory analyses indicated that interface nudges must be noticed to affect news selection, while our qualitative insights point to considerable individual-level differences in how nudges are perceived and evaluated. Thus, our study suggests that effective nudging requires carefully pre-tested design and a nuanced understanding of individual preferences.",
-        "url": "https://doi.org/10.1080/21670811.2024.2350464",
         "topics_llm": true
       },
       {
@@ -2532,24 +2509,6 @@
         ],
         "abstract": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
         "url": "https://doi.org/10.1080/21670811.2025.2483737",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2329651",
-        "title": "Protest Paradigm Revisited: Is Depicting Protestors’ (Counter)Violence Really Bad?",
-        "authors": [
-          "Afrooz Mosallaei"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Protest paradigm",
-          "Media framing of violence",
-          "Visual documentation of civil unrest",
-          "State violence and counter-violence"
-        ],
-        "abstract": "This paper looks closely at the civil unrest in Iran sparked in 2022 by the murder of Mahsa Amini which visual documentation is flooded with imagery of violence and counter-violence. Through closely reading two videos of these protests and relying upon the theoretical framework of violence in the works of political philosophers, this study intends to examine and contextualize state and non-state violence and counter-violence. This paper primarily contributes to the literature on the protest paradigm and challenges the pre-established implications embedded in the framing of protests. This work aims to challenge the negative values associated with portraying protestors' violence in the news and offer a new perspective on such portrayals and strategies for keeping protest coverage both appealing and sympathetic to non-locals. This study illustrates and supports the existing literature about how image affordances of citizen camera-witnesses present the opportunity to make the unseen visible and to highlight the counter-narratives censored and manipulated by the state.",
-        "url": "https://doi.org/10.1080/21670811.2024.2329651",
         "topics_llm": true
       },
       {

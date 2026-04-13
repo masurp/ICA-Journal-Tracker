@@ -1,9 +1,31 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-04-06T07:43:12Z",
-  "trending_from": "2024-04-06",
+  "updated_at": "2026-04-13T08:02:36Z",
+  "trending_from": "2024-04-13",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.5117/ccr2022.2.002.boes",
+        "title": "A framework for privacy preserving digital trace data collection through data donation",
+        "authors": [
+          "Laura Boeschoten",
+          "Jef Ausloos",
+          "Judith Möller",
+          "Theo Araujo",
+          "Daniel L. Oberski"
+        ],
+        "year": 2022,
+        "citation_count": 71,
+        "topics": [
+          "Privacy",
+          "Digital trace data",
+          "Data donation",
+          "Data collection methods"
+        ],
+        "abstract": "A potentially powerful method of social-scientific data collection and investigation has been created by an unexpected institution: the law. Article 15 of the EU’s 2018 General Data Protection Regulation (GDPR) mandates that individuals have electronic access to a copy of their personal data, and all major digital platforms now comply with this law by providing users with “data download packages” (DDPs). Through voluntary donation of DDPs, all data collected by public and private entities during the course of citizens’ digital life can be obtained and analyzed to answer social-scientific questions – with consent. Thus, consented DDPs open the way for vast new research opportunities. However, while this entirely new method of data collection will undoubtedly gain popularity in the coming years, it also comes with its own questions of representativeness and measurement quality, which are often evaluated systematically by means of an error framework. Therefore, in this paper we provide a blueprint for digital trace data collection using DDPs, and devise a “total error framework” for such projects. Our error framework for digital trace data collection through data donation is intended to facilitate high quality social-scientific investigations using DDPs while critically reflecting its unique methodological challenges and sources of error. In addition, we provide a quality control checklist to guide researchers in leveraging the vast opportunities afforded by this new mode of investigation.",
+        "url": "https://doi.org/10.5117/ccr2022.2.002.boes",
+        "topics_llm": true
+      },
       {
         "doi": "10.5117/ccr2022.2.004.guin",
         "title": "Fifteen Seconds of Fame: TikTok and the Supply Side of Social Video",
@@ -22,28 +44,6 @@
         ],
         "abstract": "TikTok has rapidly developed from a punchline for jokes about “kids these days” into a formidable force in American politics. The speed of this development is unprecedented, even in the rapidly-changing world of digital politics. Through a combination of hashtag and snowball sampling, we identify 11,546 TikTok accounts who primarily post about politics, allowing us to analyze trends in the posting, viewing and commenting behavior on 1,998,642 tiktoks they have uploaded. We test a number of theories about how the unique combination of affordances on TikTok shapes how it is used for political communication. Compared to the dominant platform for political videos (YouTube) we find that a higher percentage of TikTok users upload videos, TikTok view counts are more dominated by virality, and viewership of videos are less dependent on a given accounts’ number of followers/subscribers. We discuss how these findings affect the production of content that ultimately determines the experience of TikTok consumers.",
         "url": "https://doi.org/10.5117/ccr2022.2.004.guin",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.2.002.boes",
-        "title": "A framework for privacy preserving digital trace data collection through data donation",
-        "authors": [
-          "Laura Boeschoten",
-          "Jef Ausloos",
-          "Judith Möller",
-          "Theo Araujo",
-          "Daniel L. Oberski"
-        ],
-        "year": 2022,
-        "citation_count": 70,
-        "topics": [
-          "Privacy",
-          "Digital trace data",
-          "Data donation",
-          "Data collection methods"
-        ],
-        "abstract": "A potentially powerful method of social-scientific data collection and investigation has been created by an unexpected institution: the law. Article 15 of the EU’s 2018 General Data Protection Regulation (GDPR) mandates that individuals have electronic access to a copy of their personal data, and all major digital platforms now comply with this law by providing users with “data download packages” (DDPs). Through voluntary donation of DDPs, all data collected by public and private entities during the course of citizens’ digital life can be obtained and analyzed to answer social-scientific questions – with consent. Thus, consented DDPs open the way for vast new research opportunities. However, while this entirely new method of data collection will undoubtedly gain popularity in the coming years, it also comes with its own questions of representativeness and measurement quality, which are often evaluated systematically by means of an error framework. Therefore, in this paper we provide a blueprint for digital trace data collection using DDPs, and devise a “total error framework” for such projects. Our error framework for digital trace data collection through data donation is intended to facilitate high quality social-scientific investigations using DDPs while critically reflecting its unique methodological challenges and sources of error. In addition, we provide a quality control checklist to guide researchers in leveraging the vast opportunities afforded by this new mode of investigation.",
-        "url": "https://doi.org/10.5117/ccr2022.2.002.boes",
         "topics_llm": true
       },
       {
@@ -489,7 +489,7 @@
           "Dmitri Williams"
         ],
         "year": 2023,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Social media analysis",
           "Multilingual text classification",
@@ -911,6 +911,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.006.mali",
+        "title": "Representations of Racial Minorities in Popular Movies",
+        "authors": [
+          "Musa Malik",
+          "Frederic R. Hopp",
+          "René Weber"
+        ],
+        "year": 2022,
+        "citation_count": 6,
+        "topics": [
+          "Racial representation",
+          "Film analysis",
+          "Media bias",
+          "Content analysis"
+        ],
+        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
+        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.2.3.ho",
         "title": "Evaluating Transferability in Multilingual Text Analyses",
         "authors": [
@@ -985,26 +1005,6 @@
         ],
         "abstract": "Hurricanes are ungendered phenomena that are ascribed with gendered names. We examined if news information about the hurricanes are presented using gendered language. This work helps identify if people use gender stereotyping when referring to gender-neutral entities, and what these stereotypes might be. We use methods from natural language processing, qualitative text analysis, and statistics to analyze how gender is expressed in disaster-related news via text-level indicators: (1) pronouns, (2) lexical, syntactic, and semantic features of words related to hurricanes, and (3) types of sources quoted. Our sample contains news articles on 47 hurricane events from 1979 to 2012 from two weeks before to two weeks after landfall. We find that: (1) hurricanes are mainly referred to by gender-neutral pronouns, however, (2) when gendered pronouns are used, female-named hurricanes are five times more likely to be referred to by a gendered pronoun than male-named hurricanes, (3) adjectives and verbs used in discussing female-named hurricanes are on average more negative than those used for reporting on male-named-hurricanes, and (4) governmental sources are most frequently quoted as authority voices (voices from citizens and non-governmental entities are catching up), and a majority of these voices do not directly mention hurricanes with gendered references.",
         "url": "https://doi.org/10.5117/ccr2023.1.006.dinh",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.006.mali",
-        "title": "Representations of Racial Minorities in Popular Movies",
-        "authors": [
-          "Musa Malik",
-          "Frederic R. Hopp",
-          "René Weber"
-        ],
-        "year": 2022,
-        "citation_count": 5,
-        "topics": [
-          "Racial representation",
-          "Film analysis",
-          "Media bias",
-          "Content analysis"
-        ],
-        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
-        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
         "topics_llm": true
       },
       {
@@ -1172,6 +1172,31 @@
         ],
         "abstract": "LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.",
         "url": "https://doi.org/10.5117/ccr2026.2.5.foot",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.11.urma",
+        "title": "Gender Representation in Large Language Models: ACross-Linguistic and Cross-Model Analysis",
+        "authors": [
+          "Aleksandra Urman",
+          "Emese Domahidi",
+          "Johannes B. Gruber",
+          "Ana Jovančević",
+          "Michaela Maier",
+          "Dren Gërguri",
+          "Jaromír Mazak",
+          "Mariken Velden"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Gender bias",
+          "Large language models",
+          "Cross-linguistic analysis",
+          "Stereotype representation"
+        ],
+        "abstract": "The representation of gender in large language models (LLMs) can reflect and reinforce existing sociocultural inequalities. However, the nature of such gender biases can differ significantly across languages, influenced by linguistic features and a model’s training data. In this study, we investigate gender representation in 24 open-weight LLMs across six linguistically distinct languages (English, German, Russian, Czech, Albanian, and Serbian). Extending beyond binary frameworks, we incorporate nonbinary individuals as response options and examine associations across psychometrically validated stereotype dimensions (agency, communality, dominance, weakness, and giftedness). Our analysis accounts for variations between and within model families and differences in sampling parameters. The results reveal that traditional gender stereotypes persist with varying degrees of strength, while nonbinary associations show substantial cross-linguistic variations. Temperature analysis demonstrates that such associations are deeply embedded in model parameters rather than being artifacts of sampling procedures. These findings suggest that gender bias identification and potential mitigation in LLMs are shaped by both contextual and technical factors. Overall, our findings challenge the notion that gender bias is a simple, measurable construct, highlighting its complex, context-dependent nature across languages, models, and stereotype dimensions. Effective bias mitigation requires interventions at the level of training data, model architecture, or alignment procedures.",
+        "url": "https://doi.org/10.5117/ccr2026.2.11.urma",
         "topics_llm": true
       },
       {
@@ -2016,28 +2041,6 @@
         ],
         "abstract": "The validity of multilingual text analysis should be studied through the lens of transferability, the equivalence in applicability of the method across different language contexts. This study has three purposes, first, it formally conceptualizes transferability in multilingual text analysis and introduces the concepts of linguistic and contextual transferability. Second, it proposes a novel approach to evaluate the transferability using natural and synthetic data pairs and the Local Interpretable Model-Agnostic Explanations technique. Finally, it demonstrates how to properly conduct error analysis using the proposed approach and presents a suggested workflow and a practical guide. Using a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language speaking countries of the Comparative Agendas Project as an example, we demonstrate the linguistic and societal transferability using the testing material of parliamentary data from UK, Basque, Hong Kong, and Taiwan. This study sheds light on the transferability of mBERT for four scenarios of high and low linguistic and contextual similarity and illustrates the common causes that lead to prediction error in multilingual topic classification using mBERT.",
         "url": "https://doi.org/10.5117/ccr2023.2.2.ho",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.001.vott",
-        "title": "Going Micro to Go Negative?",
-        "authors": [
-          "Fabio Votta",
-          "Arman Noroozian",
-          "Tom Dobber",
-          "Natali Helberger",
-          "Claes H. de Vreese"
-        ],
-        "year": 2023,
-        "citation_count": 17,
-        "topics": [
-          "Negative advertising",
-          "Microtargeting",
-          "Political campaigns",
-          "Incivility"
-        ],
-        "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
-        "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
         "topics_llm": true
       }
     ],
