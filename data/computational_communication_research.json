@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-04-13T08:02:36Z",
-  "trending_from": "2024-04-13",
+  "updated_at": "2026-04-20T08:06:38Z",
+  "trending_from": "2024-04-20",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 71,
+        "citation_count": 72,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -35,7 +35,7 @@
           "Fabio Votta"
         ],
         "year": 2022,
-        "citation_count": 71,
+        "citation_count": 72,
         "topics": [
           "TikTok",
           "Short-form video",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 58,
+        "citation_count": 59,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -81,7 +81,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 54,
+        "citation_count": 55,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -274,6 +274,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.009.peng",
+        "title": "Athec",
+        "authors": [
+          "Yilang Peng"
+        ],
+        "year": 2022,
+        "citation_count": 21,
+        "topics": [
+          "Visual aesthetics",
+          "Computational analysis",
+          "Political communication",
+          "Social media analysis"
+        ],
+        "abstract": "Visual aesthetics are related to a broad range of communication and psychological outcomes, yet the tools of computational aesthetic analysis are not widely available in the social science community. In this article, I address this gap and provide a tutorial on measuring hand-crafted aesthetic attributes, such as colorfulness and visual complexity. I introduce Athec, a Python library for computational aesthetic analysis in social science research. Furthermore, a case study applies Athec to compare the visual aesthetics of Instagram posts from the two candidates in the 2016 U.S. presidential election, Hillary Clinton and Donald Trump, indicating how amateurishness and authenticity are reflected in politicians’ visual messages. With computational aesthetic analysis tools, communication researchers can better understand the antecedents and outcomes of visual aesthetics beyond visual media content.",
+        "url": "https://doi.org/10.5117/ccr2022.1.009.peng",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2020.1.003.loec",
         "title": "3bij3 – Developing a framework for researching recommender systems and their effects",
         "authors": [
@@ -290,24 +308,6 @@
         ],
         "abstract": "Today’s online news environment is increasingly characterized by personalized news selections, relying on algorithmic solutions for extracting relevant articles and composing an individual’s news diet. Yet, the impact of such recommendation algorithms on how we consume and perceive news is still understudied. We therefore developed one of the first software solutions to conduct studies on effects of news recommender systems in a realistic setting. The web app of our framework (called 3bij3) displays real-time news articles selected by different mechanisms. 3bij3 can be used to conduct large-scale field experiments, in which participants’ use of the site can be tracked over extended periods of time. Compared to previous work, 3bij3 gives researchers control over the recommendation system under study and creates a realistic environment for the participants. It integrates web scraping, different methods to compare and classify news articles, different recommender systems, a web interface for participants, gamification elements, and a user survey to enrich the behavioural measures obtained.",
         "url": "https://doi.org/10.5117/ccr2020.1.003.loec",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.009.peng",
-        "title": "Athec",
-        "authors": [
-          "Yilang Peng"
-        ],
-        "year": 2022,
-        "citation_count": 20,
-        "topics": [
-          "Visual aesthetics",
-          "Computational analysis",
-          "Political communication",
-          "Social media analysis"
-        ],
-        "abstract": "Visual aesthetics are related to a broad range of communication and psychological outcomes, yet the tools of computational aesthetic analysis are not widely available in the social science community. In this article, I address this gap and provide a tutorial on measuring hand-crafted aesthetic attributes, such as colorfulness and visual complexity. I introduce Athec, a Python library for computational aesthetic analysis in social science research. Furthermore, a case study applies Athec to compare the visual aesthetics of Instagram posts from the two candidates in the 2016 U.S. presidential election, Hillary Clinton and Donald Trump, indicating how amateurishness and authenticity are reflected in politicians’ visual messages. With computational aesthetic analysis tools, communication researchers can better understand the antecedents and outcomes of visual aesthetics beyond visual media content.",
-        "url": "https://doi.org/10.5117/ccr2022.1.009.peng",
         "topics_llm": true
       },
       {
@@ -587,6 +587,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
+        "authors": [
+          "Hauke Licht",
+          "Fabienne Lind"
+        ],
+        "year": 2023,
+        "citation_count": 11,
+        "topics": [
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
+        ],
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.005.jurg",
         "title": "Age and Gender Representation on German TV",
         "authors": [
@@ -604,25 +623,6 @@
         ],
         "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
         "url": "https://doi.org/10.5117/ccr2022.1.005.jurg",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
-        ],
-        "year": 2023,
-        "citation_count": 10,
-        "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
-        ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -876,7 +876,7 @@
           "Christine Parker",
           "Mark Andrejevic",
           "Nicholas Carah",
-          "Tan Ying"
+          "Xue Ying Tan"
         ],
         "year": 2024,
         "citation_count": 6,
@@ -1014,7 +1014,7 @@
           "Gülşah Akçakır",
           "Yanru Jiang",
           "Jun Luo",
-          "S. M. Noh"
+          "Seonhye Noh"
         ],
         "year": 2023,
         "citation_count": 5,
@@ -1239,6 +1239,46 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.6.nenn",
+        "title": "Fact-checks as Data Source? Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
+        "authors": [
+          "Sami Nenno"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Fact-checking",
+          "Content analysis",
+          "Misinformation",
+          "Digital journalism"
+        ],
+        "abstract": "Misinformation has to be uncovered before it can be used for research purposes. This is a resource intensive process, which is why fact-checks have been a popular data source. They have been used directly as proxy for misinformation and indirectly to identify its sources and analyze its content and spread. However, there is little research on the limitations of fact-checks as a data source. Are there patterns in their topics that might lead to biased research results? How does the fact-checkers’ choice of targeting certain actors and social media platforms influence their article’s content? The study provides answers to these questions. It analyzes fact-checks from four German outlets between 2019 and 2023. The study finds that certain topics appear continuously, while for others coverage is event- driven. Furthermore, political actors are covered only to a small extent and even less when they are the originators of misinformation. Finally, fact-checks focus strongly on misinformation on Facebook and the findings indicate that the topic distribution of fact-checks might be different if other platforms were focused. The article discusses the findings with respect to limitations of fact-checks as a data source and concludes with practical recommendations for future research.",
+        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.4.horn",
+        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
+        "authors": [
+          "Benjamin D. Horne",
+          "Michael K. Bowman",
+          "Milo Z. Trujillo",
+          "Maurício Gruppi",
+          "Cody Buntain"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Alternative social media",
+          "Platform economics",
+          "Content distribution",
+          "Digital ecosystems"
+        ],
+        "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
+        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2025.1.002.yao",
         "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
         "authors": [
@@ -1260,47 +1300,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2025.1.12.cros",
-        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
-        "authors": [
-          "James Cross",
-          "Derek Greene",
-          "Stefan Müller",
-          "Martijn Schoonvelde"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Political communication",
-          "Digital campaigns",
-          "Social media strategy",
-          "Constituency engagement"
-        ],
-        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
-        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.11.melt",
-        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
-        "authors": [
-          "Christine E. Meltzer",
-          "Michael Scharkow",
-          "Pascal Jürgens"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Gender representation",
-          "Music videos",
-          "Content analysis",
-          "Sexualization"
-        ],
-        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
-        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2025.1.10.wang",
         "title": "Moralistic Imagination of Two-dimensional Politics: Identity and Moral Correlates of Social Media Engagement",
         "authors": [
@@ -1317,6 +1316,27 @@
         ],
         "abstract": "Political polarization in the United States is often framed as an ideological divide between the left and the right. However, emerging research highlights a second, orthogonal dimension: the divide between establishment and anti- establishment movements. While prior work emphasizes the role of morality in shaping political motivations along both dimensions, we extend this by examining how moral rhetoric structures intergroup dynamics within a two-dimensional political space. Using computational linguistic analysis on over 600,000 posts and comments from three representative political communities on Reddit (r/Trump, r/JoeBiden, and r/SandersForPresident), we investigate how moral foundations are invoked differently across these communities. Our results show that anti-establishment communities exhibit consistently higher levels of moral expression than their establishment counterparts. Yet, patterns of engagement suggest that ideological identity—more than anti-establishment alignment—continues to anchor online political engagement. This study contributes a novel computational framework for mapping social identity dynamics in online political communication. Theoretically, it deepens our understanding of how emerging political identities interact with the ideological divide, revealing that while anti-establishment movements may reshape rhetorical styles, the ideological divide remains the primary axis of online political engagement.",
         "url": "https://doi.org/10.5117/ccr2025.1.10.wang",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2025.1.2.yao",
+        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
+        "authors": [
+          "Jielu Yao",
+          "Travis N. Ridout",
+          "Markus Neumann",
+          "Erika Franklin Fowler"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Political advertising",
+          "COVID-19 politicization",
+          "Gender and party politics",
+          "Visual communication analysis"
+        ],
+        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
+        "url": "https://doi.org/10.5117/ccr2025.1.2.yao",
         "topics_llm": true
       },
       {
@@ -1358,6 +1378,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.12.cros",
+        "title": "Mapping Digital Campaign Strategies: How Political Candidates Use Social Media to Communicate Constituency Connection and Policy Stance",
+        "authors": [
+          "James Cross",
+          "Derek Greene",
+          "Stefan Müller",
+          "Martijn Schoonvelde"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Political communication",
+          "Digital campaigns",
+          "Social media strategy",
+          "Constituency engagement"
+        ],
+        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
+        "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2025.1.5.chew",
         "title": "Machine Translation for Accessible Multi-Language Text Analysis",
         "authors": [
@@ -1376,46 +1417,6 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.6.nenn",
-        "title": "Fact-checks as Data Source? Content Analysis of Fact-checking Articles in Germany between 2019 and 2023",
-        "authors": [
-          "Sami Nenno"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Fact-checking",
-          "Content analysis",
-          "Misinformation",
-          "Digital journalism"
-        ],
-        "abstract": "Misinformation has to be uncovered before it can be used for research purposes. This is a resource intensive process, which is why fact-checks have been a popular data source. They have been used directly as proxy for misinformation and indirectly to identify its sources and analyze its content and spread. However, there is little research on the limitations of fact-checks as a data source. Are there patterns in their topics that might lead to biased research results? How does the fact-checkers’ choice of targeting certain actors and social media platforms influence their article’s content? The study provides answers to these questions. It analyzes fact-checks from four German outlets between 2019 and 2023. The study finds that certain topics appear continuously, while for others coverage is event- driven. Furthermore, political actors are covered only to a small extent and even less when they are the originators of misinformation. Finally, fact-checks focus strongly on misinformation on Facebook and the findings indicate that the topic distribution of fact-checks might be different if other platforms were focused. The article discusses the findings with respect to limitations of fact-checks as a data source and concludes with practical recommendations for future research.",
-        "url": "https://doi.org/10.5117/ccr2025.1.6.nenn",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2025.1.4.horn",
-        "title": "Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute",
-        "authors": [
-          "Benjamin D. Horne",
-          "Michael K. Bowman",
-          "Milo Z. Trujillo",
-          "Maurício Gruppi",
-          "Cody Buntain"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Alternative social media",
-          "Platform economics",
-          "Content distribution",
-          "Digital ecosystems"
-        ],
-        "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
-        "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
         "topics_llm": true
       },
       {
@@ -1442,27 +1443,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2025.1.2.yao",
-        "title": "Candidate Party, Gender, and the Face Mask as a Political Symbol in Campaign Advertisements",
-        "authors": [
-          "Jielu Yao",
-          "Travis N. Ridout",
-          "Markus Neumann",
-          "Erika Franklin Fowler"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political advertising",
-          "COVID-19 politicization",
-          "Gender and party politics",
-          "Visual communication analysis"
-        ],
-        "abstract": "During the COVID-19 pandemic, wearing a face mask became politicized in the United States, with politicians and reporters employing competing public safety and civil liberties frames in discussions of masking. In this research, we argue that political candidates’ decisions to speak about and depict mask-wearing in their political advertising were strategic, depending on both the candidate’s party and gender. We examine political ads run on Facebook and on television by federal candidates during the 2020 U.S. campaigns. We use Amazon’s deep learning algorithms for PPE (personal protective equipment) detection. We extract the text and audio of each ad to identify mentions of masks and use an à la Carte embedding regression model to understand how the usage of the term mask differs across covariates. We find that images of masks are much more common than mentions of masks, that there are significant partisan, but not gender, differences in the use of masks, and that there are both partisan and gender differences in the way that candidates speak about masking. This research demonstrates the utility of a novel approach to collecting data. It also suggests that public health measures can become partisan in a campaign environment, with the potential to polarize both the views and behaviors of Democrats and Republicans.",
-        "url": "https://doi.org/10.5117/ccr2025.1.2.yao",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2025.1.1.neve",
         "title": "Boosting Transformers: Recognizing Textual Entailment for Classification of Vaccine News Coverage",
         "authors": [
@@ -1483,6 +1463,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.11.melt",
+        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
+        "authors": [
+          "Christine E. Meltzer",
+          "Michael Scharkow",
+          "Pascal Jürgens"
+        ],
+        "year": 2025,
+        "citation_count": 1,
+        "topics": [
+          "Gender representation",
+          "Music videos",
+          "Content analysis",
+          "Sexualization"
+        ],
+        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2024.2.6.angu",
         "title": "Enabling Online Advertising Transparency through Data Donation Methods",
         "authors": [
@@ -1492,7 +1492,7 @@
           "Christine Parker",
           "Mark Andrejevic",
           "Nicholas Carah",
-          "Tan Ying"
+          "Xue Ying Tan"
         ],
         "year": 2024,
         "citation_count": 6,
@@ -1773,7 +1773,7 @@
         "authors": [
           "Torsten Andreas Enßlin",
           "Viktoria Kainz",
-          "Céline Bœhm"
+          "Céline Boehm"
         ],
         "year": 2023,
         "citation_count": 1,
@@ -1837,7 +1837,7 @@
           "Fabienne Lind"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Multilingual text analysis",
           "Computational text methods",
@@ -1868,26 +1868,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 6,
-        "topics": [
-          "Topic modeling",
-          "Validation methods",
-          "Model evaluation",
-          "Text analysis"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.2.5.pali",
         "title": "Selecting Relevant Documents for Multilingual Content Analysis: An Evaluation of Keyword and Semantic Similarity Search Approaches",
         "authors": [
@@ -1907,6 +1887,26 @@
         ],
         "abstract": "Comparative research in communication often involves selecting and analyzing documents in multiple languages. Machine translation is an effective preprocessing step for automated content analysis, however its impact on data collection remains under-examined. Using a parallel language corpus of European Parliament debates, this paper evaluates machine translation as an approach for multilingual document retrieval, i.e., selecting documents for analysis. We compare several strategies for retrieving relevant multilingual documents, including 1) expert-validated search queries, 2) machine translated search queries, and 3) multilingual semantic similarity search, comparing them against monolingual searches, and describing how these strategies can impact results from topic modeling. Results show that expert-validated search queries achieve reliable results across languages, while the accuracy of machine translated search queries varies significantly between languages and impacts further analyses. Whereas semantic similarity search retrieved a similar subset of relevant documents across languages, results were less accurate than keyword approaches. In sum, validated translations of search queries can be effective for multilingual document retrieval, but errors can lead to systematic bias in further analysis results. These results are important for researchers seeking opportunities to introduce, validate and generalize findings and theories beyond English-speaking countries.",
         "url": "https://doi.org/10.5117/ccr2023.2.5.pali",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
+        "authors": [
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2023,
+        "citation_count": 6,
+        "topics": [
+          "Topic modeling",
+          "Validation methods",
+          "Model evaluation",
+          "Text analysis"
+        ],
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {
@@ -1934,7 +1934,7 @@
           "Gülşah Akçakır",
           "Yanru Jiang",
           "Jun Luo",
-          "S. M. Noh"
+          "Seonhye Noh"
         ],
         "year": 2023,
         "citation_count": 5,
