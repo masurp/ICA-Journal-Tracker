@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-04-20T08:06:30Z",
-  "trending_from": "2024-04-20",
+  "updated_at": "2026-04-27T08:24:04Z",
+  "trending_from": "2024-04-27",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2064,
+        "citation_count": 2068,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -50,7 +50,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 666,
+        "citation_count": 668,
         "topics": [
           "Algorithmic transparency",
           "Platform accountability",
@@ -70,7 +70,7 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 512,
+        "citation_count": 514,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
@@ -88,7 +88,7 @@
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 483,
+        "citation_count": 484,
         "topics": [
           "Artificial intelligence",
           "Automated journalism",
@@ -125,7 +125,7 @@
           "Michael Koliska"
         ],
         "year": 2016,
-        "citation_count": 463,
+        "citation_count": 465,
         "topics": [
           "Algorithmic transparency",
           "News media",
@@ -145,7 +145,7 @@
           "Lena Frischlich"
         ],
         "year": 2019,
-        "citation_count": 417,
+        "citation_count": 418,
         "topics": [
           "Alternative news media",
           "Media criticism",
@@ -165,7 +165,7 @@
           "Hans‐Bernd Brosius"
         ],
         "year": 2017,
-        "citation_count": 383,
+        "citation_count": 384,
         "topics": [
           "Filter bubbles",
           "Recommender systems",
@@ -202,7 +202,7 @@
           "Konstantin Dörr"
         ],
         "year": 2015,
-        "citation_count": 368,
+        "citation_count": 369,
         "topics": [
           "Algorithmic journalism",
           "Natural language generation",
@@ -351,7 +351,7 @@
           "Silvio Waisbord"
         ],
         "year": 2020,
-        "citation_count": 282,
+        "citation_count": 283,
         "topics": [
           "Online harassment",
           "Journalist safety",
@@ -731,7 +731,7 @@
           "Damian Trilling"
         ],
         "year": 2015,
-        "citation_count": 211,
+        "citation_count": 212,
         "topics": [
           "Digital journalism",
           "Computational methods",
@@ -852,7 +852,7 @@
           "Natali Helberger"
         ],
         "year": 2020,
-        "citation_count": 200,
+        "citation_count": 201,
         "topics": [
           "Social media regulation",
           "Platform accountability",
@@ -871,7 +871,7 @@
           "Gunnar Nygren"
         ],
         "year": 2014,
-        "citation_count": 191,
+        "citation_count": 192,
         "topics": [
           "Data journalism",
           "Investigative journalism",
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 188,
+        "citation_count": 189,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -1005,7 +1005,7 @@
           "Natalia Solís Valdés"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Generative AI",
           "Media credibility",
@@ -1039,7 +1039,7 @@
         "title": "Efforts for Counterbalancing Platform Power Through Regulation: Online News Bills and Platform Dependency Disentanglement Lawmaking Initiatives in Brazil Between 2019 and 2025",
         "authors": [
           "Jonas C. L. Valente",
-          "Renata S. M. Gomes",
+          "Renata de Oliveira Miranda Gomes",
           "F Paulino"
         ],
         "year": 2026,
@@ -1581,12 +1581,12 @@
         "doi": "10.1080/21670811.2025.2580979",
         "title": "The Remediation of Fact-Checks on Social Media: Insights from a Multi-Platform Content Analysis",
         "authors": [
-          "Bart Hermans",
+          "Babette Hermans",
           "Cato Waeterloos",
           "Michaël Opgenhaffen"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Fact-checking",
           "Misinformation",
@@ -1623,7 +1623,7 @@
           "Hannes Cools"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "AI-generated content",
           "News media",
@@ -1947,7 +1947,7 @@
           "Christopher Crum"
         ],
         "year": 2025,
-        "citation_count": 21,
+        "citation_count": 23,
         "topics": [
           "Artificial intelligence in journalism",
           "Media policy",
@@ -2027,7 +2027,7 @@
           "Mark Boukes"
         ],
         "year": 2024,
-        "citation_count": 17,
+        "citation_count": 18,
         "topics": [
           "Clickbait journalism",
           "Social media news",
@@ -2036,28 +2036,6 @@
         ],
         "abstract": "News consumption patterns have evolved as people increasingly get news through social media. A by-product of this change has been the rise of “clickbaits”—a form of journalism that utilizes sensationalist techniques to lure readers into clicking on links. Although clickbaits have become common, not much is known about the use of this journalistic practice. This study empirically investigates whether online-native news outlets utilize more sensational features than legacy news outlets to promote their news stories on Twitter (now X). The impact of sensationalism on subsequent user engagement metrics is also tested. First, a manual content analysis of 1,440 tweets by news media organizations was conducted, identifying sensationalism through ten features. Second, an automated content analysis was conducted on a dataset of 25,600 tweets, replicating the manual coding process. The results confirm that online-native outlets (Huffington Post, BuzzFeed) utilized more sensationalism than online legacy outlets (USA Today, L.A. Times). Furthermore, a positive relationship was found between the number of sensationalist features employed and the favorite count, confirming the effectiveness of clickbaits. The automated content analysis by-and-large corroborated the findings of the manual annotation, and additionally revealed a positive effect of sensationalism on the number of retweets.",
         "url": "https://doi.org/10.1080/21670811.2024.2394764",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2342468",
-        "title": "Collaborative Coding Cultures: How Journalists Use GitHub as a Trading Zone",
-        "authors": [
-          "Tomás Dodds",
-          "Valeria Reséndez",
-          "Gerret von Nordheim",
-          "Theo Araujo",
-          "Judith Moeller"
-        ],
-        "year": 2024,
-        "citation_count": 14,
-        "topics": [
-          "Journalism",
-          "GitHub",
-          "Collaborative coding",
-          "Data journalism"
-        ],
-        "abstract": "As the use of “big data” in journalism has become an increasing practice in recent years, its exercise is no longer limited to newsrooms in Europe and North America. The prevalence of coding cultures and collaboration in newsrooms worldwide has risen, in part to tackle challenges related to information overflow. This collaboration has been facilitated partly by the popularization of low-cost code hosting platforms such as GitHub. GitHub is a well-known public code management system with a significant potential for transparency and collaboration between communities. This study aims to map how newsrooms employ GitHub as a trading zone for collaborative journalism. We analyze the GitHub activities of leading media outlets from 27 countries. Based on content analysis of the newsroom’s repositories and users’ profiles, we found that media organizations in the United Kingdom and the United States continue to be the primary code producers in GitHub. However, our results show that newsrooms in developing countries benefit from these codes by stargazing these projects. The results of this article have important implications for understanding how newsrooms across the globe use GitHub for collaboration and the role journalistic code plays in bringing together various collaborative initiatives and actors in journalism.",
-        "url": "https://doi.org/10.1080/21670811.2024.2342468",
         "topics_llm": true
       },
       {
@@ -2156,6 +2134,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2475179",
+        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
+        "authors": [
+          "Nina Springer",
+          "Jana Rick"
+        ],
+        "year": 2025,
+        "citation_count": 9,
+        "topics": [
+          "Journalism precarity",
+          "Occupational stress and coping",
+          "Work conditions",
+          "Media labor"
+        ],
+        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
+        "url": "https://doi.org/10.1080/21670811.2025.2475179",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2454516",
         "title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
         "authors": [
@@ -2192,25 +2189,6 @@
         ],
         "abstract": "News organisations are growing increasingly dependent on digital infrastructures for the distribution of news, AI implementation, and management of data. In this article, we argue that this dependency goes beyond the level of platforms, reaching into the internet backbone infrastructures that transmit, peer, deliver and host data on which journalism relies. Using Norway as a case, we map the actors involved in the subsea cable sectors, internet exchange points, content delivery networks and the data centres and cloud services that traffic, store and process digital journalism. Given the private, foreign nature of most of the actors involved in these infrastructures, we ask how these backbone infrastructures create interdependencies for the news industries in terms of data sovereignty, distribution control and regulatory jurisdiction. We discuss journalism’s dependency on each of these infrastructural sectors using sociotechnical theory, the contribution to which is to extend the range at which platform capture is considered in journalism scholarship.",
         "url": "https://doi.org/10.1080/21670811.2024.2377078",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2475179",
-        "title": "Coping with Precarity: Journalists’ Strategies to Find Ease in a Professionally Vulnerable Situation",
-        "authors": [
-          "Nina Springer",
-          "Jana Rick"
-        ],
-        "year": 2025,
-        "citation_count": 8,
-        "topics": [
-          "Journalism precarity",
-          "Occupational stress and coping",
-          "Work conditions",
-          "Media labor"
-        ],
-        "abstract": "In their day-to-day work, journalists have to compensate for economic system failures, which means that many of them work under precarious conditions. Worrying about the job and morally challenging working conditions create stress that journalists must cope with to continue working as journalists. Based on transactional stress and coping theory and contextualized by the concepts of moral stress and resilience, we explored—together with 27 professional journalists who classify themselves as precariously employed—how these working conditions affect them, their work routines, and their products. We uncover the factors that constitute work-related (moral) stress, how journalists manage this stress through problem- and emotion-focused coping strategies, and which factors contribute to their professional resilience, while also discussing the ideological baggage of this term. This article aims to provide both journalism education and professional journalists with strategies to improve precarious situations in a functional way.",
-        "url": "https://doi.org/10.1080/21670811.2025.2475179",
         "topics_llm": true
       },
       {
@@ -2251,6 +2229,25 @@
         ],
         "abstract": "Building on research on nudging as well as democratic news recommender design, this preregistered study employed a mixed-methods design to explore how interface nudges and article positioning affect news selection. Specifically, we tested whether a position nudge as well as three different types of interface nudges (e.g., popularity cues and social norm interventions) can facilitate readers’ engagement with current affairs news over other genres. To better understand how users processed and perceived the nudges, we further substantiated the experimental results with qualitative insights from a think-aloud protocol and semi-structured interviews. Our experimental results revealed strong effects of the position nudge, but no significant effects of interface nudges. Exploratory analyses indicated that interface nudges must be noticed to affect news selection, while our qualitative insights point to considerable individual-level differences in how nudges are perceived and evaluated. Thus, our study suggests that effective nudging requires carefully pre-tested design and a nuanced understanding of individual preferences.",
         "url": "https://doi.org/10.1080/21670811.2024.2350464",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2462558",
+        "title": "Visuality as an Affordance on Instagram News Production",
+        "authors": [
+          "Saara-Maija Kallio",
+          "Jenni Mäenpää"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Instagram",
+          "News production",
+          "Visual communication",
+          "Social media journalism"
+        ],
+        "abstract": "News media organisations have turned to social media platforms to engage with younger audiences who mainly consume news through these channels. This article focuses on news production on Instagram and explores visuality as a necessity and an affordance in producing journalistic content to the platform. Our data comprises of thematic interviews with social media professionals as well as Instagram Posts and video Reels from news media accounts from Finland. Through qualitative content analysis we have recognised three thematic categories that are connected to visuality guiding the professional decision making: 1) adaptation (strategic adaptation to the platform), 2) condensing (simplifying and shortening the news content) and 3) attention gaining (a strong selectivity targeting specific audiences). Finally, the identification of image-dominated news suggests that visual social media news stories possess characteristics of a new journalistic genre.",
+        "url": "https://doi.org/10.1080/21670811.2025.2462558",
         "topics_llm": true
       },
       {
@@ -2312,25 +2309,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2025.2450624",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2462558",
-        "title": "Visuality as an Affordance on Instagram News Production",
-        "authors": [
-          "Saara-Maija Kallio",
-          "Jenni Mäenpää"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "Instagram",
-          "News production",
-          "Visual communication",
-          "Social media journalism"
-        ],
-        "abstract": "News media organisations have turned to social media platforms to engage with younger audiences who mainly consume news through these channels. This article focuses on news production on Instagram and explores visuality as a necessity and an affordance in producing journalistic content to the platform. Our data comprises of thematic interviews with social media professionals as well as Instagram Posts and video Reels from news media accounts from Finland. Through qualitative content analysis we have recognised three thematic categories that are connected to visuality guiding the professional decision making: 1) adaptation (strategic adaptation to the platform), 2) condensing (simplifying and shortening the news content) and 3) attention gaining (a strong selectivity targeting specific audiences). Finally, the identification of image-dominated news suggests that visual social media news stories possess characteristics of a new journalistic genre.",
-        "url": "https://doi.org/10.1080/21670811.2025.2462558",
         "topics_llm": true
       },
       {
@@ -2408,6 +2386,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2450623",
+        "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
+        "authors": [
+          "Naoise McNally",
+          "Marco Bastos"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Algorithm transparency",
+          "News Feed curation",
+          "Social media engagement",
+          "Facebook news distribution"
+        ],
+        "abstract": "This study examines the effects of a series of significant algorithm changes within Facebook’s News Feed on user engagement with news content on the platform between 2011-2020. By tracking public announcements, industry research, and leaks to the press, we constructed a timeline of algorithm changes and collected data on 1 million news articles from The Guardian over the 10-year period, alongside their associated Facebook engagement metrics (likes, comments, shares, etc.) using the CrowdTangle API. Using time series analysis techniques including cross-correlation, Granger causality, and anomaly detection, we modeled this data to test for the relationship between significant algorithmic ranking updates to Facebook’s News Feed algorithms and user engagement with Guardian articles on the platform. Our results show that strategic interventions to the News Feed algorithm significantly impacted engagement with hard news items, whereas opinion, lifestyle, sports, and arts content were less affected. This study challenges the notion of algorithms as ‘black boxes’ by demonstrating how Facebook’s deliberate adjustments influence user engagement with news content. We conclude by outlining the limitations and challenges for systemic auditing of social media algorithms, advocating for greater data access, and discussing the opportunities afforded by the EU’s Digital Services Act to advance this research agenda.",
+        "url": "https://doi.org/10.1080/21670811.2025.2450623",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2462539",
         "title": "Epistemologies of Digital News Production: Power and Technological Adaptation in Knowledge Production",
         "authors": [
@@ -2468,25 +2465,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2394789",
-        "title": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
-        "authors": [
-          "Archie Thomas",
-          "David Nolan"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Racial justice",
-          "Media criticism",
-          "Organizational change",
-          "Newsroom diversity"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2024.2394789",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2025.2483737",
         "title": "Buzz Across Borders: Analyzing the Global and Local Dynamics Shaping the ChatGPT Media Hype in China",
         "authors": [
@@ -2504,6 +2482,25 @@
         ],
         "abstract": "ChatGPT ignited a global AI media hype. Surprisingly, China ranks as the leading country in online searches for “ChatGPT,” despite the platform’s limited accessibility there. In this study, we explore how the ChatGPT media hype was produced within a framework of international information flow and the localization of a global issue. We employ computational methods to investigate the inter-media and intra-media dynamics shaping the ChatGPT media hype in China. We built four corpora composed of news and social media data discussing ChatGPT: Chinese news (N = 30,061), Chinese social media posts (N = 226,374), global English news (N = 71,457), and global social media posts (N = 807,508). Results indicate that the volume of discussions on ChatGPT on global news, global social media, and Chinese social media all significantly influence that on Chinese ChatGPT news. Chinese media exhibit distinct topical interests compared to global media. Analysis of Chinese ChatGPT news coverage revealed that market-driven media are the primary contributors, and often relied on a narrow range of identical sources and adopted various strategies to increase visibility and audience engagement. The implications of these findings were also discussed.",
         "url": "https://doi.org/10.1080/21670811.2025.2483737",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2024.2394789",
+        "title": "“It’s Trauma on a Deadline”: Change, Continuity and Harm After the “Racial Reckoning”",
+        "authors": [
+          "Archie Thomas",
+          "David Nolan"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Racial justice",
+          "Media criticism",
+          "Organizational change",
+          "Newsroom diversity"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2024.2394789",
         "topics_llm": true
       },
       {
@@ -2734,25 +2731,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2025.2472313",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2450623",
-        "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
-        "authors": [
-          "Naoise McNally",
-          "Marco Bastos"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Algorithm transparency",
-          "News Feed curation",
-          "Social media engagement",
-          "Facebook news distribution"
-        ],
-        "abstract": "This study examines the effects of a series of significant algorithm changes within Facebook’s News Feed on user engagement with news content on the platform between 2011-2020. By tracking public announcements, industry research, and leaks to the press, we constructed a timeline of algorithm changes and collected data on 1 million news articles from The Guardian over the 10-year period, alongside their associated Facebook engagement metrics (likes, comments, shares, etc.) using the CrowdTangle API. Using time series analysis techniques including cross-correlation, Granger causality, and anomaly detection, we modeled this data to test for the relationship between significant algorithmic ranking updates to Facebook’s News Feed algorithms and user engagement with Guardian articles on the platform. Our results show that strategic interventions to the News Feed algorithm significantly impacted engagement with hard news items, whereas opinion, lifestyle, sports, and arts content were less affected. This study challenges the notion of algorithms as ‘black boxes’ by demonstrating how Facebook’s deliberate adjustments influence user engagement with news content. We conclude by outlining the limitations and challenges for systemic auditing of social media algorithms, advocating for greater data access, and discussing the opportunities afforded by the EU’s Digital Services Act to advance this research agenda.",
-        "url": "https://doi.org/10.1080/21670811.2025.2450623",
         "topics_llm": true
       },
       {

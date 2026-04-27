@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-04-20T08:06:18Z",
-  "trending_from": "2024-04-20",
+  "updated_at": "2026-04-27T08:23:58Z",
+  "trending_from": "2024-04-27",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 1960,
+        "citation_count": 1961,
         "topics": [
           "News framing",
           "Political discourse",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1034,
+        "citation_count": 1035,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -104,7 +104,7 @@
           "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 963,
+        "citation_count": 964,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -160,7 +160,7 @@
           "Michael X. Delli Carpini"
         ],
         "year": 2000,
-        "citation_count": 727,
+        "citation_count": 728,
         "topics": [
           "Civic Engagement",
           "Youth Political Participation",
@@ -181,7 +181,7 @@
           "Yasmin Morag"
         ],
         "year": 2019,
-        "citation_count": 633,
+        "citation_count": 636,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
@@ -199,7 +199,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 612,
+        "citation_count": 613,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -217,7 +217,7 @@
           "Claes H. De Vreese"
         ],
         "year": 2001,
-        "citation_count": 608,
+        "citation_count": 609,
         "topics": [
           "Media framing",
           "Political communication",
@@ -255,7 +255,7 @@
           "Jeffrey M. Berry"
         ],
         "year": 2011,
-        "citation_count": 586,
+        "citation_count": 588,
         "topics": [
           "Political incivility",
           "Media discourse analysis",
@@ -275,7 +275,7 @@
           "Markus Strohmaier"
         ],
         "year": 2018,
-        "citation_count": 553,
+        "citation_count": 554,
         "topics": [
           "Political campaigning",
           "Social media platforms",
@@ -293,7 +293,7 @@
           "Geoffrey Baym"
         ],
         "year": 2005,
-        "citation_count": 550,
+        "citation_count": 552,
         "topics": [
           "Political satire",
           "News and entertainment",
@@ -405,7 +405,7 @@
           "William P. Eveland"
         ],
         "year": 2004,
-        "citation_count": 483,
+        "citation_count": 485,
         "topics": [
           "Political discussion",
           "Political knowledge",
@@ -462,7 +462,7 @@
           "Lilach Nir"
         ],
         "year": 2002,
-        "citation_count": 431,
+        "citation_count": 433,
         "topics": [
           "Political deliberation",
           "Disagreement",
@@ -538,7 +538,7 @@
           "Stephen McAdams"
         ],
         "year": 2015,
-        "citation_count": 401,
+        "citation_count": 402,
         "topics": [
           "Negativity bias",
           "Political communication",
@@ -679,6 +679,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2021.1910390",
+        "title": "Social Media and Political Agenda Setting",
+        "authors": [
+          "Fabrizio Gilardi",
+          "Theresa Gessler",
+          "Maël Kubli",
+          "Stefan Müller"
+        ],
+        "year": 2021,
+        "citation_count": 351,
+        "topics": [
+          "Social media",
+          "Agenda setting",
+          "Political communication",
+          "Digital platforms"
+        ],
+        "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
+        "url": "https://doi.org/10.1080/10584609.2021.1910390",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.1993.9962973",
         "title": "Freezing out the public: Elite and media framing of the U.S. anti-nuclear movement",
         "authors": [
@@ -695,27 +716,6 @@
         ],
         "abstract": "(1993). Freezing out the public: Elite and media framing of the U.S. anti‐nuclear movement. Political Communication: Vol. 10, No. 2, pp. 155-173.",
         "url": "https://doi.org/10.1080/10584609.1993.9962973",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2021.1910390",
-        "title": "Social Media and Political Agenda Setting",
-        "authors": [
-          "Fabrizio Gilardi",
-          "Theresa Gessler",
-          "Maël Kubli",
-          "Stefan Müller"
-        ],
-        "year": 2021,
-        "citation_count": 350,
-        "topics": [
-          "Social media",
-          "Agenda setting",
-          "Political communication",
-          "Digital platforms"
-        ],
-        "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
-        "url": "https://doi.org/10.1080/10584609.2021.1910390",
         "topics_llm": true
       },
       {
@@ -878,7 +878,7 @@
           "Nicolas Anspach"
         ],
         "year": 2017,
-        "citation_count": 290,
+        "citation_count": 291,
         "topics": [
           "Social media influence",
           "News consumption",
@@ -916,7 +916,7 @@
           "James Druckman"
         ],
         "year": 2005,
-        "citation_count": 287,
+        "citation_count": 288,
         "topics": [
           "Media coverage",
           "Campaign journalism",
@@ -947,6 +947,68 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2664157",
+        "title": "Finally, Access: How Article 40 DSA Changes Platform Research in Practice",
+        "authors": [
+          "Jakob Ohme",
+          "LK Seiling"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital Services Act",
+          "Platform regulation",
+          "Research access",
+          "Social media research"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2664157",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2649632",
+        "title": "Political Communication Special Issue Introduction: Multi-Platform Research",
+        "authors": [
+          "Josephine Lukito",
+          "Meredith L. Pruden",
+          "Jiyoun Suk",
+          "Yunkang Yang",
+          "Wei Zhong"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Political communication",
+          "Multi-platform analysis",
+          "Digital media",
+          "Social media"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2649632",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2656633",
+        "title": "From Showers to Hurricanes: A Typology of Media Storms",
+        "authors": [
+          "Dror K. Markus",
+          "Effi Levi",
+          "Tamir Sheafer",
+          "Shaul R. Shenhav"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Media storms",
+          "Crisis communication",
+          "Public discourse",
+          "News framing"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2656633",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2644198",
         "title": "Disinformation as Cultural Narrative: Conceptualizing Disinformation as Cross-Platform, Identity-Affirming, Cathartic Stories",
@@ -1295,14 +1357,14 @@
           "Sophie Lecheler"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Computational propaganda",
           "Social media platforms",
           "Digital manipulation",
           "Online disinformation"
         ],
-        "abstract": "",
+        "abstract": "10.1080/10584609.2025.2595596",
         "url": "https://doi.org/10.1080/10584609.2025.2595596",
         "topics_llm": true
       },
@@ -1807,67 +1869,6 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/10584609.2025.2512342",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2506117",
-        "title": "United in Difficult Times? Investigating Party Communication on EU Solidarity",
-        "authors": [
-          "Mohamed Nasr",
-          "Ann‐Kathrin Reinl"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "EU politics",
-          "Party communication",
-          "Political solidarity",
-          "Crisis communication"
-        ],
-        "abstract": "This paper presents an investigation into the positions of political parties on European Union (EU) solidarity, a topic that has been the subject of intense political and social debate over the past 15 years. While prior literature has primarily focused on the demand side, exploring public support for EU solidarity, the role of political parties in shaping this discourse has received little attention. Our study seeks to address this gap by examining the dynamics of party communication on EU solidarity during times of crisis and relative calm. Specifically, we explore two dimensions of solidarity communication: when parties emphasize solidarity (solidarity when) and which parties are more likely to do so (solidarity by whom). To this end, we analyze a unique dataset of party press releases collected over the past decade in six EU member states. Our findings suggest that the nature of a crisis (symmetric vs. asymmetric) as well as a party's incumbency status (government vs. opposition) and sociocultural ideology (GAL vs. TAN) play a critical role in shaping party communication on EU solidarity. These findings are relevant retrospectively in terms of understanding policy decisions taken, but also with an eye on a potential path toward a more social union.",
-        "url": "https://doi.org/10.1080/10584609.2025.2506117",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2504509",
-        "title": "Do They Even Care? Empirical Evidence for the Importance of Listening in Democracy",
-        "authors": [
-          "Ethan C. Busby",
-          "Andrew Ifedapo Thompson",
-          "Suzy Yi"
-        ],
-        "year": 2025,
-        "citation_count": 2,
-        "topics": [
-          "Democratic participation",
-          "Listening",
-          "Political communication",
-          "Civic engagement"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2025.2504509",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2502401",
-        "title": "Misperceptions of Public Opinion During Crises: Evidence from the COVID-19 Pandemic",
-        "authors": [
-          "Ernesto de León",
-          "Sarah Geber",
-          "Daniel Vogler",
-          "Dario Siegen",
-          "Mark Eisenegger",
-          "Thomas N. Friemel"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Public opinion perception",
-          "COVID-19 crisis communication",
-          "Misperceptions and beliefs"
-        ],
-        "abstract": "How we perceive the public opinion climate can have important consequences on our own opinions and behaviors. Such perceptions are especially relevant during moments of widespread crisis, as they may influence support and compliance with crisis response measures. In this paper, we address what factors inform misperceptions of public opinion during these important moments. We focus on two complementary processes, internal and external crisis information processing, to explain variation in public opinion misperceptions of three measures during the COVID-19 pandemic (masking, use of a contact tracing app, and vaccination). Analyses of 82 weekly waves of longitudinal rolling cross-sectional surveys of the Swiss population during two years of the pandemic (N = 36,667) demonstrate that individuals regularly underestimated the popularity of these measures. We find that those who were in the opinion minority (usually those strongly opposed to these measures) had less accurate estimations of public opinion. News media played an important role for misperceptions. When it comes to the correction of misperceptions, individuals reporting to be regular news readers were more likely to have more accurate perceptions of public opinion. Combining the survey data with measures of media salience across news media published during this period, ARIMA time series modeling shows that the salience of measures in the media affects public opinion misperceptions for app usage and masking. Implications for the field of political communication are discussed both in the context of the COVID-19 pandemic, and for crises more generally.",
-        "url": "https://doi.org/10.1080/10584609.2025.2502401",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2093,6 +2094,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2024.2343757",
+        "title": "Trump Goes to Tulsa on Juneteenth: Placing the Study of Identity, Social Groups, and Power at the Center of Political Communication Research",
+        "authors": [
+          "Daniel Kreiss",
+          "Regina G. Lawrence",
+          "Shannon C. McGregor"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Political communication",
+          "Identity politics",
+          "Social groups and power",
+          "Political rhetoric"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2024.2343757",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2024.2414256",
         "title": "The Contemporary Far Right from<i>Contra</i>to Control",
         "authors": [
@@ -2108,26 +2129,6 @@
         ],
         "abstract": "The far right has moved from oppositional force to control over the last decades. This outcome is the result of a long-term process of renewal ultimately aimed at dismantling the liberal order. As the far right moves from counter-hegemonic to hegemonic force in certain contexts, it is important to acknowledge that it does not constitute a “counter-public;” counter-publics are indeed those voices that the far right seeks to silence, i.e. various minorities and opponents. Research on far-right politics is thus charged with addressing terminological and methodological challenges capable of exposing the elusive nature of this phenomenon and illiberal or anti-democratic “red flags.”",
         "url": "https://doi.org/10.1080/10584609.2024.2414256",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2343757",
-        "title": "Trump Goes to Tulsa on Juneteenth: Placing the Study of Identity, Social Groups, and Power at the Center of Political Communication Research",
-        "authors": [
-          "Daniel Kreiss",
-          "Regina G. Lawrence",
-          "Shannon C. McGregor"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Political communication",
-          "Identity politics",
-          "Social groups and power",
-          "Political rhetoric"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2024.2343757",
         "topics_llm": true
       },
       {

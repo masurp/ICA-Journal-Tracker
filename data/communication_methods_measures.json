@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-04-20T08:06:36Z",
-  "trending_from": "2024-04-20",
+  "updated_at": "2026-04-27T08:24:09Z",
+  "trending_from": "2024-04-27",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4087,
+        "citation_count": 4093,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2363,
+        "citation_count": 2378,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1762,
+        "citation_count": 1770,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1011,
+        "citation_count": 1017,
         "topics": [
           "Scale development",
           "Measurement",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 788,
+        "citation_count": 790,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 438,
+        "citation_count": 439,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 421,
+        "citation_count": 423,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 366,
+        "citation_count": 367,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 232,
+        "citation_count": 233,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -305,7 +305,7 @@
           "Michael Sedlmair"
         ],
         "year": 2018,
-        "citation_count": 217,
+        "citation_count": 218,
         "topics": [
           "Sentiment analysis",
           "Word embeddings",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 188,
+        "citation_count": 190,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 184,
+        "citation_count": 185,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -490,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 138,
+        "citation_count": 140,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -530,7 +530,7 @@
           "Michael E. Huge"
         ],
         "year": 2012,
-        "citation_count": 134,
+        "citation_count": 135,
         "topics": [
           "Linear regression",
           "Statistical interaction",
@@ -589,7 +589,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 130,
+        "citation_count": 131,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -660,6 +660,23 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2012.679244",
+        "title": "Development and Validation of the Student Interest and Engagement Scales",
+        "authors": [
+          "Joseph P. Mazer"
+        ],
+        "year": 2012,
+        "citation_count": 115,
+        "topics": [
+          "Student engagement",
+          "Scale development",
+          "Teacher communication"
+        ],
+        "abstract": "A series of studies report the development of empirically derived instruments that measure student interest and engagement. The first study inductively develops an initial item pool through open-ended questionnaire data. A second study subjects the measures to exploratory factor analysis to ascertain an underlying factor structure. The third study deductively tests the measures through confirmatory factor analysis and examines associations among teacher communication behaviors, student emotional and cognitive interest, and engagement. A fourth study offers discriminant validity evidence, suggesting that the new measures are distinct from scales that assess similar yet divergent constructs. Guided by prior theory (Mottet, Frymier, & Beebe, 2006 Mottet, T. P., Frymier, A. B. and Beebe, S. A. 2006. “Theorizing about instructional communication”. In Handbook of instructional communication, Edited by: Mottet, T. P., Richmond, V. P. and McCroskey, J. C. 255–282. Boston, MA: Pearson. [Google Scholar]) and research (Harp & Mayer, 1997 Harp, S. F. and Mayer, R. E. 1997. The role of interest in learning from scientific text and illustration: On the distinction between emotional interest and cognitive interest. Journal of Educational Psychology, 89: 92–102. [Crossref], [Web of Science ®] , [Google Scholar]), the instruments developed here possess heuristic potential for instructional communication research. Implications and areas for future research are discussed.",
+        "url": "https://doi.org/10.1080/19312458.2012.679244",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2010.547823",
         "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
         "authors": [
@@ -677,23 +694,6 @@
         ],
         "abstract": "Researchers frequently use constructed week samples to approximate content for larger populations of textual data in content analysis projects. To date, this sampling method has not been validated in longitudinal contexts necessary for the conduct of large-scale health communication research. This study uses Monte Carlo bootstrap sampling to determine the number of constructed weeks necessary to accurately estimate one- and five-year population values for different types of variables in a quantitative content analysis. Five years (1999–2004) of four different daily newspapers were coded for four variables that varied on type (count vs. rating), amount of missing data, and distribution (normal vs. nonnormal). Results suggest that sampling a minimum of six constructed weeks was most efficient for both time frames. Missing data lowers sampling precision, although a correction can be calculated if the amount of missing data can be estimated. Using an efficient method of sampling newspapers such as constructed week sampling can help communication researchers to more easily study health coverage in the media.",
         "url": "https://doi.org/10.1080/19312458.2010.547823",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2012.679244",
-        "title": "Development and Validation of the Student Interest and Engagement Scales",
-        "authors": [
-          "Joseph P. Mazer"
-        ],
-        "year": 2012,
-        "citation_count": 114,
-        "topics": [
-          "Student engagement",
-          "Scale development",
-          "Teacher communication"
-        ],
-        "abstract": "A series of studies report the development of empirically derived instruments that measure student interest and engagement. The first study inductively develops an initial item pool through open-ended questionnaire data. A second study subjects the measures to exploratory factor analysis to ascertain an underlying factor structure. The third study deductively tests the measures through confirmatory factor analysis and examines associations among teacher communication behaviors, student emotional and cognitive interest, and engagement. A fourth study offers discriminant validity evidence, suggesting that the new measures are distinct from scales that assess similar yet divergent constructs. Guided by prior theory (Mottet, Frymier, & Beebe, 2006 Mottet, T. P., Frymier, A. B. and Beebe, S. A. 2006. “Theorizing about instructional communication”. In Handbook of instructional communication, Edited by: Mottet, T. P., Richmond, V. P. and McCroskey, J. C. 255–282. Boston, MA: Pearson. [Google Scholar]) and research (Harp & Mayer, 1997 Harp, S. F. and Mayer, R. E. 1997. The role of interest in learning from scientific text and illustration: On the distinction between emotional interest and cognitive interest. Journal of Educational Psychology, 89: 92–102. [Crossref], [Web of Science ®] , [Google Scholar]), the instruments developed here possess heuristic potential for instructional communication research. Implications and areas for future research are discussed.",
-        "url": "https://doi.org/10.1080/19312458.2012.679244",
         "topics_llm": true
       },
       {
@@ -728,7 +728,7 @@
           "Christopher Monterola"
         ],
         "year": 2011,
-        "citation_count": 103,
+        "citation_count": 104,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -746,7 +746,7 @@
           "Laurel S. Gleason"
         ],
         "year": 2012,
-        "citation_count": 100,
+        "citation_count": 101,
         "topics": [
           "Quantitative research methods",
           "Theory development",
@@ -790,7 +790,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 94,
+        "citation_count": 95,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -808,7 +808,7 @@
           "Riva Tukachinsky"
         ],
         "year": 2014,
-        "citation_count": 92,
+        "citation_count": 93,
         "topics": [
           "Media involvement",
           "Experimental manipulation",
@@ -817,6 +817,24 @@
         ],
         "abstract": "Abstract The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
         "url": "https://doi.org/10.1080/19312458.2013.873777",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2019.1594742",
+        "title": "The Reliability and Temporal Stability of Self-reported Media Exposure: A Meta-analysis",
+        "authors": [
+          "Michael Scharkow"
+        ],
+        "year": 2019,
+        "citation_count": 91,
+        "topics": [
+          "Media exposure measurement",
+          "Self-report reliability",
+          "Meta-analysis",
+          "Audience research"
+        ],
+        "abstract": "The measurement of media exposure is essential to not only traditional audience research, but also media effects research which relies on accurate estimates of media exposure. Even in the age of digital trace data and passive audience measurement, the workhorse of basically all communication research is self-report data. This article presents a meta-analysis of the reliability and temporal stability of media exposure self-reports in 33 panel studies. Results from a Bayesian multilevel analysis show that self-reported media exposure was moderately reliable (0.69, 90% HDI: 0.65, 0.72) and highly stable (0.90, 90% HDI: 0.88, 0.92). In line with previous studies, the reliability of media exposure measures was higher in adult samples (0.72, 90% HDI: 0.69, 0.76) compared to adolescents (0.60, 90% HDI: 0.53, 0.66). Rank-order stability of media exposure was comparable in adult (0.91, 90% HDI: 0.89, 0.93) and adolescent samples (0.85, 90% HDI: 0.81, 0.90). Moderation analyses showed that self-reported exposure to specific outlets was more reliable than general media use in adult samples. Media-specific differences in reliability were only found in adolescent samples. Overall, moderate reliability in combination with high temporal stability poses important challenges for scholars investigating causes and consequences of media exposure.",
+        "url": "https://doi.org/10.1080/19312458.2019.1594742",
         "topics_llm": true
       },
       {
@@ -836,24 +854,6 @@
         ],
         "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
         "url": "https://doi.org/10.1080/19312458.2014.903390",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2019.1594742",
-        "title": "The Reliability and Temporal Stability of Self-reported Media Exposure: A Meta-analysis",
-        "authors": [
-          "Michael Scharkow"
-        ],
-        "year": 2019,
-        "citation_count": 90,
-        "topics": [
-          "Media exposure measurement",
-          "Self-report reliability",
-          "Meta-analysis",
-          "Audience research"
-        ],
-        "abstract": "The measurement of media exposure is essential to not only traditional audience research, but also media effects research which relies on accurate estimates of media exposure. Even in the age of digital trace data and passive audience measurement, the workhorse of basically all communication research is self-report data. This article presents a meta-analysis of the reliability and temporal stability of media exposure self-reports in 33 panel studies. Results from a Bayesian multilevel analysis show that self-reported media exposure was moderately reliable (0.69, 90% HDI: 0.65, 0.72) and highly stable (0.90, 90% HDI: 0.88, 0.92). In line with previous studies, the reliability of media exposure measures was higher in adult samples (0.72, 90% HDI: 0.69, 0.76) compared to adolescents (0.60, 90% HDI: 0.53, 0.66). Rank-order stability of media exposure was comparable in adult (0.91, 90% HDI: 0.89, 0.93) and adolescent samples (0.85, 90% HDI: 0.81, 0.90). Moderation analyses showed that self-reported exposure to specific outlets was more reliable than general media use in adult samples. Media-specific differences in reliability were only found in adolescent samples. Overall, moderate reliability in combination with high temporal stability poses important challenges for scholars investigating causes and consequences of media exposure.",
-        "url": "https://doi.org/10.1080/19312458.2019.1594742",
         "topics_llm": true
       },
       {
@@ -901,7 +901,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2007,
-        "citation_count": 83,
+        "citation_count": 84,
         "topics": [
           "Statistical methods",
           "Multiple comparisons",
@@ -990,6 +990,45 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/19312458.2026.2658505",
+        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
+        "authors": [
+          "Ulrich Schimmack",
+          "Maria D. Soto"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Statistical power",
+          "Publication bias",
+          "P-curve analysis",
+          "Research credibility"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2026.2658505",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2026.2652240",
+        "title": "Demographic data inclusion tenets in applied data practice: the utilization of the QuantCrit lens to capture demographic fluidness in context",
+        "authors": [
+          "Serena Miller",
+          "Zhao Peng",
+          "Ruth Heo"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Demographic data",
+          "QuantCrit methodology",
+          "Data practice",
+          "Demographic fluidity"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2026.2652240",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2026.2627548",
         "title": "Felt Time Scale (FTS): Measuring how people experience screen time",
@@ -1418,7 +1457,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2024,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Statistical methodology",
           "Research validity",
@@ -1585,7 +1624,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 25,
+        "citation_count": 26,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1968,30 +2007,6 @@
         "abstract": "Using data donations to collect digital trace data holds great potential for communication research, which has not yet been fully realized. Besides limited awareness and expertise among researchers, a central challenge is to motivate people to donate their personal data. Therefore, this article investigates which factors affect people’s willingness to donate across different platforms and data types. The study applies a multilevel approach that explains the reported willingness to donate different types of data (level 1) belonging to different platforms (level 2) from potential data donors with individual characteristics (level 3) to a hypothetical research project. The analysis is based on data collected through a national online survey (n = 833). We find higher willingness to donate YouTube data compared to Facebook, Instagram, or Google, as well as relevant influencing factors at all three levels. Greater willingness is found for lower perceived sensitivity and higher perceived relevance of the data (level of data type), greater perceived behavioral control to request and submit the data (platform level), more favorable attitudes toward data donation and the donation purpose, as well as lower contextual privacy concerns (individual level). Based on these findings, practical implications for future data donation studies are proposed.",
         "url": "https://doi.org/10.1080/19312458.2023.2176474",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilàm Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 138,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2045,7 +2060,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2024,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Statistical methodology",
           "Research validity",
