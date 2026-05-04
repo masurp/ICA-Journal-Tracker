@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-04-27T08:24:09Z",
-  "trending_from": "2024-04-27",
+  "updated_at": "2026-05-04T08:28:28Z",
+  "trending_from": "2024-05-04",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4093,
+        "citation_count": 4098,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2378,
+        "citation_count": 2382,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1770,
+        "citation_count": 1772,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1017,
+        "citation_count": 1020,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 883,
+        "citation_count": 884,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 790,
+        "citation_count": 791,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 439,
+        "citation_count": 440,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 416,
+        "citation_count": 417,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 367,
+        "citation_count": 368,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 263,
+        "citation_count": 264,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 168,
+        "citation_count": 170,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -510,7 +510,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 137,
+        "citation_count": 139,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -826,7 +826,7 @@
           "Michael Scharkow"
         ],
         "year": 2019,
-        "citation_count": 91,
+        "citation_count": 92,
         "topics": [
           "Media exposure measurement",
           "Self-report reliability",
@@ -995,7 +995,7 @@
         "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
         "authors": [
           "Ulrich Schimmack",
-          "Maria D. Soto"
+          "Marion Soto"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1057,7 +1057,7 @@
           "Tai-Quan Peng"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Social bots",
           "Bot detection methods",
@@ -1379,7 +1379,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -1569,7 +1569,7 @@
           "Media evaluation",
           "Political communication"
         ],
-        "abstract": "In this paper, we propose a new strategy for classifying evaluations in large text corpora, using supervised machine learning (SML). Departing from a conceptual and methodological critique of the use of sentiment measures to recognize object-specific evaluations, we argue that a key challenge consists in determining whether a semantic relationship exists between evaluative expressions and evaluated objects. Regarding sentiment terms as merely <i>potentially</i> evaluative expressions, we thus use a SML classifier to decide whether recognized terms have an evaluative function in relation to the evaluated object. We train and test our classifier on a corpus of 10,004 segments of election coverage from 16 major U.S. news outlets and Tweets by 10 prominent U.S. politicians and journalists. Specifically, we focus on evaluations of political predictions about the outcomes and implications of the 2016 and 2020 U.S. presidential elections. We show that our classifier consistently outperforms both off-the-shelf sentiment tools and a pre-trained transformer-based sentiment classifier. Critically, our classifier correctly discards numerous non-evaluative uses of common sentiment terms, whose inclusion in conventional analyses generates large amounts of false positives. We discuss contributions of our approach to the measurement of object-specific evaluations and highlight challenges for future research.",
+        "abstract": "evaluative expressions, we thus use a SML classifier to decide whether recognized terms have an evaluative function in relation to the evaluated object. We train and test our classifier on a corpus of 10,004 segments of election coverage from 16 major U.S. news outlets and Tweets by 10 prominent U.S. politicians and journalists. Specifically, we focus on evaluations of political predictions about the outcomes and implications of the 2016 and 2020 U.S. presidential elections. We show that our classifier consistently outperforms both off-the-shelf sentiment tools and a pre-trained transformer-based sentiment classifier. Critically, our classifier correctly discards numerous non-evaluative uses of common sentiment terms, whose inclusion in conventional analyses generates large amounts of false positives. We discuss contributions of our approach to the measurement of object-specific evaluations and highlight challenges for future research.",
         "url": "https://doi.org/10.1080/19312458.2023.2285783",
         "topics_llm": true
       },
@@ -2020,7 +2020,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Digital trace data",
           "Web tracking",

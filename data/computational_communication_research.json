@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-04-27T08:24:18Z",
-  "trending_from": "2024-04-27",
+  "updated_at": "2026-05-04T08:28:29Z",
+  "trending_from": "2024-05-04",
   "sections": {
     "most_cited": [
       {
@@ -394,6 +394,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2021.3.001.lind",
+        "title": "Greasing the wheels for comparative communication research: Supervised text classification for multilingual corpora",
+        "authors": [
+          "Fabienne Lind",
+          "Tobias Heidenreich",
+          "Christoph Kralj",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2021,
+        "citation_count": 18,
+        "topics": [
+          "Text classification",
+          "Machine learning",
+          "Multilingual corpora",
+          "Automated annotation"
+        ],
+        "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
+        "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2020.1.004.roch",
         "title": "Opinion-based Homogeneity on YouTube",
         "authors": [
@@ -435,27 +456,6 @@
         ],
         "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
         "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2021.3.001.lind",
-        "title": "Greasing the wheels for comparative communication research: Supervised text classification for multilingual corpora",
-        "authors": [
-          "Fabienne Lind",
-          "Tobias Heidenreich",
-          "Christoph Kralj",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2021,
-        "citation_count": 17,
-        "topics": [
-          "Text classification",
-          "Machine learning",
-          "Multilingual corpora",
-          "Automated annotation"
-        ],
-        "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
-        "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
         "topics_llm": true
       },
       {
@@ -501,6 +501,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2024.2.2.hase",
+        "title": "Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies",
+        "authors": [
+          "Valerie Hase",
+          "Mario Haim"
+        ],
+        "year": 2024,
+        "citation_count": 14,
+        "topics": [
+          "Data donation",
+          "Survey methodology",
+          "Bias mitigation",
+          "Digital trace data"
+        ],
+        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (N&lt;sub&gt;I&lt;/sub&gt; = 345) and one with a convenience sample from an online access panel (N&lt;sub&gt;II&lt;/sub&gt; = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
+        "url": "https://doi.org/10.5117/ccr2024.2.2.hase",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2019.1.005.sukk",
         "title": "An Experimental Study of Recommendation Algorithms for Tailored Health Communication",
         "authors": [
@@ -524,22 +543,44 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2024.2.2.hase",
-        "title": "Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies",
+        "doi": "10.5117/ccr2020.2.004.rain",
+        "title": "The State and Evolution of Communication Research",
         "authors": [
-          "Valerie Hase",
-          "Mario Haim"
+          "Stephen A. Rains",
+          "David M. Keating",
+          "John A. Banas",
+          "Adam S. Richards",
+          "Nicholas A. Palomares"
         ],
-        "year": 2024,
+        "year": 2020,
         "citation_count": 13,
         "topics": [
-          "Data donation",
-          "Survey methodology",
-          "Bias mitigation",
-          "Digital trace data"
+          "Topic modeling",
+          "Communication scholarship",
+          "Disciplinary evolution",
+          "Research methodology"
         ],
-        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (N&lt;sub&gt;I&lt;/sub&gt; = 345) and one with a convenience sample from an online access panel (N&lt;sub&gt;II&lt;/sub&gt; = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
-        "url": "https://doi.org/10.5117/ccr2024.2.2.hase",
+        "abstract": "Tremendous growth in the communication discipline during the past century has raised fundamental questions about what it means to study human communication. This project reports an attempt at answering such questions by exploring the themes that animate communication scholarship over time and across journals sponsored by different scholarly organizations. We used topic modeling to examine the abstracts of more than 20,000 articles across 22 journals from their beginnings through 2015. The results offer insights about the state and evolution of communication scholarship. Research has evolved from being predominately focused on pedagogy to examining a wide variety of phenomena that mark an increasingly diverse field. The role of scholarly organizations in contributing to disciplinary fragmentation is considered, as well as the field’s relatively limited focus on underlying and contextually-transcendent processes in favor of specific communication contexts.",
+        "url": "https://doi.org/10.5117/ccr2020.2.004.rain",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
+        "authors": [
+          "Hauke Licht",
+          "Fabienne Lind"
+        ],
+        "year": 2023,
+        "citation_count": 12,
+        "topics": [
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
+        ],
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -565,44 +606,25 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2020.2.004.rain",
-        "title": "The State and Evolution of Communication Research",
+        "doi": "10.5117/ccr2023.2.6.mate",
+        "title": "Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research",
         "authors": [
-          "Stephen A. Rains",
-          "David M. Keating",
-          "John A. Banas",
-          "Adam S. Richards",
-          "Nicholas A. Palomares"
-        ],
-        "year": 2020,
-        "citation_count": 12,
-        "topics": [
-          "Topic modeling",
-          "Communication scholarship",
-          "Disciplinary evolution",
-          "Research methodology"
-        ],
-        "abstract": "Tremendous growth in the communication discipline during the past century has raised fundamental questions about what it means to study human communication. This project reports an attempt at answering such questions by exploring the themes that animate communication scholarship over time and across journals sponsored by different scholarly organizations. We used topic modeling to examine the abstracts of more than 20,000 articles across 22 journals from their beginnings through 2015. The results offer insights about the state and evolution of communication scholarship. Research has evolved from being predominately focused on pedagogy to examining a wide variety of phenomena that mark an increasingly diverse field. The role of scholarly organizations in contributing to disciplinary fragmentation is considered, as well as the field’s relatively limited focus on underlying and contextually-transcendent processes in favor of specific communication contexts.",
-        "url": "https://doi.org/10.5117/ccr2020.2.004.rain",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
+          "Ákos Máté",
+          "Miklós Sebők",
+          "Łukasz Wordliczek",
+          "Dariusz Stolicki",
+          "Ádám Feldmann"
         ],
         "year": 2023,
         "citation_count": 11,
         "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
+          "Machine translation",
+          "Large language models",
+          "Comparative research",
+          "Text classification"
         ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
+        "abstract": "While large language models have revolutionised computational text analysis methods, the field is still tilted towards English language resources. Even as there are pre-trained models for some smaller languages, the coverage is far from universal, and pre-training large language models is an expensive and complicated task. This uneven language coverage limits comparative social research in terms of its geographical and linguistic scope. We propose a solution that sidesteps these issues by leveraging transfer learning and open-source machine translation. We use English as a bridge language between Hungarian and Polish bills and laws to solve a classification task related to the Comparative Agendas Project (CAP) coding scheme. Using the Hungarian corpus as training data for model fine-tuning, we categorise the Polish laws into 20 CAP categories. In doing so, we compare the performance of Transformer-based deep learning models (monolinguals, such as BERT, and multilinguals such as XLM-RoBERTa) and machine learning algorithms (e.g., SVM). Results show that the fine-tuned large language models outperform the traditional supervised learning benchmarks but are themselves surpassed by the machine translation approach. Overall, the proposed solution demonstrates a viable option for applying a transfer learning framework for low-resource languages and achieving state-of-the-art results without requiring expensive pre-training.",
+        "url": "https://doi.org/10.5117/ccr2023.2.6.mate",
         "topics_llm": true
       },
       {
@@ -623,28 +645,6 @@
         ],
         "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
         "url": "https://doi.org/10.5117/ccr2022.1.005.jurg",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.6.mate",
-        "title": "Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research",
-        "authors": [
-          "Ákos Máté",
-          "Miklós Sebők",
-          "Łukasz Wordliczek",
-          "Dariusz Stolicki",
-          "Ádám Feldmann"
-        ],
-        "year": 2023,
-        "citation_count": 10,
-        "topics": [
-          "Machine translation",
-          "Large language models",
-          "Comparative research",
-          "Text classification"
-        ],
-        "abstract": "While large language models have revolutionised computational text analysis methods, the field is still tilted towards English language resources. Even as there are pre-trained models for some smaller languages, the coverage is far from universal, and pre-training large language models is an expensive and complicated task. This uneven language coverage limits comparative social research in terms of its geographical and linguistic scope. We propose a solution that sidesteps these issues by leveraging transfer learning and open-source machine translation. We use English as a bridge language between Hungarian and Polish bills and laws to solve a classification task related to the Comparative Agendas Project (CAP) coding scheme. Using the Hungarian corpus as training data for model fine-tuning, we categorise the Polish laws into 20 CAP categories. In doing so, we compare the performance of Transformer-based deep learning models (monolinguals, such as BERT, and multilinguals such as XLM-RoBERTa) and machine learning algorithms (e.g., SVM). Results show that the fine-tuned large language models outperform the traditional supervised learning benchmarks but are themselves surpassed by the machine translation approach. Overall, the proposed solution demonstrates a viable option for applying a transfer learning framework for low-resource languages and achieving state-of-the-art results without requiring expensive pre-training.",
-        "url": "https://doi.org/10.5117/ccr2023.2.6.mate",
         "topics_llm": true
       },
       {
@@ -1702,7 +1702,7 @@
           "Mario Haim"
         ],
         "year": 2024,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Data donation",
           "Survey methodology",
@@ -1917,25 +1917,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
-        ],
-        "year": 2023,
-        "citation_count": 11,
-        "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
-        ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.1.12.reve",
         "title": "Integrating surveys and social media to better understand the dynamics of public opinion",
         "authors": [
@@ -1952,6 +1933,25 @@
         ],
         "abstract": "Our study investigates the impact of social media on survey outcomes, particularly focusing on how the general public’s perception of issue importance is influenced by Twitter. To accomplish this, we propose two case studies in Swiss politics focusing on social media’s effect on opinion change during elections and the similarities in arguments on social media and in survey data during direct democracy votes. This study relies on a two-year longitudinal data collection of tweets (from January 2019 to December 2020) sent by more than 50.000 identified Swiss seed users and their most active followers. We find that the content of tweets surrounding popular votes reflects similar arguments as those expressed by a representative survey sample. Cases without congruence can be explained by the groups of users dominating social media discussions about the votes but also by the complexity and variety of arguments surrounding the votes. Furthermore, our findings demonstrate that the salience of policy issues on social media has no systematic effect on public opinion change regarding the perceived importance of similar issues, as social media’s impact strongly depends on the content and on the tweet’s author. These results provide valuable insights for researchers, helping them understand the circumstances in which social media data are most likely to be available and present a useful complement to surveys for understanding the dynamics of public opinion.",
         "url": "https://doi.org/10.5117/ccr2023.1.12.reve",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
+        "authors": [
+          "Hauke Licht",
+          "Fabienne Lind"
+        ],
+        "year": 2023,
+        "citation_count": 12,
+        "topics": [
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
+        ],
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {

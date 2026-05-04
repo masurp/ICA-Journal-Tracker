@@ -1,7 +1,7 @@
 {
   "journal_id": "annals_ica",
-  "updated_at": "2026-04-27T08:23:39Z",
-  "trending_from": "2024-04-27",
+  "updated_at": "2026-05-04T08:28:12Z",
+  "trending_from": "2024-05-04",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Paul M. Leonardi"
         ],
         "year": 2013,
-        "citation_count": 1164,
+        "citation_count": 1165,
         "topics": [
           "Social media",
           "Organizational communication",
@@ -39,7 +39,7 @@
           "Agnieszka Stępińska"
         ],
         "year": 2017,
-        "citation_count": 918,
+        "citation_count": 919,
         "topics": [
           "Political communication",
           "Media choice",
@@ -116,7 +116,7 @@
           "Sophie Lecheler"
         ],
         "year": 2019,
-        "citation_count": 623,
+        "citation_count": 624,
         "topics": [
           "Fake news",
           "Misinformation",
@@ -140,7 +140,7 @@
           "Torun Lindholm"
         ],
         "year": 2020,
-        "citation_count": 540,
+        "citation_count": 541,
         "topics": [
           "Media trust",
           "News consumption",
@@ -256,7 +256,7 @@
           "Philip Palmgreen"
         ],
         "year": 1984,
-        "citation_count": 342,
+        "citation_count": 343,
         "topics": [
           "Uses and Gratifications Theory",
           "Media Consumption",
@@ -298,7 +298,7 @@
           "Elina Lindgren"
         ],
         "year": 2020,
-        "citation_count": 327,
+        "citation_count": 328,
         "topics": [
           "Fake news",
           "Mainstream media",
@@ -665,7 +665,7 @@
           "Matthew M. Martin"
         ],
         "year": 2020,
-        "citation_count": 166,
+        "citation_count": 167,
         "topics": [
           "Measurement reliability",
           "Coefficient omega",
@@ -835,7 +835,7 @@
           "Janet Z. Yang"
         ],
         "year": 2013,
-        "citation_count": 139,
+        "citation_count": 140,
         "topics": [
           "Risk communication",
           "Information seeking and processing",
@@ -985,6 +985,26 @@
         ],
         "abstract": "Abstract Climate change visualizations in the media play a crucial role in conveying information, raising awareness, and motivating action. This study combines systematic and scoping literature review (2005–2024) with content analysis to analyze current research on climate change visualizations of traditional and digital media. The findings show that most existing research concentrates on traditional media, with limited focus on social media and a predominance of studies focused on Western countries. Framing theory emerges as the predominant theoretical framework, especially in qualitative studies. By analyzing and comparing a large corpus of scientific studies, this study identifies predominant topics, methodologies trends, and research gaps, while also highlighting key challenges and implications for future research.",
         "url": "https://doi.org/10.1093/anncom/wlag011",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/anncom/wlag017",
+        "title": "Multilevel analysis in communication research: a three-decade review",
+        "authors": [
+          "Michael Chan",
+          "Nanxiao Zheng",
+          "Lazar Dragić"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Multilevel modeling",
+          "Communication research methods",
+          "Statistical analysis",
+          "Theory development"
+        ],
+        "abstract": "Abstract Communication has long been recognized as a “variable field,” with researchers investigating media and communication phenomena at multiple levels of analysis. Despite early discussions in the 1990s and 2000s emphasizing the importance of multilevel analysis for theory development, little is known about the adoption and evolution of multilevel modeling (MLM) within the discipline. This study addresses this gap by analyzing 287 articles employing MLM, published in communication journals between 1990 and 2024. The findings reveal a steady increase in MLM studies over time, accompanied by diversification across various subfields. Most studies feature two levels of analysis, and multilevel regression is the most commonly used statistical approach. Moreover, there has been a shift in recent years toward the use of the open-source R package for analysis instead of proprietary software tools. However, the scholarship is predominantly produced by authors affiliated with institutions in the United States and Europe, further highlighting persistent inequities in the field.",
+        "url": "https://doi.org/10.1093/anncom/wlag017",
         "topics_llm": true
       },
       {
@@ -1918,24 +1938,6 @@
         ],
         "abstract": "This article offers a chronological review of Jornal Nacional, Brazil's popular TV news programme, covering eight presidential elections post-redemocratization. With 108 texts analysed, including journal articles, conference papers, theses, and dissertations, the study focused on 'Jornal Nacional' and 'presidential election' keywords. It reconstructs a detailed historical account of pivotal electoral moments in Brazilian politics as portrayed on TV. The most significant discovery is the enduring scrutiny of the 1989 Lula vs. Collor debate's shortened version aired by the newscast. Notably, there's a lack of English-language publications on this topic. Brazil's economic fluctuations from 1989 to 2018, ranking between 6th and 12th globally, emphasize the need for international research attention to its political mass communication coverage.",
         "url": "https://doi.org/10.1080/23808985.2023.2280927",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/23808985.2023.2280824",
-        "title": "Far-right social media communication in the light of technology affordances: a systematic literature review",
-        "authors": [
-          "Azade Kakavand"
-        ],
-        "year": 2023,
-        "citation_count": 44,
-        "topics": [
-          "Far-right extremism",
-          "Social media platforms",
-          "Technology affordances",
-          "Platform design and communication"
-        ],
-        "abstract": "Most analyses of far-right communication on social media focus on one specific platform, while findings are generalized.In this study, I argue that the far right's use of social media depends on technology affordancesthe linkage between platform design and usageand, thus, might not always be generalizable.After discussing six affordancespersistence, scalability, replicability, connectivity, searchability, and identifiability -I apply them to studies about the far right on Facebook, Twitter, Instagram, YouTube, and Telegram in a systematic literature review.I conclude that most research focuses on aspects linked to connectivity, scalability, and replicability, while persistence, searchability, and identifiability are barely researched so far.I further discuss shortcomings and possibilities for future research to consider aspect of technology affordances.",
-        "url": "https://doi.org/10.1080/23808985.2023.2280824",
         "topics_llm": true
       }
     ],
