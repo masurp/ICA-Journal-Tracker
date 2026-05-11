@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-05-04T08:28:29Z",
-  "trending_from": "2024-05-04",
+  "updated_at": "2026-05-11T09:38:18Z",
+  "trending_from": "2024-05-11",
   "sections": {
     "most_cited": [
       {
@@ -100,7 +100,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 47,
+        "citation_count": 48,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -149,6 +149,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2021.1.001.chan",
+        "title": "Four best practices for measuring news sentiment using ‘off-the-shelf’ dictionaries: a large-scale p-hacking experiment",
+        "authors": [
+          "Chung‐hong Chan",
+          "Joseph Bajjalieh",
+          "Loretta Auvil",
+          "Hartmut Weßler",
+          "Scott L. Althaus",
+          "Kasper Welbers",
+          "Wouter van Atteveldt",
+          "Marc Jungblut"
+        ],
+        "year": 2021,
+        "citation_count": 29,
+        "topics": [
+          "Sentiment analysis",
+          "Dictionary-based methods",
+          "News sentiment",
+          "p-hacking"
+        ],
+        "abstract": "We examined the validity of 37 sentiment scores based on dictionary-based methods using a large news corpus and demonstrated the risk of generating a spectrum of results with different levels of statistical significance by presenting an analysis of relationships between news sentiment and U.S. presidential approval. We summarize our findings into four best practices: 1) use a suitable sentiment dictionary; 2) do not assume that the validity and reliability of the dictionary is ‘built-in’; 3) check for the influence of content length and 4) do not use multiple dictionaries to test the same statistical hypothesis.",
+        "url": "https://doi.org/10.5117/ccr2021.1.001.chan",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2020.2.001.maie",
         "title": "How Document Sampling and Vocabulary Pruning Affect the Results of Topic Models",
         "authors": [
@@ -186,31 +211,6 @@
         ],
         "abstract": "Images matter because they help individuals evaluate policies, primarily through emotional resonance, and can help researchers from a variety of fields measure otherwise difficult to estimate quantities. The lack of scalable analytic methods, however, has prevented researchers from incorporating large scale image data in studies. This article offers an in-depth overview of automated methods for image analysis and explains their usage and implementation. It elaborates on how these methods and results can be validated and interpreted and discusses ethical concerns. Two examples then highlight approaches to systematically understanding visual presentations of political actors and events from large scale image datasets collected from social media. The first study examines gender and party differences in the self-presentation of the U.S. politicians through their Facebook photographs, using an off-the-shelf computer vision model, Google’s Label Detection API. The second study develops image classifiers based on convolutional neural networks to detect custom labels from images of protesters shared on Twitter to understand how protests are framed on social media. These analyses demonstrate advantages of computer vision and deep learning as a novel analytic tool that can expand the scope and size of traditional visual analysis to thousands of features and millions of images. The paper also provides comprehensive technical details and practices to help guide political communication scholars and practitioners.",
         "url": "https://doi.org/10.5117/ccr2022.1.001.joo",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2021.1.001.chan",
-        "title": "Four best practices for measuring news sentiment using ‘off-the-shelf’ dictionaries: a large-scale p-hacking experiment",
-        "authors": [
-          "Chung‐hong Chan",
-          "Joseph Bajjalieh",
-          "Loretta Auvil",
-          "Hartmut Weßler",
-          "Scott L. Althaus",
-          "Kasper Welbers",
-          "Wouter van Atteveldt",
-          "Marc Jungblut"
-        ],
-        "year": 2021,
-        "citation_count": 28,
-        "topics": [
-          "Sentiment analysis",
-          "Dictionary-based methods",
-          "News sentiment",
-          "p-hacking"
-        ],
-        "abstract": "We examined the validity of 37 sentiment scores based on dictionary-based methods using a large news corpus and demonstrated the risk of generating a spectrum of results with different levels of statistical significance by presenting an analysis of relationships between news sentiment and U.S. presidential approval. We summarize our findings into four best practices: 1) use a suitable sentiment dictionary; 2) do not assume that the validity and reliability of the dictionary is ‘built-in’; 3) check for the influence of content length and 4) do not use multiple dictionaries to test the same statistical hypothesis.",
-        "url": "https://doi.org/10.5117/ccr2021.1.001.chan",
         "topics_llm": true
       },
       {
@@ -543,6 +543,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
+        "authors": [
+          "Hauke Licht",
+          "Fabienne Lind"
+        ],
+        "year": 2023,
+        "citation_count": 13,
+        "topics": [
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
+        ],
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2020.2.004.rain",
         "title": "The State and Evolution of Communication Research",
         "authors": [
@@ -562,25 +581,6 @@
         ],
         "abstract": "Tremendous growth in the communication discipline during the past century has raised fundamental questions about what it means to study human communication. This project reports an attempt at answering such questions by exploring the themes that animate communication scholarship over time and across journals sponsored by different scholarly organizations. We used topic modeling to examine the abstracts of more than 20,000 articles across 22 journals from their beginnings through 2015. The results offer insights about the state and evolution of communication scholarship. Research has evolved from being predominately focused on pedagogy to examining a wide variety of phenomena that mark an increasingly diverse field. The role of scholarly organizations in contributing to disciplinary fragmentation is considered, as well as the field’s relatively limited focus on underlying and contextually-transcendent processes in favor of specific communication contexts.",
         "url": "https://doi.org/10.5117/ccr2020.2.004.rain",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
-        ],
-        "year": 2023,
-        "citation_count": 12,
-        "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
-        ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -1228,7 +1228,7 @@
           "Xinyi Li",
           "Yu Xu",
           "Yongfeng Zhang",
-          "Edward Malthouse"
+          "Edward C. Malthouse"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1433,7 +1433,7 @@
           "Paul Balluff"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Coordinated behavior detection",
           "Twitter networks",
@@ -1943,7 +1943,7 @@
           "Fabienne Lind"
         ],
         "year": 2023,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Multilingual text analysis",
           "Computational text methods",
@@ -1952,26 +1952,6 @@
         ],
         "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
         "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 6,
-        "topics": [
-          "Topic modeling",
-          "Validation methods",
-          "Model evaluation",
-          "Text analysis"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {
@@ -1994,6 +1974,26 @@
         ],
         "abstract": "Comparative research in communication often involves selecting and analyzing documents in multiple languages. Machine translation is an effective preprocessing step for automated content analysis, however its impact on data collection remains under-examined. Using a parallel language corpus of European Parliament debates, this paper evaluates machine translation as an approach for multilingual document retrieval, i.e., selecting documents for analysis. We compare several strategies for retrieving relevant multilingual documents, including 1) expert-validated search queries, 2) machine translated search queries, and 3) multilingual semantic similarity search, comparing them against monolingual searches, and describing how these strategies can impact results from topic modeling. Results show that expert-validated search queries achieve reliable results across languages, while the accuracy of machine translated search queries varies significantly between languages and impacts further analyses. Whereas semantic similarity search retrieved a similar subset of relevant documents across languages, results were less accurate than keyword approaches. In sum, validated translations of search queries can be effective for multilingual document retrieval, but errors can lead to systematic bias in further analysis results. These results are important for researchers seeking opportunities to introduce, validate and generalize findings and theories beyond English-speaking countries.",
         "url": "https://doi.org/10.5117/ccr2023.2.5.pali",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
+        "authors": [
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2023,
+        "citation_count": 6,
+        "topics": [
+          "Topic modeling",
+          "Validation methods",
+          "Model evaluation",
+          "Text analysis"
+        ],
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {

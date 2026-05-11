@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_media_psychology",
-  "updated_at": "2026-05-04T08:28:28Z",
-  "trending_from": "2024-05-04",
+  "updated_at": "2026-05-11T09:38:17Z",
+  "trending_from": "2024-05-11",
   "sections": {
     "most_cited": [
       {
@@ -30,7 +30,7 @@
           "Pavica Sheldon"
         ],
         "year": 2008,
-        "citation_count": 506,
+        "citation_count": 507,
         "topics": [
           "Communication apprehension",
           "Social media use",
@@ -49,7 +49,7 @@
           "Frank D. Belschak"
         ],
         "year": 2009,
-        "citation_count": 387,
+        "citation_count": 388,
         "topics": [
           "Cyberbullying",
           "Online victimization",
@@ -68,7 +68,7 @@
           "Jeremy N. Bailenson"
         ],
         "year": 2009,
-        "citation_count": 381,
+        "citation_count": 382,
         "topics": [
           "Virtual reality",
           "Human-computer interaction",
@@ -95,7 +95,7 @@
           "Timo Saari"
         ],
         "year": 2015,
-        "citation_count": 288,
+        "citation_count": 292,
         "topics": [
           "Spatial presence",
           "Media psychology",
@@ -113,7 +113,7 @@
           "Leonard Reinecke"
         ],
         "year": 2009,
-        "citation_count": 269,
+        "citation_count": 270,
         "topics": [
           "Video games",
           "Stress recovery",
@@ -132,7 +132,7 @@
           "Leonard Reinecke"
         ],
         "year": 2010,
-        "citation_count": 261,
+        "citation_count": 262,
         "topics": [
           "Avatar identification",
           "Video game enjoyment",
@@ -266,7 +266,7 @@
           "Mariya Davydenko"
         ],
         "year": 2017,
-        "citation_count": 143,
+        "citation_count": 144,
         "topics": [
           "Immersive technology",
           "Nature relatedness",
@@ -539,7 +539,7 @@
           "Jeffrey A. Hall"
         ],
         "year": 2017,
-        "citation_count": 85,
+        "citation_count": 86,
         "topics": [
           "Mobile communication",
           "Psychological entrapment",
@@ -813,7 +813,7 @@
           "Hannes-Vincent Krause"
         ],
         "year": 2022,
-        "citation_count": 65,
+        "citation_count": 66,
         "topics": [
           "Social media use",
           "Well-being",
@@ -1001,7 +1001,7 @@
       },
       {
         "doi": "10.1027/1864-1105/a000510",
-        "title": "Sticking to Your Guns – Testing Competing Effects of Social Identity and Competition Motivation in an Online Multiplayer Game",
+        "title": "Sticking to Your Guns: Testing Competing Effects of Social Identity and Competition Motivation in an Online Multiplayer Game",
         "authors": [
           "Jack Lipei Tang",
           "Mingxuan Liu",
@@ -1953,6 +1953,25 @@
     ],
     "trending": [
       {
+        "doi": "10.1027/1864-1105/a000441",
+        "title": "Does Polarizing News Become Less Polarizing When Written by an AI?",
+        "authors": [
+          "Magdalena Wischnewski",
+          "Nicole C. Krämer"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "AI-generated news",
+          "Political polarization",
+          "Source credibility",
+          "Confirmation bias"
+        ],
+        "abstract": "Abstract: In this study, we examine how readers perceive the credibility of polarizing news purportedly written by a machine. In particular, we study whether a machine attribution can decrease the polarization inflicted by the self-confirmation bias. To that end, we expect that attitude-confirming polarizing news is perceived as less credible when attributed to a machine than when attributed to a human author. We assume this is due to the lower source credibility of machines and less emotional involvement. In a preregistered online experiment, we presented N = 508 participants with a polarizing news article attributed either to a human author or a machine. The article also either confirmed or disconfirmed participants’ attitudes towards the polarizing issue. Our results show that participants did not differentiate between human and machine-attributed news. Moreover, we found no evidence that machine-attributed news affected the self-confirmation bias. However, we found that, while machine authors were perceived equally competent as human authors, they were perceived as less trustworthy. In addition, we found that the machine attribution induced less emotional involvement in terms of experienced enthusiasm but not experienced anger.",
+        "url": "https://doi.org/10.1027/1864-1105/a000441",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1027/1864-1105/a000474",
         "title": "Exploring Algorithmic Cultivation – Sensitive Self-Disclosure, Self-Diagnosis, and Hazardous Mental Health Communication on TikTok",
         "authors": [
@@ -1992,25 +2011,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1027/1864-1105/a000441",
-        "title": "Does Polarizing News Become Less Polarizing When Written by an AI?",
-        "authors": [
-          "Magdalena Wischnewski",
-          "Nicole C. Krämer"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "AI-generated news",
-          "Political polarization",
-          "Source credibility",
-          "Confirmation bias"
-        ],
-        "abstract": "Abstract: In this study, we examine how readers perceive the credibility of polarizing news purportedly written by a machine. In particular, we study whether a machine attribution can decrease the polarization inflicted by the self-confirmation bias. To that end, we expect that attitude-confirming polarizing news is perceived as less credible when attributed to a machine than when attributed to a human author. We assume this is due to the lower source credibility of machines and less emotional involvement. In a preregistered online experiment, we presented N = 508 participants with a polarizing news article attributed either to a human author or a machine. The article also either confirmed or disconfirmed participants’ attitudes towards the polarizing issue. Our results show that participants did not differentiate between human and machine-attributed news. Moreover, we found no evidence that machine-attributed news affected the self-confirmation bias. However, we found that, while machine authors were perceived equally competent as human authors, they were perceived as less trustworthy. In addition, we found that the machine attribution induced less emotional involvement in terms of experienced enthusiasm but not experienced anger.",
-        "url": "https://doi.org/10.1027/1864-1105/a000441",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1027/1864-1105/a000427",
         "title": "A Comparative Study Examining the Effects of Mixed and Virtual Reality on Plausibility Illusion and Emotional States",
         "authors": [
@@ -2028,6 +2028,25 @@
         ],
         "abstract": "Abstract: Understanding the unique impact of extended reality (XR) technologies, such as virtual reality (VR) and mixed reality (MR), on emotional states is important for predicting users’ subsequent judgments and behaviors. Nevertheless, it remains unclear whether and how the differences in the structural affordances of VR and MR (i.e., a sense of being there vs. a sense of an object being in the physical environment) can indeed induce distinct effects. Therefore, the present study aims to elucidate the role of VR and MR technologies on users’ emotional states through the theoretical lens of plausibility illusion. Specifically, we hypothesized that plausibility illusion would mediate the effects of XR modality on emotional states, including arousal and perceived fear toward a fearful object. In addition, we explored the potential moderating role of object virtuality (i.e., ontological characteristic of virtual objects) in the relationship between XR modality and plausibility illusion. Results from a mixed 2 (XR modality: VR vs. MR) × 2 (virtuality: para-authentic vs. artificial) design experiment ( N = 100) showed that VR induced a higher sense of plausibility illusion than MR, which played a mediating role in amplifying arousal and perceived fear. This finding suggests that the differences in the structural affordances of VR and MR can induce distinctive effects on emotional states. Further implications of the findings are discussed.",
         "url": "https://doi.org/10.1027/1864-1105/a000427",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1027/1864-1105/a000445",
+        "title": "For Your Eyes Only?",
+        "authors": [
+          "M. Jansen",
+          "Iris van Ooijen"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Political microtargeting",
+          "Social media advertising",
+          "Transparency disclosure",
+          "User awareness"
+        ],
+        "abstract": "Abstract: By means of their personal data, users on social media platforms get targeted to be persuaded by political advertisers with messages that are specifically tailored to them: political microtargeting. A substantial problem with political microtargeting is that receivers of targeted advertisements are often unaware that they are being targeted. Increasing transparency to improve awareness potentially leads to a more critical way of processing the information in an advertisement. Moreover, the use of these measures could lead to differences in users’ attention to the advertisement. Therefore, this study investigates whether a disclosure that informs users about targeting practices occurring on Instagram relates to more visual attention to the disclosure, whether this relates to more critical processing of the advertisement, and whether this relationship is mediated by users’ visual attention to the advertisement. In a preregistered one-factorial between-subjects laboratory eye-tracking experiment ( N = 134), we exposed participants to an Instagram timeline containing either a sponsorship disclosure (control condition) or a more informative targeting disclosure (experimental condition). Results show that the targeting disclosure did not relate to higher levels of visual attention to the disclosure, but that attention to the disclosure was positively related to more critical processing as well as participants’ visual attention to the ad. Nevertheless, the relation between attention to the disclosure and critical processing was not mediated by attention to the advertisement. Finally, we believe that these disclosures represent a step forward in improving transparency and shielding users.",
+        "url": "https://doi.org/10.1027/1864-1105/a000445",
         "topics_llm": true
       }
     ]

@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-05-04T08:28:28Z",
-  "trending_from": "2024-05-04",
+  "updated_at": "2026-05-11T09:38:16Z",
+  "trending_from": "2024-05-11",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4098,
+        "citation_count": 4111,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2382,
+        "citation_count": 2397,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1772,
+        "citation_count": 1775,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1020,
+        "citation_count": 1027,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 884,
+        "citation_count": 885,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 791,
+        "citation_count": 794,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 440,
+        "citation_count": 441,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 423,
+        "citation_count": 424,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 417,
+        "citation_count": 418,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 368,
+        "citation_count": 374,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 210,
+        "citation_count": 212,
         "topics": [
           "News framing",
           "Computational methods",
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 196,
+        "citation_count": 197,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 170,
+        "citation_count": 173,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -466,7 +466,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 143,
+        "citation_count": 144,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -490,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 140,
+        "citation_count": 142,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -510,7 +510,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 139,
+        "citation_count": 141,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -607,7 +607,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 125,
+        "citation_count": 126,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 116,
+        "citation_count": 120,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -728,7 +728,7 @@
           "Christopher Monterola"
         ],
         "year": 2011,
-        "citation_count": 104,
+        "citation_count": 105,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -991,6 +991,26 @@
     ],
     "latest": [
       {
+        "doi": "10.1080/19312458.2026.2664873",
+        "title": "Exploring temporal dynamics in digital trace data: mining user-sequences for communication research",
+        "authors": [
+          "Yangliu Fan",
+          "Jakob Ohme",
+          "Lion Wedel"
+        ],
+        "year": 2026,
+        "citation_count": 2,
+        "topics": [
+          "Digital trace data",
+          "Temporal dynamics",
+          "Sequence analysis",
+          "Computational communication methods"
+        ],
+        "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between such theoretical dynamicality and the non-dynamical character of communication scholars' preferred methodologies. In this paper, we argue for a new research framework that uses computational approaches to leverage the fine-grained timestamps recorded in digital trace data. In particular, we propose to maintain the hyper-longitudinal information in the trace data and analyze time-evolving 'user-sequences,' which provide rich information about user activity with high temporal resolution. To illustrate our proposed framework, we present a case study that applied six approaches (e.g., sequence analysis, process mining, and language-based models) to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study suggests a conceptual reorientation towards a better understanding of the temporal dimension in communication processes, resting on the exploding supply of digital trace data and the technical advances in analytical approaches.",
+        "url": "https://doi.org/10.1080/19312458.2026.2664873",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2026.2658505",
         "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
         "authors": [
@@ -1120,7 +1140,7 @@
           "Nathan TeBlunthuis"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Computational Social Science",
           "Bias detection",
@@ -1182,7 +1202,7 @@
           "Emese Domahidi"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Large Language Models",
           "Incivility detection",
@@ -1417,7 +1437,7 @@
           "Kasper Welbers"
         ],
         "year": 2024,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Language models",
           "Measurement validity",
@@ -1519,7 +1539,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1624,7 +1644,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 26,
+        "citation_count": 27,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1665,7 +1685,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 22,
+        "citation_count": 23,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1722,7 +1742,7 @@
           "Sabine Trepte"
         ],
         "year": 2023,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Privacy",
           "Scale development",
@@ -1832,7 +1852,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 23,
+        "citation_count": 24,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -1895,7 +1915,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Persuasion",
           "Message effects",
@@ -1978,7 +1998,7 @@
           "Kilian Buehling"
         ],
         "year": 2023,
-        "citation_count": 22,
+        "citation_count": 23,
         "topics": [
           "Digital trace data",
           "Message deletion",
@@ -1987,25 +2007,6 @@
         ],
         "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
         "url": "https://doi.org/10.1080/19312458.2023.2183188",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2176474",
-        "title": "Leveraging Data Donations for Communication Research: Exploring Drivers Behind the Willingness to Donate",
-        "authors": [
-          "Nico Pfiffner",
-          "Thomas N. Friemel"
-        ],
-        "year": 2023,
-        "citation_count": 38,
-        "topics": [
-          "Data donations",
-          "Digital trace data",
-          "Privacy and data sharing",
-          "Survey methodology"
-        ],
-        "abstract": "Using data donations to collect digital trace data holds great potential for communication research, which has not yet been fully realized. Besides limited awareness and expertise among researchers, a central challenge is to motivate people to donate their personal data. Therefore, this article investigates which factors affect people’s willingness to donate across different platforms and data types. The study applies a multilevel approach that explains the reported willingness to donate different types of data (level 1) belonging to different platforms (level 2) from potential data donors with individual characteristics (level 3) to a hypothetical research project. The analysis is based on data collected through a national online survey (n = 833). We find higher willingness to donate YouTube data compared to Facebook, Instagram, or Google, as well as relevant influencing factors at all three levels. Greater willingness is found for lower perceived sensitivity and higher perceived relevance of the data (level of data type), greater perceived behavioral control to request and submit the data (platform level), more favorable attitudes toward data donation and the donation purpose, as well as lower contextual privacy concerns (individual level). Based on these findings, practical implications for future data donation studies are proposed.",
-        "url": "https://doi.org/10.1080/19312458.2023.2176474",
         "topics_llm": true
       }
     ],
@@ -2051,24 +2052,6 @@
         ],
         "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping; specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants' logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user's environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2349987",
-        "title": "Message-level Claims Require Message-level Data Analyses: Aligning Claims and Evidence in Communication Research",
-        "authors": [
-          "Daniel J. O’Keefe"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "Statistical methodology",
-          "Research validity",
-          "Communication research",
-          "Evidence alignment"
-        ],
-        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages).For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated.Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\"But that inference is mistaken.The reasoning mistake is not specific to that example, but rather is a common mistake in communication research.This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.Consider the following reasoning: \"Narrative transportation and persuasion are positively correlated: the more individuals are transported by a narrative (carried away by the story, immersed in the story world, etc.), the more persuaded they are.Hence when creating narrative messages meant to persuade, message designers should make the messages highly transporting, because messages that are more transporting will be more persuasive.\"This reasoning sounds quite sensible, but in fact is deeply flawed.The reasoning mistake here is not specific to narrative messages or transportation or persuasion, but instead is a common and general mistake evident in several aspects of communication research.In what follows, this article first specifies and explains the mistake in this reasoning.A second section provides multiple examples of the mistake.A concluding section discusses implications of, and remedies for, this circumstance. The reasoning mistakeTo continue the example: It seems obvious that if individuals who are more transported by a narrative are more persuaded (than individuals not so transported), then narratives that are more transporting will be more persuasive (than narratives that are not so transporting) and hence persuaders should use those narratives that are more transporting.For example, Green and Clark (2013) noted that \"individuals who are more highly transported into narratives show greater attitude, belief and behavior change\" (p.477); one implication drawn was that \"if a smoking scene occurs in a highly transporting movie, it should have a stronger effect on individuals' attitudes and behaviors than a smoking scene in a less transporting film\" (p.481).Similarly, A. J. Dillard et al. (2018) found that among people who read a narrative about skin cancer, greater",
-        "url": "https://doi.org/10.1080/19312458.2024.2349987",
         "topics_llm": true
       },
       {
