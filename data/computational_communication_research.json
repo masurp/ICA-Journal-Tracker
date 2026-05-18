@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-05-11T09:38:18Z",
-  "trending_from": "2024-05-11",
+  "updated_at": "2026-05-18T10:02:01Z",
+  "trending_from": "2024-05-18",
   "sections": {
     "most_cited": [
       {
@@ -74,6 +74,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.2.002.lu",
+        "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
+        "authors": [
+          "Yingdan Lu",
+          "Jennifer Pan"
+        ],
+        "year": 2022,
+        "citation_count": 58,
+        "topics": [
+          "Chinese government communication",
+          "Social media content analysis",
+          "Douyin/TikTok",
+          "Political propaganda"
+        ],
+        "abstract": "As audiences have moved to digital media, so too have governments around the world. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese government uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese government. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.",
+        "url": "https://doi.org/10.5117/ccr2022.2.002.lu",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.2.007.hage",
         "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
         "authors": [
@@ -90,25 +109,6 @@
         ],
         "abstract": "This paper introduces the 4CAT Capture and Analysis Toolkit (4CAT), an open-source Web-based research tool. 4CAT can capture data from a variety of online sources (including Twitter, Telegram, Reddit, 4chan, 8kun, BitChute, Douban and Parler) and analyze them through analytical processors. 4CAT seeks to make robust data capture and analysis available to researchers not familiar with computer programming, without ‘black-boxing’ the implemented research methods. Before outlining the practical use of 4CAT, we discuss three ‘affordances’ that inform its design: modularity, transparency, and traceability. 4CAT is modular because new data sources and analytical processors can be easily added and changed; transparent because it aims to render legible its inner workings; and traceable because of automatic and shareable documentation of intermediate analysis steps. We then show how 4CAT operationalizes these features through a description of its general setup and a short walkthrough. Finally, we discuss how 4CAT strives for an ‘ethics by design’ development philosophy that enables ethically sound data-driven research. 4CAT is then positioned as both an answer to and a further call for ‘tool criticism’ in computational social research.",
         "url": "https://doi.org/10.5117/ccr2022.2.007.hage",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.2.002.lu",
-        "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
-        "authors": [
-          "Yingdan Lu",
-          "Jennifer Pan"
-        ],
-        "year": 2022,
-        "citation_count": 48,
-        "topics": [
-          "Chinese government communication",
-          "Social media content analysis",
-          "Douyin/TikTok",
-          "Political propaganda"
-        ],
-        "abstract": "As audiences have moved to digital media, so too have governments around the world. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese government uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese government. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.",
-        "url": "https://doi.org/10.5117/ccr2022.2.002.lu",
         "topics_llm": true
       },
       {

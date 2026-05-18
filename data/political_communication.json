@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-05-11T09:37:58Z",
-  "trending_from": "2024-05-11",
+  "updated_at": "2026-05-18T10:01:46Z",
+  "trending_from": "2024-05-18",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 1966,
+        "citation_count": 1970,
         "topics": [
           "News framing",
           "Political discourse",
@@ -30,7 +30,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 1550,
+        "citation_count": 1551,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1470,
+        "citation_count": 1472,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1037,
+        "citation_count": 1038,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -142,7 +142,7 @@
           "Patricia Moy"
         ],
         "year": 1999,
-        "citation_count": 887,
+        "citation_count": 888,
         "topics": [
           "Local political participation",
           "Mass media effects",
@@ -181,7 +181,7 @@
           "Yasmin Morag"
         ],
         "year": 2019,
-        "citation_count": 641,
+        "citation_count": 643,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
@@ -199,7 +199,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 614,
+        "citation_count": 615,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -236,7 +236,7 @@
           "Stuart Soroka"
         ],
         "year": 2012,
-        "citation_count": 596,
+        "citation_count": 597,
         "topics": [
           "Sentiment analysis",
           "Automated coding",
@@ -331,7 +331,7 @@
           "Dietram A. Scheufele"
         ],
         "year": 2000,
-        "citation_count": 520,
+        "citation_count": 521,
         "topics": [
           "News media use",
           "Knowledge gaps",
@@ -350,7 +350,7 @@
           "Chris Wells"
         ],
         "year": 2020,
-        "citation_count": 512,
+        "citation_count": 513,
         "topics": [
           "Disinformation",
           "Political communication",
@@ -369,7 +369,7 @@
           "Tamir Sheafer"
         ],
         "year": 2007,
-        "citation_count": 510,
+        "citation_count": 511,
         "topics": [
           "Political personalization",
           "Media and politics",
@@ -481,7 +481,7 @@
           "Leticia Bode"
         ],
         "year": 2020,
-        "citation_count": 429,
+        "citation_count": 430,
         "topics": [
           "Misinformation",
           "Defining misinformation",
@@ -557,7 +557,7 @@
           "Neil Malhotra"
         ],
         "year": 2015,
-        "citation_count": 402,
+        "citation_count": 403,
         "topics": [
           "Media coverage",
           "Partisan polarization",
@@ -679,27 +679,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2019.1661888",
-        "title": "Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign",
-        "authors": [
-          "Franziska Keller",
-          "David Schoch",
-          "Sebastian Stier",
-          "JungHwan Yang"
-        ],
-        "year": 2019,
-        "citation_count": 354,
-        "topics": [
-          "Astroturfing",
-          "Disinformation campaigns",
-          "Twitter",
-          "Political communication"
-        ],
-        "abstract": "Political astroturfing, a centrally coordinated disinformation campaign in which participants pretend to be ordinary citizens acting independently, has the potential to influence electoral outcomes and other forms of political behavior. Yet, it is hard to evaluate the scope and effectiveness of political astroturfing without “ground truth” information, such as the verified identity of its agents and instigators. In this paper, we study the South Korean National Information Service’s (NIS) disinformation campaign during the presidential election in 2012, taking advantage of a list of participating accounts published in court proceedings. Features that best distinguish these accounts from regular users in contemporaneously collected Twitter data are traces left by coordination among astroturfing agents, instead of the individual account characteristics typically used in related approaches such as social bot detection. We develop a methodology that exploits these distinct empirical patterns to identify additional likely astroturfing accounts and validate this detection strategy by analyzing their messages and current account status. However, an analysis relying on Twitter influence metrics shows that the known and suspect NIS accounts only had a limited impact on political social media discussions. By using the principal-agent framework to analyze one of the earliest revealed instances of political astroturfing, we improve on extant methodological approaches to detect disinformation campaigns and ground them more firmly in social science theory.",
-        "url": "https://doi.org/10.1080/10584609.2019.1661888",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2021.1910390",
         "title": "Social Media and Political Agenda Setting",
         "authors": [
@@ -709,7 +688,7 @@
           "Stefan Müller"
         ],
         "year": 2021,
-        "citation_count": 354,
+        "citation_count": 356,
         "topics": [
           "Social media",
           "Agenda setting",
@@ -721,6 +700,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2019.1661888",
+        "title": "Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign",
+        "authors": [
+          "Franziska Keller",
+          "David Schoch",
+          "Sebastian Stier",
+          "JungHwan Yang"
+        ],
+        "year": 2019,
+        "citation_count": 355,
+        "topics": [
+          "Astroturfing",
+          "Disinformation campaigns",
+          "Twitter",
+          "Political communication"
+        ],
+        "abstract": "Political astroturfing, a centrally coordinated disinformation campaign in which participants pretend to be ordinary citizens acting independently, has the potential to influence electoral outcomes and other forms of political behavior. Yet, it is hard to evaluate the scope and effectiveness of political astroturfing without “ground truth” information, such as the verified identity of its agents and instigators. In this paper, we study the South Korean National Information Service’s (NIS) disinformation campaign during the presidential election in 2012, taking advantage of a list of participating accounts published in court proceedings. Features that best distinguish these accounts from regular users in contemporaneously collected Twitter data are traces left by coordination among astroturfing agents, instead of the individual account characteristics typically used in related approaches such as social bot detection. We develop a methodology that exploits these distinct empirical patterns to identify additional likely astroturfing accounts and validate this detection strategy by analyzing their messages and current account status. However, an analysis relying on Twitter influence metrics shows that the known and suspect NIS accounts only had a limited impact on political social media discussions. By using the principal-agent framework to analyze one of the earliest revealed instances of political astroturfing, we improve on extant methodological approaches to detect disinformation campaigns and ground them more firmly in social science theory.",
+        "url": "https://doi.org/10.1080/10584609.2019.1661888",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.1993.9962973",
         "title": "Freezing out the public: Elite and media framing of the U.S. anti-nuclear movement",
         "authors": [
@@ -728,7 +728,7 @@
           "Andrew Rojecki"
         ],
         "year": 1993,
-        "citation_count": 351,
+        "citation_count": 352,
         "topics": [
           "Media framing",
           "Anti-nuclear movement",
@@ -749,7 +749,7 @@
           "Erik C. Nisbet"
         ],
         "year": 2004,
-        "citation_count": 335,
+        "citation_count": 336,
         "topics": [
           "Political participation",
           "Social networks",
@@ -822,7 +822,7 @@
           "Regina G. Lawrence"
         ],
         "year": 2000,
-        "citation_count": 321,
+        "citation_count": 322,
         "topics": [
           "Game framing",
           "News framing",
@@ -890,6 +890,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2017.1334727",
+        "title": "In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use",
+        "authors": [
+          "Daniel Kreiss",
+          "Regina G. Lawrence",
+          "Shannon C. McGregor"
+        ],
+        "year": 2017,
+        "citation_count": 289,
+        "topics": [
+          "Political communication",
+          "Social media strategy",
+          "Political practitioners",
+          "Digital campaigning"
+        ],
+        "abstract": "(2018). In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use. Political Communication: Vol. 35, Studying Politics Across Media, pp. 8-31.",
+        "url": "https://doi.org/10.1080/10584609.2017.1334727",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584600152647083",
         "title": "A Spiral of Cynicism for Some: The Contingent Effects of Campaign News Frames on Participation and Confidence in Government",
         "authors": [
@@ -926,27 +946,28 @@
         "abstract": "A growing number of theorists are calling for a revival of research on political socialization based on the premise that children are active in their own civic development. We advance this argument a step further by proposing a model of family communication that reverses the roles of parents and children as conventionally understood in political socialization. Adolescent children are not merely receptive to political stimulation; they possess the power to transform patterns of family communication in ways that benefit themselves and their parents. We first challenge a series of interrelated assumptions about the nature and direction of influence in the family. We then document evidence of \"trickle-up influence,\" in which child-initiated discussion--stimulated by a civics curriculum--prompts the parent to increase her civic competence via increased news media use, knowledge gain, and opinion formation. The parent's response reflects her desire to maintain a leadership role in the family, and more important from a theoretical perspective, it reveals the intrinsic forces of family adaptation that can make the home a powerful incubator of citizenship. Political growth occurs when the family system adjusts to reestablish equilibrium in response to exogenous factors or developmental needs that propel change. The ultimate purpose of this essay is to propose a functional model of family political communication. We apply theoretical perspectives from developmental literature to illustrate how political communication serves the family goals of autonomy and cohesion during various stages of the family life cycle.",
         "url": "https://doi.org/10.1080/01957470290055501",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584600500311394",
-        "title": "Media Matter: How Newspapers and Television News Cover Campaigns and Influence Voters",
-        "authors": [
-          "James Druckman"
-        ],
-        "year": 2005,
-        "citation_count": 288,
-        "topics": [
-          "Media coverage",
-          "Campaign journalism",
-          "Voter behavior",
-          "Television vs. print news"
-        ],
-        "abstract": "How do different media cover politics and affect voters? Are newspapers a boon and television a bane to democratic functioning? While these questions have long been the subject of debate, a variety of methodological hurdles have hampered prior attempts to document media differences and their effects. In this article, I discuss these challenges and offer an approach for overcoming them to the greatest extent possible. I then combine comprehensive media content analyses with an election day exit poll to assess campaign coverage and its effect on voters. I find that television news and newspapers differ substantially in the quantity of coverage but do not drastically differ in terms of content. More important, I find that newspapers, and not television news, play a significant, although potentially limited, role in informing the electorate.",
-        "url": "https://doi.org/10.1080/10584600500311394",
-        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2672710",
+        "title": "How National Cues Polarize Perceptions of Political Figures",
+        "authors": [
+          "Joel Sievert",
+          "Kevin K. Banda"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Political polarization",
+          "National identity",
+          "Political perception",
+          "Cue-based reasoning"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2672710",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2664717",
         "title": "“Everything for the Front, Everything for Victory”? Elite Incentives and Rhetorical Adaptation of Russia’s Members of Parliament on Social Media",
@@ -1852,65 +1873,26 @@
         "abstract": "In contemporary digital societies, the status of epistemic authorities and democratic institutions is under severe strain by misinformation as well as delegitimizing accusations targeting legacy media, science, and legal institutions. Truth claims are increasingly subjected to ideological and partisan biases, which may result in the reinforcement of oppositions between camps that see the world from diametrically opposed factual beliefs. As a longer-term consequence, delegitimizing communication and attacks on epistemic and democratic institutions can even be associated with democratic backsliding. This wider context of an epistemic crisis has crucial implications for misinformation research and policy, emphasizing the need to view epistemic disorders from a more holistic and context-bound perspective.",
         "url": "https://doi.org/10.1080/10584609.2025.2514595",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2496656",
-        "title": "Beyond Dichotomies: Empathy and Listening in Deliberative Democracy",
-        "authors": [
-          "Katharina Anna Sodoma",
-          "Daniel Sharp"
-        ],
-        "year": 2025,
-        "citation_count": 3,
-        "topics": [
-          "Deliberative democracy",
-          "Empathy",
-          "Listening",
-          "Political communication"
-        ],
-        "abstract": "In Beyond Empathy and Inclusion: The Challenge of Listening in Deliberative Democracy, Mary F. Scudder defends a listening-based approach to deliberative democracy. On this account, democratic legitimacy requires that citizens listen to each other’s deliberative contributions to give them fair consideration. She opposes this listening-based approach to a recent “empathic turn” in deliberative democratic theory, which emphasizes the importance of imaginative perspective-taking in democratic deliberation. Scudder develops an incisive critique of relying on empathy in democratic deliberation. According to her argument, our capacity to empathize is severely limited, and empathy cannot replace, but only distort listening. This argument suggests that we should listen rather than empathize in democratic deliberation. In this paper, we challenge the implicit assumption that empathy and listening must be regarded as mutually exclusive alternatives. We argue that empathy still has an important place within a listening-centric approach to democracy because empathy can improve listening broadly understood, according to its own inherent aim of ensuring fair consideration. Specifically, we identify three constructive roles that empathy can play in facilitating democratic listening: it can help us to understand what someone has said, see where someone is coming from, and promote mutual understanding. We argue that recognizing these constructive roles for empathy in democratic deliberation is compatible with acknowledging empathy’s limits and accepting that we should sometimes prefer listening without empathy. Ceasing to conceive of empathy and listening as mutually exclusive options opens up new questions and we close by discussing some potential directions of future study.",
-        "url": "https://doi.org/10.1080/10584609.2025.2496656",
-        "topics_llm": true
       }
     ],
     "trending": [
       {
-        "doi": "10.1080/10584609.2024.2350416",
-        "title": "Emotionalized Social Media Environments: How Alternative News Media and Populist Actors Drive Angry Reactions",
+        "doi": "10.1080/10584609.2024.2406809",
+        "title": "Prevalence, Presentation, and Popularity of Political Topics in Social Media Influencers’ Content Across Two Countries",
         "authors": [
-          "Edda Humprecht",
-          "Michael Amsler",
-          "Frank Esser",
-          "Peter Van Aelst"
+          "Darian Harff",
+          "Desirée Schmuck"
         ],
         "year": 2024,
-        "citation_count": 22,
+        "citation_count": 15,
         "topics": [
-          "Social media",
-          "Alternative news media",
-          "Populism",
-          "Emotional engagement"
+          "Social media influencers",
+          "Political communication",
+          "Cross-cultural analysis",
+          "Content analysis"
         ],
-        "abstract": "This study employs a comparative analytical framework to enhance our understanding of the conducive opportunity structures that foster emotionally charged political discourse.We examined 175,539 Facebook posts characterized by variations in content (in terms of themes and populist rhetoric), authorship (including populist politicians, traditional news, and alternative media), and geographic context (Belgium, France, Germany, Switzerland, UK, US).We then analyzed 360,000 emotional responses from Facebook users to determine which posts create the most conducive conditions for eliciting angry emotions.Our key findings show that posts from alternative and hyperpartisan media, as well as those from populist politicians and parties, tend to elicit elevated levels of angry reactions.These posts often use anti-elitist and exclusionary language.This finding has significant implications, as the anger generated by such accounts can propagate incivility and polarization and facilitate the spread of ideologically driven misinformation.A particular case is Donald Trump, who, as a populist governing figure, manages to elicit positive emotions, including \"love,\" despite delivering seemingly antagonistic messages.To strengthen the robustness of our findings, we conducted a replication analysis with 67,620 Facebook posts from three of the six countries and examined two different time periods.This analysis confirmed the persistence of our findings over time.Our opportunitystructure framework offers valuable insights for designing targeted strategies to improve the quality of public discourse and promote informed and constructive political engagement in diverse societies.",
-        "url": "https://doi.org/10.1080/10584609.2024.2350416",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2354389",
-        "title": "The Nature of Visual Disinformation Online: A Qualitative Content Analysis of Alternative and Social Media in the Netherlands",
-        "authors": [
-          "Michael Hameleers"
-        ],
-        "year": 2024,
-        "citation_count": 20,
-        "topics": [
-          "Visual disinformation",
-          "Social media",
-          "Content analysis",
-          "Alternative media"
-        ],
-        "abstract": "Online political disinformation often relies on decontextualized or manipulated images. Visual content can make disinformation more attention-grabbing and credible as it offers a direct index of reality. Yet, most research to date has mapped the salience and nature of disinformation by exclusively focusing on textual content. Responding to urgent calls in the literature, this paper relies on an inductive qualitative analysis of visual disinformation disseminated by alternative media platforms. Based on the analysis, we propose a typology of different applications of visuals in disinformation: (1) Signaling legitimacy and adherence to conventional news values through seemingly unrelated images; (2) illustrating authoritative expert consensus through the visualization of disinformation by alternative experts; (3) emphasizing widespread social support for unconventional truth claims through the inclusion of visuals depicting the vox populi; (4) offering decontextualized proof for conspiracy theories and counter-factual claims. This typology intends to inform future empirical research that aims to detect disinformation narratives across different (digital) contexts.",
-        "url": "https://doi.org/10.1080/10584609.2024.2354389",
+        "abstract": "sponsorship: Fonds Wetenschappelijk Onderzoek|11F6423N, Fonds Wetenschappelijk Onderzoek|G0B7822N, 2022 AEJMC Emerging Scholars Grant",
+        "url": "https://doi.org/10.1080/10584609.2024.2406809",
         "topics_llm": true
       },
       {
@@ -1931,25 +1913,6 @@
         ],
         "abstract": "In this introductory piece to a special issue of the Forum, we explore the inadequacies of the field of political communication in addressing the rising threats posed by illiberalism and the far right. We argue that the discipline’s frameworks, developed within the context of Western liberal democracies, are ill-equipped to tackle the complexities and self-reflexive strategies of contemporary far-right movements and actor types. These formations exploit liberal norms and practices to ultimately undermine and dismantle democratic values. We call for more “democratic clarity,” urging political communication scholars to adopt a clear stance in defense of democratic principles and to develop more robust conceptual tools to accurately classify and understand far-right actors. We introduce the other discussion pieces featured in this special section and ultimately point to actionable items meant to move the field forward.",
         "url": "https://doi.org/10.1080/10584609.2024.2414268",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2406809",
-        "title": "Prevalence, Presentation, and Popularity of Political Topics in Social Media Influencers’ Content Across Two Countries",
-        "authors": [
-          "Darian Harff",
-          "Desirée Schmuck"
-        ],
-        "year": 2024,
-        "citation_count": 14,
-        "topics": [
-          "Social media influencers",
-          "Political communication",
-          "Cross-cultural analysis",
-          "Content analysis"
-        ],
-        "abstract": "sponsorship: Fonds Wetenschappelijk Onderzoek|11F6423N, Fonds Wetenschappelijk Onderzoek|G0B7822N, 2022 AEJMC Emerging Scholars Grant",
-        "url": "https://doi.org/10.1080/10584609.2024.2406809",
         "topics_llm": true
       },
       {
@@ -2040,6 +2003,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2024.2414262",
+        "title": "A Querpolitics Approach to the Far Right? Notes from Germany and India",
+        "authors": [
+          "Srirupa Roy"
+        ],
+        "year": 2024,
+        "citation_count": 12,
+        "topics": [
+          "Far-right politics",
+          "Querpolitics",
+          "Comparative political communication",
+          "Germany and India"
+        ],
+        "abstract": "Bundesministerium für Bildung und Forschung 10.13039/501100002347",
+        "url": "https://doi.org/10.1080/10584609.2024.2414262",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2024.2425782",
         "title": "Anti-Woke Publics",
         "authors": [
@@ -2055,6 +2036,25 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/10584609.2024.2425782",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2024.2369118",
+        "title": "Engaging Populism? The Popularity of European Populist Political Parties on Facebook and Twitter, 2010–2020",
+        "authors": [
+          "Thomas Davidson",
+          "Jenny Enos"
+        ],
+        "year": 2024,
+        "citation_count": 11,
+        "topics": [
+          "Populism",
+          "Social media engagement",
+          "Political parties",
+          "European politics"
+        ],
+        "abstract": "Scholars have argued that populists disproportionately benefit from social media, and there is evidence that they attract more engagement than other politicians and parties in several countries. We systematically evaluate the relationship between populism and online popularity using a novel dataset covering over four hundred parties active on Facebook and Twitter in thirty European countries between 2010 and 2020. We use Bayesian hierarchical models to assess the relationship between populism and three types of engagement on each platform. We find that populists received more engagement than other parties on Facebook, but there was no consistent relationship on Twitter. Among these parties, only right-wing populist parties had any widespread advantages. Our results highlight considerable heterogeneity across countries and over time, providing new insight into the scope and scale of populists' online popularity. This includes evidence that left-wing and centrist parties attracted more engagement in a handful of countries. We evaluate several explanations for these results, finding that negative macroeconomic indicators and increased migration are positively correlated with populist engagement, while internet and social media adoption have mixed impacts that benefit right-wing populists.",
+        "url": "https://doi.org/10.1080/10584609.2024.2369118",
         "topics_llm": true
       },
       {
@@ -2074,25 +2074,6 @@
         ],
         "abstract": "International audience",
         "url": "https://doi.org/10.1080/10584609.2024.2363542",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2369118",
-        "title": "Engaging Populism? The Popularity of European Populist Political Parties on Facebook and Twitter, 2010–2020",
-        "authors": [
-          "Thomas Davidson",
-          "Jenny Enos"
-        ],
-        "year": 2024,
-        "citation_count": 10,
-        "topics": [
-          "Populism",
-          "Social media engagement",
-          "Political parties",
-          "European politics"
-        ],
-        "abstract": "Scholars have argued that populists disproportionately benefit from social media, and there is evidence that they attract more engagement than other politicians and parties in several countries. We systematically evaluate the relationship between populism and online popularity using a novel dataset covering over four hundred parties active on Facebook and Twitter in thirty European countries between 2010 and 2020. We use Bayesian hierarchical models to assess the relationship between populism and three types of engagement on each platform. We find that populists received more engagement than other parties on Facebook, but there was no consistent relationship on Twitter. Among these parties, only right-wing populist parties had any widespread advantages. Our results highlight considerable heterogeneity across countries and over time, providing new insight into the scope and scale of populists' online popularity. This includes evidence that left-wing and centrist parties attracted more engagement in a handful of countries. We evaluate several explanations for these results, finding that negative macroeconomic indicators and increased migration are positively correlated with populist engagement, while internet and social media adoption have mixed impacts that benefit right-wing populists.",
-        "url": "https://doi.org/10.1080/10584609.2024.2369118",
         "topics_llm": true
       },
       {
