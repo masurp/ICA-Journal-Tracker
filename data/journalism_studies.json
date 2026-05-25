@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_studies",
-  "updated_at": "2026-05-18T10:02:16Z",
-  "trending_from": "2024-05-18",
+  "updated_at": "2026-05-25T10:04:40Z",
+  "trending_from": "2024-05-25",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Maxwell McCombs"
         ],
         "year": 2005,
-        "citation_count": 1216,
+        "citation_count": 1218,
         "topics": [
           "Agenda-setting theory",
           "Media influence",
@@ -49,7 +49,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2016,
-        "citation_count": 1070,
+        "citation_count": 1073,
         "topics": [
           "News values",
           "Journalism",
@@ -81,6 +81,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2018.1492881",
+        "title": "Truth is What Happens to News",
+        "authors": [
+          "Silvio Waisbord"
+        ],
+        "year": 2018,
+        "citation_count": 605,
+        "topics": [
+          "Fake news",
+          "Journalism",
+          "Truth and credibility",
+          "Public communication"
+        ],
+        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
+        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2010.512502",
         "title": "MAPPING JOURNALISM CULTURES ACROSS NATIONS",
         "authors": [
@@ -96,7 +114,7 @@
           "Christopher D. Karadjov"
         ],
         "year": 2010,
-        "citation_count": 604,
+        "citation_count": 605,
         "topics": [
           "Journalism cultures",
           "Cross-national comparative study",
@@ -105,24 +123,6 @@
         ],
         "abstract": "Abstract This article reports key findings from a comparative survey of the role perceptions, epistemological orientations and ethical views of 1800 journalists from 18 countries. The results show that detachment, non-involvement, providing political information and monitoring the government are considered essential journalistic functions around the globe. Impartiality, the reliability and factualness of information, as well as adherence to universal ethical principles are also valued worldwide, though their perceived importance varies across countries. Various aspects of interventionism, objectivism and the importance of separating facts from opinion, on the other hand, seem to play out differently around the globe. Western journalists are generally less supportive of any active promotion of particular values, ideas and social change, and they adhere more to universal principles in their ethical decisions. Journalists from non-western contexts, on the other hand, tend to be more interventionist in their role perceptions and more flexible in their ethical views. Keywords: comparative researchepistemologiesethical ideologiesinstitutional rolesjournalism culturejournalistssurvey Notes 1. This study was funded by several institutions, including the German Research Foundation, Swiss National Science Foundation, Rothschild-Caesarea School of Communication at Tel Aviv University, and School of Journalism and Communication at the University of Queensland. 2. In every country, there exists a tacit consensus among journalists and media scholars regarding the media that shape the national political agenda. We selected those quality outlets which are commonly believed to have the greatest impact in this regard. For popular print media we selected the outlets with the highest circulation figures, while the selection of radio and TV stations was based on the ratings of their newscasts. 3. This was especially true for local media. Here, we sampled media outlets produced in various parts of the countries: in urban centers and rural areas or, as in the case of Switzerland and Indonesia, in the regions inhabited by the major cultural populations. 4. This was the case in Austria, Egypt and Uganda. Austria had no significant local TV station, so the number of national channels was increased. In the absence of local newspapers and private radio stations in Egypt, we decided to raise the number of national newspapers and state-owned radio channels, respectively. In Uganda, we increased the number of local radio stations to compensate for the lack of local TV stations; hence, the resulting sample also reflected the prominence of radio in the country. 5. Calculated by one-way independent ANOVA. 6. The program was developed by Adi Raveh and David Talby; it is freely available from http://www.cs.huji.ac.il/~davidt/vcoplot/index.html. 7. Spearman's rank order correlation coefficient Rho: Australia: 0.719***, Austria 0.641***, Brazil 0.385***, Bulgaria 0.523***, Chile 0.341***, China 0.478***, Egypt 0.181 (ns), Germany 0.589***, Indonesia 0.305**, Israel 0.377***, Mexico 0.671***, Romania 0.488***, Russia 0.423***, Spain 0.687***, Switzerland 0.589***, Turkey 0.214*, Uganda 0.271**, United States 0.617*** (*p<0.05, **p<0.01, ***p<0.001; ns, not significant). 8. See http://freedomhouse.org/template.cfm?page=16.",
         "url": "https://doi.org/10.1080/1461670x.2010.512502",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2018.1492881",
-        "title": "Truth is What Happens to News",
-        "authors": [
-          "Silvio Waisbord"
-        ],
-        "year": 2018,
-        "citation_count": 602,
-        "topics": [
-          "Fake news",
-          "Journalism",
-          "Truth and credibility",
-          "Public communication"
-        ],
-        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
-        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
         "topics_llm": true
       },
       {
@@ -172,7 +172,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2005,
-        "citation_count": 545,
+        "citation_count": 546,
         "topics": [
           "Democracy models",
           "Journalism standards",
@@ -244,7 +244,7 @@
           "Anabela Carvalho"
         ],
         "year": 2008,
-        "citation_count": 429,
+        "citation_count": 432,
         "topics": [
           "Critical Discourse Analysis",
           "Journalistic Discourse",
@@ -318,7 +318,7 @@
           "Guy J. Golan"
         ],
         "year": 2006,
-        "citation_count": 352,
+        "citation_count": 353,
         "topics": [
           "Agenda setting",
           "International news coverage",
@@ -336,7 +336,7 @@
           "Claudia Mellado"
         ],
         "year": 2014,
-        "citation_count": 326,
+        "citation_count": 327,
         "topics": [
           "Professional roles",
           "Journalism",
@@ -409,7 +409,7 @@
           "Kim Viborg Andersen"
         ],
         "year": 2019,
-        "citation_count": 281,
+        "citation_count": 284,
         "topics": [
           "News avoidance",
           "News consumption",
@@ -427,7 +427,7 @@
           "Jane B. Singer"
         ],
         "year": 2007,
-        "citation_count": 270,
+        "citation_count": 271,
         "topics": [
           "Professional journalism",
           "Media autonomy",
@@ -446,7 +446,7 @@
           "Arjen van Dalen"
         ],
         "year": 2013,
-        "citation_count": 239,
+        "citation_count": 240,
         "topics": [
           "Journalism studies",
           "Professional role conception",
@@ -495,6 +495,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/14616701003638400",
+        "title": "RITUALS OF TRANSPARENCY",
+        "authors": [
+          "Michael Karlsson"
+        ],
+        "year": 2010,
+        "citation_count": 226,
+        "topics": [
+          "Journalism",
+          "Transparency",
+          "Online news",
+          "Media norms"
+        ],
+        "abstract": "Abstract Transparency has been suggested as a new norm in journalism. However, few studies have investigated how the overarching notion of transparency is utilized in everyday news. The purpose of this study is to identify and compare how leading mainstream online news media in the United States, United Kingdom and Sweden make use of transparency techniques in news items. The results show that transparency has begun to affect online news but that current journalism practice is a long way from a fully fledged transparency norm. Keywords: journalismnormsonline newstransparency ACKNOWLEDGEMENT The author would like to thank the Swedish Civil Contingencies Agency for the support that made this study possible.",
+        "url": "https://doi.org/10.1080/14616701003638400",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/14616700500450293",
         "title": "GLOBAL JOURNALISM EDUCATION",
         "authors": [
@@ -510,24 +528,6 @@
         ],
         "abstract": "Journalism is a more or less autonomous field of study across the globe, yet the education and training of journalists is a subject much debated—but only rarely researched. This paper maps some of the salient issues when studying the structure and culture of a journalism education program to identify the key debates facing programs around the world when structuring, rethinking, and building institutions, schools, or departments of journalism where a combination of practical and contextual training is the prime focus. As a point of departure it is assumed that although media systems and journalistic cultures may differ widely, the changes and challenges facing journalism education around the world are largely similar, and thus would benefit from a “global” approach. The key literature and findings from journalism education studies in different parts of the world is thus conceptually synthesized into 10 categories, starting with philosophical notions of motivation and mission, ending with more “down-to-earth” concepts like curriculum and pedagogy. Each category is discussed in terms of the challenges, debates and tensions as educators and trainers in different parts of the world have signaled these.",
         "url": "https://doi.org/10.1080/14616700500450293",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/14616701003638400",
-        "title": "RITUALS OF TRANSPARENCY",
-        "authors": [
-          "Michael Karlsson"
-        ],
-        "year": 2010,
-        "citation_count": 224,
-        "topics": [
-          "Journalism",
-          "Transparency",
-          "Online news",
-          "Media norms"
-        ],
-        "abstract": "Abstract Transparency has been suggested as a new norm in journalism. However, few studies have investigated how the overarching notion of transparency is utilized in everyday news. The purpose of this study is to identify and compare how leading mainstream online news media in the United States, United Kingdom and Sweden make use of transparency techniques in news items. The results show that transparency has begun to affect online news but that current journalism practice is a long way from a fully fledged transparency norm. Keywords: journalismnormsonline newstransparency ACKNOWLEDGEMENT The author would like to thank the Swedish Civil Contingencies Agency for the support that made this study possible.",
-        "url": "https://doi.org/10.1080/14616701003638400",
         "topics_llm": true
       },
       {
@@ -605,6 +605,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2019.1566871",
+        "title": "Fake News as Discursive Integration: An Analysis of Sites That Publish False, Misleading, Hyperpartisan and Sensational Information",
+        "authors": [
+          "Rachel R. Mourão",
+          "Craig Robertson"
+        ],
+        "year": 2019,
+        "citation_count": 197,
+        "topics": [
+          "Fake news",
+          "Misinformation",
+          "Journalism",
+          "Social media engagement"
+        ],
+        "abstract": "After the 2016 US presidential election, the concept of fake news captured popular attention, but conversations lacked a clear conceptualization and used the label in elastic ways to describe various distinct phenomena. In this paper, we analyze fake news as genre blending, combining elements of traditional news with features that are exogenous to normative professional journalism: misinformation, sensationalism, clickbait, and bias. Through a content analysis of stories published by 50 sites that have been labeled fake news and the engagement they generated on social media, we found that stories employed moderate levels of sensationalism, misinformation and partisanship to provide anti-establishment narratives. Complete fabrications were uncommon and did not resonate well with audiences, although there was some truth-stretching that came with genre blending. Results suggest that technocentric solutions aimed at detecting falsehoods are likely insufficient, as fake news is defined more by partisanship and identity politics than misinformation and deception.",
+        "url": "https://doi.org/10.1080/1461670x.2019.1566871",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2014.939852",
         "title": "Data Journalism in the United States",
         "authors": [
@@ -639,25 +658,6 @@
         ],
         "abstract": "Research about online journalism has been dominated by a discourse of technological innovation.\\nThe ‘‘success’’ of online journalism is often measured by the extent to which it utilizes\\ntechnological assets like interactivity, multimedia and hypertext. This paper critically examines\\nthe technologically oriented research about online journalism in the second decade of its\\nexistence. The aim is twofold. First, to investigate to what degree online journalism, as it is\\nportrayed in empirical research, utilizes new technology more than previously. Second, the paper\\npoints to the limitations of technologically oriented research and suggests alternative research\\napproaches that might be more effective in explaining why online journalism develops as it does.",
         "url": "https://doi.org/10.1080/1461670x.2010.501151",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2019.1566871",
-        "title": "Fake News as Discursive Integration: An Analysis of Sites That Publish False, Misleading, Hyperpartisan and Sensational Information",
-        "authors": [
-          "Rachel R. Mourão",
-          "Craig Robertson"
-        ],
-        "year": 2019,
-        "citation_count": 196,
-        "topics": [
-          "Fake news",
-          "Misinformation",
-          "Journalism",
-          "Social media engagement"
-        ],
-        "abstract": "After the 2016 US presidential election, the concept of fake news captured popular attention, but conversations lacked a clear conceptualization and used the label in elastic ways to describe various distinct phenomena. In this paper, we analyze fake news as genre blending, combining elements of traditional news with features that are exogenous to normative professional journalism: misinformation, sensationalism, clickbait, and bias. Through a content analysis of stories published by 50 sites that have been labeled fake news and the engagement they generated on social media, we found that stories employed moderate levels of sensationalism, misinformation and partisanship to provide anti-establishment narratives. Complete fabrications were uncommon and did not resonate well with audiences, although there was some truth-stretching that came with genre blending. Results suggest that technocentric solutions aimed at detecting falsehoods are likely insufficient, as fake news is defined more by partisanship and identity politics than misinformation and deception.",
-        "url": "https://doi.org/10.1080/1461670x.2019.1566871",
         "topics_llm": true
       },
       {
@@ -815,7 +815,7 @@
           "Louise North"
         ],
         "year": 2014,
-        "citation_count": 173,
+        "citation_count": 174,
         "topics": [
           "Gender inequality",
           "News media",
@@ -869,7 +869,7 @@
           "Irene Costera Meijer"
         ],
         "year": 2020,
-        "citation_count": 171,
+        "citation_count": 172,
         "topics": [
           "Audience engagement",
           "Journalism practices",
@@ -1907,7 +1907,7 @@
           "Morten Skovsgaard"
         ],
         "year": 2024,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "Journalism",
           "Artificial Intelligence",

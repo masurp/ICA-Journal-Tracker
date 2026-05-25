@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-05-18T10:02:01Z",
-  "trending_from": "2024-05-18",
+  "updated_at": "2026-05-25T10:04:27Z",
+  "trending_from": "2024-05-25",
   "sections": {
     "most_cited": [
       {
@@ -35,7 +35,7 @@
           "Fabio Votta"
         ],
         "year": 2022,
-        "citation_count": 72,
+        "citation_count": 73,
         "topics": [
           "TikTok",
           "Short-form video",
@@ -321,7 +321,7 @@
           "René Weber"
         ],
         "year": 2019,
-        "citation_count": 19,
+        "citation_count": 20,
         "topics": [
           "Computational Communication",
           "Research Methods",
@@ -648,6 +648,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.7.laur",
+        "title": "Lowering the Language Barrier: Investigating Deep Transfer Learning and Machine Translation for Multilingual Analyses of Political Texts",
+        "authors": [
+          "Moritz Laurer",
+          "Wouter van Atteveldt",
+          "Andreu Casas",
+          "Kasper Welbers"
+        ],
+        "year": 2023,
+        "citation_count": 10,
+        "topics": [
+          "Multilingual text analysis",
+          "Transfer learning",
+          "Machine translation",
+          "Computational social science"
+        ],
+        "abstract": "The social science toolkit for computational text analysis is still very much in the making. We know surprisingly little about how to produce valid insights from large amounts of multilingual texts for comparative social science research. In this paper, we test several recent innovations from deep transfer learning to help advance the computational toolkit for social science research in multilingual settings. We investigate the extent to which ‘prior language and task knowledge’ stored in the parameters of modern language models is useful for enabling multilingual research; we investigate the extent to which these algorithms can be fruitfully combined with machine translation; and we investigate whether these methods are not only accurate but also practical and valid in multilingual settings – three essential conditions for lowering the language barrier in practice. We use two datasets with texts in 12 languages from 27 countries for our investigation. Our analysis shows, that, based on these innovations, supervised machine learning can produce substantively meaningful outputs. Our BERT-NLI model trained on only 674 or 1674 texts in only one or two languages can validly predict political party families’ stances towards immigration in eight other languages and ten other countries.",
+        "url": "https://doi.org/10.5117/ccr2023.2.7.laur",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2021.2.001.calc",
         "title": "The Accuracy and Precision of Measurement",
         "authors": [
@@ -707,27 +728,6 @@
         ],
         "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
         "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.7.laur",
-        "title": "Lowering the Language Barrier: Investigating Deep Transfer Learning and Machine Translation for Multilingual Analyses of Political Texts",
-        "authors": [
-          "Moritz Laurer",
-          "Wouter van Atteveldt",
-          "Andreu Casas",
-          "Kasper Welbers"
-        ],
-        "year": 2023,
-        "citation_count": 9,
-        "topics": [
-          "Multilingual text analysis",
-          "Transfer learning",
-          "Machine translation",
-          "Computational social science"
-        ],
-        "abstract": "The social science toolkit for computational text analysis is still very much in the making. We know surprisingly little about how to produce valid insights from large amounts of multilingual texts for comparative social science research. In this paper, we test several recent innovations from deep transfer learning to help advance the computational toolkit for social science research in multilingual settings. We investigate the extent to which ‘prior language and task knowledge’ stored in the parameters of modern language models is useful for enabling multilingual research; we investigate the extent to which these algorithms can be fruitfully combined with machine translation; and we investigate whether these methods are not only accurate but also practical and valid in multilingual settings – three essential conditions for lowering the language barrier in practice. We use two datasets with texts in 12 languages from 27 countries for our investigation. Our analysis shows, that, based on these innovations, supervised machine learning can produce substantively meaningful outputs. Our BERT-NLI model trained on only 674 or 1674 texts in only one or two languages can validly predict political party families’ stances towards immigration in eight other languages and ten other countries.",
-        "url": "https://doi.org/10.5117/ccr2023.2.7.laur",
         "topics_llm": true
       },
       {
@@ -1031,22 +1031,27 @@
     ],
     "latest": [
       {
-        "doi": "10.5117/ccr2026.2.4.liu",
-        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
+        "doi": "10.5117/ccr2026.1.9.obei",
+        "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
         "authors": [
-          "A. Y. Liu",
-          "Maggie Mengqing Zhang"
+          "Abdul Obeid",
+          "Daniel Angus",
+          "Dang Khuong Tran",
+          "Lauren Hayden",
+          "Nicholas Carah",
+          "Khanh Luong",
+          "Giselle Newton"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "AI-generated content",
-          "Bias in summarization",
-          "User-generated content",
-          "Public sentiment"
+          "Mobile advertising",
+          "Social media research methods",
+          "Platform observability",
+          "Digital data collection"
         ],
-        "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
-        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
+        "abstract": "We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.",
+        "url": "https://doi.org/10.5117/ccr2026.1.9.obei",
         "topics_llm": true
       },
       {
@@ -1073,23 +1078,113 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2026.2.2.toma",
-        "title": "transforEmotion: An Open-Source R Package for Emotion Analysis Using Transformer-Based Generative AI Models",
+        "doi": "10.5117/ccr2026.3.2.stei",
+        "title": "Fanning the Frames: News Organizations’ versus Individuals’ Online Images of Protest",
         "authors": [
-          "Aleksandar Tomašević",
-          "Hudson Golino",
-          "Alexander P. Christensen"
+          "ZACHARY STEINERT-THRELKELD",
+          "Karsten Donnay",
+          "Jungseock Joo",
+          "Thomas Zeitzoff",
+          "Stuart Soroka",
+          "Phillip Kling",
+          "Alexander Chan"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Emotion Analysis",
-          "Transformer Models",
-          "Natural Language Processing",
-          "Computational Linguistics"
+          "Visual framing",
+          "News organizations",
+          "Social media protest coverage",
+          "User-generated content"
         ],
-        "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don&apos;t match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
-        "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
+        "abstract": "Recent developments in both mobile technology and social media have produced significant shifts in both the volume and nature of current events images available to the public. Whereas images of current events used to be the sole domain of professional photojournalists, now nearly anyone with a mobile phone can witness and photograph an event, and distribute that photograph to the public at large. This paper explores roughly 9.5 million tweets and nearly 807,000 images about the August 2017 Unite the Right protest in Charlottesville, VA. We assign “frames” to images, and consider variation in framing across news organizations and individuals. We find individuals&apos; accounts engage in more diverse framing than news organizations, and that there is no convergence of framing over time between individuals and the media. These results have important implications for the diversity of perspectives represented in online discourse, and raise questions about the roles – both positive and negative – of “citizen photojournalists.”",
+        "url": "https://doi.org/10.5117/ccr2026.3.2.stei",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.8.li",
+        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
+        "authors": [
+          "Xinyi Li",
+          "Yu Xu",
+          "Yongfeng Zhang",
+          "Edward C. Malthouse"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Misinformation diffusion",
+          "Multi-agent simulation",
+          "Large language models",
+          "Social networks"
+        ],
+        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
+        "url": "https://doi.org/10.5117/ccr2026.2.8.li",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.9.huan",
+        "title": "Influence in Motion: Tracing Persuasive Dynamics via Multi‐Agent Networks",
+        "authors": [
+          "Ming Huang",
+          "Z. Zhang"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Opinion dynamics",
+          "Multi-agent simulation",
+          "Social influence networks",
+          "LLM-based agents"
+        ],
+        "abstract": "A bottom–up, reproducible multi-agent simulation framework is presented for investigating opinion dynamics via LLM-based agents embedded in an endogenously evolving small-world network. The study simulates cognitive–affective agents deliberating the real-world controversy over rounds, generating natural-language exchanges, instantaneous appraisals, and systemic reflections. Network topology co-evolves through agent-driven edge rewiring. Community detection and intra- community stance-variance analyses reveal three temporal phases—turbulence, coalescence, consolidation—with opinion variance declining. Correlations between closeness centrality and Influence Score uncover heterogeneous influence patterns, exemplified by positively, negatively, and negligibly correlated agent archetypes. These results demonstrate that LLM-based generative agents can (1) reproduce key opinion and network structural dynamics (H1), (2) self-organize into stable communities with constructive opinion aggregation via endogenous rewiring (H2), and (3) convert network structure into persuasive influence through adaptive discourse strategies (H3). This framework bridges micro-level cognitive–affective processes and macro-level network phenomena, offering a versatile platform for computational communication research.",
+        "url": "https://doi.org/10.5117/ccr2026.2.9.huan",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.11.urma",
+        "title": "Gender Representation in Large Language Models: A Cross-Linguistic and Cross-Model Analysis",
+        "authors": [
+          "Aleksandra Urman",
+          "Emese Domahidi",
+          "Johannes B. Gruber",
+          "Ana Jovančević",
+          "Michaela Maier",
+          "Dren Gërguri",
+          "Jaromír Mazak",
+          "Mariken Velden"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Gender bias",
+          "Large language models",
+          "Cross-linguistic analysis",
+          "Stereotype representation"
+        ],
+        "abstract": "The representation of gender in large language models (LLMs) can reflect and reinforce existing sociocultural inequalities. However, the nature of such gender biases can differ significantly across languages, influenced by linguistic features and a model’s training data. In this study, we investigate gender representation in 24 open-weight LLMs across six linguistically distinct languages (English, German, Russian, Czech, Albanian, and Serbian). Extending beyond binary frameworks, we incorporate nonbinary individuals as response options and examine associations across psychometrically validated stereotype dimensions (agency, communality, dominance, weakness, and giftedness). Our analysis accounts for variations between and within model families and differences in sampling parameters. The results reveal that traditional gender stereotypes persist with varying degrees of strength, while nonbinary associations show substantial cross-linguistic variations. Temperature analysis demonstrates that such associations are deeply embedded in model parameters rather than being artifacts of sampling procedures. These findings suggest that gender bias identification and potential mitigation in LLMs are shaped by both contextual and technical factors. Overall, our findings challenge the notion that gender bias is a simple, measurable construct, highlighting its complex, context-dependent nature across languages, models, and stereotype dimensions. Effective bias mitigation requires interventions at the level of training data, model architecture, or alignment procedures.",
+        "url": "https://doi.org/10.5117/ccr2026.2.11.urma",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.5.foot",
+        "title": "Reddit Conversation Laboratory: Field experiments with conversational AI agents",
+        "authors": [
+          "Jeremy Foote",
+          "Loizos Bitsikokos",
+          "Hitesh Goel",
+          "Deepak Kumar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Conversational AI",
+          "Field experiments",
+          "Reddit",
+          "Human-AI interaction"
+        ],
+        "abstract": "LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.",
+        "url": "https://doi.org/10.5117/ccr2026.2.5.foot",
         "topics_llm": true
       },
       {
@@ -1138,45 +1233,25 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2026.1.1.haga",
-        "title": "Topic Classification of News Articles from URLs Alone",
+        "doi": "10.5117/ccr2026.1.8.xue",
+        "title": "A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement",
         "authors": [
-          "Nick Hagar"
+          "Haoning Xue",
+          "Jingwen Zhang",
+          "X J Wang",
+          "Dagyong Kim",
+          "Yunya Song"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Topic classification",
-          "Natural language processing",
-          "News articles",
-          "Web content analysis"
+          "Message Sensation Value",
+          "Multimodal features",
+          "Short video engagement",
+          "Computational modeling"
         ],
-        "abstract": "This paper presents a novel approach to classifying news articles by topic using only their URLs, addressing growing challenges in accessing article text due to paywalls and scraping restrictions. By fine-tuning a DistilBERT transformer model on URL data alone, I demonstrate topic classification performance that matches or exceeds traditional approaches requiring article text. Across three benchmark datasets spanning multiple languages and over 660,000 articles from more than 11,000 news domains, this URL-based topic classifier achieved superior F1 scores compared to both conventional machine learning methods and existing URL-based techniques. While this method requires more computational resources than simpler topic classification approaches, it dramatically reduces data collection requirements, offering researchers a practical alternative when text access is limited. These findings suggest that news article URLs contain richer semantic information than previously recognized, opening new possibilities for large-scale news content analysis in increasingly restrictive digital environments.",
-        "url": "https://doi.org/10.5117/ccr2026.1.1.haga",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.3.2.stei",
-        "title": "Fanning the Frames: News Organizations’ versus Individuals’ Online Images of Protest",
-        "authors": [
-          "ZACHARY STEINERT-THRELKELD",
-          "Karsten Donnay",
-          "Jungseock Joo",
-          "Thomas Zeitzoff",
-          "Stuart Soroka",
-          "Phillip Kling",
-          "Alexander Chan"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Visual framing",
-          "News organizations",
-          "Social media protest coverage",
-          "User-generated content"
-        ],
-        "abstract": "Recent developments in both mobile technology and social media have produced significant shifts in both the volume and nature of current events images available to the public. Whereas images of current events used to be the sole domain of professional photojournalists, now nearly anyone with a mobile phone can witness and photograph an event, and distribute that photograph to the public at large. This paper explores roughly 9.5 million tweets and nearly 807,000 images about the August 2017 Unite the Right protest in Charlottesville, VA. We assign “frames” to images, and consider variation in framing across news organizations and individuals. We find individuals&apos; accounts engage in more diverse framing than news organizations, and that there is no convergence of framing over time between individuals and the media. These results have important implications for the diversity of perspectives represented in online discourse, and raise questions about the roles – both positive and negative – of “citizen photojournalists.”",
-        "url": "https://doi.org/10.5117/ccr2026.3.2.stei",
+        "abstract": "The contemporary media landscape is characterized by sensational short videos. While prior research examines individual multimodal features’ effects, the collective impact of multimodal features on viewer engagement with short videos remains unknown. Grounded in the theoretical framework of Message Sensation Value (MSV), this study develops and tests a computational model of MSV with multimodal feature analysis and human evaluation of 1,200 short videos. This model that predicts sensory and behavioral engagement was further validated across two unseen datasets from three short video platforms (combined N = 14,492). While MSV is positively associated with sensory engagement, it shows an inverted U-shaped relationship with behavioral engagement: Higher MSV elicits stronger sensory stimulation, but moderate MSV optimizes behavioral engagement. This research advances the theoretical understanding of short video engagement and introduces a robust computational tool for short video research.",
+        "url": "https://doi.org/10.5117/ccr2026.1.8.xue",
         "topics_llm": true
       },
       {
@@ -1201,89 +1276,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2026.2.5.foot",
-        "title": "Reddit Conversation Laboratory: Field experiments with conversational AI agents",
+        "doi": "10.5117/ccr2026.1.5.gais",
+        "title": "Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter",
         "authors": [
-          "Jeremy Foote",
-          "Loizos Bitsikokos",
-          "Hitesh Goel",
-          "Deepak Kumar"
+          "Felix Gaisbauer",
+          "Armin Pournaki",
+          "Jakob Ohme"
         ],
         "year": 2026,
         "citation_count": 0,
         "topics": [
-          "Conversational AI",
-          "Field experiments",
-          "Reddit",
-          "Human-AI interaction"
+          "News sharing",
+          "Political polarization",
+          "Twitter",
+          "Digital journalism"
         ],
-        "abstract": "LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.",
-        "url": "https://doi.org/10.5117/ccr2026.2.5.foot",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.8.li",
-        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
-        "authors": [
-          "Xinyi Li",
-          "Yu Xu",
-          "Yongfeng Zhang",
-          "Edward C. Malthouse"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Misinformation diffusion",
-          "Multi-agent simulation",
-          "Large language models",
-          "Social networks"
-        ],
-        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
-        "url": "https://doi.org/10.5117/ccr2026.2.8.li",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.11.urma",
-        "title": "Gender Representation in Large Language Models: ACross-Linguistic and Cross-Model Analysis",
-        "authors": [
-          "Aleksandra Urman",
-          "Emese Domahidi",
-          "Johannes B. Gruber",
-          "Ana Jovančević",
-          "Michaela Maier",
-          "Dren Gërguri",
-          "Jaromír Mazak",
-          "Mariken Velden"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Gender bias",
-          "Large language models",
-          "Cross-linguistic analysis",
-          "Stereotype representation"
-        ],
-        "abstract": "The representation of gender in large language models (LLMs) can reflect and reinforce existing sociocultural inequalities. However, the nature of such gender biases can differ significantly across languages, influenced by linguistic features and a model’s training data. In this study, we investigate gender representation in 24 open-weight LLMs across six linguistically distinct languages (English, German, Russian, Czech, Albanian, and Serbian). Extending beyond binary frameworks, we incorporate nonbinary individuals as response options and examine associations across psychometrically validated stereotype dimensions (agency, communality, dominance, weakness, and giftedness). Our analysis accounts for variations between and within model families and differences in sampling parameters. The results reveal that traditional gender stereotypes persist with varying degrees of strength, while nonbinary associations show substantial cross-linguistic variations. Temperature analysis demonstrates that such associations are deeply embedded in model parameters rather than being artifacts of sampling procedures. These findings suggest that gender bias identification and potential mitigation in LLMs are shaped by both contextual and technical factors. Overall, our findings challenge the notion that gender bias is a simple, measurable construct, highlighting its complex, context-dependent nature across languages, models, and stereotype dimensions. Effective bias mitigation requires interventions at the level of training data, model architecture, or alignment procedures.",
-        "url": "https://doi.org/10.5117/ccr2026.2.11.urma",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.9.huan",
-        "title": "Influence in Motion: Tracing Persuasive Dynamics via Multi‐Agent Networks",
-        "authors": [
-          "Ming Huang",
-          "Z. Zhang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Opinion dynamics",
-          "Multi-agent simulation",
-          "Social influence networks",
-          "LLM-based agents"
-        ],
-        "abstract": "A bottom–up, reproducible multi-agent simulation framework is presented for investigating opinion dynamics via LLM-based agents embedded in an endogenously evolving small-world network. The study simulates cognitive–affective agents deliberating the real-world controversy over rounds, generating natural-language exchanges, instantaneous appraisals, and systemic reflections. Network topology co-evolves through agent-driven edge rewiring. Community detection and intra- community stance-variance analyses reveal three temporal phases—turbulence, coalescence, consolidation—with opinion variance declining. Correlations between closeness centrality and Influence Score uncover heterogeneous influence patterns, exemplified by positively, negatively, and negligibly correlated agent archetypes. These results demonstrate that LLM-based generative agents can (1) reproduce key opinion and network structural dynamics (H1), (2) self-organize into stable communities with constructive opinion aggregation via endogenous rewiring (H2), and (3) convert network structure into persuasive influence through adaptive discourse strategies (H3). This framework bridges micro-level cognitive–affective processes and macro-level network phenomena, offering a versatile platform for computational communication research.",
-        "url": "https://doi.org/10.5117/ccr2026.2.9.huan",
+        "abstract": "News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.",
+        "url": "https://doi.org/10.5117/ccr2026.1.5.gais",
         "topics_llm": true
       },
       {
@@ -1303,6 +1312,63 @@
         ],
         "abstract": "This study presents a theory-driven, three-stage computational framework for analyzing visual framing in protest imagery. Focusing on the Black Lives Matter movement, we examine how visual elements contribute to two well-established frames in protest media coverage: the protest paradigm and solidarity framing. Leveraging GPT-4o and OpenCV, our framework extracts denotative and semiotic features—such as police presence, contestation, solidarity actions, and color contrast—and links these features to higher-order frame classifications using interpretable logistic regression models. The framework includes: (1) feature definition and validation through generative AI and a feature extraction tool, supported by human coders; (2) model training; and (3) predictive application to unseen images. Results show strong alignment between human and machine annotations, as well as high predictive accuracy in identifying the protest paradigm or solidarity frame in BLM images. We also introduce an intra-prompt stability score for the generative AI model to help mitigate hallucination and enhance the reliability of its outputs. This study offers a scalable, replicable, and interpretable approach to visual framing analysis, bridging communication theory with advanced computational tools in the study of visual political communication.",
         "url": "https://doi.org/10.5117/ccr2026.2.3.kim",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.4.liu",
+        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
+        "authors": [
+          "A. Y. Liu",
+          "Maggie Mengqing Zhang"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "AI-generated content",
+          "Bias in summarization",
+          "User-generated content",
+          "Public sentiment"
+        ],
+        "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
+        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.2.toma",
+        "title": "transforEmotion: An Open-Source R Package for Emotion Analysis Using Transformer-Based Generative AI Models",
+        "authors": [
+          "Aleksandar Tomašević",
+          "Hudson Golino",
+          "Alexander P. Christensen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Emotion Analysis",
+          "Transformer Models",
+          "Natural Language Processing",
+          "Computational Linguistics"
+        ],
+        "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don&apos;t match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
+        "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.1.haga",
+        "title": "Topic Classification of News Articles from URLs Alone",
+        "authors": [
+          "Nick Hagar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Topic classification",
+          "Natural language processing",
+          "News articles",
+          "Web content analysis"
+        ],
+        "abstract": "This paper presents a novel approach to classifying news articles by topic using only their URLs, addressing growing challenges in accessing article text due to paywalls and scraping restrictions. By fine-tuning a DistilBERT transformer model on URL data alone, I demonstrate topic classification performance that matches or exceeds traditional approaches requiring article text. Across three benchmark datasets spanning multiple languages and over 660,000 articles from more than 11,000 news domains, this URL-based topic classifier achieved superior F1 scores compared to both conventional machine learning methods and existing URL-based techniques. While this method requires more computational resources than simpler topic classification approaches, it dramatically reduces data collection requirements, offering researchers a practical alternative when text access is limited. These findings suggest that news article URLs contain richer semantic information than previously recognized, opening new possibilities for large-scale news content analysis in increasingly restrictive digital environments.",
+        "url": "https://doi.org/10.5117/ccr2026.1.1.haga",
         "topics_llm": true
       },
       {
@@ -1994,63 +2060,6 @@
         ],
         "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
         "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.7.zinn",
-        "title": "Political discussions in online oppositional communities in the non-democratic context",
-        "authors": [
-          "Aidar Zinnatullin"
-        ],
-        "year": 2023,
-        "citation_count": 0,
-        "topics": [
-          "Political polarization",
-          "Online discourse",
-          "Oppositional communities",
-          "Incivility"
-        ],
-        "abstract": "Taking into account YouTube’s specific role in the Russian media system and the increasing level of political polarization in the country, this study examines the role of incivility in discussions and whether discussions in an anti-government community represent a place for disagreement between pro-opposition and pro-government users. I argue that an online environment helps these sides meet each other rather than creating echo chambers of like-minded users. Moreover, in the quite restrictive Russian context for political deliberation, the incivility of messages plays a role in further involving commenters in discussions. Using the corpus of comments posted in the discussion section of opposition leader Alexei Navalny’s YouTube channel, I exploited class affinity modeling to identify pro-government and pro-opposition stances. Incivility was studied based on Google’s Perspective API toxicity classifier. I found that users avoid extreme forms of incivility when interacting with other commenters, but uncivil comments are more likely to start discussion threads. Furthermore, the level of incivility in comments gets higher over time after a video release. Pro- government sentiments, on the one hand, are associated with a subsequent response from Navalny’s supporters to the out- group criticism and, on the other hand, contribute to the further formation of hubs with a pro-government narrative. This research contributes to the extant literature on affective polarization on social media, shedding light on political discussions within an oppositional community in a non-democracy.",
-        "url": "https://doi.org/10.5117/ccr2023.1.7.zinn",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.003.chan",
-        "title": "grafzahl: fine-tuning Transformers fortext data from within R",
-        "authors": [
-          "Chung‐hong Chan"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Transformer models",
-          "Text classification",
-          "Machine learning",
-          "R programming"
-        ],
-        "abstract": "This paper introduces grafzahl, an R package for fine-tuning Transformers for text data from within R. The package is used in this paper to reproduce the analyses in other papers. Very significant improvement in model accuracy over traditional machine learning approaches such as Convolutional Neural Network is observed.",
-        "url": "https://doi.org/10.5117/ccr2023.1.003.chan",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.11.akca",
-        "title": "Validating a Mixed-Method Approach for Multilingual News Framing Analysis: A case study of COVID-19",
-        "authors": [
-          "Gülşah Akçakır",
-          "Yanru Jiang",
-          "Jun Luo",
-          "Seonhye Noh"
-        ],
-        "year": 2023,
-        "citation_count": 5,
-        "topics": [
-          "News framing analysis",
-          "Multilingual computational analysis",
-          "COVID-19 media discourse",
-          "Topic modeling networks"
-        ],
-        "abstract": "A reliable multilingual news framing analysis can shed light on the similarities and dissimilarities of journalistic practices across geographical areas and cultures, facilitating comparative studies in media discourse and framing analysis. However, there is an insufficient supply of standardizing and validating computational approaches for multilingual text analysis. To fill the gap, this study validates a multi-stage mixed-method approach, Analysis of Topic Model Networks (ANTMN), a novel approach that identifies media frames by integrating Latent Dirichlet Allocation (LDA) topic modeling and network analysis, for the news framing analysis in a multilingual context. Our multilingual ANTMN analysis standardizes the pipeline for data collection, cleaning, preprocessing, and validity assessment. By applying this approach to COVID-19 news from seven countries and regions (Germany, Hong Kong, South Korea, Taiwan, Turkey, Uganda, and the United States), this study demonstrates the reliability and validity of multilingual ANTMN analysis both quantitatively and qualitatively. We observe that ANTMN framing analysis is robust to variation in data sources and has the ability to produce generalizable results across multilingual corpora.",
-        "url": "https://doi.org/10.5117/ccr2023.2.11.akca",
         "topics_llm": true
       }
     ],

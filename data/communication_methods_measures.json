@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-05-18T10:02:00Z",
-  "trending_from": "2024-05-18",
+  "updated_at": "2026-05-25T10:04:21Z",
+  "trending_from": "2024-05-25",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4114,
+        "citation_count": 4116,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2410,
+        "citation_count": 2419,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1777,
+        "citation_count": 1781,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1032,
+        "citation_count": 1037,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 887,
+        "citation_count": 890,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 796,
+        "citation_count": 797,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 442,
+        "citation_count": 444,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 376,
+        "citation_count": 378,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -243,7 +243,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2007,
-        "citation_count": 247,
+        "citation_count": 249,
         "topics": [
           "Statistical power analysis",
           "Research methodology",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 214,
+        "citation_count": 215,
         "topics": [
           "News framing",
           "Computational methods",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 190,
+        "citation_count": 191,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 185,
+        "citation_count": 187,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 173,
+        "citation_count": 174,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -458,6 +458,30 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilàm Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 144,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2013.813922",
         "title": "Tweeting Apart: Applying Network Analysis to Detect Selective Exposure Clusters in Twitter",
         "authors": [
@@ -478,30 +502,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilàm Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 143,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2021.1968361",
         "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
         "authors": [
@@ -510,7 +510,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 143,
+        "citation_count": 144,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -542,6 +542,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2019.1671966",
+        "title": "What’s the Tone? Easy Doesn’t Do It: Analyzing Performance and Agreement Between Off-the-Shelf Sentiment Analysis Tools",
+        "authors": [
+          "Mark Boukes",
+          "Bob van de Velde",
+          "Theo Araujo",
+          "Rens Vliegenthart"
+        ],
+        "year": 2019,
+        "citation_count": 135,
+        "topics": [
+          "Sentiment analysis",
+          "Automated content analysis",
+          "News tone measurement",
+          "Dictionary-based approaches"
+        ],
+        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes–at least in the context of Dutch economic news–and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
+        "url": "https://doi.org/10.1080/19312458.2019.1671966",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2012.703834",
         "title": "Testing Equivalence in Communication Research: Theory and Application",
         "authors": [
@@ -558,27 +579,6 @@
         ],
         "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
         "url": "https://doi.org/10.1080/19312458.2012.703834",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2019.1671966",
-        "title": "What’s the Tone? Easy Doesn’t Do It: Analyzing Performance and Agreement Between Off-the-Shelf Sentiment Analysis Tools",
-        "authors": [
-          "Mark Boukes",
-          "Bob van de Velde",
-          "Theo Araujo",
-          "Rens Vliegenthart"
-        ],
-        "year": 2019,
-        "citation_count": 133,
-        "topics": [
-          "Sentiment analysis",
-          "Automated content analysis",
-          "News tone measurement",
-          "Dictionary-based approaches"
-        ],
-        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes–at least in the context of Dutch economic news–and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
-        "url": "https://doi.org/10.1080/19312458.2019.1671966",
         "topics_llm": true
       },
       {
@@ -666,7 +666,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 115,
+        "citation_count": 116,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -845,7 +845,7 @@
           "S. Shyam Sundar"
         ],
         "year": 2014,
-        "citation_count": 92,
+        "citation_count": 93,
         "topics": [
           "Heuristics",
           "Dual process models",
@@ -865,7 +865,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 85,
+        "citation_count": 86,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -1378,7 +1378,7 @@
           "Nilàm Ram"
         ],
         "year": 2024,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Dyadic interaction",
           "Conversation dynamics",
