@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-05-25T10:04:21Z",
-  "trending_from": "2024-05-25",
+  "updated_at": "2026-06-01T11:32:00Z",
+  "trending_from": "2024-06-01",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4116,
+        "citation_count": 4122,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2419,
+        "citation_count": 2434,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1781,
+        "citation_count": 1785,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1037,
+        "citation_count": 1045,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 890,
+        "citation_count": 892,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 797,
+        "citation_count": 803,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 444,
+        "citation_count": 445,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 425,
+        "citation_count": 426,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 418,
+        "citation_count": 419,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 378,
+        "citation_count": 379,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 233,
+        "citation_count": 236,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -470,7 +470,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 144,
+        "citation_count": 145,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -490,7 +490,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 144,
+        "citation_count": 145,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -510,7 +510,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 144,
+        "citation_count": 145,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -570,7 +570,7 @@
           "Lucy Popova"
         ],
         "year": 2012,
-        "citation_count": 133,
+        "citation_count": 134,
         "topics": [
           "Equivalence testing",
           "Statistical methods",
@@ -707,7 +707,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 110,
+        "citation_count": 112,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -728,7 +728,7 @@
           "Christopher Monterola"
         ],
         "year": 2011,
-        "citation_count": 105,
+        "citation_count": 106,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -790,7 +790,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 95,
+        "citation_count": 96,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -877,6 +877,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312450701641409",
+        "title": "Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment",
+        "authors": [
+          "Masaki Matsunaga"
+        ],
+        "year": 2007,
+        "citation_count": 85,
+        "topics": [
+          "Statistical methods",
+          "Multiple comparisons",
+          "Type I error",
+          "Research methodology"
+        ],
+        "abstract": "(2007). Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment. Communication Methods and Measures: Vol. 1, No. 4, pp. 243-265.",
+        "url": "https://doi.org/10.1080/19312450701641409",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2010.527869",
         "title": "Exponential Random Graph ( <i>p*</i> ) Models as a Method for Social Network Analysis in Communication Research",
         "authors": [
@@ -892,24 +910,6 @@
         ],
         "abstract": "Abstract Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program. This article is part of the following collections: Communication Methods and Measures Article of the Year Award",
         "url": "https://doi.org/10.1080/19312458.2010.527869",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312450701641409",
-        "title": "Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment",
-        "authors": [
-          "Masaki Matsunaga"
-        ],
-        "year": 2007,
-        "citation_count": 84,
-        "topics": [
-          "Statistical methods",
-          "Multiple comparisons",
-          "Type I error",
-          "Research methodology"
-        ],
-        "abstract": "(2007). Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment. Communication Methods and Measures: Vol. 1, No. 4, pp. 243-265.",
-        "url": "https://doi.org/10.1080/19312450701641409",
         "topics_llm": true
       },
       {
@@ -1378,7 +1378,7 @@
           "Nilàm Ram"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Dyadic interaction",
           "Conversation dynamics",
@@ -1644,7 +1644,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 27,
+        "citation_count": 28,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1852,7 +1852,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -2074,6 +2074,28 @@
         ],
         "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (<i>N</i><sub>users</sub> = 315; <i>N</i><sub>records</sub> = 9,868,209; <i>N</i><sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2024.2413973",
+        "title": "Using State Space Grids to Quantify and Examine Dynamics of Dyadic Conversation",
+        "authors": [
+          "Miriam Brinberg",
+          "Denise Haunani Solomon",
+          "Graham D. Bodie",
+          "Susanne M. Jones",
+          "Nilàm Ram"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Dyadic interaction",
+          "Conversation dynamics",
+          "State space grids",
+          "Nonlinear dynamics"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/19312458.2024.2413973",
         "topics_llm": true
       }
     ]

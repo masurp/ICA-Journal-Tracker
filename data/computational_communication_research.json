@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-05-25T10:04:27Z",
-  "trending_from": "2024-05-25",
+  "updated_at": "2026-06-01T11:32:03Z",
+  "trending_from": "2024-06-01",
   "sections": {
     "most_cited": [
       {
@@ -81,7 +81,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 58,
+        "citation_count": 59,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -750,6 +750,28 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2024.2.3.stry",
+        "title": "The blind spot in data donations: who is (not) willing to donate digital data in social scientific research",
+        "authors": [
+          "Joanna Strycharz",
+          "Corine S. Meppelink",
+          "Brahim Zarouali",
+          "Theo Araujo",
+          "Hilde Voorveld"
+        ],
+        "year": 2024,
+        "citation_count": 8,
+        "topics": [
+          "Data donation",
+          "Selection bias",
+          "Digital data collection",
+          "Representativeness"
+        ],
+        "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
+        "url": "https://doi.org/10.5117/ccr2024.2.3.stry",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.2.003.vrie",
         "title": "The Sentiment is in the Details",
         "authors": [
@@ -788,25 +810,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2024.2.3.stry",
-        "title": "The blind spot in data donations: who is (not) willing to donate digital data in social scientific research",
+        "doi": "10.5117/ccr2022.1.006.mali",
+        "title": "Representations of Racial Minorities in Popular Movies",
         "authors": [
-          "Joanna Strycharz",
-          "Corine S. Meppelink",
-          "Brahim Zarouali",
-          "Theo Araujo",
-          "Hilde Voorveld"
+          "Musa Malik",
+          "Frederic R. Hopp",
+          "René Weber"
         ],
-        "year": 2024,
+        "year": 2022,
         "citation_count": 7,
         "topics": [
-          "Data donation",
-          "Selection bias",
-          "Digital data collection",
-          "Representativeness"
+          "Racial representation",
+          "Film analysis",
+          "Media bias",
+          "Content analysis"
         ],
-        "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
-        "url": "https://doi.org/10.5117/ccr2024.2.3.stry",
+        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
+        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
         "topics_llm": true
       },
       {
@@ -908,26 +928,6 @@
         ],
         "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
         "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.006.mali",
-        "title": "Representations of Racial Minorities in Popular Movies",
-        "authors": [
-          "Musa Malik",
-          "Frederic R. Hopp",
-          "René Weber"
-        ],
-        "year": 2022,
-        "citation_count": 6,
-        "topics": [
-          "Racial representation",
-          "Film analysis",
-          "Media bias",
-          "Content analysis"
-        ],
-        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
-        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
         "topics_llm": true
       },
       {
@@ -1749,7 +1749,7 @@
           "Hilde Voorveld"
         ],
         "year": 2024,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Data donation",
           "Selection bias",
@@ -1971,7 +1971,7 @@
           "Xiao Fan Liu"
         ],
         "year": 2023,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Online dating",
           "Self-presentation",

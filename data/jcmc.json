@@ -1,7 +1,7 @@
 {
   "journal_id": "jcmc",
-  "updated_at": "2026-05-25T10:03:48Z",
-  "trending_from": "2024-05-25",
+  "updated_at": "2026-06-01T11:31:16Z",
+  "trending_from": "2024-06-01",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Nicole B. Ellison"
         ],
         "year": 2007,
-        "citation_count": 16049,
+        "citation_count": 16059,
         "topics": [
           "Social network sites",
           "Online communities",
@@ -32,7 +32,7 @@
           "Cliff Lampe"
         ],
         "year": 2007,
-        "citation_count": 9814,
+        "citation_count": 9822,
         "topics": [
           "Social capital",
           "Online social networks",
@@ -51,7 +51,7 @@
           "Theresa Bolmarcich Ditton"
         ],
         "year": 2006,
-        "citation_count": 3630,
+        "citation_count": 3634,
         "topics": [
           "Presence",
           "Communication theory",
@@ -69,7 +69,7 @@
           "Kevin B. Wright"
         ],
         "year": 2006,
-        "citation_count": 2538,
+        "citation_count": 2539,
         "topics": [
           "Online surveys",
           "Internet research methods",
@@ -89,7 +89,7 @@
           "Kerk F. Kee"
         ],
         "year": 2009,
-        "citation_count": 2227,
+        "citation_count": 2228,
         "topics": [
           "Social capital",
           "Social network sites",
@@ -149,7 +149,7 @@
           "Jennifer L. Gibbs"
         ],
         "year": 2006,
-        "citation_count": 1603,
+        "citation_count": 1607,
         "topics": [
           "Self-presentation",
           "Online dating",
@@ -223,7 +223,7 @@
           "Frank Biocca"
         ],
         "year": 2006,
-        "citation_count": 1182,
+        "citation_count": 1183,
         "topics": [
           "Virtual embodiment",
           "Avatar representation",
@@ -244,7 +244,7 @@
           "Jeffrey W. Treem"
         ],
         "year": 2016,
-        "citation_count": 1176,
+        "citation_count": 1177,
         "topics": [
           "Affordances",
           "Communication technology",
@@ -263,7 +263,7 @@
           "Robert LaRose"
         ],
         "year": 2006,
-        "citation_count": 1167,
+        "citation_count": 1169,
         "topics": [
           "Internet self-efficacy",
           "Digital divide",
@@ -300,7 +300,7 @@
           "R. Garrett"
         ],
         "year": 2009,
-        "citation_count": 1029,
+        "citation_count": 1030,
         "topics": [
           "selective exposure",
           "echo chambers",
@@ -319,7 +319,7 @@
           "Dorothy E. Leidner"
         ],
         "year": 2006,
-        "citation_count": 938,
+        "citation_count": 940,
         "topics": [
           "Virtual teams",
           "Trust development",
@@ -359,7 +359,7 @@
           "Cliff Lampe"
         ],
         "year": 2014,
-        "citation_count": 903,
+        "citation_count": 904,
         "topics": [
           "Social capital",
           "Facebook relationship maintenance",
@@ -421,7 +421,7 @@
           "Bijan Azad"
         ],
         "year": 2013,
-        "citation_count": 874,
+        "citation_count": 876,
         "topics": [
           "Social media affordances",
           "Organizational knowledge sharing",
@@ -457,7 +457,7 @@
           "Limor Shifman"
         ],
         "year": 2013,
-        "citation_count": 861,
+        "citation_count": 863,
         "topics": [
           "Memes",
           "Digital culture",
@@ -495,7 +495,7 @@
           "Judith Donath"
         ],
         "year": 2007,
-        "citation_count": 791,
+        "citation_count": 793,
         "topics": [
           "Social network sites",
           "Signaling theory",
@@ -517,7 +517,7 @@
           "Peter Ladwig"
         ],
         "year": 2013,
-        "citation_count": 776,
+        "citation_count": 777,
         "topics": [
           "Online incivility",
           "Risk perception",
@@ -536,7 +536,7 @@
           "Jochen Peter"
         ],
         "year": 2007,
-        "citation_count": 742,
+        "citation_count": 745,
         "topics": [
           "Online communication",
           "Adolescent well-being",
@@ -555,7 +555,7 @@
           "Frank Biocca"
         ],
         "year": 2006,
-        "citation_count": 732,
+        "citation_count": 733,
         "topics": [
           "Telepresence",
           "Television media",
@@ -598,7 +598,7 @@
           "Laura Granka"
         ],
         "year": 2007,
-        "citation_count": 706,
+        "citation_count": 708,
         "topics": [
           "Search engine trust",
           "Google ranking bias",
@@ -607,6 +607,26 @@
         ],
         "abstract": "An eye tracking experiment revealed that college student users have substantial trust in Google's ability to rank results by their true relevance to the query. When the participants selected a link to follow from Google's result pages, their decisions were strongly biased towards links higher in position even if the abstracts themselves were less relevant. While the participants reacted to artificially reduced retrieval quality by greater scrutiny, they failed to achieve the same success rate. This demonstrated trust in Google has implications for the search engine's tremendous potential influence on culture, society, and user traffic on the Web.",
         "url": "https://doi.org/10.1111/j.1083-6101.2007.00351.x",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1111/j.1083-6101.2008.00428.x",
+        "title": "Who plays, how much, and why? Debunking the stereotypical gamer profile",
+        "authors": [
+          "Dmitri Williams",
+          "Nick Yee",
+          "Scott E. Caplan"
+        ],
+        "year": 2008,
+        "citation_count": 704,
+        "topics": [
+          "Online gaming",
+          "Player motivations",
+          "Gamer demographics",
+          "Virtual worlds communication"
+        ],
+        "abstract": "Online games have exploded in popularity, but for many researchers access to players has been difficult. The study reported here is the first to collect a combination of survey and behavioral data with the cooperation of a major virtual world operator. In the current study, 7,000 players of the massively multiplayer online game (MMO) EverQuest 2 were surveyed about their offline characteristics, their motivations and their physical and mental health. These self-report data were then combined with data on participants' actual in-game play behaviors, as collected by the game operator. Most of the results defy common stereotypes in surprising and interesting ways and have implications for communication theory and for future investigations of games.",
+        "url": "https://doi.org/10.1111/j.1083-6101.2008.00428.x",
         "topics_llm": true
       },
       {
@@ -630,33 +650,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1083-6101.2008.00428.x",
-        "title": "Who plays, how much, and why? Debunking the stereotypical gamer profile",
-        "authors": [
-          "Dmitri Williams",
-          "Nick Yee",
-          "Scott E. Caplan"
-        ],
-        "year": 2008,
-        "citation_count": 703,
-        "topics": [
-          "Online gaming",
-          "Player motivations",
-          "Gamer demographics",
-          "Virtual worlds communication"
-        ],
-        "abstract": "Online games have exploded in popularity, but for many researchers access to players has been difficult. The study reported here is the first to collect a combination of survey and behavioral data with the cooperation of a major virtual world operator. In the current study, 7,000 players of the massively multiplayer online game (MMO) EverQuest 2 were surveyed about their offline characteristics, their motivations and their physical and mental health. These self-report data were then combined with data on participants' actual in-game play behaviors, as collected by the game operator. Most of the results defy common stereotypes in surprising and interesting ways and have implications for communication theory and for future investigations of games.",
-        "url": "https://doi.org/10.1111/j.1083-6101.2008.00428.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1093/jcmc/zmz026",
         "title": "Rise of Machine Agency: A Framework for Studying the Psychology of Human–AI Interaction (HAII)",
         "authors": [
           "S. Shyam Sundar"
         ],
         "year": 2019,
-        "citation_count": 670,
+        "citation_count": 677,
         "topics": [
           "Human-AI interaction",
           "Machine agency",
@@ -715,7 +715,7 @@
           "Mana Kuntaraporn"
         ],
         "year": 2006,
-        "citation_count": 633,
+        "citation_count": 634,
         "topics": [
           "Online word-of-mouth",
           "Opinion leadership",
@@ -776,7 +776,7 @@
           "Raymond J. Pingree"
         ],
         "year": 2015,
-        "citation_count": 599,
+        "citation_count": 600,
         "topics": [
           "Social media recommendations",
           "Media trust",
@@ -795,7 +795,7 @@
           "Christoph Klimmt"
         ],
         "year": 2006,
-        "citation_count": 598,
+        "citation_count": 600,
         "topics": [
           "Gender differences",
           "Video games",
@@ -856,9 +856,9 @@
         "citation_count": 575,
         "topics": [
           "Electronic commerce",
-          "Intermediaries",
-          "Digital marketplace",
-          "Cybermediation"
+          "Digital intermediaries",
+          "Market mediation",
+          "E-business platforms"
         ],
         "abstract": "",
         "url": "",
@@ -871,7 +871,7 @@
           "Monika Taddicken"
         ],
         "year": 2013,
-        "citation_count": 567,
+        "citation_count": 569,
         "topics": [
           "Privacy Paradox",
           "Self-disclosure",
@@ -910,7 +910,7 @@
           "Alberto Ardèvol‐Abreu"
         ],
         "year": 2017,
-        "citation_count": 551,
+        "citation_count": 553,
         "topics": [
           "news-finds-me perception",
           "social media news consumption",
@@ -929,7 +929,7 @@
           "Christian Rauh"
         ],
         "year": 2005,
-        "citation_count": 543,
+        "citation_count": 544,
         "topics": [
           "Avatar design",
           "Online communication",
@@ -980,6 +980,66 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1093/jcmc/zmag011",
+        "title": "Real-time artificial intelligence sentiment feedback promotes self-moderation in contentious online discussion",
+        "authors": [
+          "Soo Yun Shin",
+          "Seo Hyeong Kim",
+          "D Lee",
+          "J A Kim"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online civility",
+          "AI-mediated moderation",
+          "Self-regulation in digital communication"
+        ],
+        "abstract": "Abstract Online discussions are often filled with hostile and uncivil comments. While human and automated moderation have been employed to reduce incivility, such approaches are criticized for limiting free expression. This study tested (a) whether artificial intelligence (AI)-mediated communication could encourage self-moderation while preserving human agency and (b) whether the results of self-moderation are perceived by others. In Study 1 (N = 421), Korean adults read a contentious online discussion thread and contributed responses after receiving either an AI-generated sentiment score or general feedback. Results showed that 20.67% of participants (n = 87) revised their original comment, and providing a real-time AI sentiment score increased the revision likelihood compared to general feedback. Among revisers, lower AI scores predicted more positive sentiment change. These effects held regardless of participants’ preexisting favorability toward AI. Study 2 (N = 348) asked third-party observers, unaware of the feedback intervention, to evaluate comments and discussions from Study 1. Revised comments were perceived as more positive in sentiment. Discussions containing comments revised following AI score feedback were perceived as having lower conflict intensity compared to those with unrevised comments, whereas this difference did not emerge for general feedback. The findings highlight AI’s potential in promoting user-driven self-moderation without external enforcement and its cascading positive effects on third-party observers.",
+        "url": "https://doi.org/10.1093/jcmc/zmag011",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/jcmc/zmag010",
+        "title": "Intimate surveillance of the ordinary: youth’s negotiation of digital location tracking with parents and peers",
+        "authors": [
+          "Julie Dereymaeker",
+          "Tom De Leyn",
+          "Elodie Devos",
+          "Ralf De Wolf"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital location tracking",
+          "Privacy management",
+          "Youth digital agency",
+          "Parent-child communication"
+        ],
+        "abstract": "Abstract Digital location tracking (DLT) is increasingly prevalent in young people’s lives. This qualitative study adopts a youth-centric lens, drawing on Feminist Science &amp; Technology Studies and Communication Privacy Management theory, to investigate how young people negotiate DLT with parents and peers. Based on 21 focus groups with 147 young people (aged 13–16) in Belgium, the study demonstrates youth’s DLT as an agentic process of boundary negotiation guided by their sense of autonomy and safety. Three implicit rules govern DLT boundaries: (a) access is reserved for close, trusted connections, DLT must (b) remain non-continuous, and (c) confirm ordinary, routine whereabouts. These boundaries are negotiated through 3 strategies: (a) humor, (b) revoking location access, (c) circumvention. The study shows how these negotiations build on a “risky world” premise and how young people reproduce and challenge gender stereotypes throughout. Ultimately, through both acceptance and resistance, young people question and normalize everyday surveillance culture.",
+        "url": "https://doi.org/10.1093/jcmc/zmag010",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/jcmc/zmag009",
+        "title": "Machine agency attribution in human–AI interaction: developing and validating an analytical framework",
+        "authors": [
+          "Yuheng Wu",
+          "Fei Shen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Machine agency",
+          "Human-AI interaction",
+          "Attribution theory",
+          "AI communication"
+        ],
+        "abstract": "Abstract As artificial intelligence (AI) increasingly reshapes human communication, the attribution of agency to machines has become a central scholarly concern. Yet there is little consensus on how users psychologically construe machine agency in human–AI interaction. To address this gap, we propose and validate an analytical framework that organizes prior conceptualizations into three phases: (a) perceptual phase (perception of agentic behavior), (b) inferential phase (inference of agentic minds), and (c) evaluative phase (judgment of agentic influence). Two survey studies develop measures for these phases, and an experiment tests their relationships. The results support a layered process: Perceived machine independence and goal-orientation (perceptual-phase variables) are directly associated with influential capacity judgment, and mental-state inference further strengthens this association. The framework clarifies how divergent conceptualizations of machine agency may reflect different phases of a broader attribution process and helps locate related claims at more precise levels of analysis.",
+        "url": "https://doi.org/10.1093/jcmc/zmag009",
+        "topics_llm": true
+      },
       {
         "doi": "10.1093/jcmc/zmag007",
         "title": "Algorithmic relational fracture and pseudo-relational accommodation: how users navigate communication breakdowns with relational AI",
@@ -1161,7 +1221,7 @@
           "Sabine Trepte"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Social media privacy",
           "Privacy concerns",
@@ -1644,7 +1704,7 @@
           "S. Shyam Sundar"
         ],
         "year": 2024,
-        "citation_count": 48,
+        "citation_count": 49,
         "topics": [
           "Machine heuristic",
           "Automated systems",
@@ -1703,7 +1763,7 @@
           "Y. Anthony Chen"
         ],
         "year": 2024,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Algorithmic personalization",
           "Social connectedness",
@@ -1723,7 +1783,7 @@
           "Porismita Borah"
         ],
         "year": 2024,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "News-finds-me perception",
           "Algorithmic news",
@@ -1851,63 +1911,6 @@
         "abstract": "Abstract The spread of multimodal coronavirus disease 2019 (COVID-19) misinformation on social media poses considerable public health risks. Yet limited research has addressed the efficacy of citizen-contributed, multimodal debunking messages, especially the roles of audiovisual structural features. In a between-subject online experiment, we assessed the impacts of misleading TikTok videos promoting the false claim that COVID-19 vaccines cause infertility and compared the effectiveness of debunking videos from medical experts vs. laypeople. We independently varied the presence of background music. Results showed that while misleading TikTok videos increased misperceptions, most debunking videos effectively countered such misinformation. Notably, compared with laypeople’s testimonial corrections, expert didactic videos benefited more from incorporating high-tempo background music, primarily through the suppression of counterarguing rather than through enhanced encoding. These findings underscore the importance to consider audiovisual structural features, such as background music, as well as the cognitive pathway through distracted counterarguing, in future research on multimodal misinformation and correction.",
         "url": "https://doi.org/10.1093/jcmc/zmae007",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1093/jcmc/zmae015",
-        "title": "Finding love in algorithms: deciphering the emotional contexts of close encounters with AI chatbots",
-        "authors": [
-          "Han Li",
-          "Renwen Zhang"
-        ],
-        "year": 2024,
-        "citation_count": 85,
-        "topics": [
-          "Human-AI relationships",
-          "Emotional communication",
-          "AI chatbots",
-          "Social interaction"
-        ],
-        "abstract": "Abstract AI chatbots are permeating the socio-emotional realms of human life, presenting both benefits and challenges to interpersonal dynamics and well-being. Despite burgeoning interest in human–AI relationships, the conversational and emotional nuances of real-world, in situ human–AI social interactions remain underexplored. Through computational analysis of a multimodal dataset with over 35,000 screenshots and posts from r/replika, we identified seven prevalent types of human–AI social interactions: intimate behavior, mundane interaction, self-disclosure, play and fantasy, customization, transgression, and communication breakdown, and examined their associations with six basic human emotions. Our findings suggest the paradox of emotional connection with AI, indicated by the bittersweet emotion in intimate encounters with AI chatbots, and the elevated fear in uncanny valley moments when AI exhibits semblances of mind in deep self-disclosure. Customization characterizes the distinctiveness of AI companionship, positively elevating user experiences, whereas transgression and communication breakdown elicit fear or sadness.",
-        "url": "https://doi.org/10.1093/jcmc/zmae015",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/jcmc/zmae006",
-        "title": "Inspiring or demoralizing? Deservingness perceptions help determine why emerging adults experience positive or negative effects from envy-inducing social media posts",
-        "authors": [
-          "Enoch Montes",
-          "David C. DeAndrea"
-        ],
-        "year": 2024,
-        "citation_count": 3,
-        "topics": [
-          "Social media",
-          "Envy",
-          "Deservingness perceptions",
-          "Emerging adults"
-        ],
-        "abstract": "Abstract This study extends pain-driven dual envy theory to explain why emerging adults who do not attend college might experience uplifting or hostile reactions to the social media posts of their college-attending peers. Employing a 2 × 2 experiment (N = 233; Mage = 21.87), we examined how deservingness perceptions (deserving versus undeserving) and social approval cues (high versus low) affect the type of envy emerging adults experience from viewing college success posts on social media. Results indicated that the more participants perceived the college success of their peers to be deserved, the more they experienced benign envy. Conversely, the more participants appraised the college success of their peers to be undeserved, the more they experienced malicious envy. Results also indicated that posts with higher social approval indirectly triggered more pain for participants. Overall, findings help clarify why social media users can experience both positive and negative effects from online social comparisons.",
-        "url": "https://doi.org/10.1093/jcmc/zmae006",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/jcmc/zmae009",
-        "title": "Accumulative cartography: a visual semiotic analysis of online mobile maps",
-        "authors": [
-          "Igal Baum",
-          "Rivka Ribak"
-        ],
-        "year": 2024,
-        "citation_count": 0,
-        "topics": [
-          "Digital mapping",
-          "Visual semiotics",
-          "Data capitalism",
-          "Mobile navigation apps"
-        ],
-        "abstract": "Abstract Dynamic maps featured in navigation applications draw on conventional cartographic practices for representing the urban environment, engaging drivers and users of public transportation in their efforts to reach their destinations. However, since these maps are produced within an economy of data accumulation, their construction of territory and user-friendly interface are designed to generate value. In this article, we explore what we define as accumulative cartography—mapping designed for the accumulation of data and capital—by developing a semiotic walk-through method for analyzing dynamic maps. Our visual semiotic analysis of Waze, Moovit, and Gett reveals that their maps are personalized, centering on the user; they commodify space, aiming to promote their specific business models; and they are preoccupied with time. We suggest that in contrast to printed maps, dynamic maps don’t provide users with the information required for navigation but instead navigate algorithmically for them, while accumulating their information.",
-        "url": "https://doi.org/10.1093/jcmc/zmae009",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1919,7 +1922,7 @@
           "Renwen Zhang"
         ],
         "year": 2024,
-        "citation_count": 85,
+        "citation_count": 86,
         "topics": [
           "Human-AI relationships",
           "Emotional communication",
@@ -1938,7 +1941,7 @@
           "S. Shyam Sundar"
         ],
         "year": 2024,
-        "citation_count": 48,
+        "citation_count": 49,
         "topics": [
           "Machine heuristic",
           "Automated systems",
@@ -1957,7 +1960,7 @@
           "Y. Anthony Chen"
         ],
         "year": 2024,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Algorithmic personalization",
           "Social connectedness",
@@ -2088,6 +2091,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/jcmc/zmae010",
+        "title": "Learning about climate change with algorithmic news? A two-wave panel study examining the role of “news-finds-me” perception",
+        "authors": [
+          "Yan Su",
+          "Chen Luo",
+          "Porismita Borah"
+        ],
+        "year": 2024,
+        "citation_count": 8,
+        "topics": [
+          "News-finds-me perception",
+          "Algorithmic news",
+          "Climate change knowledge",
+          "Discussion networks"
+        ],
+        "abstract": "Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.",
+        "url": "https://doi.org/10.1093/jcmc/zmae010",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/jcmc/zmaf004",
         "title": "The quality of face-to-face and digitally mediated social interactions: two experience sampling studies exploring the moderating role of physical location, interaction partner familiarity, and interaction purpose",
         "authors": [
@@ -2132,23 +2155,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1093/jcmc/zmae010",
-        "title": "Learning about climate change with algorithmic news? A two-wave panel study examining the role of “news-finds-me” perception",
+        "doi": "10.1093/jcmc/zmae011",
+        "title": "Enacting machine agency when AI makes one’s day: understanding how users relate to AI communication technologies for scheduling",
         "authors": [
-          "Yan Su",
-          "Chen Luo",
-          "Porismita Borah"
+          "Camille G. Endacott"
         ],
         "year": 2024,
         "citation_count": 7,
         "topics": [
-          "News-finds-me perception",
-          "Algorithmic news",
-          "Climate change knowledge",
-          "Discussion networks"
+          "Artificial Intelligence",
+          "Human-Computer Interaction",
+          "Organizational Communication",
+          "Technology Adoption"
         ],
-        "abstract": "Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.",
-        "url": "https://doi.org/10.1093/jcmc/zmae010",
+        "abstract": "Abstract AI Communication Technologies (AICTs) make decisions about users’ communication on their behalf. Users’ implementation of AICTs that autonomously act may enable and constrain how they accomplish their work and interact with others. Drawing on interviews with users of two AICTs with differing levels of autonomy designed for work-related scheduling, this study investigated how users enacted AICTs in practice. Users of both tools drew on AICTs’ autonomous capabilities to enact machine agency, a structure that assigns AICTs the power to allocate resources, which helped them increase scheduling efficiency and guide how others interacted with them. Users of the tool that autonomously implemented decisions described a process of enactment in which they used the tool to control their work, perceived the tool was exhibiting too much control, and acted to regain control. I present implications for understanding how people enact machine agency with AICTs that make decisions about their work.",
+        "url": "https://doi.org/10.1093/jcmc/zmae011",
         "topics_llm": true
       },
       {
@@ -2206,24 +2227,6 @@
         ],
         "abstract": "Abstract Individuals rely on messaging platforms to form and maintain intimate relationships, trusting shared information will remain within intended digital confines. However, the screenshot feature allows people to capture and store pieces of private conversations as a separate file on their device, rendering them shareable with third parties. While usage of this feature can be benign, this study focuses on its ability to breach privacy expectations within messaging platforms, termed within communication privacy management theory as privacy turbulence. This study recognizes the power of both interpersonal dynamics and platform affordances in constraining existing norms around screenshot collection and sharing others’ private messages. Experimental results (n = 302) suggest obscuring received messages upon use of the screenshot feature and stating an explicit privacy rule significantly reduce screenshot collection and sharing, respectively. Implications for communication theory and the future of messaging platform design will be discussed.",
         "url": "https://doi.org/10.1093/jcmc/zmae023",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/jcmc/zmae011",
-        "title": "Enacting machine agency when AI makes one’s day: understanding how users relate to AI communication technologies for scheduling",
-        "authors": [
-          "Camille G. Endacott"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Artificial Intelligence",
-          "Human-Computer Interaction",
-          "Organizational Communication",
-          "Technology Adoption"
-        ],
-        "abstract": "Abstract AI Communication Technologies (AICTs) make decisions about users’ communication on their behalf. Users’ implementation of AICTs that autonomously act may enable and constrain how they accomplish their work and interact with others. Drawing on interviews with users of two AICTs with differing levels of autonomy designed for work-related scheduling, this study investigated how users enacted AICTs in practice. Users of both tools drew on AICTs’ autonomous capabilities to enact machine agency, a structure that assigns AICTs the power to allocate resources, which helped them increase scheduling efficiency and guide how others interacted with them. Users of the tool that autonomously implemented decisions described a process of enactment in which they used the tool to control their work, perceived the tool was exhibiting too much control, and acted to regain control. I present implications for understanding how people enact machine agency with AICTs that make decisions about their work.",
-        "url": "https://doi.org/10.1093/jcmc/zmae011",
         "topics_llm": true
       }
     ]

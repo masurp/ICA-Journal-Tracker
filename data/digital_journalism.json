@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-05-25T10:04:18Z",
-  "trending_from": "2024-05-25",
+  "updated_at": "2026-06-01T11:31:57Z",
+  "trending_from": "2024-06-01",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2081,
+        "citation_count": 2086,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -50,7 +50,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 672,
+        "citation_count": 675,
         "topics": [
           "Algorithmic transparency",
           "Platform accountability",
@@ -70,7 +70,7 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 521,
+        "citation_count": 523,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
@@ -88,7 +88,7 @@
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 492,
+        "citation_count": 495,
         "topics": [
           "Artificial intelligence",
           "Automated journalism",
@@ -106,7 +106,7 @@
           "Mark Coddington"
         ],
         "year": 2014,
-        "citation_count": 478,
+        "citation_count": 479,
         "topics": [
           "Journalism",
           "Quantitative methods",
@@ -125,7 +125,7 @@
           "Michael Koliska"
         ],
         "year": 2016,
-        "citation_count": 474,
+        "citation_count": 475,
         "topics": [
           "Algorithmic transparency",
           "News media",
@@ -145,7 +145,7 @@
           "Lena Frischlich"
         ],
         "year": 2019,
-        "citation_count": 426,
+        "citation_count": 428,
         "topics": [
           "Alternative news media",
           "Media criticism",
@@ -202,7 +202,7 @@
           "Konstantin Dörr"
         ],
         "year": 2015,
-        "citation_count": 374,
+        "citation_count": 376,
         "topics": [
           "Algorithmic journalism",
           "Natural language generation",
@@ -220,7 +220,7 @@
           "Karin Wahl‐Jorgensen"
         ],
         "year": 2019,
-        "citation_count": 357,
+        "citation_count": 359,
         "topics": [
           "Journalism studies",
           "Emotion in media",
@@ -250,6 +250,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2019.1623700",
+        "title": "On the Democratic Role of News Recommenders",
+        "authors": [
+          "Natali Helberger"
+        ],
+        "year": 2019,
+        "citation_count": 338,
+        "topics": [
+          "News recommenders",
+          "Democratic media",
+          "Algorithmic journalism",
+          "Personalization and democracy"
+        ],
+        "abstract": "Are algorithmic news recommenders a threat to the democratic role of the media? Or are they an opportunity, and, if so, how would news recommenders need to be designed to advance values and goals that we consider essential in a democratic society? These are central questions in the ongoing academic and policy debate about the likely implications of data analytics and machine learning for the democratic role of the media and the shift from traditional mass-media modes of distribution towards more personalised news and platforms Building on democratic theory and the growing body of literature about the digital turn in journalism, this article offers a conceptual framework for assessing the threats and opportunities around the democratic role of news recommenders, and develops a typology of different ‘democratic recommenders’.",
+        "url": "https://doi.org/10.1080/21670811.2019.1623700",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2014.927986",
         "title": "Actors, Actants, Audiences, and Activities in Cross-Media News Work",
         "authors": [
@@ -266,24 +284,6 @@
         ],
         "abstract": "In contemporary journalism, there is a need for better conceptualizing the changing nature of human actors, nonhuman technological actants, and diverse representations of audiences—and the activities of news production, distribution, and interpretation through which actors, actants, and audiences are inter-related. This article explicates each of these elements—the Four A’s—in the context of cross-media news work, a perspective that lends equal emphasis to editorial, business, and technology as key sites for studying the organizational influences shaping journalism. We argue for developing a sociotechnical emphasis for the study of institutional news production: a holistic framework through which to make sense of and conduct research about the full range of actors, actants, and audiences engaged in cross-media news work activities. This emphasis addresses two shortcomings in the journalism studies literature: a relative neglect about (1) the interplay of humans and technology, or manual and computational modes of orientation and operation, and (2) the interplay of editorial, business, and technology in news organizations. This article’s ultimate contribution is a cross-media news work matrix that illustrates the interconnections among the Four A’s and reveals where opportunities remain for empirical study.",
         "url": "https://doi.org/10.1080/21670811.2014.927986",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2019.1623700",
-        "title": "On the Democratic Role of News Recommenders",
-        "authors": [
-          "Natali Helberger"
-        ],
-        "year": 2019,
-        "citation_count": 336,
-        "topics": [
-          "News recommenders",
-          "Democratic media",
-          "Algorithmic journalism",
-          "Personalization and democracy"
-        ],
-        "abstract": "Are algorithmic news recommenders a threat to the democratic role of the media? Or are they an opportunity, and, if so, how would news recommenders need to be designed to advance values and goals that we consider essential in a democratic society? These are central questions in the ongoing academic and policy debate about the likely implications of data analytics and machine learning for the democratic role of the media and the shift from traditional mass-media modes of distribution towards more personalised news and platforms Building on democratic theory and the growing body of literature about the digital turn in journalism, this article offers a conceptual framework for assessing the threats and opportunities around the democratic role of news recommenders, and develops a typology of different ‘democratic recommenders’.",
-        "url": "https://doi.org/10.1080/21670811.2019.1623700",
         "topics_llm": true
       },
       {
@@ -333,7 +333,7 @@
           "Silvio Waisbord"
         ],
         "year": 2020,
-        "citation_count": 286,
+        "citation_count": 287,
         "topics": [
           "Online harassment",
           "Journalist safety",
@@ -370,7 +370,7 @@
           "Maria Jervelycke Belfrage"
         ],
         "year": 2018,
-        "citation_count": 273,
+        "citation_count": 275,
         "topics": [
           "Social media",
           "News consumption",
@@ -389,7 +389,7 @@
           "Oscar Westlund"
         ],
         "year": 2014,
-        "citation_count": 271,
+        "citation_count": 273,
         "topics": [
           "Big data",
           "Journalism",
@@ -445,7 +445,7 @@
           "Thomas Schmidt"
         ],
         "year": 2019,
-        "citation_count": 262,
+        "citation_count": 263,
         "topics": [
           "Automated journalism",
           "Human-Machine Communication",
@@ -484,7 +484,7 @@
           "Michael Ann DeVito"
         ],
         "year": 2016,
-        "citation_count": 260,
+        "citation_count": 262,
         "topics": [
           "Algorithmic curation",
           "News Feed",
@@ -521,7 +521,7 @@
           "Edson C. Tandoc"
         ],
         "year": 2018,
-        "citation_count": 249,
+        "citation_count": 250,
         "topics": [
           "Audience metrics",
           "Editorial decision-making",
@@ -579,7 +579,7 @@
           "Marcel Broersma"
         ],
         "year": 2016,
-        "citation_count": 237,
+        "citation_count": 238,
         "topics": [
           "Personal branding",
           "Twitter",
@@ -638,7 +638,7 @@
           "Mark Coddington"
         ],
         "year": 2020,
-        "citation_count": 222,
+        "citation_count": 224,
         "topics": [
           "Online harassment",
           "Journalist-audience relationships",
@@ -693,7 +693,7 @@
           "Katharina Hollnbuchner"
         ],
         "year": 2016,
-        "citation_count": 215,
+        "citation_count": 216,
         "topics": [
           "Algorithmic journalism",
           "Media ethics",
@@ -826,33 +826,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2017.1289819",
-        "title": "When Reporters Get Hands-on with Robo-Writing",
-        "authors": [
-          "Neil Thurman",
-          "Konstantin Dörr",
-          "Jessica Kunert"
-        ],
-        "year": 2017,
-        "citation_count": 206,
-        "topics": [
-          "Automated journalism",
-          "Journalism technology",
-          "Professional journalists",
-          "News production"
-        ],
-        "abstract": "The availability of data feeds, the demand for news on digital devices, and advances in algorithms are helping to make automated journalism more prevalent. This article extends the literature on the subject by analysing professional journalists’ experiences with, and opinions about, the technology. Uniquely, the participants were drawn from a range of news organizations—including the BBC, CNN, and Thomson Reuters—and had first-hand experience working with robo-writing software provided by one of the leading technology suppliers. The results reveal journalists’ judgements on the limitations of automation, including the nature of its sources and the sensitivity of its “nose for news”. Nonetheless, journalists believe that automated journalism will become more common, increasing the depth, breadth, specificity, and immediacy of information available. While some news organizations and consumers may benefit, such changes raise ethical and societal issues and, counter-intuitively perhaps, may increase the need for skills—news judgement, curiosity, and scepticism—that human journalists embody.",
-        "url": "https://doi.org/10.1080/21670811.2017.1289819",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2020.1773888",
         "title": "The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power",
         "authors": [
           "Natali Helberger"
         ],
         "year": 2020,
-        "citation_count": 204,
+        "citation_count": 208,
         "topics": [
           "Social media regulation",
           "Platform accountability",
@@ -861,6 +841,26 @@
         ],
         "abstract": "This contribution critically reviews the ongoing policy initiatives in Europe to impose greater societal responsibility on social media platforms. I discuss the current regulatory approach of treating social platforms as mere 'intermediaries' of the speech of others and propose a different perspective. Instead of perceiving platforms as intermediaries and facilitators of the speech of others, I view social media platforms as active political actors in their own right, and wielders of considerable opinion power. I will explain how taking the perspective of opinion power throws a very different, and rather alarming light on the recent regulatory initiatives.",
         "url": "https://doi.org/10.1080/21670811.2020.1773888",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2017.1289819",
+        "title": "When Reporters Get Hands-on with Robo-Writing",
+        "authors": [
+          "Neil Thurman",
+          "Konstantin Dörr",
+          "Jessica Kunert"
+        ],
+        "year": 2017,
+        "citation_count": 207,
+        "topics": [
+          "Automated journalism",
+          "Journalism technology",
+          "Professional journalists",
+          "News production"
+        ],
+        "abstract": "The availability of data feeds, the demand for news on digital devices, and advances in algorithms are helping to make automated journalism more prevalent. This article extends the literature on the subject by analysing professional journalists’ experiences with, and opinions about, the technology. Uniquely, the participants were drawn from a range of news organizations—including the BBC, CNN, and Thomson Reuters—and had first-hand experience working with robo-writing software provided by one of the leading technology suppliers. The results reveal journalists’ judgements on the limitations of automation, including the nature of its sources and the sensitivity of its “nose for news”. Nonetheless, journalists believe that automated journalism will become more common, increasing the depth, breadth, specificity, and immediacy of information available. While some news organizations and consumers may benefit, such changes raise ethical and societal issues and, counter-intuitively perhaps, may increase the need for skills—news judgement, curiosity, and scepticism—that human journalists embody.",
+        "url": "https://doi.org/10.1080/21670811.2017.1289819",
         "topics_llm": true
       },
       {
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 191,
+        "citation_count": 192,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -1666,7 +1666,7 @@
           "Amaka Peace Onebunne"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Artificial Intelligence",
           "Journalism",
@@ -1743,7 +1743,7 @@
           "Aliaa K. ElShabassy"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "TikTok",
           "Israel-Gaza conflict",
@@ -1909,7 +1909,7 @@
           "Liisa Ovaska"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Audience analytics",
           "Journalism",
@@ -1971,7 +1971,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2025,
-        "citation_count": 20,
+        "citation_count": 21,
         "topics": [
           "Generative AI",
           "Journalism",
@@ -2039,6 +2039,45 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2505982",
+        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
+        "authors": [
+          "Hannes Cools",
+          "Claes H. de Vreese"
+        ],
+        "year": 2025,
+        "citation_count": 14,
+        "topics": [
+          "Artificial Intelligence in journalism",
+          "Professional norms",
+          "Responsible AI",
+          "News organizations"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2505982",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2510967",
+        "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
+        "authors": [
+          "Gregory Perreault",
+          "Seth C. Lewis",
+          "Maxwell Ely"
+        ],
+        "year": 2025,
+        "citation_count": 14,
+        "topics": [
+          "Generative AI",
+          "Journalistic Authority",
+          "Epistemology",
+          "ChatGPT"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2510967",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2361264",
         "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
         "authors": [
@@ -2058,45 +2097,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2025.2510967",
-        "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
-        "authors": [
-          "Gregory Perreault",
-          "Seth C. Lewis",
-          "Maxwell Ely"
-        ],
-        "year": 2025,
-        "citation_count": 13,
-        "topics": [
-          "Generative AI",
-          "Journalistic Authority",
-          "Epistemology",
-          "ChatGPT"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2510967",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2505982",
-        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
-        "authors": [
-          "Hannes Cools",
-          "Claes H. de Vreese"
-        ],
-        "year": 2025,
-        "citation_count": 12,
-        "topics": [
-          "Artificial Intelligence in journalism",
-          "Professional norms",
-          "Responsible AI",
-          "News organizations"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2505982",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2024.2443163",
         "title": "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press",
         "authors": [
@@ -2104,7 +2104,7 @@
           "Anna Schjøtt"
         ],
         "year": 2025,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Artificial Intelligence",
           "News Media",
@@ -2113,6 +2113,25 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2024.2443163",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2462558",
+        "title": "Visuality as an Affordance on Instagram News Production",
+        "authors": [
+          "Saara-Maija Kallio",
+          "Jenni Mäenpää"
+        ],
+        "year": 2025,
+        "citation_count": 12,
+        "topics": [
+          "Instagram",
+          "News production",
+          "Visual communication",
+          "Social media journalism"
+        ],
+        "abstract": "News media organisations have turned to social media platforms to engage with younger audiences who mainly consume news through these channels. This article focuses on news production on Instagram and explores visuality as a necessity and an affordance in producing journalistic content to the platform. Our data comprises of thematic interviews with social media professionals as well as Instagram Posts and video Reels from news media accounts from Finland. Through qualitative content analysis we have recognised three thematic categories that are connected to visuality guiding the professional decision making: 1) adaptation (strategic adaptation to the platform), 2) condensing (simplifying and shortening the news content) and 3) attention gaining (a strong selectivity targeting specific audiences). Finally, the identification of image-dominated news suggests that visual social media news stories possess characteristics of a new journalistic genre.",
+        "url": "https://doi.org/10.1080/21670811.2025.2462558",
         "topics_llm": true
       },
       {
@@ -2151,25 +2170,6 @@
         ],
         "abstract": "News companies increasingly produce genuine content for social media platforms such as Instagram and TikTok. Unlike content posted on Facebook or X, these news stories are often stand-alone news products adapted to the platforms’ logic and aesthetics. Since Instagram and TikTok are primarily known as entertainment platforms, this raises concerns about the informativeness of such news content. With this study, we therefore explore to what extent news stories on Instagram and TikTok provide relevant information about current affairs, and to what extent this information is combined with entertaining elements. To do so, we collected Instagram stories (<i>N</i> = 1946) and TikTok videos (<i>N </i>= 677) of the six largest Swiss news outlets for a full week each month during a year (February 2022 to January 2023). We compare the prevalence of hard and soft news topics, the degree of information and entertaining elements, and the co-occurrence of information and entertainment (infotainment) between tabloid and quality news outlets, as well as between the two investigated platforms.",
         "url": "https://doi.org/10.1080/21670811.2025.2464062",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2462558",
-        "title": "Visuality as an Affordance on Instagram News Production",
-        "authors": [
-          "Saara-Maija Kallio",
-          "Jenni Mäenpää"
-        ],
-        "year": 2025,
-        "citation_count": 11,
-        "topics": [
-          "Instagram",
-          "News production",
-          "Visual communication",
-          "Social media journalism"
-        ],
-        "abstract": "News media organisations have turned to social media platforms to engage with younger audiences who mainly consume news through these channels. This article focuses on news production on Instagram and explores visuality as a necessity and an affordance in producing journalistic content to the platform. Our data comprises of thematic interviews with social media professionals as well as Instagram Posts and video Reels from news media accounts from Finland. Through qualitative content analysis we have recognised three thematic categories that are connected to visuality guiding the professional decision making: 1) adaptation (strategic adaptation to the platform), 2) condensing (simplifying and shortening the news content) and 3) attention gaining (a strong selectivity targeting specific audiences). Finally, the identification of image-dominated news suggests that visual social media news stories possess characteristics of a new journalistic genre.",
-        "url": "https://doi.org/10.1080/21670811.2025.2462558",
         "topics_llm": true
       },
       {
@@ -2290,6 +2290,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2399622",
+        "title": "What Makes News (Seem) Authentic on Social Media? Indicators from a Qualitative Study of Young Adults",
+        "authors": [
+          "Marília Gehrke",
+          "Johanna Eggers",
+          "Claes H. de Vreese",
+          "David Nicolas Hopmann"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "News authentication",
+          "Social media credibility",
+          "Young adults",
+          "Misinformation"
+        ],
+        "abstract": "This study investigates how young adults in Denmark authenticate news they come across on social media. Based on data from 300 entries of news diaries and interviews with 20 participants, we found that this group uses reputation, endorsement, and consistency as the leading shortcuts in the context of news exposure. Though different conceptually, authenticity is linked to trust, and this group perceives Danish national media as the most credible source of information. Moreover, they are self-confident about distinguishing news from the noise caused by misinformation and rarely complete a two-step authentication process to (double) check content. Our theoretical standpoint departs from the normative perspective that journalism is essential for shaping informed citizenship. Thus, while brand reputation is paramount for legacy Danish media to connect with their audience, this centric news consumption might push people away from learning about other countries’ issues.",
+        "url": "https://doi.org/10.1080/21670811.2024.2399622",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2450312",
         "title": "News Diversity Under Algorithms: The Effects of Pre-Selected and Self-Selected Personalization on Chinese TikTok (Douyin)",
         "authors": [
@@ -2368,27 +2389,6 @@
         ],
         "abstract": "this Introduction to the Special Issue (SI) begins by discussing several risks, threats and dangers visual war journalists may be compelled to confront when performing the vital role of bearing witness, including ten specific imperatives of mediation.It proceeds to elaborate the conception of \"visual war journalism\" guiding the SI's rationale and priorities, in general, before turning to examining in closer detail varied aspects of how ongoing conflicts in Syria, ukraine and Gaza are being documented in visual terms, often under harrowing circumstances.next, this Introduction offers a brief overview of each of its eight articles.It is the SI's aim to foster dialogue and debate about visual war journalism's trajectories today so as to encourage alternative, critical thinking about future prospects.Examinations of global newscapes recurrently bring to light incidents where visual war journalists are working in harm's way, striving to record what they see unfolding before them, often at considerable personal risk.news organisations' incessant demand for compelling imagery continues to intensify while, at the same time, the relative safety for those producing it is becoming ever more precarious.When in the past a credentialed photojournalist or videographer may have expected to have their right to report from the front lines recognised by combatants on all sides, this presumed covenant is no longer tenable in today's conflict zones.In introducing the phrase \"visual war journalism\" for the theme for this Special Issue of Digital Journalism, my aim is to highlight the importance of investigating how and why reportage can invite certain ways of un/seeing that often elude sustained analysis and critique.to see is to attend, focus, and frame, which entails inclusion being defined, in part, by exclusion, by what is outside lines of sight, whether displaced, overlooked, disregarded or denied.In the case of those who are visually-oriented in their reportage -photojournalists, videographers, documentary filmmakers, multimedia content creators, graphic artists, illustrators, drone operators and the like -proximity is less a choice, more an obligation.the maxim long attributed to war photographer robert capa -\"If your pictures aren't good enough, you aren't close enough\" -continues to serve as a guiding ethos for those determined to make images that matter (Allan and tom 2024;",
         "url": "https://doi.org/10.1080/21670811.2024.2443153",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2399622",
-        "title": "What Makes News (Seem) Authentic on Social Media? Indicators from a Qualitative Study of Young Adults",
-        "authors": [
-          "Marília Gehrke",
-          "Johanna Eggers",
-          "Claes H. de Vreese",
-          "David Nicolas Hopmann"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "News authentication",
-          "Social media credibility",
-          "Young adults",
-          "Misinformation"
-        ],
-        "abstract": "This study investigates how young adults in Denmark authenticate news they come across on social media. Based on data from 300 entries of news diaries and interviews with 20 participants, we found that this group uses reputation, endorsement, and consistency as the leading shortcuts in the context of news exposure. Though different conceptually, authenticity is linked to trust, and this group perceives Danish national media as the most credible source of information. Moreover, they are self-confident about distinguishing news from the noise caused by misinformation and rarely complete a two-step authentication process to (double) check content. Our theoretical standpoint departs from the normative perspective that journalism is essential for shaping informed citizenship. Thus, while brand reputation is paramount for legacy Danish media to connect with their audience, this centric news consumption might push people away from learning about other countries’ issues.",
-        "url": "https://doi.org/10.1080/21670811.2024.2399622",
         "topics_llm": true
       },
       {
@@ -2510,6 +2510,26 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/21670811.2024.2394789",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2557994",
+        "title": "Technological Hype and AI in Journalism: Five Functions and Why They Matter",
+        "authors": [
+          "Seth C. Lewis",
+          "Rodrigo Zamith",
+          "Jon Benedik Bunquin"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Artificial intelligence",
+          "Journalism",
+          "Technology adoption",
+          "Media innovation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2557994",
         "topics_llm": true
       },
       {
