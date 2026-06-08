@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-06-01T11:32:00Z",
-  "trending_from": "2024-06-01",
+  "updated_at": "2026-06-08T10:51:56Z",
+  "trending_from": "2024-06-08",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4122,
+        "citation_count": 4130,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2434,
+        "citation_count": 2443,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1785,
+        "citation_count": 1786,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1045,
+        "citation_count": 1053,
         "topics": [
           "Scale development",
           "Measurement",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 803,
+        "citation_count": 805,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 445,
+        "citation_count": 446,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 426,
+        "citation_count": 428,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 379,
+        "citation_count": 381,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 265,
+        "citation_count": 266,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -243,7 +243,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2007,
-        "citation_count": 249,
+        "citation_count": 250,
         "topics": [
           "Statistical power analysis",
           "Research methodology",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 236,
+        "citation_count": 237,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 226,
+        "citation_count": 227,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -305,7 +305,7 @@
           "Michael Sedlmair"
         ],
         "year": 2018,
-        "citation_count": 220,
+        "citation_count": 221,
         "topics": [
           "Sentiment analysis",
           "Word embeddings",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 215,
+        "citation_count": 216,
         "topics": [
           "News framing",
           "Computational methods",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 174,
+        "citation_count": 175,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -458,6 +458,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2021.1968361",
+        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
+        "authors": [
+          "Leyla Dogruel",
+          "Philipp K. Masur",
+          "Sven Joeckel"
+        ],
+        "year": 2021,
+        "citation_count": 149,
+        "topics": [
+          "Algorithm literacy",
+          "Digital literacy",
+          "Algorithmic awareness",
+          "Scale development"
+        ],
+        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
+        "url": "https://doi.org/10.1080/19312458.2021.1968361",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2023.2181319",
         "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
         "authors": [
@@ -470,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 145,
+        "citation_count": 147,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -499,26 +519,6 @@
         ],
         "abstract": "Twitter users see content mostly from the other users they select to follow. Networks of connected users on Twitter define the set of content to which each user is exposed. We developed a Selective Exposure Cluster (SEC) method to study these connected networks and their discussion patterns in Twitter. To illustrate the SEC method, we collected networks of connections among users who talked about a shared topic: the U.S. President's State of the Union speech in 2012. Cluster analysis was applied to identify subgroups of users who were densely interconnected. These users followed users from their own cluster more than they connected to users in other clusters. In each cluster, the primary distributors of information—the hub users—were identified, along with the hashtags, hyperlinks, and top-mentioned usernames in the content of the messages. Each of these indicators was labeled in terms of its political orientation. An analysis of the resulting patterns of selective exposure suggests that users participate in fragmented interactions and form divided groups in which people tune in to a narrow segment of the wider range of politically oriented information sources. We discuss the strengths and weaknesses of the proposed Selective Exposure Cluster method.",
         "url": "https://doi.org/10.1080/19312458.2013.813922",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2021.1968361",
-        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
-        "authors": [
-          "Leyla Dogruel",
-          "Philipp K. Masur",
-          "Sven Joeckel"
-        ],
-        "year": 2021,
-        "citation_count": 145,
-        "topics": [
-          "Algorithm literacy",
-          "Digital literacy",
-          "Algorithmic awareness",
-          "Scale development"
-        ],
-        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
-        "url": "https://doi.org/10.1080/19312458.2021.1968361",
         "topics_llm": true
       },
       {
@@ -666,7 +666,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 116,
+        "citation_count": 117,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -746,7 +746,7 @@
           "Laurel S. Gleason"
         ],
         "year": 2012,
-        "citation_count": 102,
+        "citation_count": 103,
         "topics": [
           "Quantitative research methods",
           "Theory development",
@@ -877,6 +877,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2010.527869",
+        "title": "Exponential Random Graph ( <i>p*</i> ) Models as a Method for Social Network Analysis in Communication Research",
+        "authors": [
+          "Michelle Shumate",
+          "Edward T. Palazzolo"
+        ],
+        "year": 2010,
+        "citation_count": 86,
+        "topics": [
+          "Social network analysis",
+          "Exponential random graph models",
+          "Communication research methodology"
+        ],
+        "abstract": "Abstract Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program. This article is part of the following collections: Communication Methods and Measures Article of the Year Award",
+        "url": "https://doi.org/10.1080/19312458.2010.527869",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312450701641409",
         "title": "Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment",
         "authors": [
@@ -892,24 +910,6 @@
         ],
         "abstract": "(2007). Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment. Communication Methods and Measures: Vol. 1, No. 4, pp. 243-265.",
         "url": "https://doi.org/10.1080/19312450701641409",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2010.527869",
-        "title": "Exponential Random Graph ( <i>p*</i> ) Models as a Method for Social Network Analysis in Communication Research",
-        "authors": [
-          "Michelle Shumate",
-          "Edward T. Palazzolo"
-        ],
-        "year": 2010,
-        "citation_count": 85,
-        "topics": [
-          "Social network analysis",
-          "Exponential random graph models",
-          "Communication research methodology"
-        ],
-        "abstract": "Abstract Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program. This article is part of the following collections: Communication Methods and Measures Article of the Year Award",
-        "url": "https://doi.org/10.1080/19312458.2010.527869",
         "topics_llm": true
       },
       {
@@ -1290,7 +1290,7 @@
           "René Weber"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Moral communication",
           "Crowdsourcing",
@@ -1582,7 +1582,7 @@
           "Keren Tenenboim‐Weinblatt"
         ],
         "year": 2023,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Sentiment analysis",
           "Machine learning classification",
@@ -1665,7 +1665,7 @@
           "Zhiying Yue"
         ],
         "year": 2023,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Keyword selection",
           "Text data retrieval",
@@ -1811,7 +1811,7 @@
           "René Weber"
         ],
         "year": 2023,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Argument strength",
           "Computational analysis",
@@ -1852,7 +1852,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 25,
+        "citation_count": 26,
         "topics": [
           "Frame analysis",
           "Machine learning",

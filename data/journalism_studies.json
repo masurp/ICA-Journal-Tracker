@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_studies",
-  "updated_at": "2026-06-01T11:32:31Z",
-  "trending_from": "2024-06-01",
+  "updated_at": "2026-06-08T10:52:20Z",
+  "trending_from": "2024-06-08",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Maxwell McCombs"
         ],
         "year": 2005,
-        "citation_count": 1221,
+        "citation_count": 1222,
         "topics": [
           "Agenda-setting theory",
           "Media influence",
@@ -49,7 +49,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2016,
-        "citation_count": 1075,
+        "citation_count": 1080,
         "topics": [
           "News values",
           "Journalism",
@@ -81,24 +81,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2018.1492881",
-        "title": "Truth is What Happens to News",
-        "authors": [
-          "Silvio Waisbord"
-        ],
-        "year": 2018,
-        "citation_count": 605,
-        "topics": [
-          "Fake news",
-          "Journalism",
-          "Truth and credibility",
-          "Public communication"
-        ],
-        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
-        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2010.512502",
         "title": "MAPPING JOURNALISM CULTURES ACROSS NATIONS",
         "authors": [
@@ -114,7 +96,7 @@
           "Christopher D. Karadjov"
         ],
         "year": 2010,
-        "citation_count": 605,
+        "citation_count": 606,
         "topics": [
           "Journalism cultures",
           "Cross-national comparative study",
@@ -123,6 +105,24 @@
         ],
         "abstract": "Abstract This article reports key findings from a comparative survey of the role perceptions, epistemological orientations and ethical views of 1800 journalists from 18 countries. The results show that detachment, non-involvement, providing political information and monitoring the government are considered essential journalistic functions around the globe. Impartiality, the reliability and factualness of information, as well as adherence to universal ethical principles are also valued worldwide, though their perceived importance varies across countries. Various aspects of interventionism, objectivism and the importance of separating facts from opinion, on the other hand, seem to play out differently around the globe. Western journalists are generally less supportive of any active promotion of particular values, ideas and social change, and they adhere more to universal principles in their ethical decisions. Journalists from non-western contexts, on the other hand, tend to be more interventionist in their role perceptions and more flexible in their ethical views. Keywords: comparative researchepistemologiesethical ideologiesinstitutional rolesjournalism culturejournalistssurvey Notes 1. This study was funded by several institutions, including the German Research Foundation, Swiss National Science Foundation, Rothschild-Caesarea School of Communication at Tel Aviv University, and School of Journalism and Communication at the University of Queensland. 2. In every country, there exists a tacit consensus among journalists and media scholars regarding the media that shape the national political agenda. We selected those quality outlets which are commonly believed to have the greatest impact in this regard. For popular print media we selected the outlets with the highest circulation figures, while the selection of radio and TV stations was based on the ratings of their newscasts. 3. This was especially true for local media. Here, we sampled media outlets produced in various parts of the countries: in urban centers and rural areas or, as in the case of Switzerland and Indonesia, in the regions inhabited by the major cultural populations. 4. This was the case in Austria, Egypt and Uganda. Austria had no significant local TV station, so the number of national channels was increased. In the absence of local newspapers and private radio stations in Egypt, we decided to raise the number of national newspapers and state-owned radio channels, respectively. In Uganda, we increased the number of local radio stations to compensate for the lack of local TV stations; hence, the resulting sample also reflected the prominence of radio in the country. 5. Calculated by one-way independent ANOVA. 6. The program was developed by Adi Raveh and David Talby; it is freely available from http://www.cs.huji.ac.il/~davidt/vcoplot/index.html. 7. Spearman's rank order correlation coefficient Rho: Australia: 0.719***, Austria 0.641***, Brazil 0.385***, Bulgaria 0.523***, Chile 0.341***, China 0.478***, Egypt 0.181 (ns), Germany 0.589***, Indonesia 0.305**, Israel 0.377***, Mexico 0.671***, Romania 0.488***, Russia 0.423***, Spain 0.687***, Switzerland 0.589***, Turkey 0.214*, Uganda 0.271**, United States 0.617*** (*p<0.05, **p<0.01, ***p<0.001; ns, not significant). 8. See http://freedomhouse.org/template.cfm?page=16.",
         "url": "https://doi.org/10.1080/1461670x.2010.512502",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2018.1492881",
+        "title": "Truth is What Happens to News",
+        "authors": [
+          "Silvio Waisbord"
+        ],
+        "year": 2018,
+        "citation_count": 605,
+        "topics": [
+          "Fake news",
+          "Journalism",
+          "Truth and credibility",
+          "Public communication"
+        ],
+        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
+        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
         "topics_llm": true
       },
       {
@@ -172,7 +172,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2005,
-        "citation_count": 547,
+        "citation_count": 548,
         "topics": [
           "Democracy models",
           "Journalism standards",
@@ -244,7 +244,7 @@
           "Anabela Carvalho"
         ],
         "year": 2008,
-        "citation_count": 432,
+        "citation_count": 433,
         "topics": [
           "Critical Discourse Analysis",
           "Journalistic Discourse",
@@ -336,7 +336,7 @@
           "Claudia Mellado"
         ],
         "year": 2014,
-        "citation_count": 328,
+        "citation_count": 329,
         "topics": [
           "Professional roles",
           "Journalism",
@@ -354,7 +354,7 @@
           "Jean Burgess"
         ],
         "year": 2012,
-        "citation_count": 315,
+        "citation_count": 316,
         "topics": [
           "Twitter",
           "News discussion",
@@ -384,6 +384,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2019.1686410",
+        "title": "Conceptualizing News Avoidance: Towards a Shared Understanding of Different Causes and Potential Solutions",
+        "authors": [
+          "Morten Skovsgaard",
+          "Kim Viborg Andersen"
+        ],
+        "year": 2019,
+        "citation_count": 300,
+        "topics": [
+          "News avoidance",
+          "News consumption",
+          "Democratic engagement",
+          "Journalism"
+        ],
+        "abstract": "News avoidance is considered an increasing problem for the news industry and democracy at large. As news companies lose consumers, democracy loses the informed foundation for an engaged citizenry. Meanwhile, research on news avoidance is hampered by the lack of a common understanding of the phenomenon. In this conceptual study, we first review and discuss extant conceptualizations and operationalisations of news avoidance. Second, we present a model distinguishing two types of news avoidance—intentional and unintentional—depending on the underlying causes leading people to tune out. Third, we argue that different solutions apply to the two types of news avoidance. To engage intentional news avoiders, the news selection and news presentation must to be changed. To engage unintentional news avoiders, the opportunity structures provided in the media system must be more favourable towards inadvertent news exposure.",
+        "url": "https://doi.org/10.1080/1461670x.2019.1686410",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/14616700500533528",
         "title": "EXPLORING THE SECOND PHASE OF PUBLIC JOURNALISM1",
         "authors": [
@@ -399,25 +418,6 @@
         ],
         "abstract": "This paper examines the new forms of audience participation in journalism with regard to their possibility in achieving the goals of public journalism.2 A typology of five models of audience connections is proposed: (1) traditional journalism, (2) public journalism, (3) interactive journalism, (4) participatory journalism, and (5) citizen journalism. Identifying the higher goal of public journalism as engaging the people as citizens and helping public deliberation, I argue that the new forms of audience participation could further these goals only by infusing the value from and learning the techniques of public journalism. The concept of community, of public deliberation, past research on the Internet, and data obtained from my field study is drawn upon.",
         "url": "https://doi.org/10.1080/14616700500533528",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2019.1686410",
-        "title": "Conceptualizing News Avoidance: Towards a Shared Understanding of Different Causes and Potential Solutions",
-        "authors": [
-          "Morten Skovsgaard",
-          "Kim Viborg Andersen"
-        ],
-        "year": 2019,
-        "citation_count": 286,
-        "topics": [
-          "News avoidance",
-          "News consumption",
-          "Democratic engagement",
-          "Journalism"
-        ],
-        "abstract": "News avoidance is considered an increasing problem for the news industry and democracy at large. As news companies lose consumers, democracy loses the informed foundation for an engaged citizenry. Meanwhile, research on news avoidance is hampered by the lack of a common understanding of the phenomenon. In this conceptual study, we first review and discuss extant conceptualizations and operationalisations of news avoidance. Second, we present a model distinguishing two types of news avoidance—intentional and unintentional—depending on the underlying causes leading people to tune out. Third, we argue that different solutions apply to the two types of news avoidance. To engage intentional news avoiders, the news selection and news presentation must to be changed. To engage unintentional news avoiders, the opportunity structures provided in the media system must be more favourable towards inadvertent news exposure.",
-        "url": "https://doi.org/10.1080/1461670x.2019.1686410",
         "topics_llm": true
       },
       {
@@ -446,7 +446,7 @@
           "Arjen van Dalen"
         ],
         "year": 2013,
-        "citation_count": 240,
+        "citation_count": 241,
         "topics": [
           "Journalism studies",
           "Professional role conception",
@@ -557,7 +557,7 @@
           "Steve Schifferes"
         ],
         "year": 2012,
-        "citation_count": 210,
+        "citation_count": 211,
         "topics": [
           "News personalization",
           "Algorithm-driven content",
@@ -593,7 +593,7 @@
           "Thorsten Quandt"
         ],
         "year": 2008,
-        "citation_count": 200,
+        "citation_count": 201,
         "topics": [
           "Online journalism",
           "User-generated content",
@@ -612,7 +612,7 @@
           "Craig Robertson"
         ],
         "year": 2019,
-        "citation_count": 197,
+        "citation_count": 199,
         "topics": [
           "Fake news",
           "Misinformation",
@@ -631,7 +631,7 @@
           "C. W. Anderson"
         ],
         "year": 2014,
-        "citation_count": 197,
+        "citation_count": 198,
         "topics": [
           "Data journalism",
           "Computational journalism",
@@ -754,6 +754,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2021.1952475",
+        "title": "Doomscrolling, Monitoring and Avoiding: News Use in COVID-19 Pandemic Lockdown",
+        "authors": [
+          "Brita Ytre-Arne",
+          "Hallvard Moe"
+        ],
+        "year": 2021,
+        "citation_count": 185,
+        "topics": [
+          "News avoidance",
+          "Doomscrolling",
+          "COVID-19 pandemic",
+          "Media consumption"
+        ],
+        "abstract": "This paper analyzes news use during the COVID-19 pandemic, asking how people balance between conflicting needs for information and disconnection in an extraordinary situation. We analyze empirical data from a qualitative questionnaire study of Norwegian media users conducted in March–April 2020, a period of early pandemic lockdown. The acute lockdown context accentuated intensified monitoring of constantly updated news streams, and perceptions of news use as immersive and emotionally draining, as captured in the notion of “doomscrolling”. To cope with feelings of being scared or overwhelmed, even the most connected citizens deliberately and intermittingly avoided news. Discussing these findings in light of the debate on news avoidance in journalism studies, we argue for the relevance of understanding news avoidance as a situational strategy. We conclude that the concept of news avoidance remains relevant to qualitatively understand a human experience of wanting to avoid news in particular contexts. Our analysis further outlines interconnections between different practices of pandemic news use, including a research-based conceptualization of doomscrolling as a phenomenon.",
+        "url": "https://doi.org/10.1080/1461670x.2021.1952475",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/146167000361195",
         "title": "The Propaganda Model: a retrospective",
         "authors": [
@@ -809,6 +828,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2020.1847681",
+        "title": "Understanding the Audience Turn in Journalism: From Quality Discourse to Innovation Discourse as Anchoring Practices 1995–2020",
+        "authors": [
+          "Irene Costera Meijer"
+        ],
+        "year": 2020,
+        "citation_count": 174,
+        "topics": [
+          "Audience engagement",
+          "Journalism practices",
+          "Professional discourse",
+          "Digital transformation"
+        ],
+        "abstract": "Paying close attention to news users has become fully integrated in professional journalism. Even though this practice may still meet with resistance, becoming more audience responsive is no longer automatically condemned as the highway to popularization and sensationalism. What has changed in journalism’s ecosystem to account for this turnaround? This paper explains how journalists' attitude towards audiences changed from keeping them at a distance to constantly monitoring their movements. It is based on longitudinal participatory observation of key moments (editorial meetings, public debates) in Dutch journalism, as well as on informal talks and formal interviews with more than one hundred journalists and editors during the last twenty years. It traces four tipping points between 1995 and 2020 regarding the audience turn in commercial news and public service journalism: (1) Quality news as “not having to reckon with your audience”. (2) Increasing professional awareness of “informed citizenship” as quality journalism’s remit; (3) digitalization of journalism; and (4) increasing relevance of “audience engagement”. Ann Swidler’s concept of “anchoring practice” (2001) will be used as a lens to understand the gradual shift from quality discourse to innovation discourse as anchoring practices in journalism and journalism studies.",
+        "url": "https://doi.org/10.1080/1461670x.2020.1847681",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2014.987551",
         "title": "The Gender of “soft” and “hard” news",
         "authors": [
@@ -824,24 +861,6 @@
         ],
         "abstract": "Research from around the globe has long emphasised the problem of vertical segregation in the news media where women remain largely absent from key editorial decision-making roles. Horizontal segregation, however, where there are gendered divisions of tasks associated with reporting, is also an ongoing issue and has been highlighted in a recent large-scale survey of female journalists in Australia. To date, just one other small industry survey in 1996 has asked female journalists in Australia about the types of stories that they cover and raised the implications of gendered inequity. This current survey finds that while more female reporters appear be covering hard news rounds like politics and business, the majority are still assigned to cover the bulk of the soft news areas of features, the arts, education and health—and most perceive that female reporters remain pigeon-holed in those traditionally female story areas. Respondents understand soft news as less important within the organisation in comparison to the highly valued areas of politics and sports that male reporters most often cover. This paper analyses female journalists' responses to the gendered nature of the soft news–hard news binary and the ramifications of such disparity.",
         "url": "https://doi.org/10.1080/1461670x.2014.987551",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2020.1847681",
-        "title": "Understanding the Audience Turn in Journalism: From Quality Discourse to Innovation Discourse as Anchoring Practices 1995–2020",
-        "authors": [
-          "Irene Costera Meijer"
-        ],
-        "year": 2020,
-        "citation_count": 173,
-        "topics": [
-          "Audience engagement",
-          "Journalism practices",
-          "Professional discourse",
-          "Digital transformation"
-        ],
-        "abstract": "Paying close attention to news users has become fully integrated in professional journalism. Even though this practice may still meet with resistance, becoming more audience responsive is no longer automatically condemned as the highway to popularization and sensationalism. What has changed in journalism’s ecosystem to account for this turnaround? This paper explains how journalists' attitude towards audiences changed from keeping them at a distance to constantly monitoring their movements. It is based on longitudinal participatory observation of key moments (editorial meetings, public debates) in Dutch journalism, as well as on informal talks and formal interviews with more than one hundred journalists and editors during the last twenty years. It traces four tipping points between 1995 and 2020 regarding the audience turn in commercial news and public service journalism: (1) Quality news as “not having to reckon with your audience”. (2) Increasing professional awareness of “informed citizenship” as quality journalism’s remit; (3) digitalization of journalism; and (4) increasing relevance of “audience engagement”. Ann Swidler’s concept of “anchoring practice” (2001) will be used as a lens to understand the gradual shift from quality discourse to innovation discourse as anchoring practices in journalism and journalism studies.",
-        "url": "https://doi.org/10.1080/1461670x.2020.1847681",
         "topics_llm": true
       },
       {
@@ -881,32 +900,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2021.1952475",
-        "title": "Doomscrolling, Monitoring and Avoiding: News Use in COVID-19 Pandemic Lockdown",
-        "authors": [
-          "Brita Ytre-Arne",
-          "Hallvard Moe"
-        ],
-        "year": 2021,
-        "citation_count": 170,
-        "topics": [
-          "News avoidance",
-          "Doomscrolling",
-          "COVID-19 pandemic",
-          "Media consumption"
-        ],
-        "abstract": "This paper analyzes news use during the COVID-19 pandemic, asking how people balance between conflicting needs for information and disconnection in an extraordinary situation. We analyze empirical data from a qualitative questionnaire study of Norwegian media users conducted in March–April 2020, a period of early pandemic lockdown. The acute lockdown context accentuated intensified monitoring of constantly updated news streams, and perceptions of news use as immersive and emotionally draining, as captured in the notion of “doomscrolling”. To cope with feelings of being scared or overwhelmed, even the most connected citizens deliberately and intermittingly avoided news. Discussing these findings in light of the debate on news avoidance in journalism studies, we argue for the relevance of understanding news avoidance as a situational strategy. We conclude that the concept of news avoidance remains relevant to qualitatively understand a human experience of wanting to avoid news in particular contexts. Our analysis further outlines interconnections between different practices of pandemic news use, including a research-based conceptualization of doomscrolling as a phenomenon.",
-        "url": "https://doi.org/10.1080/1461670x.2021.1952475",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/14616700600980652",
         "title": "JOURNALISM AND EXPERTISE",
         "authors": [
           "Tammy Boyce"
         ],
         "year": 2006,
-        "citation_count": 167,
+        "citation_count": 168,
         "topics": [
           "Journalism",
           "Expertise",
@@ -927,7 +927,7 @@
           "Summer Harlow"
         ],
         "year": 2017,
-        "citation_count": 166,
+        "citation_count": 167,
         "topics": [
           "News virality",
           "Social media sharing",
@@ -940,6 +940,80 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1461670x.2026.2684668",
+        "title": "What the Work of Jon Stewart Could Tell Us About the Problem for Constructive Journalism",
+        "authors": [
+          "Sara Ödmark"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Jon Stewart",
+          "Constructive journalism",
+          "Political satire",
+          "Media criticism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2026.2684668",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2681165",
+        "title": "“Truth” Versus “Public Interests:” Professional Visions and Elite-Crowd Interaction Dynamics in Networked Framing",
+        "authors": [
+          "Hao Cao",
+          "Jinghan Jia"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Professional journalism",
+          "Framing analysis",
+          "Social media dynamics",
+          "Elite-audience interaction"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2026.2681165",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2680639",
+        "title": "Beyond Credibility: How News Topic and Cognitive Processing Shape Responses to AI-Authored Journalism",
+        "authors": [
+          "Jun Luo"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "AI-generated content",
+          "News credibility",
+          "Cognitive processing",
+          "Journalism"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2026.2680639",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2681171",
+        "title": "“Data Frames”: Making Sense of the Factors Influencing the Adoption of Data Journalism Practices in News Organizations",
+        "authors": [
+          "Tamar Ashuri",
+          "Elinor Zuckerman"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Data journalism",
+          "News organizations",
+          "Adoption practices",
+          "Digital media innovation"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2026.2681171",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1461670x.2026.2680655",
         "title": "The Hidden Cost of Science News: An Examination of Burnout in Journalists and Scientists",
@@ -981,7 +1055,7 @@
           "Journalism",
           "Human-Machine Communication"
         ],
-        "abstract": "",
+        "abstract": "<p dir=\"ltr\">Drawing on Expectancy Violations Theory (EVT), we conducted 60 semi-structured interviews to examine (1) how news audiences in Australia and Germany form expectations about journalists’ use of generative AI (GenAI); (2) the antecedents shaping those expectations; and (3) how they evaluate perceived expectation violations. Participants envisioned journalism as a human-centered practice, rejecting autonomous GenAI use in core reporting functions. Transparency, disclosure, and oversight (whether regulatory or newsroom-led) were treated as conditions of legitimacy. Expectations were shaped by institutional trust, everyday experiences with AI, and broader reputations of AI technologies. Participants described negative violations linked to perceived ethical lapses, though some reported positive violations when AI enhanced accessibility or efficiency. Our findings demonstrate how audience responses to GenAI are not merely technological assessments, but relational evaluations grounded in normative expectations about journalism.",
         "url": "https://doi.org/10.1080/1461670x.2026.2680642",
         "topics_llm": true
       },
@@ -1680,7 +1754,7 @@
           "Mathias-Felipe de Lima-Santos"
         ],
         "year": 2026,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Generative AI",
           "Journalism",
@@ -1830,79 +1904,6 @@
         "abstract": "This article examines how Norwegian newsrooms attempt to secure editorial autonomy while engaging with social media platforms. Drawing on qualitative interviews with 16 newsroom actors and two weeks of field observation, it explores how editorial strategies are enacted through everyday practices. Using a strategy-as-practice perspective, we identify four approaches to social media publishing – the Negotiator, the Preserver, the Adapter, and the Withdrawer – each reflecting different combinations of strategic coherence, resources, and editorial priorities. Building on the distinction between “independence from” and “independence to”, the study shows that autonomy is not fixed but continuously negotiated between professional ideals and platform constraints. While resources largely determine outlets’ ability to resist platform interference (independence from), deliberate strategic engagement can strengthen journalism’s capacity to reach and inform publics (independence to). The paper contributes to the ongoing debates on journalism's platform dependency by highlighting the importance of editors’ and journalists’ strategic agency in everyday work.",
         "url": "https://doi.org/10.1080/1461670x.2025.2608960",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2025.2588239",
-        "title": "Beyond Audience Evaluations: Re-Thinking News Trust in Digital Environments",
-        "authors": [
-          "Tali Aharoni"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "News Trust",
-          "Digital Media",
-          "Audience Research",
-          "Digital Journalism"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2588239",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2025.2601794",
-        "title": "Allies, Antagonists, and Apathetic: A Synthesis and Path Forward for News Audience Research",
-        "authors": [
-          "Jacob L. Nelson",
-          "Seth C. Lewis"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "News audience research",
-          "Audience segmentation",
-          "Media consumption",
-          "Audience engagement"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2601794",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2025.2601795",
-        "title": "From Lifestyle to War Stories: Navigating National Crisis in Women’s Magazines in Wartime",
-        "authors": [
-          "Einat Lachover"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Women's magazines",
-          "Wartime communication",
-          "National crisis discourse",
-          "Gender and media"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2601795",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2025.2600428",
-        "title": "What Journalists Say News Literacy Is",
-        "authors": [
-          "Patrick R. Johnson"
-        ],
-        "year": 2025,
-        "citation_count": 2,
-        "topics": [
-          "News literacy",
-          "Journalism",
-          "Media literacy",
-          "Professional communication"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2600428",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1927,6 +1928,47 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2024.2368861",
+        "title": "Introduction: Understanding Social Media Journalism",
+        "authors": [
+          "Jonathan Hendrickx",
+          "Michaël Opgenhaffen"
+        ],
+        "year": 2024,
+        "citation_count": 24,
+        "topics": [
+          "Social media journalism",
+          "Digital journalism",
+          "News distribution",
+          "Online communication"
+        ],
+        "abstract": "status: Published",
+        "url": "https://doi.org/10.1080/1461670x.2024.2368861",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2024.2357316",
+        "title": "What Is the Problem with Misinformation? Fact-checking as a Sociotechnical and Problem-Solving Practice",
+        "authors": [
+          "Oscar Westlund",
+          "Valérie Bélair‐Gagnon",
+          "Lucas Graves",
+          "Rebekah Larsen",
+          "Steen Steensen"
+        ],
+        "year": 2024,
+        "citation_count": 21,
+        "topics": [
+          "Misinformation",
+          "Fact-checking",
+          "Sociotechnical systems",
+          "Problem-solving"
+        ],
+        "abstract": "Misinformation is a complex and global problem of social and technical dimensions. It is a problem that is exacerbated and sought to be solved by using diverse technologies. It is also a problem that flourishes on platforms and can lead to partnerships with platform companies. These sociotechnical dimensions of misinformation as a problem involve different actors. Some actors create or contribute to the problem, while others perceive it as their problem to solve and work to address it. Identifying the problem of misinformation is at the heart of the issue of problem-solving in fact-checking, as different actors have interests in how problems are discursively presented. This article draws on an international interview study conducted throughout 2020–2022 with 46 fact-checking actors (21 fact-checkers, 14 journalists, and 11 newsroom managers). This article analyzes how these actors reflect on “misinformation problems,” and how these problems become “fact-checking problems” for the actors to work with and solve. Ultimately, the article argues that fact-checking must be approached as a sociotechnical and problem-solving-oriented practice. Doing so highlights specific obstacles in information distribution and platform affordances.",
+        "url": "https://doi.org/10.1080/1461670x.2024.2357316",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2024.2393131",
         "title": "Introduction: What We (Don’t) Know About News Avoidance",
         "authors": [
@@ -1943,28 +1985,6 @@
         ],
         "abstract": "Interest in news avoidance has recently grown both inside and outside academia. In this introduction to a special issue on the topic, we present a systematic review of existing studies (N = 116) and discuss what we (don’t) know about this phenomenon. Our review illustrates that news avoidance has been examined through qualitative, mixed, but most often quantitative studies, conducted primarily in Western countries, although with important exceptions. We highlight how existing literature portrays news avoidance as a multidimensional phenomenon—encompassing behavioral and expressive components—affected by factors at the levels of the (missing) audiences, the news content, and the broader structural context. In terms of blind spots, we know relatively much about causes for news avoidance and some of its consequences, but less about counterstrategies. Also, while much of our knowledge is centered around audiences, we know little about the roles of other actors, such as the news media, journalists, and intermediaries. We end by discussing what the research field can learn by studying news avoidance, highlighting the value of understanding how audiences relate to journalism through a diverse set of methodological approaches. We also stress the need to carefully consider normative assumptions when positioning news avoidance as a problem.",
         "url": "https://doi.org/10.1080/1461670x.2024.2393131",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2357316",
-        "title": "What Is the Problem with Misinformation? Fact-checking as a Sociotechnical and Problem-Solving Practice",
-        "authors": [
-          "Oscar Westlund",
-          "Valérie Bélair‐Gagnon",
-          "Lucas Graves",
-          "Rebekah Larsen",
-          "Steen Steensen"
-        ],
-        "year": 2024,
-        "citation_count": 20,
-        "topics": [
-          "Misinformation",
-          "Fact-checking",
-          "Sociotechnical systems",
-          "Problem-solving"
-        ],
-        "abstract": "Misinformation is a complex and global problem of social and technical dimensions. It is a problem that is exacerbated and sought to be solved by using diverse technologies. It is also a problem that flourishes on platforms and can lead to partnerships with platform companies. These sociotechnical dimensions of misinformation as a problem involve different actors. Some actors create or contribute to the problem, while others perceive it as their problem to solve and work to address it. Identifying the problem of misinformation is at the heart of the issue of problem-solving in fact-checking, as different actors have interests in how problems are discursively presented. This article draws on an international interview study conducted throughout 2020–2022 with 46 fact-checking actors (21 fact-checkers, 14 journalists, and 11 newsroom managers). This article analyzes how these actors reflect on “misinformation problems,” and how these problems become “fact-checking problems” for the actors to work with and solve. Ultimately, the article argues that fact-checking must be approached as a sociotechnical and problem-solving-oriented practice. Doing so highlights specific obstacles in information distribution and platform affordances.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2357316",
         "topics_llm": true
       },
       {
@@ -2037,7 +2057,7 @@
           "Wang Ngai Yeung"
         ],
         "year": 2025,
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "AI in journalism",
           "Organizational knowledge silos",
@@ -2049,22 +2069,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2024.2368861",
-        "title": "Introduction: Understanding Social Media Journalism",
+        "doi": "10.1080/1461670x.2025.2547301",
+        "title": "AI in the Newsroom: Does the Public Trust Automated Journalism and Will They Pay for It?",
         "authors": [
-          "Jonathan Hendrickx",
-          "Michaël Opgenhaffen"
+          "Andreas Nanz",
+          "Alice Binder",
+          "Jörg Matthes"
         ],
-        "year": 2024,
+        "year": 2025,
         "citation_count": 10,
         "topics": [
-          "Social media journalism",
-          "Digital journalism",
-          "News distribution",
-          "Online communication"
+          "Automated journalism",
+          "Public trust",
+          "AI in media",
+          "Digital news economics"
         ],
-        "abstract": "status: Published",
-        "url": "https://doi.org/10.1080/1461670x.2024.2368861",
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2025.2547301",
         "topics_llm": true
       },
       {
@@ -2084,26 +2105,6 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/1461670x.2024.2414349",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2025.2547301",
-        "title": "AI in the Newsroom: Does the Public Trust Automated Journalism and Will They Pay for It?",
-        "authors": [
-          "Andreas Nanz",
-          "Alice Binder",
-          "Jörg Matthes"
-        ],
-        "year": 2025,
-        "citation_count": 9,
-        "topics": [
-          "Automated journalism",
-          "Public trust",
-          "AI in media",
-          "Digital news economics"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2547301",
         "topics_llm": true
       },
       {
@@ -2144,6 +2145,24 @@
         ],
         "abstract": "The increasing prominence of alternative news media has been identified as a particular challenge to contemporary established journalism, next to collapsing financial models, platform dependency, falling levels of trust and increased competition. Against this background, this study examines how news editors from 23 established news organizations in Sweden, Norway, and Denmark view the rise and role of alternative news media and thereby the boundaries of the journalistic field. Combining strategic action field theory, boundary work and the concept of metajournalistic discourse, it identifies three metajournalistic discourses—We are the (real) journalists, We are in control (for now), and We are under pressure. Together, these metajournalistic discourses portray alternative news media as a challenge that largely has been overcome, and as currently insignificant actors that clearly do not represent “real journalism”. At the same time, the discourses also display concerns that alternative news media might represent potential future field ruptures via their association with broader potentially detrimental media developments, such as genre-confused media audiences or harassment of journalists.",
         "url": "https://doi.org/10.1080/1461670x.2024.2385925",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2025.2495726",
+        "title": "Journalism and Embodied Knowledge: Conceptualizing Affective Epistemology and Epistemic Affordances of Emotions and Affect Across News Beats",
+        "authors": [
+          "Johana Kotišová"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Journalism",
+          "Affective epistemology",
+          "Embodied knowledge",
+          "Emotional affect in news"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2025.2495726",
         "topics_llm": true
       },
       {
@@ -2210,24 +2229,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2025.2495726",
-        "title": "Journalism and Embodied Knowledge: Conceptualizing Affective Epistemology and Epistemic Affordances of Emotions and Affect Across News Beats",
-        "authors": [
-          "Johana Kotišová"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "Journalism",
-          "Affective epistemology",
-          "Embodied knowledge",
-          "Emotional affect in news"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2025.2495726",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2024.2401403",
         "title": "Ritual Reinforcement: Habit, Emotion, and Identity as Attributes of Trust in News",
         "authors": [
@@ -2267,6 +2268,25 @@
         ],
         "abstract": "This article advances our understanding of transparency in journalism through the lens of metacognition. Drawing on a six-week intervention with eight U.S. newsrooms, the study analyzes journalists’ reflective journals using the Eight Pillars of Metacognition and a three-stage interpretive method. Findings reveal that journalists used metacognitive strategies—such as self-monitoring, adaptation, discrimination, and mnemosyne—to question assumptions, revise workflows, and embed transparency into daily practice. Rather than treating transparency as a discrete output or static ideal, this study positions it as a situated epistemic practice that unfolds through internal reflection, institutional memory, and relational ethics. While existing scholarship critiques transparency’s limited impact on public trust, this article argues that its unrealized potential lies in how it is practiced and internalized. Metacognition offers a conceptual bridge between normative ideals and newsroom work’s messy, iterative realities. This reorientation from transparency-as-disclosure to transparency-as-reflection highlights the cognitive labor journalists perform to remain accountable in uncertain and constrained environments. The study contributes to journalism studies by theorizing metacognition as both a professional resource and a democratic imperative that equips journalists to navigate audience skepticism, institutional pressures, and the evolving demands of ethical practice.",
         "url": "https://doi.org/10.1080/1461670x.2025.2518457",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2024.2372429",
+        "title": "Do Algorithms Do It Better? Analysing Occupational Ideology in the Age of Computational Journalism",
+        "authors": [
+          "Lia‐Paschalia Spyridou",
+          "Chris Danezis"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Computational journalism",
+          "Algorithmic bias",
+          "Occupational ideology",
+          "News production"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1461670x.2024.2372429",
         "topics_llm": true
       },
       {
@@ -2369,26 +2389,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2024.2359497",
-        "title": "Exploring the Relationship Between Stylistic Features and Reactions on Facebook: A Comparative Analysis of Newspaper Headlines and Status Messages",
-        "authors": [
-          "Kenza Lamot",
-          "Hannes Cools",
-          "Ine Gevers"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Facebook Reactions",
-          "News Headlines",
-          "Social Media Engagement",
-          "Emotional Language"
-        ],
-        "abstract": "Social media platforms have become omnipresent over the last fifteen years and have forced news outlets to repackage the distribution of their content, custom-tailoring their news in accordance with the platform-specific social media logic. How news consumers engage with news outlets' content has also become more complex and more granular, as they can now express emotions that go beyond the \"like-button\" by \"loving\" or \"caring\" about specific (news) content. In this study, we link these Facebook Reactions to the specific features of headlines by conducting a content analysis of 3,163 news articles published by five Flemish news brands on Facebook. Results have revealed that status messages contain more emotional stylistic features as compared to Facebook headlines. Secondly, headlines and status messages comprising these emotional features were more likely to generate affective responses (as expressed in the emoji they use, \"love\", \"haha\", \"wow\", \"angry\" and \"sad\"). In doing so, this study has examined Facebook Reactions' functionality as a potential proxy of emotional engagement with specific headlines in the online news environment.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2359497",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2024.2372428",
         "title": "A Virtuous Circle: Explaining News Deserts and Their Relationships with Social Capital",
         "authors": [
@@ -2408,22 +2408,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2024.2372429",
-        "title": "Do Algorithms Do It Better? Analysing Occupational Ideology in the Age of Computational Journalism",
+        "doi": "10.1080/1461670x.2025.2466601",
+        "title": "“The View from the Top”: Elite Metajournalistic Responses to Normative Critiques of American Journalism",
         "authors": [
-          "Lia‐Paschalia Spyridou",
-          "Chris Danezis"
+          "Brian Creech",
+          "Michael Buozis"
         ],
-        "year": 2024,
+        "year": 2025,
         "citation_count": 5,
         "topics": [
-          "Computational journalism",
-          "Algorithmic bias",
-          "Occupational ideology",
-          "News production"
+          "Metajournalism",
+          "Elite journalism criticism",
+          "Professional norms",
+          "Media accountability"
         ],
         "abstract": "",
-        "url": "https://doi.org/10.1080/1461670x.2024.2372429",
+        "url": "https://doi.org/10.1080/1461670x.2025.2466601",
         "topics_llm": true
       },
       {
@@ -2442,6 +2442,30 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/1461670x.2024.2380713",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2024.2364628",
+        "title": "User Perceptions of News Recommender Systems and Trust in Media Outlets: A Five-Country Study",
+        "authors": [
+          "Sina Blassnig",
+          "Eliza Mitova",
+          "Edina Strikovic",
+          "Aleksandra Urman",
+          "Claes H. de Vreese",
+          "Anikó Hannák",
+          "Frank Esser"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "News recommender systems",
+          "Media trust",
+          "Algorithmic transparency",
+          "User perceptions"
+        ],
+        "abstract": "The study investigates user perceptions of news media’s employment of news recommender systems (NRS) and their relation to trust in media outlets. A cross-sectional survey (<i>n</i> = 5079) in the United Kingdom, United States, Poland, the Netherlands, and Switzerland shows that higher algorithmic knowledge, users’ perceived skills, and news aggregator use correspond to increased perceptions that news media use NRS. Moreover, higher perceived NRS use of specific news outlets is associated with lower trust in those outlets but perceived benefits and concerns related to NRS moderate this relationship. Our findings highlight the need for media organizations to ensure a responsible and transparent use of such systems, highlight benefits for users, and address concerns to avoid misperceptions of their NRS use and maintain user trust.",
+        "url": "https://doi.org/10.1080/1461670x.2024.2364628",
         "topics_llm": true
       },
       {

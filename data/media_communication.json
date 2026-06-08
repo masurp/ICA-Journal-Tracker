@@ -1,7 +1,7 @@
 {
   "journal_id": "media_communication",
-  "updated_at": "2026-06-01T11:32:12Z",
-  "trending_from": "2024-06-01",
+  "updated_at": "2026-06-08T10:52:07Z",
+  "trending_from": "2024-06-08",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Thomas Poell"
         ],
         "year": 2013,
-        "citation_count": 1169,
+        "citation_count": 1171,
         "topics": [
           "Social media logic",
           "Platform dynamics",
@@ -52,7 +52,7 @@
           "Alexis R. Lauricella"
         ],
         "year": 2016,
-        "citation_count": 374,
+        "citation_count": 375,
         "topics": [
           "Digital health literacy",
           "Adolescent health information seeking",
@@ -69,7 +69,7 @@
           "Thorsten Quandt"
         ],
         "year": 2018,
-        "citation_count": 364,
+        "citation_count": 367,
         "topics": [
           "User participation",
           "Digital journalism",
@@ -146,7 +146,7 @@
           "Valérie Bélair‐Gagnon"
         ],
         "year": 2018,
-        "citation_count": 200,
+        "citation_count": 201,
         "topics": [
           "Journalism",
           "Digital media production",
@@ -271,6 +271,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.17645/mac.v8i3.3019",
+        "title": "Automated Journalism: A Meta-Analysis of Readers’ Perceptions of Human-Written in Comparison to Automated News",
+        "authors": [
+          "Andreas Graefe",
+          "Nina Bohlken"
+        ],
+        "year": 2020,
+        "citation_count": 143,
+        "topics": [
+          "Automated journalism",
+          "News credibility",
+          "Reader perception",
+          "Human-AI comparison"
+        ],
+        "abstract": "This meta-analysis summarizes evidence on how readers perceive the credibility, quality, and readability of automated news in comparison to human-written news. Overall, the results, which are based on experimental and descriptive evidence from 12 studies with a total of 4,473 participants, showed no difference in readers’ perceptions of credibility, a small advantage for human-written news in terms of quality, and a huge advantage for human-written news with respect to readability. Experimental comparisons further suggest that participants provided higher ratings for credibility, quality, and readability simply when they were told that they were reading a human-written article. These findings may lead news organizations to refrain from disclosing that a story was automatically generated, and thus underscore ethical challenges that arise from automated journalism.",
+        "url": "https://doi.org/10.17645/mac.v8i3.3019",
+        "topics_llm": true
+      },
+      {
         "doi": "10.17645/mac.v5i1.808",
         "title": "Networked Authoritarianism and the Geopolitics of Information: Understanding Russian Internet Policy",
         "authors": [
@@ -286,25 +305,6 @@
         ],
         "abstract": "In the aftermath of the 2016 U.S. election, researchers, policymakers and the general public are grappling with the notion that the 45th president of the United States may very well owe his electoral victory to a sophisticated propaganda effort masterminded by the Kremlin. This article synthesizes existing research on Russia’s domestic information controls, its internet policy at the global level (notably via internet governance processes), and the country’s resurgence as a major geopolitical player to argue that policymakers as well as the general public should consider these themes holistically, particularly as they formulate responses to what many see as the Russian threat to Western liberal democracy. Russia may have lost the Cold War, but it is now waging information warfare against the liberal democracies of Europe and North America in a sophisticated bid to win the next round. Russia does not view internet governance, cybersecurity, and media policy as separate domains. Rather, all the areas covered by those disciplines fall under “information security” for Russian foreign policy. The paper begins by tracing the history of information controls within what is now the Russian Federation before discussing the role of information and internet policy in Russian foreign policy, drawing connections between the Russian government’s control and manipulation of information—including its internet policy—in the domestic and international arenas. Next, it discusses the spread of networked authoritarianism and suggests that a “geopolitics of information” will become increasingly necessary in the coming years. Just as networked authoritarianism establishes strategic infrastructures to control the message domestically and intervene in global media systems, liberal democracies need to rethink media and communication infrastructures to ensure they foster pluralist, rights-respecting societies that are resilient to authoritarianism and extremism. In doing so, they should resist the temptation to respond to this threat in ways that will erode democracy even further, such as expanded surveillance and limits on free expression.",
         "url": "https://doi.org/10.17645/mac.v5i1.808",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.v8i3.3019",
-        "title": "Automated Journalism: A Meta-Analysis of Readers’ Perceptions of Human-Written in Comparison to Automated News",
-        "authors": [
-          "Andreas Graefe",
-          "Nina Bohlken"
-        ],
-        "year": 2020,
-        "citation_count": 140,
-        "topics": [
-          "Automated journalism",
-          "News credibility",
-          "Reader perception",
-          "Human-AI comparison"
-        ],
-        "abstract": "This meta-analysis summarizes evidence on how readers perceive the credibility, quality, and readability of automated news in comparison to human-written news. Overall, the results, which are based on experimental and descriptive evidence from 12 studies with a total of 4,473 participants, showed no difference in readers’ perceptions of credibility, a small advantage for human-written news in terms of quality, and a huge advantage for human-written news with respect to readability. Experimental comparisons further suggest that participants provided higher ratings for credibility, quality, and readability simply when they were told that they were reading a human-written article. These findings may lead news organizations to refrain from disclosing that a story was automatically generated, and thus underscore ethical challenges that arise from automated journalism.",
-        "url": "https://doi.org/10.17645/mac.v8i3.3019",
         "topics_llm": true
       },
       {
@@ -458,26 +458,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.17645/mac.v8i4.3407",
-        "title": "Digital by Default: Children’s Capacity to Understand and Manage Online Data and Privacy",
-        "authors": [
-          "Mariya Stoilova",
-          "Sonia Livingstone",
-          "Rishita Nandagiri"
-        ],
-        "year": 2020,
-        "citation_count": 99,
-        "topics": [
-          "Children's privacy",
-          "Digital literacy",
-          "Data protection",
-          "Online privacy awareness"
-        ],
-        "abstract": "How do children understand the privacy implications of the contemporary digital environment? This question is pressing as technologies transform children’s lives into data which is recorded, tracked, aggregated, analysed and monetized. This article takes a child-centred, qualitative approach to charting the nature and limits of children’s understanding of privacy in digital contexts. We conducted focus group interviews with 169 UK children aged 11–16 to explore their understanding of privacy in three distinct digital contexts—interpersonal, institutional and commercial. We find, first, that children primarily conceptualize privacy in relation to interpersonal contexts, conceiving of personal information as something they have agency and control over as regards deciding when and with whom to share it, even if they do not always exercise such control. This leads them to some misapprehensions about how personal data is collected, inferred and used by organizations, be these public institutions such as their schools or commercial businesses. Children’s expectation of agency in interpersonal contexts, and their tendency to trust familiar institutions such as their schools, make for a doubly problematic orientation towards data and privacy online in commercial contexts, leading to a mix of frustration, misapprehension and risk. We argue that, since the complexity of the digital environment challenges teachers’ capacity to address children’s knowledge gaps, businesses, educators, parents and the state must exercise a shared responsibility to create a legible, transparent and privacy-respecting digital environment in which children can exercise genuine choice and agency.",
-        "url": "https://doi.org/10.17645/mac.v8i4.3407",
-        "topics_llm": true
-      },
-      {
         "doi": "10.17645/mac.v4i3.523",
         "title": "The Role of Parents in Problematic Internet Use among US Adolescents",
         "authors": [
@@ -486,7 +466,7 @@
           "Daniel Römer"
         ],
         "year": 2016,
-        "citation_count": 98,
+        "citation_count": 100,
         "topics": [
           "Parental monitoring",
           "Adolescent internet use",
@@ -504,7 +484,7 @@
           "Jakob Svensson"
         ],
         "year": 2017,
-        "citation_count": 98,
+        "citation_count": 99,
         "topics": [
           "Visual communication",
           "Social media",
@@ -513,6 +493,26 @@
         ],
         "abstract": "This thematic issue of &lt;em&gt;Media and Communication&lt;/em&gt; focuses attention on the shift towards visual images on social media as well as the transformation of visual communication which has occurred within the online ecology of social media platforms. The sharing of images is becoming an integral part of the social media experience today, and given that social media platforms are the prime locus for sociability—at least among young people in the West—this shift towards visuals arguably transforms how we relate to each other and the world around us, as well as how we perceive and construct our sense of self. For researchers, this raises conceptual, theoretical and methodological challenges. This thematic issue presents six articles as well as a book review on visual communication in social media focusing on developing a conceptual apparatus and precise definitions of objects and practices of study as well as contributions that address and discuss the methodological challenges as well as their potential solutions. The idea was to synergize research from a wide variety of communication-related disciplines on this rather new topic.",
         "url": "https://doi.org/10.17645/mac.v5i4.1263",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.17645/mac.v8i4.3407",
+        "title": "Digital by Default: Children’s Capacity to Understand and Manage Online Data and Privacy",
+        "authors": [
+          "Mariya Stoilova",
+          "Sonia Livingstone",
+          "Rishita Nandagiri"
+        ],
+        "year": 2020,
+        "citation_count": 99,
+        "topics": [
+          "Children's privacy",
+          "Digital literacy",
+          "Data protection",
+          "Online privacy awareness"
+        ],
+        "abstract": "How do children understand the privacy implications of the contemporary digital environment? This question is pressing as technologies transform children’s lives into data which is recorded, tracked, aggregated, analysed and monetized. This article takes a child-centred, qualitative approach to charting the nature and limits of children’s understanding of privacy in digital contexts. We conducted focus group interviews with 169 UK children aged 11–16 to explore their understanding of privacy in three distinct digital contexts—interpersonal, institutional and commercial. We find, first, that children primarily conceptualize privacy in relation to interpersonal contexts, conceiving of personal information as something they have agency and control over as regards deciding when and with whom to share it, even if they do not always exercise such control. This leads them to some misapprehensions about how personal data is collected, inferred and used by organizations, be these public institutions such as their schools or commercial businesses. Children’s expectation of agency in interpersonal contexts, and their tendency to trust familiar institutions such as their schools, make for a doubly problematic orientation towards data and privacy online in commercial contexts, leading to a mix of frustration, misapprehension and risk. We argue that, since the complexity of the digital environment challenges teachers’ capacity to address children’s knowledge gaps, businesses, educators, parents and the state must exercise a shared responsibility to create a legible, transparent and privacy-respecting digital environment in which children can exercise genuine choice and agency.",
+        "url": "https://doi.org/10.17645/mac.v8i4.3407",
         "topics_llm": true
       },
       {
@@ -789,6 +789,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.17645/mac.v9i1.3399",
+        "title": "From Insult to Hate Speech: Mapping Offensive Language in German User Comments on Immigration",
+        "authors": [
+          "Sünje Paasch‐Colberg",
+          "Christian Strippel",
+          "Joachim Trebbe",
+          "Martin Emmer"
+        ],
+        "year": 2021,
+        "citation_count": 78,
+        "topics": [
+          "Hate speech",
+          "Offensive language",
+          "Online discourse",
+          "Immigration communication"
+        ],
+        "abstract": "In recent debates on offensive language in participatory online spaces, the term ‘hate speech’ has become especially prominent. Originating from a legal context, the term usually refers to violent threats or expressions of prejudice against particular groups on the basis of race, religion, or sexual orientation. However, due to its explicit reference to the emotion of hate, it is also used more colloquially as a general label for any kind of negative expression. This ambiguity leads to misunderstandings in discussions about hate speech and challenges its identification. To meet this challenge, this article provides a modularized framework to differentiate various forms of hate speech and offensive language. On the basis of this framework, we present a text annotation study of 5,031 user comments on the topic of immigration and refuge posted in March 2019 on three German news sites, four Facebook pages, 13 YouTube channels, and one right-wing blog. An in-depth analysis of these comments identifies various types of hate speech and offensive language targeting immigrants and refugees. By exploring typical combinations of labeled attributes, we empirically map the variety of offensive language in the subject area ranging from insults to calls for hate crimes, going beyond the common ‘hate/no-hate’ dichotomy found in similar studies. The results are discussed with a focus on the grey area between hate speech and offensive language.",
+        "url": "https://doi.org/10.17645/mac.v9i1.3399",
+        "topics_llm": true
+      },
+      {
         "doi": "10.17645/mac.v4i4.691",
         "title": "Social Movements and Political Agency in the Digital Age: A Communication Approach",
         "authors": [
@@ -844,24 +865,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.17645/mac.v9i1.3399",
-        "title": "From Insult to Hate Speech: Mapping Offensive Language in German User Comments on Immigration",
+        "doi": "10.17645/mac.v8i2.2764",
+        "title": "Following Politicians on Social Media: Effects for Political Information, Peer Communication, and Youth Engagement",
         "authors": [
-          "Sünje Paasch‐Colberg",
-          "Christian Strippel",
-          "Joachim Trebbe",
-          "Martin Emmer"
+          "Franziska Marquart",
+          "Jakob Ohme",
+          "Judith Möller"
         ],
-        "year": 2021,
-        "citation_count": 76,
+        "year": 2020,
+        "citation_count": 75,
         "topics": [
-          "Hate speech",
-          "Offensive language",
-          "Online discourse",
-          "Immigration communication"
+          "Social media",
+          "Political engagement",
+          "Youth civic participation",
+          "Political information consumption"
         ],
-        "abstract": "In recent debates on offensive language in participatory online spaces, the term ‘hate speech’ has become especially prominent. Originating from a legal context, the term usually refers to violent threats or expressions of prejudice against particular groups on the basis of race, religion, or sexual orientation. However, due to its explicit reference to the emotion of hate, it is also used more colloquially as a general label for any kind of negative expression. This ambiguity leads to misunderstandings in discussions about hate speech and challenges its identification. To meet this challenge, this article provides a modularized framework to differentiate various forms of hate speech and offensive language. On the basis of this framework, we present a text annotation study of 5,031 user comments on the topic of immigration and refuge posted in March 2019 on three German news sites, four Facebook pages, 13 YouTube channels, and one right-wing blog. An in-depth analysis of these comments identifies various types of hate speech and offensive language targeting immigrants and refugees. By exploring typical combinations of labeled attributes, we empirically map the variety of offensive language in the subject area ranging from insults to calls for hate crimes, going beyond the common ‘hate/no-hate’ dichotomy found in similar studies. The results are discussed with a focus on the grey area between hate speech and offensive language.",
-        "url": "https://doi.org/10.17645/mac.v9i1.3399",
+        "abstract": "Young citizens increasingly turn to social media platforms for political information. These platforms enable direct communication between politicians and citizens, circumventing the influence of traditional news outlets. We still know little about the consequences of direct contact with politicians on such platforms for citizens’ political participation. Here, we argue that the interplay of different actors in the political news diet of citizens should be investigated from a networked communication perspective. Relying on a cross-sectional survey of young Danes (15–25 years old, &lt;em&gt;n&lt;/em&gt; = 567), we investigate the relationship between following politicians on social media and: (a) the composition of young citizens’ political media diet; and (b) their civic messaging and campaign participation. Following political actors on social media relates to increased campaign engagement and can be a catalyst for young people’s exposure to campaign news, but their friends and followers function as the main node of their political online networks. We document a process of the de-mediation of politics on social media: Established news media lose influence as primary information sources for young citizens. We discuss these results in the context of users’ active curation and passive selection of their political social media diet.",
+        "url": "https://doi.org/10.17645/mac.v8i2.2764",
         "topics_llm": true
       },
       {
@@ -885,26 +905,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.17645/mac.v8i2.2764",
-        "title": "Following Politicians on Social Media: Effects for Political Information, Peer Communication, and Youth Engagement",
-        "authors": [
-          "Franziska Marquart",
-          "Jakob Ohme",
-          "Judith Möller"
-        ],
-        "year": 2020,
-        "citation_count": 74,
-        "topics": [
-          "Social media",
-          "Political engagement",
-          "Youth civic participation",
-          "Political information consumption"
-        ],
-        "abstract": "Young citizens increasingly turn to social media platforms for political information. These platforms enable direct communication between politicians and citizens, circumventing the influence of traditional news outlets. We still know little about the consequences of direct contact with politicians on such platforms for citizens’ political participation. Here, we argue that the interplay of different actors in the political news diet of citizens should be investigated from a networked communication perspective. Relying on a cross-sectional survey of young Danes (15–25 years old, &lt;em&gt;n&lt;/em&gt; = 567), we investigate the relationship between following politicians on social media and: (a) the composition of young citizens’ political media diet; and (b) their civic messaging and campaign participation. Following political actors on social media relates to increased campaign engagement and can be a catalyst for young people’s exposure to campaign news, but their friends and followers function as the main node of their political online networks. We document a process of the de-mediation of politics on social media: Established news media lose influence as primary information sources for young citizens. We discuss these results in the context of users’ active curation and passive selection of their political social media diet.",
-        "url": "https://doi.org/10.17645/mac.v8i2.2764",
-        "topics_llm": true
-      },
-      {
         "doi": "10.17645/mac.v5i3.989",
         "title": "Raging Against the Machine: Network Gatekeeping and Collective Action on Social Media Platforms",
         "authors": [
@@ -920,6 +920,27 @@
         ],
         "abstract": "Social media platforms act as networked gatekeepers—by ranking, channeling, promoting, censoring, and deleting content they hold power to facilitate or hinder information flows. One of the mechanisms they use is content moderation, or the enforcement of which content is allowed or disallowed on the platform. Though content moderation relies on users’ labor to identify content to delete, users have little capacity to influence content policies or enforcement. Despite this, some social media users are turning to collective action campaigns, redirecting information flows by subverting the activities of moderators, raising the visibility of otherwise hidden moderation practices, and organizing constituencies in opposition to content policies. Drawing on the example of the campaign to change Facebook’s nudity policy, this paper examines the strategies and tactics of users turning to collective action, considering which factors are most influential in determining the success or failure of a campaign. It finds that network gatekeeping salience is a good model for assessing which collective action efforts are most likely to be effective in achieving individual user goals. This indicates that the users who are already most able to harness the attention economy of social media platforms are more likely to successfully navigate the content moderation process. The analysis concludes by attending to what users might learn from the dynamics of network gatekeeping as they seek to resist the asymmetrical power relations of platforms.",
         "url": "https://doi.org/10.17645/mac.v5i3.989",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.17645/mac.v9i1.3360",
+        "title": "Roots of Incivility: How Personality, Media Use, and Online Experiences Shape Uncivil Participation",
+        "authors": [
+          "Lena Frischlich",
+          "Tim Schatto‐Eckrodt",
+          "Svenja Boberg",
+          "Florian Wintterlin"
+        ],
+        "year": 2021,
+        "citation_count": 72,
+        "topics": [
+          "Online incivility",
+          "Dark participation",
+          "Social media behavior",
+          "Personality and digital communication"
+        ],
+        "abstract": "Online media offer unprecedented access to digital public spheres, largely enhancing users’ opportunities for participation and providing new means for strengthening democratic discourse. At the same time, the last decades have demonstrated that online discourses are often characterised by so-called ‘dark participation’ the spreading of lies and incivility. Using ‘problematic behaviour theory’ as framework and focusing on incivility as a specific form of dark participation, this article investigates the role of users’ personal characteristics, media use, and online experiences in relation to offensive and hateful online behaviour. Using a random-quota survey of the German population, we explored how dark personality traits, political attitudes and emotions, the frequency and spaces of online-media use, and users’ experiences with both civil and uncivil online discourses predicted participants own uncivil behaviour, such as posting, sharing, or liking uncivil content. We found that 46% of the participants who had witnessed incivility in the last three months also engaged in uncivil participation. A hierarchical logistic regression analysis showed that incivility was associated with manipulative personality traits as measured by the dark triad, right-wing populist voting intentions, and frequent social-media use. Experiences with both civil comments and hate speech predicted higher levels of uncivil participation. The strongest predictor was participants’ personal experiences with online victimisation. Overall, the results confirmed that dark participation in the sense of uncivil engagement results from the interplay of personality traits, an online environment that allows for deviant engagement, and, most importantly, participants’ experiences in said environment.",
+        "url": "https://doi.org/10.17645/mac.v9i1.3360",
         "topics_llm": true
       },
       {
@@ -940,28 +961,49 @@
         "abstract": "Media convergence is generating many collective performances on social media, where the rise of short-form videos has created a new opportunity for the empowerment of society on online platforms. In this context, TikTok appears as an application for creative expression through music clips and lip-syncs. Through the #ThisIsMeChallenge hashtag, which introduces the musical theme of &lt;em&gt;The Greatest Showman&lt;/em&gt; film, we analyze a new online practice within messages from traditionally marginalized groups throughout individual and collective life events. In order to understand TikTok as a music venue for social empowerment, we conducted a quantitative content analysis of 100 TikTok posts under the hashtag, and an artificial intelligence sentiment analysis across 8,877 comments. The results show a wide range of performance work that addresses issues of gender, sexual orientation, racial discrimination, and other types of current hate speech. In short, we conclude that TikTok has become a platform that seems to motivate activism and empowerment of marginalized groups through music frameworks that challenge social discrimination.",
         "url": "https://doi.org/10.17645/mac.v10i1.4715",
         "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.v6i3.1732",
-        "title": "The Turn to Affect and Emotion in Media Studies",
-        "authors": [
-          "Margreth Lünenborg",
-          "Tanja Maier"
-        ],
-        "year": 2018,
-        "citation_count": 72,
-        "topics": [
-          "Affect theory",
-          "Emotion in media",
-          "Audience reception",
-          "Media studies"
-        ],
-        "abstract": "This editorial delivers an introduction to the thematic &lt;em&gt;Media and Communication &lt;/em&gt;issue on “The Turn to Affect and Emotion in Media Studies”. The social and cultural formation of affect and emotion has been of central interest to social science-based emotion research as well as to affect studies, which are mainly grounded in cultural studies. Media and communication scholars, in turn, have especially focused on how emotion and affect are produced by media, the way they are communicated through media, and the forms of emotion audiences develop during the use of media. Distinguishing theoretical lines of emotion theory in social sciences and diverse traditions of affect theory, we reflect on the need to engage more deeply with affect and emotion as driving forces in contemporary media and society. This thematic issue aims to add to ongoing affect studies research and to existing emotion research within media studies. A special emphasis will be placed on exploring structures of difference and power produced in and by media in relation to affect and emotion.",
-        "url": "https://doi.org/10.17645/mac.v6i3.1732",
-        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.17645/mac.12392",
+        "title": "Shining Light on “Dark Science”: Mapping the Field of Science Watchdog Journalism",
+        "authors": [
+          "Aljosha Karim Schapals",
+          "Michelle Riedlinger",
+          "Silvia Montaña-Niño",
+          "Artem Rednikin"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Science journalism",
+          "Watchdog journalism",
+          "Research integrity",
+          "Science communication"
+        ],
+        "abstract": "The journalistic watchdog role has traditionally been theorised as a mechanism for scrutinising political power. Yet comparatively little scholarly attention has been paid to watchdog practices that target science itself, despite growing concerns about research misconduct, misinformation, and the misuse of scientific authority in digital media environments. This study addresses this gap by conceptualising and mapping the emerging ecosystem of science watchdog journalism. Building on literature in journalism studies, science communication, and research integrity, the study defines science watchdog journalism as forms of journalistic and journalism-related scrutiny that monitors the production, communication, and use of scientific knowledge. Empirically, the study adopts an inductive mapping approach to identify actors engaged in science watchdog practices across contemporary platformised media environments. Drawing on case-based analysis, media monitoring, and multi-platform searches, we identified that actors are operating in a diverse science watchdog ecosystem that extends far beyond traditional investigative journalism. Science watchdog functions are increasingly performed by a broad range of actors, including research-integrity specialists, fact-checking organisations, advocacy groups, and highly visible individual commentators. Five primary watchdog functions are identified: primary investigative watchdogs, infrastructural watchdog platforms, translational intermediaries, corrective verification organisations, and attention-based watchdogs. Importantly, the study expands beyond Western media systems, highlighting watchdog initiatives operating across multiple global regions. By conceptualising science watchdog journalism and systematically mapping its actors and functions, the study contributes to journalism theory by proposing a broader understanding of watchdog practices in an era of platformised media and contested scientific authority.",
+        "url": "https://doi.org/10.17645/mac.12392",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.17645/mac.12361",
+        "title": "Platformisation, Power, and AI Governance in the Newsroom: Insights From the Global South",
+        "authors": [
+          "Dalia Elsheikh",
+          "Daniel Jackson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "AI governance",
+          "Global South journalism",
+          "Platform capitalism",
+          "Digital colonialism"
+        ],
+        "abstract": "Scholarship on AI and journalism in the Global South has highlighted how digital and data colonialism reproduce global hierarchies of power, labour, and knowledge, often through platform capitalism and externally controlled technological infrastructures. Yet limited empirical research examines how newsrooms in the Global South navigate these asymmetries in practice. This article analyses how Al-Masry Al-Youm, one of Egypt’s leading news organisations, integrates AI into editorial and technical operations under structural dependency. Drawing on in-depth interviews with journalists, editors, and technical staff, it examines how the newsroom adopts, adapts, and governs AI across data journalism, fact-checking, and generative applications. The findings show that reliance on global technology providers embeds forms of platform dependency within newsroom operations, while journalists and editors exercise bounded and situational agency through local adaptation, self-training, and the development of ethical guardrails that institutionalise responsible use. At the same time, AI adoption intensifies existing sustainability challenges, as journalistic content and labour increasingly support AI systems without corresponding financial return. To make sense of these findings, we introduce the concept of “defensive AI governance,” showing how AI adoption is managed through organisational practices of limitation, supervision, and infrastructural self-protection. By grounding this concept in organisation‑level evidence from the Global South, the study contributes to debates on platform power, journalistic agency, and AI governance in journalism.",
+        "url": "https://doi.org/10.17645/mac.12361",
+        "topics_llm": true
+      },
       {
         "doi": "10.17645/mac.12007",
         "title": "“Eat the Rich”: Moral Entanglement of Class and Gender in The White Lotus",
@@ -1826,7 +1868,7 @@
           "Antoinette Fage‐Butler"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Generative AI",
           "Trust and literacy",
@@ -1913,42 +1955,6 @@
         "abstract": "Older adults in China are increasingly active digital users, but they encounter distinctive challenges when navigating deceptive content online and offline, including misinformation, disinformation, and cyber fraud. Drawing on 35 in-depth interviews with older adults aged 50+ in urban Beijing, this exploratory study examines how older users encounter, interpret, and respond to deceptive content in everyday digital practices. Instead of relying solely on individual cognitive skills, participants described resilience as emerging through interconnected multiple layers of support, including family consultation, peer discussion, platform-level safeguards, and institutional assistance. The analysis identifies a recurring tension within trusted social networks: While relational expectations and norms of reciprocity may encourage information sharing, they may also discourage correction, creating what this study conceptualizes as a &lt;em&gt;human sentiment barrier&lt;/em&gt;. This concept builds on sociological research on the downsides of strong-tie social capital, illustrating how the same relationships that provide emotional support can also facilitate the circulation of misleading information. By illustrating how older adults’ evaluations of digital content are shaped by relational, cultural, and institutional contexts, this study reframes digital resilience as a socially embedded practice rather than an individual skill. Findings highlight the need for interventions that strengthen the social and infrastructural environments through which older adults make sense of online information.",
         "url": "https://doi.org/10.17645/mac.11531",
         "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.11399",
-        "title": "Generational Differences in Digital Resilience in Four Countries",
-        "authors": [
-          "Shelley Boulianne"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Digital resilience",
-          "Misinformation",
-          "Generational differences",
-          "Social media literacy"
-        ],
-        "abstract": "Multiple crises have marked the formative years of young adults. These crises heightened the need for information while also creating a large audience for misinformation. This article highlights digital resilience in four countries (the US, the UK, France, and Canada) and across different age groups, using a survey conducted in February 2021 at the apex of a series of crises. Based on a sample of 6,000 respondents, the two youngest age groups are more likely to use fact-checking websites, verify suspicious information, and report misinformation to social media platforms. These practices reflect digital resilience. In terms of cross-national differences, respondents from the US have higher use of fact-checking sites, which can be explained by the structural availability of these websites, which tend to focus on American content. In line with theories about uncertainty avoidance, respondents from France have higher rates of verification of suspicious information. Canada is distinctive in its low rates of misinformation reporting to social media platforms. While much of the scholarship has focused on political ideology as shaping engagement with misinformation, this study highlights generational differences, cultural differences, digital literacy programming, structural opportunities, and regulatory frameworks that may shape practices related to digital resilience.",
-        "url": "https://doi.org/10.17645/mac.11399",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.11053",
-        "title": "Manifesto for Our Times: Theorising and Demonstrating “Affective Bridges” for Intersectional Feminist Coalitions",
-        "authors": [
-          "Dilara Asardag"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Feminist activism",
-          "Affective politics",
-          "Intersectionality",
-          "Social movements"
-        ],
-        "abstract": "The article proposes the theoretical concept of “affective bridges” to describe “affective connection,” “solidarity practice,” or “political articulation” that elevates intersectionality within feminist and trans activisms in Turkey through its three elements: experience, movement, and discourse/action. It explores the emergence of affective bridges for&lt;em&gt; &lt;/em&gt;bodily autonomy, against femicides and gender-based violence, as well as against the specific anti-gender backlash conditions created by anti-gender networked authoritarianism in Turkey. Turkey was chosen for the case study to build, establish, and demonstrate this concept, but the concept is intended to be applicable transnationally, particularly in countries where global political events have local ramifications and where such forms of intersectional solidarity, coalitions, and collaboration are needed.",
-        "url": "https://doi.org/10.17645/mac.11053",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2020,25 +2026,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.17645/mac.8173",
-        "title": "Smartphone- and Tablet-Reliant Internet Users: Affordances and Digital Exclusion",
-        "authors": [
-          "Becky Faith",
-          "Kevin Hernandez"
-        ],
-        "year": 2024,
-        "citation_count": 13,
-        "topics": [
-          "Digital exclusion",
-          "Mobile internet access",
-          "Affordances theory",
-          "Digital inequality"
-        ],
-        "abstract": "In countries where digital-only service delivery has become the norm, the removal of offline services and channels risks exclusion and alienation for marginalised communities, many of whom have access to the internet exclusively through a smartphone or a tablet computer. These users have been described as part of a “mobile underclass” who face challenges interacting with systems that are difficult to use on devices other than laptops or desktop computers. This article uses the theoretical lens of affordances to explore the everyday realities of digital engagement for economically and socially marginalised communities who only have internet access through a smartphone or tablet computer. This allows for an examination of the ways in which these devices might discourage or refuse certain actions such as applying for a job, as well as how they might encourage or allow other courses of action. Using data from qualitative interviews with people working at community-based organisations delivering support to digitally excluded unemployed people seeking welfare and employment support in three cities in the US and the UK, we seek to understand the role of the affordances of devices in preventing smartphone- and tablet-reliant users from accessing their basic entitlements and finding work. In doing so, we offer new perspectives on mobile-only internet access, digital divides, and digital inequalities.",
-        "url": "https://doi.org/10.17645/mac.8173",
-        "topics_llm": true
-      },
-      {
         "doi": "10.17645/mac.8698",
         "title": "An Exploratory Study of Fact-Checking Practices in Conflict and Authoritarian Contexts",
         "authors": [
@@ -2081,6 +2068,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.17645/mac.9109",
+        "title": "The Effectiveness of an Educational Intervention on Countering Disinformation Moderated by Intellectual Humility",
+        "authors": [
+          "Eduard-Claudiu Gross",
+          "Delia Cristina Balaban"
+        ],
+        "year": 2024,
+        "citation_count": 11,
+        "topics": [
+          "Media literacy",
+          "Disinformation",
+          "Educational intervention",
+          "Intellectual humility"
+        ],
+        "abstract": "&lt;span lang=\"EN-US\"&gt;There is an ongoing debate among scholars on how to tackle disinformation. Media education initiatives to increase literacy are effective ways to counter disinformation. Hence, the European Commission (2022) published &lt;em&gt;Guidelines for Teachers and Educators on Tackling Disinformation and Promoting Digital Literacy Through Education and Training&lt;/em&gt;. The present research looked at the role of social media literacy in increasing awareness of the role of social media in spreading disinformation. We developed an educational intervention based on the European Commission guidelines. We investigated its impact on perceived social media literacy, the intention to share fake news on social media, and general conspiracy beliefs. We conducted a within-subject (two times measurement: before the educational intervention and one week after) +1 experiment with &lt;em&gt;N&lt;/em&gt; = 127 young adults (aged 18 to 23). After filling in an initial survey, the experimental group received a 15-minute educational intervention on the role of social media for disinformation dissemination in complex digital information environments. One week later, all participants completed the second survey to assess perceived social media literacy and general conspiracy beliefs. In both surveys, participants saw three Instagram posts from a fictitious media outlet to express potential intentions to share on social media. Among the three posts, two showed false information. Findings showed that educational intervention produces a significant increase in perceived social media literacy and a decrease in general conspiracy beliefs. Intellectual humility moderates the impact of educational intervention on algorithmic awareness.&lt;/span&gt;",
+        "url": "https://doi.org/10.17645/mac.9109",
+        "topics_llm": true
+      },
+      {
         "doi": "10.17645/mac.8913",
         "title": "Beyond Digital Literacy: Exploring Factors Affecting Digital Performance of University Staff",
         "authors": [
@@ -2118,25 +2124,6 @@
         ],
         "abstract": "Journalists are increasingly experiencing the negative consequences of online news transformations, such as trolling and harassment, as well as audience distrust. Despite acute need, intra-organisational efforts to support journalists’ online wellbeing have so far been limited. More recently, research has explored how journalists have turned to individual practices of disconnection, such as blocking, muting, or small breaks from online media to mediate the impacts of their everyday online labour (Bossio et al., 2024). Building on this research, this study explores how these individual practices are moving toward collective practices of disconnection. Using interviews with 21 journalists, this study traces how emergent collective practices might contribute to systemic change in journalism. We argue that in lieu of intra-organizational support, journalists seek to disconnect through informal sharing of experiences and support as well as collective efforts toward inter-organisational training and intra-organisational formalization mentoring programs.",
         "url": "https://doi.org/10.17645/mac.8628",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.9109",
-        "title": "The Effectiveness of an Educational Intervention on Countering Disinformation Moderated by Intellectual Humility",
-        "authors": [
-          "Eduard-Claudiu Gross",
-          "Delia Cristina Balaban"
-        ],
-        "year": 2024,
-        "citation_count": 10,
-        "topics": [
-          "Media literacy",
-          "Disinformation",
-          "Educational intervention",
-          "Intellectual humility"
-        ],
-        "abstract": "&lt;span lang=\"EN-US\"&gt;There is an ongoing debate among scholars on how to tackle disinformation. Media education initiatives to increase literacy are effective ways to counter disinformation. Hence, the European Commission (2022) published &lt;em&gt;Guidelines for Teachers and Educators on Tackling Disinformation and Promoting Digital Literacy Through Education and Training&lt;/em&gt;. The present research looked at the role of social media literacy in increasing awareness of the role of social media in spreading disinformation. We developed an educational intervention based on the European Commission guidelines. We investigated its impact on perceived social media literacy, the intention to share fake news on social media, and general conspiracy beliefs. We conducted a within-subject (two times measurement: before the educational intervention and one week after) +1 experiment with &lt;em&gt;N&lt;/em&gt; = 127 young adults (aged 18 to 23). After filling in an initial survey, the experimental group received a 15-minute educational intervention on the role of social media for disinformation dissemination in complex digital information environments. One week later, all participants completed the second survey to assess perceived social media literacy and general conspiracy beliefs. In both surveys, participants saw three Instagram posts from a fictitious media outlet to express potential intentions to share on social media. Among the three posts, two showed false information. Findings showed that educational intervention produces a significant increase in perceived social media literacy and a decrease in general conspiracy beliefs. Intellectual humility moderates the impact of educational intervention on algorithmic awareness.&lt;/span&gt;",
-        "url": "https://doi.org/10.17645/mac.9109",
         "topics_llm": true
       },
       {
@@ -2232,6 +2219,24 @@
         ],
         "abstract": "This study conducts qualitative research on female players of otome games, exploring the mechanisms of romantic relationship formation within these games and their impact on perceptions of real-life intimate relationships. The findings reveal that the parasocial romantic relationships formed in otome games are not entirely detached from reality; instead, they are embedded in daily life through game interaction mechanisms and the players’ internalized imagination, thereby influencing the reconstruction of real-life intimate relationships. Female players show a high degree of acceptance and immersion in these romantic relationships, focusing on the emotional support provided by male characters. These relationships play a positive role in fulfilling emotional needs, regulating negative emotions, constructing self-identity, and redefining perceptions of intimacy. The intangibility of physical contact remains the only significant shortcoming, as perceived by a minority of players, pointing to a primary direction for the future development of otome games.",
         "url": "https://doi.org/10.17645/mac.8662",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.17645/mac.9182",
+        "title": "Trust in Pod: Listener Trust of News Content Heard on Different Genre Podcasts",
+        "authors": [
+          "K Johnson",
+          "Michael McCall"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Podcast news consumption",
+          "Trust and credibility",
+          "Genre effects on media perception"
+        ],
+        "abstract": "There are several news podcast programs for listeners to choose from, but other genre podcasts (e.g., comedy, true crime, history) also include news in their content. This study measures listener trust in news content aired in different genres. The findings indicate most listeners trust content heard on news podcasts, which may relate to an increase in available news programs, as well as an overall increase in podcast listenership. The research also shows some listeners trust news heard on non-news podcasts. This may relate to interest in alternate sources for news and the storytelling formats used in the programs. When examining the trust of news content based on genre, news heard on comedy, news, and history podcasts are more likely to be trusted by listeners. The majority of gratifications associated with listening to podcasts based on the various genres are similar, with minimal differences seen among certain genres. Discussion of AI and its influence on trust in news heard on podcasts is also addressed.",
+        "url": "https://doi.org/10.17645/mac.9182",
         "topics_llm": true
       },
       {
@@ -2380,24 +2385,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.17645/mac.9182",
-        "title": "Trust in Pod: Listener Trust of News Content Heard on Different Genre Podcasts",
-        "authors": [
-          "K Johnson",
-          "Michael McCall"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "Podcast news consumption",
-          "Trust and credibility",
-          "Genre effects on media perception"
-        ],
-        "abstract": "There are several news podcast programs for listeners to choose from, but other genre podcasts (e.g., comedy, true crime, history) also include news in their content. This study measures listener trust in news content aired in different genres. The findings indicate most listeners trust content heard on news podcasts, which may relate to an increase in available news programs, as well as an overall increase in podcast listenership. The research also shows some listeners trust news heard on non-news podcasts. This may relate to interest in alternate sources for news and the storytelling formats used in the programs. When examining the trust of news content based on genre, news heard on comedy, news, and history podcasts are more likely to be trusted by listeners. The majority of gratifications associated with listening to podcasts based on the various genres are similar, with minimal differences seen among certain genres. Discussion of AI and its influence on trust in news heard on podcasts is also addressed.",
-        "url": "https://doi.org/10.17645/mac.9182",
-        "topics_llm": true
-      },
-      {
         "doi": "10.17645/mac.8272",
         "title": "Young People Learning About Algorithms: Five Profiles Spanning From Ineptitude to Enchantment",
         "authors": [
@@ -2519,6 +2506,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.17645/mac.9059",
+        "title": "Parasocial Intimacy, Change, and Nostalgia in Podcast Listener Reviews",
+        "authors": [
+          "M. Olguta Vilceanu"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Parasocial relationships",
+          "Podcast audiences",
+          "Nostalgia",
+          "Listener loyalty"
+        ],
+        "abstract": "As the medium of podcasting reaches maturity, exploring the evolving nature of parasocial intimacy, nostalgia, and change is crucial. With the podcasting industry increasingly focused on financial viability, listener loyalty and nostalgia are critical components in podcast audience studies. Listener reviews are an integral part of this research. This study enriches podcast audience studies by investigating the connection between the parasocial relationships of trust and intimacy listeners develop with show hosts and nostalgic reactions to show changes. Using automated semantic network analysis of over 12,000 podcast reviews for two of the longest-running and best-regarded US podcasts, this study has confirmed the pivotal role of the show host and content in developing and maintaining the parasocial rapport of intimacy and trust with listeners. It also revealed that changes in the show’s host(s) or content trigger nostalgic reactions, which can be positive or negative. These findings have significant implications for long-lived podcasts as they approach the stage when host or content changes become inevitable, thereby underscoring this study’s practical relevance and importance for the podcasting industry.",
+        "url": "https://doi.org/10.17645/mac.9059",
+        "topics_llm": true
+      },
+      {
         "doi": "10.17645/mac.9644",
         "title": "Exploring the Challenges of Generative AI on Public Sector Communication in Europe",
         "authors": [
@@ -2535,24 +2540,6 @@
         ],
         "abstract": "This study investigates how emerging digital technologies, particularly generative AI tools, are transforming public sector communication in Europe, highlighting the profound intersection between public organizations, AI, and human interactions. In particular, it explores the opportunities and risks that public sector communicators face as they deal with and integrate digital platforms and AI‐driven tools into their strategies and practices in a contemporary scenario characterized by the spread of disinformation and a growing distrust toward institutions. The article gathers insights from in‐depth interviews with leading public sector communicators working for European governments and EU institutions. Findings reveal that generative AI is seen as a transformative tool for governments and public institutions, with communicators emphasizing both benefits and risks, as well as the importance of adopting ethical practices and new responsibilities toward citizens, institutions, and mass media. From the interviews, generative AI tools emerged as game‐changers in message delivery and content production, demanding greater professionalism and new competencies and skills to integrate these technologies into public sector communication strategies and to counteract the threats posed by disinformation campaigns and platformization. The study provides valuable insights into the evolving role of generative AI in public‐sector communication, addressing the scarcity of research in this field. As the adoption of generative AI becomes inevitable, and policy frameworks like the EU AI Act develop, communicators must ensure transparency and trust to align public sector communication with democratic values and foster meaningful dialogue in new digital‐media arenas. Implications for theory and practice are discussed.",
         "url": "https://doi.org/10.17645/mac.9644",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.9059",
-        "title": "Parasocial Intimacy, Change, and Nostalgia in Podcast Listener Reviews",
-        "authors": [
-          "M. Olguta Vilceanu"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Parasocial relationships",
-          "Podcast audiences",
-          "Nostalgia",
-          "Listener loyalty"
-        ],
-        "abstract": "As the medium of podcasting reaches maturity, exploring the evolving nature of parasocial intimacy, nostalgia, and change is crucial. With the podcasting industry increasingly focused on financial viability, listener loyalty and nostalgia are critical components in podcast audience studies. Listener reviews are an integral part of this research. This study enriches podcast audience studies by investigating the connection between the parasocial relationships of trust and intimacy listeners develop with show hosts and nostalgic reactions to show changes. Using automated semantic network analysis of over 12,000 podcast reviews for two of the longest-running and best-regarded US podcasts, this study has confirmed the pivotal role of the show host and content in developing and maintaining the parasocial rapport of intimacy and trust with listeners. It also revealed that changes in the show’s host(s) or content trigger nostalgic reactions, which can be positive or negative. These findings have significant implications for long-lived podcasts as they approach the stage when host or content changes become inevitable, thereby underscoring this study’s practical relevance and importance for the podcasting industry.",
-        "url": "https://doi.org/10.17645/mac.9059",
         "topics_llm": true
       },
       {
@@ -2811,6 +2798,44 @@
         "topics_llm": true
       },
       {
+        "doi": "10.17645/mac.8984",
+        "title": "Podcasting the Truth: Challenging Journalistic Knowledge and Building Epistemic Authority in Independent YouTube Podcasts",
+        "authors": [
+          "Viljami Vaarala"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Epistemic authority",
+          "Independent podcasting",
+          "Journalistic legitimacy",
+          "Digital media discourse"
+        ],
+        "abstract": "The legitimacy of journalism as a truth-teller has become contested during the era of digitalisation and newly emerging platforms. Recently, the epistemic authority of legacy journalism has been challenged by right-wing podcasting. This article explores metajournalistic discussions on the identity of legacy journalism as a truth-oriented practice and institution in six Finnish podcasts published independently outside legacy media on YouTube. This metajournalistic discourse of truth is identified through topic modelling in 229 podcast episodes, of which 119 are scrutinised using qualitative discourse analysis. The discursive articulations in the YouTube podcast episodes are assessed in the light of realist and antirealist philosophies as well as epistemic theories of journalistic truth structured by critical realist and pragmatist philosophies. The results show that the epistemic authority of legacy journalism is challenged through three interconnected themes through which legacy journalism is articulated as an antirealist practice and institution. By contrast, YouTube podcasting is framed as a platform for a balanced, authentic, and uncut talk that realises the epistemic ideals of journalism. The challenges to the epistemic authority of legacy journalism presented by the Finnish YouTube podcasts are also similar to those identified in previous research on right-wing podcasting and online counter-media. The findings point to the need for legacy journalists and podcasting practitioners to adopt more nuanced and context-bound understandings of journalistic knowledge and truth structured by critical realist and pragmatist philosophies.",
+        "url": "https://doi.org/10.17645/mac.8984",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.17645/mac.9508",
+        "title": "Motivations and Affordances of ChatGPT Usage for College Students’ Learning",
+        "authors": [
+          "Sun Kyong Lee",
+          "Jongsang Ryu",
+          "Yeowon Jie",
+          "Dong Hoon"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "AI chatbots",
+          "Educational technology",
+          "Student learning behaviors"
+        ],
+        "abstract": "This study explored college students’ experiences and evaluations of using ChatGPT for class-related activities including essay writing, exam preparation, and homework. Students from two classes on the same subject were surveyed, and quantitative data on their motivations and usage of ChatGPT were collected (Class 1, &lt;em&gt;n &lt;/em&gt;= 48; Class 2, &lt;em&gt;n&lt;/em&gt; = 106; &lt;em&gt;N&lt;/em&gt; = 154). Hierarchical regression analysis revealed that using ChatGPT as a study guide and for active interaction were significant predictors of actual usage level, while its usage for entertainment and study guide was associated with higher trust in the tool. We further collected qualitative data through open-ended surveys (Class 1, &lt;em&gt;n &lt;/em&gt;= 154; Class 2, &lt;em&gt;n&lt;/em&gt; = 106). Responses were manually coded and thematically analyzed, with comparisons drawn between the two classes. Students’ perceptions varied, with many acknowledging the affordances of ChatGPT, such as helping to organize thoughts, clarifying concepts, and structuring essays. However, some participants raised concerns about the tool’s limitations—particularly its potential to inhibit critical and creative thinking—as well as issues related to the reliability, accuracy, and quality of information provided. The implications of these findings are discussed in relation to the uses and gratifications theory, the technology acceptance model, and the concept of media affordances.",
+        "url": "https://doi.org/10.17645/mac.9508",
+        "topics_llm": true
+      },
+      {
         "doi": "10.17645/mac.9407",
         "title": "Cultural Authenticity as Netflix Televisuality: Streaming Industry Discourse and Globally Commissioned Original Series",
         "authors": [
@@ -2930,26 +2955,6 @@
         ],
         "abstract": "The concept of digital disconnection, which refers to limiting digital media use for the sake of one’s well-being, has gained prominence in scholarly and public debates. Compared to a burgeoning digital disconnection industry that commodifies individuals’ struggles with constant connectivity, the development of evidence-based disconnection policies and regulations that support individuals to maintain digital well-being lags behind. The absence of digital disconnection policy may partly be due to a lack of studies investigating the contextual and institutional conditions in which policies and regulations are designed, implemented, and received. The few studies that do shed light on these conditions show that politicians’ and policymakers’ responses to digitalization involve discourses of individual responsibilization. Building on these insights, our study draws from in-depth interviews with 21 experts from organizations in Flanders (Belgium) who are responsible for digital well-being and digital disconnection across work, school, and family contexts. In particular, we have explored their perspectives on the challenges of constructing and implementing digital disconnection policies and regulations. Overall, the experts’ discourses reveal a conflict between striving for autonomy and the need for regulations concerning digital disconnection. This conflict leads to a digital disconnection policy paradox in which experts advocate for collective disconnection initiatives but ultimately resort to solutions on an individual level. We discuss the implications of our findings for the scholarly field of digital disconnection as well as for media policymakers.",
         "url": "https://doi.org/10.17645/mac.8588",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.17645/mac.8749",
-        "title": "Dive Into the Past: Chinese Intangible Cultural Heritage Represented in Chinese Mobile Games",
-        "authors": [
-          "Yixiang Que",
-          "Teresa de la Hera",
-          "Jeroen Jansz"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Cultural heritage representation",
-          "Mobile gaming",
-          "Chinese media",
-          "Digital culture"
-        ],
-        "abstract": "This study delves into the representation of intangible Chinese cultural heritage in Chinese mobile games. Nowadays, even with huge economic potential, Chinese mobile games are still faced with negative comments, especially from parents. To develop their reputation, Chinese mobile games have portrayed considerate Chinese intangible cultural heritage (ICH). The representation of cultural heritage in video games has been a subject of discussion for a long time, while console and computer games and tangible cultural heritage have been at the centre of academic studies. Hence, we strived to investigate how Chinese ICH is depicted in Chinese mobile games. A thematic analysis was conducted on data collected through analytical gameplay of 30 Chinese mobile games selected from Apple’s App Store and the Chinese TapTap platform. Our analysis indicates that Chinese ICH is represented in Chinese mobile games to fulfil the persona of game characters, to create a more engaging and immersive game world experience, to provide more intense combat moments, to offer visually enjoyable virtual goods, and to deliver culturally driven updates during traditional festivals. Among the various forms of Chinese ICH, Chinese traditional craftsmanship is found to be used most frequently because of the huge effort it requires to be mastered, which could be educational to players. Theatrical traditions were found to be depicted in most game elements because they combine visual, audio, and motional elements. Lastly, folk and classical literature is portrayed in Chinese mobile games to provide a narrative resource that culturally resonates with players.",
-        "url": "https://doi.org/10.17645/mac.8749",
         "topics_llm": true
       }
     ]
