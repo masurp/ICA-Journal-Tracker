@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_broadcasting_electronic_media",
-  "updated_at": "2026-06-08T10:52:34Z",
-  "trending_from": "2024-06-08",
+  "updated_at": "2026-06-15T12:12:20Z",
+  "trending_from": "2024-06-15",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Alan Rubin"
         ],
         "year": 2000,
-        "citation_count": 1811,
+        "citation_count": 1812,
         "topics": [
           "Uses and gratifications",
           "Internet use",
@@ -49,7 +49,7 @@
           "Ellen Helsper"
         ],
         "year": 2008,
-        "citation_count": 1231,
+        "citation_count": 1237,
         "topics": [
           "Parental mediation",
           "Children's internet use",
@@ -68,7 +68,7 @@
           "Anthony M. Limperos"
         ],
         "year": 2013,
-        "citation_count": 1023,
+        "citation_count": 1027,
         "topics": [
           "Uses and Gratifications Theory",
           "New Media",
@@ -145,7 +145,7 @@
           "Nies M. Marseille"
         ],
         "year": 1999,
-        "citation_count": 731,
+        "citation_count": 732,
         "topics": [
           "Television mediation",
           "Parental mediation",
@@ -182,7 +182,7 @@
           "Eden Litt"
         ],
         "year": 2012,
-        "citation_count": 610,
+        "citation_count": 611,
         "topics": [
           "Imagined audience",
           "Social media communication",
@@ -330,7 +330,7 @@
           "Hua Jiang"
         ],
         "year": 2020,
-        "citation_count": 427,
+        "citation_count": 430,
         "topics": [
           "AI chatbots",
           "User experience",
@@ -445,7 +445,7 @@
           "Byron Reeves"
         ],
         "year": 1996,
-        "citation_count": 392,
+        "citation_count": 393,
         "topics": [
           "Negative video effects",
           "Cognitive processing",
@@ -499,7 +499,7 @@
           "Donghee Shin"
         ],
         "year": 2020,
-        "citation_count": 368,
+        "citation_count": 370,
         "topics": [
           "Algorithmic transparency",
           "AI trust and fairness",
@@ -551,6 +551,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/08838151.2010.519808",
+        "title": "News-seekers and Avoiders: Exploring Patterns of Total News Consumption Across Media and the Relationship to Civic Participation",
+        "authors": [
+          "Thomas B. Ksiazek",
+          "Edward C. Malthouse",
+          "James G. Webster"
+        ],
+        "year": 2010,
+        "citation_count": 335,
+        "topics": [
+          "News consumption",
+          "Civic participation",
+          "Media platforms",
+          "News avoidance"
+        ],
+        "abstract": "Abstract This study examines patterns of news consumption across multiple media platforms and relates them to civic participation. Analyzing a national sample of close to 25,000 respondents, nearly half the adult population in America is classified as news \"Avoiders,\" and the other half as \"News-seekers.\" Testing the relationship between civic participation and news consumption for each of 6 media platforms individually, and to an overall index combining those sources into 1 measure, the results show a positive relationship with civic participation, but the influence of Total News Consumption on civic participation is greater for Avoiders than for News-seekers. Notes The authors thank Simmons Market Research Bureau, Inc. for making the necessary data available. We also thank Markus Prior and Limor Peer for their comments on the manuscript. Note: *p < .01. Note. *p < .01. 1Additional details on the survey methodology are available from http://www.smrb.com/web/guest/core-solutions/national-consumer-study and http://www.smrb.com/web/guest/experian-simmons-methodology. 2The finite mixture model is necessary because five of the study's variables are roughly continuous, while local TV viewing is dichotomous and most clustering methods are not designed for a combination of categorical and numerical variables. A brief overview of the specific model is provided. Assume that the six variables have been sampled from a mixture of K distributions and that an observation x = (x 1, …, x 6) from group k has the following distribution where x 1 is the log of time spent watching TV, …, x 5 is the log of the magnitude of internet use, x 6 = 1 if the respondent watches TV news and 0 otherwise, function g is a normal distribution with mean μ ik and standard deviation σ ik , and π k is the probability that someone in group k watches local TV news. Let η k be the (prior) probability of being a member of class k, where η1 + … + η K = 1. The unconditional distribution of x is then given by The parameters of this model, η k , μ ik , σ ik , and π k are estimated using the maximum likelihood method in the Latent Gold software package. The posterior distributions give the probability of belonging to various groups, based on the observed media consumption, and will enable the researchers to assign respondents to news groups: 3Estimation using maximum likelihood or the squared-multiple-correlation methods produce a single eigenvalue greater than 1, suggesting a single factor. Using the principle components method of estimation, the second eigenvalue is 1.1, suggesting that there could be a second factor, but a case can also be made for a single factor from the scree plot. The two-factor solution has a TV-news dimension (local and network TV news) and an \"other\" news dimension (Web, magazines, and newspapers), with cable TV cross-loading. The two-factor model, however, is not ideal either because of the large cross-loading and questionable discriminant validity. Coefficient alpha for the 3 TV questions (putting cable news on this factor) is 0.45 and other is 0.34, both of which are lower than the alpha of the 6-item scale. The reliability is likely weakened by the dichotomous measure of local TV news consumption. 4A Likert-scale item was located in the Simmons data where respondents indicated an attitude toward being informed, although it is not specific to civic/public affairs and/or knowledge of those affairs. Still, an alternative model was tested with this variable entered as a control. It was not significant and had no impact on the coefficients reported in Table 3. Thus, the researchers chose to report the more parsimonious model with demographic controls.",
+        "url": "https://doi.org/10.1080/08838151.2010.519808",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1207/s15506878jobem4404_7",
         "title": "Impact of Motivation, Attraction, and Parasocial Interaction on Talk Radio listening",
         "authors": [
@@ -585,26 +605,6 @@
         ],
         "abstract": "Considerable research has been devoted to the effects of celebrity endorsers on consumer behavior. Most of the research has examined credibility or attractiveness as a determinant of message effectiveness, A review of Burke, Kelman, and Bandura's theories suggests that there may be another critical factor underlying celebrity effects — identification. A review of previous research results suggests that identification may be a viable explanation for the effectiveness of celebrity endorsers. A test of the identification effect was probed by examining people's personal concern, perceived risk, and sexual behaviors a year after Magic Johnson's announcement that he tested positive for HIV. The results of this study indicate that identification mediates message effects. This finding has important implications for media campaigns. It suggests that a spokesperson with whom the audience identifies insures the greatest likelihood of achieving lasting attitude or behavior change.",
         "url": "https://doi.org/10.1080/08838159609364370",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/08838151.2010.519808",
-        "title": "News-seekers and Avoiders: Exploring Patterns of Total News Consumption Across Media and the Relationship to Civic Participation",
-        "authors": [
-          "Thomas B. Ksiazek",
-          "Edward C. Malthouse",
-          "James G. Webster"
-        ],
-        "year": 2010,
-        "citation_count": 334,
-        "topics": [
-          "News consumption",
-          "Civic participation",
-          "Media platforms",
-          "News avoidance"
-        ],
-        "abstract": "Abstract This study examines patterns of news consumption across multiple media platforms and relates them to civic participation. Analyzing a national sample of close to 25,000 respondents, nearly half the adult population in America is classified as news \"Avoiders,\" and the other half as \"News-seekers.\" Testing the relationship between civic participation and news consumption for each of 6 media platforms individually, and to an overall index combining those sources into 1 measure, the results show a positive relationship with civic participation, but the influence of Total News Consumption on civic participation is greater for Avoiders than for News-seekers. Notes The authors thank Simmons Market Research Bureau, Inc. for making the necessary data available. We also thank Markus Prior and Limor Peer for their comments on the manuscript. Note: *p < .01. Note. *p < .01. 1Additional details on the survey methodology are available from http://www.smrb.com/web/guest/core-solutions/national-consumer-study and http://www.smrb.com/web/guest/experian-simmons-methodology. 2The finite mixture model is necessary because five of the study's variables are roughly continuous, while local TV viewing is dichotomous and most clustering methods are not designed for a combination of categorical and numerical variables. A brief overview of the specific model is provided. Assume that the six variables have been sampled from a mixture of K distributions and that an observation x = (x 1, …, x 6) from group k has the following distribution where x 1 is the log of time spent watching TV, …, x 5 is the log of the magnitude of internet use, x 6 = 1 if the respondent watches TV news and 0 otherwise, function g is a normal distribution with mean μ ik and standard deviation σ ik , and π k is the probability that someone in group k watches local TV news. Let η k be the (prior) probability of being a member of class k, where η1 + … + η K = 1. The unconditional distribution of x is then given by The parameters of this model, η k , μ ik , σ ik , and π k are estimated using the maximum likelihood method in the Latent Gold software package. The posterior distributions give the probability of belonging to various groups, based on the observed media consumption, and will enable the researchers to assign respondents to news groups: 3Estimation using maximum likelihood or the squared-multiple-correlation methods produce a single eigenvalue greater than 1, suggesting a single factor. Using the principle components method of estimation, the second eigenvalue is 1.1, suggesting that there could be a second factor, but a case can also be made for a single factor from the scree plot. The two-factor solution has a TV-news dimension (local and network TV news) and an \"other\" news dimension (Web, magazines, and newspapers), with cable TV cross-loading. The two-factor model, however, is not ideal either because of the large cross-loading and questionable discriminant validity. Coefficient alpha for the 3 TV questions (putting cable news on this factor) is 0.45 and other is 0.34, both of which are lower than the alpha of the 6-item scale. The reliability is likely weakened by the dichotomous measure of local TV news consumption. 4A Likert-scale item was located in the Simmons data where respondents indicated an attitude toward being informed, although it is not specific to civic/public affairs and/or knowledge of those affairs. Still, an alternative model was tested with this variable entered as a control. It was not significant and had no impact on the coefficients reported in Table 3. Thus, the researchers chose to report the more parsimonious model with demographic controls.",
-        "url": "https://doi.org/10.1080/08838151.2010.519808",
         "topics_llm": true
       },
       {
@@ -788,7 +788,7 @@
           "Brooke Barnett"
         ],
         "year": 2001,
-        "citation_count": 259,
+        "citation_count": 260,
         "topics": [
           "Television news",
           "Sensationalism",
@@ -807,7 +807,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2005,
-        "citation_count": 250,
+        "citation_count": 251,
         "topics": [
           "Parental mediation",
           "Advertising effects",
@@ -863,7 +863,7 @@
           "Jonathan Cohen"
         ],
         "year": 2006,
-        "citation_count": 243,
+        "citation_count": 244,
         "topics": [
           "Parasocial relationships",
           "Television audience",
@@ -950,6 +950,25 @@
     ],
     "latest": [
       {
+        "doi": "10.1080/08838151.2026.2683459",
+        "title": "Fact-Checking as News Framing in the Age of AI: Challenges, Cues, Coverage, and Culture",
+        "authors": [
+          "Paul D’Angelo",
+          "Erik P. Bucy"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Fact-checking",
+          "News framing",
+          "AI and journalism",
+          "Misinformation"
+        ],
+        "abstract": "In their everyday work, journalists are tasked with detecting and correcting misinformation. As technology advances, these efforts have become increasingly reliant on automation. Research on journalism’s “debunking turn” focuses on AI’s role in fact-checking routines; content analyses uncover frames about AI within news stories. Yet scholarship rarely treats journalistic fact-checking itself as a framing practice. Embracing this view, this article reviews the historical context in which framing has been conceptually entangled with misinformation (“challenges”). Using current news items as exemplar cases, we then articulate four principles by which fact-checking implicates news framing processes (“cues” and “coverage”). Finally, we outline ways to study fact-checking as news framing, focusing on efforts to enhance journalistic literacy (“culture”).",
+        "url": "https://doi.org/10.1080/08838151.2026.2683459",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/08838151.2026.2675497",
         "title": "Effects of Generative AI Bias on Adoption Through Trust: Interactions Between Engagement Cues, Information Cues, and Social Norms",
         "authors": [
@@ -1027,7 +1046,7 @@
           "Fact-checking",
           "AI algorithms"
         ],
-        "abstract": "",
+        "abstract": "This essay examines how humans interface with AI, misinformation, and fact-checking through the lens of truth-default theory. Readers are introduced to Truth-default Theory and its implications for human-AI interaction and fact-checking. The essay begins with descriptions of students using hallucinated references and of a recent series of experiments using AI to detect deception. Truth-default theory is summarized. According to the theory, most information is sufficiently accurate, and when it is not, fact-checking is the gold standard for assessing verisimilitude. Absent a trigger, however, people do not consider veracity, creating human vulnerability to misinformation. Implications for AI, misinformation, and algorithmic fact-checking are discussed",
         "url": "https://doi.org/10.1080/08838151.2026.2674814",
         "topics_llm": true
       },
@@ -1069,7 +1088,7 @@
           "Source attribution",
           "Corrective messaging"
         ],
-        "abstract": "",
+        "abstract": "AI has been increasingly deployed to combat misinformation, yet its credibility remains contested, partly due to overlooking the factor of corrective strategies. This study addresses this gap by conducting a 3 (source: human vs. AI vs. human-AI hybrid) × 2 (corrective strategy: evidence-based vs. authority-based) × 2 (topic: social vs. scientific) mixed-design experiment. Results showed that AI adopting authority-based strategies was associated with decreased credibility, while stronger machine heuristic beliefs and authoritarian personality mitigated this negative effect for AI and hybrid sources. Findings highlight the confounding role of corrective strategies in AI credibility scholarship, offering implications for automated misinformation correction.",
         "url": "https://doi.org/10.1080/08838151.2026.2674221",
         "topics_llm": true
       },
@@ -1090,7 +1109,7 @@
           "Credibility assessment",
           "Fact-checking"
         ],
-        "abstract": "",
+        "abstract": "As artificial intelligence (AI) systems are increasingly deployed to combat misinformation, understanding how different AI intervention roles influence users’ responses has become an important challenge. This study investigates how AI decision makers (labeling and debunking) and AI decision assistants (nudging) affect perceived misinformation credibility through different psychological mechanisms. An online experiment (N = 123) reveals that AI debunking and AI labeling resulted in similar levels of information elaboration and effectiveness in reducing misinformation credibility for individuals with different levels of need for cognition. However, AI nudging was more effective among individuals with higher need for control, an effect mediated by perceived autonomy. These findings challenge classic persuasion models in AI-mediated contexts, highlighting boundary conditions for scalable AI-mediated persuasion in the context of misinformation correction.",
         "url": "https://doi.org/10.1080/08838151.2026.2670673",
         "topics_llm": true
       },
@@ -1148,7 +1167,7 @@
           "Fact-checking",
           "Experimental Evidence"
         ],
-        "abstract": "",
+        "abstract": "Conversational agents have been proposed as scalable tools for correcting misinformation, yet empirical findings remain fragmented. This systematic review synthesizes evidence from 15 randomized experimental studies examining conversational-agent interventions across diverse contexts. The review maps key design features and evaluates their effects on agent perceptions and misinformation-related outcomes. Overall, conversational agents reliably outperform no-intervention controls but show mixed advantages over non-conversational corrections. Effects are context- and user-dependent, with moderation by demographics or dispositions. Findings highlight both the promise and boundaries of conversational agents for misinformation correction.",
         "url": "https://doi.org/10.1080/08838151.2026.2665298",
         "topics_llm": true
       },
@@ -1186,7 +1205,7 @@
           "Video games",
           "Fan engagement"
         ],
-        "abstract": "",
+        "abstract": "This study examines how superfandom, defined as an intense cognitive, emotional, and behavioral investment in sport, extends into digital environments through avatar and game identification in NBA 2K. Drawing on Extended Self Theory, embodiment, and social identity perspectives, the study investigates how superfans enact and perform their sport identity through interactive gameplay. Using survey data from 132 attendees at the NBA Summer League, the findings show that higher levels of superfandom significantly predict multiple forms of avatar identification, including similarity, embodied, and wishful identification. Among these, embodied identification emerges as a particularly strong predictor of both game identification and overall enjoyment. Mediation analyses further reveal that avatar identification serves as a key psychological mechanism linking superfandom to these outcomes. The results illustrate how interactive sport video games transform traditional spectatorship into a more immersive, participatory form of identity performance in digital contexts.",
         "url": "https://doi.org/10.1080/08838151.2026.2660922",
         "topics_llm": true
       },
@@ -1263,7 +1282,7 @@
           "Political polarization",
           "Campus activism"
         ],
-        "abstract": "",
+        "abstract": "This study examines the predictors and behavioral outcomes of hostile media perception of campus protest. Data from a national online survey of 1010 respondents during the 2024 American campus protests show that hostile media perception fueled strategic social media activity – strengthening in-group bonds and disengaging from opponents. Additionally, conspiracy beliefs moderated these effects, intensifying or reducing the impact of hostile media perception on polarized social media behavior, depending on belief strength.",
         "url": "https://doi.org/10.1080/08838151.2026.2642912",
         "topics_llm": true
       },
@@ -1419,7 +1438,7 @@
           "Affective polarization",
           "Perceptual bias"
         ],
-        "abstract": "",
+        "abstract": "Drawing on a two-wave survey conducted in Taiwan, this study examines the perceptual gaps of fake news sharing between pro-attitudinal and counter-attitudinal communicators, including both ordinary netizens and social media influencers. The findings indicate that social media news consumption increases exposure to political disagreement, which, in turn, widens the perceptual gaps of fake news sharing. In addition, the perceptual gaps concerning social media influencers are significantly associated with affective polarization. By extending the relative hostile media perception framework, this study elucidates a key mechanism through which the politicization of the “fake news” label on social media influences political polarization and democratic challenges.",
         "url": "https://doi.org/10.1080/08838151.2026.2630874",
         "topics_llm": true
       },
@@ -1457,7 +1476,7 @@
           "Citizen engagement",
           "Election discourse"
         ],
-        "abstract": "",
+        "abstract": "Three waves of a national probability-based panel survey of U.S. adults are used to assess citizens’ perceptions of the 2024 debates. A new measure of debate-generated consonance–dissonance, consisting of a combination of predebate candidate support and candidate performance perceptions, is introduced. Experiential and instrumental attitudes toward the Harris–Trump debate, along with perceptions of debate exposure affecting vote likelihood, are the study’s dependent variables. Results show the dissonance generated by Biden’s June 27th debate performance having a sizable impact on perceptions of the importance of the Harris–Trump debate, and attitudes toward the Harris–Trump debate predict vote likelihood perceptions.",
         "url": "https://doi.org/10.1080/08838151.2025.2607431",
         "topics_llm": true
       },
@@ -1477,7 +1496,7 @@
           "Biased information processing",
           "Social media"
         ],
-        "abstract": "",
+        "abstract": "This web-based experiment (N = 447) tested competing theoretical perspectives—Expectancy Violation Theory and ingroup persuasion—on how individuals process online information about a politicized issue. Republican and Democratic participants read pro- or anti-mask comments from Democrat, Republican, or unknown sources. Results partially supported the EVT perspective: Republicans were more persuaded by attitude-consistent anti-mask comments when they came from an unexpected source (a Democrat) rather than an expected one (a Republican). No evidence supported ingroup persuasion. Further analyses revealed that this expectancy-violation effect was contingent on recipients’ pre-existing attitudes, suggesting that unexpected sources exert influence primarily when message positions align with recipients’ prior beliefs. Message evaluation served as a key psychological mechanism underlying this effect, mediating the influence of unexpected sources on attitude. Findings offer theoretical insight into how expectancy violations may override identity cues in polarized online environments while still operating within the constraints of confirmation bias. The study contributes to research on biased information processing by clarifying when source-based expectancy violations enhance persuasion in social media contexts.",
         "url": "https://doi.org/10.1080/08838151.2025.2605123",
         "topics_llm": true
       },
@@ -1526,7 +1545,7 @@
         "title": "Mechanisms of Partisan News Use: The Roles of Metacognitive Effort and Enjoyment",
         "authors": [
           "Jennifer Hoewe",
-          "Diane Jackson",
+          "Diane L. Jackson",
           "Sai Datta Mikkilineni",
           "David R. Ewoldsen"
         ],
@@ -1538,7 +1557,7 @@
           "Metacognition",
           "Media psychology"
         ],
-        "abstract": "",
+        "abstract": "This study considers how the metacognitive effort and enjoyment that result from partisan news consumption impact news consumers’ intentions for future news use. Participants who experienced incoherence during partisan news use exhibited increased metacognitive effort and reduced enjoyment, which then decreased their intentions to use that partisan news source in the future. Conversely, participants who experienced coherence during partisan news use decreased their metacognitive effort which increased their enjoyment, predicting an increase in their intentions to continue using that partisan news source. These results show that metacognitive effort and enjoyment are important components of predicting and understanding partisan news use.",
         "url": "https://doi.org/10.1080/08838151.2025.2604216",
         "topics_llm": true
       },
@@ -1557,7 +1576,7 @@
           "Political participation",
           "Online harassment"
         ],
-        "abstract": "",
+        "abstract": "This study examines how gender discrimination mediates the relationship between political social media use and online political participation, and how these effects differ by gender. Using survey data from 720 U.S. adults, findings show that political social media consumption heightens both discrimination experiences and political engagement. Notably, discrimination mobilizes rather than suppresses participation, though men show nearly twice the mobilization effect as women. This gender-differentiated response challenges assumptions about who is most politically activated by discrimination experiences. The mediating role of discrimination is strongest among those with stronger gender norm beliefs, suggesting that internalized gender standards amplify discrimination-based political mobilization. These results reveal how digital political engagement emerges through gendered experiences of adversity and norm-driven responses, contributing to understanding gender dynamics in online political spaces.",
         "url": "https://doi.org/10.1080/08838151.2025.2596370",
         "topics_llm": true
       },
@@ -1614,7 +1633,7 @@
           "Health communication",
           "Racial disparities"
         ],
-        "abstract": "",
+        "abstract": "This study investigates fluctuations in COVID-19 vaccine rates between Black and White Americans by surveying a demographically proportionate sample of 2,412 individuals in April 2023. We found that dependency on social media was a significant negative correlate for vaccine confidence, regardless of race. However, moderation models uncovered a critical race-based asymmetry: institutional confidence and psychological reactance significantly moderated social media’s negative impact on vaccine resistance for White participants only. Potential floor effects among Black participants are discussed. These findings confirm the corrosive role that social media played in vaccine confidence during the pandemic while offering insight into race-based differences.",
         "url": "https://doi.org/10.1080/08838151.2025.2577410",
         "topics_llm": true
       },
@@ -1691,7 +1710,7 @@
           "Media influence",
           "Public health messaging"
         ],
-        "abstract": "",
+        "abstract": "Professional commentary in live sport broadcasts can mischaracterize concussion, potentially undermining audiences’ understanding and opinions about this commentary. An online experimental survey (N = 163) was conducted where participants saw footage of a suspected concussion with either no commentary, or high-, or low-quality commentary from a health perspective. No commentary effect was found for concussion identification or attitudes; however, there were ceiling effects on both measures, and secondary analyses revealed that the footage, and not the commentary, was most memorable to participants. Further studies are needed to determine if live broadcast commentary does play a role in public understanding of sport-concussion.",
         "url": "https://doi.org/10.1080/08838151.2025.2560383",
         "topics_llm": true
       },
@@ -1711,7 +1730,7 @@
           "Media Effects",
           "Late-night Television"
         ],
-        "abstract": "",
+        "abstract": "Drawing from Dynamic Human Centered Communication Systems Theory (DHCCST), this study examines how humor influences the acquisition of factual information from comedic news, using an experimental design with a recognition task and a psychophysiological measure. Participants paid greater attention, indicated by heart rate deceleration, to facts that followed the presentation of a joke in the main stories on Last Week Tonight with John Oliver. Humor enhanced recognition of facts presented in close proximity both before and after jokes, indicating better encoding of facts, particularly when the facts and proximal jokes were related.",
         "url": "https://doi.org/10.1080/08838151.2025.2551586",
         "topics_llm": true
       },
@@ -1748,7 +1767,7 @@
           "Audience engagement",
           "Nonverbal communication"
         ],
-        "abstract": "",
+        "abstract": "Despite extensive research on smiling, gaps remain in understanding its dynamic impact on audience responses to televised presenters. Grounded in Emotional Contagion Theory, this study investigates how a presenter’s smile influences viewer engagement, emotional mimicry, and evaluations of credibility and effectiveness. Using a controlled laboratory experiment employing a factorial within–between design, 120 participants watched video clips of TV presenters delivering identical messages either with or without smiling. Physiological arousal (electrodermal activity), attention (heart rate), emotional mimicry (via facial recognition), and self-reported perceptions were recorded. Smiling presenters elicited significantly higher arousal, greater mimicry, enhanced attention, and more favorable evaluations compared to neutral-faced presenters. Additionally, negative emotions such as disgust and contempt emerged in response to non-smiling presenters, supporting the broader applicability of emotional contagion. Gender differences showed that female viewers displayed stronger mimicry and rated smiling presenters more positively. The study offers novel insights into nonverbal communication in media contexts and underscores the strategic value of facial expressions for enhancing the perceived credibility and effectiveness of on-screen communicators.",
         "url": "https://doi.org/10.1080/08838151.2025.2544559",
         "topics_llm": true
       },
@@ -1824,7 +1843,7 @@
           "Young adults",
           "Political attitudes"
         ],
-        "abstract": "",
+        "abstract": "While democratic opinion formation relies on citizens receiving vital information from the news, an increasing number of people consistently consume very little of it. To address this concern, we tracked the mobile news consumption of 382 young adults in Switzerland and combined it with survey data of the participants to determine the effect of topical interests, political attitudes, and media consumption habits on news usage. We found that interest in domestic politics was a strong predictor of news consumption. Additional predictors within our 18–25-year-old participant group were age and time spent online. These findings have implications for policymakers; fostering an informed citizenry may be more effective when targeting the underlying interest in politics rather than directly attempting to boost news use.",
         "url": "https://doi.org/10.1080/08838151.2025.2535389",
         "topics_llm": true
       },
@@ -1866,7 +1885,7 @@
           "Short-form video",
           "Person-centered analysis"
         ],
-        "abstract": "",
+        "abstract": "Grounded in ecological techno-subsystem theory, this study examined the impact of parental mediation on adolescent short-form video addiction (SFVA), and the mediating role of the parent-child relationship. A survey was conducted among 1326 Chinese middle school students. The variable-centered analyses revealed that the parent-child relationship mediated the influence of parental supervision, modeling, and involvement on SFVA. Person-centered analyses identified six distinct parental mediation profiles; compared to the control-oriented profile, all others significantly influenced SFVA via the parent-child relationship. These findings provide valuable insights into a more comprehensive understanding of the multifaceted impacts and mechanisms of parental mediation on SFVA.",
         "url": "https://doi.org/10.1080/08838151.2025.2535388",
         "topics_llm": true
       },
@@ -1888,7 +1907,7 @@
           "Political participation",
           "Political polarization"
         ],
-        "abstract": "",
+        "abstract": "As podcasts become more prevalent in contemporary American media diets, it is important to more deeply examine their role as a source of political news and information. The current research examines the relationship between political podcast usage among adults in the United States and political participation. Survey results suggest a correlation between political podcast use and high-effort and low-effort forms of political participation. Specifically, use of liberal podcasts was associated with higher levels of political participation among all participants, but use of conservative podcasts was only associated with low-effort activities. The findings speak to the significance podcasts play in the partisan media landscape and the asymmetry of partisan media in the country.",
         "url": "https://doi.org/10.1080/08838151.2025.2533793",
         "topics_llm": true
       },
@@ -1906,26 +1925,8 @@
           "Armed Forces Radio Television Service",
           "War propaganda"
         ],
-        "abstract": "",
+        "abstract": "Hot Mics and TV Lights by Marc Phillip Yablonka with Rick Frederickson is an oral history of the American Forces Vietnam Network (AFVN) during the Vietnam War. Built around interviews with 37 peopl...",
         "url": "https://doi.org/10.1080/08838151.2025.2533789",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/08838151.2025.2525136",
-        "title": "<b> <i>Filterworld: How algorithms flattened culture</i> </b> .",
-        "authors": [
-          "Ruixian Li"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Algorithmic curation",
-          "Cultural homogenization",
-          "Social media algorithms",
-          "Digital culture"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/08838151.2025.2525136",
         "topics_llm": true
       }
     ],
@@ -1968,7 +1969,7 @@
           "AI hallucination",
           "Privacy concerns"
         ],
-        "abstract": "",
+        "abstract": "This study extends the Technology Acceptance Model for Generative AI (GAI) by incorporating perceived user empowerment (PUE) and two risk factors – privacy concerns and hallucination risks. A survey of 783 U.S. GAI users revealed that PUE directly influenced continuance intention (CI) and willingness to pay for premium service (PAY) and indirectly affected CI through attitude toward AI (ATTAI). Perceived ease of use was indirectly linked to CI via ATTAI. Privacy concerns negatively affected CI, while hallucination risks negatively influenced ATTAI, which reduced CI. The findings underscore the role of PUE and risk perceptions in CI and PAY for GAI.",
         "url": "https://doi.org/10.1080/08838151.2025.2487679",
         "topics_llm": true
       },
@@ -2013,6 +2014,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/08838151.2024.2360596",
+        "title": "Silencing Online Incivility: Examining the Effects of Impoliteness and Intolerance in Online Political Discussions",
+        "authors": [
+          "Shuning Lu",
+          "Hai Liang"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Online incivility",
+          "Political discussion",
+          "Silencing behavior",
+          "Opinion polarization"
+        ],
+        "abstract": "Drawing on silencing and online incivility literature, this study examined how people evaluate and respond to impolite and intolerant online opinions in different discussion contexts. Based on a between-subject online survey experiment in the U.S. (N = 959), we found that people perceived impoliteness and intolerance as uncivil, leading to intentions to silence others. The results also revealed that intolerance resulted in higher perceived incivility and silencing intentions compared to impoliteness. Furthermore, the direct effects of impoliteness and intolerance on perceived incivility and their indirect effects on silencing intentions through perceived incivility were stronger in agreeing discussions than in disagreeing ones. However, social endorsement cues did not moderate the mechanisms.",
+        "url": "https://doi.org/10.1080/08838151.2024.2360596",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/08838151.2025.2495803",
         "title": "From Podcasts to Protests: Examining the Influence of Podcasts and Misinformation on Contentious Political Participation",
         "authors": [
@@ -2029,7 +2049,7 @@
           "Political participation",
           "Social movements"
         ],
-        "abstract": "",
+        "abstract": "As distrust in mainstream media rises, audiences increasingly turn toward alternative news sources. This study examines the impact of alternative non-mainstream podcast news use on contentious political participation through misinformation belief and sharing. Findings from a sample of US adults (N = 797) indicate that alternative non-mainstream podcast news use is significantly associated with misinformation belief and sharing. In addition, alternative non-mainstream podcast news use is related to an increase in contentious political participation through misinformation sharing only. Ultimately, we find that political identity strength moderates the relationship between alternative non-mainstream podcast news use and contentious political participation only through misinformation belief.",
         "url": "https://doi.org/10.1080/08838151.2025.2495803",
         "topics_llm": true
       },
@@ -2056,25 +2076,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/08838151.2024.2360596",
-        "title": "Silencing Online Incivility: Examining the Effects of Impoliteness and Intolerance in Online Political Discussions",
-        "authors": [
-          "Shuning Lu",
-          "Hai Liang"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Online incivility",
-          "Political discussion",
-          "Silencing behavior",
-          "Opinion polarization"
-        ],
-        "abstract": "Drawing on silencing and online incivility literature, this study examined how people evaluate and respond to impolite and intolerant online opinions in different discussion contexts. Based on a between-subject online survey experiment in the U.S. (N = 959), we found that people perceived impoliteness and intolerance as uncivil, leading to intentions to silence others. The results also revealed that intolerance resulted in higher perceived incivility and silencing intentions compared to impoliteness. Furthermore, the direct effects of impoliteness and intolerance on perceived incivility and their indirect effects on silencing intentions through perceived incivility were stronger in agreeing discussions than in disagreeing ones. However, social endorsement cues did not moderate the mechanisms.",
-        "url": "https://doi.org/10.1080/08838151.2024.2360596",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/08838151.2024.2383411",
         "title": "Politicized and Paranoid? Assessing Attitudinal Predictors of Alternative News Consumption",
         "authors": [
@@ -2093,6 +2094,26 @@
         ],
         "abstract": "The study of right-wing alternative news sources has moved to the center of scholarly attention recently. Such sources cater to news consumers characterized by extreme political views and mistrust toward mainstream news. However, research into the predictors of alternative news consumption is still scarce. We approach this gap by combining online tracking and survey data from 2,009 German panel participants. We find conspiratorial thinking and pro-Russian stance to be predictors of alternative news consumption, both in absolute and in relative terms. Our analysis thus contributes to a more nuanced understanding of alternative news consumers.",
         "url": "https://doi.org/10.1080/08838151.2024.2383411",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/08838151.2025.2487050",
+        "title": "Perceived Risk and Trust in News Sources: A Multi-Group Analysis of Deepfakes and AI-Generated Misinformation",
+        "authors": [
+          "Xintong Zhang",
+          "Ning Lou",
+          "M. Li"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Deepfakes",
+          "Misinformation",
+          "News credibility",
+          "Trust perception"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/08838151.2025.2487050",
         "topics_llm": true
       }
     ]

@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-06-08T10:51:56Z",
-  "trending_from": "2024-06-08",
+  "updated_at": "2026-06-15T12:11:40Z",
+  "trending_from": "2024-06-15",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4130,
+        "citation_count": 4138,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2443,
+        "citation_count": 2456,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1786,
+        "citation_count": 1796,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1053,
+        "citation_count": 1060,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 892,
+        "citation_count": 894,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 805,
+        "citation_count": 806,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Myers"
         ],
         "year": 2011,
-        "citation_count": 455,
+        "citation_count": 456,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 428,
+        "citation_count": 429,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 419,
+        "citation_count": 421,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 381,
+        "citation_count": 386,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 227,
+        "citation_count": 228,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -305,7 +305,7 @@
           "Michael Sedlmair"
         ],
         "year": 2018,
-        "citation_count": 221,
+        "citation_count": 222,
         "topics": [
           "Sentiment analysis",
           "Word embeddings",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 216,
+        "citation_count": 218,
         "topics": [
           "News framing",
           "Computational methods",
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 197,
+        "citation_count": 198,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 187,
+        "citation_count": 188,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -406,7 +406,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 178,
+        "citation_count": 179,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 175,
+        "citation_count": 177,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -458,6 +458,30 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilàm Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 150,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2021.1968361",
         "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
         "authors": [
@@ -475,30 +499,6 @@
         ],
         "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
         "url": "https://doi.org/10.1080/19312458.2021.1968361",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilàm Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 147,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       },
       {
@@ -551,7 +551,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2019,
-        "citation_count": 135,
+        "citation_count": 136,
         "topics": [
           "Sentiment analysis",
           "Automated content analysis",
@@ -589,7 +589,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 131,
+        "citation_count": 132,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -607,7 +607,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 127,
+        "citation_count": 128,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 120,
+        "citation_count": 121,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -707,7 +707,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 112,
+        "citation_count": 113,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -758,6 +758,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2022.2109608",
+        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "authors": [
+          "Irene I. van Driel",
+          "Anastasia Giachanou",
+          "J. Loes Pouwels",
+          "Laura Boeschoten",
+          "Ine Beyens",
+          "Patti M. Valkenburg"
+        ],
+        "year": 2022,
+        "citation_count": 98,
+        "topics": [
+          "Data donations",
+          "Social media measurement",
+          "Digital data collection",
+          "Adolescent online behavior"
+        ],
+        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
+        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2016.1271113",
         "title": "Measuring Trust in the Press in a Changing Media Environment",
         "authors": [
@@ -776,29 +799,6 @@
         ],
         "abstract": "The only long term trend data on trust in the American press comes from the General Social Survey (GSS). The erosion of trust in the press as measured by the GSS indicator is indisputable, but its implications for the functioning of American democracy depend on what, precisely, is being measured. In this study we use an experimental design embedded in a representative national probability sample to shed light on what people are thinking of when they say they trust or distrust the American press. Are they thinking about the sources they themselves use for news? The sources that are most popular with the population at large? An average of all possible media sources? We find that individuals express much greater trust in the press when they are asked to consider specific news sources than when they are asked to evaluate a generic news media. Our results suggest that an accessibility bias combined with the proliferation of news sources in recent years may lead individuals to think of distrusted sources when asked to answer generic media trust questions. We therefore argue that different measurement strategies are needed to successfully address trust in the press in the current news environment.",
         "url": "https://doi.org/10.1080/19312458.2016.1271113",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2022.2109608",
-        "title": "Promises and Pitfalls of Social Media Data Donations",
-        "authors": [
-          "Irene I. van Driel",
-          "Anastasia Giachanou",
-          "J. Loes Pouwels",
-          "Laura Boeschoten",
-          "Ine Beyens",
-          "Patti M. Valkenburg"
-        ],
-        "year": 2022,
-        "citation_count": 96,
-        "topics": [
-          "Data donations",
-          "Social media measurement",
-          "Digital data collection",
-          "Adolescent online behavior"
-        ],
-        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
-        "url": "https://doi.org/10.1080/19312458.2022.2109608",
         "topics_llm": true
       },
       {
@@ -865,7 +865,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 86,
+        "citation_count": 87,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -932,6 +932,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2014.903391",
+        "title": "Conceptual, Empirical, and Practical Issues in Developing Valid Measures of Public Communication Campaign Exposure",
+        "authors": [
+          "Jeff Niederdeppe"
+        ],
+        "year": 2014,
+        "citation_count": 79,
+        "topics": [
+          "Campaign exposure measurement",
+          "Public communication campaigns",
+          "Measurement validity",
+          "Health communication evaluation"
+        ],
+        "abstract": "The ability to validly measure campaign exposure is central to claims of public communication campaign effectiveness. Surprisingly, scholars have paid remarkably little attention to questions about the validity of various ways to measure campaign exposure. This paper begins to address this gap by outlining conceptual, empirical, and practical issues in developing valid measures of campaign exposure. First, I offer a brief definition of measurement validity and describe a variety of measurement options utilized in recent, large–scale health communication campaign evaluations. Next, I outline conceptual and empirical assumptions behind these various measurement strategies. I continue with a review of research that has applied validation criteria to specific measures of campaign exposure. I conclude by offering a series of guidelines for exposure measurement and validation practices based on the evidence to date, which I caveat by describing tensions and emergent issues that researchers will need to consider in future work.",
+        "url": "https://doi.org/10.1080/19312458.2014.903391",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312450709336663",
         "title": "The Role of Numbers and Statistics within Conversation Analysis",
         "authors": [
@@ -968,24 +986,6 @@
         ],
         "abstract": "The aim of most population-based studies of media is to relate a specific exposure to an outcome of interest. A research program has been developed that evaluates exposure to different components of movies in an attempt of assess the association of such exposure with the adoption of substance use during adolescence. To assess exposure to movie substance use, one must measure both viewing time and content. In developing the exposure measure, the study team was interested in circumventing a common problem in exposure measurement, where measures often conflate exposure to media with attention to media. Our aim in this paper is to present a validated measure of exposure to entertainment media, the Beach method, which combines recognition of a movie title with content analysis of the movie for substance use, to generate population based measures of exposure to substance use in this form of entertainment.",
         "url": "https://doi.org/10.1080/19312450802063404",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2014.903391",
-        "title": "Conceptual, Empirical, and Practical Issues in Developing Valid Measures of Public Communication Campaign Exposure",
-        "authors": [
-          "Jeff Niederdeppe"
-        ],
-        "year": 2014,
-        "citation_count": 78,
-        "topics": [
-          "Campaign exposure measurement",
-          "Public communication campaigns",
-          "Measurement validity",
-          "Health communication evaluation"
-        ],
-        "abstract": "The ability to validly measure campaign exposure is central to claims of public communication campaign effectiveness. Surprisingly, scholars have paid remarkably little attention to questions about the validity of various ways to measure campaign exposure. This paper begins to address this gap by outlining conceptual, empirical, and practical issues in developing valid measures of campaign exposure. First, I offer a brief definition of measurement validity and describe a variety of measurement options utilized in recent, large–scale health communication campaign evaluations. Next, I outline conceptual and empirical assumptions behind these various measurement strategies. I continue with a review of research that has applied validation criteria to specific measures of campaign exposure. I conclude by offering a series of guidelines for exposure measurement and validation practices based on the evidence to date, which I caveat by describing tensions and emergent issues that researchers will need to consider in future work.",
-        "url": "https://doi.org/10.1080/19312458.2014.903391",
         "topics_llm": true
       }
     ],
@@ -1045,7 +1045,7 @@
           "Data practice",
           "Demographic fluidity"
         ],
-        "abstract": "",
+        "abstract": "Applied data analysts who recognize the power of numbers express concern for erasing smaller demographic groups with their statistical analyses. Data analysts ought to strive for representative data categories when numbers impact participants’ lives, yet underrepresented groupmembers are often lumped into nonrepresentative categories or excluded from analysis. We conducted interviews with 31 applied data analysts to thematically investigate how they prioritized group inclusion. We learned analysts employed mostly a QuantCrit approach toward social group inclusion by (a) disaggregating demographic social groups when appropriate, (b) educating leadership, (c) acknowledging demographic missingness and error, (d) providing response-fluid survey options, (e) engaging in reflexivity, and (f) codesigning demographic measures. They also employed qualitative methods to present marginalized groups’ stories and counterstories. Contributions are five-fold: First, the results provide evidence that qualitative data representing smaller demographic groups were perceived as more effective in attracting funding and influencing change than numerical data. Second, inclusion conceptual boundaries are explored by studying professionals who confront normative quantitative data practices. Third, applied professionals treated demographic measurement structure with flexibility to create culturally and locally relevant demographic measures. Fourth, we share the research utility of QuantCrit tenets. Last, and most importantly, reflexivity is required at every data stage.",
         "url": "https://doi.org/10.1080/19312458.2026.2652240",
         "topics_llm": true
       },
@@ -1147,7 +1147,7 @@
           "Research methodology",
           "Algorithmic bias"
         ],
-        "abstract": "",
+        "abstract": "Computational Social Science (CSS) increasingly engages in critical discussions about bias in and through computational methods. Two developments drive this shift: first, the recognition of bias as a societal problem, as flawed CSS methods in socio-technical systems can perpetuate structural inequalities; and second, the field’s growing methodological resources, which create not only the opportunity but also the responsibility to confront bias. In this editorial to our Special Issue on CSS and bias, we introduce the contributions and outline a research agenda. In defining bias, we emphasize the importance of embracing epistemological pluralism while balancing the need for standardization with methodological diversity. Detecting bias requires stronger integration of bias detection into validation procedures and the establishment of shared metrics and thresholds across studies. Finally, addressing bias involves adapting established and emerging error-correction strategies from social science traditions to CSS, as well as leveraging bias as an analytical resource for revealing structural inequalities in society. Moving forward, progress in defining, detecting, and addressing bias will require both bottom-up engagement by researchers and top-down institutional support. This Special Issue positions bias as a central theme in CSS – one that the field now has both the tools and the obligation to address.",
         "url": "https://doi.org/10.1080/19312458.2025.2575468",
         "topics_llm": true
       },
@@ -1252,7 +1252,7 @@
           "Media representation",
           "Semantic clustering"
         ],
-        "abstract": "Understanding visual narratives is crucial for examining the evolving dynamics of media representation. This study introduces VisTopics, a computational framework designed to analyze large-scale visual datasets through an end-to-end pipeline encompassing frame extraction, deduplication, and semantic clustering. Applying VisTopics to a dataset of 452 NBC News videos resulted in reducing 11,070 frames to 6,928 deduplicated frames, which were then semantically analyzed to uncover 35 topics ranging from political events to environmental crises. By integrating Latent Dirichlet Allocation with caption-based semantic analysis, VisTopics demonstrates its potential to unravel patterns in visual framing across diverse contexts. This approach enables longitudinal studies and cross-platform comparisons, shedding light on the intersection of media, technology, and public discourse. The study validates the method's reliability through human coding accuracy metrics and emphasizes its scalability for communication research. By bridging the gap between visual representation and semantic meaning, VisTopics provides a transformative tool for advancing the methodological toolkit in computational media studies. Future research may leverage VisTopics for comparative analyses across media outlets or geographic regions, offering insights into the shifting landscapes of media narratives and their societal implications.",
+        "abstract": "Understanding visual narratives is essential for analyzing media representation. This paper introduces VisTopics, a computational framework for analyzing large-scale visual datasets through frame extraction, deduplication, image captioning, and topic modeling. In Study 1, we apply VisTopics to 452 NBC News videos, reducing 11,070 frames to 6,928 unique images and identifying 35 latent topics – ranging from political unrest to environmental disasters – using Latent Dirichlet Allocation (LDA) on AI-generated captions. Study 2 extends this approach to 7,290 socially mediated news images, demonstrating the method’s scalability beyond video. We validate the reliability of VisTopics through human-coded accuracy, internal coherence metrics, and comparative replication of traditional image clustering methods. Our findings show that caption-based topic modeling captures semantically coherent groupings while enabling interpretable, human-readable outputs. By bridging the gap between visual representation and semantic meaning, VisTopics provides a transformative tool for advancing the methodological toolkit in computational media studies. Future research may leverage VisTopics for comparative analyses across media outlets or geographic regions, offering insights into the shifting landscapes of media narratives and their societal implications.",
         "url": "https://doi.org/10.1080/19312458.2025.2549707",
         "topics_llm": true
       },
@@ -1273,7 +1273,7 @@
           "Platform APIs",
           "Selective exposure"
         ],
-        "abstract": "Measurements of political polarization online have so far largely focused on visible traces accessible through platform APIs, neglecting invisible traces that are not recorded or otherwise unavailable to researchers, which can reveal key aspects of political engagement online. Our study addresses this gap by investigating the polarization measurement bias that arises when only visible engagement is analyzed, uncovering disparities at both the user and channel levels. Analyzing a combined dataset that links survey responses with YouTube digital traces through data donation from a sample of Hungarian Internet users (=758), we find that users who engage visibly through commenting are more politically polarized, and exhibit a greater level of selective exposure to content than users who engage invisibly through viewing. Moreover, ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, relying solely on public comment data may simplify, even overstate the segregation of political channels. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers on YouTube. We highlight the benefits of using combined datasets to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
+        "abstract": "Measurements of political polarization online have so far largely focused on visible traces accessible through platform APIs, neglecting invisible traces that are not recorded or otherwise unavailable to researchers, which can reveal key aspects of political engagement online. Our study addresses this gap by investigating the polarization measurement bias that arises when only visible engagement is analyzed, uncovering disparities at both the user and channel levels. Analyzing a combined dataset that links survey responses with YouTube digital traces through data donation from a sample of Hungarian Internet users (N=758), we find that users who engage visibly through commenting are more politically polarized, and exhibit a greater level of selective exposure to content than users who engage invisibly through viewing. Moreover, ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, relying solely on public comment data may simplify, even overstate the segregation of political channels. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers on YouTube. We highlight the benefits of using combined datasets to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
         "url": "https://doi.org/10.1080/19312458.2025.2542725",
         "topics_llm": true
       },
@@ -1319,7 +1319,7 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping; specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants' logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user's environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (insitu) and content scraped using the URLs of participants’ logged visits (exsitu) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
@@ -1375,7 +1375,7 @@
           "Denise Haunani Solomon",
           "Graham D. Bodie",
           "Susanne M. Jones",
-          "Nilàm Ram"
+          "Nilám Ram"
         ],
         "year": 2024,
         "citation_count": 5,
@@ -1385,7 +1385,7 @@
           "State space grids",
           "Nonlinear dynamics"
         ],
-        "abstract": "",
+        "abstract": "This paper illustrates how to implement state space grid analysis for analyzing the back-and-forth multi-turn dynamics that manifest in dyadic conversations. In doing so, we contribute to a dynamic dyadic systems perspective that seeks to advance theories about individual and relational antecedents and outcomes of interpersonal communication through the articulation and study of dyadic interaction dynamics. We first review state space grid terminology, data requirements, visualizations, and quantifications, and how the use of state space grid analysis maps to conversation-related research questions. We then illustrate the application of state space grids to the examination of dyadic support conversations; specifically, we demonstrate how this method can be used to derive parameters that operationalize the use of or movement in the state space and to examine between-dyad differences in movement through the state space. Empirically, we found that conversation behavior flexibility was related to characteristics of the dyadic relationship but not to support receiver outcomes, and that our operationalizations of conversation attractors were related to neither relational characteristics nor support receiver outcomes. We conclude with a discussion of theoretical, methodological, and practical issues that researchers can consider when using state space grids in the analysis of conversation dynamics.",
         "url": "https://doi.org/10.1080/19312458.2024.2413973",
         "topics_llm": true
       },
@@ -1459,14 +1459,14 @@
           "Felicia Löecherbach"
         ],
         "year": 2024,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Web search behavior",
           "Political communication",
           "Computational methods",
           "Digital news consumption"
         ],
-        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (<i>N</i><sub>users</sub> = 315; <i>N</i><sub>records</sub> = 9,868,209; <i>N</i><sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
+        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (Nusers = 315; Nrecords = 9,868,209; Nsearches = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
         "topics_llm": true
       },
@@ -1497,7 +1497,7 @@
           "Natalja Menold"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 7,
         "topics": [
           "Measurement reliability",
           "Coefficient alpha",
@@ -1561,7 +1561,7 @@
           "Marko Bachl"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Communication science",
           "Research methodology",
@@ -1709,7 +1709,7 @@
           "Academic conventions",
           "Interpersonal communication"
         ],
-        "abstract": "",
+        "abstract": "The editors of the special issue are grateful to numerous people who contributed in essential ways. First and foremost, we acknowledge the encouragement and support of Dr. Lijiang Shen, editor of C...",
         "url": "https://doi.org/10.1080/19312458.2023.2276542",
         "topics_llm": true
       },
@@ -1742,7 +1742,7 @@
           "Sabine Trepte"
         ],
         "year": 2023,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Privacy",
           "Scale development",
@@ -1789,7 +1789,7 @@
           "Nilàm Ram"
         ],
         "year": 2023,
-        "citation_count": 12,
+        "citation_count": 14,
         "topics": [
           "Dyadic communication",
           "Dynamic systems theory",
@@ -1852,7 +1852,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 26,
+        "citation_count": 27,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -1876,7 +1876,7 @@
           "William A. Sethares"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Multimodal analysis",
           "Political debate",
@@ -1897,7 +1897,7 @@
           "Jorlanditha T. Austin"
         ],
         "year": 2023,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Conversational analysis",
           "Parent-adolescent communication",
@@ -1957,7 +1957,7 @@
           "Jennifer S. Beer"
         ],
         "year": 2023,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Conflict communication",
           "Aging relationships",
@@ -2050,7 +2050,7 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping; specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants' logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user's environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (insitu) and content scraped using the URLs of participants’ logged visits (exsitu) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
@@ -2065,14 +2065,14 @@
           "Felicia Löecherbach"
         ],
         "year": 2024,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Web search behavior",
           "Political communication",
           "Computational methods",
           "Digital news consumption"
         ],
-        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (<i>N</i><sub>users</sub> = 315; <i>N</i><sub>records</sub> = 9,868,209; <i>N</i><sub>searches</sub> = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
+        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (Nusers = 315; Nrecords = 9,868,209; Nsearches = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
         "url": "https://doi.org/10.1080/19312458.2024.2363776",
         "topics_llm": true
       },
@@ -2084,7 +2084,7 @@
           "Denise Haunani Solomon",
           "Graham D. Bodie",
           "Susanne M. Jones",
-          "Nilàm Ram"
+          "Nilám Ram"
         ],
         "year": 2024,
         "citation_count": 5,
@@ -2094,7 +2094,7 @@
           "State space grids",
           "Nonlinear dynamics"
         ],
-        "abstract": "",
+        "abstract": "This paper illustrates how to implement state space grid analysis for analyzing the back-and-forth multi-turn dynamics that manifest in dyadic conversations. In doing so, we contribute to a dynamic dyadic systems perspective that seeks to advance theories about individual and relational antecedents and outcomes of interpersonal communication through the articulation and study of dyadic interaction dynamics. We first review state space grid terminology, data requirements, visualizations, and quantifications, and how the use of state space grid analysis maps to conversation-related research questions. We then illustrate the application of state space grids to the examination of dyadic support conversations; specifically, we demonstrate how this method can be used to derive parameters that operationalize the use of or movement in the state space and to examine between-dyad differences in movement through the state space. Empirically, we found that conversation behavior flexibility was related to characteristics of the dyadic relationship but not to support receiver outcomes, and that our operationalizations of conversation attractors were related to neither relational characteristics nor support receiver outcomes. We conclude with a discussion of theoretical, methodological, and practical issues that researchers can consider when using state space grids in the analysis of conversation dynamics.",
         "url": "https://doi.org/10.1080/19312458.2024.2413973",
         "topics_llm": true
       }

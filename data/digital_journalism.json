@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-06-08T10:51:53Z",
-  "trending_from": "2024-06-08",
+  "updated_at": "2026-06-15T12:11:32Z",
+  "trending_from": "2024-06-15",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2093,
+        "citation_count": 2099,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -50,7 +50,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 678,
+        "citation_count": 680,
         "topics": [
           "Algorithmic transparency",
           "Platform accountability",
@@ -106,7 +106,7 @@
           "Mark Coddington"
         ],
         "year": 2014,
-        "citation_count": 481,
+        "citation_count": 482,
         "topics": [
           "Journalism",
           "Quantitative methods",
@@ -125,7 +125,7 @@
           "Michael Koliska"
         ],
         "year": 2016,
-        "citation_count": 479,
+        "citation_count": 480,
         "topics": [
           "Algorithmic transparency",
           "News media",
@@ -165,7 +165,7 @@
           "Hans‐Bernd Brosius"
         ],
         "year": 2017,
-        "citation_count": 388,
+        "citation_count": 389,
         "topics": [
           "Filter bubbles",
           "Recommender systems",
@@ -174,6 +174,24 @@
         ],
         "abstract": "In offering personalized content geared toward users’ individual interests, recommender systems are assumed to reduce news diversity and thus lead to partial information blindness (i.e., filter bubbles). We conducted two exploratory studies to test the effect of both implicit and explicit personalization on the content and source diversity of Google News. Except for small effects of implicit personalization on content diversity, we found no support for the filter-bubble hypothesis. We did, however, find a general bias in that Google News over-represents certain news outlets and under-represents other, highly frequented, news outlets. The results add to a growing body of evidence, which suggests that concerns about algorithmic filter bubbles in the context of online news might be exaggerated.",
         "url": "https://doi.org/10.1080/21670811.2017.1338145",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2015.1096748",
+        "title": "Mapping the field of Algorithmic Journalism",
+        "authors": [
+          "Konstantin Dörr"
+        ],
+        "year": 2015,
+        "citation_count": 378,
+        "topics": [
+          "Algorithmic journalism",
+          "Natural language generation",
+          "News production",
+          "Automation"
+        ],
+        "abstract": "With software automatically producing texts in natural language from structured data, the evolution of natural language generation (NLG) is changing traditional news production. The paper first addresses the question whether NLG is able to perform the functions of professional journalism on a technical level. A technological potential analysis therefore uncovers the technological limitations and possibilities of NLG, accompanied by an institutional classification following Weischenberg, Malik, and Scholl. Overall, NLG is explained within the framework of algorithmic selection and along its technological functionality. The second part of the paper focuses on the economic potential of NLG in journalism as well as indicating its institutionalization on an organizational level. Thirteen semi-structured interviews with representatives of the most relevant service providers detail the current market situation. Following Heuss, the development of the NLG market is classified into phases. In summary, although the market for NLG in journalism is still at an early stage of market expansion, with only a few providers and journalistic products available, NLG is able to perform tasks of professional journalism at a technical level. The analysis therefore sets the basis to analyze upcoming challenges for journalism research at the intersection of technology and big data.",
+        "url": "https://doi.org/10.1080/21670811.2015.1096748",
         "topics_llm": true
       },
       {
@@ -193,24 +211,6 @@
         ],
         "abstract": "Trust has long been considered an important factor that influences people’s relationship with news. However, the increase in the volume of information available online, together with the emergence of new tools and services that act as intermediaries and enable interactivity around the news, may have changed this relationship. Using Reuters Institute Digital News Report survey data (N = 21,524), this study explores the impact of individual trust in the news media on source preferences and online news participation behaviour, in particular sharing and commenting, across 11 countries. The results show that those with low levels of trust tend to prefer non-mainstream news sources like social media, blogs, and digital-born providers, and are more likely to engage in various forms of online news participation. These associations tend to be strongest in northern European countries, but are weaker elsewhere. Seeking alternative views and attempting to validate the credibility of news may be among the motivations behind these associations.",
         "url": "https://doi.org/10.1080/21670811.2017.1279979",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2015.1096748",
-        "title": "Mapping the field of Algorithmic Journalism",
-        "authors": [
-          "Konstantin Dörr"
-        ],
-        "year": 2015,
-        "citation_count": 376,
-        "topics": [
-          "Algorithmic journalism",
-          "Natural language generation",
-          "News production",
-          "Automation"
-        ],
-        "abstract": "With software automatically producing texts in natural language from structured data, the evolution of natural language generation (NLG) is changing traditional news production. The paper first addresses the question whether NLG is able to perform the functions of professional journalism on a technical level. A technological potential analysis therefore uncovers the technological limitations and possibilities of NLG, accompanied by an institutional classification following Weischenberg, Malik, and Scholl. Overall, NLG is explained within the framework of algorithmic selection and along its technological functionality. The second part of the paper focuses on the economic potential of NLG in journalism as well as indicating its institutionalization on an organizational level. Thirteen semi-structured interviews with representatives of the most relevant service providers detail the current market situation. Following Heuss, the development of the NLG market is classified into phases. In summary, although the market for NLG in journalism is still at an early stage of market expansion, with only a few providers and journalistic products available, NLG is able to perform tasks of professional journalism at a technical level. The analysis therefore sets the basis to analyze upcoming challenges for journalism research at the intersection of technology and big data.",
-        "url": "https://doi.org/10.1080/21670811.2015.1096748",
         "topics_llm": true
       },
       {
@@ -256,7 +256,7 @@
           "Natali Helberger"
         ],
         "year": 2019,
-        "citation_count": 341,
+        "citation_count": 343,
         "topics": [
           "News recommenders",
           "Democratic media",
@@ -333,7 +333,7 @@
           "Silvio Waisbord"
         ],
         "year": 2020,
-        "citation_count": 287,
+        "citation_count": 288,
         "topics": [
           "Online harassment",
           "Journalist safety",
@@ -445,7 +445,7 @@
           "Thomas Schmidt"
         ],
         "year": 2019,
-        "citation_count": 264,
+        "citation_count": 265,
         "topics": [
           "Automated journalism",
           "Human-Machine Communication",
@@ -454,6 +454,24 @@
         ],
         "abstract": "In this article, we argue that journalism studies, and particularly research focused on automated journalism, has much to learn from Human-Machine Communication (HMC), an emerging conceptual framework and empirically grounded research domain that has formed in response to the growing number of technologies—such as chatbots, social bots, and other communicative agents enabled by developments in artificial intelligence (AI)—that are designed to function as message sources, rather than as message channels. While the underlying, but often unquestioned, theoretical assumption in most communication research is that humans are communicators and machines are mediators, within HMC this assumption is challenged by asking what happens when a machine steps into this formerly human role. More than merely a semantic move, this theoretical reorientation opens up new questions about who or what constitutes a communicator, how social relationships are established through exchange among humans and machines, and what the resulting implications may be for self, society, and communication. In the particular case of automated journalism—in which software assumes a news-writing role that has long been considered a distinctly central, and indeed human, element of journalism—the introduction of HMC offers a generative starting point for theory development, advancing our understanding of humans, machines, and news for an oncoming era of AI technologies.",
         "url": "https://doi.org/10.1080/21670811.2019.1577147",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2016.1178592",
+        "title": "From Editors to Algorithms",
+        "authors": [
+          "Michael Ann DeVito"
+        ],
+        "year": 2016,
+        "citation_count": 265,
+        "topics": [
+          "Algorithmic curation",
+          "News Feed",
+          "Editorial gatekeeping",
+          "Social media platforms"
+        ],
+        "abstract": "Facebook’s News Feed is an emerging, influential force in our personal information flows, especially where news information is concerned. However, as the News Feed’s story selection mechanism starts to supplant traditional editorial story selection, we have no window into its story curation process that is parallel to our extensive knowledge of the news values that drive traditional editorial curation. The sensitive, trade-secret nature of the News Feed and its constant updates and modifications make a traditional, computer science-based examination of this algorithmic giant difficult, if not impossible. This study takes an alternative approach, using a content analysis of Facebook’s own patents, press releases, and Securities and Exchange Commission filings to identify a core set of algorithmic values that drive story selection on the Facebook News Feed. Informed by the principles of material culture analysis, it ranks these values to create a window into Facebook’s curation process, and compares and contrasts Facebook’s story selection values with traditional news values, examining the possible consequences of one set of values supplanting the other. The study finds a set of nine News Feed values that drive story selection: friend relationships, explicitly expressed user interests, prior user engagement, implicitly expressed user preferences, post age, platform priorities, page relationships, negatively expressed preferences, and content quality. It also finds evidence that friend relationships act as an overall influence on all other story selection values.",
+        "url": "https://doi.org/10.1080/21670811.2016.1178592",
         "topics_llm": true
       },
       {
@@ -475,24 +493,6 @@
         ],
         "abstract": "Prompted by the ongoing development of content personalization by social networks and mainstream news brands, and recent debates about balancing algorithmic and editorial selection, this study explores what audiences think about news selection mechanisms and why. Analysing data from a 26-country survey (N = 53,314), we report the extent to which audiences believe story selection by editors and story selection by algorithms are good ways to get news online and, using multi-level models, explore the relationships that exist between individuals’ characteristics and those beliefs. The results show that, collectively, audiences believe algorithmic selection guided by a user’s past consumption behaviour is a better way to get news than editorial curation. There are, however, significant variations in these beliefs at the individual level. Age, trust in news, concerns about privacy, mobile news access, paying for news, and six other variables had effects. Our results are partly in line with current general theory on algorithmic appreciation, but diverge in our findings on the relative appreciation of algorithms and experts, and in how the appreciation of algorithms can differ according to the data that drive them. We believe this divergence is partly due to our study’s focus on news, showing algorithmic appreciation has context-specific characteristics.",
         "url": "https://doi.org/10.1080/21670811.2018.1493936",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2016.1178592",
-        "title": "From Editors to Algorithms",
-        "authors": [
-          "Michael Ann DeVito"
-        ],
-        "year": 2016,
-        "citation_count": 263,
-        "topics": [
-          "Algorithmic curation",
-          "News Feed",
-          "Editorial gatekeeping",
-          "Social media platforms"
-        ],
-        "abstract": "Facebook’s News Feed is an emerging, influential force in our personal information flows, especially where news information is concerned. However, as the News Feed’s story selection mechanism starts to supplant traditional editorial story selection, we have no window into its story curation process that is parallel to our extensive knowledge of the news values that drive traditional editorial curation. The sensitive, trade-secret nature of the News Feed and its constant updates and modifications make a traditional, computer science-based examination of this algorithmic giant difficult, if not impossible. This study takes an alternative approach, using a content analysis of Facebook’s own patents, press releases, and Securities and Exchange Commission filings to identify a core set of algorithmic values that drive story selection on the Facebook News Feed. Informed by the principles of material culture analysis, it ranks these values to create a window into Facebook’s curation process, and compares and contrasts Facebook’s story selection values with traditional news values, examining the possible consequences of one set of values supplanting the other. The study finds a set of nine News Feed values that drive story selection: friend relationships, explicitly expressed user interests, prior user engagement, implicitly expressed user preferences, post age, platform priorities, page relationships, negatively expressed preferences, and content quality. It also finds evidence that friend relationships act as an overall influence on all other story selection values.",
-        "url": "https://doi.org/10.1080/21670811.2016.1178592",
         "topics_llm": true
       },
       {
@@ -551,6 +551,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2016.1176534",
+        "title": "Personal Branding on Twitter",
+        "authors": [
+          "Cara Brems",
+          "Martina Temmerman",
+          "Todd Graham",
+          "Marcel Broersma"
+        ],
+        "year": 2016,
+        "citation_count": 240,
+        "topics": [
+          "Personal branding",
+          "Twitter",
+          "Journalism",
+          "Social media"
+        ],
+        "abstract": "Social media are increasingly embedded into everyday communication. This challenges journalism to anticipate the changes that social media trigger in the use and production of (news) media. In this paper, we focus on personal branding on Twitter. Journalists are increasingly encouraged to develop a personal brand on Twitter. This offers them the opportunity to become news and opinion hubs and to increase their “market value”. Erving Goffman’s theatre metaphor is used as an analytical framework in which journalists are conceptualized as performers who are acting on a stage in front of an audience. Through a quantitative content analysis of the tweeting behaviour of 40 employed and freelance journalists, we explore the way they use social media to present themselves and which dilemma’s they are facing. We analyse tweeting behaviour in terms of the types of tweets, functions of tweets and modes of interaction. The quantitative content analysis is supplemented with in-depth interviews with 12 journalists, in order to analyse the reasoning behind their social media habits. Our findings show that journalists particularly struggle with being factual or opinionated, being personal or professional, how to balance broadcasting their message with engagement and how to promote themselves strategically.",
+        "url": "https://doi.org/10.1080/21670811.2016.1176534",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2013.872420",
         "title": "The Relative Importance of Social Media for Accessing, Finding, and Engaging with News",
         "authors": [
@@ -570,34 +591,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2016.1176534",
-        "title": "Personal Branding on Twitter",
-        "authors": [
-          "Cara Brems",
-          "Martina Temmerman",
-          "Todd Graham",
-          "Marcel Broersma"
-        ],
-        "year": 2016,
-        "citation_count": 238,
-        "topics": [
-          "Personal branding",
-          "Twitter",
-          "Journalism",
-          "Social media"
-        ],
-        "abstract": "Social media are increasingly embedded into everyday communication. This challenges journalism to anticipate the changes that social media trigger in the use and production of (news) media. In this paper, we focus on personal branding on Twitter. Journalists are increasingly encouraged to develop a personal brand on Twitter. This offers them the opportunity to become news and opinion hubs and to increase their “market value”. Erving Goffman’s theatre metaphor is used as an analytical framework in which journalists are conceptualized as performers who are acting on a stage in front of an audience. Through a quantitative content analysis of the tweeting behaviour of 40 employed and freelance journalists, we explore the way they use social media to present themselves and which dilemma’s they are facing. We analyse tweeting behaviour in terms of the types of tweets, functions of tweets and modes of interaction. The quantitative content analysis is supplemented with in-depth interviews with 12 journalists, in order to analyse the reasoning behind their social media habits. Our findings show that journalists particularly struggle with being factual or opinionated, being personal or professional, how to balance broadcasting their message with engagement and how to promote themselves strategically.",
-        "url": "https://doi.org/10.1080/21670811.2016.1176534",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2017.1343648",
         "title": "Modelling Contemporary Gatekeeping",
         "authors": [
           "Julian Wallace"
         ],
         "year": 2017,
-        "citation_count": 237,
+        "citation_count": 239,
         "topics": [
           "Gatekeeping theory",
           "Algorithms",
@@ -638,7 +638,7 @@
           "Mark Coddington"
         ],
         "year": 2020,
-        "citation_count": 224,
+        "citation_count": 225,
         "topics": [
           "Online harassment",
           "Journalist-audience relationships",
@@ -712,7 +712,7 @@
           "Damian Trilling"
         ],
         "year": 2015,
-        "citation_count": 213,
+        "citation_count": 214,
         "topics": [
           "Digital journalism",
           "Computational methods",
@@ -808,6 +808,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2020.1773888",
+        "title": "The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power",
+        "authors": [
+          "Natali Helberger"
+        ],
+        "year": 2020,
+        "citation_count": 209,
+        "topics": [
+          "Social media regulation",
+          "Platform accountability",
+          "Opinion power",
+          "Misinformation policy"
+        ],
+        "abstract": "This contribution critically reviews the ongoing policy initiatives in Europe to impose greater societal responsibility on social media platforms. I discuss the current regulatory approach of treating social platforms as mere 'intermediaries' of the speech of others and propose a different perspective. Instead of perceiving platforms as intermediaries and facilitators of the speech of others, I view social media platforms as active political actors in their own right, and wielders of considerable opinion power. I will explain how taking the perspective of opinion power throws a very different, and rather alarming light on the recent regulatory initiatives.",
+        "url": "https://doi.org/10.1080/21670811.2020.1773888",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2013.801692",
         "title": "Rethinking Journalism: trust and participation in a transformed news landscape",
         "authors": [
@@ -823,24 +841,6 @@
         ],
         "abstract": "Chris Peters and Marcel Broersma (Eds) London: Routledge, 2012 247 pp., £27.99 (pbk), ISBN 978-0-415-69702-6 There is broad agreement that the present crisis in journalism is one of funding. But, a...",
         "url": "https://doi.org/10.1080/21670811.2013.801692",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2020.1773888",
-        "title": "The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power",
-        "authors": [
-          "Natali Helberger"
-        ],
-        "year": 2020,
-        "citation_count": 208,
-        "topics": [
-          "Social media regulation",
-          "Platform accountability",
-          "Opinion power",
-          "Misinformation policy"
-        ],
-        "abstract": "This contribution critically reviews the ongoing policy initiatives in Europe to impose greater societal responsibility on social media platforms. I discuss the current regulatory approach of treating social platforms as mere 'intermediaries' of the speech of others and propose a different perspective. Instead of perceiving platforms as intermediaries and facilitators of the speech of others, I view social media platforms as active political actors in their own right, and wielders of considerable opinion power. I will explain how taking the perspective of opinion power throws a very different, and rather alarming light on the recent regulatory initiatives.",
-        "url": "https://doi.org/10.1080/21670811.2020.1773888",
         "topics_llm": true
       },
       {
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 192,
+        "citation_count": 193,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -968,7 +968,7 @@
           "Jeffrey Hancock"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Misinformation",
           "Digital journalism",
@@ -1091,7 +1091,7 @@
           "Professional burnout",
           "Digital labor"
         ],
-        "abstract": "",
+        "abstract": "While engagement with social media audiences has become an increasingly central part of contemporary journalism, this labour can impact on journalists’ personal and professional wellbeing. Recent research has outlined the detrimental impacts of social media work on journalists and other online media producers, including online harassment, unmanageable workloads and burnout. Both journalists and online content creators have also reported lack of support from platforms and news organisations to foster better professional wellbeing online. This article explores how professional wellbeing for social media journalism can be supported through some of the social infrastructures of online labour – in particular, frameworks of enacting “care” online. Journalists and content producers care for themselves online using practices such as curating social media consumption and time online. However, we argue that practices prioritising both individual and community care are key to fostering improved professional wellbeing in online labour. Using interviews with both journalists and online content creators, we conceptualise how social media practices centred on “care for self” and “care for others” support professional wellbeing on social media. Perspectives on different modes of care indicate how journalism’s professional logics are being negotiated on social media and developing into practices that prioritise improving wellbeing in online labour.",
         "url": "https://doi.org/10.1080/21670811.2026.2655242",
         "topics_llm": true
       },
@@ -1168,7 +1168,7 @@
           "Epistemic practices",
           "Misinformation"
         ],
-        "abstract": "",
+        "abstract": "The increasing centrality of eyewitness images in news coverage has necessitated the development of advanced visual fact-checking practices, frequently devised by actors outside traditional journalism. This article presents a model of the transfer of such external knowledge practices into journalism, relying on a framework that combines concepts from sociologist Karin Knorr Cetina with economist Roger Koppl’s model of epistemic systems. Drawing on 13 in-depth interviews and participant observation of Faktisk Verifiserbar, a collaborative visual fact-checking unit established by Norwegian news organisations in response to Russia’s full-scale invasion of Ukraine, the article demonstrates that adopting external epistemic practices facilitated the introduction of what is here termed “substantiated verification” in Norwegian journalism. Substantiated verification offers a nuanced assessment of visual material that transcends journalism’s prevalent true/false paradigm. While integrating external epistemic practices enhances journalistic rigour by leveraging outside knowledge, it also represents a potential challenge to journalism’s authority and autonomy. The article contributes to the understanding of visual media in the field of fact-checking, as well as to that of the relationship between journalism, the intelligence community, and hybrid investigative actors engaged in open-source intelligence.",
         "url": "https://doi.org/10.1080/21670811.2026.2638939",
         "topics_llm": true
       },
@@ -1187,7 +1187,7 @@
           "Misinformation",
           "Media Effects"
         ],
-        "abstract": "This study examines how different media types—social, alternative, and mainstream—indirectly influence CT beliefs through populist attitudes and misperceptions on divisive issues. We propose that news exposure impacts these factors, thereby affecting CT beliefs. Using a path analysis on a Belgian survey (<i>n</i> = 2378), we find that populist attitudes and misperceptions mediate the relationship between news consumption and CT beliefs. Alternative and social media increase misperceptions, fueling CT beliefs, whereas mainstream media exposure lowers misperceptions. Exposure to social media encourages populist attitudes, while exposure to mainstream media reduces them. Especially for ideologically extreme individuals, alternative media strongly reinforces populist attitudes. This study clarifies how CT beliefs are directly and indirectly shaped by news consumption patterns, shedding light on the underlying mechanism.",
+        "abstract": "This study examines how different media types—social, alternative, and mainstream—indirectly influence CT beliefs through populist attitudes and misperceptions on divisive issues. We propose that news exposure impacts these factors, thereby affecting CT beliefs. Using a path analysis on a Belgian survey (n = 2378), we find that populist attitudes and misperceptions mediate the relationship between news consumption and CT beliefs. Alternative and social media increase misperceptions, fueling CT beliefs, whereas mainstream media exposure lowers misperceptions. Exposure to social media encourages populist attitudes, while exposure to mainstream media reduces them. Especially for ideologically extreme individuals, alternative media strongly reinforces populist attitudes. This study clarifies how CT beliefs are directly and indirectly shaped by news consumption patterns, shedding light on the underlying mechanism.",
         "url": "https://doi.org/10.1080/21670811.2026.2633613",
         "topics_llm": true
       },
@@ -1207,7 +1207,7 @@
           "Epistemic authority",
           "News production"
         ],
-        "abstract": "",
+        "abstract": "Journalists are recognized as key producers and disseminators of knowledge, and the importance of their epistemic authority is well established. This study examines how journalists are enacting LLM-based generative AI (GenAI) tools in their epistemic work to maintain and enhance their authority as credible knowledge producers. Conceptualizing GenAI as a journalistic prosthesis—a technological extension of the journalist’s body and mind—the study pursues two interrelated objectives: First, to explore journalists’ perceptions of the risks and opportunities GenAI presents for their epistemic authority. Second, to investigate how these perceptions shape the integration of GenAI tools into everyday journalistic practices. The research focuses on a leading Israeli news organization, an early adopter of GenAI technologies, and draws on a combination of participant observation and semi-structured interviews. The analysis presents a framework that maps journalists’ enactments with GenAI across two dimensions: “administration” and “nature of input.” We examine the strategies and efforts journalists employ to preserve their epistemic authority and show that, through human–machine co-creation, they work to safeguard—and even strengthen—that authority by using GenAI tools in ways that maximize opportunities while minimizing associated risks.",
         "url": "https://doi.org/10.1080/21670811.2026.2640421",
         "topics_llm": true
       },
@@ -1266,7 +1266,7 @@
           "Digital debate platforms",
           "Interactive communication"
         ],
-        "abstract": "",
+        "abstract": "With the proliferation of commercial social networks, public broadcasters face significant challenges, including a growing dependence on these platforms for audience interaction. Algorithm logics, oftentimes ascribing high visibility to emotional contributions, could influence discourse and dialogue on social media to become more uncivil, and undemocratic. The Public Spaces Incubator (PSI) is an international research and development initiative by six public service media (PSM) organizations in different countries, in response to the growing need for constructive public dialogue and a disentanglement from commercial platforms. PSI aims to develop debate spaces that facilitate public engagement, strengthen journalistic audience engagement and reduce dependencies, by offering new tools for audience interaction directly linked to journalistic output.To gain insights into PSM’s goals surrounding these interactions, a case-study using qualitative interviews with journalists, community managers, strategic management and programmers working for the German PSM ZDF was conducted. By interviewing journalists about their experiences when testing three prototypes at an early stage of the project, we were able to analyze the aspirations, predictions, and hopes of those involved surrounding the new conversational tools. The study underscores the need for a respectful communication culture to counteract the detrimental effects of sensationalism and division prevalent on commercial platforms. By shaping self-owned infrastructures for value-oriented digital communication tools the involved PSM are trying to become more independent from social networks and to avoid normative failure-effects of innovations. By actively promoting their values, PSI seeks to redefine the role of PSM in fostering deliberative discourse.",
         "url": "https://doi.org/10.1080/21670811.2026.2636906",
         "topics_llm": true
       },
@@ -1288,7 +1288,7 @@
           "Filter bubbles",
           "Audience attitudes"
         ],
-        "abstract": "",
+        "abstract": "Content personalization, providing personalized facts adapted to readers within the same articles, has become an emerging technology in online news. However, its theoretical examination remains largely under-explored. In this paper, we investigate readers’ perceptions of personalized articles compared to non-personalized ones. With a theoretical framework and valid responses from 249 participants recruited from Prolific, we analyze how content personalization affects audiences’ attitudes and engagement. We implemented a 3 (Personalization, Personalization with explanations of personalization, Control) * 2 (topics: mental health vs. food insecurity) factorial between-subject experiment design. The results reveal that readers’ attitudes and intent to engage were indirectly affected by content personalization through the perceived relevance of the article. While explanations of personalization (e.g., “The following sentence has been personalized based on your information.”) did not impact perceived article relevance or attitudes, they affect readers’ intentions to engage with the article. Participants’ qualitative feedback suggests that these explanations might create a sense of “creepiness,” which may negatively impact their attitudes toward the article. Our findings underscore the potential for news organizations to adopt the content personalization strategy we evaluated, and emphasize the pivotal role of amplifying readers’ perceived relevance in news delivery.",
         "url": "https://doi.org/10.1080/21670811.2026.2633623",
         "topics_llm": true
       },
@@ -1306,7 +1306,7 @@
           "Professional identity",
           "Organizational culture"
         ],
-        "abstract": "",
+        "abstract": "This study examines how the decision for a newsroom to be virtual affects the organization itself. Through in-depth interviews and participant observation and undergirded with a theoretical framework grounded in Schein’s conceptualization of organizational culture, this study suggests that journalists in virtual newsrooms perceive a lack a sense of belonging to their organization, do not understand organizational norms, have a hard time being socialized and effectively determine their own sense of work. These results can have appreciably negative results on organizations with virtual newsrooms. The study concludes by thinking about these findings in the context of today’s journalism ecosystem.",
         "url": "https://doi.org/10.1080/21670811.2026.2636907",
         "topics_llm": true
       },
@@ -1344,7 +1344,7 @@
           "User experience",
           "TikTok"
         ],
-        "abstract": "",
+        "abstract": "While TikTok is rapidly growing as a source of news for young people, they appear to have limited interest in news from traditional sources on the platform. Exploring whether there is a place for professional news within TikTok, we seek to capture young people’s experience of TikTok in all its complexity. Our non-news centric approach enabled us to identify one overarching experience: temporality – summarized as the ambivalent experience of concurrent enjoyment and retrospective regret - and four interrelated experiential dimensions: spatiality (TikTok as a place to escape to); positionality (being validated by one’s personal feed), non-sociality (relieved from the duty to interact with social contacts), and disembodiment (being “off” for a while). Our results suggest that while there is potential for professional news media to connect with young people on TikTok by providing engaging, valuable and reliable content that fulfils their informational needs – rather than merely entertaining or distracting them – adhering too closely to the “spirit” of TikTok risks diluting the distinctive role professional news media plays for them: being a readily available, dependable source when they need it.",
         "url": "https://doi.org/10.1080/21670811.2026.2626737",
         "topics_llm": true
       },
@@ -1422,7 +1422,7 @@
           "Digital identity",
           "Social media management"
         ],
-        "abstract": "",
+        "abstract": "Young people’s media consumption has shifted from traditional mass media towards social media, fostering an industry view of youth as a “lost generation” and promoting media organisations to broaden their presence across platforms. However, platform expansion comes with risks, and many now take a more cautious approach. This article draws on interviews with twenty Norwegian media executives to explore strategies for reaching young audiences with and without third-party platforms. The article identifies three common strategies for engaging youth, conceptualised as the three Ps: Platforms, Profiles, and People. Across these Ps, there is a prevalent perception that young people constitute a distinct media generation, necessitating new editorial Practices (a fourth P) to ensure they are informed, engaged, and entertained. The article also highlights a Catch-22 dilemma: media organisations must balance democratic responsibility with the need to engage youth. This emphasises the urgent need for media organisations to navigate these challenges to remain relevant and trustworthy for future generations.",
         "url": "https://doi.org/10.1080/21670811.2025.2610612",
         "topics_llm": true
       },
@@ -1505,7 +1505,7 @@
           "Visual journalism",
           "AI perception and bias"
         ],
-        "abstract": "Visualising climate change is a challenge for journalists. Climate images can be clichéd, disconnected and even divergent from information communicated by other modalities (such as text); and can represent a missed opportunity to engage audiences. Generative AI could potentially provide transformative opportunities to visually illustrate climate news. However, risks may include reinforcing stereotyped, inaccurate or unethical visual content, with knock-on effects on audience trust and public informedness. Working as a transdisciplinary team of social scientists, computer scientists and journalists, we co-produced three studies designed to represent a spectrum of potential future engagement with generative AI technology. We prompted five generative AI tools (ChatGPT, Stable Diffusion, Midjourney, Microsoft Copilot, Generative AI by Getty Images) with seven typical climate news topics (climate change, flooding, heatwave, migration, Net Zero, COP26, nature) <i>via</i> three prompt styles (simple, detailed, story). These results indicate that there are substantial barriers for generative AI tools to create meaningful images for climate-related stories. We reflect on the implications of these results for both researchers and journalists; in terms of the evolving eye-witnessing role of photojournalism in an age of AI and misinformation, and in how such images may act to constrain transformative climate action.",
+        "abstract": "Visualising climate change is a challenge for journalists. Climate images can be clichéd, disconnected and even divergent from information communicated by other modalities (such as text); and can represent a missed opportunity to engage audiences. Generative AI could potentially provide transformative opportunities to visually illustrate climate news. However, risks may include reinforcing stereotyped, inaccurate or unethical visual content, with knock-on effects on audience trust and public informedness. Working as a transdisciplinary team of social scientists, computer scientists and journalists, we co-produced three studies designed to represent a spectrum of potential future engagement with generative AI technology. We prompted five generative AI tools (ChatGPT, Stable Diffusion, Midjourney, Microsoft Copilot, Generative AI by Getty Images) with seven typical climate news topics (climate change, flooding, heatwave, migration, Net Zero, COP26, nature) via three prompt styles (simple, detailed, story). These results indicate that there are substantial barriers for generative AI tools to create meaningful images for climate-related stories. We reflect on the implications of these results for both researchers and journalists; in terms of the evolving eye-witnessing role of photojournalism in an age of AI and misinformation, and in how such images may act to constrain transformative climate action.",
         "url": "https://doi.org/10.1080/21670811.2025.2602870",
         "topics_llm": true
       },
@@ -1541,7 +1541,7 @@
           "Visual communication",
           "Ukraine conflict"
         ],
-        "abstract": "Russia’s full-scale invasion of Ukraine has been conveyed to global audiences via a complex range of image practices. This has included digital content that disturbs the traditionally monocular, stilled and privileged position of the ‘war photographer’. This is a theoretical discussion of the functions of social media in destabilising the established temporal characteristics of war photography, focusing on two examples from the work of photojournalist Lynsey Addario in her coverage of the war in Ukraine. It includes a discussion of Instagram’s ‘Stories’ function, in which photography’s ‘fixing’ and ‘capturing’ of war are challenged by means of deliberate, in-built ephemerality. The concept of the palinode – a change of mind or position – is used to further conceptualise war photography’s new and uncharted networks of digital proliferation, potentially representing a kind of unfixing of the atrocity image within what Jay Prosser (2012) has called ‘image-flows’, and making it possible for the limits of photojournalism’s technical and ideological stillness – its fixity – to be challenged.",
+        "abstract": "Russia’s full-scale invasion of Ukraine has been conveyed to global audiences via a complex range of image practices. This has included digital content that disturbs the traditionally monocular, stilled and privileged position of the “war photographer.” This is a theoretical discussion of the functions of social media in destabilising the established temporal characteristics of war photography, focusing on two examples from the work of photojournalist Lynsey Addario in her coverage of the war in Ukraine. It includes a discussion of Instagram’s “Stories” function, in which photography’s “fixing” and “capturing” of war are challenged by means of deliberate, in-built ephemerality. The concept of the palinode—a change of mind or position—is used to further conceptualise war photography’s new and uncharted networks of digital proliferation, potentially representing a kind of unfixing of the atrocity image within what Jay Prosser (2012) has called “image-flows,” and making it possible for the limits of photojournalism’s technical and ideological stillness—its fixity—to be challenged.",
         "url": "https://doi.org/10.1080/21670811.2025.2595216",
         "topics_llm": true
       },
@@ -1635,7 +1635,7 @@
           "South Korea",
           "Digital journalism policy"
         ],
-        "abstract": "",
+        "abstract": "The influence of major web portals on South Korean journalism has been both profound and far-reaching since the early 2000s. Because the major portals have provided news content on their primary pages and as search results, most Korean citizens have accessed news through those portals. As web portals assume a primary role in Korean journalism, there have been serious conflicts between news media and digital platforms. In this context, the News Partnership Evaluation Committee (NPEC), as an independent regulatory body, was created in 2015. Since then, the NPEC has played a pivotal role in managing contractual relationships between the portals and media outlets, with the stated goal of enhancing journalistic standards. This study explores the complex dynamics between digital platforms and news publishers through in-depth interviews with 15 experts. Our findings highlight the dual-edged nature of platform dominance and the similar dual nature of the NPEC with respect to journalism. The NPEC has improved the quality of journalism, but its focus on sanctioning rather than promoting innovative and experimental media was seen as a missed opportunity. This research enhances the platform governance literature by demonstrating the potential fragility of self-regulation models in environments characterized by significant platform and political capture.",
         "url": "https://doi.org/10.1080/21670811.2025.2587635",
         "topics_llm": true
       },
@@ -1655,7 +1655,7 @@
           "Platform governance",
           "News distribution"
         ],
-        "abstract": "",
+        "abstract": "Twitch is a significant player in the delivery of digital news. This study looks at how streamers-as-news-providers remix and amplify secondary news sources for millions of followers. Our new communication model, the “platform streaming framework,” shows how digital news flows through streamers who are enabled and constrained by sociotechnical platforms, where they exert influence, engage, and cultivate communities with refracted publics. Using this analytical framework, we emphasize how actors negotiate the news in conjunction with Twitch’s platform boundaries. Integrated into the analytical framework, our “platform boundary model” highlights how actors formulate Twitch’s digital news standard in ways that operate within bounds, unclear bounds, and out-of-bounds according to platform policies.",
         "url": "https://doi.org/10.1080/21670811.2025.2583336",
         "topics_llm": true
       },
@@ -1750,7 +1750,7 @@
           "News narratives",
           "Social media journalism"
         ],
-        "abstract": "",
+        "abstract": "This study extends peace journalism (PJ) to audiovisual reporting by analyzing 405 TikTok videos from six news outlets during the Israel-Gaza War that began on October 7, 2023. A content analysis revealed a strong emphasis on elite-captured perspectives that often eclipsed narratives of peace. TikTok users engaged more with war narratives due to their emotionally charged and visually reso-nant nature. Our findings highlight the need for news organiza-tions to leverage TikTok’s visual storytelling potential to make complex geopolitical content more engaging, fostering empathetic and inclusive dialogue regarding conflicts. Overall, this work offers significant theoretical and practical contributions to peace journal-ism, platform affordances, and user engagement.",
         "url": "https://doi.org/10.1080/21670811.2025.2574931",
         "topics_llm": true
       },
@@ -1768,7 +1768,7 @@
           "Local journalism",
           "Information access"
         ],
-        "abstract": "The absence or decline of local journalism has damaging consequences for communities. Just as communities differ in the degree to which they successfully navigate crises, there may be differing degrees of community resilience observable within news deserts. The present study pairs a survey of residents of U.S. news deserts (<i>n</i> = 1,007) with a content analysis of posts (<i>n</i> = 3,010) from Facebook pages identified as distributors of local information in news deserts. Findings indicate that community attributes like flexibility and social cohesion are associated with greater perceptions of access to local news, feelings of being informed, local issue knowledge. Evidence also suggests social media meet critical information needs in these areas, rarely promoting false claims. Implications exist for the conceptualization of news deserts, including incorporating community resilience within frameworks for understanding news desert audiences. Approaches for improving information flow and quality within news deserts are discussed.",
+        "abstract": "The absence or decline of local journalism has damaging consequences for communities. Just as communities differ in the degree to which they successfully navigate crises, there may be differing degrees of community resilience observable within news deserts. The present study pairs a survey of residents of U.S. news deserts (n = 1,007) with a content analysis of posts (n = 3,010) from Facebook pages identified as distributors of local information in news deserts. Findings indicate that community attributes like flexibility and social cohesion are associated with greater perceptions of access to local news, feelings of being informed, local issue knowledge. Evidence also suggests social media meet critical information needs in these areas, rarely promoting false claims. Implications exist for the conceptualization of news deserts, including incorporating community resilience within frameworks for understanding news desert audiences. Approaches for improving information flow and quality within news deserts are discussed.",
         "url": "https://doi.org/10.1080/21670811.2025.2574935",
         "topics_llm": true
       },
@@ -1786,7 +1786,7 @@
           "Digital media India",
           "Platform-publisher relations"
         ],
-        "abstract": "International audience",
+        "abstract": "The growing dominance of search and social media platforms over online news industries has undermined their editorial independence and economic sustainability. However, platforms’ dominance only partly explains the state of platform dependence. This paper underscores the importance of examining both how and why asymmetries between platforms and publishers were formed in the first place. It focuses on how underlying structural and contextual conditions inform platform dependence and publishers’ negotiations in India. In particular, it draws attention to pre-existing institutional, market, and political conditions that have structured Indian news markets long before platforms’ entry, yet continue to imprint the relationship between publishers and platforms. Drawing on Indian media studies literature and 32 semi-structured interviews, this paper presents findings on how historical commercialization of the press, low in-house technological development, inherent market asymmetries, and persistent state (in)actions have augmented news’ dependence on platforms in India. Concurrently, I argue that these conditions have shaped Indian publishers’ disentanglement strategies. Building on earlier studies, this paper identifies three distinct yet simultaneous strategies: coexistence, collaboration, and non-contestation. In doing so, it contextualizes platform dependence and publisher disentanglements by emphasizing the structural conditions that sustain these dynamics.",
         "url": "https://doi.org/10.1080/21670811.2025.2573072",
         "topics_llm": true
       },
@@ -1823,7 +1823,7 @@
           "News media institutions",
           "Digital transformation"
         ],
-        "abstract": "",
+        "abstract": "This paper reveals that major news outlets are starting to adopt the features of digital platforms in an attempt to become more autonomous and disentangle themselves from platform infrastructures. Our analysis sets out this phenomenon across three key dimensions, which function as instrumental cases: deploying complex subscription funnels; adopting first-party data strategies and developing advertising capabilities; and building improved personalisation and recommendation capabilities. We also draw on empirical evidence from twelve semi-structured interviews conducted with experts from news organizations working in the U.K. and the Netherlands to support our analysis. Using sociological institutionalism as a theoretical and conceptual framework, we suggest major national and transnational news media companies are now increasingly aligning with the institutional logics of the platform field, a strange occurrence given the sector’s desire to avoid platform dependence. The paper ends by noting that only larger media organisations can copy platforms, leaving smaller local outlets in a weaker position, both economically and in terms of their relationship to digital platforms. This points to a divide in the knowledge, skills, resources, and capital available to establish effective counterpower strategies, and reinforces the need for ongoing attention to media concentration and power imbalances within the news media sector.",
         "url": "https://doi.org/10.1080/21670811.2025.2573074",
         "topics_llm": true
       },
@@ -1879,7 +1879,7 @@
           "Journalism futures",
           "Audience analysis"
         ],
-        "abstract": "",
+        "abstract": "The past few years of journalism studies scholarship have revealed that journalists and journalism stakeholders are increasingly ambivalent about social media platforms, which have grown rife with misinformation and vitriol that threaten to diminish audience trust in journalism and encourage animosity toward journalists. As social media’s risks and challenges intensify while the benefits diminish, some within journalism are entering a period in which they are no longer begrudgingly depending on these platforms and instead are conceptualizing the best means for circumventing them to build and maintain news audiences. This article seeks to examine the following question: How have these changing circumstances affected journalistic perceptions of social media platforms and news audiences? Drawing on a metajournalistic analysis of over 11 years of annual predictions published by the US journalism trade press Nieman Journalism Lab (n = 154), this study identifies the ways that impressions of social media platforms and news audiences have changed in order to understand what those changes reveal about the relationship between journalists and their audience. We find that although faith in social media platforms has faltered within the journalistic community, faith in the public remains unwavering.",
         "url": "https://doi.org/10.1080/21670811.2025.2568909",
         "topics_llm": true
       },
@@ -1929,7 +1929,7 @@
           "Edward Hurcombe"
         ],
         "year": 2024,
-        "citation_count": 25,
+        "citation_count": 26,
         "topics": [
           "Influencer journalism",
           "Platform media",
@@ -1956,7 +1956,7 @@
           "Comparative analysis",
           "News organizations"
         ],
-        "abstract": "",
+        "abstract": "A growing number of news organisations have set up guidelines to govern how they use artificial intelligence (AI). This article analyses a set of 52 guidelines, mainly from Western Europe and North America, from publishers in Belgium, Brazil, Canada, Finland, Germany, India, the Netherlands, Norway, Sweden, Switzerland, the United Kingdom, and the United States. Looking at both formal and thematic characteristics, we provide insights into how publishers address expectations and concerns around AI in the news. Drawing from neo-institutional theory and institutional isomorphism, we argue that the policies show signs of homogeneity, likely explained by isomorphic dynamics arising as a response to the uncertainty created by the rise of generative AI after the release of ChatGPT in November 2022. Our study shows that publishers have already begun to converge in their guidelines on key points such as transparency and human supervision when dealing with AI-generated content. However, we argue that national and organisational idiosyncrasies continue to matter in shaping publishers’ practices. We conclude by pointing out blind spots around technological dependency, sustainable AI, and inequalities in AI guidelines and providing directions for further research.",
         "url": "https://doi.org/10.1080/21670811.2024.2431519",
         "topics_llm": true
       },
@@ -1983,6 +1983,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2394764",
+        "title": "Analyzing Sensationalism in News on Twitter ( <i>X</i> ): Clickbait Journalism by Legacy vs. Online-Native Outlets and the Consequences for User Engagement",
+        "authors": [
+          "Salman Khawar",
+          "Mark Boukes"
+        ],
+        "year": 2024,
+        "citation_count": 20,
+        "topics": [
+          "Clickbait journalism",
+          "Social media news",
+          "User engagement",
+          "Legacy vs. online-native media"
+        ],
+        "abstract": "News consumption patterns have evolved as people increasingly get news through social media. A by-product of this change has been the rise of “clickbaits”—a form of journalism that utilizes sensationalist techniques to lure readers into clicking on links. Although clickbaits have become common, not much is known about the use of this journalistic practice. This study empirically investigates whether online-native news outlets utilize more sensational features than legacy news outlets to promote their news stories on Twitter (now X). The impact of sensationalism on subsequent user engagement metrics is also tested. First, a manual content analysis of 1,440 tweets by news media organizations was conducted, identifying sensationalism through ten features. Second, an automated content analysis was conducted on a dataset of 25,600 tweets, replicating the manual coding process. The results confirm that online-native outlets (Huffington Post, BuzzFeed) utilized more sensationalism than online legacy outlets (USA Today, L.A. Times). Furthermore, a positive relationship was found between the number of sensationalist features employed and the favorite count, confirming the effectiveness of clickbaits. The automated content analysis by-and-large corroborated the findings of the manual annotation, and additionally revealed a positive effect of sensationalism on the number of retweets.",
+        "url": "https://doi.org/10.1080/21670811.2024.2394764",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2570497",
         "title": "Platform Retraction? Discourses of Entanglement and Disentanglement in News Media’s Platform Engagement",
         "authors": [
@@ -2002,22 +2021,61 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2394764",
-        "title": "Analyzing Sensationalism in News on Twitter ( <i>X</i> ): Clickbait Journalism by Legacy vs. Online-Native Outlets and the Consequences for User Engagement",
+        "doi": "10.1080/21670811.2024.2361264",
+        "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
         "authors": [
-          "Salman Khawar",
-          "Mark Boukes"
+          "Michael Koliska",
+          "Jessica Roberts"
         ],
         "year": 2024,
-        "citation_count": 19,
+        "citation_count": 16,
         "topics": [
-          "Clickbait journalism",
-          "Social media news",
-          "User engagement",
-          "Legacy vs. online-native media"
+          "Fact-checking",
+          "Journalism epistemology",
+          "Misinformation",
+          "Knowledge production"
         ],
-        "abstract": "News consumption patterns have evolved as people increasingly get news through social media. A by-product of this change has been the rise of “clickbaits”—a form of journalism that utilizes sensationalist techniques to lure readers into clicking on links. Although clickbaits have become common, not much is known about the use of this journalistic practice. This study empirically investigates whether online-native news outlets utilize more sensational features than legacy news outlets to promote their news stories on Twitter (now X). The impact of sensationalism on subsequent user engagement metrics is also tested. First, a manual content analysis of 1,440 tweets by news media organizations was conducted, identifying sensationalism through ten features. Second, an automated content analysis was conducted on a dataset of 25,600 tweets, replicating the manual coding process. The results confirm that online-native outlets (Huffington Post, BuzzFeed) utilized more sensationalism than online legacy outlets (USA Today, L.A. Times). Furthermore, a positive relationship was found between the number of sensationalist features employed and the favorite count, confirming the effectiveness of clickbaits. The automated content analysis by-and-large corroborated the findings of the manual annotation, and additionally revealed a positive effect of sensationalism on the number of retweets.",
-        "url": "https://doi.org/10.1080/21670811.2024.2394764",
+        "abstract": "Epistemologies of journalism differ across genres, and fact-checking, as an independent operation or feature within existing news media organizations, can be considered a genre of journalism with its own epistemology. This paper explores the epistemology of fact-checking as expressed by fact-checkers from 40 fact-checking organizations serving more than 50 countries on six continents. Fact-checkers operate in various political, social, economic, and informational contexts, and yet reveal isomorphic norms, practices, and structures, particularly in the form of knowledge, production of knowledge, and defense of their knowledge. What emerged in interviews with fact-checkers is a shared belief in the ability to determine the objective truth of claims, which is validated by evidence and a transparent process of reproducibility or modeling the fact-checking process. This process is also seen as a way to convince the reader of the accuracy and trustworthiness of fact-checks. Fact-checkers define their role and work as a public service, and frequently offer media literacy and fact-checking training to the public and journalists to instill a culture of factuality. Overall, the cross-national findings suggest that as fact-checking is becoming increasingly taken-for-granted or institutionalized, fact-checkers share a common epistemology, promoting confidence in factually verifiable truth.",
+        "url": "https://doi.org/10.1080/21670811.2024.2361264",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2505982",
+        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
+        "authors": [
+          "Hannes Cools",
+          "Claes H. de Vreese"
+        ],
+        "year": 2025,
+        "citation_count": 15,
+        "topics": [
+          "Artificial Intelligence in journalism",
+          "Professional norms",
+          "Responsible AI",
+          "News organizations"
+        ],
+        "abstract": "In the wake of the frenetic evolutions in (generative) AI, this study evaluates how these emerging technologies could be deployed and implemented in a responsible way at a national news company in Denmark (Berlingske Media). By conducting expert interviews with 14 news workers from various departments across the four media titles at Berlingske Media, the study explores their perceptions regarding the use of (generative) AI tools, with a particular focus on two core internal dynamics of institutional theory: (1) Journalistic Autonomy and (2) Ethical Considerations. The findings reveal that perceptions of AI-tool usage are closely linked to the educational background of the news workers, interviewees that self-identify as “technologists” or “data scientists” hold more realistic views, whereas self-identified “editors” or “journalist” tend to attribute too much power and capacity to AI. These perceptions are also closely linked to the current uses of AI: Some participants express optimistic views, seeing AI as a valuable tool that enhances journalistic practices and efficiency. Others hold more skeptical views, emphasizing concerns about the potential impact on journalistic autonomy, such as algorithmic biases and the loss of editorial control.",
+        "url": "https://doi.org/10.1080/21670811.2025.2505982",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2510967",
+        "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
+        "authors": [
+          "Gregory Perreault",
+          "Seth C. Lewis",
+          "Maxwell Ely"
+        ],
+        "year": 2025,
+        "citation_count": 15,
+        "topics": [
+          "Generative AI",
+          "Journalistic Authority",
+          "Epistemology",
+          "ChatGPT"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2510967",
         "topics_llm": true
       },
       {
@@ -2036,64 +2094,6 @@
         ],
         "abstract": "This study explores how Chinese journalists perceive, use, and report on artificial intelligence (AI) amid the global discourse of AI hype. Drawing on qualitative analysis of 18 in-depth interviews with journalists from a range of Chinese news organisations, this research examines (1) journalists’ algorithmic imaginaries and their role in shaping AI narratives, (2) perceptions of AI hype and strategies for responsible reporting, and (3) the journalistic roles reflected. The findings show that journalists predominantly frame AI as a pragmatic tool for enhancing newsroom efficiency, while also acknowledging its broader societal significance. Although aware of speculative discourses, they reject the label of “media hype,” portraying their coverage as balanced, event-driven, and aligned with public interest. Situated within China’s distinctive political and media environment, this study highlights the complexities of journalistic practice in the algorithmic age and calls for a contextualised theorisation of media hype and AI’s discursive construction in non-Western settings.",
         "url": "https://doi.org/10.1080/21670811.2025.2502851",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2505982",
-        "title": "From Automation to Transformation with AI-Tools: Exploring the Professional Norms and the Perceptions of Responsible AI in a News Organization",
-        "authors": [
-          "Hannes Cools",
-          "Claes H. de Vreese"
-        ],
-        "year": 2025,
-        "citation_count": 14,
-        "topics": [
-          "Artificial Intelligence in journalism",
-          "Professional norms",
-          "Responsible AI",
-          "News organizations"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2505982",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2510967",
-        "title": "ChatGPT, Generative AI, and an Epistemic Opportunity for Journalistic Authority",
-        "authors": [
-          "Gregory Perreault",
-          "Seth C. Lewis",
-          "Maxwell Ely"
-        ],
-        "year": 2025,
-        "citation_count": 14,
-        "topics": [
-          "Generative AI",
-          "Journalistic Authority",
-          "Epistemology",
-          "ChatGPT"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/21670811.2025.2510967",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2024.2361264",
-        "title": "Epistemology of Fact Checking: An Examination of Practices and Beliefs of Fact Checkers Around the World",
-        "authors": [
-          "Michael Koliska",
-          "Jessica Roberts"
-        ],
-        "year": 2024,
-        "citation_count": 14,
-        "topics": [
-          "Fact-checking",
-          "Journalism epistemology",
-          "Misinformation",
-          "Knowledge production"
-        ],
-        "abstract": "Epistemologies of journalism differ across genres, and fact-checking, as an independent operation or feature within existing news media organizations, can be considered a genre of journalism with its own epistemology. This paper explores the epistemology of fact-checking as expressed by fact-checkers from 40 fact-checking organizations serving more than 50 countries on six continents. Fact-checkers operate in various political, social, economic, and informational contexts, and yet reveal isomorphic norms, practices, and structures, particularly in the form of knowledge, production of knowledge, and defense of their knowledge. What emerged in interviews with fact-checkers is a shared belief in the ability to determine the objective truth of claims, which is validated by evidence and a transparent process of reproducibility or modeling the fact-checking process. This process is also seen as a way to convince the reader of the accuracy and trustworthiness of fact-checks. Fact-checkers define their role and work as a public service, and frequently offer media literacy and fact-checking training to the public and journalists to instill a culture of factuality. Overall, the cross-national findings suggest that as fact-checking is becoming increasingly taken-for-granted or institutionalized, fact-checkers share a common epistemology, promoting confidence in factually verifiable truth.",
-        "url": "https://doi.org/10.1080/21670811.2024.2361264",
         "topics_llm": true
       },
       {
@@ -2168,7 +2168,7 @@
           "News on Instagram and TikTok",
           "Information-entertainment hybrid"
         ],
-        "abstract": "News companies increasingly produce genuine content for social media platforms such as Instagram and TikTok. Unlike content posted on Facebook or X, these news stories are often stand-alone news products adapted to the platforms’ logic and aesthetics. Since Instagram and TikTok are primarily known as entertainment platforms, this raises concerns about the informativeness of such news content. With this study, we therefore explore to what extent news stories on Instagram and TikTok provide relevant information about current affairs, and to what extent this information is combined with entertaining elements. To do so, we collected Instagram stories (<i>N</i> = 1946) and TikTok videos (<i>N </i>= 677) of the six largest Swiss news outlets for a full week each month during a year (February 2022 to January 2023). We compare the prevalence of hard and soft news topics, the degree of information and entertaining elements, and the co-occurrence of information and entertainment (infotainment) between tabloid and quality news outlets, as well as between the two investigated platforms.",
+        "abstract": "News companies increasingly produce genuine content for social media platforms such as Instagram and TikTok. Unlike content posted on Facebook or X, these news stories are often stand-alone news products adapted to the platforms’ logic and aesthetics. Since Instagram and TikTok are primarily known as entertainment platforms, this raises concerns about the informativeness of such news content. With this study, we therefore explore to what extent news stories on Instagram and TikTok provide relevant information about current affairs, and to what extent this information is combined with entertaining elements. To do so, we collected Instagram stories (N = 1946) and TikTok videos (N = 677) of the six largest Swiss news outlets for a full week each month during a year (February 2022 to January 2023). We compare the prevalence of hard and soft news topics, the degree of information and entertaining elements, and the co-occurrence of information and entertainment (infotainment) between tabloid and quality news outlets, as well as between the two investigated platforms.",
         "url": "https://doi.org/10.1080/21670811.2025.2464062",
         "topics_llm": true
       },
@@ -2207,7 +2207,7 @@
           "Journalism",
           "Technological hype"
         ],
-        "abstract": "",
+        "abstract": "Amidst ongoing challenges to journalism’s economic models, labor markets, and technological practices, a new pressure has recently appeared in many newsrooms: the power of Generative Artificial Intelligence (GenAI) computational models and off-the-shelf interfaces to synthetically create content that passes for news. Seeing the phenomenon through the lens of this special issue’s focus on “hype,” this paper uses discourse analysis to understand how journalism unions define GenAI as a problem, articulate the value of journalism against it, and use collective bargaining to contractually shape its use in newsrooms. Motivated by scholarship detailing hype as popular communication, expectation setting, and technological stabilizing, we examine journalistic trade press, union statements, and collective bargaining agreements to offer a 6-dimensional image of GenAI hype and union-driven responses to it, and reflect on notable absences in media unions’ understanding of GenAI. We see this as a case of journalists articulating their roles and values in an all-too-common moment when they are challenged by sociotechnical forces that they did not create, but that they must nonetheless collectively navigate and reshape in service of the profession’s democratic mission.",
         "url": "https://doi.org/10.1080/21670811.2025.2454516",
         "topics_llm": true
       },
@@ -2230,7 +2230,7 @@
           "News framing",
           "Technology criticism"
         ],
-        "abstract": "",
+        "abstract": "AI has become (again) a matter of public interest, and it is crucial to investigate how the news media intervenes in the hype and publicity around AI in different countries. At the intersection between Media Studies and Science and Technology Studies (STS), this article examines portrayals of AI and related technologies in the Chilean news media. We curated a corpus of nearly 7000 AI-related news articles from 2008 to 2023 from four Chilean newspapers. We combined an LDA topic modelling with an analysis with dictionaries of the key actors and critical issues discussed around AI. The analysis shows the explosive growth of the media coverage of AI in recent years, as well as the diversity of topics associated with AI in Chile. We found a high prominence of topics related to industry and technology, a high visibility of international actors, mostly U.S. tech companies, and a low level of mentions of critical issues around AI. Moreover, we also discuss the low coverage of the State’s AI use, the emergent use of generative AI in tech journalism, and the prominence of topics such as the arts and humanities that appear as emerging spaces for the problematisation of AI in Chile.",
         "url": "https://doi.org/10.1080/21670811.2025.2450624",
         "topics_llm": true
       },
@@ -2308,6 +2308,25 @@
         ],
         "abstract": "This study investigates how young adults in Denmark authenticate news they come across on social media. Based on data from 300 entries of news diaries and interviews with 20 participants, we found that this group uses reputation, endorsement, and consistency as the leading shortcuts in the context of news exposure. Though different conceptually, authenticity is linked to trust, and this group perceives Danish national media as the most credible source of information. Moreover, they are self-confident about distinguishing news from the noise caused by misinformation and rarely complete a two-step authentication process to (double) check content. Our theoretical standpoint departs from the normative perspective that journalism is essential for shaping informed citizenship. Thus, while brand reputation is paramount for legacy Danish media to connect with their audience, this centric news consumption might push people away from learning about other countries’ issues.",
         "url": "https://doi.org/10.1080/21670811.2024.2399622",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/21670811.2025.2450623",
+        "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
+        "authors": [
+          "Naoise McNally",
+          "Marco Bastos"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Algorithm transparency",
+          "News Feed curation",
+          "Social media engagement",
+          "Facebook news distribution"
+        ],
+        "abstract": "This study examines the effects of a series of significant algorithm changes within Facebook’s News Feed on user engagement with news content on the platform between 2011-2020. By tracking public announcements, industry research, and leaks to the press, we constructed a timeline of algorithm changes and collected data on 1 million news articles from The Guardian over the 10-year period, alongside their associated Facebook engagement metrics (likes, comments, shares, etc.) using the CrowdTangle API. Using time series analysis techniques including cross-correlation, Granger causality, and anomaly detection, we modeled this data to test for the relationship between significant algorithmic ranking updates to Facebook’s News Feed algorithms and user engagement with Guardian articles on the platform. Our results show that strategic interventions to the News Feed algorithm significantly impacted engagement with hard news items, whereas opinion, lifestyle, sports, and arts content were less affected. This study challenges the notion of algorithms as ‘black boxes’ by demonstrating how Facebook’s deliberate adjustments influence user engagement with news content. We conclude by outlining the limitations and challenges for systemic auditing of social media algorithms, advocating for greater data access, and discussing the opportunities afforded by the EU’s Digital Services Act to advance this research agenda.",
+        "url": "https://doi.org/10.1080/21670811.2025.2450623",
         "topics_llm": true
       },
       {
@@ -2433,25 +2452,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2025.2450623",
-        "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
-        "authors": [
-          "Naoise McNally",
-          "Marco Bastos"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Algorithm transparency",
-          "News Feed curation",
-          "Social media engagement",
-          "Facebook news distribution"
-        ],
-        "abstract": "This study examines the effects of a series of significant algorithm changes within Facebook’s News Feed on user engagement with news content on the platform between 2011-2020. By tracking public announcements, industry research, and leaks to the press, we constructed a timeline of algorithm changes and collected data on 1 million news articles from The Guardian over the 10-year period, alongside their associated Facebook engagement metrics (likes, comments, shares, etc.) using the CrowdTangle API. Using time series analysis techniques including cross-correlation, Granger causality, and anomaly detection, we modeled this data to test for the relationship between significant algorithmic ranking updates to Facebook’s News Feed algorithms and user engagement with Guardian articles on the platform. Our results show that strategic interventions to the News Feed algorithm significantly impacted engagement with hard news items, whereas opinion, lifestyle, sports, and arts content were less affected. This study challenges the notion of algorithms as ‘black boxes’ by demonstrating how Facebook’s deliberate adjustments influence user engagement with news content. We conclude by outlining the limitations and challenges for systemic auditing of social media algorithms, advocating for greater data access, and discussing the opportunities afforded by the EU’s Digital Services Act to advance this research agenda.",
-        "url": "https://doi.org/10.1080/21670811.2025.2450623",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2025.2462539",
         "title": "Epistemologies of Digital News Production: Power and Technological Adaptation in Knowledge Production",
         "authors": [
@@ -2546,7 +2546,7 @@
           "Organizational change",
           "Newsroom diversity"
         ],
-        "abstract": "",
+        "abstract": "This article argues that, in an era of digital journalism marked by increased demands for racial and media justice, moves by Australian media institutions to employ Indigenous journalists to demonstrate their commitment to equity and diversity may place these journalists at risk of harm. This is not only because of their increased exposure to harm online, but because the burden of change is placed on these same journalists, while news organisations fail to acknowledge how race continues to structure white newsrooms. We draw on 11 interviews with practising Indigenous journalists in Australia. Following Indigenous methodologies, we work with their shared knowledge to identify a series of interconnected problems: the colonial roots of journalism and norms of white expertise; the paradox of diversity; the burden of change expected of Indigenous journalists; the racialised dynamics of microaggressions, tokenism and exploitation they experience; the traumatic nature of reporting on Indigenous affairs; and the political economy and white cultural norms embedded in news values. We suggest that there is much continuity in the racial structures of newsrooms in the era digitisation and diversity that requires a more substantial epistemological and structural shift within journalism than has thus far been enacted.",
         "url": "https://doi.org/10.1080/21670811.2024.2394789",
         "topics_llm": true
       },
@@ -2587,7 +2587,7 @@
           "Media ethics",
           "Audience perception"
         ],
-        "abstract": "",
+        "abstract": "In the first year of the war in Ukraine, several photographs were made that gave editors pause when making decisions about their publication. Photographs depicting bodies or severe injury challenged norms. In these situations, editors typically have drawn on criteria of ethics and their understanding of what they think their audience will accept. But there is little evidence that anyone has consulted readers to determine their levels of comfort with the publication of graphic photographs. A Q-method study of potential viewers (N-31) of photographs of the war in Ukraine found that while they generally believe news organizations have a responsibility to inform the public of the reality of war, they differ in what that means in terms of photographs that should be published. The preferences of about half the participants are similar to those of editors, but about a quarter of the participants would publish much more graphic photographs showing bodies and severe injury. The other quarter fell between those extremes, accepting more graphic photographs if they show respect for those depicted in them.",
         "url": "https://doi.org/10.1080/21670811.2024.2397091",
         "topics_llm": true
       },
@@ -2676,6 +2676,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2548795",
+        "title": "“I Empathize With Them”: How Newsroom Leadership Assesses Mental Health and Hostility Toward Their Journalists",
+        "authors": [
+          "Kaitlin C. Miller"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Newsroom management",
+          "Journalist mental health",
+          "Workplace hostility",
+          "Leadership assessment"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/21670811.2025.2548795",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2436548",
         "title": "The Relationship Between Incidental News Exposure and Political Participation: A Cross-Country, Multilevel Analysis",
         "authors": [
@@ -2694,7 +2712,7 @@
           "Cross-national analysis",
           "Incidental media consumption"
         ],
-        "abstract": "",
+        "abstract": "In the modern, networked information environment, incidental exposure (IE) to political news is often theorized to benefit democracy, particularly by fueling political participation. Using cross-national survey data with more than 28,000 respondents from seventeen countries, we distinguished between first-level IE (i.e., the mere scanning of incidentally encountered information) and second-level IE (i.e., effortful processing of incidentally encountered information). We found that first-level IE was negatively related to political participation carried out through social media, while second-level IE was positively associated to both social media-based and offline participation. Furthermore, we found that the association between first-level IE and offline participation turned significantly positive for the healthiest democracies. Overall, findings suggest that the participatory role of first-level IE depend on the current quality state of a democracy.",
         "url": "https://doi.org/10.1080/21670811.2024.2436548",
         "topics_llm": true
       }

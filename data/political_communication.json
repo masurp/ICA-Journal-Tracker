@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-06-08T10:51:46Z",
-  "trending_from": "2024-06-08",
+  "updated_at": "2026-06-15T12:11:19Z",
+  "trending_from": "2024-06-15",
   "sections": {
     "most_cited": [
       {
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1475,
+        "citation_count": 1477,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1040,
+        "citation_count": 1041,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -122,7 +122,7 @@
           "Shelley Boulianne"
         ],
         "year": 2009,
-        "citation_count": 917,
+        "citation_count": 918,
         "topics": [
           "Internet use",
           "Civic engagement",
@@ -181,7 +181,7 @@
           "Yasmin Morag"
         ],
         "year": 2019,
-        "citation_count": 651,
+        "citation_count": 653,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
@@ -199,7 +199,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 622,
+        "citation_count": 623,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -331,7 +331,7 @@
           "Dietram A. Scheufele"
         ],
         "year": 2000,
-        "citation_count": 521,
+        "citation_count": 522,
         "topics": [
           "News media use",
           "Knowledge gaps",
@@ -350,7 +350,7 @@
           "Chris Wells"
         ],
         "year": 2020,
-        "citation_count": 517,
+        "citation_count": 518,
         "topics": [
           "Disinformation",
           "Political communication",
@@ -387,7 +387,7 @@
           "John Zaller"
         ],
         "year": 2003,
-        "citation_count": 494,
+        "citation_count": 495,
         "topics": [
           "News quality",
           "Journalism",
@@ -405,7 +405,7 @@
           "William P. Eveland"
         ],
         "year": 2004,
-        "citation_count": 486,
+        "citation_count": 487,
         "topics": [
           "Political discussion",
           "Political knowledge",
@@ -442,7 +442,7 @@
           "Leticia Bode"
         ],
         "year": 2020,
-        "citation_count": 438,
+        "citation_count": 439,
         "topics": [
           "Misinformation",
           "Defining misinformation",
@@ -481,7 +481,7 @@
           "Lilach Nir"
         ],
         "year": 2002,
-        "citation_count": 434,
+        "citation_count": 435,
         "topics": [
           "Political deliberation",
           "Disagreement",
@@ -500,7 +500,7 @@
           "David Tewksbury"
         ],
         "year": 2000,
-        "citation_count": 423,
+        "citation_count": 424,
         "topics": [
           "News media consumption",
           "Internet vs traditional media",
@@ -575,7 +575,7 @@
           "Matthew Baum"
         ],
         "year": 2003,
-        "citation_count": 402,
+        "citation_count": 403,
         "topics": [
           "Soft news",
           "Political knowledge",
@@ -661,6 +661,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2019.1661888",
+        "title": "Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign",
+        "authors": [
+          "Franziska Keller",
+          "David Schoch",
+          "Sebastian Stier",
+          "JungHwan Yang"
+        ],
+        "year": 2019,
+        "citation_count": 360,
+        "topics": [
+          "Astroturfing",
+          "Disinformation campaigns",
+          "Twitter",
+          "Political communication"
+        ],
+        "abstract": "Political astroturfing, a centrally coordinated disinformation campaign in which participants pretend to be ordinary citizens acting independently, has the potential to influence electoral outcomes and other forms of political behavior. Yet, it is hard to evaluate the scope and effectiveness of political astroturfing without “ground truth” information, such as the verified identity of its agents and instigators. In this paper, we study the South Korean National Information Service’s (NIS) disinformation campaign during the presidential election in 2012, taking advantage of a list of participating accounts published in court proceedings. Features that best distinguish these accounts from regular users in contemporaneously collected Twitter data are traces left by coordination among astroturfing agents, instead of the individual account characteristics typically used in related approaches such as social bot detection. We develop a methodology that exploits these distinct empirical patterns to identify additional likely astroturfing accounts and validate this detection strategy by analyzing their messages and current account status. However, an analysis relying on Twitter influence metrics shows that the known and suspect NIS accounts only had a limited impact on political social media discussions. By using the principal-agent framework to analyze one of the earliest revealed instances of political astroturfing, we improve on extant methodological approaches to detect disinformation campaigns and ground them more firmly in social science theory.",
+        "url": "https://doi.org/10.1080/10584609.2019.1661888",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2021.1910390",
         "title": "Social Media and Political Agenda Setting",
         "authors": [
@@ -679,27 +700,6 @@
         ],
         "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
         "url": "https://doi.org/10.1080/10584609.2021.1910390",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2019.1661888",
-        "title": "Political Astroturfing on Twitter: How to Coordinate a Disinformation Campaign",
-        "authors": [
-          "Franziska Keller",
-          "David Schoch",
-          "Sebastian Stier",
-          "JungHwan Yang"
-        ],
-        "year": 2019,
-        "citation_count": 359,
-        "topics": [
-          "Astroturfing",
-          "Disinformation campaigns",
-          "Twitter",
-          "Political communication"
-        ],
-        "abstract": "Political astroturfing, a centrally coordinated disinformation campaign in which participants pretend to be ordinary citizens acting independently, has the potential to influence electoral outcomes and other forms of political behavior. Yet, it is hard to evaluate the scope and effectiveness of political astroturfing without “ground truth” information, such as the verified identity of its agents and instigators. In this paper, we study the South Korean National Information Service’s (NIS) disinformation campaign during the presidential election in 2012, taking advantage of a list of participating accounts published in court proceedings. Features that best distinguish these accounts from regular users in contemporaneously collected Twitter data are traces left by coordination among astroturfing agents, instead of the individual account characteristics typically used in related approaches such as social bot detection. We develop a methodology that exploits these distinct empirical patterns to identify additional likely astroturfing accounts and validate this detection strategy by analyzing their messages and current account status. However, an analysis relying on Twitter influence metrics shows that the known and suspect NIS accounts only had a limited impact on political social media discussions. By using the principal-agent framework to analyze one of the earliest revealed instances of political astroturfing, we improve on extant methodological approaches to detect disinformation campaigns and ground them more firmly in social science theory.",
-        "url": "https://doi.org/10.1080/10584609.2019.1661888",
         "topics_llm": true
       },
       {
@@ -767,7 +767,7 @@
           "Murray Edelman"
         ],
         "year": 1993,
-        "citation_count": 333,
+        "citation_count": 335,
         "topics": [
           "Political framing",
           "Public opinion",
@@ -872,6 +872,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2018.1477506",
+        "title": "Computational Research in the Post-API Age",
+        "authors": [
+          "Deen Freelon"
+        ],
+        "year": 2018,
+        "citation_count": 291,
+        "topics": [
+          "API restrictions",
+          "Research methodology",
+          "Digital data access",
+          "Computational social science"
+        ],
+        "abstract": "Briefly describes the implications of the emerging post-API age for social science research methods.",
+        "url": "https://doi.org/10.1080/10584609.2018.1477506",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2017.1316329",
         "title": "The New Personal Influence: How Our Facebook Friends Influence the News We Read",
         "authors": [
@@ -887,24 +905,6 @@
         ],
         "abstract": "Has the introduction of social media into the information landscape changed the heuristics individuals use when selecting news? Social media allow users to easily share and endorse political content. These features facilitate personal influence, possibly increasing the salience of partisan information, making users more likely to read endorsed content. To test this possibility, I utilize snowball sampling to conduct a survey experiment featuring mock Facebook News Feeds. These feeds contain different levels of social media activity attributed to different sources, varying from fictional individuals to subjects’ own friends and family members. I find that online endorsements and discussions serve as heuristics when deciding which content to consume, outweighing partisan selectivity. This effect is only significant when the activity comes from friends or family members, as social influence attributed to fictional individuals has no effect on information selectivity.",
         "url": "https://doi.org/10.1080/10584609.2017.1316329",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2018.1477506",
-        "title": "Computational Research in the Post-API Age",
-        "authors": [
-          "Deen Freelon"
-        ],
-        "year": 2018,
-        "citation_count": 290,
-        "topics": [
-          "API restrictions",
-          "Research methodology",
-          "Digital data access",
-          "Computational social science"
-        ],
-        "abstract": "Briefly describes the implications of the emerging post-API age for social science research methods.",
-        "url": "https://doi.org/10.1080/10584609.2018.1477506",
         "topics_llm": true
       },
       {
@@ -928,25 +928,71 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584600500311394",
-        "title": "Media Matter: How Newspapers and Television News Cover Campaigns and Influence Voters",
+        "doi": "10.1080/01957470290055501",
+        "title": "From Top-Down to Trickle-Up Influence: Revisiting Assumptions About the Family in Political Socialization",
         "authors": [
-          "James Druckman"
+          "Michael A. McDevitt",
+          "Steven H. Chaffee"
         ],
-        "year": 2005,
+        "year": 2002,
         "citation_count": 289,
         "topics": [
-          "Campaign coverage",
-          "Media effects",
-          "Newspapers vs. television",
-          "Voter behavior"
+          "Political socialization",
+          "Family communication",
+          "Adolescent influence",
+          "Civic education"
         ],
-        "abstract": "How do different media cover politics and affect voters? Are newspapers a boon and television a bane to democratic functioning? While these questions have long been the subject of debate, a variety of methodological hurdles have hampered prior attempts to document media differences and their effects. In this article, I discuss these challenges and offer an approach for overcoming them to the greatest extent possible. I then combine comprehensive media content analyses with an election day exit poll to assess campaign coverage and its effect on voters. I find that television news and newspapers differ substantially in the quantity of coverage but do not drastically differ in terms of content. More important, I find that newspapers, and not television news, play a significant, although potentially limited, role in informing the electorate.",
-        "url": "https://doi.org/10.1080/10584600500311394",
+        "abstract": "A growing number of theorists are calling for a revival of research on political socialization based on the premise that children are active in their own civic development. We advance this argument a step further by proposing a model of family communication that reverses the roles of parents and children as conventionally understood in political socialization. Adolescent children are not merely receptive to political stimulation; they possess the power to transform patterns of family communication in ways that benefit themselves and their parents. We first challenge a series of interrelated assumptions about the nature and direction of influence in the family. We then document evidence of \"trickle-up influence,\" in which child-initiated discussion--stimulated by a civics curriculum--prompts the parent to increase her civic competence via increased news media use, knowledge gain, and opinion formation. The parent's response reflects her desire to maintain a leadership role in the family, and more important from a theoretical perspective, it reveals the intrinsic forces of family adaptation that can make the home a powerful incubator of citizenship. Political growth occurs when the family system adjusts to reestablish equilibrium in response to exogenous factors or developmental needs that propel change. The ultimate purpose of this essay is to propose a functional model of family political communication. We apply theoretical perspectives from developmental literature to illustrate how political communication serves the family goals of autonomy and cohesion during various stages of the family life cycle.",
+        "url": "https://doi.org/10.1080/01957470290055501",
         "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2671765",
+        "title": "Evaluating Echo Chambers, Rabbit Holes, and Radicalization Pathways on YouTube",
+        "authors": [
+          "Megan A. Brown",
+          "James Bisbee",
+          "Angela Lai",
+          "Richard Bonneau",
+          "Jonathan Nagler",
+          "Joshua A. Tucker"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online radicalization",
+          "Echo chambers",
+          "YouTube algorithms",
+          "Content recommendation systems"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2671765",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2679492",
+        "title": "Multi-Platform Referrers of Misinformation: A Comparative Analysis of Misinformation Visits Referred by Facebook, Twitter, Instagram, Reddit, YouTube, Snapchat, and TikTok",
+        "authors": [
+          "Ross Dahlke",
+          "Ryan C. Moore",
+          "Danya Adib-Azpeitia",
+          "Johan Ugander",
+          "Jeffrey Hancock"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Misinformation",
+          "Social media platforms",
+          "Web browsing behavior",
+          "Digital communication"
+        ],
+        "abstract": "Journalistic and scholarly accounts alike often depict social media platforms as key players in exposing people to misinformation. Unfortunately, existing research examining social media’s role in exposing people to misinformation online implicitly operates under what we call the direct referrer paradigm, focusing only on visits to misinformation that directly follow social media. We introduce the embedded referrer paradigm, which considers social media’s more comprehensive role in leading people to visit misinformation throughout their online journeys and operationalize it via counterfactual simulations. We estimate the effects of social media in exposing people to misinformation websites under both paradigms using 3 months of a large sample of Americans’ (N = 1,240) web browsing behavior (21 million website visits). We explore seven different platforms’ (Facebook, Instagram, Reddit, Snapchat, TikTok, Twitter, YouTube) effects in exposing people to misinformation sites with various ideological leanings. Overall, our results suggest that analyses under the direct referrer paradigm underestimate the role of social media in exposing people to misinformation, with estimated effects under the embedded referrer paradigm ranging from 1.5 to 15+ times larger than effects under the direct referrer paradigm. The difference in estimated effects under both paradigms is generally consistent across platforms, misinformation types (liberal, conservative, non-ideological), and individuals’ partisanship. However, for some combinations of platforms, types of misinformation, and mobile vs. desktop devices, the discrepancy between the two paradigms is even greater.",
+        "url": "https://doi.org/10.1080/10584609.2026.2679492",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2681041",
         "title": "Moving Targets, Moving Politics: The State of Play in Social Media Data Access",
@@ -1076,7 +1122,7 @@
           "Alexander Baturo"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Political communication",
           "Social media rhetoric",
@@ -1120,7 +1166,7 @@
           "Research access",
           "Social media research"
         ],
-        "abstract": "",
+        "abstract": "The EU’s Digital Services Act (DSA) establishes, for the first time, a legal right for independent researchers to access platform data in the public interest. Once designated as Very Large Online Platforms or Search Engines (VLOPSEs), services reaching 45 million EU users must provide data access to support research on “systemic risks.” Article 40 creates two pathways: Article 40(12) enables access to publicly available data beyond voluntary platform tools, while Article 40(4) allows vetted researchers to request non-public data – such as exposure logs, moderation records, and recommendation metrics – through national Digital Services Coordinators rather than platforms. Both routes are purpose-limited to studying systemic risks and, for Article 40(4), mitigation measures. Yet the DSA’s broad, non-exhaustive definition of systemic risk – covering illegal content, fundamental rights, civic discourse, public health, and user well-being – opens a wide research space spanning misinformation flows, political networks, algorithmic amplification, and platform governance, among others. Early implementation reveals challenges, including uneven compliance, uncertain technical standards, funding constraints, and limits to data sharing for replication. Nonetheless, the DSA marks a turning point: platform research is no longer dependent on corporate discretion but grounded in public-interest regulation. Researchers now play a central role in shaping evidence-based oversight of digital platforms in Europe.",
         "url": "https://doi.org/10.1080/10584609.2026.2664157",
         "topics_llm": true
       },
@@ -1177,7 +1223,7 @@
           "Carolyn Schmitt"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Disinformation",
           "Cultural narratives",
@@ -1221,7 +1267,7 @@
           "Voter behavior",
           "Taiwan elections"
         ],
-        "abstract": "",
+        "abstract": "Is personalized social media beneficial for female politicians, and how do voters respond to personalized posts from these candidates? To explore this question, this study employs a unique dual-method approach that integrates content analysis of candidates’ Facebook posts with online experiments evaluating voter responses. Additionally, the study refines the definition of personalization to include both the privatization of candidates’ personal lives and the individualization of their viewpoints. The findings show that although posts about candidates’ private lives are relatively rare, there’s been a notable rise in content reflecting individual viewpoints. Content analysis suggests that female candidates are less likely to use personalized messaging. However, online experiments reveal that voters respond positively to such content, increasing both likability and voting intentions. These results suggest that female candidates, still navigating gendered expectations, may be underestimating the advantages of personalization – possibly because voters’ attitudes have evolved more quickly than the candidates realize. This disparity between their limited use of personalized messaging and the favorable voter response underscores the complex influence of gender stereotypes on women in politics.",
         "url": "https://doi.org/10.1080/10584609.2026.2633335",
         "topics_llm": true
       },
@@ -1277,7 +1323,7 @@
           "Alexander Wuttke"
         ],
         "year": 2026,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Artificial Intelligence",
           "Election campaigns",
@@ -1427,7 +1473,7 @@
           "Political messaging",
           "Communication effectiveness"
         ],
-        "abstract": "",
+        "abstract": "Prominent scholars have argued that reframing political positions and issues in terms of moral foundations that appeal to conservatives or liberals can attract more individual-level support for those positions, even when such support would be unexpected. Such a change of attitude would be promising for those looking to narrow ideological divides. As two independent research teams, we set out to explore the promising evidence along these lines and to identify further nuances in the arguments. We tested moral reframing in the context of five issue areas: the environment, tax policy, immigration, English as an official language, and universal healthcare. We consistently found null results, not just for overall samples but for sub-groups that have been hypothesized as the most likely to be affected by moral reframing. Using Bayes factors, the observed data are 100 times more likely to occur under the null hypothesis (of no effect) than the moral foundations hypothesis. We explored the reasons for these null results by examining possibilities such as misunderstanding the treatment, the negative or positive valence of the treatment, and small sample sizes. We found no plausible explanation for the absence of treatment effect. Moral reframing techniques may be less helpful to persuasion than previous research suggests.",
         "url": "https://doi.org/10.1080/10584609.2026.2612739",
         "topics_llm": true
       },
@@ -1502,7 +1548,7 @@
           "Media perception",
           "Local vs. national information"
         ],
-        "abstract": "",
+        "abstract": "This paper examines conditions under which under- and overestimations about the scale of nationwide COVID-19 deaths attenuate. From May through November 2020, more than a quarter of Americans thought there would be fewer COVID-19 deaths by year’s end than had already occurred at the time of their interview; nearly one-in-ten thought there would be over 1 million COVID-19 deaths, a toll that was not reached until May 2022. We develop a theory that high national media attention to the pandemic and high local coronavirus incidence jointly attenuate misperceptions. Evidence from a large-n survey, county-level COVID-19 incidence data, and text analysis of national news outlets partially supports this theory: when activated by national media attention, local experience attenuates underestimations and, to a lesser degree, overestimations. However, in the absence of local experience, national media attention exacerbates underestimations. We also show that underestimations about the COVID-19 pandemic are personally and politically consequential. This paper advances understanding of conditions under which factual misperceptions may be attenuated and of the interplay between local experience and national media attention.",
         "url": "https://doi.org/10.1080/10584609.2025.2604709",
         "topics_llm": true
       },
@@ -1522,7 +1568,7 @@
           "Digital manipulation",
           "Online disinformation"
         ],
-        "abstract": "10.1080/10584609.2025.2595596",
+        "abstract": "Despite a growing body of literature on computational propaganda, significant gaps remain in the existing literature, particularly in its Western-centric focus and emphasis on leading platforms, such as Twitter. This symposium attempts to address these gaps and extend our understanding of computational propaganda beyond Western contexts. The contributions of this symposium offer new theoretical insights, such as Performative Propaganda Engagement and the Reference Point Adjustment, to the literature. It also presents new empirical evidence from underexplored contexts, including Indonesia, the Philippines, China, Turkey, and Thailand. The papers published in the symposium provide a fresh understanding of these non-Western governments’ novel tactics and practices in sharing computational propaganda, which is not necessarily limited to conventional forms of disinformation or social platforms. This essay introduces the collection by outlining the concept of computational propaganda, examining its core components, and identifying enduring gaps in the literature, before demonstrating how the included contributions address these gaps.",
         "url": "https://doi.org/10.1080/10584609.2025.2595596",
         "topics_llm": true
       },
@@ -1639,7 +1685,7 @@
           "Platform resilience",
           "Accelerationist politics"
         ],
-        "abstract": "",
+        "abstract": "This study investigates how a far-right extremist group, The Base, enacts communicative resilience (CR) strategies across digital platforms despite deplatforming efforts. In our empirical analysis, we conducted a content analysis of 69 conversations about bans that occurred in The Base’s encrypted chatrooms on Matrix and Wire between 2018 and 2020. We examined if and how the CR processes outlined in the communication theory of resilience (CTR) applied to far-right extremists groups operating online. Our analysis shows that deplatforming, while disruptive, triggers CR processes that activate collaborative discovery of new methods to remain resilient. Additionally, we discovered an additional, online performative process of persistent presence in response to a perceived constant, existential threat. That strategy demonstrates operational capacity, reinforces group-based identities, accrues social capital, and performs a proven capacity to challenge detractors. By assessing The Base’s online dynamics, this study contributes to broader conversations on mediated CTR, deplatforming, extremism, and the role of CR in political legitimation.",
         "url": "https://doi.org/10.1080/10584609.2025.2578364",
         "topics_llm": true
       },
@@ -1678,7 +1724,7 @@
           "Moral rhetoric",
           "Digital platforms"
         ],
-        "abstract": "",
+        "abstract": "To understand differences among digital platforms, examining the communication modes used on distinct platforms may be informative. This article illustrates how modes of communication on different platforms can relate to the serious risk of online toxicity. With a comparative approach, the authors examine how toxicity production relates to moral rhetoric on both political talk shows shared on YouTube and articles on news websites in Taiwan. With longitudinal survey data, they also clarify how exposure to toxic content on different platforms generates downstream consequences for social trust. The results show significant differences in toxic content across platforms. Not only do talk shows exhibit more toxic content than news articles, but this toxic content is more strongly associated with a rhetoric that prioritizes the moral foundations of loyalty and authority over other moral foundations, such as fairness. Furthermore, the associations appear stronger in talk shows than in news articles. Survey data further reveal that, compared with reading news articles, viewing talk shows increases people’s exposure to toxic content, which undermines social trust. These insights have notable implications for both media ecologies and multiplatform research.",
         "url": "https://doi.org/10.1080/10584609.2025.2572077",
         "topics_llm": true
       },
@@ -1722,7 +1768,7 @@
           "Democratic decline",
           "State power"
         ],
-        "abstract": "",
+        "abstract": "Top-down information control through strategic executions of propaganda campaigns does not only occur in autocratic countries, as we show here, political elites and allies in weakening democracies engage in information manipulation and control tactics to attack existing pillars of democracy, such as the independent press and free and fair elections. We expand upon the scholarship of “competitive authoritarianism” by focusing on these actors’ resource weaponization and degrees of capture of both traditional and digital advertising mechanisms to spread propaganda in order to bolster and centralize their political power. To do so, we engage in an international comparative study of four countries considered competitive authoritarian regimes: Bolivia, Hungary, Tunisia, and Turkey. Thematic analysis of data collected in 60 in-depth interviews with media and political experts indicates that these political elites and their allies wield advertising resources as a means to spread pro-government propaganda and exact informational control in coordinated efforts across digital and traditional media realms. In the case studies, we examine here, we argue that actors use advertising to manipulate information spaces with the anti-democratic aim of attacking critical and dissenting voices to suppress political plurality and centralize a budding authoritative power.",
         "url": "https://doi.org/10.1080/10584609.2025.2566930",
         "topics_llm": true
       },
@@ -1798,7 +1844,7 @@
           "Cross-national analysis",
           "Collective imagination"
         ],
-        "abstract": "",
+        "abstract": "“The people” is a central concept in populism, yet it remains unclear how those who identify with this community interpret it. Drawing on social identity theory and fandom studies, this study examines how populist supporters identify with “the people.” Using a comparative analysis of right- and left-wing populist supporters in the United States and Spain, the study analyzes 33 in-depth interviews (between April and October 2021) and 6,000 online community interactions (between September 2019 and January 2021). This approach captures both individual and collective interpretations while highlighting how media, especially digital platforms, shape imagined communities by fostering shared identities and emotions and encouraging social and political engagement. Findings reveal three interconnected dimensions of identification with “the people”: the imagined, the felt, and the experienced. Supporters’ positive view of “the people” as hardworking and guided by common sense evokes strong emotions – such as in-group love, connected to their self-concept – validated through meaningful social experiences online and offline. This study emphasizes the central role of social motivation in populist engagement and highlights the need for further cross-national, cross-ideological research to deepen scholarly understanding of populism.",
         "url": "https://doi.org/10.1080/10584609.2025.2550423",
         "topics_llm": true
       },
@@ -1819,7 +1865,7 @@
           "Online deliberation",
           "Audience fragmentation"
         ],
-        "abstract": "",
+        "abstract": "We examine how multi-platform digital environments influence intra-party dynamics within political organizations, focusing on the Italian Five Star Movement (M5S) as a paradigmatic case of extreme digital party. Leveraging a unique dataset spanning five online platforms central to the M5S community – Beppe Grillo’s Blog, the M5S Forum, Meetup, Facebook, and the website of the M5S 2012 online primaries – this research classifies platforms based on their affordances (visibility and associability) to analyze cross-platform activity, communication patterns, and candidate selection. The findings reveal the fragmented nature of multi-platform environments in fostering simultaneously centripetal and centrifugal dynamics within political organizations, highlighting critical implications of digital platforms for intra-party dynamics. We identify significant differences in platform affordances, with communication emerging as either top-down or horizontal. Cross-platform engagement is limited and asymmetric, with grassroots-oriented platforms fostering cross-engagement as opposed to top-down platforms, reinforcing boundaries that hinder internal cohesion. Leadership communicative influence varies across platforms, suggesting that user behavior and platform design mediate leadership power. Candidate selection reflects both leadership and grassroots dynamics: candidates’ success correlates with local network centrality on Meetup and alignment with leadership messaging on Facebook. Our study reveals how multi-platform environments generate fragmented patterns of internal communication and influence within political parties when they progressively increase their exposure to the mediation of digital technologies and provides insights into their broader implications for democracy, given the centrality of parties in elite selection and the functioning of democratic systems.",
         "url": "https://doi.org/10.1080/10584609.2025.2548288",
         "topics_llm": true
       },
@@ -1858,45 +1904,8 @@
           "Motivated reasoning",
           "Survey methodology"
         ],
-        "abstract": "",
+        "abstract": "There is an on-going debate about the degree to which Americans’ self-reported beliefs in falsehoods are expressive, serving to increase respondents’ standing with their political in-group and to sway others, or sincere. Furthermore, there has been little consideration of whether the meaning of self-reported beliefs might change over time and whether liberals and conservatives differ in their propensity to engage in expressive responding. We contribute to this debate using a novel approach that compares self-reported exposure and belief about researcher-created “decoy” falsehoods that are critical of the political in-group to matching items that are critical of the out-group over an eight-wave panel study conducted during and after the 2020 election season. We find that exposure and beliefs in decoy falsehoods targeting the in-group and out-group tend to be similar, suggesting that expressive responding is relatively rare. There is, however, a modest increase in partisan bias in self-reported exposure and belief in these decoys associated with temporal proximity to the U.S. presidential election. We find little evidence of a difference between Republicans and Democrats self-reported belief in decoy falsehoods.",
         "url": "https://doi.org/10.1080/10584609.2025.2532584",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2529939",
-        "title": "Dynamic Legitimation Theory and Populist Authoritarian Leaders: The Rhetorical Framing of International Status for Domestic Legitimacy",
-        "authors": [
-          "John C Stanko"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Populism",
-          "Legitimation",
-          "Political rhetoric",
-          "Authoritarianism"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2025.2529939",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2529909",
-        "title": "Watching a Show versus Being There: Embodied Gatekeeping and Visual Perspective in Congress",
-        "authors": [
-          "Mary Angela Bock",
-          "Renita Coleman"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "gatekeeping",
-          "visual perspective",
-          "congressional communication",
-          "embodied presence"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2025.2529909",
         "topics_llm": true
       }
     ],
@@ -1914,14 +1923,14 @@
           "Christian Katzenbach"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Platform governance",
           "Media coverage",
           "Content moderation policy",
           "Social media regulation"
         ],
-        "abstract": "Social media companies wield considerable power over what people can say and do online, with consequences for freedom of expression and participation in digital culture. Yet we still know little about the factors that shape these companies' policy decisions. Drawing on data collected from mainstream English-language news sources between 2005-2021 and on a novel dataset of policy documents from the Platform Governance Archive (PGA), we investigate the extent to which policy change at Facebook, Twitter, and YouTube is responsive to negative news coverage. We find that sustained negative coverage significantly predicts changes to platforms' user policies, highlighting the role of public pressure in shaping the governance of online platforms.",
+        "abstract": "Social media companies wield considerable power over what people can say and do online, with consequences for freedom of expression and participation in digital culture. Yet we still know little about the factors that shape these companies’ policy decisions. Drawing on data collected from mainstream English-language news sources between 2005-2021 and on a novel dataset of policy documents from the Platform Governance Archive (PGA), we investigate the extent to which policy change at Facebook, Twitter, and YouTube is responsive to negative news coverage. We find that sustained negative coverage significantly predicts changes to platforms’ user policies, highlighting the role of public pressure in shaping the governance of online platforms.",
         "url": "https://doi.org/10.1080/10584609.2024.2377992",
         "topics_llm": true
       },
@@ -1933,14 +1942,14 @@
           "Desirée Schmuck"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Social media influencers",
           "Political communication",
           "Cross-cultural analysis",
           "Content analysis"
         ],
-        "abstract": "sponsorship: Fonds Wetenschappelijk Onderzoek|11F6423N, Fonds Wetenschappelijk Onderzoek|G0B7822N, 2022 AEJMC Emerging Scholars Grant",
+        "abstract": "Social media influencers (SMIs) are not only important players in marketing but have also repeatedly posted about political issues on their channels. Yet, we lack insights into the prevalence of their political communication, their portrayal of different political subjects, and factors driving content popularity among audiences. This comparative study tackles these gaps: Quota-based youth surveys in Germany and Belgium (NTotal = 2,800) informed a YouTube content analysis in both countries (NTotal = 5,740), which was complemented by video metadata (i.e. views and likes per views on videos). Our findings show that most youth encounter political content from SMIs, but on a more occasional basis. Correspondingly, we found that most of the SMIs in our sample addressed political topics rather sporadically. However, their political videos received more views and likes than their nonpolitical content, implying that their discussion of meaningful subjects garners audiences’ attention. Our five-year analysis further suggests that political topics have become more prevalent in their content over time, pointing to an upwards trend in their political communication in recent years. Moreover, findings indicate that lifestyle-based political topics (e.g., gender, health) are most frequently discussed by SMIs. Generally, political topics were most often presented in the form of commentaries or reaction videos, which has several theoretical implications. Last, our results demonstrate that commentary-style videos and those characterized by high infotainment are most liked by audiences, showing that this type of content resonates strongly with SMIs’ viewers.",
         "url": "https://doi.org/10.1080/10584609.2024.2406809",
         "topics_llm": true
       },
@@ -1971,7 +1980,7 @@
           "Nicolai Berk"
         ],
         "year": 2025,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Media framing",
           "Information environments",
@@ -1996,7 +2005,7 @@
           "Public opinion",
           "Digital communication"
         ],
-        "abstract": "",
+        "abstract": "To illuminate the varied and sometimes contradictory modes of public engagement practiced by right and far-right publics, this forum contribution introduces a concept of anti-woke publics. Representing themselves as fair-minded occupants of a political middle ground, anti-woke publics characterize wokeness as a divisive and destructive leftist ideology. They draw on discursive strategies of abstraction, universalism, and ahistoricism that obscure their ideological orientation and divert public attention from the unequal, unjust, and anti-democratic consequences of their advocacy. Their public engagement exhibits a fundamental tension between professed commitments to equal opportunity and their public advocacy in defense of an unequal status quo. Anti-woke publics situate the individual as the primary social actor and champion colorblindness as the ethical orientation for engaging diverse public actors. Sharing advocacy networks with avowedly supremacist publics, anti-woke publics facilitate the wider circulation of supremacist discourses among influential and mainstream publics.",
         "url": "https://doi.org/10.1080/10584609.2024.2425782",
         "topics_llm": true
       },
@@ -2015,7 +2024,7 @@
           "Political parties",
           "European politics"
         ],
-        "abstract": "Scholars have argued that populists disproportionately benefit from social media, and there is evidence that they attract more engagement than other politicians and parties in several countries. We systematically evaluate the relationship between populism and online popularity using a novel dataset covering over four hundred parties active on Facebook and Twitter in thirty European countries between 2010 and 2020. We use Bayesian hierarchical models to assess the relationship between populism and three types of engagement on each platform. We find that populists received more engagement than other parties on Facebook, but there was no consistent relationship on Twitter. Among these parties, only right-wing populist parties had any widespread advantages. Our results highlight considerable heterogeneity across countries and over time, providing new insight into the scope and scale of populists' online popularity. This includes evidence that left-wing and centrist parties attracted more engagement in a handful of countries. We evaluate several explanations for these results, finding that negative macroeconomic indicators and increased migration are positively correlated with populist engagement, while internet and social media adoption have mixed impacts that benefit right-wing populists.",
+        "abstract": "Scholars have argued that populists disproportionately benefit from social media, and there is evidence that they attract more engagement than other politicians and parties in several countries. We systematically evaluate the relationship between populism and online popularity using a novel dataset covering over four hundred parties active on Facebook and Twitter in thirty European countries between 2010 and 2020. We use Bayesian hierarchical models to assess the relationship between populism and three types of engagement on each platform. We find that populists received more engagement than other parties on Facebook, but there was no consistent relationship on Twitter. Among these parties, only right-wing populist parties had any widespread advantages. Our results highlight considerable heterogeneity across countries and over time, providing new insight into the scope and scale of populists’ online popularity. This includes evidence that left-wing and centrist parties attracted more engagement in a handful of countries. We evaluate several explanations for these results, finding that negative macroeconomic indicators and increased migration are positively correlated with populist engagement, while internet and social media adoption have mixed impacts that benefit right-wing populists.",
         "url": "https://doi.org/10.1080/10584609.2024.2369118",
         "topics_llm": true
       },
@@ -2097,7 +2106,7 @@
           "Disinformation",
           "Identity-based discourse"
         ],
-        "abstract": "",
+        "abstract": "Critical Race Theory (CRT) has recently garnered considerable political attention. This study examines how partisan news headlines discussed CRT, specifically analyzing how the incorporated language can resonate with white Americans’ shared imaginaries to reframe CRT. We employ a critical disinformation approach to interpret the computationally analyzed partisan news headlines (N = 7320) from January 1, 2016, to December 31, 2022. Right-leaning sources overwhelmingly discussed CRT, including language evocative of white Americans’ racial consciousness and racial resentment. We discuss our findings considering the impact of identity-based disinformation amid increasing opposition to diversity. Discussion reflects upon the need for critical approaches to disinformation research that center historical and sociopolitical contexts.",
         "url": "https://doi.org/10.1080/10584609.2025.2458069",
         "topics_llm": true
       },
@@ -2159,7 +2168,7 @@
           "Political representation",
           "Electoral behavior"
         ],
-        "abstract": "On paper, women politicians should be punished more than men when they go negative during election campaigns. Yet, empirical evidence in this sense is surprisingly scarce, and findings offer a muddled picture. In this article, we argue that existing research has, so far, neglected to consider a fundamental intervening factor: the role of the context, and specifically the level of descriptive representation of women in politics. Using novel large-scale data for 700+ candidates having competed in 150+ elections in 94 countries worldwide, we test–and confirm–the expectation that women are especially punished for negative campaigning in countries with low descriptive representation of women in politics. This pattern does not hold in more gender-equal contexts. Additional observational evidence from the Comparative Study of Electoral Systems (CSES) shows that this electoral punishment is likely due to voters expressing lower likability of women candidates (compared to men) when the former go negative in countries where women are less established in political leadership positions. We suggest that inconsistent results in previous studies are likely due to the lack of comparative focus.",
+        "abstract": "On paper, women politicians should be punished more than men when they go negative during election campaigns. Yet, empirical evidence in this sense is surprisingly scarce, and findings offer a muddled picture. In this article, we argue that existing research has, so far, neglected to consider a fundamental intervening factor: the role of the context, and specifically the level of descriptive representation of women in politics. Using novel large-scale data for 700+ candidates having competed in 150+ elections in 94 countries worldwide, we test – and confirm – the expectation that women are especially punished for negative campaigning in countries with low descriptive representation of women in politics. This pattern does not hold in more gender-equal contexts. Additional observational evidence from the Comparative Study of Electoral Systems (CSES) shows that this electoral punishment is likely due to voters expressing lower likability of women candidates (compared to men) when the former go negative in countries where women are less established in political leadership positions. We suggest that inconsistent results in previous studies are likely due to the lack of comparative focus.",
         "url": "https://doi.org/10.1080/10584609.2024.2434930",
         "topics_llm": true
       },
@@ -2233,6 +2242,25 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1080/10584609.2025.2498533",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2025.2467905",
+        "title": "The Political Court: Newspaper Coverage, Appointment Politics, and Public Support of the United States Supreme Court, 1980–2023",
+        "authors": [
+          "Joshua Boston",
+          "Christopher N. Krewson"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Supreme Court",
+          "Media framing",
+          "Judicial legitimacy",
+          "Political polarization"
+        ],
+        "abstract": "The public expects courts to behave as legal institutions. But news media coverage of courts often contradicts that expectation. We argue that political framing – the media’s use of political, ideological, and partisan language – in news coverage of the United States Supreme Court has increased, and that political framing harms Court support. We employ a novel dataset of Court media coverage from five newspapers of record from 1980 to 2023. Observational data demonstrate (1) an increase in the use of political terms in news coverage of the Court over time, and (2) an unmistakable and abrupt increase in political framing in 2016 following the death of Justice Antonin Scalia. Using a survey experiment, we establish the validity of our measurement approach as well as the causal implications of these trends for public perceptions of the Court. This study makes clear that Justice Scalia’s death, and the intense politics it initiated, introduced a level of political coverage of the Supreme Court that has not been observed for at least two generations. The stark change in how the news media covers the Court has important implications for the public’s attitudes toward judges, perceptions of the proper judicial role, and support for courts.",
+        "url": "https://doi.org/10.1080/10584609.2025.2467905",
         "topics_llm": true
       }
     ]

@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-06-08T10:52:02Z",
-  "trending_from": "2024-06-08",
+  "updated_at": "2026-06-15T12:11:43Z",
+  "trending_from": "2024-06-15",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 75,
+        "citation_count": 76,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 60,
+        "citation_count": 61,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -81,7 +81,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 59,
+        "citation_count": 60,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -138,7 +138,7 @@
           "Oliver Quiring"
         ],
         "year": 2020,
-        "citation_count": 34,
+        "citation_count": 35,
         "topics": [
           "Online incivility detection",
           "Computational text classification",
@@ -162,7 +162,7 @@
           "Marc Jungblut"
         ],
         "year": 2021,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Sentiment analysis",
           "Dictionary-based methods",
@@ -202,7 +202,7 @@
           "ZACHARY STEINERT-THRELKELD"
         ],
         "year": 2022,
-        "citation_count": 28,
+        "citation_count": 29,
         "topics": [
           "Visual Content Analysis",
           "Political Communication",
@@ -280,7 +280,7 @@
           "Yilang Peng"
         ],
         "year": 2022,
-        "citation_count": 21,
+        "citation_count": 22,
         "topics": [
           "Visual aesthetics",
           "Computational analysis",
@@ -299,7 +299,7 @@
           "Damian Trilling"
         ],
         "year": 2020,
-        "citation_count": 20,
+        "citation_count": 21,
         "topics": [
           "Recommender systems",
           "News consumption",
@@ -339,7 +339,7 @@
           "Stefan Geiß"
         ],
         "year": 2021,
-        "citation_count": 18,
+        "citation_count": 19,
         "topics": [
           "Content analysis",
           "Statistical power",
@@ -360,7 +360,7 @@
           "Sebastian Raschka"
         ],
         "year": 2022,
-        "citation_count": 18,
+        "citation_count": 19,
         "topics": [
           "Visual framing",
           "Science conspiracy",
@@ -369,6 +369,28 @@
         ],
         "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
         "url": "https://doi.org/10.5117/ccr2022.1.003.chen",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2020.1.004.roch",
+        "title": "Opinion-based Homogeneity on YouTube",
+        "authors": [
+          "Daniel Röchert",
+          "German Neubaum",
+          "Björn Roß",
+          "Florian Brachten",
+          "Stefan Stieglitz"
+        ],
+        "year": 2020,
+        "citation_count": 19,
+        "topics": [
+          "Political polarization",
+          "Echo chambers",
+          "YouTube",
+          "Natural language processing"
+        ],
+        "abstract": "When addressing public concerns such as the existence of politically like-minded communication spaces in social media, analyses of complex political discourses are met with increasing methodological challenges to process communication data properly. To address the extent of political like-mindedness in online communication, we argue that it is necessary to focus not only on ideological homogeneity in online environments, but also on the extent to which specific political questions are discussed in a uniform manner. This study proposes an innovative combination of computational methods, including natural language processing and social network analysis, that serves as a model for future research examining the evolution of opinion climates in online networks. Data were gathered on YouTube, enabling the assessment of users’ expressed opinions on three political issues (i.e., adoption rights for same-sex couples, headscarf rights, and climate change). Challenging widely held assumptions on discursive homogeneity online, the results provide evidence for a moderate level of connections between dissimilar YouTube comments but few connections between agreeing comments. The findings are discussed in light of current computational communication research and the vigorous debate on the prevalence of like-mindedness in online networks.",
+        "url": "https://doi.org/10.5117/ccr2020.1.004.roch",
         "topics_llm": true
       },
       {
@@ -412,28 +434,6 @@
         ],
         "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
         "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2020.1.004.roch",
-        "title": "Opinion-based Homogeneity on YouTube",
-        "authors": [
-          "Daniel Röchert",
-          "German Neubaum",
-          "Björn Roß",
-          "Florian Brachten",
-          "Stefan Stieglitz"
-        ],
-        "year": 2020,
-        "citation_count": 18,
-        "topics": [
-          "Political polarization",
-          "Echo chambers",
-          "YouTube",
-          "Natural language processing"
-        ],
-        "abstract": "When addressing public concerns such as the existence of politically like-minded communication spaces in social media, analyses of complex political discourses are met with increasing methodological challenges to process communication data properly. To address the extent of political like-mindedness in online communication, we argue that it is necessary to focus not only on ideological homogeneity in online environments, but also on the extent to which specific political questions are discussed in a uniform manner. This study proposes an innovative combination of computational methods, including natural language processing and social network analysis, that serves as a model for future research examining the evolution of opinion climates in online networks. Data were gathered on YouTube, enabling the assessment of users’ expressed opinions on three political issues (i.e., adoption rights for same-sex couples, headscarf rights, and climate change). Challenging widely held assumptions on discursive homogeneity online, the results provide evidence for a moderate level of connections between dissimilar YouTube comments but few connections between agreeing comments. The findings are discussed in light of current computational communication research and the vigorous debate on the prevalence of like-mindedness in online networks.",
-        "url": "https://doi.org/10.5117/ccr2020.1.004.roch",
         "topics_llm": true
       },
       {
@@ -606,28 +606,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.2.6.mate",
-        "title": "Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research",
-        "authors": [
-          "Ákos Máté",
-          "Miklós Sebők",
-          "Łukasz Wordliczek",
-          "Dariusz Stolicki",
-          "Ádám Feldmann"
-        ],
-        "year": 2023,
-        "citation_count": 11,
-        "topics": [
-          "Machine translation",
-          "Large language models",
-          "Comparative research",
-          "Text classification"
-        ],
-        "abstract": "While large language models have revolutionised computational text analysis methods, the field is still tilted towards English language resources. Even as there are pre-trained models for some smaller languages, the coverage is far from universal, and pre-training large language models is an expensive and complicated task. This uneven language coverage limits comparative social research in terms of its geographical and linguistic scope. We propose a solution that sidesteps these issues by leveraging transfer learning and open-source machine translation. We use English as a bridge language between Hungarian and Polish bills and laws to solve a classification task related to the Comparative Agendas Project (CAP) coding scheme. Using the Hungarian corpus as training data for model fine-tuning, we categorise the Polish laws into 20 CAP categories. In doing so, we compare the performance of Transformer-based deep learning models (monolinguals, such as BERT, and multilinguals such as XLM-RoBERTa) and machine learning algorithms (e.g., SVM). Results show that the fine-tuned large language models outperform the traditional supervised learning benchmarks but are themselves surpassed by the machine translation approach. Overall, the proposed solution demonstrates a viable option for applying a transfer learning framework for low-resource languages and achieving state-of-the-art results without requiring expensive pre-training.",
-        "url": "https://doi.org/10.5117/ccr2023.2.6.mate",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2022.1.005.jurg",
         "title": "Age and Gender Representation on German TV",
         "authors": [
@@ -636,7 +614,7 @@
           "Michael Scharkow"
         ],
         "year": 2022,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Television representation",
           "Age and gender bias",
@@ -657,7 +635,7 @@
           "Kasper Welbers"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Multilingual text analysis",
           "Transfer learning",
@@ -666,6 +644,28 @@
         ],
         "abstract": "The social science toolkit for computational text analysis is still very much in the making. We know surprisingly little about how to produce valid insights from large amounts of multilingual texts for comparative social science research. In this paper, we test several recent innovations from deep transfer learning to help advance the computational toolkit for social science research in multilingual settings. We investigate the extent to which ‘prior language and task knowledge’ stored in the parameters of modern language models is useful for enabling multilingual research; we investigate the extent to which these algorithms can be fruitfully combined with machine translation; and we investigate whether these methods are not only accurate but also practical and valid in multilingual settings – three essential conditions for lowering the language barrier in practice. We use two datasets with texts in 12 languages from 27 countries for our investigation. Our analysis shows, that, based on these innovations, supervised machine learning can produce substantively meaningful outputs. Our BERT-NLI model trained on only 674 or 1674 texts in only one or two languages can validly predict political party families’ stances towards immigration in eight other languages and ten other countries.",
         "url": "https://doi.org/10.5117/ccr2023.2.7.laur",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.2.6.mate",
+        "title": "Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research",
+        "authors": [
+          "Ákos Máté",
+          "Miklós Sebők",
+          "Łukasz Wordliczek",
+          "Dariusz Stolicki",
+          "Ádám Feldmann"
+        ],
+        "year": 2023,
+        "citation_count": 11,
+        "topics": [
+          "Machine translation",
+          "Large language models",
+          "Comparative research",
+          "Text classification"
+        ],
+        "abstract": "While large language models have revolutionised computational text analysis methods, the field is still tilted towards English language resources. Even as there are pre-trained models for some smaller languages, the coverage is far from universal, and pre-training large language models is an expensive and complicated task. This uneven language coverage limits comparative social research in terms of its geographical and linguistic scope. We propose a solution that sidesteps these issues by leveraging transfer learning and open-source machine translation. We use English as a bridge language between Hungarian and Polish bills and laws to solve a classification task related to the Comparative Agendas Project (CAP) coding scheme. Using the Hungarian corpus as training data for model fine-tuning, we categorise the Polish laws into 20 CAP categories. In doing so, we compare the performance of Transformer-based deep learning models (monolinguals, such as BERT, and multilinguals such as XLM-RoBERTa) and machine learning algorithms (e.g., SVM). Results show that the fine-tuned large language models outperform the traditional supervised learning benchmarks but are themselves surpassed by the machine translation approach. Overall, the proposed solution demonstrates a viable option for applying a transfer learning framework for low-resource languages and achieving state-of-the-art results without requiring expensive pre-training.",
+        "url": "https://doi.org/10.5117/ccr2023.2.6.mate",
         "topics_llm": true
       },
       {
@@ -772,6 +772,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.006.mali",
+        "title": "Representations of Racial Minorities in Popular Movies",
+        "authors": [
+          "Musa Malik",
+          "Frederic R. Hopp",
+          "René Weber"
+        ],
+        "year": 2022,
+        "citation_count": 8,
+        "topics": [
+          "Racial representation",
+          "Film analysis",
+          "Media bias",
+          "Content analysis"
+        ],
+        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
+        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.2.003.vrie",
         "title": "The Sentiment is in the Details",
         "authors": [
@@ -810,23 +830,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.1.006.mali",
-        "title": "Representations of Racial Minorities in Popular Movies",
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
         "authors": [
-          "Musa Malik",
-          "Frederic R. Hopp",
-          "René Weber"
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
         ],
-        "year": 2022,
+        "year": 2023,
         "citation_count": 7,
         "topics": [
-          "Racial representation",
-          "Film analysis",
-          "Media bias",
-          "Content analysis"
+          "Topic modeling",
+          "Validation methods",
+          "Model evaluation",
+          "Text analysis"
         ],
-        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
-        "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {
@@ -911,26 +931,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 6,
-        "topics": [
-          "Topic modeling",
-          "Validation methods",
-          "Model evaluation",
-          "Text analysis"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.2.3.ho",
         "title": "Evaluating Transferability in Multilingual Text Analyses",
         "authors": [
@@ -988,6 +988,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.2.005.jaid",
+        "title": "Talking politics: Building and validating data-driven lexica to measure political discussion quality",
+        "authors": [
+          "Kokil Jaidka"
+        ],
+        "year": 2022,
+        "citation_count": 6,
+        "topics": [
+          "Political discussion quality",
+          "Computational social science",
+          "Machine learning classifiers",
+          "Social media analysis"
+        ],
+        "abstract": "Social media data offers computational social scientists the opportunity to understand how ordinary citizens engage in political activities, such as expressing their ideological stances and engaging in policy discussions. This study curates and develops discussion quality lexica from the Corpus for the Linguistic Analysis of Political Talk ONline (CLAPTON). Supervised machine learning classifiers to characterize political talk are evaluated for out-of-sample label prediction and generalizability to new contexts. The approach yields data-driven lexica, or dictionaries, that can be applied to measure the constructiveness, justification, relevance, reciprocity, empathy, and incivility of political discussions. In addition, the findings illustrate how the choices made in training such classifiers, such as the heterogeneity of the data, the feature sets used to train classifiers, and the classification approach, affect their generalizability. The article concludes by summarizing the strengths and weaknesses of applying machine learning methods to social media posts and theoretical insights into the quality and structure of online political discussions.",
+        "url": "https://doi.org/10.5117/ccr2022.2.005.jaid",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.2.3.lich",
         "title": "Going cross-lingual: A guide to multilingual text analysis",
         "authors": [
@@ -1004,27 +1022,6 @@
         ],
         "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in compar- ative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
         "url": "https://doi.org/10.5117/ccr2023.2.3.lich",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.006.dinh",
-        "title": "Are we projecting gender biases to ungendered things? Differences in referring to female versus male named hurricanes in 33 years of news coverage",
-        "authors": [
-          "Ly Dinh",
-          "Janina Sarol",
-          "Sullam Jeoung",
-          "Jana Diesner"
-        ],
-        "year": 2023,
-        "citation_count": 6,
-        "topics": [
-          "Gender bias",
-          "Hurricane naming",
-          "Natural language processing",
-          "News discourse"
-        ],
-        "abstract": "Hurricanes are ungendered phenomena that are ascribed with gendered names. We examined if news information about the hurricanes are presented using gendered language. This work helps identify if people use gender stereotyping when referring to gender-neutral entities, and what these stereotypes might be. We use methods from natural language processing, qualitative text analysis, and statistics to analyze how gender is expressed in disaster-related news via text-level indicators: (1) pronouns, (2) lexical, syntactic, and semantic features of words related to hurricanes, and (3) types of sources quoted. Our sample contains news articles on 47 hurricane events from 1979 to 2012 from two weeks before to two weeks after landfall. We find that: (1) hurricanes are mainly referred to by gender-neutral pronouns, however, (2) when gendered pronouns are used, female-named hurricanes are five times more likely to be referred to by a gendered pronoun than male-named hurricanes, (3) adjectives and verbs used in discussing female-named hurricanes are on average more negative than those used for reporting on male-named-hurricanes, and (4) governmental sources are most frequently quoted as authority voices (voices from citizens and non-governmental entities are catching up), and a majority of these voices do not directly mention hurricanes with gendered references.",
-        "url": "https://doi.org/10.5117/ccr2023.1.006.dinh",
         "topics_llm": true
       }
     ],
@@ -1770,7 +1767,7 @@
           "Maren Schuster"
         ],
         "year": 2024,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Data donation",
           "Journalistic media use",
