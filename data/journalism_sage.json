@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_sage",
-  "updated_at": "2026-06-15T12:12:00Z",
-  "trending_from": "2024-06-15",
+  "updated_at": "2026-06-22T11:52:26Z",
+  "trending_from": "2024-06-22",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Mark Deuze"
         ],
         "year": 2005,
-        "citation_count": 1711,
+        "citation_count": 1717,
         "topics": [
           "Professional identity",
           "Journalism ideology",
@@ -29,7 +29,7 @@
           "Michael Schudson"
         ],
         "year": 2001,
-        "citation_count": 1103,
+        "citation_count": 1107,
         "topics": [
           "Journalistic objectivity",
           "Professional norms",
@@ -48,7 +48,7 @@
           "Tamara Witschge"
         ],
         "year": 2017,
-        "citation_count": 566,
+        "citation_count": 569,
         "topics": [
           "Journalism studies",
           "Professional transformation",
@@ -66,7 +66,7 @@
           "Jane B. Singer"
         ],
         "year": 2005,
-        "citation_count": 523,
+        "citation_count": 524,
         "topics": [
           "Political blogging",
           "Journalistic norms",
@@ -103,7 +103,7 @@
           "Tim P. Vos"
         ],
         "year": 2016,
-        "citation_count": 467,
+        "citation_count": 468,
         "topics": [
           "Journalistic roles",
           "Non-democratic contexts",
@@ -121,7 +121,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2019,
-        "citation_count": 389,
+        "citation_count": 390,
         "topics": [
           "Social media",
           "Public opinion",
@@ -199,7 +199,7 @@
           "Franziska Tröger"
         ],
         "year": 2018,
-        "citation_count": 337,
+        "citation_count": 339,
         "topics": [
           "Online harassment",
           "Female journalists",
@@ -219,7 +219,7 @@
           "Rich Ling"
         ],
         "year": 2019,
-        "citation_count": 324,
+        "citation_count": 325,
         "topics": [
           "Disinformation diffusion",
           "Fake news",
@@ -237,7 +237,7 @@
           "Wolfgang Donsbach"
         ],
         "year": 2004,
-        "citation_count": 313,
+        "citation_count": 314,
         "topics": [
           "News decision-making",
           "Journalist behavior",
@@ -246,6 +246,24 @@
         ],
         "abstract": "This article is about causal explanations for the way journalists report the news. In its first part, the article reviews traditional and current models or theories of journalists’ news decisions, concentrating on news factors, institutional objectives, the manipulative power of public relations by news sources and the subjective beliefs of journalists. It comes to the conclusion that most of these approaches do not explain the underlying processes leading to news judgements. Starting from these shortcomings and from the assumption that most of journalists’ work is about perceptions, conclusions and judgements, it then attempts to apply psychological theories to news decision-making. The author holds that two general needs or functions involving specific psychological processes can explain news decisions: a need for social validation of perceptions and a need to preserve one’s existing predispositions. Empirical data from several surveys and studies among journalists are used to demonstrate the appropriateness of this approach to journalists’ behavior.",
         "url": "https://doi.org/10.1177/146488490452002",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/146488490342001",
+        "title": "Who are these Guys?",
+        "authors": [
+          "Jane B. Singer"
+        ],
+        "year": 2003,
+        "citation_count": 294,
+        "topics": [
+          "Professional identity",
+          "Online journalism",
+          "Professionalism",
+          "News workers"
+        ],
+        "abstract": "The people who claim membership in a profession and delineate its attributes do so at least in part to justify inequality of status, as well as to limit and control access to that status. The key role of the professional can be fulfilled only by people with particular training, skills and judgement, and it is crucial that the distinction between practitioner and layperson be clearly recognized by all parties. This article suggests that online news workers fundamentally challenge the already-disputed concept of journalists as professionals. It identifies and explores key aspects of that challenge across the cognitive, normative and evaluative dimensions of the sociological construct of professionalism, with the goal of laying the groundwork for empirical investigation into the issues raised.",
+        "url": "https://doi.org/10.1177/146488490342001",
         "topics_llm": true
       },
       {
@@ -267,24 +285,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/146488490342001",
-        "title": "Who are these Guys?",
-        "authors": [
-          "Jane B. Singer"
-        ],
-        "year": 2003,
-        "citation_count": 291,
-        "topics": [
-          "Professional identity",
-          "Online journalism",
-          "Professionalism",
-          "News workers"
-        ],
-        "abstract": "The people who claim membership in a profession and delineate its attributes do so at least in part to justify inequality of status, as well as to limit and control access to that status. The key role of the professional can be fulfilled only by people with particular training, skills and judgement, and it is crucial that the distinction between practitioner and layperson be clearly recognized by all parties. This article suggests that online news workers fundamentally challenge the already-disputed concept of journalists as professionals. It identifies and explores key aspects of that challenge across the cognitive, normative and evaluative dimensions of the sociological construct of professionalism, with the goal of laying the groundwork for empirical investigation into the issues raised.",
-        "url": "https://doi.org/10.1177/146488490342001",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/1464884916641269",
         "title": "Readers’ perception of computer-generated news: Credibility, expertise, and readability",
         "authors": [
@@ -294,7 +294,7 @@
           "Hans‐Bernd Brosius"
         ],
         "year": 2016,
-        "citation_count": 288,
+        "citation_count": 290,
         "topics": [
           "Automated journalism",
           "Source credibility",
@@ -342,6 +342,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/1464884918757072",
+        "title": "Algorithms in the newsroom? News readers’ perceived credibility and selection of automated journalism",
+        "authors": [
+          "Anja Wölker",
+          "Thomas Powell"
+        ],
+        "year": 2018,
+        "citation_count": 263,
+        "topics": [
+          "Automated journalism",
+          "News credibility",
+          "Audience perception",
+          "Algorithm transparency"
+        ],
+        "abstract": "Automated journalism, the autonomous production of journalistic content through computer algorithms, is increasingly prominent in newsrooms. This enables the production of numerous articles, both rapidly and cheaply. Yet, how news readers perceive journalistic automation is pivotal to the industry, as, like any product, it is dependent on audience approval. As audiences cannot verify all events themselves, they need to trust journalists’ accounts, which make credibility a vital quality ascription to journalism. In turn, credibility judgments might influence audiences’ selection of automated content for their media diet. Research in this area is scarce, with existing studies focusing on national samples and with no previous research on ‘combined’ journalism – a relatively novel development where automated content is supplemented by human journalists. We use an experiment to investigate how European news readers ( N = 300) perceive different forms of automated journalism in regard to message and source credibility, and how this affects their selection behavior. Findings show that, in large part, credibility perceptions of human, automated, and combined content and source(s) may be assumed equal. Only for sports articles was automated content perceived significantly more credible than human messages. Furthermore, credibility does not mediate the likelihood of news readers to either select or avoid articles for news consumption. Findings are, among other things, explained by topic-specific factors and suggest that effects of algorithms on journalistic quality are largely indiscernible to European news readers.",
+        "url": "https://doi.org/10.1177/1464884918757072",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884913504259",
         "title": "The online audience as gatekeeper: The influence of reader metrics on news editorial selection",
         "authors": [
@@ -357,25 +376,6 @@
         ],
         "abstract": "This study provides a snapshot of the hierarchy-of-influences model in the new media environment through examining the effects of audience web metrics on editors. Surveying 318 gatekeepers, the study found that audience metrics influence editors in gatekeeping. Editors’ likelihood to monitor web metrics is affected by their journalism training. Gatekeepers who attach the importance of high readership to economic benefits are more likely to have different news decisions based on web metrics. The study suggests a revision of the hierarchy-of-influences model with more emphasis being placed on the role of the audience.",
         "url": "https://doi.org/10.1177/1464884913504259",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/1464884918757072",
-        "title": "Algorithms in the newsroom? News readers’ perceived credibility and selection of automated journalism",
-        "authors": [
-          "Anja Wölker",
-          "Thomas Powell"
-        ],
-        "year": 2018,
-        "citation_count": 262,
-        "topics": [
-          "Automated journalism",
-          "News credibility",
-          "Audience perception",
-          "Algorithm transparency"
-        ],
-        "abstract": "Automated journalism, the autonomous production of journalistic content through computer algorithms, is increasingly prominent in newsrooms. This enables the production of numerous articles, both rapidly and cheaply. Yet, how news readers perceive journalistic automation is pivotal to the industry, as, like any product, it is dependent on audience approval. As audiences cannot verify all events themselves, they need to trust journalists’ accounts, which make credibility a vital quality ascription to journalism. In turn, credibility judgments might influence audiences’ selection of automated content for their media diet. Research in this area is scarce, with existing studies focusing on national samples and with no previous research on ‘combined’ journalism – a relatively novel development where automated content is supplemented by human journalists. We use an experiment to investigate how European news readers ( N = 300) perceive different forms of automated journalism in regard to message and source credibility, and how this affects their selection behavior. Findings show that, in large part, credibility perceptions of human, automated, and combined content and source(s) may be assumed equal. Only for sports articles was automated content perceived significantly more credible than human messages. Furthermore, credibility does not mediate the likelihood of news readers to either select or avoid articles for news consumption. Findings are, among other things, explained by topic-specific factors and suggest that effects of algorithms on journalistic quality are largely indiscernible to European news readers.",
-        "url": "https://doi.org/10.1177/1464884918757072",
         "topics_llm": true
       },
       {
@@ -643,6 +643,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/146488490200300301",
+        "title": "Epistemologies of TV journalism",
+        "authors": [
+          "Mats Ekström"
+        ],
+        "year": 2002,
+        "citation_count": 208,
+        "topics": [
+          "Television journalism",
+          "Epistemology",
+          "Knowledge production",
+          "Journalistic practices"
+        ],
+        "abstract": "This article sketches a theoretical framework for studies of the epistemologies of journalism. In this context epistemology does not refer to philosophical inquiries into the nature of true knowledge but to the study of knowledge-producing practices and communication of knowledge claims. The focus in the article is mainly on TV journalism. The theoretical framework distinguishes three fundamental areas and three main questions for research on the epistemologies of journalism: (1) form of knowledge (What are the characteristics of the knowledge that television journalism produces and offers its audiences?); (2) production of knowledge (What rules, routines, institutionalized procedures and systems of classification guide the production of knowledge and how do journalists decide what is sufficiently true and authoritative?); and (3) public acceptance of knowledge claims (What conditions are decisive for the public's acceptance or rejection of the knowledge claims of television journalism?). The article develops the framework by way of theoretical conceptualizations and empirical illustrations from concrete forms of TV journalism.",
+        "url": "https://doi.org/10.1177/146488490200300301",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884904044938",
         "title": "Redefining Foreign Correspondence",
         "authors": [
@@ -659,24 +677,6 @@
         ],
         "abstract": "Scholars have used the traditional elite foreign correspondent as a prime measure of the quality of foreign news coverage. They regularly track the size of the corps of correspondents and focus their analyses of foreign news on coverage in major established news outlets like The New York Times and CBS. While this model has worked well for many years, it does not now. This is a result of the chronic decline of elite foreign correspondents coupled with the proliferation of alternate sources of foreign news. This article outlines trends changing the flow of foreign news and suggests some of the implications for scholars who wish to study the nexus between news and foreign policy.",
         "url": "https://doi.org/10.1177/1464884904044938",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/146488490200300301",
-        "title": "Epistemologies of TV journalism",
-        "authors": [
-          "Mats Ekström"
-        ],
-        "year": 2002,
-        "citation_count": 207,
-        "topics": [
-          "Television journalism",
-          "Epistemology",
-          "Knowledge production",
-          "Journalistic practices"
-        ],
-        "abstract": "This article sketches a theoretical framework for studies of the epistemologies of journalism. In this context epistemology does not refer to philosophical inquiries into the nature of true knowledge but to the study of knowledge-producing practices and communication of knowledge claims. The focus in the article is mainly on TV journalism. The theoretical framework distinguishes three fundamental areas and three main questions for research on the epistemologies of journalism: (1) form of knowledge (What are the characteristics of the knowledge that television journalism produces and offers its audiences?); (2) production of knowledge (What rules, routines, institutionalized procedures and systems of classification guide the production of knowledge and how do journalists decide what is sufficiently true and authoritative?); and (3) public acceptance of knowledge claims (What conditions are decisive for the public's acceptance or rejection of the knowledge claims of television journalism?). The article develops the framework by way of theoretical conceptualizations and empirical illustrations from concrete forms of TV journalism.",
-        "url": "https://doi.org/10.1177/146488490200300301",
         "topics_llm": true
       },
       {
@@ -869,7 +869,7 @@
           "Efrat Nechushtai"
         ],
         "year": 2017,
-        "citation_count": 170,
+        "citation_count": 171,
         "topics": [
           "Digital platforms",
           "Regulatory capture",
@@ -878,6 +878,26 @@
         ],
         "abstract": "This article examines the relationship between the news industry and digital platforms, most notably Facebook and Google, through a political economy framework. The theory of regulatory capture suggests that regulators are prone to become captured by the businesses they oversee, whether through financial incentives (such as money transfers and revolving doors) or cognitive/cultural influence (such as advocacy and shared values). The theory was further expanded to suggest that businesses also attempt to capture non-governmental institutions tasked with scrutinizing them, such as the media. This article suggests that Google and Facebook are rapidly expanding their potential capability to do so. Alongside the forms of capture described in the literature, the most crucial element in Google and Facebook’s relationships with news organizations is the fact that they have come to provide the majority of audience for online news and are significant sources of potential growth in viewership. In addition, they equip news organizations with tools for news production, provide them with data on the reach of stories, and offer tools for analytics and insight. All this potentially amounts to a new form of capture that can be called infrastructural capture: circumstances in which a scrutinizing body is incapable of operating sustainably without the physical or digital resources and services provided by the businesses it oversees and is therefore dependent on them. This new category of capture, rooted in the dynamics of contemporary digital news markets, could pose serious challenges to the ability of news organizations to scrutinize the corporations that direct most of the traffic to their sites. Aside from potentially affecting the content of news, another important effect of compromising infrastructural autonomy to non-journalistic third-party actors might be a weakening of the legal protections that journalism benefits from.",
         "url": "https://doi.org/10.1177/1464884917725163",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/1464884911431538",
+        "title": "Different roles, different content? A four-country comparison of the role conceptions and reporting style of political journalists",
+        "authors": [
+          "Arjen van Dalen",
+          "Claes H. de Vreese",
+          "Erik Albæk"
+        ],
+        "year": 2011,
+        "citation_count": 167,
+        "topics": [
+          "Political journalism",
+          "Journalistic role conceptions",
+          "Cross-national comparison",
+          "News content analysis"
+        ],
+        "abstract": "The relation between journalistic role conceptions and news content is central for the understanding of differences in journalistic cultures. Previous research has shown that the professional roles of individual journalists can influence their behaviour and that occupational socialization leads to similar role conceptions within countries. This article therefore studies the relation between cross-national differences in role conceptions and news content. A survey among political journalists in Denmark, Germany, the United Kingdom, and Spain ( N = 425), combined with a content analysis of political coverage in these countries ( N = 1,035 newspaper articles) shows that role conceptions vary more across countries than within countries. Spanish political journalists see their role as more sacerdotal and partisan than their colleagues in northern Europe, while British journalists are most entertainment oriented. These differences in role conceptions are reflected in the reporting style of political news.",
+        "url": "https://doi.org/10.1177/1464884911431538",
         "topics_llm": true
       },
       {
@@ -899,26 +919,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/1464884911431538",
-        "title": "Different roles, different content? A four-country comparison of the role conceptions and reporting style of political journalists",
-        "authors": [
-          "Arjen van Dalen",
-          "Claes H. de Vreese",
-          "Erik Albæk"
-        ],
-        "year": 2011,
-        "citation_count": 166,
-        "topics": [
-          "Political journalism",
-          "Journalistic role conceptions",
-          "Cross-national comparison",
-          "News content analysis"
-        ],
-        "abstract": "The relation between journalistic role conceptions and news content is central for the understanding of differences in journalistic cultures. Previous research has shown that the professional roles of individual journalists can influence their behaviour and that occupational socialization leads to similar role conceptions within countries. This article therefore studies the relation between cross-national differences in role conceptions and news content. A survey among political journalists in Denmark, Germany, the United Kingdom, and Spain ( N = 425), combined with a content analysis of political coverage in these countries ( N = 1,035 newspaper articles) shows that role conceptions vary more across countries than within countries. Spanish political journalists see their role as more sacerdotal and partisan than their colleagues in northern Europe, while British journalists are most entertainment oriented. These differences in role conceptions are reflected in the reporting style of political news.",
-        "url": "https://doi.org/10.1177/1464884911431538",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/1464884914568078",
         "title": "Rethinking news values: What a discursive approach can tell us about the construction of news discourse and news photography",
         "authors": [
@@ -926,7 +926,7 @@
           "Monika Bednarek"
         ],
         "year": 2015,
-        "citation_count": 165,
+        "citation_count": 166,
         "topics": [
           "News values",
           "Journalism discourse",
@@ -939,6 +939,86 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1177/14648849261461918",
+        "title": "Conceptualizing the development of professional journalism: A scoping review",
+        "authors": [
+          "Maaike Severijnen",
+          "Yael de Haan",
+          "Cok Bakker",
+          "Koen van Turnhout"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Professional journalism",
+          "Journalism profession",
+          "Media conceptualization",
+          "Digital transformation"
+        ],
+        "abstract": "In a constantly shifting context, where journalism is changing in response to evolving dynamics from politicians, the public, and big tech, it is crucial to understand the concepts that characterize the journalism profession. By understanding what journalism is and is not, and who is, or is not a journalist, journalists can reevaluate their added value in a changing society. This paper aims to identify key pressures that have been reshaping the journalism profession and to explore how the underlying core concepts that describe it are interconnected. It presents the results of a scoping literature review in journalism and media studies, focusing on academic literature that conceptualizes professional journalism. Our analysis shows, firstly, that a substantial body of literature refers to journalism as a collective entity; journalism at an institutional and an organizational level. Little attention has been paid to the journalist as an individual. Secondly, professional journalism is affected by both external developments, including technological, societal, and economic changes, as well as internal debates within the field. Building upon these two findings of our extensive scoping review, we propose a conceptual model that includes five factors influencing the core concepts of professional journalism: two related to journalism as a collective entity and three related to the individual journalist. Based on this model and our description of how the core concepts of professional journalism are interconnected, we propose a research agenda for further studying the professionalization of journalism.",
+        "url": "https://doi.org/10.1177/14648849261461918",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261460935",
+        "title": "The erosion of the gatekeeping function of photojournalists in the digital age",
+        "authors": [
+          "Na Yeon Lee",
+          "W Choi",
+          "GwangGyu Park",
+          "Sang Yup Lee"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Photojournalism",
+          "Digital news media",
+          "Gatekeeping",
+          "Visual journalism quality"
+        ],
+        "abstract": "In today’s digital news media environment, where the number of professional staff photojournalists is declining, this study examines the extent to which images outsourced from external sources, including vested groups, are published, and how the visual quality of images varies by photo source: 1) staff photojournalist, 2) wire services, 3) social media, 4) news sources, and 5) citizens. Computational and statistical analyses of 7,651 online news photos published between January 1, 2024, and December 31, 2024, by five major South Korean newspapers, revealed that the quality of visual journalism, based on photo characteristics, varied by photo source. The results also indicate that both the topics and the accuracy of visual representation varied by photo source: photos taken by staff photojournalists were more closely aligned with the article content than those from other sources. Furthermore, photos from social media and news sources tended to depict human faces with positive emotions, whereas those from wire services more often showed negative emotions. This suggests that the gatekeeping role of photojournalists as news gatherers may be weakening, enabling external sources, including vested interest groups, to promote their own agendas.",
+        "url": "https://doi.org/10.1177/14648849261460935",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261455957",
+        "title": "The shadow side of empathy? Eliciting empathy in journalism and its potentially unintended side-effects on polarization",
+        "authors": [
+          "Hannah Greber",
+          "Jesper Strömbäck",
+          "Sophie Lecheler"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Empathy in journalism",
+          "Political polarization",
+          "Emotional and cognitive empathy",
+          "Ideological group norms"
+        ],
+        "abstract": "Journalistic reporting has increasingly adopted a more human-centered approach, often aiming to evoke empathy in the audience. This is because empathy is expected to bridge the gap between ‘us’ and ‘them,’ thereby fostering social cohesion. However, previous assessments of empathy-inducing journalism tend to fall short in two ways: first, they often rely on broad definitions of empathy, while current models suggest a dual-process model involving emotional and cognitive empathy. Second, they frequently overlook the motivated nature of empathy, meaning that whether individuals are motivated to empathize with others’ feelings may depend on the perceived norms of their ideological peers. This could potentially exacerbate, rather than reduce, societal divides in the form of polarization. In an online experiment ( N = 933), we examine how an empathy frame (vs a non-empathy frame) on the topic of Afghan refugees influences emotional and cognitive empathy, whether these responses are moderated by social group norms, and how they relate to polarization of affect, human rights attitudes, and policy support. We found no norm-driven polarization of emotional empathy after reading the stimulus. Instead, we observed a small positive direct effect of the empathy-frame on affect toward Afghan refugees, highlighting the benefits of using empathy inducing frames, even when communicating polarized issues.",
+        "url": "https://doi.org/10.1177/14648849261455957",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261461108",
+        "title": "Gatekeeping the gatekeepers: Interference of intelligence agencies in the newsrooms of Bangladesh",
+        "authors": [
+          "Ibrahim bin Harun"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Media capture",
+          "Intelligence agencies",
+          "Editorial gatekeeping",
+          "Press freedom"
+        ],
+        "abstract": "This study examines how Bangladesh’s intelligence agencies interfered with editorial decision-making in private television newsrooms during the Awami League regime (2009–2024). Drawing on in-depth interviews with senior gatekeepers from five major 24/7 TV channels, it reveals how extralegal interventions—from direct editorial directives to surveillance and intimidation—created a parallel system of media control. Framed within the Hierarchy of Influences model, the study argues that intelligence agencies operated as a dominant extramedia influence, creating a condition of media capture. By controlling the terminal gate of newsrooms, these agencies became de facto news gatekeepers, undermining journalistic autonomy. This study thus expands the definition of ‘extramedia’ influences. The findings deepen understanding of media-state relations in authoritarian and hybrid regimes and provide a foundation for evaluating journalist resilience in compromised democracies.",
+        "url": "https://doi.org/10.1177/14648849261461108",
+        "topics_llm": true
+      },
       {
         "doi": "10.1177/14648849261459540",
         "title": "The power and pitfalls of constructive journalism: The effects of hopeful narratives in the news on attitudes, engagement and knowledge",
@@ -1832,83 +1912,6 @@
         "abstract": "Recent studies in psychology and journalism consistently show that preparing future journalists to be resilient is crucial. Resilience enables journalists and media organizations to withstand challenges in their daily practice. However, despite the recent increase in embedding resilience and trauma literacy in journalism curricula, many barriers remain. This study, guided by the framework of ethics of care, uses a global survey and in-depth interviews to investigate how journalism educators approach trauma-informed education across diverse socio-cultural contexts amidst increasing conflict. The findings reveal that training of journalism educators is the most significant factor that shapes their work and the pedagogy they adopt. This supports our argument that journalism educators would benefit from more context sensitive trauma training, care focused pedagogy, and accessible resources. This would help educators to fulfil their duty of care and support future journalists in their roles.",
         "url": "https://doi.org/10.1177/14648849261443091",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261442345",
-        "title": "Unveiling repetitive visual stages: Media narratives and school shooting coverage post-columbine",
-        "authors": [
-          "Taylor Sheridan"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "School shooting coverage",
-          "Visual journalism",
-          "News routines",
-          "Media narratives"
-        ],
-        "abstract": "This study examines the visual coverage of school shootings, highlighting the impact of journalistic routines. Analyzing ten incidents post-Columbine, it identifies enduring stages in photojournalism. The findings align with theoretical perspectives on news routines, showcasing the influence of these frameworks on media content. The routinization of media processes, as reflected in consistent coverage stages, shapes public understanding while risking desensitization and inaction. Stage 1 focuses on immediate, intense reporting, while Stage 2 provides reflective, contextual narratives.",
-        "url": "https://doi.org/10.1177/14648849261442345",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261441146",
-        "title": "Foreign media assistance as a toolbox for local journalists: Mapping the benefits and burdens",
-        "authors": [
-          "Ruth Moon",
-          "Saad Zuberi"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Media assistance",
-          "Journalism training",
-          "International development",
-          "Journalistic practice"
-        ],
-        "abstract": "Journalists and news organizations are high-profile targets of foreign aid in the form of media assistance programming. Much of this is funded by government agencies, notably (until recently) the US Agency for International Development. These training programs prepare local journalists to combat a variety of routine challenges they may encounter. As such, they represent points of intersection between diverse values and goals from funding countries, target countries, and trainers’ origin countries; they also contribute to journalistic doxa — an understanding of good journalistic practice. With the understanding that program structure and narratives have power to shape the identities and priorities of local journalists even beyond the specific training sessions identified, we analyze 413 policy documents from USAID, the US Agency for Global Media, and the Congressional Research Service to understand what messages these programs send about “good” journalism and its barriers. We find that US foreign policy for journalists overwhelmingly prioritizes individual upskilling, trailed by programming about financial challenges, legal and political contexts, and personal safety. These contribute to a definition of “good” journalism that in many ways resembles liberal democratic practices and places the burden for adapting or fulfilling the definition on individual journalists.",
-        "url": "https://doi.org/10.1177/14648849261441146",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261441150",
-        "title": "Coping as a competency: A typology of journalists and news creators work on platforms",
-        "authors": [
-          "Valerie Belair-Gagnon",
-          "Errol Salamon",
-          "Monica Crawford"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Platformized labor",
-          "Journalistic coping strategies",
-          "Social media news production",
-          "Digital precarity"
-        ],
-        "abstract": "This article explores how news content creators and journalists working with social media navigate their professional lives amid the volatile, entrepreneurial conditions of platformized labor. Drawing on 19 in-depth interviews, this study examines the established scholarship on coping and argues that the individual strategies these professionals use are neither institutional nor personal deficits, nor simple reactions to stress. We propose the IBES typology—Institutional, Boundary, Emotional, and Strategic—as a hybridized professional competency essential for managing algorithmic instability, digital hostility, and entrepreneurial precarity. This typology reframes the narrative of institutional abandonment. It contributes to the sociology of news production and coping literatures by documenting how these competencies and skill sets are hybrid, essential, and inseparable from “doing” professionalism. These skills are internalized and privatized as conditions and the visibility of today’s news creators’ work.",
-        "url": "https://doi.org/10.1177/14648849261441150",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261433632",
-        "title": "Facing the truth: Audiences’ facial expressions and emotional responses to real or fake photos in the news",
-        "authors": [
-          "Tara Marie Mortensen",
-          "Carrie Jingyi Xiao",
-          "Taylor Jing Wen"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Photojournalism",
-          "Fake news/Misinformation",
-          "Emotional responses",
-          "Visual media authenticity"
-        ],
-        "abstract": "Similar to the now-ubiquitous AI-generated photos, multi-purpose stock photos are directly at odds with the values of photojournalism, which seek to visually speak the truth and depict genuine human emotions. Using stock photos and staffed photojournalist photos as stimuli, this study examines effects of truth and emotion in photos in a news context. Facial expression biometric measures, valence perceptions, and arousal levels are the dependent variables. The findings show a number of nuanced interaction effects that suggest overall stronger effects of staff-taken photos. In the contemporary media era of deepfakes and synthetic media, institutions prioritizing human-captured visuals may better safeguard audiences against disinformation, which can weaponize artificial emotional appeals and hallucinate even in innocuous contexts. The present research shows that authenticity is a currency of trust in visual communication, and there is a continued merit to truthful news photographs taken by on-staff photojournalists.",
-        "url": "https://doi.org/10.1177/14648849261433632",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1921,7 +1924,7 @@
           "Seth C. Lewis"
         ],
         "year": 2025,
-        "citation_count": 31,
+        "citation_count": 33,
         "topics": [
           "Artificial intelligence in journalism",
           "Digital media disruption",
@@ -1969,25 +1972,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/14648849241263293",
-        "title": "Concerns about the role of artificial intelligence in journalism, and media manipulation",
-        "authors": [
-          "Simon Mahony",
-          "Qian-Hui Chen"
-        ],
-        "year": 2024,
-        "citation_count": 17,
-        "topics": [
-          "Artificial intelligence in journalism",
-          "Media manipulation",
-          "Algorithmic bias",
-          "Misinformation and disinformation"
-        ],
-        "abstract": "Artificial Intelligence is a term used frequently in academic and other writing, but do we have a clear understanding of what it means? This article starts from first principles, taking a dialectic approach, to raise questions rather than give prescriptive answers. It unpacks some specific examples of the use of AI in journalism and automated approaches to news reporting. The manipulation of media has become commonplace and of greater interest as information itself can be used as an effective weapon to sow confusion and disruption, socially as well as politically. AI depends on the training data and modelling, but the sampling and engineering is done by humans with all the potential for bias, whether intentional or not. Biased datasets and the potential for uncertainty are constant dangers; we need to understand both the data and the processes that go into the AI-driven results, and always be prepared to question everything.",
-        "url": "https://doi.org/10.1177/14648849241263293",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/14648849251386724",
         "title": "Depictions of Black Americans in U.S. Television News, 1990-2020",
         "authors": [
@@ -2004,6 +1988,25 @@
         ],
         "abstract": "How are Black Americans depicted in U.S. television news? This paper provides an empirical investigation into the news topics in which Black Americans are mentioned, or not mentioned, across nearly the entire population of network television news content from 1990 to 2020. Previous literatures suggest that Black Americans are most likely to appear in stories about (a) crime and violence, (b) poverty and welfare, (c) civil rights and protest, and (d) sports. Based on structural topic modelling of news transcripts, we find broad support for some of these expectations, across a much larger corpus than has been available in prior work. Indeed, we find that Black Americans are most likely to appear in topics such as sports, and criminal violence, and are largely absent from areas such as business and health. Our findings have important implications for the study and practice of journalism, and for our understanding of the nature and effects of racial depictions in U.S. media.",
         "url": "https://doi.org/10.1177/14648849251386724",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849241284575",
+        "title": "Behind the black box: The moderating role of the machine heuristic on the effect of transparency information about automated journalism on hostile media bias perception",
+        "authors": [
+          "Rui Wang",
+          "Yotam Ophir"
+        ],
+        "year": 2024,
+        "citation_count": 14,
+        "topics": [
+          "Automated Journalism",
+          "Hostile Media Bias",
+          "Algorithm Transparency",
+          "AI Trust"
+        ],
+        "abstract": "Facing historically low levels of public trust, journalists had been increasingly interested in the potential of artificial intelligence to produce news content. Some have suggested that Automated Journalism (AJ) may reduce Hostile Media Biases (HMB), where partisans perceive balanced articles as slanted against their side. However, empirical evidence for the hypothesis remains limited and inconclusive. In this study, we examine whether the effectiveness of AJ at reducing HMB perceptions could be enhanced by disclosure of transparency information about how the algorithm works. We conducted an online experiment ( N = 264 US adults) in which participants were randomly assigned to read a balanced news article about gun control written by different authors (AJ, AJ + transparency information, journalist, student, no author). Our findings indicate that AJ transparency, on average, did not significantly reduce HMB compared to AJ along. A significant interaction effect was identified: participants who strongly endorsed the machine heuristic were less likely to perceive the content in the AJ transparency condition, but not that of other conditions, as biased. Theoretical and practical implications are discussed.",
+        "url": "https://doi.org/10.1177/14648849241284575",
         "topics_llm": true
       },
       {
@@ -2027,25 +2030,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/14648849241284575",
-        "title": "Behind the black box: The moderating role of the machine heuristic on the effect of transparency information about automated journalism on hostile media bias perception",
-        "authors": [
-          "Rui Wang",
-          "Yotam Ophir"
-        ],
-        "year": 2024,
-        "citation_count": 13,
-        "topics": [
-          "Automated Journalism",
-          "Hostile Media Bias",
-          "Algorithm Transparency",
-          "AI Trust"
-        ],
-        "abstract": "Facing historically low levels of public trust, journalists had been increasingly interested in the potential of artificial intelligence to produce news content. Some have suggested that Automated Journalism (AJ) may reduce Hostile Media Biases (HMB), where partisans perceive balanced articles as slanted against their side. However, empirical evidence for the hypothesis remains limited and inconclusive. In this study, we examine whether the effectiveness of AJ at reducing HMB perceptions could be enhanced by disclosure of transparency information about how the algorithm works. We conducted an online experiment ( N = 264 US adults) in which participants were randomly assigned to read a balanced news article about gun control written by different authors (AJ, AJ + transparency information, journalist, student, no author). Our findings indicate that AJ transparency, on average, did not significantly reduce HMB compared to AJ along. A significant interaction effect was identified: participants who strongly endorsed the machine heuristic were less likely to perceive the content in the AJ transparency condition, but not that of other conditions, as biased. Theoretical and practical implications are discussed.",
-        "url": "https://doi.org/10.1177/14648849241284575",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/14648849241279012",
         "title": "News content promotion pressure: A content analysis of the cross-media visibility of and engagement with news stories",
         "authors": [
@@ -2062,6 +2046,26 @@
         ],
         "abstract": "The research at hand centered around examining how news media manage their visibility, while navigating the challenges of invisibility posed by the platform economy. Platforms shape the visibility of news organizations and their content through algorithmic curation and moderation. In response, news organizations must exert considerable effort to maximize their visibility within these systems. The research identified and analyzed various deliberate promotional strategies aimed at enhancing an article’s visibility, including strategic posting across platforms, homepage placement, and extending content lifespan. By aggregating these strategies into a “promotion pressure” score, the study aims to unravel the circular relationship between news media’s content promotion strategies and audience engagement with news stories. Further analysis of the news articles with the highest promotion pressure shows that they are mostly related to major events, rely on news values such as conflict and personification, and frequently use clickbait headlines.",
         "url": "https://doi.org/10.1177/14648849241279012",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849251382484",
+        "title": "AI-reporters as the future of journalism? Investigating recipients’ credibility evaluations of AI-authored news",
+        "authors": [
+          "Robin Leuppert",
+          "Carina Weinmann",
+          "Jan Eiden"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "AI journalism",
+          "Credibility evaluation",
+          "Author attribution",
+          "News perception"
+        ],
+        "abstract": "AI-authored news articles are becoming increasingly relevant, but little is known about how recipients evaluate news credibility attributed to an AI (artificial intelligence) author compared to a human journalist author. Referring to the machine heuristic ( Sundar, 2008 ) and Expectancy Violations Theory ( Burgoon, 2015 ), this study compared articles with AI-author labels to articles with human-author labels and without author labels. It further included AI trust and attitudinal congruence as relevant aspects to impact credibility evaluations of a news article about cannabis legalization. Based on a 2 (direction of arguments: pro vs contra) x 3 (author label: AI vs human vs none) between-subjects experiment with 844 German respondents, a MANCOVA was conducted. While controlling for people’s attitudinal congruence with the article, we found AI-authored articles’ sources evaluated as less credible than the human-authored articles’ sources, but no significant differences compared to those without author labels. News author labels did not affect message credibility evaluations, and AI trust did not have the expected interaction effect with the author labels. However, it directly affected credibility evaluations of the message and source. Furthermore, attitudinal congruence strongly impacted credibility evaluations. Results are discussed and contextualized regarding theoretical and practical implications.",
+        "url": "https://doi.org/10.1177/14648849251382484",
         "topics_llm": true
       },
       {
@@ -2224,45 +2228,6 @@
         ],
         "abstract": "Drawing on qualitative analysis using semi-structured interviews, this study examines the enduring impact of the prolonged cycle of global crises on South European journalists’ perceptions about their profession and approaches to their work. The findings reveal a complex interplay of emotions among journalists, ranging from a love-hate dynamic towards their profession to a deep-seated disappointment with its ability to enact positive societal change. The repeated exposure to trauma has led them to a loss of faith in journalism’s potential to serve the public good, fostering a sense of powerlessness and futility among practitioners. Moreover, this study sheds light on shifts in journalistic practice. Journalists describe how they infuse their work with personal emotions as a means of coping with the intensity of the stories they cover. They elaborate on the deteriorating working conditions brought about after years of crises but also highlight the emotional toll of permacrisis as an important factor that leads them to choose ‘lighter’ beats or exit the profession entirely. This study is unique in documenting permacrisis’ impact on journalists in Southern Europe, emphasizing the need for a nuanced understanding of their experiences.",
         "url": "https://doi.org/10.1177/14648849241272219",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849251382484",
-        "title": "AI-reporters as the future of journalism? Investigating recipients’ credibility evaluations of AI-authored news",
-        "authors": [
-          "Robin Leuppert",
-          "Carina Weinmann",
-          "Jan Eiden"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "AI journalism",
-          "Credibility evaluation",
-          "Author attribution",
-          "News perception"
-        ],
-        "abstract": "AI-authored news articles are becoming increasingly relevant, but little is known about how recipients evaluate news credibility attributed to an AI (artificial intelligence) author compared to a human journalist author. Referring to the machine heuristic ( Sundar, 2008 ) and Expectancy Violations Theory ( Burgoon, 2015 ), this study compared articles with AI-author labels to articles with human-author labels and without author labels. It further included AI trust and attitudinal congruence as relevant aspects to impact credibility evaluations of a news article about cannabis legalization. Based on a 2 (direction of arguments: pro vs contra) x 3 (author label: AI vs human vs none) between-subjects experiment with 844 German respondents, a MANCOVA was conducted. While controlling for people’s attitudinal congruence with the article, we found AI-authored articles’ sources evaluated as less credible than the human-authored articles’ sources, but no significant differences compared to those without author labels. News author labels did not affect message credibility evaluations, and AI trust did not have the expected interaction effect with the author labels. However, it directly affected credibility evaluations of the message and source. Furthermore, attitudinal congruence strongly impacted credibility evaluations. Results are discussed and contextualized regarding theoretical and practical implications.",
-        "url": "https://doi.org/10.1177/14648849251382484",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849241264255",
-        "title": "Legitimizing the think-tank turn: The transformation of Chinese media in the digital era",
-        "authors": [
-          "Haiyan Wang",
-          "Liangen Yin"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Chinese media",
-          "Digital transformation",
-          "Think tanks",
-          "Journalism and politics"
-        ],
-        "abstract": "This study analyzes what we call the “think-tank turn” of Chinese newspapers, a popular path of digital transformation that many media organizations have been undertaking in response to the multi-faceted crisis of the media in the past decade. Based on a case study of Paper N, a provincial commercial newspaper in southeast China that has been praised for having organized one of the most successful media-based think-tanks in the country, this study explores how Chinese journalists legitimize their think-tank roles and in the process redefine their relationship with the government. It argues that by turning the newsroom into a policy research hub and the journalists into policy analysts and consultants, Chinese newspapers further subordinate themselves to the institutions of political power, becoming not only their loyal propagandists but also fully-fledged dependents. Implications of the think-tank turn for journalistic legitimacy and the relationship between Chinese media and state in the digital era are discussed.",
-        "url": "https://doi.org/10.1177/14648849241264255",
         "topics_llm": true
       },
       {
@@ -2437,6 +2402,26 @@
         ],
         "abstract": "Journalism studies’ literature on precarity has mainly focused on job insecurity, job loss, and the increase of atypical work relationships. Several studies report a growing deterioration of journalists’ work conditions worldwide, indicating a precarization of journalism. Precarity may impact journalistic norms and routines, it may contribute to dissatisfaction and loss of quality of life, it may impact journalists’ health and wellbeing, and even the quality of news content. Journalists’ experiences of precarity should, therefore, be explored. This study aims at assessing Portuguese journalists’ perceptions of precarity through semi-structured interviews ( N = 50) followed by a qualitative content analysis. Precarity emerged as one of journalists’ top concerns, and several interviewees classified their incomes as “insulting,” “ridiculous” or “outrageous.” Journalists also worry that precarity may be contributing to a lack of diversity within newsrooms, making the profession “off-limits” to many.",
         "url": "https://doi.org/10.1177/14648849251314786",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849251381218",
+        "title": "When the news comes from a bot: How AI authorship and emotion shape cognitive, affective, and behavioral responses",
+        "authors": [
+          "Shuguang Zhao",
+          "Jue Zhou",
+          "Ting Wang"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "AI-generated content",
+          "News credibility",
+          "Audience perception",
+          "Emotional framing"
+        ],
+        "abstract": "AI-generated news is becoming increasingly prevalent on social media, raising questions about how audiences perceive, evaluate, and engage with this content. This study examines how AI authorship labeling (vs. human labeling) and content type (factual, conspiratorial, partisan) jointly shape readers’ cognitive, affective, and behavioral responses. Across three experiments ( N = 1,600), results show that readers could not reliably detect AI authorship without disclosure, although their evaluations nonetheless diverged depending on content type. When content was labeled as “AI-generated,” it consistently received lower cognitive and affective evaluations—regardless of factual accuracy—indicating a robust AI aversion effect. Crucially, emotionally charged content (conspiratorial or partisan) attenuated this effect. Such content elicited stronger engagement and sharing intentions, even when attributed to AI, suggesting that emotional resonance can override source skepticism. These findings support a dual-processing account: while authorship cues shape cognitive judgments, emotional content drives affective and behavioral responses. The results challenge the effectiveness of binary AI transparency labels and underscore the need for context-sensitive disclosure practices in journalism. They also reveal new challenges for platform governance and digital literacy, especially in curbing emotionally manipulative AI-generated content on social media.",
+        "url": "https://doi.org/10.1177/14648849251381218",
         "topics_llm": true
       }
     ]

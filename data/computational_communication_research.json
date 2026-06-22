@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-06-15T12:11:43Z",
-  "trending_from": "2024-06-15",
+  "updated_at": "2026-06-22T11:52:08Z",
+  "trending_from": "2024-06-22",
   "sections": {
     "most_cited": [
       {
@@ -584,6 +584,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.005.jurg",
+        "title": "Age and Gender Representation on German TV",
+        "authors": [
+          "Pascal Jürgens",
+          "Christine E. Meltzer",
+          "Michael Scharkow"
+        ],
+        "year": 2022,
+        "citation_count": 12,
+        "topics": [
+          "Television representation",
+          "Age and gender bias",
+          "Content analysis",
+          "Deep learning"
+        ],
+        "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
+        "url": "https://doi.org/10.5117/ccr2022.1.005.jurg",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.1.11.gito",
         "title": "The speech we miss: How keyword-based data collection obscures youth participation in online political discourse",
         "authors": [
@@ -603,26 +623,6 @@
         ],
         "abstract": "In this work, we leverage a panel of over 1.6 million Twitter users matched with public voter records to assess how a standard keyword-based approach to social media data collection performs in the context of participatory politics, and we critically examine the speech this method leaves behind. We find that keyword classifiers undercount young people’s participation in online political discourse, and that valuable political expression is lost in the process. We argue that a mainstream keyword approach to collecting social media data is not well-suited to the participatory politics associated with young people and may reinforce a false perception of youth political apathy as a result.",
         "url": "https://doi.org/10.5117/ccr2023.1.11.gito",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.005.jurg",
-        "title": "Age and Gender Representation on German TV",
-        "authors": [
-          "Pascal Jürgens",
-          "Christine E. Meltzer",
-          "Michael Scharkow"
-        ],
-        "year": 2022,
-        "citation_count": 11,
-        "topics": [
-          "Television representation",
-          "Age and gender bias",
-          "Content analysis",
-          "Deep learning"
-        ],
-        "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
-        "url": "https://doi.org/10.5117/ccr2022.1.005.jurg",
         "topics_llm": true
       },
       {
@@ -1638,7 +1638,7 @@
           "Cody Buntain"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Alternative social media",
           "Platform economics",

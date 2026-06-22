@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-06-15T12:11:19Z",
-  "trending_from": "2024-06-15",
+  "updated_at": "2026-06-22T11:51:48Z",
+  "trending_from": "2024-06-22",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 1977,
+        "citation_count": 1978,
         "topics": [
           "News framing",
           "Political discourse",
@@ -30,7 +30,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 1554,
+        "citation_count": 1556,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1477,
+        "citation_count": 1478,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -104,7 +104,7 @@
           "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 965,
+        "citation_count": 969,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -181,7 +181,7 @@
           "Yasmin Morag"
         ],
         "year": 2019,
-        "citation_count": 653,
+        "citation_count": 656,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
@@ -255,7 +255,7 @@
           "Jeffrey M. Berry"
         ],
         "year": 2011,
-        "citation_count": 591,
+        "citation_count": 592,
         "topics": [
           "Political incivility",
           "Media discourse analysis",
@@ -275,7 +275,7 @@
           "Markus Strohmaier"
         ],
         "year": 2018,
-        "citation_count": 561,
+        "citation_count": 562,
         "topics": [
           "Political campaigning",
           "Social media platforms",
@@ -369,7 +369,7 @@
           "Tamir Sheafer"
         ],
         "year": 2007,
-        "citation_count": 512,
+        "citation_count": 513,
         "topics": [
           "Political personalization",
           "Media and politics",
@@ -442,7 +442,7 @@
           "Leticia Bode"
         ],
         "year": 2020,
-        "citation_count": 439,
+        "citation_count": 441,
         "topics": [
           "Misinformation",
           "Defining misinformation",
@@ -519,7 +519,7 @@
           "Neta Kligler-Vilenchik"
         ],
         "year": 2020,
-        "citation_count": 415,
+        "citation_count": 416,
         "topics": [
           "Political polarization",
           "Social media analysis",
@@ -612,7 +612,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2017,
-        "citation_count": 376,
+        "citation_count": 378,
         "topics": [
           "Technology companies",
           "Political communication",
@@ -650,7 +650,7 @@
           "Rodney Benson"
         ],
         "year": 2006,
-        "citation_count": 362,
+        "citation_count": 363,
         "topics": [
           "Bourdieu field theory",
           "Journalism studies",
@@ -658,6 +658,27 @@
         ],
         "abstract": "Bourdieu's field theory and the new institutionalism of Cook and Sparrow are similar in that they call for a new unit of analysis for journalism studies: between the individual news organization and the society as a whole, the “mezzo-level” interorganizational and professional environment of the field/institution. Bourdieu's focus on competition and difference, rooted in processes of cultural and economic class distinctions both among audiences and cultural producers, supplements the new institutionalist emphasis on homogeneity; moreover, Bourdieu's emphasis on a professional or intellectual autonomy (however limited) of journalists as a collective body, elided in new institutionalist accounts, remains an essential element of any thorough media analysis. Conversely, new institutionalists' greater attention to the state as a partially autonomous influence on the journalistic field helps fill a crucial gap in Bourdieu's model. Both approaches could be improved by adopting a broader view and analyzing effects on news content and form of variations in national journalistic fields (and field configurations)—in particular the organizational/spatial ecology of journalistic competition, and the cultural inertia of professional traditions rooted in contingent historical processes of field formation.",
         "url": "https://doi.org/10.1080/10584600600629802",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2021.1910390",
+        "title": "Social Media and Political Agenda Setting",
+        "authors": [
+          "Fabrizio Gilardi",
+          "Theresa Gessler",
+          "Maël Kubli",
+          "Stefan Müller"
+        ],
+        "year": 2021,
+        "citation_count": 361,
+        "topics": [
+          "Social media",
+          "Agenda setting",
+          "Political communication",
+          "Digital platforms"
+        ],
+        "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
+        "url": "https://doi.org/10.1080/10584609.2021.1910390",
         "topics_llm": true
       },
       {
@@ -679,27 +700,6 @@
         ],
         "abstract": "Political astroturfing, a centrally coordinated disinformation campaign in which participants pretend to be ordinary citizens acting independently, has the potential to influence electoral outcomes and other forms of political behavior. Yet, it is hard to evaluate the scope and effectiveness of political astroturfing without “ground truth” information, such as the verified identity of its agents and instigators. In this paper, we study the South Korean National Information Service’s (NIS) disinformation campaign during the presidential election in 2012, taking advantage of a list of participating accounts published in court proceedings. Features that best distinguish these accounts from regular users in contemporaneously collected Twitter data are traces left by coordination among astroturfing agents, instead of the individual account characteristics typically used in related approaches such as social bot detection. We develop a methodology that exploits these distinct empirical patterns to identify additional likely astroturfing accounts and validate this detection strategy by analyzing their messages and current account status. However, an analysis relying on Twitter influence metrics shows that the known and suspect NIS accounts only had a limited impact on political social media discussions. By using the principal-agent framework to analyze one of the earliest revealed instances of political astroturfing, we improve on extant methodological approaches to detect disinformation campaigns and ground them more firmly in social science theory.",
         "url": "https://doi.org/10.1080/10584609.2019.1661888",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2021.1910390",
-        "title": "Social Media and Political Agenda Setting",
-        "authors": [
-          "Fabrizio Gilardi",
-          "Theresa Gessler",
-          "Maël Kubli",
-          "Stefan Müller"
-        ],
-        "year": 2021,
-        "citation_count": 360,
-        "topics": [
-          "Social media",
-          "Agenda setting",
-          "Political communication",
-          "Digital platforms"
-        ],
-        "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
-        "url": "https://doi.org/10.1080/10584609.2021.1910390",
         "topics_llm": true
       },
       {
@@ -872,6 +872,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2017.1316329",
+        "title": "The New Personal Influence: How Our Facebook Friends Influence the News We Read",
+        "authors": [
+          "Nicolas Anspach"
+        ],
+        "year": 2017,
+        "citation_count": 292,
+        "topics": [
+          "Social media influence",
+          "News consumption",
+          "Facebook",
+          "Information selection heuristics"
+        ],
+        "abstract": "Has the introduction of social media into the information landscape changed the heuristics individuals use when selecting news? Social media allow users to easily share and endorse political content. These features facilitate personal influence, possibly increasing the salience of partisan information, making users more likely to read endorsed content. To test this possibility, I utilize snowball sampling to conduct a survey experiment featuring mock Facebook News Feeds. These feeds contain different levels of social media activity attributed to different sources, varying from fictional individuals to subjects’ own friends and family members. I find that online endorsements and discussions serve as heuristics when deciding which content to consume, outweighing partisan selectivity. This effect is only significant when the activity comes from friends or family members, as social influence attributed to fictional individuals has no effect on information selectivity.",
+        "url": "https://doi.org/10.1080/10584609.2017.1316329",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2018.1477506",
         "title": "Computational Research in the Post-API Age",
         "authors": [
@@ -890,24 +908,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2017.1316329",
-        "title": "The New Personal Influence: How Our Facebook Friends Influence the News We Read",
-        "authors": [
-          "Nicolas Anspach"
-        ],
-        "year": 2017,
-        "citation_count": 291,
-        "topics": [
-          "Social media influence",
-          "News consumption",
-          "Facebook",
-          "Information selection heuristics"
-        ],
-        "abstract": "Has the introduction of social media into the information landscape changed the heuristics individuals use when selecting news? Social media allow users to easily share and endorse political content. These features facilitate personal influence, possibly increasing the salience of partisan information, making users more likely to read endorsed content. To test this possibility, I utilize snowball sampling to conduct a survey experiment featuring mock Facebook News Feeds. These feeds contain different levels of social media activity attributed to different sources, varying from fictional individuals to subjects’ own friends and family members. I find that online endorsements and discussions serve as heuristics when deciding which content to consume, outweighing partisan selectivity. This effect is only significant when the activity comes from friends or family members, as social influence attributed to fictional individuals has no effect on information selectivity.",
-        "url": "https://doi.org/10.1080/10584609.2017.1316329",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2017.1334727",
         "title": "In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use",
         "authors": [
@@ -916,7 +916,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2017,
-        "citation_count": 290,
+        "citation_count": 291,
         "topics": [
           "Political communication",
           "Social media strategy",
@@ -949,6 +949,25 @@
     ],
     "latest": [
       {
+        "doi": "10.1080/10584609.2026.2682952",
+        "title": "Democratic Institutions Under Threat: Corrosive Frames, Internet News, and the U.S. Supreme Court",
+        "authors": [
+          "Justin Wedeking",
+          "Michael A. Zilis"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Judicial legitimacy",
+          "Media framing",
+          "Democratic institutions",
+          "Supreme Court"
+        ],
+        "abstract": "Are democratic institutions under threat in the United States? We examine an understudied democratic bedrock: the judiciary and, in particular, the U.S. Supreme Court. We draw on data from “SCOTUSapp,” a tool that provides a database of 100,000+ news articles across thousands of unexamined sources. We find a new media environment where the Court receives attention from thousands of ideologically fragmented outlets. Additionally, some framings of the Court are potentially corrosive. We then use two experiments to examine the effects of these corrosive news frames. The first experiment (October 2021) provides evidence that frames portraying the Court as embroiled in secrecy, hypocrisy, illegitimacy, and politics cause a decrease in support for judicial independence. These frames are influential among Republicans and Democrats. The second experiment (May 2023) follows Dobbs, which severely damaged judicial faith among Democrats, and shows that corrosive frames lead to a corresponding decline only among strong Republicans.",
+        "url": "https://doi.org/10.1080/10584609.2026.2682952",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2026.2671765",
         "title": "Evaluating Echo Chambers, Rabbit Holes, and Radicalization Pathways on YouTube",
         "authors": [
@@ -967,7 +986,7 @@
           "YouTube algorithms",
           "Content recommendation systems"
         ],
-        "abstract": "",
+        "abstract": "To what extent does the YouTube recommendation algorithm push users into echo chambers, rabbit holes, or radicalization pathways? Using a novel method to estimate the ideology of YouTube videos and an original audit design, we demonstrate that YouTube users are in mild ideological echo chambers, but this is primarily driven by user behavior. We also demonstrate that the recommendation algorithm prioritizes content that is similar to what the user is currently watching, producing content rabbit holes. However, we do not find evidence of radicalization pathways where users are driven into increasingly extreme content rabbit holes. Instead, we find that YouTube pushes all users, regardless of ideology, toward moderately conservative content and an increasingly narrow range of ideological content the longer they follow YouTube’s recommendations.",
         "url": "https://doi.org/10.1080/10584609.2026.2671765",
         "topics_llm": true
       },
@@ -1066,7 +1085,7 @@
           "Partisan news",
           "Politicians' perceptions"
         ],
-        "abstract": "",
+        "abstract": "In democratic systems, relationships between politicians and journalists are often marked by both interdependence and tension. Prior research shows that when politicians perceive traditional news media as biased and voice these concerns, their interactions with journalists can become increasingly conflictual. However, little is known about what politicians actually mean when they blame legacy media for being slanted, or what they perceive as the underlying causes of such partisan news bias. Understanding these perceptions matters, as they shape politicians’ interactions with journalists, their broader communication about the media, and, ultimately, the quality of democratic debate. Therefore, this study investigates politicians’ perceptions of partisan news bias through face-to-face interviews with 110 Belgian members of parliament. Specifically, we examine how politicians define partisan bias and what they consider its main causes. We find that MPs primarily refer to selection and presentation bias when criticizing legacy media, frequently citing insufficient attention, unfair framing, and selective quoting as grievances. Both right- and left-leaning politicians attribute these issues to the presumed left-wing orientations of journalists. Right-wing MPs argue that journalists’ ideological bias benefits leftist parties, whereas left-leaning MPs believe journalists disadvantage the left to avoid accusations of leftist bias. To a lesser extent, MPs also identify commercial pressures as a source of political bias in news coverage. Overall, the findings show that politicians attribute considerable power to the media and express a shared sense of dependence on its perceived biases and agendas.",
         "url": "https://doi.org/10.1080/10584609.2026.2675595",
         "topics_llm": true
       },
@@ -1090,7 +1109,7 @@
           "Political polarization",
           "Selective exposure"
         ],
-        "abstract": "",
+        "abstract": "Misinformation is increasingly seen as a key challenge to democratic societies. Our study is one of the first to shed light onto the citizen perspective when it comes to the perceived target of misinformation during election campaigns. In doing so, we extend on a classic concept in the (political) communication literature, the hostile media effect, and examine whether this applies to misinformation as well, a so-called hostile misinformation effect. Do citizens believe that their political in-group is being targeted more by misinformation than their political out-group? Our argument is based on motivated reasoning and social identity theory and extends to the role of several crucial moderating factors. Using data from a panel study conducted during the 2024 European Parliament elections across Germany, the Netherlands, and Poland (N = 4,045), we find clear support for a hostile misinformation effect, as citizens believe their own political party was much more targeted than the political opponent. Moreover, we demonstrate that particularly political interest, party identity strength, ideological extremity, and being right-wing make people more susceptible to the phenomenon. Our findings demonstrate that the hostile media effect can be extended to the domain of misinformation perceptions. Moreover, they explain why people perceive to be surrounded by misinformation, and help contextualize literature suggesting that people associate misinformation with various other information disorders and threats.",
         "url": "https://doi.org/10.1080/10584609.2026.2671760",
         "topics_llm": true
       },
@@ -1109,7 +1128,7 @@
           "Political perception",
           "Cue-based reasoning"
         ],
-        "abstract": "",
+        "abstract": "A growing body of research documents the increased importance of national issues and politics for vote choice and election outcomes in subnational elections. The extant literature identifies two dimensions – informational and behavioral – along which politics can be more or less nationalized. This study advances our understanding of the nationalized political environment by directly examining the relationship between these two dimensions. We use an experimental approach to manipulate a legislator’s campaign rhetoric to identify the relationship between a more or less nationalized information environment and public opinion. By manipulating a legislator’s messaging, we are able to more directly compare the impact of local and national cues on citizens’ assessments of legislators. We find that national messages lead people to view political figures as more ideologically extreme. We further find that opposing partisans consistently report more negative evaluations of politicians who use national rhetoric. Local rhetoric sometimes leads partisans to view a politician from the opposing party more favorably, but these effects are inconsistent. On the whole, our findings imply that there are electoral costs associated with the nationalization of campaign rhetoric.",
         "url": "https://doi.org/10.1080/10584609.2026.2672710",
         "topics_llm": true
       },
@@ -1129,7 +1148,7 @@
           "Elite discourse",
           "Russian politics"
         ],
-        "abstract": "",
+        "abstract": "How do authoritarian regimes that rely on the disengagement of their citizens adapt to the demands of a major international conflict, particularly in political communication? Instead of risking potential destabilization by exclusively turning to mobilizing messages, we propose that a more dynamic rhetorical adaptation will follow, with a mixture of mobilizing, legitimating, and co-opting messages in the state media and – hitherto underexplored subject of authoritarian propaganda – public communication of the rank-and-file elites during an armed conflict. We argue that such elites, while generally reflecting the official propaganda in speech, will, however, display less war-mobilizing messages if they are more distant from the autocrat’s agenda; there will also be agency loss due to electoral individual incentives. Drawing from an originally collected dataset of 144,567 social media posts by Russia’s members of parliament during the military conflict against Ukraine, 2022–23, and using word embeddings and topic classification methods, supplementing with alternative approaches and accounting for the audience, we find support for the argument that the social media posts by individual MPs reflect not only centrally directed messages but also their own political and electoral incentives. These findings illuminate how political communication mediates the effects of external conflict on authoritarian resilience, also contributing to the literatures on authoritarian parliaments and legitimation, as well as social media under autocracies.",
         "url": "https://doi.org/10.1080/10584609.2026.2664717",
         "topics_llm": true
       },
@@ -1187,7 +1206,7 @@
           "Public discourse",
           "News framing"
         ],
-        "abstract": "",
+        "abstract": "Media storms – dramatic outbursts of attention to a story – are key components of media dynamics and the attention landscape. Despite their importance, systematic empirical research on these phenomena has been limited by the constraints of manual content analysis. While various studies offer different descriptions and findings, we still lack a comprehensive understanding of storm types, and how varied dynamics correspond to diverging media effects and contextual impacts. This paper proposes a data-driven typology of media storm based on their structures, addressing this gap. Building upon media storm data previously identified in two decades of U.S. news coverage, we use a semi-supervised method to identify the news articles relating to each instance and apply time-series clustering to categorize them into three distinct types: Dominant Plateaus, Explosive Outbursts, and Slow Boils. We then validate this typology and examine its theoretical implications through three key perspectives drawn from previous research on media storms: issue-attention dynamics, media production environments, and elite actor engagement. We claim that this data-driven typology forms a robust foundation for future research exploring media storms’ varied effects on public discourse and agenda-setting and perhaps even predicting their dynamics.",
         "url": "https://doi.org/10.1080/10584609.2026.2656633",
         "topics_llm": true
       },
@@ -1209,7 +1228,7 @@
           "Digital media",
           "Social media"
         ],
-        "abstract": "",
+        "abstract": "In this introduction to the Multi-Platform Research Special Issue, we continue a field-wide discussion regarding how political communication scholars conduct multi-platform research. Despite the continued challenges to develop both robust methods and longstanding theoretical frameworks, political communication research that accounts for multiple platforms has continued to grow. In addition to noting these challenges, we outline a framework to distinguish comparative studies, which focus on patterned similarities and differences across platforms, and systemic studies, which seek to understand how platform content, users, and affordances may be shaped by one another. Articles that are a part of this Special Issue demonstrate the theoretical, methodological, and empirical value of multi-platform research, taking into account a broad array of countries, cultural contexts, and political action to analyze political communication as it actually occurs: across multiple interlocking and rapidly-evolving digital platforms.",
         "url": "https://doi.org/10.1080/10584609.2026.2649632",
         "topics_llm": true
       },
@@ -1230,7 +1249,7 @@
           "Identity",
           "Cross-platform communication"
         ],
-        "abstract": "",
+        "abstract": "Rather than framing disinformation as false facts which can be countered by true facts, we propose a model of disinformation as narrative by tracing three case studies of successful disinformation across Facebook and Twitter. As stories, disinformation disseminates throughout culture and exists at all levels of media and across genres. Using a dataset of content hosted on URLs shared widely on social media corresponding to U.S. left, right, and nonpartisan examples of disinformation, we examine how successful disinformation circulates as narratives across platforms and genres. We find that all three case studies meet the formal criteria of narrative, and that narrative is intrinsically emotional and moral, providing catharsis for those who share it. Understanding that successful disinformation narratives are enforced by cultural forces, are intrinsically linked to identity, and hold deep emotional resonance for those with whom they resonate has vast implications for responding to and countering them.",
         "url": "https://doi.org/10.1080/10584609.2026.2644198",
         "topics_llm": true
       },
@@ -1249,7 +1268,7 @@
           "Communication effects",
           "Information credibility"
         ],
-        "abstract": "",
+        "abstract": "There are large and growing bodies of research highlighting inaccuracies in news coverage. In this paper, we suggest that negativity biases account for a substantial portion of longstanding inaccuracies (or “misinformation”) in coverage of a broad range of social, medical, environmental, political, and economic domains. As an illustrative example, we use automated content analyses of over 20 years of television news transcripts merged with unemployment data to measure the accuracy of unemployment coverage across the six major US broadcasters (ABC, CBS, NBS, CNN, Fox News, and MSNBC), and then examine the degree to which variation in accuracy is associated with variation in the tendency to overweight negative information relative to positive information. Results reveal a connection between inaccuracy and negativity biases, a finding that we interpret as it relates to our understanding of misinformation in the news.",
         "url": "https://doi.org/10.1080/10584609.2026.2613647",
         "topics_llm": true
       },
@@ -1285,7 +1304,7 @@
           "Journalistic balance",
           "Fact-checking"
         ],
-        "abstract": "",
+        "abstract": "When journalists perceive more misinformation from one side of the political spectrum, do they face a normative dilemma between truth and balance? Correcting one party more often in pursuit of truth can undermine news credibility, while maintaining balance to preserve credibility can be misleading. To assess whether the trade-off that I term the “truth-balance dilemma” exists in practice, I examine whether asymmetric corrections of one party undermine news credibility when considered across multiple topics. While prior studies have focused on single-issue contexts, this study highlights how individuals evaluate news sources based on their coverage of a range of issues. Through fact-checking datasets and national surveys, I find that, while journalists have corrected Republican misstatements more often, large segments of the public believe that misinformation comes from both parties or primarily from Democrats. Two preregistered experiments show that asymmetric corrections undermine credibility, but the effect depends on audience perceptions about who spreads misinformation. Individuals who blame both parties for misinformation discount credibility when a source mostly corrects one side—even when the imbalance favors their own side. Meanwhile, those who blame the opposing party find heavier corrections of that party as credible as balanced corrections, but view heavier corrections of their own party as less credible. By showing how the truth-balance dilemma stems from the perception gap between journalists and audiences, this study underscores the reputational risks that truth-seeking journalism faces in polarized environments.",
         "url": "https://doi.org/10.1080/10584609.2026.2627253",
         "topics_llm": true
       },
@@ -1310,7 +1329,7 @@
           "Research ethics",
           "AI adoption critique"
         ],
-        "abstract": "The growing adoption of large language models (LLMs) in political communication research has prompted excitement but also concern. In this opinion piece, we offer an informed and critical overview of common LLM use cases in the field, including text analysis, synthetic data generation, and experiments. We argue that while these tools can be appealing, they often introduce serious epistemic, environ-mental, and infrastructural trade-offs that are insufficiently acknowledged. Beyond technical limitations, we highlight deeper issues related to scholarly autonomy, methodological opacity, resources inequality, and corporate dependency. Rather than dismissing innovation, we advocate for critical reflexivity and a renewed commitment to methodological rigor. While examining shortcomings of LLMs in current practices, we also point to viable alternatives. In essence, we call for a more deliberate, context-sensitive integration of LLMs in social science–one that prioritizes transparency, sustainability, and scientific integrity.",
+        "abstract": "The growing adoption of large language models (LLMs) in political communication research has prompted excitement but also concern. In this opinion piece, we offer an informed and critical overview of common LLM use cases in the field, including text analysis, synthetic data generation, and experiments. We argue that while these tools can be appealing, they often introduce serious epistemic, environ-mental, and infrastructural trade-offs that are insufficiently acknowledged. Beyond technical limitations, we highlight deeper issues related to scholarly autonomy, methodological opacity, resources inequality, and corporate dependency. Rather than dismissing innovation, we advocate for critical reflexivity and a renewed commitment to methodological rigor. While examining shortcomings of LLMs in current practices, we also point to viable alternatives. In essence, we call for a more deliberate, context-sensitive integration of LLMs in social science – one that prioritizes transparency, sustainability, and scientific integrity.",
         "url": "https://doi.org/10.1080/10584609.2026.2618486",
         "topics_llm": true
       },
@@ -1330,7 +1349,7 @@
           "Political communication",
           "Public perception"
         ],
-        "abstract": "",
+        "abstract": "As political parties around the world experiment with Artificial Intelligence (AI) in election campaigns, concerns about deception and manipulation are rising. This article examines how the public reacts to different uses of AI in elections and the potential consequences for party evaluations and regulatory preferences. Across three preregistered studies with over 7600 American respondents, we identify three categories of AI use: campaign operations, voter outreach, and deception. While people generally dislike AI in campaigns, they are especially critical of deceptive uses, which they perceive as norm violations. However, parties engaging in AI-enabled deception face no significant drop in favorability, neither with supporters, opponents, nor independents. Instead, deceptive AI use increases public support for stricter AI regulation, including calls for an outright ban on AI development. These findings indicate that public disapproval of deceptive uses of AI does not directly translate into incentives for parties to forgo them, at least in the polarized political environment of the US.",
         "url": "https://doi.org/10.1080/10584609.2025.2611913",
         "topics_llm": true
       },
@@ -1350,7 +1369,7 @@
           "Social media",
           "Institutional accountability"
         ],
-        "abstract": "",
+        "abstract": "Elected officials occupy privileged positions in public communication about important topics – roles that extend to the digital world. In the same way that public officials stand to lead constructive online dialogue, they also hold the potential to accelerate the dissemination of harmful content. We explore and explain the sharing of misinformation, which we refer to as low-factual content, by examining nearly 500,000 Facebook posts by U.S. state legislators from 2020 to 2021. We validate a widely used low-factual content detection approach in misinformation studies and apply the measure to all of the posts we collect. Our findings reveal that the prevalence is rare, affecting less than 1% of legislators’ posts overall. However, Republican legislators share low-factual content at higher rates, and certain states emerge as hotspots for such content. We also find that conservative lawmakers are more likely to share such content, with this tendency potentially intensifying in conservative districts, and waning in liberal ones. Legislative professionalism plays a significant role in misinformation circulation: legislators with higher institutional capacity and resources tend to be less inclined to share low-factual information. We conclude with a discussion of the implications of our findings for future interventions to reduce the spread of low-factual content.",
         "url": "https://doi.org/10.1080/10584609.2026.2613661",
         "topics_llm": true
       },
@@ -1372,7 +1391,7 @@
           "Partisan reporting",
           "News objectivity"
         ],
-        "abstract": "",
+        "abstract": "Journalists are regularly accused of being strongly left leaning, which critics claim leads to biased reporting. Previous research suggests this assumption may be over-simplistic, but direct empirical tests are rare, suffer from substantial shortcomings, and still need to acknowledge this process’s complexity. Therefore, we theorize the conditional nature of how journalists’ political orientations translate into their news reporting. We assert that journalists’ autonomy within organizational constraints and professional role orientations as an expression of journalism’s institutional logic may act as “correctives” against this translation. Our study combines a quantitative manual content analysis of political news items in Austria (n = 3,539) with a subsequent survey of 160 journalists who authored 626 of those items. We operationalize bias in news coverage via subjective evaluations of journalists, political party composition, and value frame composition in the news content they produce. The findings suggest that the left-right political orientation of journalists affects the use of subjectivity in reporting and political party composition, but in the opposite direction in the latter case, in which journalists seem to overcompensate for their individual views. There is only a tentative impact on value frame composition. Political ideology interacts with journalists’ autonomy and with their professional role orientations, but the mechanisms behind different kinds of bias differ fundamentally. We conclude that balancing out ideological biases is a delicate equilibrium utilizing various mechanisms involving organizational and institutional factors that must be continually renewed in a changing news ecosystem.",
         "url": "https://doi.org/10.1080/10584609.2026.2621169",
         "topics_llm": true
       },
@@ -1391,7 +1410,7 @@
           "Political attitudes",
           "Belief echo effect"
         ],
-        "abstract": "Does misinformation continue to influence political attitudes even after it has been effectively corrected? According to some influential studies, the answer is yes: while corrections may eliminate belief in false claims, they often fail to erase their attitudinal impact –a phenomenon known as “belief echoes.” To evaluate this claim, we conducted a preregistered, high-powered replication of two out of three experiments from a widely cited study which introduced the phenomenon, using the same treatment materials and a much larger, more representative sample. In the first experiment, the correction did not fully dispel belief in the misinformation, making it impossible to isolate a belief echo from the direct effects of continued belief. In the second, where the correction was demonstrably effective, we find no evidence of a lingering attitudinal effect.",
+        "abstract": "Does misinformation continue to influence political attitudes even after it has been effectively corrected? According to some influential studies, the answer is yes: while corrections may eliminate belief in false claims, they often fail to erase their attitudinal impact – a phenomenon known as “belief echoes.” To evaluate this claim, we conducted a preregistered, high-powered replication of two out of three experiments from a widely cited study which introduced the phenomenon, using the same treatment materials and a much larger, more representative sample. In the first experiment, the correction did not fully dispel belief in the misinformation, making it impossible to isolate a belief echo from the direct effects of continued belief. In the second, where the correction was demonstrably effective, we find no evidence of a lingering attitudinal effect.",
         "url": "https://doi.org/10.1080/10584609.2026.2623049",
         "topics_llm": true
       },
@@ -1402,14 +1421,14 @@
           "Mathias Bukh Vestergaard"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Political credibility",
           "Election promises",
           "Policy positioning",
           "Party reputation"
         ],
-        "abstract": "",
+        "abstract": "When parties change their political positions, they risk being perceived as opportunistic and insincere by voters. How can parties change their positions without losing face? In this study, I argue that parties can combine positional change with a promise-based strategy to try to mitigate the reputational loss of this shift. Instead of focusing on the past, a party can attempt to gain credibility by taking high responsibility for a future policy. Since parties mostly lose credibility by diluting their ideological positions, I expect the promise-based strategy to be particularly useful in such situations. After identifying promises in hundreds of election manifestos across 32 countries, I show that parties make more promises when they dilute their position compared to when they stick to their position or crystallize it. This effect is statistically significant and increases when parties dilute their positions on their most salient issues. These results have implications for parties’ communication strategies and our understanding of credibility in modern politics.",
         "url": "https://doi.org/10.1080/10584609.2025.2600004",
         "topics_llm": true
       },
@@ -1433,7 +1452,7 @@
           "Transformative communication",
           "Dialogue"
         ],
-        "abstract": "",
+        "abstract": "Polarization may become a threat to democracy, if it starts to block the capacities for collective problem-solving. This is particularly problematic in the current state of multiple social and ecological crises. Calls for depolarization often lack clarity about what kind of depolarization is normatively desirable. Academic texts often lack transparency about the values that underpin recommendations for better communication. Focusing on discursive polarization – polarization as emerging in communication – we propose Democratic Transformative Communication as a normative framework. It defines desirable communication as that which enables societies to engage in socio-ecological transformations in order to fully realize its foundational democratic values. Today, these values need to be complemented by the principle of sustainability. This lens also reshapes what counts as desirable depolarization: the goal is not to go for luke-warm compromise on the lowest common denominator, but the cultivation of constructive controversies that expand the transformative capacity of public debate. “Moderate” voices merit greater visibility, provided moderation is redefined as openness to diverse viewpoints and willingness to engage antagonists respectfully. Radical ideas deserve attention if they address root causes of democratic or ecological crises. This approach limits verbal aggression: anger may be legitimate when grounded in real injustices but becomes counterproductive when it alienates undecided audiences or primarily provokes backlash. This lens has different implications for different actor group. It also concerns us as researches and first and foremost urges us to not shy away to evaluate communication in its social contexts and be transparent about our own values.",
         "url": "https://doi.org/10.1080/10584609.2026.2617224",
         "topics_llm": true
       },
@@ -1451,7 +1470,7 @@
           "Political communication",
           "Corporate investment"
         ],
-        "abstract": "",
+        "abstract": "Local newspapers play an important role in informing the public and holding elected officials accountable, yet the consolidation of newspapers under an increasingly small number of owners has raised questions about the commitment of newsrooms to reporting on local politics. Of particular concern is the rise of newspaper owners that deal primarily in investment and not the media industry, such as private equity firms and hedge funds. I document 856 instances of ownership changes among daily newspapers between 2004–2020, with just under half involving a purchase by an owner who primarily deals in investments. I find that a newspaper’s acquisition by an investment-owner leads to more stories about national politics and fewer stories about local politics relative to acquisitions by other types of owners. I also find that a transition to investment ownership leads to reductions in both citizen knowledge and voter turnout. While the effects are not uniformly large or statistically robust across all outcomes, the results are broadly consistent with concerns that investment ownership may weaken local coverage and reduce political engagement in local politics.",
         "url": "https://doi.org/10.1080/10584609.2025.2601736",
         "topics_llm": true
       },
@@ -1492,7 +1511,7 @@
           "Online behavior",
           "Cyberbullying prevention"
         ],
-        "abstract": "",
+        "abstract": "Hate speech is pervasive on social media. Because such incidents can harm targets and foster hostile discourses, understanding what shapes bystander intervention is crucial. In two consecutive experimental studies, we examined how two key situational factors impact actual bystander intervention behavior: the reference group of the online hate speech (professional vs. minority group) and the platforms’ communication norm (prosocial supportive vs. anti-social non-supportive). Study 1 (N = 442) revealed that social media users perceive online hate speech targeting politicians to be less threatening than such speech targeting people with migration background or Muslims. Study 2 (N = 970), a 2-day social media simulation, confirmed that hate speech targeting politicians led to less bystander intervention. Additionally, a prosocial communication norm on the simulated platform indirectly encouraged individuals’ actual intervention by reinforcing the perceived social norm for prosocial intervention and, in turn, participants’ sense of personal responsibility.",
         "url": "https://doi.org/10.1080/10584609.2025.2608808",
         "topics_llm": true
       },
@@ -1510,7 +1529,7 @@
           "Localization strategies",
           "Constituent relations"
         ],
-        "abstract": "",
+        "abstract": "In the face of the purported nationalization of political discourse in the United States, to what extent do congressional representatives still engage locally through their public communications? Based on a comprehensive dataset of over nine million tweets and Facebook posts sent by Members of Congress between 2011 and 2023, analyzed through a first-of-its-kind fine-tuned machine learning classifier of local content combined with a hand-coded list of over 4000 news web domains, this paper assesses how often Members use localized messaging, which Members are most inclined to use locally-focused communications, and whether a local communications strategy is associated with electoral or political advantages for Members. The results suggest, first, that congressional communications still contain a substantial and consistent focus on local content. The use of local messaging is also dynamic and strategic, with Members in a position of congressional and presidential control being most prone to focusing on local content. However, across a range of measures, localized messaging is not associated with increased constituent approval, campaign fundraising, or electoral performance for Members. These results, collectively, highlight how even in a nationalized online communications environment, local factors still play a significant role in guiding Member messaging strategies, even in the absence of tangible political benefits.",
         "url": "https://doi.org/10.1080/10584609.2025.2607424",
         "topics_llm": true
       },
@@ -1530,7 +1549,7 @@
           "Elite networks",
           "Partisan radicalization"
         ],
-        "abstract": "",
+        "abstract": "Across democratic systems, ideological cleavages increasingly emerge not only between but also within political parties. At the same time, hyperpartisan and digitally networked media ecosystems amplify polarization by fostering ideologically segmented information networks. To explain the interplay between internal party divisions and digital connectivity, we introduce a novel framework termed the “logic of connective faction.” We illustrate this framework via a case from the US, and the sudden circulation of the issue of “Critical Race Theory” (CRT), which became a far-right moniker for almost any discussion of race, particularly in education. Utilizing an original dataset comprising right-wing and mainstream news sources, newsletters and social media posts by Republican Members of Congress (n = 1,941,742), we analyze ideological behavior and connectivity patterns, distinguishing Republicans who adopted the “CRT” issue from their co-partisans who did not. We find that the former group represents a distinct faction characterized by greater ideological extremity and deeper integration into right-wing digital networks. Beyond this combination of political behavior and digital connectivity, we highlight various networked media logics, such as platform-based engagement and media attention, which may incentivize such factional behaviors. Finally, we consider implications for political actors and media systems beyond the US.",
         "url": "https://doi.org/10.1080/10584609.2025.2604708",
         "topics_llm": true
       },
@@ -1586,7 +1605,7 @@
           "Social media engagement",
           "Chinese digital platforms"
         ],
-        "abstract": "",
+        "abstract": "Authoritarian regimes have increasingly co-opted non-state actors such as celebrities and fans to extend the reach of state propaganda in fragmented digital environments. Despite this growing trend, there remains limited understanding of how fans in authoritarian contexts respond to such efforts. This paper identified a novel phenomenon, performative propaganda engagement, to explain why and how celebrity fans in informational autocracies engage with state propaganda. Combining quantitative analysis of fan engagement with People’s Daily on Weibo and qualitative interviews with celebrity fans in China, this exploratory research finds that celebrity fans actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. Fans primarily engage with celebrity-signaling propaganda, and some of this engagement is instrumental. This research contributes to political communication theory by offering an alternative view of the downstream effects of digital propaganda in authoritarian contexts. The findings shed light on how non-state actors are strategically incorporated into state communication efforts and how fans may behave under a compliance-based logic shaped by political constraints and platform incentives, bridging scholarship on authoritarian information control, fandom politics, and algorithmic media environments.",
         "url": "https://doi.org/10.1080/10584609.2025.2584999",
         "topics_llm": true
       },
@@ -1605,7 +1624,7 @@
           "Social media",
           "Political communication"
         ],
-        "abstract": "",
+        "abstract": "Previous research has shown that women politicians are often subject to more incivility, hate speech, and sexualized abuse on social media. Until now, studies tend to analyze one platform, and there has been no research to establish whether these experiences are the same across different platforms. This study deploys a two-stage design to isolate a platform effect in online incivility and abuse. We selected 18 women politicians from a range of UK political parties because they shared identical posts across three platforms – Facebook, Instagram, and Twitter. We collected all identical posts and replies to them, across each platform. The replies were content analyzed for elements of incivility and legitimate criticism but also for support and respectful responses. Multi-level binary logistic models were run on these data to assess platform effect, controlling for party and whether the original post mentioned a gendered topic. The replies were then subject to a qualitative analysis. The results showed a clear platform effect with Twitter being the source of the majority of uncivil, insulting and othering replies to women politicians. Twitter posts also received the least support and the fewest polite messages. Conversely, Instagram appeared to be less hostile. The platform had more polite interaction and a high proportion of supportive responses, accounting for well over half of all supportive responses across the sample.",
         "url": "https://doi.org/10.1080/10584609.2025.2585498",
         "topics_llm": true
       },
@@ -1625,7 +1644,7 @@
           "Defensive publics",
           "Digital politics"
         ],
-        "abstract": "International audience",
+        "abstract": "What political significance do widely-shared sources on social media carry? Efforts at documenting media content have produced useful insights about political phenomena, including right-wing populist movements that have recently been theorized as comprising defensive publics which seek to preserve social, economic, and cultural hierarchies that privilege white “nationals.” In France, the concept of defensive publics is particularly useful for understanding how right-wing identitarian and nationalist actors use social media to mobilize publics to defend hierarchies framed as under siege by immigration, multiculturalism, and global liberal elites. Building on literature about illiberal communication and the illiberal public sphere, we argue that patterns of sources’ visibility – not just content – also serve defensive purposes. Using computational analysis of 1.16 million French language immigration-related posts on Twitter/X and ideological embeddings of 44,810 of these users, we show how far-right-leaning users flood feeds with hyper-partisan sources, particularly on immigration, although they also share ideologically varied sources. Then, interviews with 13 high-profile far-right-affiliated posters who include senior French politicians reveal how these practices support defensive political aims. Sharing hyper-partisan sources outside the “elitist” mainstream redresses perceived censorship by mainstream media, while sharing mainstream sources signals credibility and respectability, even as these actors maintain critiques of the very same media. Meanwhile, reposting sources with statistical and quantitative evidence serves to obscure overtly white supremacist ideologies while advancing anti-immigration agendas. We conclude that sharing practices themselves function as rhetorical resources that highly-visible members of defensive publics use to reassert symbolic and political dominance in a contested media environment.",
         "url": "https://doi.org/10.1080/10584609.2025.2588248",
         "topics_llm": true
       },
@@ -1663,7 +1682,7 @@
           "Digital communication",
           "Online discourse"
         ],
-        "abstract": "",
+        "abstract": "In an increasingly algorithmic digital landscape, everyday user data can take on expressive qualities, particularly in shaping the political content that people encounter on social media. This study examines the role of user data in political expression by focusing on social media feeds. I conducted a total of 55 interviews with 21 participants over the course of the 2020 U.S. presidential election, utilizing a technique that I call feed analysis interviewing to examine how participants understood and leveraged personal data to manage their exposure to online political content during a major political transition. Emergent findings suggest that participants considered their social media feeds as potent, if often inaccurate, reflections of their political beliefs and values, inviting reflection on political self-concept. Through this analysis, I extended conceptualizations of political expression by developing the action-identification-audience framework, composed of three indicators of political expression on social media. These include degrees of action in sharing political opinions online; identification with expressed political views; and alignment with imagined audiences, which may encompass networked connections, platform algorithms, and the future self. In addition to providing a conceptual framework for political expression on social media that can be applied in other contexts, this study identifies a novel dimension of the concept. Distributed political expression describes how individuals voice political opinions through reflexive engagement with their own data. This study offers implications for further research on political expression and media exposure at the juncture of political communication and critical data studies.",
         "url": "https://doi.org/10.1080/10584609.2025.2579716",
         "topics_llm": true
       },
@@ -1703,7 +1722,7 @@
           "Discourse analysis",
           "Ideological messaging"
         ],
-        "abstract": "",
+        "abstract": "This ethnographic study examines the social and political meaning-making processes that cohere a group of young conservative students in a College Republicans group at a private American university under a common political identity. Expanding on recent work identifying feelings of social estrangement and marginalization as inherent to contemporary right-wing political attachment, this article introduces the concept of mundane heresy to describe the provocative group style through which these students construct a liminal social space defined by its opposition to a dominant liberal campus culture. While recent scholarship approaches right-wing incivility as a mode of public political expression, I highlight similar transgressive practices in nonpublic social contexts, where the insularity of the group both recuperates their perceived estrangement and shields them from external social sanction. Through the group bonds constructed through this process, students produce a shared political identity defined not by political ideology but social heterodoxy.",
         "url": "https://doi.org/10.1080/10584609.2025.2577666",
         "topics_llm": true
       },
@@ -1748,7 +1767,7 @@
           "Elite competition",
           "Southeast Asia"
         ],
-        "abstract": "Online influence operations (IO) are typically studied as isolated cases, often independent of their political context. In this study, based on 78 in-depth interviews with industry insiders, we explore the differences in the nature of IO campaigns across Indonesia, the Philippines, and Thailand, and investigate how this variation is linked to the political dynamics in these countries. We argue that the observed disparities in IO campaigns' aims, organization, and funding are closely tied to the distinct nature of elite competition in each country, specifically the degree to which ruling elites harness state institutions to suppress opposition and the character of election campaigns. Whereas Indonesia's candidate-centered election campaigns lead to fragmented, ad-hoc forms of IO, in the Philippines IO efforts are, like election campaigns, more commonly led by PR agencies. In contrast, the more state-centric and institutionalized IO campaigns in Thailand align with the substantial involvement of state institutions in electioneering in that country. We propose two reasons why IO campaigns mirror the structure of elite competition: First, the nature of political competition molds the motivations of the elites funding IO and, second, many IO campaigns are integrated into, or complement, politicians' and parties' official election campaign teams. With our comparative approach, we provide a deeper understanding of IO and their close alignment with national political-economic structures.",
+        "abstract": "Online influence operations (IO) are typically studied as isolated cases, often independent of their political context. In this study, based on 78 in-depth interviews with industry insiders, we explore the differences in the nature of IO campaigns across Indonesia, the Philippines, and Thailand, and investigate how this variation is linked to the political dynamics in these countries. We argue that the observed disparities in IO campaigns’ aims, organization, and funding are closely tied to the distinct nature of elite competition in each country, specifically the degree to which ruling elites harness state institutions to suppress opposition and the character of election campaigns. Whereas Indonesia’s candidate-centered election campaigns lead to fragmented, ad-hoc forms of IO, in the Philippines IO efforts are, like election campaigns, more commonly led by PR agencies. In contrast, the more state-centric and institutionalized IO campaigns in Thailand align with the substantial involvement of state institutions in electioneering in that country. We propose two reasons why IO campaigns mirror the structure of elite competition: First, the nature of political competition molds the motivations of the elites funding IO and, second, many IO campaigns are integrated into, or complement, politicians’ and parties’ official election campaign teams. With our comparative approach, we provide a deeper understanding of IO and their close alignment with national political-economic structures.",
         "url": "https://doi.org/10.1080/10584609.2025.2566098",
         "topics_llm": true
       },
@@ -1788,7 +1807,7 @@
           "Media authority",
           "News discourse"
         ],
-        "abstract": "",
+        "abstract": "This article examines the journalistic production of mediated political projections – media narratives about uncertain political futures, such as anticipated election outcomes and their implications. Despite the significance of prospective coverage in political journalism and its influence on political decision-making, there is limited understanding of journalists’ perceptions and textual expressions of political forecasting. Drawing on interviews with Israeli journalists and a computational text analysis of election coverage in France, Israel, and the U.S., this study aims to understand how journalists perceive, negotiate, and textually navigate political forecasting in their work – whether through their own projections or by mediating forecasts made by others. The findings reveal journalists’ deep ambivalence toward political forecasting and the resulting textual practices. We show how journalists attribute their engagement in forecasting to external pressures, while their reluctance stems from the inherent risks and challenges associated with political forecasting and its tension with their journalistic identity and professional values. To navigate this tension, they incorporate projections into conventional factual reporting or use non-committal language. Except in data journalism, assessing the likelihood of political scenarios is uncommon. Although these patterns are observed across countries and media types, prospective coverage is more prevalent in interventionist and accommodative journalistic cultures, with the rhetoric of facticity and certitude more common in broadcast news. We suggest that journalists’ reluctance to fully engage with the inherent uncertainties of political futures limits their ability to contribute effectively to public decision-making processes as societies navigate political futures.",
         "url": "https://doi.org/10.1080/10584609.2025.2556703",
         "topics_llm": true
       },
@@ -1806,7 +1825,7 @@
           "2024 US election",
           "Democratic Party messaging"
         ],
-        "abstract": "",
+        "abstract": "This forum contribution analyses the communicative features of the term “weird” in the context of its use by the Democratic Party to describe the Republican ticket during the 2024 US presidential election campaign. After briefly cataloging the term’s adoption in both official and unofficial campaign messaging, I offer a short etymology and examine the discursive work it does. I then suggest two plausible reasons for why “weird” achieved this level of salience: (1) it emerged during a time of voter fatigue with alarmist messaging; and (2) it had high memeability and was therefore apt for rapid online dissemination.",
         "url": "https://doi.org/10.1080/10584609.2025.2561722",
         "topics_llm": true
       },
@@ -1826,7 +1845,7 @@
           "Polarization",
           "Presidential rhetoric"
         ],
-        "abstract": "",
+        "abstract": "On February 28, 2025, the world witnessed a dramatic moment unfold live on television: a conversation about the Russia-Ukraine war between U.S. President Donald Trump, Vice President JD Vance, and ...",
         "url": "https://doi.org/10.1080/10584609.2025.2548294",
         "topics_llm": true
       },
@@ -1884,28 +1903,8 @@
           "Voter behavior",
           "Persuasion"
         ],
-        "abstract": "",
+        "abstract": "Voter preferences for a politician’s gender have been considered a potential factor of women’s underrepresentation in politics. Although recent studies demonstrate that voters do not generally dislike women candidates in elections, they may still doubt women’s competence and view persuasive behavior as counter-stereotypical for women. This may lead to the prediction that female politicians are less effective in persuading voters through their policy statements compared to men. However, evidence on this issue is scarce and mixed, with existing studies often having notable weaknesses in their experimental design. To address these problems, we carefully designed and conducted two preregistered survey experiments in the U.S. and Japan, where electoral rules are candidate-centered, and women’s underrepresentation is severe compared to other developed countries. We asked respondents how much they agreed with the policy statement of a fictitious politician whose gender was randomized in a mocked campaign website or a municipal council newsletter. We also varied the statement’s issue area and ideological position to examine whether persuasion is more effective when it aligns with gender stereotypes. The results showed no significant difference in policy persuasiveness between women and men politicians, and post hoc equivalence tests suggest the nonexistence of even minimal effects in both countries. Moreover, we found partial evidence that women politicians had an advantage when they claimed gender-stereotype statements in Japan, while the opposite was true in the U.S.",
         "url": "https://doi.org/10.1080/10584609.2025.2519159",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2532584",
-        "title": "Self-Reported Exposure and Beliefs About Misinformation Across a U.S. Presidential Election Cycle: Expressive Responding and Motivated Reasoning",
-        "authors": [
-          "R. Garrett",
-          "Robert M. Bond",
-          "Erik C. Nisbet"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Misinformation",
-          "Political communication",
-          "Motivated reasoning",
-          "Survey methodology"
-        ],
-        "abstract": "There is an on-going debate about the degree to which Americans’ self-reported beliefs in falsehoods are expressive, serving to increase respondents’ standing with their political in-group and to sway others, or sincere. Furthermore, there has been little consideration of whether the meaning of self-reported beliefs might change over time and whether liberals and conservatives differ in their propensity to engage in expressive responding. We contribute to this debate using a novel approach that compares self-reported exposure and belief about researcher-created “decoy” falsehoods that are critical of the political in-group to matching items that are critical of the out-group over an eight-wave panel study conducted during and after the 2020 election season. We find that exposure and beliefs in decoy falsehoods targeting the in-group and out-group tend to be similar, suggesting that expressive responding is relatively rare. There is, however, a modest increase in partisan bias in self-reported exposure and belief in these decoys associated with temporal proximity to the U.S. presidential election. We find little evidence of a difference between Republicans and Democrats self-reported belief in decoy falsehoods.",
-        "url": "https://doi.org/10.1080/10584609.2025.2532584",
         "topics_llm": true
       }
     ],
@@ -1923,7 +1922,7 @@
           "Christian Katzenbach"
         ],
         "year": 2024,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Platform governance",
           "Media coverage",
@@ -1962,7 +1961,7 @@
           "Daniel Kreiss"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Far-right movements",
           "Political communication",
@@ -1987,7 +1986,7 @@
           "Communication science",
           "News coverage"
         ],
-        "abstract": "",
+        "abstract": "To what extent do news frames influence public opinion? While a large body of experimental research suggests sizable effects, it is unclear how these findings translate to authentically complex information environments. I exploit a rare change in the immigration framing of the largest German tabloid, Bild, to estimate the precise impact of this shift on immigration attitudes using large-scale panel data. Despite a 42% increase in the emphasis on crime in Bild’s immigration coverage, I find a robust and precise null effect on immigration attitudes and several related variables. These findings highlight that framing effects materialize under specific scope conditions that need to be considered when generalizing from experimental results.",
         "url": "https://doi.org/10.1080/10584609.2025.2456519",
         "topics_llm": true
       },
@@ -2042,7 +2041,7 @@
           "Comparative political communication",
           "Germany and India"
         ],
-        "abstract": "Bundesministerium für Bildung und Forschung 10.13039/501100002347",
+        "abstract": "This essay relates the resurgence of contemporary far-rightFootnote1 politics to a distinctive querpolitics (a transverse or diagonal politics) of socially, politically, and ideologically heterogeneous assembly. This calls for a reconceptualization of the global far right beyond homogeneous understandings of ideological beliefs. Instead of ideologically aligned fellow travelers bound together by their common consent to a system of thick beliefs, far-right political formations are located within messy and fissured socio-political fields. They assemble a varied and contradictory collection of individual, transactional actors with divergent interests. Moreover, the far right is often embedded in mainstream circuits of political and social life that are distinct from and often even opposed to overtly extremist positions. I elaborate on these points through a discussion of far-right politics in Germany and India. If the former is notable as a historically significant case, the latter is where the world’s largest far-right political movement is presently located.",
         "url": "https://doi.org/10.1080/10584609.2024.2414262",
         "topics_llm": true
       },
@@ -2061,7 +2060,7 @@
           "Intellectual humility",
           "Social media behavior"
         ],
-        "abstract": "International audience",
+        "abstract": "Many assume that if citizens were more inclined to moralize the values of evidence-based and logical thinking, they would be less likely to share politically hostile, conspiratorial, and false claims on social media. In contrast, on the basis of theories of status seeking and persuasion, we argue that moralization of rationality may actually stimulate the spread of hostile partisan news online, including fabricated claims. Across three large surveys (N = 4800) run on U.S. respondents (one exploratory and two pre-registered), we provide empirical evidence for this prediction and demonstrate that the moralization of rationality can be a form of moral grandstanding by status seekers inclined to spread hostile (mis)information to reach partisan goals. In contrast to such grandstanding with respect to rationality, our studies find robust evidence that intellectual humility – that is, the awareness that intuitions are fallible and that trusting others is often desirable – may protect people from both sharing and believing hostile and false political news online.",
         "url": "https://doi.org/10.1080/10584609.2024.2363542",
         "topics_llm": true
       },
@@ -2072,7 +2071,7 @@
           "Andrea L. P. Pirro"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Far-right politics",
           "Political communication",
@@ -2111,6 +2110,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2025.2512342",
+        "title": "Toward Conceptualizing Bounded Social Media Places",
+        "authors": [
+          "Pranav Malhotra"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Social media",
+          "Place theory",
+          "Digital spaces",
+          "Community boundaries"
+        ],
+        "abstract": "In this theoretical piece, I explicate the concept of bounded social media places (BSMPs), places within social media characterized by control over visibility such as private groups, servers, and chats. I distinguish these from public social media places (PSMPs), like algorithmically controlled content feeds and public groups, profiles, and pages. In doing so, I argue that political communication scholars engaged in multi-platform research can adopt an affordances perspective and use the affordance of visibility as an organizing principle to understand the broader social media ecology. Thus, they can differentiate between lower visibility BSMPs and higher visibility PSMPs across multiple platforms. This helps to address the limitations associated with using platform as a discrete object of study in multi-platform research. In particular, individual platforms are heterogenous and contain both lower and higher visibility places, which can be associated with distinct political outcomes. Furthermore, I identify four types of BSMPs and review political communication research on them, highlighting how the concept of BSMPs can help researchers tackle some of the limitations associated with this work as well as encourage scholars to conduct more multi-platform political communication research on these different BSMPs. I also outline specific ways in which the concept of BSMPs can facilitate more nuanced multi-platform political communication research and theorizing. Scholars can draw on this concept to more clearly identify their object of study, engage in more platform-agnostic and durable research, and present a more complete picture of multi-platform media ecologies and political communication.",
+        "url": "https://doi.org/10.1080/10584609.2025.2512342",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2024.2395859",
         "title": "Increasing Demand for Fact-Checking",
         "authors": [
@@ -2125,7 +2142,7 @@
           "Media literacy",
           "Digital communication"
         ],
-        "abstract": "",
+        "abstract": "Fact-checks successfully persuade people to reject misinformation, but people who are exposed to misinformation rarely read fact-checks. This makes increasing the demand for fact-checking a crucial, understudied aspect of the fight against misinformation. We test several ways of increasing demand for fact-checking. In our first two studies, we find little evidence that the partisan reputation of fact-checkers affects willingness to read fact-checks. Our third and fourth studies yield three successful classes of interventions: appeals to civic duty, social pressure, and micro-payments. Effects are robust among those who are least likely at baseline to choose to read fact-checks, and among those who are most likely at baseline to consume misinformation. Our results offer several practical lessons. Increasing demand for fact-checks is possible, including among the subgroups most in need of encouragement. Though fact-checkers are widely perceived as partisan, increasing demand may require looking beyond partisan reputations and identities.",
         "url": "https://doi.org/10.1080/10584609.2024.2395859",
         "topics_llm": true
       },
@@ -2147,7 +2164,7 @@
           "Perceived polarization",
           "Political communication"
         ],
-        "abstract": "",
+        "abstract": "America is said to be more polarized than ever before, and extensive research examines the causes and effects of political polarization. A less studied but more pronounced trend is that citizens perceive society and politics as sharply divided. We focus on news exposure as a key reason for these perceptions. We disentangle the unique effects of exposure to partisan outlets and to news coverage of polarization in general, whether in partisan or centrist news media. We rely on 9 months of online behavioral data (127,400,000 visits) from large samples in the U.S. and Poland (total N = 2,462 & 2,120), paired with a three-wave panel survey on participants' attitudes and perceptions. We measure individual exposure, over-time and unobtrusively, to partisan outlets as well as to news coverage of polarization through a fine-tuned BERT-based machine learning classifier. We find that both exposures increase perceived polarization, independently, in both countries. Yet, in both contexts, it is news coverage of polarization, regardless of whether it is ideologically left, right, or centrist news outlets, that is the strongest driver of perceived polarization. These changes are confined to personal-level polarization (perceived distance between oneself and members of the opposing party), while no measure significantly influences perceptions of society, more generally, as being polarized. These findings have important implications for our understanding of how the media’s increasing tendency to focus on conflict as a central reporting frame can be the driver of often exaggerated perceptions of partisan divisions.",
         "url": "https://doi.org/10.1080/10584609.2024.2423093",
         "topics_llm": true
       },
@@ -2187,26 +2204,27 @@
           "Brazilian election",
           "Digital divide"
         ],
-        "abstract": "",
+        "abstract": "If representation furnishes the stage where political struggles play out, this stage can be alarmingly small. In this study, we examine whether social media campaigns in the 2022 Brazil elections are inclusive. Based on the triangulation of data provided by Brazil’s Electoral Supreme Court, national census, and approximately 80,000 Facebook posts and ads, our findings reveal that candidates who lacked resources were either absent from this platform or received significantly less engagement. Those who already belonged to Brazil’s political class and invested more on content promotion online were more successful in boosting their social media metrics. We also find that campaigns were highly concentrated on populous and rich municipalities, thereby neglecting hundreds of cities in these communication efforts. Overall, our results suggest that social media will reproduce, rather than subvert, existing forms of inequality and exclusion in Brazilian representative politics.",
         "url": "https://doi.org/10.1080/10584609.2024.2439320",
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2025.2512342",
-        "title": "Toward Conceptualizing Bounded Social Media Places",
+        "doi": "10.1080/10584609.2025.2467905",
+        "title": "The Political Court: Newspaper Coverage, Appointment Politics, and Public Support of the United States Supreme Court, 1980–2023",
         "authors": [
-          "Pranav Malhotra"
+          "Joshua Boston",
+          "Christopher N. Krewson"
         ],
         "year": 2025,
         "citation_count": 6,
         "topics": [
-          "Social media",
-          "Place theory",
-          "Digital spaces",
-          "Community boundaries"
+          "Supreme Court",
+          "Media framing",
+          "Judicial legitimacy",
+          "Political polarization"
         ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/10584609.2025.2512342",
+        "abstract": "The public expects courts to behave as legal institutions. But news media coverage of courts often contradicts that expectation. We argue that political framing – the media’s use of political, ideological, and partisan language – in news coverage of the United States Supreme Court has increased, and that political framing harms Court support. We employ a novel dataset of Court media coverage from five newspapers of record from 1980 to 2023. Observational data demonstrate (1) an increase in the use of political terms in news coverage of the Court over time, and (2) an unmistakable and abrupt increase in political framing in 2016 following the death of Justice Antonin Scalia. Using a survey experiment, we establish the validity of our measurement approach as well as the causal implications of these trends for public perceptions of the Court. This study makes clear that Justice Scalia’s death, and the intense politics it initiated, introduced a level of political coverage of the Supreme Court that has not been observed for at least two generations. The stark change in how the news media covers the Court has important implications for the public’s attitudes toward judges, perceptions of the proper judicial role, and support for courts.",
+        "url": "https://doi.org/10.1080/10584609.2025.2467905",
         "topics_llm": true
       },
       {
@@ -2222,7 +2240,7 @@
           "Crisis communication",
           "Media discourse"
         ],
-        "abstract": "",
+        "abstract": "The knowledge political communication scholars can provide is in high demand, helping regulators, politicians, and citizens to make sense of a seemingly crazy, unhinged world unfolding around them. However, there is a lot we still need to learn. To many of the burning questions concerning digital societies, scholars have to respond with: We have no clue! This Welcome Note by the incoming editor of The Forum outlines some of the “known unkowns” and “unknown unkowns” of current political communication research.",
         "url": "https://doi.org/10.1080/10584609.2024.2395084",
         "topics_llm": true
       },
@@ -2240,27 +2258,8 @@
           "News crisis",
           "Media decline"
         ],
-        "abstract": "",
+        "abstract": "The local news crisis in the United States has raised concerns about accountability in state and local government. But existing research has provided only indirect evidence that the decline of local news reporting has made it harder for voters to punish poor-performing elected officials. In this paper, I examine local newspaper coverage of state and congressional political scandals from 1990 through 2022. I first show that scandals now receive about 25% of the coverage they once did, a development that is directly related to the decline in newsroom reporting resources. I then show that the volume of scandal reporting is associated with whether officials face sanction for their behavior. When newspapers devote less coverage to a scandal, incumbents are less likely to leave office or receive a lower vote share when they run for reelection. Because scandals get significantly less coverage than they did even a decade ago, it may now be easier for politicians to ride them out and avoid punishment for bad behavior.",
         "url": "https://doi.org/10.1080/10584609.2025.2498533",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2467905",
-        "title": "The Political Court: Newspaper Coverage, Appointment Politics, and Public Support of the United States Supreme Court, 1980–2023",
-        "authors": [
-          "Joshua Boston",
-          "Christopher N. Krewson"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Supreme Court",
-          "Media framing",
-          "Judicial legitimacy",
-          "Political polarization"
-        ],
-        "abstract": "The public expects courts to behave as legal institutions. But news media coverage of courts often contradicts that expectation. We argue that political framing – the media’s use of political, ideological, and partisan language – in news coverage of the United States Supreme Court has increased, and that political framing harms Court support. We employ a novel dataset of Court media coverage from five newspapers of record from 1980 to 2023. Observational data demonstrate (1) an increase in the use of political terms in news coverage of the Court over time, and (2) an unmistakable and abrupt increase in political framing in 2016 following the death of Justice Antonin Scalia. Using a survey experiment, we establish the validity of our measurement approach as well as the causal implications of these trends for public perceptions of the Court. This study makes clear that Justice Scalia’s death, and the intense politics it initiated, introduced a level of political coverage of the Supreme Court that has not been observed for at least two generations. The stark change in how the news media covers the Court has important implications for the public’s attitudes toward judges, perceptions of the proper judicial role, and support for courts.",
-        "url": "https://doi.org/10.1080/10584609.2025.2467905",
         "topics_llm": true
       }
     ]

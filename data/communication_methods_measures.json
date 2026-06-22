@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-06-15T12:11:40Z",
-  "trending_from": "2024-06-15",
+  "updated_at": "2026-06-22T11:52:06Z",
+  "trending_from": "2024-06-22",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4138,
+        "citation_count": 4144,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2456,
+        "citation_count": 2467,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1796,
+        "citation_count": 1803,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1060,
+        "citation_count": 1064,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 894,
+        "citation_count": 897,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 806,
+        "citation_count": 812,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 421,
+        "citation_count": 422,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 218,
+        "citation_count": 219,
         "topics": [
           "News framing",
           "Computational methods",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 191,
+        "citation_count": 193,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -406,7 +406,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 179,
+        "citation_count": 180,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 177,
+        "citation_count": 178,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -465,7 +465,7 @@
           "Theo Araujo",
           "Laura Boeschoten",
           "Deen Freelon",
-          "Nilàm Ram",
+          "Nilám Ram",
           "Byron Reeves",
           "Thomas N. Robinson"
         ],
@@ -728,7 +728,7 @@
           "Christopher Monterola"
         ],
         "year": 2011,
-        "citation_count": 106,
+        "citation_count": 107,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -921,7 +921,7 @@
           "Hannah Früh"
         ],
         "year": 2012,
-        "citation_count": 81,
+        "citation_count": 82,
         "topics": [
           "Electrodermal Activity",
           "Audience Arousal",
@@ -1006,7 +1006,7 @@
           "Sequence analysis",
           "Computational communication methods"
         ],
-        "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between such theoretical dynamicality and the non-dynamical character of communication scholars' preferred methodologies. In this paper, we argue for a new research framework that uses computational approaches to leverage the fine-grained timestamps recorded in digital trace data. In particular, we propose to maintain the hyper-longitudinal information in the trace data and analyze time-evolving 'user-sequences,' which provide rich information about user activity with high temporal resolution. To illustrate our proposed framework, we present a case study that applied six approaches (e.g., sequence analysis, process mining, and language-based models) to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study suggests a conceptual reorientation towards a better understanding of the temporal dimension in communication processes, resting on the exploding supply of digital trace data and the technical advances in analytical approaches.",
+        "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
         "topics_llm": true
       },
@@ -1025,7 +1025,7 @@
           "P-curve analysis",
           "Research credibility"
         ],
-        "abstract": "",
+        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
         "url": "https://doi.org/10.1080/19312458.2026.2658505",
         "topics_llm": true
       },
@@ -1064,7 +1064,7 @@
           "Digital media",
           "Time perception measurement"
         ],
-        "abstract": "",
+        "abstract": "Our field has been questioning whether self-reported media use actually captures the time spent using media, resulting in a shift from subjective to objective measurements. We advocate for a new paradigm that, instead of abandoning subjectivity, places it at the center of our research. To this end, we introduce a novel theoretical and methodological framework called 'felt time', which captures nuances in how individuals perceive the passage of time while interacting with media. In two studies (N1 = 68, N2 = 1,030), we develop and validate a measure called the Felt Time Scale (FTS) and its short version (FTS-S), revealing that studies relying on subjective self-reports or the more objective, tracked screen time may have overlooked a critical dimension of users’ media experience: felt time. We validate the scale in the context of screen media use and show empirically that screen engagement situationally alters how people feel time, producing unique effects. We conclude by proposing future directions that integrate this perspective, aiming to foster a more comprehensive understanding of screen time.",
         "url": "https://doi.org/10.1080/19312458.2026.2627548",
         "topics_llm": true
       },
@@ -1084,7 +1084,7 @@
           "Computational communication",
           "Social media analysis"
         ],
-        "abstract": "",
+        "abstract": "The proliferation of social bots poses significant challenges for authentic online communication, motivating a growing body of research in communication studies. Yet, conceptual ambiguities and methodological inconsistencies continue to undermine the reliability and replicability of social bot research. This study reviews recent work on social bots, revealing a frequent mismatch between detection methods and the types of bots being investigated. To address these issues, we propose a typology based on three dimensions: intention (benign vs. malicious), coordination (independent vs. coordinated), and operation (rule-based vs. generative). We further build a multiclass dataset of 4,071 bots and 6,386 humans from Bluesky and evaluate four major detection methods: rule-based approaches, supervised machine learning, unsupervised approaches, and large language model-based techniques. By highlighting the strengths and limitations of each, we advocate for multimethod strategies to better respond to evolving bot behaviors. We conclude with recommendations for standardizing detection practices and enhancing methodological rigor in social bot research.",
         "url": "https://doi.org/10.1080/19312458.2026.2613829",
         "topics_llm": true
       },
@@ -1106,7 +1106,7 @@
           "Privacy willingness",
           "Selection bias"
         ],
-        "abstract": "Data donations are a method to access user-level digital trace data, as they provide fine-grained measures of content exposure on social media. The interest in data donation as a data collection method is accompanied by a broad uncertainty about the reasons that drive the donation of data by users. The current literature lacks comparative analysis across various platforms. This study investigates platform-specific predictors for data donation behavior of a non-probability quota sample of German social media users (N = 2,296) for YouTube, Facebook, Instagram, and TikTok and the resulting non-response biases. Based on the analysis of 340 data donation packages, we find that participants are less likely to donate TikTok data compared to the other platforms. Gender is the main driver during the willingness step for drop offs, while political leaning is a key predictor for all platforms except Facebook during the donation stage. Data donors tend to self-report less active social media usage with news and political content than those who do not donate data. Our findings highlight the importance of considering platform-specific differences in expected donation rates, biases, and the potential for discrepancies between indicated willingness and actual donation behavior when designing and interpreting data donation studies.",
+        "abstract": "Data donations are a method to access user-level digital trace data, as they provide fine-grained measures of content exposure on social media. The interest in data donation as a data collection method is accompanied by a broad uncertainty about the reasons that drive the donation of data by users. The current literature lacks comparative analysis across various platforms. This study investigates platform-specific predictors for data donation behavior of a non-probability quota sample of German social media users (N = 2,296) for YouTube, Facebook, Instagram, and TikTok and the resulting non-response biases. Based on the analysis of 340 data donation packages, we find that participants are less likely to donate TikTok data compared to the other platforms. Gender is the main driver during the willingness step for drop offs, while political leaning is a key predictor for all platforms except Facebook during the donation stage. Data donors tend to self-report less active social media usage with news and political content than those who donate data. Our findings highlight the importance of considering platform-specific differences in expected donation rates, biases, and the potential for discrepancies between indicated willingness and actual donation behavior when designing and interpreting data donation studies.",
         "url": "https://doi.org/10.1080/19312458.2025.2605946",
         "topics_llm": true
       },
@@ -1165,7 +1165,7 @@
           "Automated content analysis",
           "Binary categories"
         ],
-        "abstract": "",
+        "abstract": "This paper discusses automated gender classification for social media profiles. It focuses on epistemological and methodological issues that researchers need to consider when using gender classification techniques. It begins with an examination of the category of gender from a queer feminist perspective in the first part. The second part discusses decision points and their potential impact on results at different stages of the research process: From identifying the research angle, to choosing a method, to analysis and validation, to reporting results. Several existing approaches are critically discussed. In the third part, an empirical case study is presented that follows a multi-step procedure of gender classification that aims to overcome a binary gender logic using different methods, such as dictionaries of gendered attributes and personal pronouns, as well as name-gender-inference. By reflecting on the challenges of each step of the analysis, the procedure follows an approach of discrimination-aware data analysis, which can be conceptualized as a form of intervention within the context of queer data practices.",
         "url": "https://doi.org/10.1080/19312458.2025.2554864",
         "topics_llm": true
       },
@@ -1188,7 +1188,7 @@
           "NLP benchmarks",
           "Fact-checking"
         ],
-        "abstract": "Information shapes citizens’ political decision-making. This process is amply studied by social scientists, for whom human annotation is a crucial instrument in their toolkit. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these benchmarks more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Currently, disagreement and bias are often conflated–ignoring the possibility of annotator sample bias and valid disagreement. In a preregistered experiment in the Netherlands and a close replication in the U.S. we show that personal characteristics of annotators, like political ideology or knowledge, can interfere with annotators’ judgment of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
+        "abstract": "Information shapes citizens’ political decision-making. This process is amply studied by social scientists, for whom human annotation is a crucial instrument in their toolkit. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these benchmarks more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Currently, disagreement and bias are often conflated – ignoring the possibility of annotator sample bias and valid disagreement. In a preregistered experiment in the Netherlands and a close replication in the U.S. we show that personal characteristics of annotators, like political ideology or knowledge, can interfere with annotators’ judgment of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
         "url": "https://doi.org/10.1080/19312458.2025.2562034",
         "topics_llm": true
       },
@@ -1209,7 +1209,7 @@
           "Gender bias",
           "Social media analysis"
         ],
-        "abstract": "",
+        "abstract": "This study explores potential biases in current language models for detecting different forms of incivility in online discussions. Our work builds on prior research demonstrating that numerous classification approaches disproportionately focus on overt forms of uncivil language, while more subtle forms of incivility remain underrecognized. Such classification bias may lead to the unfair treatment of social groups that are more frequently targeted by implicit forms of incivility in online debates, such as stereotyping and discrimination, including, for instance, female politicians. On a dataset of 24,681 user comments from YouTube and X, we evaluate state-of-the-art language models including BERT, GPT-4, and Meta Llama 3, for their ability to reliably identify different subtypes of incivility directed at female and male politicians, combining comparative performance evaluation and in-depth error analysis. Our results suggest that stereotyping and discriminatory comments are less reliably classified across all models and learning strategies than, for example, vulgar language and insults, indicating a continued risk of bias toward overt forms of incivility in modern language models. As a result, incivility directed at social groups that are more frequently targeted with stereotyping and discrimination may remain underdetected. With this study, we aim to offer valuable implications for the use of current language models in both incivility research and online moderation, supporting the development of more transparent and fairer artificial intelligence grounded in democratic principles.",
         "url": "https://doi.org/10.1080/19312458.2025.2551693",
         "topics_llm": true
       },
@@ -1297,7 +1297,7 @@
           "Narrative analysis",
           "Digital methodology"
         ],
-        "abstract": "",
+        "abstract": "What is the prevalence of moral themes in textual corpora? Most previous moral mining research has been informed by Moral Foundations Theory (MFT). Here, we develop and evaluate an alternative moral mining tool based on the theory of Morality as Cooperation (MAC), using crowd-sourced annotations and the web-based hybrid content annotation platform, the Moral Narrative Analyzer (MoNA). We compare the empirical performance of the extended Morality as Cooperation Dictionary (eMACD) with previous dictionaries, including the extended Moral Foundations Dictionary (eMFD), across ten validation analyses, encompassing diverse corpora that include news media, journal entries, presidential speeches, social media, and movies. We find that eMACD outperforms previous dictionaries in most cases. We conclude that eMACD is an important addition to the methodological toolkit of researchers examining moral content in textual data, and we provide eMACDscore – a Python-based moral mining tool – to facilitate future research.",
         "url": "https://doi.org/10.1080/19312458.2025.2500329",
         "topics_llm": true
       },
@@ -1319,7 +1319,7 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (insitu) and content scraped using the URLs of participants’ logged visits (exsitu) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants’ logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
         "topics_llm": true
       },
@@ -1342,7 +1342,7 @@
           "Automated coding",
           "Machine learning"
         ],
-        "abstract": "",
+        "abstract": "The goal of the current study is to compare different methods for automated object detection (i.e. tag detection, shape detection, matching, and machine learning) with manual coding on different types of objects (i.e. static, dynamic, and dynamic with human interaction) and describe the advantages and limitations of each method. We tested the methods in an experiment that utilizes mobile eye tracking because of the importance of attention in communication science and the challenges posed by this type of data when analyzing different objects because visual parameters are consistently changing within and between participants. Machine learning was found to be the most reliable method to detect all types of objects and was slightly more conservative compared to manual coding. Feature-based matching worked well for static objects. We discuss the advantages and challenges of each method along with key considerations for researchers depending on their research objective, the type of object, and the object detection method they will use.",
         "url": "https://doi.org/10.1080/19312458.2024.2443396",
         "topics_llm": true
       },
@@ -1546,7 +1546,7 @@
           "Machine learning measurement error",
           "Regression correction methods"
         ],
-        "abstract": "Automated classifiers (ACs), often built via supervised machine learning (SML), can categorize large, statistically powerful samples of data ranging from text to images and video. They have become widely popular measurement devices in communication science and related fields. Despite this popularity, even highly accurate classifiers make errors that cause misclassification bias and misleading results when input to downstream statistical analyses–unless such analyses account for these errors. As we show in a systematic literature review of SML applications, communication scholars largely ignore misclassification bias. In principle, existing statistical methods can use \"gold standard\" validation data, such as that created by human annotators, to correct misclassification bias. We introduce and test such methods, including a new method we design and implement in the R package misclassification_models, via Monte Carlo simulations designed to reveal each method's limitations, which we also release. Based on our results, we recommend our new error correction method as it is versatile and efficient. In sum, automated classifiers, even those below common accuracy standards or those making systematic misclassifications, can be useful for measurement with careful study design and appropriate error correction methods.",
+        "abstract": "Automated classifiers (ACs), often built via supervised machine learning (SML), can categorize large, statistically powerful samples of data ranging from text to images and video. They have become widely popular measurement devices in communication science and related fields. Despite this popularity, even highly accurate classifiers make errors that cause misclassification bias and misleading results when input to downstream statistical analyses–unless such analyses account for these errors. As we show in a systematic literature review of SML applications, communication scholars largely ignore misclassification bias. In principle, existing statistical methods can use “gold standard” validation data, such as that created by human annotators, to correct misclassification bias. We introduce and test such methods, including a new method we design and implement in the R package misclassification_models, via Monte Carlo simulations designed to reveal each method’s limitations, which we also release. Based on our results, we recommend our new error correction method as it is versatile and efficient. In sum, automated classifiers, even those below common accuracy standards or those making systematic misclassifications, can be useful for measurement with careful study design and appropriate error correction methods.",
         "url": "https://doi.org/10.1080/19312458.2023.2293713",
         "topics_llm": true
       },
@@ -1567,7 +1567,7 @@
           "Research methodology",
           "Academic epistemology"
         ],
-        "abstract": "",
+        "abstract": "Communication Methods and Measures has made tremendous progress and achievements since its inaugural issue in 2007 and since the last Editorial (Matthes et al., 2016), as reflected in the impact fa...",
         "url": "https://doi.org/10.1080/19312458.2024.2308369",
         "topics_llm": true
       },
@@ -1589,7 +1589,7 @@
           "Media evaluation",
           "Political communication"
         ],
-        "abstract": "evaluative expressions, we thus use a SML classifier to decide whether recognized terms have an evaluative function in relation to the evaluated object. We train and test our classifier on a corpus of 10,004 segments of election coverage from 16 major U.S. news outlets and Tweets by 10 prominent U.S. politicians and journalists. Specifically, we focus on evaluations of political predictions about the outcomes and implications of the 2016 and 2020 U.S. presidential elections. We show that our classifier consistently outperforms both off-the-shelf sentiment tools and a pre-trained transformer-based sentiment classifier. Critically, our classifier correctly discards numerous non-evaluative uses of common sentiment terms, whose inclusion in conventional analyses generates large amounts of false positives. We discuss contributions of our approach to the measurement of object-specific evaluations and highlight challenges for future research.",
+        "abstract": "In this paper, we propose a new strategy for classifying evaluations in large text corpora, using supervised machine learning (SML). Departing from a conceptual and methodological critique of the use of sentiment measures to recognize object-specific evaluations, we argue that a key challenge consists in determining whether a semantic relationship exists between evaluative expressions and evaluated objects. Regarding sentiment terms as merely potentially evaluative expressions, we thus use a SML classifier to decide whether recognized terms have an evaluative function in relation to the evaluated object. We train and test our classifier on a corpus of 10,004 segments of election coverage from 16 major U.S. news outlets and Tweets by 10 prominent U.S. politicians and journalists. Specifically, we focus on evaluations of political predictions about the outcomes and implications of the 2016 and 2020 U.S. presidential elections. We show that our classifier consistently outperforms both off-the-shelf sentiment tools and a pre-trained transformer-based sentiment classifier. Critically, our classifier correctly discards numerous non-evaluative uses of common sentiment terms, whose inclusion in conventional analyses generates large amounts of false positives. We discuss contributions of our approach to the measurement of object-specific evaluations and highlight challenges for future research.",
         "url": "https://doi.org/10.1080/19312458.2023.2285783",
         "topics_llm": true
       },
@@ -1609,7 +1609,7 @@
           "Computational discourse analysis",
           "Machine learning NLP"
         ],
-        "abstract": "We propose a new method that embeds speakers into a spatial representation according to the linguistic similarity of their contributions to a debate. Such \"speaker landscapes\" can be constructed quantitatively using word embeddings by annotating text corpora of speech samples by tokens representing the speakers. The way embeddings are constructed from predictive machine learning models means that speaker-tokens are placed closer together if they are easier to confuse given their speech samples. The result is a nuanced measure of similarity in speech which takes into account the wealth of linguistic signification and structure that the text prediction model can learn. We validate this tool using two South African case studies: the Twitter debate around the arrest and imprisonment of former president Jacob Zuma, and quotes from the news media about land reform. The results show that speaker landscapes make social qualities such as group membership and opinions evident, and we discuss how speaker landscapes open up new methods for studying opinion discourse with text data.",
+        "abstract": "We propose a new method that embeds speakers into a spatial representation according to the linguistic similarity of their contributions to a debate. Such “speaker landscapes” can be constructed quantitatively using word embeddings by annotating text corpora of speech samples by tokens representing the speakers. The way embeddings are constructed from predictive machine learning models means that speaker-tokens are placed closer together if they are easier to confuse given their speech samples. The result is a nuanced measure of similarity in speech which takes into account the wealth of linguistic signification and structure that the text prediction model can learn. We validate this tool using two South African case studies: the Twitter debate around the arrest and imprisonment of former president Jacob Zuma, and quotes from the news media about land reform. The results show that speaker landscapes make social qualities such as group membership and opinions evident, and we discuss how speaker landscapes open up new methods for studying opinion discourse with text data.",
         "url": "https://doi.org/10.1080/19312458.2023.2277958",
         "topics_llm": true
       },
@@ -1631,7 +1631,7 @@
           "Content analysis",
           "Digital trace data"
         ],
-        "abstract": "A pressing societal and scientific question is how social media use affects our cognitions, emotions, and behaviors. To answer this question, fine-grained insight into the content of individuals' social media use is needed. It is difficult to study content-based social media effects with traditional survey methods because such methods are incapable of capturing the extreme volume and variety of social media content that is shared and received. Therefore, this special issue aims to illustrate how content-based social media effects could be examined by integrating communication sciences and computational methods. We describe a three-step method to investigate content-based media effects, which involves (a) collecting digital trace data, (b) performing automated textual and visual content analysis, and (c) conducting linkage analysis. This Special Issue zooms in on these steps and describes the strengths and weaknesses of different computational methods. We conclude with some challenges that need to be addressed in future research.",
+        "abstract": "A pressing societal and scientific question is how social media use affects our cognitions, emotions, and behaviors. To answer this question, fine-grained insight into the content of individuals’ social media use is needed. It is difficult to study content-based social media effects with traditional survey methods because such methods are incapable of capturing the extreme volume and variety of social media content that is shared and received. Therefore, this special issue aims to illustrate how content-based social media effects could be examined by integrating communication sciences and computational methods. We describe a three-step method to investigate content-based media effects, which involves (a) collecting digital trace data, (b) performing automated textual and visual content analysis, and (c) conducting linkage analysis. This Special Issue zooms in on these steps and describes the strengths and weaknesses of different computational methods. We conclude with some challenges that need to be addressed in future research.",
         "url": "https://doi.org/10.1080/19312458.2023.2285766",
         "topics_llm": true
       },
@@ -1665,13 +1665,13 @@
           "Zhiying Yue"
         ],
         "year": 2023,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Keyword selection",
           "Text data retrieval",
           "Digital media research"
         ],
-        "abstract": "ABSTRACTDespite the increasing use of digital media data in communication research, a central challenge persists – retrieving data with maximal accuracy and coverage. Our investigation of keyword-based data collection practices in extant communication research reveals a one-step process, whereas our cross-disciplinary literature review suggests an iterative query expansion process guided by human knowledge and computer intelligence. Hence, we introduce the WordPPR method for keyword selection and text data retrieval, which entails four steps: 1) collecting an initial dataset using core/seed keyword(s); 2) constructing a word graph based on the dataset; 3) applying the Personalized PageRank (PPR) algorithm to rank words in proximity to the seed keyword(s) and selecting new keywords that optimize retrieval precision and recall; 4) repeating steps 1–3 to determine if additional data collection is needed. Without requiring corpus-wide sampling/analysis or extensive manual annotation, this method is well suited for data collection from large-scale digital media corpora. Our simulation studies demonstrate its robustness against parameter choice and its improvement upon other methods in suggesting additional keywords. Its application in Twitter data retrieval is also provided. By advancing a more systematic approach to text data retrieval, this study contributes to improving digital media data retrieval practices in communication research and beyond. AcknowledgementWe thank our reviewers, the editors, Dr. Karl Rohe, Dr. Nojin Kwak, and Dr. Dhavan Shah for their helpful feedback. We also thank Rui Wang, Dongdong Yang, and Xinxia Dong for assistance with the journal article coding.Disclosure statementNo potential conflict of interest was reported by the author(s).Data availability statementThe method and application code files as well as the supplementary materials are available at https://osf.io/pcybz/.Supplementary materialSupplemental data for this article can be accessed online at https://doi.org/10.1080/19312458.2023.2278177.Additional informationNotes on contributorsYini ZhangYini Zhang (Ph.D., University of Wisconsin–Madison) is an assistant professor in the Department of Communication at the University at Buffalo, State University of New York. She studies social media, media ecosystem, and political communication, using computational methods.Fan ChenFan Chen (Ph.D., University of Wisconsin–Madison) is a Data Scientist at Google. He studies and develops statistical methods for social media, genomics, and advertisement data. The bulk of this work was completed while he was a Ph.D. student at the University of Wisconsin–Madison.Jiyoun SukJiyoun Suk (Ph.D., University of Wisconsin-Madison) is an assistant professor in the Department of Communication at the University of Connecticut. She studies the role of networked communication in shaping social trust, activism, and polarization, using computational methods.Zhiying YueZhiying Yue (Ph.D., University at Buffalo) is a postdoctoral researcher at the Digital Wellness Lab, Boston Children's Hospital, and Harvard Medical School. Her research interests generally focus on individuals' social media use and psychological well-being.",
+        "abstract": "Despite the increasing use of digital media data in communication research, a central challenge persists – retrieving data with maximal accuracy and coverage. Our investigation of keyword-based data collection practices in extant communication research reveals a one-step process, whereas our cross-disciplinary literature review suggests an iterative query expansion process guided by human knowledge and computer intelligence. Hence, we introduce the WordPPR method for keyword selection and text data retrieval, which entails four steps: 1) collecting an initial dataset using core/seed keyword(s); 2) constructing a word graph based on the dataset; 3) applying the Personalized PageRank (PPR) algorithm to rank words in proximity to the seed keyword(s) and selecting new keywords that optimize retrieval precision and recall; 4) repeating steps 1–3 to determine if additional data collection is needed. Without requiring corpus-wide sampling/analysis or extensive manual annotation, this method is well suited for data collection from large-scale digital media corpora. Our simulation studies demonstrate its robustness against parameter choice and its improvement upon other methods in suggesting additional keywords. Its application in Twitter data retrieval is also provided. By advancing a more systematic approach to text data retrieval, this study contributes to improving digital media data retrieval practices in communication research and beyond.",
         "url": "https://doi.org/10.1080/19312458.2023.2278177",
         "topics_llm": true
       },
@@ -1749,7 +1749,7 @@
           "Personality traits",
           "Communication measurement"
         ],
-        "abstract": "Need for privacy gains importance in various disciplines, i. e. computer mediated-, interpersonal-, and health communication. These disciplines demand the reliable measurement of he need for privacy across different contexts. We suggest a theoretical understanding of the need for privacy as a personality trait and developed a scale based on Burgoon’s (1982) privacy dimensions. In study 1, we developed and tested the need for privacy scale (NFP-S) using exploratory and confirmatory factor analysis (n1 = 3,278; n2 = 1,226). The results show support for a second-order model with three first-order factors, i.e. informational, psychological and physical need for privacy, consisting of 12 items. The scale is validated with regard to loneliness, online privacy concerns, sex, online data protection and online self-disclosure. In study 2, we confirmed the factorial structure with a representative sample of n = 1,000. We validated the scale with a self-assessment, offline and online privacy concerns, online privacy literacy and gender, as well as variables inherent to the particular setting of online media use, i.e. social media usage, data protection and social media self-disclosure. The results are discussed and areas of where and how the instrument might be used are proposed.",
+        "abstract": "The need for privacy has been gaining importance in various disciplines and areas of communication, including computer-mediated, interpersonal, and health communication. These disciplines require reliable measurement of the need for privacy across different contexts. We propose a theoretical concept of the need for privacy as a personality trait and develop a multi-dimensional scale. In Study 1, we developed and tested the Need for Privacy Scale (NFP-S) using exploratory and confirmatory factor analysis (German internet users, n1 = 3,278; n2 = 1,226). The results support a second-order model with three first-order factors, i.e., informational, psychological, and physical need for privacy; social need for privacy was identified to be inherent to the three other dimensions and as such not a dimension on its own. The 12-item scale was validated with regard to loneliness, online privacy concerns, sex, online data protection and online information disclosure. In Study 2, we confirmed the factorial structure with a representative sample of N = 1,000 German internet users. We validated the scale with a self-assessment of the need for privacy, offline and online privacy concerns, online privacy literacy, social media usage, online data protection and social media self-disclosure, and sociodemographics.",
         "url": "https://doi.org/10.1080/19312458.2023.2246014",
         "topics_llm": true
       },
@@ -1774,7 +1774,7 @@
           "Dyadic interaction patterns",
           "Social support discourse"
         ],
-        "abstract": "Women of Color (WoC) in science, technology, engineering, and math (STEM) leave doctoral programs at disproportionately high rates. Supportive mentorship is key to increasing belonging and rates of retention, yet little is known about how conversations between mentees and their mentors on academic and personal stress topics unfold in real-time. Applying the lens of Social Cognitive Career Theory to communication dynamics between mentees and mentors, the present study utilized a dynamic dyadic systems (DDS) perspective to examine observationally coded data from six mentee-mentor dyads. First, hierarchical clustering analysis was applied to identify speaking turn types. Then, sequence analysis was used to identify common multi-turn patterns or conversation motifs (CM). Results showed five predominant CMs: (CM1) support provision through listening; (CM2) focus on mentor's experience; (CM3) support provision through advice; (CM4) mentee's making a bid for support; and (CM5) mentor dominated conversations. This study demonstrates methods for identifying potentially meaningful patterns of support in stress conversations between mentees and mentors. The application of such methods with larger samples may aid in understanding ways to increase retention among WoC in STEM through mentor support provision.",
+        "abstract": "Women of Color (WoC) in science, technology, engineering, and math (STEM) leave doctoral programs at disproportionately high rates. Supportive mentorship is key to increasing belonging and rates of retention, yet little is known about how conversations between mentees and their mentors on academic and personal stress topics unfold in real-time. Applying the lens of Social Cognitive Career Theory to communication dynamics between mentees and mentors, the present study utilized a dynamic dyadic systems (DDS) perspective to examine observationally coded data from six mentee-mentor dyads. First, hierarchical clustering analysis was applied to identify speaking turn types. Then, sequence analysis was used to identify common multi-turn patterns or conversation motifs (CM). Results showed five predominant CMs: (CM1) support provision through listening; (CM2) focus on mentor’s experience; (CM3) support provision through advice; (CM4) mentee’s making a bid for support; and (CM5) mentor dominated conversations. This study demonstrates methods for identifying potentially meaningful patterns of support in stress conversations between mentees and mentors. The application of such methods with larger samples may aid in understanding ways to increase retention among WoC in STEM through mentor support provision.",
         "url": "https://doi.org/10.1080/19312458.2023.2242774",
         "topics_llm": true
       },
@@ -2050,30 +2050,8 @@
           "measurement bias",
           "digital media"
         ],
-        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (insitu) and content scraped using the URLs of participants’ logged visits (exsitu) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
+        "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants’ logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2363776",
-        "title": "Googling Politics? Comparing Five Computational Methods to Identify Political and News-related Searches from Web Browser Histories",
-        "authors": [
-          "Marieke van Hoof",
-          "Damian Trilling",
-          "Corine S. Meppelink",
-          "Judith Möller",
-          "Felicia Löecherbach"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "Web search behavior",
-          "Political communication",
-          "Computational methods",
-          "Digital news consumption"
-        ],
-        "abstract": "Search engines play a crucial role in today’s information environment. Yet, political and news-related (PNR) search engine use remains understudied, mainly due to the lack of suitable measurement methods to identify PNR searches. Existing research focuses on specific events, topics, or news articles, neglecting the broader scope of PNR search. Furthermore, self-reporting issues have led researchers to use browsing history data, but scalable methods for analyzing such data are limited. This paper addresses these gaps by comparing five computational methods to identify PNR searches in browsing data, including browsing sequences, context-enhanced dictionary, Traditional Supervised Machine Learning (SML), Transformer-based SML, and zero-shot classification. Using Dutch Google searches as a test case, we use Dutch browsing history data obtained via data donations in May 2022 linked to surveys (Nusers = 315; Nrecords = 9,868,209; Nsearches = 697,359), along with 35.5k manually annotated search terms. The findings highlight substantial variation in accuracy, with some methods being more suited for narrower topics. We recommend a two-step approach, applying zero-shot classification followed by human evaluation. This methodology can inform future empirical research on PNR search engine use.",
-        "url": "https://doi.org/10.1080/19312458.2024.2363776",
         "topics_llm": true
       },
       {
