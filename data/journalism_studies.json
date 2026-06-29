@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_studies",
-  "updated_at": "2026-06-22T11:52:33Z",
-  "trending_from": "2024-06-22",
+  "updated_at": "2026-06-29T10:58:02Z",
+  "trending_from": "2024-06-29",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Maxwell McCombs"
         ],
         "year": 2005,
-        "citation_count": 1224,
+        "citation_count": 1225,
         "topics": [
           "Agenda-setting theory",
           "Media influence",
@@ -30,7 +30,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2001,
-        "citation_count": 1143,
+        "citation_count": 1144,
         "topics": [
           "News values",
           "News selection",
@@ -49,7 +49,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2016,
-        "citation_count": 1089,
+        "citation_count": 1092,
         "topics": [
           "News values",
           "Journalism",
@@ -81,6 +81,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2018.1492881",
+        "title": "Truth is What Happens to News",
+        "authors": [
+          "Silvio Waisbord"
+        ],
+        "year": 2018,
+        "citation_count": 611,
+        "topics": [
+          "Fake news",
+          "Journalism",
+          "Truth and credibility",
+          "Public communication"
+        ],
+        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
+        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2010.512502",
         "title": "MAPPING JOURNALISM CULTURES ACROSS NATIONS",
         "authors": [
@@ -105,24 +123,6 @@
         ],
         "abstract": "Abstract This article reports key findings from a comparative survey of the role perceptions, epistemological orientations and ethical views of 1800 journalists from 18 countries. The results show that detachment, non-involvement, providing political information and monitoring the government are considered essential journalistic functions around the globe. Impartiality, the reliability and factualness of information, as well as adherence to universal ethical principles are also valued worldwide, though their perceived importance varies across countries. Various aspects of interventionism, objectivism and the importance of separating facts from opinion, on the other hand, seem to play out differently around the globe. Western journalists are generally less supportive of any active promotion of particular values, ideas and social change, and they adhere more to universal principles in their ethical decisions. Journalists from non-western contexts, on the other hand, tend to be more interventionist in their role perceptions and more flexible in their ethical views. Keywords: comparative researchepistemologiesethical ideologiesinstitutional rolesjournalism culturejournalistssurvey Notes 1. This study was funded by several institutions, including the German Research Foundation, Swiss National Science Foundation, Rothschild-Caesarea School of Communication at Tel Aviv University, and School of Journalism and Communication at the University of Queensland. 2. In every country, there exists a tacit consensus among journalists and media scholars regarding the media that shape the national political agenda. We selected those quality outlets which are commonly believed to have the greatest impact in this regard. For popular print media we selected the outlets with the highest circulation figures, while the selection of radio and TV stations was based on the ratings of their newscasts. 3. This was especially true for local media. Here, we sampled media outlets produced in various parts of the countries: in urban centers and rural areas or, as in the case of Switzerland and Indonesia, in the regions inhabited by the major cultural populations. 4. This was the case in Austria, Egypt and Uganda. Austria had no significant local TV station, so the number of national channels was increased. In the absence of local newspapers and private radio stations in Egypt, we decided to raise the number of national newspapers and state-owned radio channels, respectively. In Uganda, we increased the number of local radio stations to compensate for the lack of local TV stations; hence, the resulting sample also reflected the prominence of radio in the country. 5. Calculated by one-way independent ANOVA. 6. The program was developed by Adi Raveh and David Talby; it is freely available from http://www.cs.huji.ac.il/~davidt/vcoplot/index.html. 7. Spearman's rank order correlation coefficient Rho: Australia: 0.719***, Austria 0.641***, Brazil 0.385***, Bulgaria 0.523***, Chile 0.341***, China 0.478***, Egypt 0.181 (ns), Germany 0.589***, Indonesia 0.305**, Israel 0.377***, Mexico 0.671***, Romania 0.488***, Russia 0.423***, Spain 0.687***, Switzerland 0.589***, Turkey 0.214*, Uganda 0.271**, United States 0.617*** (*p<0.05, **p<0.01, ***p<0.001; ns, not significant). 8. See http://freedomhouse.org/template.cfm?page=16.",
         "url": "https://doi.org/10.1080/1461670x.2010.512502",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2018.1492881",
-        "title": "Truth is What Happens to News",
-        "authors": [
-          "Silvio Waisbord"
-        ],
-        "year": 2018,
-        "citation_count": 609,
-        "topics": [
-          "Fake news",
-          "Journalism",
-          "Truth and credibility",
-          "Public communication"
-        ],
-        "abstract": "Here I propose that the phenomenon of “fake news” is indicative of the contested position of news and the dynamics of belief formation in contemporary societies. It is symptomatic of the collapse of the old news order and the chaos of contemporary public communication. These developments attest to a new chapter in the old struggle over the definition of truth—governments waging propaganda wars, elites, and corporations vie to dominate news coverage, and mainstream journalism’s continuous efforts to claim to provide authoritative reportage of current events. The communication chaos makes it necessary to revisit normative arguments about journalism and democracy as well as their feasibility in radically new conditions. Conventional notions of news and truth that ground standard journalistic practice are harder to achieve and maintain amid the destabilization of the past hierarchical order.",
-        "url": "https://doi.org/10.1080/1461670x.2018.1492881",
         "topics_llm": true
       },
       {
@@ -172,7 +172,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2005,
-        "citation_count": 551,
+        "citation_count": 552,
         "topics": [
           "Democracy models",
           "Journalism standards",
@@ -226,7 +226,7 @@
           "Elfriede Fürsich"
         ],
         "year": 2008,
-        "citation_count": 449,
+        "citation_count": 451,
         "topics": [
           "Textual Analysis",
           "Media Content Analysis",
@@ -244,7 +244,7 @@
           "Anabela Carvalho"
         ],
         "year": 2008,
-        "citation_count": 433,
+        "citation_count": 434,
         "topics": [
           "Critical Discourse Analysis",
           "Journalistic Discourse",
@@ -262,7 +262,7 @@
           "Mark Deuze"
         ],
         "year": 2004,
-        "citation_count": 420,
+        "citation_count": 422,
         "topics": [
           "Multimedia journalism",
           "Newsroom convergence",
@@ -300,7 +300,7 @@
           "Stephen D. Reese"
         ],
         "year": 2001,
-        "citation_count": 364,
+        "citation_count": 365,
         "topics": [
           "Journalism",
           "Globalization",
@@ -336,7 +336,7 @@
           "Claudia Mellado"
         ],
         "year": 2014,
-        "citation_count": 329,
+        "citation_count": 330,
         "topics": [
           "Professional roles",
           "Journalism",
@@ -366,6 +366,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2019.1686410",
+        "title": "Conceptualizing News Avoidance: Towards a Shared Understanding of Different Causes and Potential Solutions",
+        "authors": [
+          "Morten Skovsgaard",
+          "Kim Viborg Andersen"
+        ],
+        "year": 2019,
+        "citation_count": 313,
+        "topics": [
+          "News avoidance",
+          "News consumption",
+          "Democratic engagement",
+          "Journalism"
+        ],
+        "abstract": "News avoidance is considered an increasing problem for the news industry and democracy at large. As news companies lose consumers, democracy loses the informed foundation for an engaged citizenry. Meanwhile, research on news avoidance is hampered by the lack of a common understanding of the phenomenon. In this conceptual study, we first review and discuss extant conceptualizations and operationalisations of news avoidance. Second, we present a model distinguishing two types of news avoidance—intentional and unintentional—depending on the underlying causes leading people to tune out. Third, we argue that different solutions apply to the two types of news avoidance. To engage intentional news avoiders, the news selection and news presentation must to be changed. To engage unintentional news avoiders, the opportunity structures provided in the media system must be more favourable towards inadvertent news exposure.",
+        "url": "https://doi.org/10.1080/1461670x.2019.1686410",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670032000174701",
         "title": "Strange bedfellows? The diffusion of convergence in four news organizations",
         "authors": [
@@ -381,25 +400,6 @@
         ],
         "abstract": "This study examines newsroom convergence—a combination of technologies, products, staffs and geography among the previously distinct provinces of print, television and online media—through the framework of diffusion of innovations theory. Convergence is becoming a global trend as media companies continue to expand their holdings beyond their original core products. Using a combination of qualitative and quantitative data drawn from case studies of four US newsrooms, it is suggested that, despite culture clashes and other issues of compatibility, journalists see clear advantages in the new policy of convergence. Journalists perceive experience in a converged newsroom as a career booster, say they enjoy working with colleagues whose strengths differ from their own, and admit that convergence has led to respect for people in other parts of the news organization. At the same time, the diffusion of convergence within the newsroom may be hindered by cultural and technological differences in approaches to newsgathering and dissemination, as well as by a lack of training to alleviate concerns about the perceived complexities of new media formats.",
         "url": "https://doi.org/10.1080/1461670032000174701",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2019.1686410",
-        "title": "Conceptualizing News Avoidance: Towards a Shared Understanding of Different Causes and Potential Solutions",
-        "authors": [
-          "Morten Skovsgaard",
-          "Kim Viborg Andersen"
-        ],
-        "year": 2019,
-        "citation_count": 302,
-        "topics": [
-          "News avoidance",
-          "News consumption",
-          "Democratic engagement",
-          "Journalism"
-        ],
-        "abstract": "News avoidance is considered an increasing problem for the news industry and democracy at large. As news companies lose consumers, democracy loses the informed foundation for an engaged citizenry. Meanwhile, research on news avoidance is hampered by the lack of a common understanding of the phenomenon. In this conceptual study, we first review and discuss extant conceptualizations and operationalisations of news avoidance. Second, we present a model distinguishing two types of news avoidance—intentional and unintentional—depending on the underlying causes leading people to tune out. Third, we argue that different solutions apply to the two types of news avoidance. To engage intentional news avoiders, the news selection and news presentation must to be changed. To engage unintentional news avoiders, the opportunity structures provided in the media system must be more favourable towards inadvertent news exposure.",
-        "url": "https://doi.org/10.1080/1461670x.2019.1686410",
         "topics_llm": true
       },
       {
@@ -483,7 +483,7 @@
           "Anna Maria Jönsson"
         ],
         "year": 2004,
-        "citation_count": 230,
+        "citation_count": 231,
         "topics": [
           "Tabloid journalism",
           "Public sphere",
@@ -501,7 +501,7 @@
           "Michael Karlsson"
         ],
         "year": 2010,
-        "citation_count": 230,
+        "citation_count": 231,
         "topics": [
           "Journalism",
           "Transparency",
@@ -538,7 +538,7 @@
           "Karoline Andrea Ihlebæk"
         ],
         "year": 2018,
-        "citation_count": 212,
+        "citation_count": 218,
         "topics": [
           "Journalistic authority",
           "Far-right media",
@@ -734,6 +734,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2021.1952475",
+        "title": "Doomscrolling, Monitoring and Avoiding: News Use in COVID-19 Pandemic Lockdown",
+        "authors": [
+          "Brita Ytre-Arne",
+          "Hallvard Moe"
+        ],
+        "year": 2021,
+        "citation_count": 187,
+        "topics": [
+          "News avoidance",
+          "Doomscrolling",
+          "COVID-19 pandemic",
+          "Media consumption"
+        ],
+        "abstract": "This paper analyzes news use during the COVID-19 pandemic, asking how people balance between conflicting needs for information and disconnection in an extraordinary situation. We analyze empirical data from a qualitative questionnaire study of Norwegian media users conducted in March–April 2020, a period of early pandemic lockdown. The acute lockdown context accentuated intensified monitoring of constantly updated news streams, and perceptions of news use as immersive and emotionally draining, as captured in the notion of “doomscrolling”. To cope with feelings of being scared or overwhelmed, even the most connected citizens deliberately and intermittingly avoided news. Discussing these findings in light of the debate on news avoidance in journalism studies, we argue for the relevance of understanding news avoidance as a situational strategy. We conclude that the concept of news avoidance remains relevant to qualitatively understand a human experience of wanting to avoid news in particular contexts. Our analysis further outlines interconnections between different practices of pandemic news use, including a research-based conceptualization of doomscrolling as a phenomenon.",
+        "url": "https://doi.org/10.1080/1461670x.2021.1952475",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2016.1161497",
         "title": "Effects of Civility and Reasoning in User Comments on Perceived Journalistic Quality",
         "authors": [
@@ -751,25 +770,6 @@
         ],
         "abstract": "Journalists are increasingly concerned that offensive and banal user comments on news websites might alienate readers and damage quality perceptions. To explore such presumed effects, we investigated the impact of civility and reasoning (and lack thereof) in user comments on perceptions of journalistic quality. An experiment revealed that unreasoned comments decrease an article’s perceived informational quality, but only in unknown news brands. Incivility in comments had an unconditionally negative effect on the perceived formal quality of an article. Neither civility nor reasoning improved the assessments of journalistic quality, as compared to a comment-free version. On the contrary, we observed a trend showing that the mere presence of comments deteriorates the perceived quality of an article.",
         "url": "https://doi.org/10.1080/1461670x.2016.1161497",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2021.1952475",
-        "title": "Doomscrolling, Monitoring and Avoiding: News Use in COVID-19 Pandemic Lockdown",
-        "authors": [
-          "Brita Ytre-Arne",
-          "Hallvard Moe"
-        ],
-        "year": 2021,
-        "citation_count": 186,
-        "topics": [
-          "News avoidance",
-          "Doomscrolling",
-          "COVID-19 pandemic",
-          "Media consumption"
-        ],
-        "abstract": "This paper analyzes news use during the COVID-19 pandemic, asking how people balance between conflicting needs for information and disconnection in an extraordinary situation. We analyze empirical data from a qualitative questionnaire study of Norwegian media users conducted in March–April 2020, a period of early pandemic lockdown. The acute lockdown context accentuated intensified monitoring of constantly updated news streams, and perceptions of news use as immersive and emotionally draining, as captured in the notion of “doomscrolling”. To cope with feelings of being scared or overwhelmed, even the most connected citizens deliberately and intermittingly avoided news. Discussing these findings in light of the debate on news avoidance in journalism studies, we argue for the relevance of understanding news avoidance as a situational strategy. We conclude that the concept of news avoidance remains relevant to qualitatively understand a human experience of wanting to avoid news in particular contexts. Our analysis further outlines interconnections between different practices of pandemic news use, including a research-based conceptualization of doomscrolling as a phenomenon.",
-        "url": "https://doi.org/10.1080/1461670x.2021.1952475",
         "topics_llm": true
       },
       {
@@ -798,7 +798,7 @@
           "Ruth Palmer"
         ],
         "year": 2018,
-        "citation_count": 179,
+        "citation_count": 180,
         "topics": [
           "Gender gap",
           "News avoidance",
@@ -940,6 +940,45 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1461670x.2026.2692687",
+        "title": "What is Important to Journalism and How it Should be Done: Gaps in Journalistic Roles’ Perceptions and Their Impact on Journalistic Authority in Italy",
+        "authors": [
+          "Giulia Sbaraini Fontes",
+          "Sergio Splendore"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Journalistic roles",
+          "Journalistic authority",
+          "Audience-journalist perceptions",
+          "Media trust"
+        ],
+        "abstract": "Considering the different expectations that pervade journalism practice, this article aims to understand how discrepancies between the audiences’ and journalists’ perceptions of journalistic roles might affect journalistic authority in Italy. More specifically, we stem from data collected through two simultaneous surveys, one with citizens and another with journalists, to grasp (1) if the public and press professionals have different assessments on journalistic roles; and (2) whether these discrepancies affect citizens’ perceptions of journalistic authority. Results demonstrate that, although both groups have similar patterns concerning their general expectations on journalistic activity, they also differ significantly. While journalists value more aspects related to the monitorial role, Italian citizens also seem to expect a more engaged attitude from the press, giving more importance than news professionals to how journalism may support governments and development. We found that these discrepancies affect journalistic authority in a nuanced way: legitimacy is undermined when journalists and the public disagree about the monitorial role, but rises when the same happens concerning a more partisan view of journalism. Although these findings align with characteristics of the Italian media system, we argue that they also have broader implications for research on journalistic authority, reinforcing the need for more audience-centered investigations.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2692687",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2684720",
+        "title": "The (Un)seasonal Beat: Longform, Climate Crisis and the Deep Dive of Oral History",
+        "authors": [
+          "Deb Anderson",
+          "Nicolette Snowden",
+          "Pepi Ronalds"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Climate journalism",
+          "Longform reporting",
+          "Disaster communication",
+          "Oral history"
+        ],
+        "abstract": "This article draws from a study of disaster journalism and a subgenre of reportage that has emerged in response to climate crisis in Australia. Therein, we have detected a pattern of women writers taking a literary and personal approach to reporting social-environmental disasters, across a decade earmarked by climate scientists as critical for action on climate change. Largely eschewing the conventional ideal of dispassionate coverage, their work directs attention to the communicative capacity of longform to evoke, and unpack, conditions of precarity. Through oral historical accounts with women working in and beyond the newsroom, we engage further with their positionality and practice—with their attempts to bridge personal experience with public needs and political action. By way of example, the article homes in on the lived experience of one Guardian journalist who bears witness to, and creates a moral imaginary of, the threatened ecology of the Great Barrier Reef. The article thus argues for the power and application of oral history as a means to apprehend journalists as agents and critics of change, reminding us of the ways journalism practice has its own materiality of life experience.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2684720",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1461670x.2026.2686734",
         "title": "What Predicts Public Interest in Generative AI-Driven Journalism Innovations for Personalization? Evidence from a Multilevel Analysis",
@@ -1085,7 +1124,7 @@
           "Political satire",
           "Media criticism"
         ],
-        "abstract": "",
+        "abstract": "This study advances conceptual development of constructive journalism through a case study of the work of American satirist Jon Stewart. While engaging scholars and practitioners in recent years, constructive journalism is still an elusive term. This article illuminates the phenomenon by assessing The Problem with Jon Stewart in relation to five themes of constructive journalism, as well as analyzing the media and audience reception of the program. Using directed content analysis of selected multimodal program content and surrounding media commentary 2020–2023, the findings indicate three main insights. First, the most pronounced constructive journalism elements in the program were journalistic rigor, complexity, and reflexive media critique, whereas explicit solution-orientation appeared limited. Second, the material demonstrated how humor does not necessarily translate into positivity or optimism but can function as both critique and distance-making. Third, the accompanying podcast format proved particularly conducive to constructive journalism aims by enabling audience engagement and more nuanced, contextual exploration of issues. However, despite constructive elements, the content that achieved the greatest reach and engagement both in mainstream media and on social media was conflict-driven and simplified. These results illustrate structural challenges that might face substantive, complexity-oriented journalism when operating within contemporary attention economies.",
         "url": "https://doi.org/10.1080/1461670x.2026.2684668",
         "topics_llm": true
       },
@@ -1826,7 +1865,7 @@
           "Belinda Middleweek"
         ],
         "year": 2026,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Embodiment",
           "Journalism studies",
@@ -1855,45 +1894,6 @@
         "abstract": "This introduction to the special issue, “Body of Evidence and the Corporeal Turn in Journalism Studies”, argues for a corporeal turn in journalism, highlighting bodies as a constitutive yet under-theorised dimension through which journalistic knowledge and practice are produced, experienced, and understood. While journalists’ bodies are central to reporting through sensory engagement, emotional labour, and physical presence, they have often been treated as incidental, problematic, or merely functional rather than as objects of inquiry in their own right. Against this backdrop, and through a critical engagement with debates about objectivity, embodiment, and situated knowledge, this introduction argues that attending to bodies in journalism offers important epistemological and ontological insights for the field. Bodies in journalism – understood here as multiple, differentiated, and processual – shape how journalistic knowledge is produced, experienced, and valued. Far from being marginal, embodied perspectives highlight core tensions within journalism and are increasingly relevant in technological, institutional, and cultural contexts marked by precarity, visibility, and change.",
         "url": "https://doi.org/10.1080/1461670x.2026.2624728",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2623882",
-        "title": "Conspiracy in the Making: The Role of Journalistic Strategies in the Formation of New Conspiracy Beliefs",
-        "authors": [
-          "Tobias Rohrbach",
-          "Chiara Valli"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Conspiracy theories",
-          "Journalism",
-          "Media framing",
-          "Belief formation"
-        ],
-        "abstract": "Conspiracy theories often gain traction during crises, when verified information is limited, and public concern is high. During these critical moments, legacy media play an essential role, tasked with providing timely updates while also contextualizing the flood of information. Our study examines the early stages of conspiracy formation when conspiratorial claims begin to circulate. Through an online experiment with a representative Swiss-German sample (N = 1,969), we explore how different journalistic strategies in covering emerging conspiracy claims influence the initial development of conspiracy beliefs among the public. The findings reveal that strategic silence and assertive debunking are effective in curbing new conspiracy beliefs within the general population; however, these strategies can be less effective – and sometimes counterproductive – for individuals predisposed to conspiracy thinking or with low media trust. Based on these insights, we provide concrete, evidence-based recommendations for journalists, offering practical guidance on how to address emerging conspiracy theories while minimizing unintended endorsement.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2623882",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2618975",
-        "title": "Connecting Perceived Worthwhileness to News Consumption Patterns and Algorithm Recommendations on Chinese Social Media Bilibili",
-        "authors": [
-          "Chang Sup Park",
-          "Qian Liu",
-          "Qing Wang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "News consumption",
-          "Algorithm recommendations",
-          "Social media",
-          "Perceived value"
-        ],
-        "abstract": "This study examines how young Chinese adults perceive the worthwhileness of news on Bilibili, a short-video social media platform, and how algorithmic recommendation systems influence their news consumption habits. Through in-depth interviews with 33 users aged 20–30, three distinct user typologies emerged: passive, moderate, and active. Each group engages with Bilibili’s news differently, shaped by specific dimensions of perceived worthwhileness—dimensions of “public connection” and “participatory potential” are closely connected to active news consumers, while the dimension of “normative pressure” is closely linked to passive news consumers. Algorithmic personalization both streamlines and constrains news exposure, raising concerns about filter bubbles and epistemic justice. Findings extend Schrøder’s framework to a non-Western context and propose implications for digital literacy, algorithmic transparency, and civic participation.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2618975",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1906,7 +1906,7 @@
           "Morten Skovsgaard"
         ],
         "year": 2024,
-        "citation_count": 26,
+        "citation_count": 28,
         "topics": [
           "Journalism",
           "Artificial Intelligence",
@@ -1926,7 +1926,7 @@
           "Brita Ytre-Arne"
         ],
         "year": 2024,
-        "citation_count": 21,
+        "citation_count": 22,
         "topics": [
           "News avoidance",
           "Media consumption",
@@ -1947,7 +1947,7 @@
           "Elise Strain"
         ],
         "year": 2024,
-        "citation_count": 17,
+        "citation_count": 18,
         "topics": [
           "Gender representation",
           "Political journalism",
@@ -2027,7 +2027,7 @@
           "Fernando López Pan"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Metajournalism",
           "Journalism studies",
@@ -2105,21 +2105,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2025.2495726",
-        "title": "Journalism and Embodied Knowledge: Conceptualizing Affective Epistemology and Epistemic Affordances of Emotions and Affect Across News Beats",
+        "doi": "10.1080/1461670x.2025.2505940",
+        "title": "Bringing Up the Body: Uncovering the Subjectivity of Journalists",
         "authors": [
-          "Johana Kotišová"
+          "Karin Wahl‐Jorgensen"
         ],
         "year": 2025,
         "citation_count": 8,
         "topics": [
-          "Journalism",
-          "Affective epistemology",
-          "Embodied knowledge",
-          "Emotional affect in news"
+          "Journalism studies",
+          "Embodied experience",
+          "Journalist subjectivity",
+          "Professional practice"
         ],
-        "abstract": "This conceptual paper aims to theorize the role of journalists’ bodies in knowledge-making practices by focusing on affects and emotions as a mediatrix of biological, social, and political bodies. It does so by developing the concepts of journalists’ “affective epistemology” and “epistemic affordances” of emotions and affect that, altogether, aim to provide journalism researchers with a conceptual toolkit for studying the role of emotions and affect in journalistic epistemology. The notion of affective epistemology is based on (1) relevant empirical research on journalism, emotions, and affect, (2) Feminist Standpoint Epistemology, and (3) selected philosophical, sociological, and anthropological theories of emotions and embodied knowledge. The paper also identifies five epistemic affordances of emotions and affect in journalism, i.e., ways how they can be illuminating as well as blinding in journalists’ knowledge-building and fact-finding practices: motivational, methodological-analytical, ontological-narrative, collaborative-innovative, and phatic-interactional. Examples illustrating these affordances come from existing research on various journalism beats, from lifestyle and cultural journalism to conflict reporting. In conclusion, I ask how journalists can integrate emotions in knowledge-building practices in a way that makes emotions rather illuminating than blinding. I suggest that a productive use of emotions/affects requires maximum reflexivity, virtue responsibility, and emotional literacy.",
-        "url": "https://doi.org/10.1080/1461670x.2025.2495726",
+        "abstract": "In this paper, I discuss major contributions to journalism studies that come from approaching journalistic practice from the vantage point of the body – that is, understanding how journalists go about their work in ways shaped by their embodied experience. I will develop the argument that a consideration of the journalistic body requires a challenge to the fundamental underpinnings of professional practice, which are premised on the invisibility of the body. Foregrounding the body in relation to journalism practice calls for greater reflexivity in relation to the subjectivity of journalists. The paper discusses three overlapping insights resulting from such an approach: First, it requires attention to individual journalists’ bodies and lived experience in relation to their pasts – or what journalists “carry.” Second, it calls for attention to how they feel in the present – and how these affective responses shape their practice. Finally, it requires charting how journalists’ bodies interact with other bodies, and the institutions surrounding them, as they go about their work.",
+        "url": "https://doi.org/10.1080/1461670x.2025.2505940",
         "topics_llm": true
       },
       {
@@ -2141,6 +2141,24 @@
         ],
         "abstract": "The increasing prominence of alternative news media has been identified as a particular challenge to contemporary established journalism, next to collapsing financial models, platform dependency, falling levels of trust and increased competition. Against this background, this study examines how news editors from 23 established news organizations in Sweden, Norway, and Denmark view the rise and role of alternative news media and thereby the boundaries of the journalistic field. Combining strategic action field theory, boundary work and the concept of metajournalistic discourse, it identifies three metajournalistic discourses—We are the (real) journalists, We are in control (for now), and We are under pressure. Together, these metajournalistic discourses portray alternative news media as a challenge that largely has been overcome, and as currently insignificant actors that clearly do not represent “real journalism”. At the same time, the discourses also display concerns that alternative news media might represent potential future field ruptures via their association with broader potentially detrimental media developments, such as genre-confused media audiences or harassment of journalists.",
         "url": "https://doi.org/10.1080/1461670x.2024.2385925",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2025.2495726",
+        "title": "Journalism and Embodied Knowledge: Conceptualizing Affective Epistemology and Epistemic Affordances of Emotions and Affect Across News Beats",
+        "authors": [
+          "Johana Kotišová"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Journalism",
+          "Affective epistemology",
+          "Embodied knowledge",
+          "Emotional affect in news"
+        ],
+        "abstract": "This conceptual paper aims to theorize the role of journalists’ bodies in knowledge-making practices by focusing on affects and emotions as a mediatrix of biological, social, and political bodies. It does so by developing the concepts of journalists’ “affective epistemology” and “epistemic affordances” of emotions and affect that, altogether, aim to provide journalism researchers with a conceptual toolkit for studying the role of emotions and affect in journalistic epistemology. The notion of affective epistemology is based on (1) relevant empirical research on journalism, emotions, and affect, (2) Feminist Standpoint Epistemology, and (3) selected philosophical, sociological, and anthropological theories of emotions and embodied knowledge. The paper also identifies five epistemic affordances of emotions and affect in journalism, i.e., ways how they can be illuminating as well as blinding in journalists’ knowledge-building and fact-finding practices: motivational, methodological-analytical, ontological-narrative, collaborative-innovative, and phatic-interactional. Examples illustrating these affordances come from existing research on various journalism beats, from lifestyle and cultural journalism to conflict reporting. In conclusion, I ask how journalists can integrate emotions in knowledge-building practices in a way that makes emotions rather illuminating than blinding. I suggest that a productive use of emotions/affects requires maximum reflexivity, virtue responsibility, and emotional literacy.",
+        "url": "https://doi.org/10.1080/1461670x.2025.2495726",
         "topics_llm": true
       },
       {
@@ -2264,24 +2282,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2025.2505940",
-        "title": "Bringing Up the Body: Uncovering the Subjectivity of Journalists",
-        "authors": [
-          "Karin Wahl‐Jorgensen"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Journalism studies",
-          "Embodied experience",
-          "Journalist subjectivity",
-          "Professional practice"
-        ],
-        "abstract": "In this paper, I discuss major contributions to journalism studies that come from approaching journalistic practice from the vantage point of the body – that is, understanding how journalists go about their work in ways shaped by their embodied experience. I will develop the argument that a consideration of the journalistic body requires a challenge to the fundamental underpinnings of professional practice, which are premised on the invisibility of the body. Foregrounding the body in relation to journalism practice calls for greater reflexivity in relation to the subjectivity of journalists. The paper discusses three overlapping insights resulting from such an approach: First, it requires attention to individual journalists’ bodies and lived experience in relation to their pasts – or what journalists “carry.” Second, it calls for attention to how they feel in the present – and how these affective responses shape their practice. Finally, it requires charting how journalists’ bodies interact with other bodies, and the institutions surrounding them, as they go about their work.",
-        "url": "https://doi.org/10.1080/1461670x.2025.2505940",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2024.2364628",
         "title": "User Perceptions of News Recommender Systems and Trust in Media Outlets: A Five-Country Study",
         "authors": [
@@ -2324,6 +2324,25 @@
         ],
         "abstract": "This study examines the publication strategies of legacy news outlets on Twitter following the company’s acquisition by Elon Musk. We used SCImago Media Rankings to identify the news organizations with the highest online audiences, namely The Guardian, The New York Times, USA Today, The Independent, and The Washington Post. Data was acquired through the Twitter Academic API v2 and the SEMrush platform at the beginning of 2023 and covers all of 2022. The database includes website audits that monitor the web traffic of a domain, with the aggregate data subsequently processed using R packages and Atlas.ti. Our analyses show that a higher presence on Twitter leads to a substantive increase in social traffic, as seen with The Independent. This is in sharp contrast to the other news outlets. These differences remain irrespective of their topical news coverage, broadly focused on the Russo-Ukrainian war, or compositional feature in their messages, which largely lack typical Twitter features like hashtags and @-mentions. We conclude our analysis by discussing the communication strategies of news organizations on Twitter following the company’s acquisition by Elon Musk in 2022.",
         "url": "https://doi.org/10.1080/1461670x.2024.2372437",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2024.2416062",
+        "title": "“journalists are just employees”: Examining Journalistic Autonomy from an Audience Perspective",
+        "authors": [
+          "Constanza Gajardo",
+          "Claudia Mellado"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Journalistic autonomy",
+          "Audience perception",
+          "Journalism professionalism",
+          "Editorial control"
+        ],
+        "abstract": "Autonomy is a fundamental requirement for the professional practice of journalism. However, while its role in ensuring well-informed audiences is widely acknowledged, the way in which audiences make sense of journalists’ autonomy remains unexplored. Similarly, the understanding of how audience perceptions of journalists’ autonomy, their attributed professionalism and authority, and the resulting impact on journalism practice remains incomplete. To address these gaps, this study conducts a qualitative analysis involving semi-structured interviews with 64 news users in Chile. Results show that journalists’ autonomy, from audiences’ view, is limited by labor forces and organizational influences. Journalists’ working conditions are perceived to be connected to high levels of editorial control, yielding a deficiency of autonomy that relegates journalists to a subservient role, compromising their professionalism, undermining their authority, and eroding the quality of the information they provide. Also, findings show that autonomy assumes a prominent role as a distinct form of authority when journalists diverge from conventional news norms, establishing a closer connection with their audience. Furthermore, independent journalists frequently garner recognition for their autonomy and credibility, attributed to their detachment from specific media outlets. The article delves into the implications of these findings for journalism studies and practice.",
+        "url": "https://doi.org/10.1080/1461670x.2024.2416062",
         "topics_llm": true
       },
       {
@@ -2475,25 +2494,6 @@
         ],
         "abstract": "Scholarly understanding of what “journalism” is has long been shaped by discourse on what “hard news” or political journalism entails. Less academic attention has been paid to perceived alternative forms of journalism, such as lifestyle journalism. This study aims to investigate how lifestyle journalists construct their professional identity in the context of a grand narrative of journalism that has been dominantly shaped by ideals related to politics, democracy, and the public sphere. Through 31 interviews with Singaporean lifestyle journalists, this study found that lifestyle journalists subscribe to both in-group and out-group discourses, where they simultaneously place themselves within but also outside the boundaries of journalism. However, the lifestyle journalists also articulate an alternative emerging discourse of a standalone-group, where lifestyle journalism should be seen as a profession completely divorced from normative understandings of journalism. This reflects lifestyle journalism’s longstanding—yet perhaps untenable—liminal positioning on the periphery of journalism’s boundaries and provides further support for understanding journalism as a discursively constructed profession that is constantly in flux.",
         "url": "https://doi.org/10.1080/1461670x.2024.2401380",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2416062",
-        "title": "“journalists are just employees”: Examining Journalistic Autonomy from an Audience Perspective",
-        "authors": [
-          "Constanza Gajardo",
-          "Claudia Mellado"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Journalistic autonomy",
-          "Audience perception",
-          "Journalism professionalism",
-          "Editorial control"
-        ],
-        "abstract": "Autonomy is a fundamental requirement for the professional practice of journalism. However, while its role in ensuring well-informed audiences is widely acknowledged, the way in which audiences make sense of journalists’ autonomy remains unexplored. Similarly, the understanding of how audience perceptions of journalists’ autonomy, their attributed professionalism and authority, and the resulting impact on journalism practice remains incomplete. To address these gaps, this study conducts a qualitative analysis involving semi-structured interviews with 64 news users in Chile. Results show that journalists’ autonomy, from audiences’ view, is limited by labor forces and organizational influences. Journalists’ working conditions are perceived to be connected to high levels of editorial control, yielding a deficiency of autonomy that relegates journalists to a subservient role, compromising their professionalism, undermining their authority, and eroding the quality of the information they provide. Also, findings show that autonomy assumes a prominent role as a distinct form of authority when journalists diverge from conventional news norms, establishing a closer connection with their audience. Furthermore, independent journalists frequently garner recognition for their autonomy and credibility, attributed to their detachment from specific media outlets. The article delves into the implications of these findings for journalism studies and practice.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2416062",
         "topics_llm": true
       }
     ]

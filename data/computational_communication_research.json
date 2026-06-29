@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-06-22T11:52:08Z",
-  "trending_from": "2024-06-22",
+  "updated_at": "2026-06-29T10:57:42Z",
+  "trending_from": "2024-06-29",
   "sections": {
     "most_cited": [
       {
@@ -118,7 +118,7 @@
           "Theo Araujo"
         ],
         "year": 2020,
-        "citation_count": 40,
+        "citation_count": 41,
         "topics": [
           "Conversational agents",
           "Chatbots",
@@ -416,6 +416,28 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.1.001.vott",
+        "title": "Going Micro to Go Negative?",
+        "authors": [
+          "Fabio Votta",
+          "Arman Noroozian",
+          "Tom Dobber",
+          "Natali Helberger",
+          "Claes H. de Vreese"
+        ],
+        "year": 2023,
+        "citation_count": 18,
+        "topics": [
+          "Negative advertising",
+          "Microtargeting",
+          "Political campaigns",
+          "Incivility"
+        ],
+        "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
+        "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2021.3.001.lind",
         "title": "Greasing the wheels for comparative communication research: Supervised text classification for multilingual corpora",
         "authors": [
@@ -434,28 +456,6 @@
         ],
         "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
         "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.001.vott",
-        "title": "Going Micro to Go Negative?",
-        "authors": [
-          "Fabio Votta",
-          "Arman Noroozian",
-          "Tom Dobber",
-          "Natali Helberger",
-          "Claes H. de Vreese"
-        ],
-        "year": 2023,
-        "citation_count": 17,
-        "topics": [
-          "Negative advertising",
-          "Microtargeting",
-          "Political campaigns",
-          "Incivility"
-        ],
-        "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
-        "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
         "topics_llm": true
       },
       {
@@ -1929,7 +1929,7 @@
           "Johannes B. Gruber"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Computational reproducibility",
           "Open Science",

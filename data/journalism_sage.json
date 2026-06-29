@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_sage",
-  "updated_at": "2026-06-22T11:52:26Z",
-  "trending_from": "2024-06-22",
+  "updated_at": "2026-06-29T10:57:58Z",
+  "trending_from": "2024-06-29",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Mark Deuze"
         ],
         "year": 2005,
-        "citation_count": 1717,
+        "citation_count": 1719,
         "topics": [
           "Professional identity",
           "Journalism ideology",
@@ -29,7 +29,7 @@
           "Michael Schudson"
         ],
         "year": 2001,
-        "citation_count": 1107,
+        "citation_count": 1110,
         "topics": [
           "Journalistic objectivity",
           "Professional norms",
@@ -48,7 +48,7 @@
           "Tamara Witschge"
         ],
         "year": 2017,
-        "citation_count": 569,
+        "citation_count": 571,
         "topics": [
           "Journalism studies",
           "Professional transformation",
@@ -103,7 +103,7 @@
           "Tim P. Vos"
         ],
         "year": 2016,
-        "citation_count": 468,
+        "citation_count": 469,
         "topics": [
           "Journalistic roles",
           "Non-democratic contexts",
@@ -121,7 +121,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2019,
-        "citation_count": 390,
+        "citation_count": 392,
         "topics": [
           "Social media",
           "Public opinion",
@@ -140,7 +140,7 @@
           "Pablo J. Boczkowski"
         ],
         "year": 2009,
-        "citation_count": 379,
+        "citation_count": 380,
         "topics": [
           "Online news media",
           "Journalism practices",
@@ -176,7 +176,7 @@
           "Robert M. Entman"
         ],
         "year": 2010,
-        "citation_count": 346,
+        "citation_count": 348,
         "topics": [
           "Media framing",
           "Political bias",
@@ -199,7 +199,7 @@
           "Franziska Tröger"
         ],
         "year": 2018,
-        "citation_count": 339,
+        "citation_count": 340,
         "topics": [
           "Online harassment",
           "Female journalists",
@@ -219,7 +219,7 @@
           "Rich Ling"
         ],
         "year": 2019,
-        "citation_count": 325,
+        "citation_count": 326,
         "topics": [
           "Disinformation diffusion",
           "Fake news",
@@ -255,7 +255,7 @@
           "Jane B. Singer"
         ],
         "year": 2003,
-        "citation_count": 294,
+        "citation_count": 295,
         "topics": [
           "Professional identity",
           "Online journalism",
@@ -294,7 +294,7 @@
           "Hans‐Bernd Brosius"
         ],
         "year": 2016,
-        "citation_count": 290,
+        "citation_count": 291,
         "topics": [
           "Automated journalism",
           "Source credibility",
@@ -324,6 +324,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/1464884918757072",
+        "title": "Algorithms in the newsroom? News readers’ perceived credibility and selection of automated journalism",
+        "authors": [
+          "Anja Wölker",
+          "Thomas Powell"
+        ],
+        "year": 2018,
+        "citation_count": 264,
+        "topics": [
+          "Automated journalism",
+          "News credibility",
+          "Audience perception",
+          "Algorithm transparency"
+        ],
+        "abstract": "Automated journalism, the autonomous production of journalistic content through computer algorithms, is increasingly prominent in newsrooms. This enables the production of numerous articles, both rapidly and cheaply. Yet, how news readers perceive journalistic automation is pivotal to the industry, as, like any product, it is dependent on audience approval. As audiences cannot verify all events themselves, they need to trust journalists’ accounts, which make credibility a vital quality ascription to journalism. In turn, credibility judgments might influence audiences’ selection of automated content for their media diet. Research in this area is scarce, with existing studies focusing on national samples and with no previous research on ‘combined’ journalism – a relatively novel development where automated content is supplemented by human journalists. We use an experiment to investigate how European news readers ( N = 300) perceive different forms of automated journalism in regard to message and source credibility, and how this affects their selection behavior. Findings show that, in large part, credibility perceptions of human, automated, and combined content and source(s) may be assumed equal. Only for sports articles was automated content perceived significantly more credible than human messages. Furthermore, credibility does not mediate the likelihood of news readers to either select or avoid articles for news consumption. Findings are, among other things, explained by topic-specific factors and suggest that effects of algorithms on journalistic quality are largely indiscernible to European news readers.",
+        "url": "https://doi.org/10.1177/1464884918757072",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884913486393",
         "title": "Journalism innovation leads to innovation journalism: The impact of computational exploration on changing mindsets",
         "authors": [
@@ -339,25 +358,6 @@
         ],
         "abstract": "This article investigates a rapidly expanding branch of journalism innovation in online news media. The umbrella term computational exploration in journalism (CEJ), embraces the multifaceted development of algorithms, data, and social science methods in reporting and storytelling. CEJ typically involves the journalistic co-creation of quantitative news projects that transcend geographical, disciplinary, and linguistic boundaries. Drawing on extensive empirical data, this article provides a conceptual overview of the field by identifying three main pathways of computational exploration in journalism: the newsroom approach, the academic approach, and the entrepreneurial approach. Implications for changing journalistic practice are discussed, and the theorizing is summed up in a triplex proposition about changing mindset processes coming out of CEJ. The study indicates that the computational exploration not only leads to innovative uses of the technology, but also to innovative ways for journalists to think and behave; journalism innovation leads to innovation journalism.",
         "url": "https://doi.org/10.1177/1464884913486393",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/1464884918757072",
-        "title": "Algorithms in the newsroom? News readers’ perceived credibility and selection of automated journalism",
-        "authors": [
-          "Anja Wölker",
-          "Thomas Powell"
-        ],
-        "year": 2018,
-        "citation_count": 263,
-        "topics": [
-          "Automated journalism",
-          "News credibility",
-          "Audience perception",
-          "Algorithm transparency"
-        ],
-        "abstract": "Automated journalism, the autonomous production of journalistic content through computer algorithms, is increasingly prominent in newsrooms. This enables the production of numerous articles, both rapidly and cheaply. Yet, how news readers perceive journalistic automation is pivotal to the industry, as, like any product, it is dependent on audience approval. As audiences cannot verify all events themselves, they need to trust journalists’ accounts, which make credibility a vital quality ascription to journalism. In turn, credibility judgments might influence audiences’ selection of automated content for their media diet. Research in this area is scarce, with existing studies focusing on national samples and with no previous research on ‘combined’ journalism – a relatively novel development where automated content is supplemented by human journalists. We use an experiment to investigate how European news readers ( N = 300) perceive different forms of automated journalism in regard to message and source credibility, and how this affects their selection behavior. Findings show that, in large part, credibility perceptions of human, automated, and combined content and source(s) may be assumed equal. Only for sports articles was automated content perceived significantly more credible than human messages. Furthermore, credibility does not mediate the likelihood of news readers to either select or avoid articles for news consumption. Findings are, among other things, explained by topic-specific factors and suggest that effects of algorithms on journalistic quality are largely indiscernible to European news readers.",
-        "url": "https://doi.org/10.1177/1464884918757072",
         "topics_llm": true
       },
       {
@@ -475,6 +475,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/1464884909350644",
+        "title": "Technology and journalism-as-labour: Historical perspectives",
+        "authors": [
+          "Henrik Örnebring"
+        ],
+        "year": 2010,
+        "citation_count": 223,
+        "topics": [
+          "Journalism",
+          "Technology and labour",
+          "Technological determinism",
+          "Media work practices"
+        ],
+        "abstract": "Technological determinism is common among journalists when reflecting on changes in their profession; several studies show that journalists ascribe great power and independent agency to technology. There are at least two reasons for the persistence of technological determinism as an explanatory factor among journalists vis-a-vis their own work: first, technology is a highly integrated and therefore very tangible part of the everyday working life of journalists; and second, the technological paradigm for explaining change in journalism has deep historical roots. It is argued that analysing journalism as labour presents a way to address both the integration of technology in the everyday working practices of journalists, and the history of the inter-relations between journalism and technology. It is further argued that journalism studies as a field has not paid much attention to journalism as labour. This article is concerned with the second part of this programme for research, i.e. the historical analysis of journalism as labour. The framework of analysis is based on labour process theory, focusing on four themes in the history of journalism: (1) the importance of the separation of conception and execution of labour; (2) the increased differentiation of the labour process; (3) the use of technology to increase productivity; and (4) the deskilling of labour.",
+        "url": "https://doi.org/10.1177/1464884909350644",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884910388223",
         "title": "The immediacy of online news, the visibility of journalistic processes and a restructuring of journalistic authority",
         "authors": [
@@ -493,21 +511,20 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/1464884909350644",
-        "title": "Technology and journalism-as-labour: Historical perspectives",
+        "doi": "10.1177/1464884910388224",
+        "title": "Emotion aside or emotional side? Crafting an ‘experience of involvement’ in the news",
         "authors": [
-          "Henrik Örnebring"
+          "Chris Peters"
         ],
-        "year": 2010,
-        "citation_count": 222,
+        "year": 2011,
+        "citation_count": 217,
         "topics": [
-          "Journalism",
-          "Technology and labour",
-          "Technological determinism",
-          "Media work practices"
+          "Emotion in journalism",
+          "News production",
+          "Audience engagement"
         ],
-        "abstract": "Technological determinism is common among journalists when reflecting on changes in their profession; several studies show that journalists ascribe great power and independent agency to technology. There are at least two reasons for the persistence of technological determinism as an explanatory factor among journalists vis-a-vis their own work: first, technology is a highly integrated and therefore very tangible part of the everyday working life of journalists; and second, the technological paradigm for explaining change in journalism has deep historical roots. It is argued that analysing journalism as labour presents a way to address both the integration of technology in the everyday working practices of journalists, and the history of the inter-relations between journalism and technology. It is further argued that journalism studies as a field has not paid much attention to journalism as labour. This article is concerned with the second part of this programme for research, i.e. the historical analysis of journalism as labour. The framework of analysis is based on labour process theory, focusing on four themes in the history of journalism: (1) the importance of the separation of conception and execution of labour; (2) the increased differentiation of the labour process; (3) the use of technology to increase productivity; and (4) the deskilling of labour.",
-        "url": "https://doi.org/10.1177/1464884909350644",
+        "abstract": "In relation to journalism, the concept of ‘emotion’ is consistently undertheorized. Employed with commonsensical discernment, it is conflated with tabloid practices, sensationalism, bias, commercialization, and the like. Consequently, when discussed, emotion is often treated dismissively; a marker of unprincipled and flawed journalism. Yet hard, self-styled objective, ‘just the facts’ journalism is not unemotional, just as soft, so-called tabloid news is not irrational. For authors who study the sociology of emotions note, emotion has a social component and can more broadly be conceptualized as the experience of involvement. This article utilizes this understanding to interrogate traditional news dichotomies before applying this perspective to consider non-valorized news alternatives. One significant change over the past few decades is not that the news has become emotional (indeed, it has always been); rather, the diversity of emotional styles, the acceptability of journalistic involvement, and attempts to involve the audience have become more explicit.",
+        "url": "https://doi.org/10.1177/1464884910388224",
         "topics_llm": true
       },
       {
@@ -528,23 +545,6 @@
         ],
         "abstract": "Claims by political and news elites about the influence of visual images are far more common than actual evidence of such effects. This research attempts to gain insight into the ‘power’ of visual images, specifically those that accompany lexical–verbal messages in the press. We argue that the widely held notion that vivid images often drive public opinion is overly simplistic; in contrast, we posit that images most often interact with individuals' existing understandings of the world to shape information processing and judgments. With this in mind, we conducted an experiment in which news coverage was systematically altered – as including a famous photograph widely attributed great influence, or not – within otherwise constant information environments. Findings suggest that visual news images (a) influence people's information processing in ways that can be understood only by taking into account individuals' predispositions and values, and (b) at the same time appear to have a particular ability to ‘trigger’ considerations that spread through one's mental framework to other evaluations.",
         "url": "https://doi.org/10.1177/146488490200300211",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/1464884910388224",
-        "title": "Emotion aside or emotional side? Crafting an ‘experience of involvement’ in the news",
-        "authors": [
-          "Chris Peters"
-        ],
-        "year": 2011,
-        "citation_count": 216,
-        "topics": [
-          "Emotion in journalism",
-          "News production",
-          "Audience engagement"
-        ],
-        "abstract": "In relation to journalism, the concept of ‘emotion’ is consistently undertheorized. Employed with commonsensical discernment, it is conflated with tabloid practices, sensationalism, bias, commercialization, and the like. Consequently, when discussed, emotion is often treated dismissively; a marker of unprincipled and flawed journalism. Yet hard, self-styled objective, ‘just the facts’ journalism is not unemotional, just as soft, so-called tabloid news is not irrational. For authors who study the sociology of emotions note, emotion has a social component and can more broadly be conceptualized as the experience of involvement. This article utilizes this understanding to interrogate traditional news dichotomies before applying this perspective to consider non-valorized news alternatives. One significant change over the past few decades is not that the news has become emotional (indeed, it has always been); rather, the diversity of emotional styles, the acceptability of journalistic involvement, and attempts to involve the audience have become more explicit.",
-        "url": "https://doi.org/10.1177/1464884910388224",
         "topics_llm": true
       },
       {
@@ -613,7 +613,7 @@
           "Hillel Nossek"
         ],
         "year": 2004,
-        "citation_count": 210,
+        "citation_count": 211,
         "topics": [
           "Journalistic professionalism",
           "National identity",
@@ -631,7 +631,7 @@
           "Michael J. Griffin"
         ],
         "year": 2004,
-        "citation_count": 209,
+        "citation_count": 210,
         "topics": [
           "War on Terrorism",
           "Visual framing",
@@ -649,7 +649,7 @@
           "Mats Ekström"
         ],
         "year": 2002,
-        "citation_count": 208,
+        "citation_count": 209,
         "topics": [
           "Television journalism",
           "Epistemology",
@@ -741,7 +741,7 @@
           "Logan Molyneux"
         ],
         "year": 2018,
-        "citation_count": 193,
+        "citation_count": 194,
         "topics": [
           "Twitter",
           "News judgment",
@@ -759,7 +759,7 @@
           "Erik Albæk"
         ],
         "year": 2011,
-        "citation_count": 193,
+        "citation_count": 194,
         "topics": [
           "Expert sources",
           "Journalist-expert interaction",
@@ -815,7 +815,7 @@
           "Michael Schudson"
         ],
         "year": 2013,
-        "citation_count": 184,
+        "citation_count": 185,
         "topics": [
           "Contextual journalism",
           "News content analysis",
@@ -939,6 +939,84 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1177/14648849261466370",
+        "title": "Threats and harassment of Swedish journalists, 10 years on: Coping processes and coping strategies",
+        "authors": [
+          "Monica Löfgren Nilsson",
+          "Henrik Örnebring"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Journalist safety",
+          "Threats and harassment",
+          "Coping strategies",
+          "Occupational stress"
+        ],
+        "abstract": "Based on an in-depth interview study of a strategic sample of Swedish journalists ( n = 20), this article analyzes the coping processes and coping strategies of these journalists when faced with threats and harassment. The paper also presents data on new forms of harassment against a backdrop of developments over the past decade. The analysis uses Lazarus and Folkman’s (1984) theory of stress and coping in combination with Latack, Kinicki &amp; Prussia’s (1995) integrative process model for coping. The coping process is analyzed as beginning with an appraisal phase, then a set of intervening factors (coping goals, coping resources and coping efficacy) before applying one or more coping strategies (which we have divided into problem-focused, emotion-focused, meaning-focused, and future-focused strategies), followed by the creation of (positive and negative) feedback loops. We find a common pattern of engaging in emotion-focused and meaning-focused coping in the first instance, shifting to problem-focused and future-focused coping when the earlier attempts do not work. We further find that the investigative journalists in our sample are more used to harassment and therefore utilize available coping resources better and use a wider range of coping strategies than other interviewees. Implications of our findings are discussed in the concluding section.",
+        "url": "https://doi.org/10.1177/14648849261466370",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261463890",
+        "title": "Book Review: wellbeing and creative careers: What makes you happy can also make you sick Mark Deuze (2025). Wellbeing and Creative Careers: What Makes You Happy Can Also Make You Sick Chicago: Intellect Press. 319pp ISBN 978-1-83595-192-7.",
+        "authors": [
+          "Glenda Cooper"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Creative careers",
+          "Wellbeing",
+          "Occupational health",
+          "Work-life balance"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1177/14648849261463890",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261465186",
+        "title": "Wearing many hats: How rural U.S. newspaper journalists negotiate professional identity amid digital and economic disruption",
+        "authors": [
+          "Sayyed Fawad Ali Shah",
+          "Teddi A. Joyce",
+          "Breann Murphy",
+          "Ben Cunningham",
+          "Gregory P. Perreault"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Professional identity",
+          "Local journalism",
+          "Digital disruption",
+          "Rural media"
+        ],
+        "abstract": "Our study seeks to interrogate how local journalists conceptualize professionalism and negotiate their professional role-identities amid economic and technological disruption. Based on 17 in-depth interviews, we found that journalists idealized journalistic values such as objectivity, accuracy, and community service. However, job insecurity, lack of resources, increased workload, inability of their organizations to keep up with the changing nature of journalism in the emerging digital media landscape, and juggling different responsibilities in their organizations, shaped their professional experiences and routines. Our participants also noted that the traditional separation between editorial and marketing departments in their organizations had evaporated or shrunk, although most viewed collaboration between these departments as necessary for organizational survival rather than a threat to journalistic autonomy. The findings highlight how organizational culture and economic instability are reshaping professional identities and journalistic practices in rural news environments. Based on the findings of our study, we suggest ways in which news organizations, journalism schools, and local press associations could help local newspapers.",
+        "url": "https://doi.org/10.1177/14648849261465186",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261460937",
+        "title": "Advertiser bias in business news: A framing perspective",
+        "authors": [
+          "Annika Kristin Zepke",
+          "Irene Pollach"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Advertiser bias",
+          "News framing",
+          "Business journalism",
+          "Media economics"
+        ],
+        "abstract": "Despite the prevalent view that advertising in news outlets potentially impacts news content about advertisers, empirical evidence of this effect is theoretically and empirically ambiguous. We therefore investigate the relationship between advertising revenues of newspapers and the favorability of the news coverage of their advertisers. To measure advertiser bias, we extend pre-existing generic news frames to the genre of business news, supplement them with valenced sub-frames, and use them to code the favorability of business news articles from the UK. We combine this coding data with data on corporate newspaper advertising to study the relationship between the favorability of news frames and the importance of an advertiser to a newspaper. We find that one tabloid is more likely to use favorable frames for more important advertisers, while no significant relationship was found across UK daily newspapers. These findings relativize previous assumptions about advertiser bias and caution against making unfounded assumptions about newspaper-advertiser relationships that could erode trust in mainstream media even further.",
+        "url": "https://doi.org/10.1177/14648849261460937",
+        "topics_llm": true
+      },
       {
         "doi": "10.1177/14648849261461918",
         "title": "Conceptualizing the development of professional journalism: A scoping review",
@@ -1837,81 +1915,6 @@
         "abstract": "Amidst the contraction of for-profit newspapers across the United States, nonprofit journalism has emerged as a widely endorsed alternative for sustaining local news. Drawing on 11 semi-structured interviews with nonprofit news leaders in Pennsylvania, we examined how people working in the nonprofit news sector envision its role in addressing the journalism crisis and rebuilding local journalism. Based on a thematic analysis of these interviews, we identified two distinct visions animating nonprofit news in Pennsylvania: the restorationist vision of nonprofit journalism, a more conservative approach centered on filling market gaps and restoring newsrooms to their pre-crisis form and function, and the transformational vision of nonprofit journalism , which is oriented toward building a structural alternative to for-profit news media. Additionally, we calculated the cost of implementing each of these visions in Pennsylvania. Based on these estimates, we found that it is unlikely that either the restorationist or transformational vision can be achieved through existing revenue sources. We conclude that if nonprofit journalism is to move beyond a small-scale corrective, public funding will be essential to sustaining nonprofit local news at scale.",
         "url": "https://doi.org/10.1177/14648849261443071",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261443078",
-        "title": "Journalism under the sun: How daylight shapes emotional expression in news",
-        "authors": [
-          "Changchun Xuan",
-          "Jiaxin Li"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Journalism",
-          "Emotional expression",
-          "Environmental factors",
-          "Daylight effects"
-        ],
-        "abstract": "This study investigates how daylight duration, as an embodied environmental factor, shapes emotional expression in news. Drawing on the affective epistemology of journalism, three sequential studies using large-scale, multi-source data identify heterogeneous daylight effects while excluding confounders. In regions with high annual daylight variance, longer daylight suppresses emotional expression; in low-variance regions, it amplifies. We explain this divergence through collective expectations: in high-variance regions, journalists’ perceptions align with stable seasonal rhythms, fostering emotional stability, whereas in low-variance regions, daylight deviations trigger arousal and emotional instability. Building on these findings, we propose that physical environmental factors should be conceptualized as one of the enabling conditions that interact with institutional and social structures in news production. By integrating environmental physiology with news production, the study extends theoretical and methodological boundaries of journalism research.",
-        "url": "https://doi.org/10.1177/14648849261443078",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261442249",
-        "title": "Verification practices in public service media as a bulwark against misinformation: Evidence from the BBC and ARD",
-        "authors": [
-          "Regina Cazzamatta"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Fact-checking",
-          "Public service media",
-          "Misinformation",
-          "Verification practices"
-        ],
-        "abstract": "This paper examines the verification practices and strategies of external fact-checking units within two leading European public service media (PSM) organizations: BBC Reality Check (UK) and ARD’s Faktenfinder (Germany). We analyze their practices through a content analysis of all 2022 verification articles ( n = 198) and qualitative interviews with fact-checkers ( n = 4). As major public broadcasters, both institutions are widely regarded for providing universal, high-quality information. Building on calls to expand the role of PSM in addressing informational disorder, we contribute to fact-checking research by focusing on verification within PSM—an underexplored area. Because truth assessment can challenge conventional notions of impartiality, fact-checking in PSM provides a particularly revealing case. We examine how these units navigate information disorder while upholding core values, especially due impartiality. Whereas the BBC centralizes verification within a single department, ARD adopts a decentralized model reflecting Germany’s federal broadcasting structure. In both cases, strict impartiality standards and persistent attacks by right-wing actors foster cautious formulations of truth assessments. Both units prioritize claims by public figures over online rumors and avoid binary truth labels, instead offering nuanced analyses that emphasize transparency and media literacy. Their work closely follows news cycles and socially salient issues, with topic selection shaped by the absence of partnerships with major technology platforms.",
-        "url": "https://doi.org/10.1177/14648849261442249",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261442978",
-        "title": "Representing Chinese Premier’s discourse in international English news media: The role of translation (re)considered",
-        "authors": [
-          "Feng Pan",
-          "Tao Li"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Translation in news media",
-          "Critical Discourse Analysis",
-          "Political communication",
-          "Chinese government representation"
-        ],
-        "abstract": "This study examines the role of translation in representing a Chinese Premier’s discourse in international English-language news media, focusing on how official interpretations of political speeches are treated by news outlets. Drawing on Fairclough’s Critical Discourse Analysis (CDA) framework, particularly the concept of “discourse representation”, and insights from Bednarek’s work on news discourse, the research analyzes three datasets: the original Chinese transcripts of Premier Li Keqiang’s remarks at the 2019 annual press conference, the official English interpretation, and reports from major English news outlets. Through combined quantitative and qualitative analyses, three types of intertextual relationships between the news quotations, official interpretation, and original Chinese text are uncovered. While many news outlets fully adopt the official interpretation, others accept it with minor semantic and/or structural adjustments. Notably, a significant number of journalists do not rely on the official interpretation but produce independent translations directly from the original Chinese. The findings suggest that journalists may have become more aware of interpreting’s mediating role, and that the voices of the interpreter and journalists frequently coexist with the Premier’s in translated direct quotations. This highlights the dual mediating roles of interpreters and journalist-translators in cross-border political communication and the importance of not treating translated political quotations as exact replicas of original statements. This paper contributes to the field by demonstrating the complex and dynamic nature of political discourse communication across genres, modes, and languages, while also providing new insights into how interpreting and journalistic practices shape political narratives across borders.",
-        "url": "https://doi.org/10.1177/14648849261442978",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261443091",
-        "title": "Trauma awareness and barriers: How journalism educators respond to teaching work-related trauma in journalism practice",
-        "authors": [
-          "Lada Trifonova Price",
-          "Ola Ogunyemi"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Journalism education",
-          "Trauma-informed pedagogy",
-          "Educator training",
-          "Resilience and wellbeing"
-        ],
-        "abstract": "Recent studies in psychology and journalism consistently show that preparing future journalists to be resilient is crucial. Resilience enables journalists and media organizations to withstand challenges in their daily practice. However, despite the recent increase in embedding resilience and trauma literacy in journalism curricula, many barriers remain. This study, guided by the framework of ethics of care, uses a global survey and in-depth interviews to investigate how journalism educators approach trauma-informed education across diverse socio-cultural contexts amidst increasing conflict. The findings reveal that training of journalism educators is the most significant factor that shapes their work and the pedagogy they adopt. This supports our argument that journalism educators would benefit from more context sensitive trauma training, care focused pedagogy, and accessible resources. This would help educators to fulfil their duty of care and support future journalists in their roles.",
-        "url": "https://doi.org/10.1177/14648849261443091",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1924,7 +1927,7 @@
           "Seth C. Lewis"
         ],
         "year": 2025,
-        "citation_count": 33,
+        "citation_count": 34,
         "topics": [
           "Artificial intelligence in journalism",
           "Digital media disruption",
@@ -1942,7 +1945,7 @@
           "Shangyuan Wu"
         ],
         "year": 2024,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Artificial intelligence in journalism",
           "ChatGPT adoption",
@@ -1969,6 +1972,26 @@
         ],
         "abstract": "Social media platforms are increasingly central for delivering journalistic content. While evidence suggests that social media led to adaptations of journalistic production routines, comparatively little is known about the specific platform characteristics that shape coordinating, selecting, and editing social media content. Adopting an affordance lens, this study seeks to tackle this gap and investigates how social media journalists perceive platform properties and their influence on journalistic contenft production. To answer this question, the study relies on stimulus-based qualitative interviews with 34 social media journalists from Germany, focusing primarily on TikTok, Instagram, and Facebook. By combining platform walkthroughs and reconstruction interviews, the analysis provides fine-grained insights into how a set of affordances, ranging from the perceived degree of algorithmic curation over (user-induced) spatiotemporal boundaries to platforms’ communicative forms, shapes the different stages of content production. The proposed affordances are both universal and variable, forming a typology that facilitates systematic comparisons across current and future platforms.",
         "url": "https://doi.org/10.1177/14648849251337009",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849241269300",
+        "title": "Reinforce, readjust, reclaim: How artificial intelligence impacts journalism’s professional claim",
+        "authors": [
+          "Lynge Asbjørn Møller",
+          "Morten Skovsgaard",
+          "Claes H. de Vreese"
+        ],
+        "year": 2024,
+        "citation_count": 15,
+        "topics": [
+          "Artificial intelligence",
+          "Journalism automation",
+          "Professional identity",
+          "News production"
+        ],
+        "abstract": "Major advances in artificial intelligence have fuelled a rapid increase in the automation and augmentation of journalistic work, challenging the centrality of journalists in the news production process. This article theoretically explores news automation by adopting a system of professions framework from the sociology of professions to provide a holistic perspective on the impact of artificial intelligence on journalistic work. This framework posits that different factors influence professional control over work, and problems caused by these factors have left journalism vulnerable to automation. The routine and mundane nature of a significant portion of journalistic tasks suggests that artificial intelligence may potentially replace many journalists in the future, thereby challenging the profession’s claim to expertise. For journalism to uphold its professional authority in the future, it needs to brace for the impact of artificial intelligence. Building on this analysis, we explore strategies for journalism to do so. This involves reinforcing professional ideals in new algorithmic practices, readjusting knowledge and skill taught in education, and reclaiming specialised work practices in organisations. Rather than a threat, the emergence of artificial intelligence then presents an opportunity for journalism to reintroduce the distinctiveness of the profession and rejuvenate its professional promise.",
+        "url": "https://doi.org/10.1177/14648849241269300",
         "topics_llm": true
       },
       {
@@ -2010,23 +2033,26 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/14648849241269300",
-        "title": "Reinforce, readjust, reclaim: How artificial intelligence impacts journalism’s professional claim",
+        "doi": "10.1177/14648849241299775",
+        "title": "The relationship between news trust, mistrust and audience disengagement",
         "authors": [
-          "Lynge Asbjørn Møller",
-          "Morten Skovsgaard",
-          "Claes H. de Vreese"
+          "Sora Park",
+          "Caroline Fisher",
+          "Edson C. Tandoc",
+          "Uwe Dulleck",
+          "Shengnan Pinker Yao",
+          "William Lukamto"
         ],
         "year": 2024,
-        "citation_count": 13,
+        "citation_count": 9,
         "topics": [
-          "Artificial intelligence",
-          "Journalism automation",
-          "Professional identity",
-          "News production"
+          "News trust",
+          "Media disengagement",
+          "Mistrust",
+          "Audience behavior"
         ],
-        "abstract": "Major advances in artificial intelligence have fuelled a rapid increase in the automation and augmentation of journalistic work, challenging the centrality of journalists in the news production process. This article theoretically explores news automation by adopting a system of professions framework from the sociology of professions to provide a holistic perspective on the impact of artificial intelligence on journalistic work. This framework posits that different factors influence professional control over work, and problems caused by these factors have left journalism vulnerable to automation. The routine and mundane nature of a significant portion of journalistic tasks suggests that artificial intelligence may potentially replace many journalists in the future, thereby challenging the profession’s claim to expertise. For journalism to uphold its professional authority in the future, it needs to brace for the impact of artificial intelligence. Building on this analysis, we explore strategies for journalism to do so. This involves reinforcing professional ideals in new algorithmic practices, readjusting knowledge and skill taught in education, and reclaiming specialised work practices in organisations. Rather than a threat, the emergence of artificial intelligence then presents an opportunity for journalism to reintroduce the distinctiveness of the profession and rejuvenate its professional promise.",
-        "url": "https://doi.org/10.1177/14648849241269300",
+        "abstract": "The global decline of trust in news is a concern for democracy and news organisations. It is often assumed that distrust in news will turn citizens away from it. However, the relationship between trust and news engagement is not straightforward. Those who distrust news may continue to consume it, and those who have high trust in news may choose to disengage from it. This study addresses this puzzling phenomenon by applying the concept of ‘mistrust’ and differentiating it from low or lack of trust. Mistrust is defined as exercising scepticism towards news and deferring trust. Confirmatory factor analysis of an online survey ( n = 4401) conducted in Australia, Singapore and UK between March and April 2023 reveals that trust and mistrust are empirically separate constructs and that they co-exist. Further logistic regression analysis shows that mistrust can lead to news avoidance. This news avoidance does not necessarily mean disengagement from news. Instead, we find low trust is a factor that turns people away from news altogether. By deciphering the complex relationship between trust and mistrust, this study provides new insights into understanding audiences’ disengagement with news.",
+        "url": "https://doi.org/10.1177/14648849241299775",
         "topics_llm": true
       },
       {
@@ -2131,29 +2157,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/14648849241299775",
-        "title": "The relationship between news trust, mistrust and audience disengagement",
-        "authors": [
-          "Sora Park",
-          "Caroline Fisher",
-          "Edson C. Tandoc",
-          "Uwe Dulleck",
-          "Shengnan Pinker Yao",
-          "William Lukamto"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "News trust",
-          "Media disengagement",
-          "Mistrust",
-          "Audience behavior"
-        ],
-        "abstract": "The global decline of trust in news is a concern for democracy and news organisations. It is often assumed that distrust in news will turn citizens away from it. However, the relationship between trust and news engagement is not straightforward. Those who distrust news may continue to consume it, and those who have high trust in news may choose to disengage from it. This study addresses this puzzling phenomenon by applying the concept of ‘mistrust’ and differentiating it from low or lack of trust. Mistrust is defined as exercising scepticism towards news and deferring trust. Confirmatory factor analysis of an online survey ( n = 4401) conducted in Australia, Singapore and UK between March and April 2023 reveals that trust and mistrust are empirically separate constructs and that they co-exist. Further logistic regression analysis shows that mistrust can lead to news avoidance. This news avoidance does not necessarily mean disengagement from news. Instead, we find low trust is a factor that turns people away from news altogether. By deciphering the complex relationship between trust and mistrust, this study provides new insights into understanding audiences’ disengagement with news.",
-        "url": "https://doi.org/10.1177/14648849241299775",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/14648849241272270",
         "title": "“The goal is to make you weaker”: Mental well-being and risks among European cross-border investigative journalists",
         "authors": [
@@ -2191,6 +2194,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/14648849241272219",
+        "title": "“I love my job, but my job is destroying me”. Permacrisis’ toll on journalistic practice and perceptions about journalism in Southern Europe",
+        "authors": [
+          "Lambrini Papadopoulou",
+          "Ioannis Angelou",
+          "Anastasia Katsaounidou"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "Journalism",
+          "Crisis communication",
+          "Professional burnout",
+          "Southern Europe"
+        ],
+        "abstract": "Drawing on qualitative analysis using semi-structured interviews, this study examines the enduring impact of the prolonged cycle of global crises on South European journalists’ perceptions about their profession and approaches to their work. The findings reveal a complex interplay of emotions among journalists, ranging from a love-hate dynamic towards their profession to a deep-seated disappointment with its ability to enact positive societal change. The repeated exposure to trauma has led them to a loss of faith in journalism’s potential to serve the public good, fostering a sense of powerlessness and futility among practitioners. Moreover, this study sheds light on shifts in journalistic practice. Journalists describe how they infuse their work with personal emotions as a means of coping with the intensity of the stories they cover. They elaborate on the deteriorating working conditions brought about after years of crises but also highlight the emotional toll of permacrisis as an important factor that leads them to choose ‘lighter’ beats or exit the profession entirely. This study is unique in documenting permacrisis’ impact on journalists in Southern Europe, emphasizing the need for a nuanced understanding of their experiences.",
+        "url": "https://doi.org/10.1177/14648849241272219",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/14648849251318622",
         "title": "Co-creating research at <i>The AI, media, and democracy lab</i> : Reflections on the role of academia in collaborations with media partners",
         "authors": [
@@ -2208,26 +2231,6 @@
         ],
         "abstract": "This commentary explores academia’s role in co-creating research with media partners, focusing on the distinct roles and challenges that each stakeholder brings to such partnerships. Starting from the perspective of the AI, Media, and Democracy Lab, and building on the Ethical, Legal, and Societal Aspects (ELSA) approach, we share key learnings from 3 years of collaborations with (media) partners. We conclude that navigating dual roles, expectations, output alignment, and a process of knowledge sharing are important requirements for academics and (media) partners to adequately co-create research and insights. We also argue that these key lessons do not always square with how academic research is organized and funded. We underscore that changes in funding structures and the way academic research is assessed can further facilitate the co-creation of research between academic research and projects in the media sector.",
         "url": "https://doi.org/10.1177/14648849251318622",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849241272219",
-        "title": "“I love my job, but my job is destroying me”. Permacrisis’ toll on journalistic practice and perceptions about journalism in Southern Europe",
-        "authors": [
-          "Lambrini Papadopoulou",
-          "Ioannis Angelou",
-          "Anastasia Katsaounidou"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Journalism",
-          "Crisis communication",
-          "Professional burnout",
-          "Southern Europe"
-        ],
-        "abstract": "Drawing on qualitative analysis using semi-structured interviews, this study examines the enduring impact of the prolonged cycle of global crises on South European journalists’ perceptions about their profession and approaches to their work. The findings reveal a complex interplay of emotions among journalists, ranging from a love-hate dynamic towards their profession to a deep-seated disappointment with its ability to enact positive societal change. The repeated exposure to trauma has led them to a loss of faith in journalism’s potential to serve the public good, fostering a sense of powerlessness and futility among practitioners. Moreover, this study sheds light on shifts in journalistic practice. Journalists describe how they infuse their work with personal emotions as a means of coping with the intensity of the stories they cover. They elaborate on the deteriorating working conditions brought about after years of crises but also highlight the emotional toll of permacrisis as an important factor that leads them to choose ‘lighter’ beats or exit the profession entirely. This study is unique in documenting permacrisis’ impact on journalists in Southern Europe, emphasizing the need for a nuanced understanding of their experiences.",
-        "url": "https://doi.org/10.1177/14648849241272219",
         "topics_llm": true
       },
       {

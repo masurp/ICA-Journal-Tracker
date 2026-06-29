@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-06-22T11:52:06Z",
-  "trending_from": "2024-06-22",
+  "updated_at": "2026-06-29T10:57:39Z",
+  "trending_from": "2024-06-29",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4144,
+        "citation_count": 4152,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2467,
+        "citation_count": 2478,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1803,
+        "citation_count": 1805,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1064,
+        "citation_count": 1072,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 897,
+        "citation_count": 899,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 812,
+        "citation_count": 813,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 446,
+        "citation_count": 447,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 429,
+        "citation_count": 430,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 422,
+        "citation_count": 423,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 386,
+        "citation_count": 390,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 266,
+        "citation_count": 268,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -324,7 +324,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 219,
+        "citation_count": 221,
         "topics": [
           "News framing",
           "Computational methods",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 193,
+        "citation_count": 194,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -470,7 +470,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 150,
+        "citation_count": 152,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -490,7 +490,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 149,
+        "citation_count": 151,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -570,7 +570,7 @@
           "Lucy Popova"
         ],
         "year": 2012,
-        "citation_count": 134,
+        "citation_count": 135,
         "topics": [
           "Equivalence testing",
           "Statistical methods",
@@ -589,7 +589,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 132,
+        "citation_count": 133,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -607,7 +607,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 128,
+        "citation_count": 129,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -758,6 +758,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2016.1271113",
+        "title": "Measuring Trust in the Press in a Changing Media Environment",
+        "authors": [
+          "Andrew Daniller",
+          "Douglas Allen",
+          "Ashley Tallevi",
+          "Diana C. Mutz"
+        ],
+        "year": 2017,
+        "citation_count": 98,
+        "topics": [
+          "Media trust",
+          "Press credibility",
+          "News consumption",
+          "Democratic communication"
+        ],
+        "abstract": "The only long term trend data on trust in the American press comes from the General Social Survey (GSS). The erosion of trust in the press as measured by the GSS indicator is indisputable, but its implications for the functioning of American democracy depend on what, precisely, is being measured. In this study we use an experimental design embedded in a representative national probability sample to shed light on what people are thinking of when they say they trust or distrust the American press. Are they thinking about the sources they themselves use for news? The sources that are most popular with the population at large? An average of all possible media sources? We find that individuals express much greater trust in the press when they are asked to consider specific news sources than when they are asked to evaluate a generic news media. Our results suggest that an accessibility bias combined with the proliferation of news sources in recent years may lead individuals to think of distrusted sources when asked to answer generic media trust questions. We therefore argue that different measurement strategies are needed to successfully address trust in the press in the current news environment.",
+        "url": "https://doi.org/10.1080/19312458.2016.1271113",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2022.2109608",
         "title": "Promises and Pitfalls of Social Media Data Donations",
         "authors": [
@@ -778,27 +799,6 @@
         ],
         "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
         "url": "https://doi.org/10.1080/19312458.2022.2109608",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2016.1271113",
-        "title": "Measuring Trust in the Press in a Changing Media Environment",
-        "authors": [
-          "Andrew Daniller",
-          "Douglas Allen",
-          "Ashley Tallevi",
-          "Diana C. Mutz"
-        ],
-        "year": 2017,
-        "citation_count": 97,
-        "topics": [
-          "Media trust",
-          "Press credibility",
-          "News consumption",
-          "Democratic communication"
-        ],
-        "abstract": "The only long term trend data on trust in the American press comes from the General Social Survey (GSS). The erosion of trust in the press as measured by the GSS indicator is indisputable, but its implications for the functioning of American democracy depend on what, precisely, is being measured. In this study we use an experimental design embedded in a representative national probability sample to shed light on what people are thinking of when they say they trust or distrust the American press. Are they thinking about the sources they themselves use for news? The sources that are most popular with the population at large? An average of all possible media sources? We find that individuals express much greater trust in the press when they are asked to consider specific news sources than when they are asked to evaluate a generic news media. Our results suggest that an accessibility bias combined with the proliferation of news sources in recent years may lead individuals to think of distrusted sources when asked to answer generic media trust questions. We therefore argue that different measurement strategies are needed to successfully address trust in the press in the current news environment.",
-        "url": "https://doi.org/10.1080/19312458.2016.1271113",
         "topics_llm": true
       },
       {
@@ -990,6 +990,24 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/19312458.2026.2692353",
+        "title": "NEClass: a lightweight LLM pipeline for measuring Foreign news coverage",
+        "authors": [
+          "Tobias Schmidt"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Foreign news coverage",
+          "Named Entity Recognition",
+          "Large Language Models",
+          "International communication"
+        ],
+        "abstract": "Understanding cross-national news coverage is central to international communication research. However, quantifying how countries appear in the news remains methodologically challenging: simple keyword counts lack context, while manual coding does not scale. This paper introduces NEClass, a reproducible, open-source pipeline that combines standard Named Entity Recognition (NER) with a fine-tuned Large Language Model (LLM) to classify entities’ country affiliations. Unlike static dictionary approaches, NEClass leverages the latent world knowledge of modern LLMs and local context to resolve ambiguities dynamically. I demonstrate the pipeline’s validity regarding country attribution (weighted F1 of 0.95), show that it performs more reliably than established baseline approaches (including keyword matching and zero-shot LLM prompting), and illustrate its utility through a case study of the Eurozone crisis coverage in German and Italian newspapers. Ultimately, NEClass provides researchers with a robust and accessible toolkit to operationalize international attention patterns beyond the limitations of purely keyword-based metrics.",
+        "url": "https://doi.org/10.1080/19312458.2026.2692353",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2026.2664873",
         "title": "Exploring temporal dynamics in digital trace data: mining user-sequences for communication research",
@@ -1312,7 +1330,7 @@
           "Sebastian Stier"
         ],
         "year": 2025,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "web scraping",
           "online news consumption",
@@ -1399,7 +1417,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -1990,24 +2008,6 @@
         "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
         "url": "https://doi.org/10.1080/19312458.2023.2207005",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2183188",
-        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
-        "authors": [
-          "Kilian Buehling"
-        ],
-        "year": 2023,
-        "citation_count": 23,
-        "topics": [
-          "Digital trace data",
-          "Message deletion",
-          "Computational social science",
-          "Online platform analysis"
-        ],
-        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
-        "url": "https://doi.org/10.1080/19312458.2023.2183188",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2021,7 +2021,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -2043,7 +2043,7 @@
           "Sebastian Stier"
         ],
         "year": 2025,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "web scraping",
           "online news consumption",
