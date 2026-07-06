@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-06-29T10:57:42Z",
-  "trending_from": "2024-06-29",
+  "updated_at": "2026-07-06T10:18:57Z",
+  "trending_from": "2024-07-06",
   "sections": {
     "most_cited": [
       {
@@ -35,7 +35,7 @@
           "Fabio Votta"
         ],
         "year": 2022,
-        "citation_count": 73,
+        "citation_count": 74,
         "topics": [
           "TikTok",
           "Short-form video",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 61,
+        "citation_count": 62,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -81,7 +81,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 60,
+        "citation_count": 61,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -100,7 +100,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 55,
+        "citation_count": 56,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -221,7 +221,7 @@
           "Angela Nienierza"
         ],
         "year": 2019,
-        "citation_count": 26,
+        "citation_count": 27,
         "topics": [
           "News consumption",
           "Social media",
@@ -230,6 +230,27 @@
         ],
         "abstract": "News consumption within social media has become a prevalent phenomenon throughout recent years. Yet, such news consumption has introduced methodological challenges for data collection. Especially the fragmentation of media use, media sources, and the personalized selection of content within algorithmically curated information environments have made it difficult to adequately measure news use within social media. After discussing the chances and pitfalls of several potential approaches of data collection, we present a novel approach of computational observation: We have developed an open-source browser plug-in to unobtrusively observe Facebook users. We discuss technological, ethical, and practical considerations of such an automated solution and present potential links to panel surveys and content analyses as adequate multi-method designs. Ultimately, we present a case study as a proof of concept. While this case study suffers from severe recruitment difficulties, results indicate a reliable methodological set-up, ready to be implemented for the data collection within a variety of media-use and media-effects studies.",
         "url": "https://doi.org/10.5117/ccr2019.1.004.haim",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2019.1.002.hopp",
+        "title": "iCoRe: The GDELT Interface for the Advancement of Communication Research",
+        "authors": [
+          "Frederic R. Hopp",
+          "J.P. Schaffer",
+          "Jacob T. Fisher",
+          "René Weber"
+        ],
+        "year": 2019,
+        "citation_count": 24,
+        "topics": [
+          "GDELT database",
+          "Content analysis",
+          "Computational methods",
+          "News data"
+        ],
+        "abstract": "This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language, and Tone (GDELT; Leetaru &amp; Schrodt, 2013). GDELT provides a vast, open source, and continuously updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential for advancing communication research.",
+        "url": "https://doi.org/10.5117/ccr2019.1.002.hopp",
         "topics_llm": true
       },
       {
@@ -253,34 +274,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2019.1.002.hopp",
-        "title": "iCoRe: The GDELT Interface for the Advancement of Communication Research",
-        "authors": [
-          "Frederic R. Hopp",
-          "J.P. Schaffer",
-          "Jacob T. Fisher",
-          "René Weber"
-        ],
-        "year": 2019,
-        "citation_count": 23,
-        "topics": [
-          "GDELT database",
-          "Content analysis",
-          "Computational methods",
-          "News data"
-        ],
-        "abstract": "This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language, and Tone (GDELT; Leetaru &amp; Schrodt, 2013). GDELT provides a vast, open source, and continuously updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential for advancing communication research.",
-        "url": "https://doi.org/10.5117/ccr2019.1.002.hopp",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2022.1.009.peng",
         "title": "Athec",
         "authors": [
           "Yilang Peng"
         ],
         "year": 2022,
-        "citation_count": 22,
+        "citation_count": 23,
         "topics": [
           "Visual aesthetics",
           "Computational analysis",
@@ -669,6 +669,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2024.2.5.welb",
+        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
+        "authors": [
+          "Kasper Welbers",
+          "Felicia Löecherbach",
+          "Zilin Lin",
+          "Damian Trilling"
+        ],
+        "year": 2024,
+        "citation_count": 10,
+        "topics": [
+          "Data donation",
+          "Media consumption measurement",
+          "Digital trace data",
+          "Research methodology"
+        ],
+        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
+        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2021.2.001.calc",
         "title": "The Accuracy and Precision of Measurement",
         "authors": [
@@ -729,27 +750,6 @@
         ],
         "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
         "url": "https://doi.org/10.5117/ccr2024.2.3.stry",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "citation_count": 9,
-        "topics": [
-          "Data donation",
-          "Media consumption measurement",
-          "Digital trace data",
-          "Research methodology"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
         "topics_llm": true
       },
       {
@@ -1785,7 +1785,7 @@
           "Daniel Thiele"
         ],
         "year": 2024,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Populism",
           "COVID-19",
@@ -1909,7 +1909,7 @@
           "Damian Trilling"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Data donation",
           "Media consumption measurement",

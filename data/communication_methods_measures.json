@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-06-29T10:57:39Z",
-  "trending_from": "2024-06-29",
+  "updated_at": "2026-07-06T10:18:53Z",
+  "trending_from": "2024-07-06",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4152,
+        "citation_count": 4160,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2478,
+        "citation_count": 2490,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1805,
+        "citation_count": 1811,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1072,
+        "citation_count": 1077,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 899,
+        "citation_count": 901,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 813,
+        "citation_count": 816,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 447,
+        "citation_count": 448,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 390,
+        "citation_count": 392,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 268,
+        "citation_count": 269,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -243,7 +243,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2007,
-        "citation_count": 250,
+        "citation_count": 251,
         "topics": [
           "Statistical power analysis",
           "Research methodology",
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 198,
+        "citation_count": 199,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 188,
+        "citation_count": 189,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -458,6 +458,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2021.1968361",
+        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
+        "authors": [
+          "Leyla Dogruel",
+          "Philipp K. Masur",
+          "Sven Joeckel"
+        ],
+        "year": 2021,
+        "citation_count": 154,
+        "topics": [
+          "Algorithm literacy",
+          "Digital literacy",
+          "Algorithmic awareness",
+          "Scale development"
+        ],
+        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
+        "url": "https://doi.org/10.1080/19312458.2021.1968361",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2023.2181319",
         "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
         "authors": [
@@ -470,7 +490,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 152,
+        "citation_count": 153,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -479,26 +499,6 @@
         ],
         "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
         "url": "https://doi.org/10.1080/19312458.2023.2181319",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2021.1968361",
-        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
-        "authors": [
-          "Leyla Dogruel",
-          "Philipp K. Masur",
-          "Sven Joeckel"
-        ],
-        "year": 2021,
-        "citation_count": 151,
-        "topics": [
-          "Algorithm literacy",
-          "Digital literacy",
-          "Algorithmic awareness",
-          "Scale development"
-        ],
-        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
-        "url": "https://doi.org/10.1080/19312458.2021.1968361",
         "topics_llm": true
       },
       {
@@ -589,7 +589,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 133,
+        "citation_count": 134,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 121,
+        "citation_count": 122,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -685,7 +685,7 @@
           "Elisia L. Cohen"
         ],
         "year": 2011,
-        "citation_count": 114,
+        "citation_count": 115,
         "topics": [
           "Content analysis",
           "Sampling methods",
@@ -767,7 +767,7 @@
           "Diana C. Mutz"
         ],
         "year": 2017,
-        "citation_count": 98,
+        "citation_count": 99,
         "topics": [
           "Media trust",
           "Press credibility",
@@ -808,7 +808,7 @@
           "Michael Scharkow"
         ],
         "year": 2019,
-        "citation_count": 94,
+        "citation_count": 95,
         "topics": [
           "Media exposure measurement",
           "Self-report reliability",
@@ -884,7 +884,7 @@
           "Edward T. Palazzolo"
         ],
         "year": 2010,
-        "citation_count": 86,
+        "citation_count": 87,
         "topics": [
           "Social network analysis",
           "Exponential random graph models",
@@ -1477,7 +1477,7 @@
           "Felicia Löecherbach"
         ],
         "year": 2024,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Web search behavior",
           "Political communication",
@@ -1620,7 +1620,7 @@
           "Martin Mafunda"
         ],
         "year": 2023,
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Speaker embeddings",
           "Linguistic similarity",
@@ -1662,7 +1662,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 28,
+        "citation_count": 29,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1683,7 +1683,7 @@
           "Zhiying Yue"
         ],
         "year": 2023,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Keyword selection",
           "Text data retrieval",

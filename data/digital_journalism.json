@@ -1,7 +1,7 @@
 {
   "journal_id": "digital_journalism",
-  "updated_at": "2026-06-29T10:57:34Z",
-  "trending_from": "2024-06-29",
+  "updated_at": "2026-07-06T10:18:47Z",
+  "trending_from": "2024-07-06",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Richard Ling"
         ],
         "year": 2017,
-        "citation_count": 2105,
+        "citation_count": 2114,
         "topics": [
           "Misinformation",
           "Media literacy",
@@ -32,7 +32,7 @@
           "Andrew McStay"
         ],
         "year": 2017,
-        "citation_count": 769,
+        "citation_count": 771,
         "topics": [
           "Misinformation",
           "Emotional appeals",
@@ -50,7 +50,7 @@
           "Nicholas Diakopoulos"
         ],
         "year": 2014,
-        "citation_count": 682,
+        "citation_count": 689,
         "topics": [
           "Algorithmic transparency",
           "Platform accountability",
@@ -70,7 +70,7 @@
           "Kasper Welbers"
         ],
         "year": 2015,
-        "citation_count": 527,
+        "citation_count": 528,
         "topics": [
           "Topic modelling",
           "Computational text analysis",
@@ -88,7 +88,7 @@
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 502,
+        "citation_count": 504,
         "topics": [
           "Artificial intelligence",
           "Automated journalism",
@@ -106,7 +106,7 @@
           "Mark Coddington"
         ],
         "year": 2014,
-        "citation_count": 482,
+        "citation_count": 484,
         "topics": [
           "Journalism",
           "Quantitative methods",
@@ -125,7 +125,7 @@
           "Michael Koliska"
         ],
         "year": 2016,
-        "citation_count": 480,
+        "citation_count": 482,
         "topics": [
           "Algorithmic transparency",
           "News media",
@@ -145,7 +145,7 @@
           "Lena Frischlich"
         ],
         "year": 2019,
-        "citation_count": 435,
+        "citation_count": 436,
         "topics": [
           "Alternative news media",
           "Media criticism",
@@ -164,7 +164,7 @@
           "Sora Park"
         ],
         "year": 2017,
-        "citation_count": 391,
+        "citation_count": 392,
         "topics": [
           "Media trust",
           "Online news consumption",
@@ -202,7 +202,7 @@
           "Konstantin Dörr"
         ],
         "year": 2015,
-        "citation_count": 380,
+        "citation_count": 382,
         "topics": [
           "Algorithmic journalism",
           "Natural language generation",
@@ -220,7 +220,7 @@
           "Karin Wahl‐Jorgensen"
         ],
         "year": 2019,
-        "citation_count": 362,
+        "citation_count": 363,
         "topics": [
           "Journalism studies",
           "Emotion in media",
@@ -238,7 +238,7 @@
           "Natali Helberger"
         ],
         "year": 2019,
-        "citation_count": 345,
+        "citation_count": 346,
         "topics": [
           "News recommenders",
           "Democratic media",
@@ -333,7 +333,7 @@
           "Silvio Waisbord"
         ],
         "year": 2020,
-        "citation_count": 290,
+        "citation_count": 292,
         "topics": [
           "Online harassment",
           "Journalist safety",
@@ -363,6 +363,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2014.976418",
+        "title": "Big Data and Journalism",
+        "authors": [
+          "Seth C. Lewis",
+          "Oscar Westlund"
+        ],
+        "year": 2014,
+        "citation_count": 277,
+        "topics": [
+          "Big data",
+          "Journalism",
+          "Media technology",
+          "Data-driven reporting"
+        ],
+        "abstract": "Big data is a social, cultural, and technological phenomenon—a complex amalgamation of digital data abundance, emerging analytic techniques, mythology about data-driven insights, and growing critique about the overall consequences of big-data practices for democracy and society. While media and communication scholars have begun to examine and theorize about big data in the context of media and public life broadly, what are the particular implications for journalism? This article introduces and applies four conceptual lenses—epistemology, expertise, economics, and ethics—to explore both contemporary and potential applications of big data for the professional logic and industrial production of journalism. These distinct yet inter-related conceptual approaches reveal how journalists and news media organizations are seeking to make sense of, act upon, and derive value from big data during a time of exploration in algorithms, computation, and quantification. In all, the developments of big data potentially have great meaning for journalism’s ways of knowing (epistemology) and doing (expertise), as well as its negotiation of value (economics) and values (ethics). Ultimately, this article outlines future directions for journalism studies research in the context of big data.",
+        "url": "https://doi.org/10.1080/21670811.2014.976418",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2018.1423625",
         "title": "News in Social Media",
         "authors": [
@@ -382,25 +401,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2014.976418",
-        "title": "Big Data and Journalism",
-        "authors": [
-          "Seth C. Lewis",
-          "Oscar Westlund"
-        ],
-        "year": 2014,
-        "citation_count": 276,
-        "topics": [
-          "Big data",
-          "Journalism",
-          "Media technology",
-          "Data-driven reporting"
-        ],
-        "abstract": "Big data is a social, cultural, and technological phenomenon—a complex amalgamation of digital data abundance, emerging analytic techniques, mythology about data-driven insights, and growing critique about the overall consequences of big-data practices for democracy and society. While media and communication scholars have begun to examine and theorize about big data in the context of media and public life broadly, what are the particular implications for journalism? This article introduces and applies four conceptual lenses—epistemology, expertise, economics, and ethics—to explore both contemporary and potential applications of big data for the professional logic and industrial production of journalism. These distinct yet inter-related conceptual approaches reveal how journalists and news media organizations are seeking to make sense of, act upon, and derive value from big data during a time of exploration in algorithms, computation, and quantification. In all, the developments of big data potentially have great meaning for journalism’s ways of knowing (epistemology) and doing (expertise), as well as its negotiation of value (economics) and values (ethics). Ultimately, this article outlines future directions for journalism studies research in the context of big data.",
-        "url": "https://doi.org/10.1080/21670811.2014.976418",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2019.1577147",
         "title": "Automation, Journalism, and Human–Machine Communication: Rethinking Roles and Relationships of Humans and Machines in News",
         "authors": [
@@ -409,7 +409,7 @@
           "Thomas Schmidt"
         ],
         "year": 2019,
-        "citation_count": 268,
+        "citation_count": 269,
         "topics": [
           "Automated journalism",
           "Human-Machine Communication",
@@ -427,7 +427,7 @@
           "Oscar Westlund"
         ],
         "year": 2012,
-        "citation_count": 267,
+        "citation_count": 268,
         "topics": [
           "Mobile news",
           "Digital journalism",
@@ -457,6 +457,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2018.1493936",
+        "title": "My Friends, Editors, Algorithms, and I",
+        "authors": [
+          "Neil Thurman",
+          "Judith Moeller",
+          "Natali Helberger",
+          "Damian Trilling"
+        ],
+        "year": 2018,
+        "citation_count": 266,
+        "topics": [
+          "Algorithmic curation",
+          "Editorial selection",
+          "News consumption",
+          "Audience preferences"
+        ],
+        "abstract": "Prompted by the ongoing development of content personalization by social networks and mainstream news brands, and recent debates about balancing algorithmic and editorial selection, this study explores what audiences think about news selection mechanisms and why. Analysing data from a 26-country survey (N = 53,314), we report the extent to which audiences believe story selection by editors and story selection by algorithms are good ways to get news online and, using multi-level models, explore the relationships that exist between individuals’ characteristics and those beliefs. The results show that, collectively, audiences believe algorithmic selection guided by a user’s past consumption behaviour is a better way to get news than editorial curation. There are, however, significant variations in these beliefs at the individual level. Age, trust in news, concerns about privacy, mobile news access, paying for news, and six other variables had effects. Our results are partly in line with current general theory on algorithmic appreciation, but diverge in our findings on the relative appreciation of algorithms and experts, and in how the appreciation of algorithms can differ according to the data that drive them. We believe this divergence is partly due to our study’s focus on news, showing algorithmic appreciation has context-specific characteristics.",
+        "url": "https://doi.org/10.1080/21670811.2018.1493936",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2016.1178592",
         "title": "From Editors to Algorithms",
         "authors": [
@@ -472,27 +493,6 @@
         ],
         "abstract": "Facebook’s News Feed is an emerging, influential force in our personal information flows, especially where news information is concerned. However, as the News Feed’s story selection mechanism starts to supplant traditional editorial story selection, we have no window into its story curation process that is parallel to our extensive knowledge of the news values that drive traditional editorial curation. The sensitive, trade-secret nature of the News Feed and its constant updates and modifications make a traditional, computer science-based examination of this algorithmic giant difficult, if not impossible. This study takes an alternative approach, using a content analysis of Facebook’s own patents, press releases, and Securities and Exchange Commission filings to identify a core set of algorithmic values that drive story selection on the Facebook News Feed. Informed by the principles of material culture analysis, it ranks these values to create a window into Facebook’s curation process, and compares and contrasts Facebook’s story selection values with traditional news values, examining the possible consequences of one set of values supplanting the other. The study finds a set of nine News Feed values that drive story selection: friend relationships, explicitly expressed user interests, prior user engagement, implicitly expressed user preferences, post age, platform priorities, page relationships, negatively expressed preferences, and content quality. It also finds evidence that friend relationships act as an overall influence on all other story selection values.",
         "url": "https://doi.org/10.1080/21670811.2016.1178592",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2018.1493936",
-        "title": "My Friends, Editors, Algorithms, and I",
-        "authors": [
-          "Neil Thurman",
-          "Judith Moeller",
-          "Natali Helberger",
-          "Damian Trilling"
-        ],
-        "year": 2018,
-        "citation_count": 263,
-        "topics": [
-          "Algorithmic curation",
-          "Editorial selection",
-          "News consumption",
-          "Audience preferences"
-        ],
-        "abstract": "Prompted by the ongoing development of content personalization by social networks and mainstream news brands, and recent debates about balancing algorithmic and editorial selection, this study explores what audiences think about news selection mechanisms and why. Analysing data from a 26-country survey (N = 53,314), we report the extent to which audiences believe story selection by editors and story selection by algorithms are good ways to get news online and, using multi-level models, explore the relationships that exist between individuals’ characteristics and those beliefs. The results show that, collectively, audiences believe algorithmic selection guided by a user’s past consumption behaviour is a better way to get news than editorial curation. There are, however, significant variations in these beliefs at the individual level. Age, trust in news, concerns about privacy, mobile news access, paying for news, and six other variables had effects. Our results are partly in line with current general theory on algorithmic appreciation, but diverge in our findings on the relative appreciation of algorithms and experts, and in how the appreciation of algorithms can differ according to the data that drive them. We believe this divergence is partly due to our study’s focus on news, showing algorithmic appreciation has context-specific characteristics.",
-        "url": "https://doi.org/10.1080/21670811.2018.1493936",
         "topics_llm": true
       },
       {
@@ -539,7 +539,7 @@
           "Julian Wallace"
         ],
         "year": 2017,
-        "citation_count": 243,
+        "citation_count": 244,
         "topics": [
           "Gatekeeping theory",
           "Algorithms",
@@ -724,6 +724,33 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2021.1943481",
+        "title": "Does a Crisis Change News Habits? A Comparative Study of the Effects of COVID-19 on News Media Use in 17 European Countries",
+        "authors": [
+          "Peter Van Aelst",
+          "Fanni Tóth",
+          "Laia Castro",
+          "Václav Štětka",
+          "Claes H. de Vreese",
+          "Toril Aalberg",
+          "Ana Sofía Cardenal",
+          "Nicoleta Corbu",
+          "Frank Esser",
+          "David Nicolas Hopmann"
+        ],
+        "year": 2021,
+        "citation_count": 214,
+        "topics": [
+          "News consumption",
+          "COVID-19 pandemic",
+          "Media use crisis",
+          "Digital vs traditional media"
+        ],
+        "abstract": "Exogenous shocks like the COVID-19 pandemic unleashes multiple fundamental questions about society beyond public health. Based on the classical concept of ‘need for orientation’ and the literature on the role of the media in times of crisis, we investigate to what extent the COVID-19 pandemic affected news consumption in comparative perspective. Based on a two-wave panel survey in 17 mostly European countries, our study targets the role of both legacy news brands (TV, radio, newspapers) and so-called contemporary news media (Internet-based and social media) during this global health crisis. Our results show an overall rise of news use across countries, but only for some types of news media. We find an increase of TV news consumption, and a higher reliance on social media and the Internet for news and information. This indicates that in times of crises and an unusually strong need for orientation, people mainly turn to news sources that are easily available and offer a more immediate coverage. Furthermore, we find the rise in news use to be mainly present among those who already have a higher level of trust in legacy media and among people that were more concerned about the impact of the pandemic.",
+        "url": "https://doi.org/10.1080/21670811.2021.1943481",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2013.776804",
         "title": "THE SOCIAL JOURNALIST",
         "authors": [
@@ -762,40 +789,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2021.1943481",
-        "title": "Does a Crisis Change News Habits? A Comparative Study of the Effects of COVID-19 on News Media Use in 17 European Countries",
-        "authors": [
-          "Peter Van Aelst",
-          "Fanni Tóth",
-          "Laia Castro",
-          "Václav Štětka",
-          "Claes H. de Vreese",
-          "Toril Aalberg",
-          "Ana Sofía Cardenal",
-          "Nicoleta Corbu",
-          "Frank Esser",
-          "David Nicolas Hopmann"
-        ],
-        "year": 2021,
-        "citation_count": 212,
-        "topics": [
-          "News consumption",
-          "COVID-19 pandemic",
-          "Media use crisis",
-          "Digital vs traditional media"
-        ],
-        "abstract": "Exogenous shocks like the COVID-19 pandemic unleashes multiple fundamental questions about society beyond public health. Based on the classical concept of ‘need for orientation’ and the literature on the role of the media in times of crisis, we investigate to what extent the COVID-19 pandemic affected news consumption in comparative perspective. Based on a two-wave panel survey in 17 mostly European countries, our study targets the role of both legacy news brands (TV, radio, newspapers) and so-called contemporary news media (Internet-based and social media) during this global health crisis. Our results show an overall rise of news use across countries, but only for some types of news media. We find an increase of TV news consumption, and a higher reliance on social media and the Internet for news and information. This indicates that in times of crises and an unusually strong need for orientation, people mainly turn to news sources that are easily available and offer a more immediate coverage. Furthermore, we find the rise in news use to be mainly present among those who already have a higher level of trust in legacy media and among people that were more concerned about the impact of the pandemic.",
-        "url": "https://doi.org/10.1080/21670811.2021.1943481",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2020.1773888",
         "title": "The Political Power of Platforms: How Current Attempts to Regulate Misinformation Amplify Opinion Power",
         "authors": [
           "Natali Helberger"
         ],
         "year": 2020,
-        "citation_count": 210,
+        "citation_count": 211,
         "topics": [
           "Social media regulation",
           "Platform accountability",
@@ -890,7 +890,7 @@
           "Zvi Reich"
         ],
         "year": 2016,
-        "citation_count": 194,
+        "citation_count": 195,
         "topics": [
           "Automated journalism",
           "Algorithmic authorship",
@@ -2031,14 +2031,14 @@
           "Maxwell Ely"
         ],
         "year": 2025,
-        "citation_count": 16,
+        "citation_count": 18,
         "topics": [
           "Generative AI",
           "Journalistic Authority",
           "Epistemology",
           "ChatGPT"
         ],
-        "abstract": "Journalists have long been concerned about the boundaries of their craft, wary that their work might be replicated by actors who do not adhere to the profession’s normative values. Early artificial intelligence (AI) technologies seemed unlikely to meet journalism’s standards of precision and judgment, but the launch of ChatGPT in late 2022 signaled a shift toward generative AI, which directly challenges journalism’s central knowledge-creation practices—particularly writing. Employing journalistic authority as a conceptual framework, this study examines how journalists interpret and respond to this epistemic crisis through a two-stage qualitative analysis: (1) a thematic examination of metajournalistic discourse (n = 94 articles) surrounding ChatGPT and related generative chatbots, and (2) in-depth interviews with practicing journalists (n = 21) about their evaluation, adoption, and integration of generative AI into newsroom workflows. Ultimately, we argue that epistemic crises such as this may also be conceptualized as epistemic opportunities, offering journalists a chance to reinforce their professional boundaries and distinguish their craft from that of more peripheral actors.",
+        "abstract": "Journalists have long been concerned about the boundaries of their craft, wary that their work might be replicated by actors who do not adhere to the profession’s normative values. Early artificial intelligence (AI) technologies seemed unlikely to meet journalism’s standards of precision and judgment, but the launch of ChatGPT in late 2022 signaled a shift toward generative AI, which directly challenges journalism’s central knowledge-creation practices—particularly writing. Employing journalistic authority as a conceptual framework, this study examines how journalists interpret and respond to this epistemic crisis through a two-stage qualitative analysis: (1) a thematic examination of metajournalistic discourse (n=94 articles) surrounding ChatGPT and related generative chatbots, and (2) in-depth interviews with practicing journalists (n=21) about their evaluation, adoption, and integration of generative AI into newsroom workflows. Ultimately, we argue that epistemic crises such as this may also be conceptualized as epistemic opportunities, offering journalists a chance to reinforce their professional boundaries and distinguish their craft from that of more peripheral actors.",
         "url": "https://doi.org/10.1080/21670811.2025.2510967",
         "topics_llm": true
       },
@@ -2050,7 +2050,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2025,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Artificial Intelligence in journalism",
           "Professional norms",
@@ -2068,7 +2068,7 @@
           "Joanne Kuai"
         ],
         "year": 2025,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Artificial intelligence reporting",
           "Algorithmic imaginaries",
@@ -2199,6 +2199,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2493759",
+        "title": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
+        "authors": [
+          "Dominic Lammar",
+          "Maja Horst",
+          "Ruth Müller"
+        ],
+        "year": 2025,
+        "citation_count": 9,
+        "topics": [
+          "Artificial Intelligence discourse",
+          "Media narratives",
+          "German journalism",
+          "Technology framing"
+        ],
+        "abstract": "The continuing high level of media attention to advances in AI has raised scholarly concerns about hype. However, existing scholarship on AI hype considers its object of study, ‘AI’, as given and stable, rather than tracing how it is discursively constructed. This paper presents a qualitative discourse analysis of four years of AI coverage in German newspapers. It traces how the object of AI itself is constructed in discourse, rather than assuming it to be monolithic and stable. We identify two distinct constructions of AI: AI-in-general constructs AI as a promising future technology, while AI-in-particular zooms in on local application contexts in which AI is already being used. We argue that AI-in-general, and its narratives foregrounding a global technology race, reflect crucial elements of hype and also serve as a pervasive backdrop for the contextual narratives of AI-in-particular. In terms of broader debates about hype, we therefore conclude that contextual narratives are not a panacea against hype.",
+        "url": "https://doi.org/10.1080/21670811.2025.2493759",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2454516",
         "title": "HOW MEDIA UNIONS STABILIZE TECHNOLOGICAL HYPE Tracing Organized Journalism’s Discursive Constructions of Generative Artificial Intelligence",
         "authors": [
@@ -2215,26 +2235,6 @@
         ],
         "abstract": "Amidst ongoing challenges to journalism’s economic models, labor markets, and technological practices, a new pressure has recently appeared in many newsrooms: the power of Generative Artificial Intelligence (GenAI) computational models and off-the-shelf interfaces to synthetically create content that passes for news. Seeing the phenomenon through the lens of this special issue’s focus on “hype,” this paper uses discourse analysis to understand how journalism unions define GenAI as a problem, articulate the value of journalism against it, and use collective bargaining to contractually shape its use in newsrooms. Motivated by scholarship detailing hype as popular communication, expectation setting, and technological stabilizing, we examine journalistic trade press, union statements, and collective bargaining agreements to offer a 6-dimensional image of GenAI hype and union-driven responses to it, and reflect on notable absences in media unions’ understanding of GenAI. We see this as a case of journalists articulating their roles and values in an all-too-common moment when they are challenged by sociotechnical forces that they did not create, but that they must nonetheless collectively navigate and reshape in service of the profession’s democratic mission.",
         "url": "https://doi.org/10.1080/21670811.2025.2454516",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2493759",
-        "title": "AI in the German Media: Narratives of AI-in-Particular and AI-in-General in German Media Reporting About Artificial Intelligence",
-        "authors": [
-          "Dominic Lammar",
-          "Maja Horst",
-          "Ruth Müller"
-        ],
-        "year": 2025,
-        "citation_count": 8,
-        "topics": [
-          "Artificial Intelligence discourse",
-          "Media narratives",
-          "German journalism",
-          "Technology framing"
-        ],
-        "abstract": "The continuing high level of media attention to advances in AI has raised scholarly concerns about hype. However, existing scholarship on AI hype considers its object of study, ‘AI’, as given and stable, rather than tracing how it is discursively constructed. This paper presents a qualitative discourse analysis of four years of AI coverage in German newspapers. It traces how the object of AI itself is constructed in discourse, rather than assuming it to be monolithic and stable. We identify two distinct constructions of AI: AI-in-general constructs AI as a promising future technology, while AI-in-particular zooms in on local application contexts in which AI is already being used. We argue that AI-in-general, and its narratives foregrounding a global technology race, reflect crucial elements of hype and also serve as a pervasive backdrop for the contextual narratives of AI-in-particular. In terms of broader debates about hype, we therefore conclude that contextual narratives are not a panacea against hype.",
-        "url": "https://doi.org/10.1080/21670811.2025.2493759",
         "topics_llm": true
       },
       {
@@ -2276,6 +2276,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2024.2399622",
+        "title": "What Makes News (Seem) Authentic on Social Media? Indicators from a Qualitative Study of Young Adults",
+        "authors": [
+          "Marília Gehrke",
+          "Johanna Eggers",
+          "Claes H. de Vreese",
+          "David Nicolas Hopmann"
+        ],
+        "year": 2024,
+        "citation_count": 8,
+        "topics": [
+          "News authentication",
+          "Social media credibility",
+          "Young adults",
+          "Misinformation"
+        ],
+        "abstract": "This study investigates how young adults in Denmark authenticate news they come across on social media. Based on data from 300 entries of news diaries and interviews with 20 participants, we found that this group uses reputation, endorsement, and consistency as the leading shortcuts in the context of news exposure. Though different conceptually, authenticity is linked to trust, and this group perceives Danish national media as the most credible source of information. Moreover, they are self-confident about distinguishing news from the noise caused by misinformation and rarely complete a two-step authentication process to (double) check content. Our theoretical standpoint departs from the normative perspective that journalism is essential for shaping informed citizenship. Thus, while brand reputation is paramount for legacy Danish media to connect with their audience, this centric news consumption might push people away from learning about other countries’ issues.",
+        "url": "https://doi.org/10.1080/21670811.2024.2399622",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2025.2450623",
         "title": "The News Feed is Not a Black Box: A Longitudinal Study of Facebook’s Algorithmic Treatment of News",
         "authors": [
@@ -2313,6 +2334,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/21670811.2025.2490604",
+        "title": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
+        "authors": [
+          "Nikki Usher"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Generative AI",
+          "Journalism",
+          "Technology and media",
+          "Information disorder"
+        ],
+        "abstract": "This essay pushes against hype about generative AI in both journalism and journalism scholarship. Emergent questions around the black box nature of AI, concerns about information disorder, and problems with the theft of intellectual property are recontextualized with a new focus – one that demands scholars think outside of the newsroom, center the natural and the cultural elements of journalism, and ultimately, remain critical about the always already new of new technologies and powerful companies looking to devalue human labor. A warning is issued about generative AI and journalism more generally, pushing us to study the importance of remembering unequal distributions of power and their connections to the rise of authoritarianism.",
+        "url": "https://doi.org/10.1080/21670811.2025.2490604",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/21670811.2024.2435574",
         "title": "This Isn’t Journalism, It’s Propaganda! Patterns of News Media Bias Accusations on Twitter, 2010–2020",
         "authors": [
@@ -2332,27 +2371,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/21670811.2024.2399622",
-        "title": "What Makes News (Seem) Authentic on Social Media? Indicators from a Qualitative Study of Young Adults",
-        "authors": [
-          "Marília Gehrke",
-          "Johanna Eggers",
-          "Claes H. de Vreese",
-          "David Nicolas Hopmann"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "News authentication",
-          "Social media credibility",
-          "Young adults",
-          "Misinformation"
-        ],
-        "abstract": "This study investigates how young adults in Denmark authenticate news they come across on social media. Based on data from 300 entries of news diaries and interviews with 20 participants, we found that this group uses reputation, endorsement, and consistency as the leading shortcuts in the context of news exposure. Though different conceptually, authenticity is linked to trust, and this group perceives Danish national media as the most credible source of information. Moreover, they are self-confident about distinguishing news from the noise caused by misinformation and rarely complete a two-step authentication process to (double) check content. Our theoretical standpoint departs from the normative perspective that journalism is essential for shaping informed citizenship. Thus, while brand reputation is paramount for legacy Danish media to connect with their audience, this centric news consumption might push people away from learning about other countries’ issues.",
-        "url": "https://doi.org/10.1080/21670811.2024.2399622",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/21670811.2025.2450312",
         "title": "News Diversity Under Algorithms: The Effects of Pre-Selected and Self-Selected Personalization on Chinese TikTok (Douyin)",
         "authors": [
@@ -2369,24 +2387,6 @@
         ],
         "abstract": "Existing journalism scholarship has raised the concern of people’s limited news exposure on algorithm-driven social media. Using a series of novel agent-based testing (ABT) experiments, this study collects data from Douyin (the Chinese version of TikTok) and attempts to capture the dynamics of news diversity with complex interaction of algorithm and human agency. Results indicate that the personalized news consumption on Douyin is more diverse in news categories than it would be when occurs by chance. Additionally, algorithmic decisions more than human choices promote exposure to diverse topics in news consumption. We have further quantified whether users can obtain a more balanced news consumption through modifying their interest scope and tendency to engage with unmatched content. These findings are crucial for us to grasp how algorithms shapes users’ news consumption and determine the effectiveness human users can adjust their exposure to a more diverse, opinion-challenging news environment.",
         "url": "https://doi.org/10.1080/21670811.2025.2450312",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/21670811.2025.2490604",
-        "title": "Generative AI and Journalism: Hype, The Always Already New, and Directions for Scholarly Imagination",
-        "authors": [
-          "Nikki Usher"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Generative AI",
-          "Journalism",
-          "Technology and media",
-          "Information disorder"
-        ],
-        "abstract": "This essay pushes against hype about generative AI in both journalism and journalism scholarship. Emergent questions around the black box nature of AI, concerns about information disorder, and problems with the theft of intellectual property are recontextualized with a new focus – one that demands scholars think outside of the newsroom, center the natural and the cultural elements of journalism, and ultimately, remain critical about the always already new of new technologies and powerful companies looking to devalue human labor. A warning is issued about generative AI and journalism more generally, pushing us to study the importance of remembering unequal distributions of power and their connections to the rise of authoritarianism.",
-        "url": "https://doi.org/10.1080/21670811.2025.2490604",
         "topics_llm": true
       },
       {
