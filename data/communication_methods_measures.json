@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-07-06T10:18:53Z",
-  "trending_from": "2024-07-06",
+  "updated_at": "2026-07-13T09:24:33Z",
+  "trending_from": "2024-07-13",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4160,
+        "citation_count": 4166,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2490,
+        "citation_count": 2501,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1811,
+        "citation_count": 1817,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1077,
+        "citation_count": 1085,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 901,
+        "citation_count": 907,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 816,
+        "citation_count": 818,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 423,
+        "citation_count": 424,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 392,
+        "citation_count": 395,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -294,6 +294,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2019.1639145",
+        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
+        "authors": [
+          "Dror Walter",
+          "Yotam Ophir"
+        ],
+        "year": 2019,
+        "citation_count": 223,
+        "topics": [
+          "News framing",
+          "Computational methods",
+          "Topic modeling",
+          "Frame analysis"
+        ],
+        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
+        "url": "https://doi.org/10.1080/19312458.2019.1639145",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1455817",
         "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
         "authors": [
@@ -305,7 +324,7 @@
           "Michael Sedlmair"
         ],
         "year": 2018,
-        "citation_count": 222,
+        "citation_count": 223,
         "topics": [
           "Sentiment analysis",
           "Word embeddings",
@@ -314,25 +333,6 @@
         ],
         "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
         "url": "https://doi.org/10.1080/19312458.2018.1455817",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2019.1639145",
-        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
-        "authors": [
-          "Dror Walter",
-          "Yotam Ophir"
-        ],
-        "year": 2019,
-        "citation_count": 221,
-        "topics": [
-          "News framing",
-          "Computational methods",
-          "Topic modeling",
-          "Frame analysis"
-        ],
-        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
-        "url": "https://doi.org/10.1080/19312458.2019.1639145",
         "topics_llm": true
       },
       {
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 189,
+        "citation_count": 191,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -406,7 +406,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 180,
+        "citation_count": 182,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -458,6 +458,30 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilám Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 155,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2021.1968361",
         "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
         "authors": [
@@ -475,30 +499,6 @@
         ],
         "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
         "url": "https://doi.org/10.1080/19312458.2021.1968361",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilám Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 153,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       },
       {
@@ -648,7 +648,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 122,
+        "citation_count": 123,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -767,7 +767,7 @@
           "Diana C. Mutz"
         ],
         "year": 2017,
-        "citation_count": 99,
+        "citation_count": 100,
         "topics": [
           "Media trust",
           "Press credibility",
@@ -820,6 +820,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2014.903390",
+        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
+        "authors": [
+          "Saraswathi Bellur",
+          "S. Shyam Sundar"
+        ],
+        "year": 2014,
+        "citation_count": 94,
+        "topics": [
+          "Heuristics",
+          "Dual process models",
+          "Research methodology",
+          "Social cognition"
+        ],
+        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
+        "url": "https://doi.org/10.1080/19312458.2014.903390",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2013.873777",
         "title": "Experimental Manipulation of Psychological Involvement with Media",
         "authors": [
@@ -838,25 +857,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2014.903390",
-        "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
-        "authors": [
-          "Saraswathi Bellur",
-          "S. Shyam Sundar"
-        ],
-        "year": 2014,
-        "citation_count": 93,
-        "topics": [
-          "Heuristics",
-          "Dual process models",
-          "Research methodology",
-          "Social cognition"
-        ],
-        "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
-        "url": "https://doi.org/10.1080/19312458.2014.903390",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1555799",
         "title": "Reporting Mobile Social Media Use: How Survey and Experience Sampling Measures Differ",
         "authors": [
@@ -865,7 +865,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 87,
+        "citation_count": 88,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -967,29 +967,71 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312450802063404",
-        "title": "Population-Based Assessment of Exposure to Risk Behaviors in Motion Pictures",
+        "doi": "10.1080/19312458.2016.1150973",
+        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
         "authors": [
-          "James D. Sargent",
-          "Keilah A. Worth",
-          "Michael L. Beach",
-          "Meg Gerrard",
-          "Todd F. Heatherton"
+          "Kim Viborg Andersen",
+          "Claes H. de Vreese",
+          "Erik Albæk"
         ],
-        "year": 2008,
-        "citation_count": 78,
+        "year": 2016,
+        "citation_count": 79,
         "topics": [
-          "Media exposure",
-          "Adolescent substance use",
-          "Motion pictures",
-          "Risk behaviors"
+          "Media exposure measurement",
+          "Survey methodology",
+          "Media consumption",
+          "Self-report validity"
         ],
-        "abstract": "The aim of most population-based studies of media is to relate a specific exposure to an outcome of interest. A research program has been developed that evaluates exposure to different components of movies in an attempt of assess the association of such exposure with the adoption of substance use during adolescence. To assess exposure to movie substance use, one must measure both viewing time and content. In developing the exposure measure, the study team was interested in circumventing a common problem in exposure measurement, where measures often conflate exposure to media with attention to media. Our aim in this paper is to present a validated measure of exposure to entertainment media, the Beach method, which combines recognition of a movie title with content analysis of the movie for substance use, to generate population based measures of exposure to substance use in this form of entertainment.",
-        "url": "https://doi.org/10.1080/19312450802063404",
+        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
+        "url": "https://doi.org/10.1080/19312458.2016.1150973",
         "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/19312458.2026.2697199",
+        "title": "Beyond apps: a method to model full distributions of screen content over time to study media effects",
+        "authors": [
+          "Yikun Chi",
+          "Mu-Jung Cho",
+          "Kimberly M. Molaib",
+          "Xiaoran Sun",
+          "Thomas Robinson",
+          "Nilám Ram",
+          "Byron Reeves"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Screen time measurement",
+          "Media effects",
+          "Smartphone usage patterns",
+          "Deep learning analysis"
+        ],
+        "abstract": "Research on smartphone media use has progressed from aggregate screen-time measures to app-level logs, yet these approaches still obscure the diversity and structure of the content users encounter. We introduce smartphone screen content patterns (content patterns) as a new construct and propose an analytical framework that represents smartphone use as distributions of experienced screen content rather than summaries of time spent on devices or in apps. We operationalize content patterns using deep learning embeddings of moment-by-moment screenshots and formalize use periods as probability distributions over embedding space. This distribution-based representation supports two analytic strategies: Mantel tests to assess covariation between changes in content patterns and outcomes, and k-nearest neighbor regression to evaluate whether content patterns contain sufficient information to reconstruct outcomes. We illustrate the framework with six months of screenomics data from 53 adolescents, including 21 million passively collected screenshots and 542 fortnightly mental health self-reports. Results show that most content variability occurs within applications and time periods, highlighting the limits of app- and time-based measures. Content patterns outperform screen-time measures and provide complementary insights to app-level logs, advancing a content-centric approach to modeling digital media exposure.",
+        "url": "https://doi.org/10.1080/19312458.2026.2697199",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2026.2693637",
+        "title": "Introducing HALC: a general pipeline for the systematic and reliable construction of prompts for automated coding with LLMs in the computational social sciences",
+        "authors": [
+          "Andreas Reich",
+          "Claudia Thoms",
+          "Tobias Schrimpf"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Large Language Models",
+          "Automated Coding",
+          "Computational Social Sciences",
+          "Content Analysis"
+        ],
+        "abstract": "LLMs are seeing widespread use for task automation, including automated coding in the social sciences. However, even though researchers have proposed different prompting strategies, their effectiveness varies across LLMs and tasks. Often trial and error practices are still widespread. Our study aims to fill this gap and evaluate how LLMs can be used in a systematic and transparent way to produce reliable codings in content analyses. We propose HALC — a general pipeline that allows for the systematic and reliable construction of prompts for any given coding task and model. We develop this pipeline based on current literature and findings of a prestudy investigating consistency and influencing factors of LLM codings. We also apply HALC on two other datasets covering different thematic contexts, document types, languages, and coding units to test its applicability. Based on more than three million LLM requests, our results demonstrate that the pipeline is capable of identifying prompts for reliable codings in different settings. We also discuss shortcomings and further potential for development.",
+        "url": "https://doi.org/10.1080/19312458.2026.2693637",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/19312458.2026.2692353",
         "title": "NEClass: a lightweight LLM pipeline for measuring Foreign news coverage",
@@ -1220,7 +1262,7 @@
           "Emese Domahidi"
         ],
         "year": 2025,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Large Language Models",
           "Incivility detection",
@@ -1353,7 +1395,7 @@
           "Alicia Hofelich Mohr"
         ],
         "year": 2024,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Eye-tracking",
           "Object detection",
@@ -1495,7 +1537,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2024,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Statistical methodology",
           "Research validity",
@@ -1557,7 +1599,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1662,7 +1704,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 29,
+        "citation_count": 30,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1683,7 +1725,7 @@
           "Zhiying Yue"
         ],
         "year": 2023,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Keyword selection",
           "Text data retrieval",
@@ -1703,7 +1745,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 23,
+        "citation_count": 24,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1964,49 +2006,6 @@
         ],
         "abstract": "Dispositional communication competencies can be assessed in (a) a generic form that does not include any reference to a particular medium of interaction or in (b) a communication medium-specific version. To date, little is known about the specific media that individuals use as a reference and the weights they assign to them when responding to generic communication items – an important research gap because the use of diverse communication media has risen considerably during the COVID-19 pandemic. Based on media theories, two hypotheses were derived: Generic ratings contain a “hidden” face-to-face (FtF) communication framing that is dominant in the cognitive processing (media naturalness perspective) versus media are equally weighted in the mental aggregate of respondents (adaptation perspective). According to a preregistered study plan, generic and medium-specific communication items were assessed to investigate these hypotheses (referencing FtF, videoconferencing, chat, and e-mail interaction contexts). Training (n = 200) and test (n = 389) datasets were analyzed using latent variable modeling. Results indicated that generic ratings have a strong hidden FtF framing. These hidden framings impact the predictive power of the competencies to explain communication criteria (i.e. communication satisfaction). Exploratory analyses indicated that individual differences in media experience may affect the framings.",
         "url": "https://doi.org/10.1080/19312458.2023.2209833",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2207816",
-        "title": "Is Older Indeed Wiser? Identifying Conflict Communication Patterns in Older and Younger Dating Couples",
-        "authors": [
-          "Rachel S. Blickman",
-          "Lisa A. Neff",
-          "Jennifer S. Beer"
-        ],
-        "year": 2023,
-        "citation_count": 5,
-        "topics": [
-          "Conflict communication",
-          "Aging relationships",
-          "Couples interaction patterns"
-        ],
-        "abstract": "More adults are dating in later life, yet little is known regarding how older adults navigate conflict in their newly formed relationships. Given theories suggesting that older adults are especially skilled in minimizing negativity within their relationships, the current study utilized data from 81 dating couples (age range 30–88) to examine potential age differences in couples’ behavioral patterns during observed conflict discussions. Using sequence analysis, we identified four distinct multi-turn communication patterns, known as conversational motifs, which characterized couples’ discussions: oppositional problem-solving, cooperative problem-solving, positive passivism, and avoidance. Further analyses revealed no significant age differences in the prevalence of these motifs within couples’ conversations. However, age moderated the effect of oppositional problem-solving motifs on post-conversation appraisals for men. If couples engaged in more oppositional problem-solving sequences, younger, but not older, men rated the conversation as less satisfying. The implications of these findings for understanding age differences in communication are discussed.",
-        "url": "https://doi.org/10.1080/19312458.2023.2207816",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2207005",
-        "title": "The Implications of Communication Technologies for Supportive Conversations: A Dynamic Dyadic Systems Approach Examining Turn Transitions",
-        "authors": [
-          "Stephen A. Rains",
-          "Corey A. Pavlich",
-          "Eric Tsetsi",
-          "Anjali Ashtaputre",
-          "Bethany R. Lutovsky",
-          "Chelsie Akers",
-          "Kateřina Němcová"
-        ],
-        "year": 2023,
-        "citation_count": 8,
-        "topics": [
-          "Turn-taking dynamics",
-          "Social support communication",
-          "Communication technology",
-          "Face-to-face vs. mediated communication"
-        ],
-        "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
-        "url": "https://doi.org/10.1080/19312458.2023.2207005",
         "topics_llm": true
       }
     ],

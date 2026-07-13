@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-07-06T10:18:57Z",
-  "trending_from": "2024-07-06",
+  "updated_at": "2026-07-13T09:24:35Z",
+  "trending_from": "2024-07-13",
   "sections": {
     "most_cited": [
       {
@@ -35,7 +35,7 @@
           "Fabio Votta"
         ],
         "year": 2022,
-        "citation_count": 74,
+        "citation_count": 76,
         "topics": [
           "TikTok",
           "Short-form video",
@@ -311,6 +311,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.003.chen",
+        "title": "Visual Framing of Science Conspiracy Videos",
+        "authors": [
+          "Kaiping Chen",
+          "Sang Jung Kim",
+          "Qiantong Gao",
+          "Sebastian Raschka"
+        ],
+        "year": 2022,
+        "citation_count": 20,
+        "topics": [
+          "Visual framing",
+          "Science conspiracy",
+          "YouTube videos",
+          "Computational analysis"
+        ],
+        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
+        "url": "https://doi.org/10.5117/ccr2022.1.003.chen",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2019.1.001.vana",
         "title": "A Roadmap for Computational Communication Research",
         "authors": [
@@ -348,27 +369,6 @@
         ],
         "abstract": "This study uses Monte Carlo simulation techniques to estimate the minimum required levels of intercoder reliability in content analysis data for testing correlational hypotheses, depending on sample size, effect size and coder behavior under uncertainty. The ensuing procedure is analogous to power calculations for experimental designs. In most widespread sample size/effect size settings, the rule-of-thumb that chance-adjusted agreement should be ≥.80 or ≥.667 corresponds to the simulation results, resulting in acceptable α and β error rates. However, this simulation allows making precise power calculations that can consider the specifics of each study’s context, moving beyond one-size-fits-all recommendations. Studies with low sample sizes and/or low expected effect sizes may need coder agreement above .800 to test a hypothesis with sufficient statistical power. In studies with high sample sizes and/or high expected effect sizes, coder agreement below .667 may suffice. Such calculations can help in both evaluating and in designing studies. Particularly in pre-registered research, higher sample sizes may be used to compensate for low expected effect sizes and/or borderline coding reliability (e.g. when constructs are hard to measure). I supply equations, easy-to-use tables and R functions to facilitate use of this framework, along with example code as online appendix.",
         "url": "https://doi.org/10.5117/ccr2021.1.003.geis",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.003.chen",
-        "title": "Visual Framing of Science Conspiracy Videos",
-        "authors": [
-          "Kaiping Chen",
-          "Sang Jung Kim",
-          "Qiantong Gao",
-          "Sebastian Raschka"
-        ],
-        "year": 2022,
-        "citation_count": 19,
-        "topics": [
-          "Visual framing",
-          "Science conspiracy",
-          "YouTube videos",
-          "Computational analysis"
-        ],
-        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
-        "url": "https://doi.org/10.5117/ccr2022.1.003.chen",
         "topics_llm": true
       },
       {
@@ -792,6 +792,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.10.chen",
+        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
+        "authors": [
+          "Calvin Yixiang Cheng",
+          "Weiyu Zhang"
+        ],
+        "year": 2023,
+        "citation_count": 8,
+        "topics": [
+          "Moral foundations",
+          "Computational linguistics",
+          "Chinese language analysis",
+          "Sentiment analysis"
+        ],
+        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
+        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.2.003.vrie",
         "title": "The Sentiment is in the Details",
         "authors": [
@@ -865,25 +884,6 @@
         ],
         "abstract": "Politicians use social media platforms such as Twitter to connect with the public. However, it remains largely unknown who constitutes the public sphere to whom politicians actually connect, talk, and listen. Focusing on the Twitter network of all Swiss MPs, I identified 129,063 Twitter users with whom politicians connected (i.e., their follower–followee network) or with whom they interacted (e.g., [were] replied to or retweeted). I qualitatively analyzed top connected, talking, and listening MPs, and conducted a semi-automated content analysis of the Twitter users to classify them (N = 70.589). Politicians’ audience consists primarily of ordinary citizens, who also react most often to the politicians’ messages. However, politicians listen more often to actors close to politics and the media than to ordinary citizens. Thus, politicians navigate between engaging with everyone without losing control over the communication situation and address key multipliers such journalist to get their messages out.",
         "url": "https://doi.org/10.5117/ccr2020.2.003.kell",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.10.chen",
-        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
-        "authors": [
-          "Calvin Yixiang Cheng",
-          "Weiyu Zhang"
-        ],
-        "year": 2023,
-        "citation_count": 7,
-        "topics": [
-          "Moral foundations",
-          "Computational linguistics",
-          "Chinese language analysis",
-          "Sentiment analysis"
-        ],
-        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
-        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
         "topics_llm": true
       },
       {
@@ -1420,7 +1420,7 @@
           "Alexander P. Christensen"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Emotion Analysis",
           "Transformer Models",
@@ -1558,7 +1558,7 @@
           "Roland Tóth"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Smartphone usage measurement",
           "Android event logs",

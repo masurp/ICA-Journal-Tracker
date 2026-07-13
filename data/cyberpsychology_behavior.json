@@ -1,7 +1,7 @@
 {
   "journal_id": "cyberpsychology_behavior",
-  "updated_at": "2026-07-06T10:19:09Z",
-  "trending_from": "2024-07-06",
+  "updated_at": "2026-07-13T09:24:42Z",
+  "trending_from": "2024-07-13",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Nicholas Edge"
         ],
         "year": 2011,
-        "citation_count": 1140,
+        "citation_count": 1143,
         "topics": [
           "Social media",
           "Facebook",
@@ -49,7 +49,7 @@
           "Jeffrey T. Hancock"
         ],
         "year": 2010,
-        "citation_count": 946,
+        "citation_count": 947,
         "topics": [
           "Facebook",
           "Self-esteem",
@@ -68,7 +68,7 @@
           "Jong-Eun Roselyn Lee"
         ],
         "year": 2010,
-        "citation_count": 924,
+        "citation_count": 926,
         "topics": [
           "Social media",
           "Subjective well-being",
@@ -87,7 +87,7 @@
           "Renata Forste"
         ],
         "year": 2010,
-        "citation_count": 711,
+        "citation_count": 712,
         "topics": [
           "Electronic media use",
           "Academic performance",
@@ -233,7 +233,7 @@
           "James Gray"
         ],
         "year": 2013,
-        "citation_count": 597,
+        "citation_count": 598,
         "topics": [
           "Social media",
           "Body image",
@@ -252,7 +252,7 @@
           "Patricia Noller"
         ],
         "year": 2011,
-        "citation_count": 585,
+        "citation_count": 586,
         "topics": [
           "Facebook intrusion",
           "Romantic jealousy",
@@ -273,7 +273,7 @@
           "Yongjun Sung"
         ],
         "year": 2015,
-        "citation_count": 583,
+        "citation_count": 584,
         "topics": [
           "Social media",
           "User motivation",
@@ -295,7 +295,7 @@
           "Koen Ponnet"
         ],
         "year": 2020,
-        "citation_count": 570,
+        "citation_count": 571,
         "topics": [
           "Social media coping",
           "Adolescent mental health",
@@ -313,7 +313,7 @@
           "William J. Chopik"
         ],
         "year": 2016,
-        "citation_count": 550,
+        "citation_count": 553,
         "topics": [
           "Technology use",
           "Older adults",
@@ -448,7 +448,7 @@
           "Nicole C. Krämer"
         ],
         "year": 2010,
-        "citation_count": 456,
+        "citation_count": 457,
         "topics": [
           "Social comparison theory",
           "Online profiles",
@@ -506,6 +506,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1089/cyber.2018.0110",
+        "title": "Should Machines Express Sympathy and Empathy? Experiments with a Health Advice Chatbot",
+        "authors": [
+          "Bingjie Liu",
+          "S. Shyam Sundar"
+        ],
+        "year": 2018,
+        "citation_count": 425,
+        "topics": [
+          "Chatbot communication",
+          "Empathy expression",
+          "Human-computer interaction",
+          "Health advice systems"
+        ],
+        "abstract": "When we ask a chatbot for advice about a personal problem, should it simply provide informational support and refrain from offering emotional support? Or, should it show sympathy and empathize with our situation? Although expression of caring and understanding is valued in supportive human communications, do we want the same from a chatbot, or do we simply reject it due to its artificiality and uncanniness? To answer this question, we conducted two experiments with a chatbot providing online medical information advice about a sensitive personal issue. In Study 1, participants (N = 158) simply read a dialogue between a chatbot and a human user. In Study 2, participants (N = 88) interacted with a real chatbot. We tested the effect of three types of empathic expression-sympathy, cognitive empathy, and affective empathy-on individuals' perceptions of the service and the chatbot. Data reveal that expression of sympathy and empathy is favored over unemotional provision of advice, in support of the Computers are Social Actors (CASA) paradigm. This is particularly true for users who are initially skeptical about machines possessing social cognitive capabilities. Theoretical, methodological, and practical implications are discussed.",
+        "url": "https://doi.org/10.1089/cyber.2018.0110",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1089/cyber.2016.0259",
         "title": "The Facebook Experiment: Quitting Facebook Leads to Higher Levels of Well-Being",
         "authors": [
@@ -524,32 +543,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1089/cyber.2018.0110",
-        "title": "Should Machines Express Sympathy and Empathy? Experiments with a Health Advice Chatbot",
-        "authors": [
-          "Bingjie Liu",
-          "S. Shyam Sundar"
-        ],
-        "year": 2018,
-        "citation_count": 423,
-        "topics": [
-          "Chatbot communication",
-          "Empathy expression",
-          "Human-computer interaction",
-          "Health advice systems"
-        ],
-        "abstract": "When we ask a chatbot for advice about a personal problem, should it simply provide informational support and refrain from offering emotional support? Or, should it show sympathy and empathize with our situation? Although expression of caring and understanding is valued in supportive human communications, do we want the same from a chatbot, or do we simply reject it due to its artificiality and uncanniness? To answer this question, we conducted two experiments with a chatbot providing online medical information advice about a sensitive personal issue. In Study 1, participants (N = 158) simply read a dialogue between a chatbot and a human user. In Study 2, participants (N = 88) interacted with a real chatbot. We tested the effect of three types of empathic expression-sympathy, cognitive empathy, and affective empathy-on individuals' perceptions of the service and the chatbot. Data reveal that expression of sympathy and empathy is favored over unemotional provision of advice, in support of the Computers are Social Actors (CASA) paradigm. This is particularly true for users who are initially skeptical about machines possessing social cognitive capabilities. Theoretical, methodological, and practical implications are discussed.",
-        "url": "https://doi.org/10.1089/cyber.2018.0110",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1089/cyber.2016.0201",
         "title": "Instagram Use, Loneliness, and Social Comparison Orientation: Interact and Browse on Social Media, But Don't Compare",
         "authors": [
           "Chia‐chen Yang"
         ],
         "year": 2016,
-        "citation_count": 415,
+        "citation_count": 416,
         "topics": [
           "Instagram use",
           "Loneliness",
@@ -570,7 +570,7 @@
           "Junhyoung Kim"
         ],
         "year": 2015,
-        "citation_count": 409,
+        "citation_count": 410,
         "topics": [
           "Internet use",
           "Well-being",
@@ -613,7 +613,7 @@
           "Andrea Gaggioli"
         ],
         "year": 2011,
-        "citation_count": 395,
+        "citation_count": 396,
         "topics": [
           "Positive Technology",
           "Well-being",
@@ -631,7 +631,7 @@
           "Colette Langos"
         ],
         "year": 2012,
-        "citation_count": 383,
+        "citation_count": 385,
         "topics": [
           "Cyberbullying",
           "Definition and theory",
@@ -697,7 +697,7 @@
           "Will Gibson"
         ],
         "year": 2013,
-        "citation_count": 374,
+        "citation_count": 375,
         "topics": [
           "Mobile phone addiction",
           "Adolescent technology use",
@@ -805,7 +805,7 @@
           "Brian A. Primack"
         ],
         "year": 2018,
-        "citation_count": 349,
+        "citation_count": 351,
         "topics": [
           "Social media use",
           "Depressive symptoms",
@@ -1017,7 +1017,7 @@
           "Michael Hoerger"
         ],
         "year": 2010,
-        "citation_count": 288,
+        "citation_count": 289,
         "topics": [
           "Online survey methodology",
           "Participant dropout",
@@ -1030,6 +1030,43 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1177/21522715261468861",
+        "title": "Passive Social Media Use Is Associated with Social Withdrawal (“Hikikomori”) Vulnerability in Autistic and Attention Deficit and Hyperactivity Disorder Young Adults",
+        "authors": [
+          "Mark Brosnan",
+          "Jeff Gavin"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media use",
+          "Hikikomori",
+          "Neurodevelopmental disorders",
+          "Social withdrawal"
+        ],
+        "abstract": "Autism and attention deficit hyperactivity disorder (ADHD) are neurodevelopmental conditions associated with social communication differences and distinctive patterns of online engagement. Both conditions have been linked to increased risk of social withdrawal, yet little research has examined hikikomori vulnerability—a continuum of withdrawal-related tendencies—within a transdiagnostic digital context. This study investigated hikikomori vulnerability among UK-based young adults with autism or ADHD and examined how active and passive social media use and online gaming relate to withdrawal vulnerability. A total of 101 participants aged 18–24 with self-reported diagnoses of autism ( n = 52) or ADHD ( n = 49) completed the Hikikomori Questionnaire (HQ-25M) alongside self-estimates of active and passive online engagement. Although total online time did not differ between groups, autistic participants reported significantly higher overall hikikomori vulnerability than those with ADHD, driven by greater socialization difficulties and physical isolation. Differences in patterns of online engagement were observed at the level of effect sizes, with autistic participants tending toward greater passive social media use and less gaming with others. Across the full sample, passive social media use was positively associated with overall hikikomori vulnerability, particularly the Isolation and Emotional Support dimensions, whereas active social media use showed no such associations. Isolation was additionally correlated with gaming with others. These findings support a transdiagnostic, coping-motivated model of digital engagement, suggesting that passive online behaviors are associated with withdrawal vulnerability across neurodevelopmental conditions. The results extend motivational frameworks of Internet use to hikikomori vulnerability and highlight the importance of balanced and more active forms of digital engagement in relation to withdrawal-related experiences among neurodivergent young adults.",
+        "url": "https://doi.org/10.1177/21522715261468861",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/21522715261458454",
+        "title": "Exploratory Analysis of Behavioral Differences Between Hypersexual and Intimacy-Seeking Offenders in Online Child Grooming: Preliminary Findings Based on a New Dataset of Conversations Secured by Law Enforcement",
+        "authors": [
+          "Zofia Cieślińska",
+          "Krzysztof Hanusz"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online child grooming",
+          "Offender profiling",
+          "Criminal behavior analysis"
+        ],
+        "abstract": "Online child grooming is a form of sexual exploitation facilitated by the dynamic growth of the Internet and social media platforms. A common method for studying this phenomenon involves analyzing the content of conversations between offenders and minors. While most previous research has relied on data collected nearly two decades ago by the Perverted Justice Foundation-limited to interactions between offenders and adults posing as minors-this study introduces a new dataset specific to the Polish context. It includes conversations between suspected offenders and real minors, sourced from criminal cases reviewed by Polish courts.This preliminary analysis focuses on comparing two distinct offender profiles: hypersexual offenders and intimacy-seeking offenders. The study explores differences in their communication strategies, concealment techniques, requests, and the reactions they elicit from minors. The findings provide insight into behavioral patterns associated with each profile and contribute to a more nuanced understanding of offender typologies in online grooming cases.",
+        "url": "https://doi.org/10.1177/21522715261458454",
+        "topics_llm": true
+      },
       {
         "doi": "10.1177/21522715261466015",
         "title": "Post-Breakup Instagram Surveillance: Attachment Style, Personality Traits, and Breakup Distress as Predictors",
@@ -1233,6 +1270,25 @@
         ],
         "abstract": "Virtual influencers (VIs) are increasingly deployed in prosocial campaigns, yet evidence regarding their effectiveness relative to human influencers (HIs) remains limited. This study examines how influencer type (VI vs. HI), emotional expression (happy vs. sad), and language style (formal vs. informal) shape perceived authenticity and subsequent donation intention. Using a 2 × 2 × 2 between-subjects experiment ( N = 400, U.S. adults), we demonstrate that authenticity perceptions for HIs and VIs depend on different combinations of emotional and linguistic cues. Although HIs generally maintain an authenticity advantage, pairing happy emotion with informal language decreases perceived authenticity for HIs while enhancing perceived authenticity for VIs. Under this condition, VIs effectively reverse the typical human authenticity advantage, generating higher perceived authenticity and a favorable indirect effect on donation intention. The findings extend behavioral realism theory by showing that emotional expression and language style jointly shape authenticity perceptions of VIs while revealing distinct authenticity mechanisms for VIs and HIs.",
         "url": "https://doi.org/10.1177/21522715261460965",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/21522715261461616",
+        "title": "Interpersonal and Gaming Behaviors: Contrasting Players With and Without Parasocial Relationships with Fictional Characters",
+        "authors": [
+          "Sebastian Risco",
+          "Devin J. Mills"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Parasocial relationships",
+          "Video gaming",
+          "Interpersonal communication",
+          "Media psychology"
+        ],
+        "abstract": "Parasocial relationships (PRs), one-sided imaginary relationships with media personae, have only recently been explored in the video gaming context, where they appear to influence players’ thoughts and behaviors. They are often assumed to arise from less connection and greater ostracism in day-to-day life, but this hypothesis has not been empirically tested. Further, no study has considered potential differences in interpersonal difficulties that players with PRs may have compared to those without PRs. The present study addresses these gaps using online data from 584 video gamers (Mage = 24.98, SD = 5.70; 81.6% male) recruited from various Reddit gaming communities. Participants completed measures assessing interpersonal difficulties (e.g., vindictiveness, social avoidance, exploitableness, nonassertiveness), satisfaction and frustration needs for competence, autonomy, and relatedness, as well as problematic video gaming (PVG), and video gaming motivations. Results did not support the loneliness and ostracized hypothesis in that players with and without PRs did not differ in connection to others or feeling rejected in their day-to-day life. However, compared to players without PRs, players with PRs report greater interpersonal difficulties. Thus, PRs do not appear to compensate for loneliness or rejection. Rather, it may be that individuals with PRs may experience interpersonal difficulties leading them to turn to PRs to fulfill social needs. Additional findings include players with PRs reporting greater hours of video gaming as well as more severe PVG and stronger fantasy gaming motives. These findings are discussed within the context of broader literature and avenues for further study are provided.",
+        "url": "https://doi.org/10.1177/21522715261461616",
         "topics_llm": true
       },
       {
@@ -2007,66 +2063,6 @@
         "abstract": "Adolescents’ pervasive social media use raises growing concerns about its complex links with mental health, yet predictors distinguishing normative engagement from maladaptive digital addiction remain insufficiently understood. Guided by the Interaction of Person–Affect–Cognition–Execution (I-PACE) model, this study examined whether mental health symptoms (anxiety, depression, ADHD, post-traumatic stress symptoms, eating disorder symptoms) and social factors (bullying, help-seeking attitudes, stigma, social support) differentially predicted social media engagement and digital addiction. In a cross-sectional sample of 524 adolescents (51.0 percent female; aged 15–19 years, M = 17.95, SD = 0.91), hierarchical regression analyses with multiple imputation indicated that the full models explained 12.53 percent of the variance in social media engagement ( R 2 = 0.125) and 26.08 percent of the variance in digital addiction ( R 2 = 0.261). For social media engagement, higher general anxiety ( β = 0.24, p = 0.040) and greater perceived social support ( β = 0.13, p = 0.008) were significant positive predictors, while more favorable help-seeking attitudes were negatively associated with engagement ( β = −0.10, p = 0.039). For digital addiction, perceived social support was a significant positive predictor ( β = 0.14, p = 0.002), while PTSS ( β = 0.14, p = 0.058), bullying ( β = 0.11, p = 0.055), and ADHD symptoms ( β = 0.15, p = 0.092) showed trend-level associations; depressive symptoms were not significant in the fully adjusted model ( β = 0.10, p = 0.317). Overall, findings provide partial support for the I-PACE model and suggest that trauma-related symptoms may warrant further investigation as a subclinical vulnerability associated with problematic digital behaviors.",
         "url": "https://doi.org/10.1177/21522715261434383",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1177/21522715261432850",
-        "title": "From Human Web to Agentic Web: When Machines Become the Internet’s Primary Users",
-        "authors": [
-          "Brenda K. Wiederhold"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Human-Computer Interaction",
-          "AI Agents",
-          "Internet Evolution",
-          "Digital Communication"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1177/21522715261432850",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/21522715261426627",
-        "title": "How Service Robot Anthropomorphism and Employee Self-Efficacy Shape Collaborative Performance",
-        "authors": [
-          "Yaqin Cao",
-          "Xiangjun Hu",
-          "Ming Li",
-          "Wei Lyu"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Human-robot interaction",
-          "Service robots",
-          "Employee performance",
-          "Anthropomorphism"
-        ],
-        "abstract": "This study aims to elucidate the mechanisms through which service robot anthropomorphism and employee self-efficacy influence human-robot collaborative performance in the service industry. A conceptual model was developed in which perceived usefulness, perceived ease of use, perceived competence, and collaborative intention operate as multiple mediators, clarifying how robot-assisted collaboration enhances performance. Using structural equation modeling, we analyzed data from 418 valid questionnaires collected from employees in the hospitality and catering sectors. The results indicate that both service robot anthropomorphism and employee self-efficacy significantly enhance employees' perceptions of usefulness, ease of use, and competence. These perceptions, in turn, positively affect collaborative intention, which subsequently improves collaborative performance. Moreover, perceived usefulness, ease of use, and competence jointly mediate the relationships between the antecedent variables (anthropomorphism and self-efficacy) and collaborative performance. In summary, the findings elucidate a sequential mediation pathway: robot anthropomorphism and employee self-efficacy boost key perceptions, thereby fostering collaborative intention and ultimately enhancing performance. The study provides theoretical insights into the psychological mechanisms through which anthropomorphic design features and employee self-efficacy shape effective human-robot collaboration and offers practical guidance for the successful integration of service robots into service operations.",
-        "url": "https://doi.org/10.1177/21522715261426627",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/21522715261428289",
-        "title": "GRAIT—Growth Readiness in Artificial Intelligence Technologies: Quantifying the Comfort-Growth Paradox",
-        "authors": [
-          "Stefania La Rocca",
-          "Federico Longoni",
-          "Lorenzo Reina",
-          "Giuseppe Riva"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Artificial Intelligence adoption",
-          "Technology readiness",
-          "Organizational change",
-          "Comfort-growth paradox"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1177/21522715261428289",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2099,7 +2095,7 @@
           "Meredith E. David"
         ],
         "year": 2025,
-        "citation_count": 21,
+        "citation_count": 23,
         "topics": [
           "Short-form video",
           "Technology affordances",
@@ -2108,6 +2104,25 @@
         ],
         "abstract": "Currently, time spent online viewing short-form video (SFV) has become an increasingly popular activity. SFV users spend over two hours daily across a variety of SFV platforms. Undergirded by the theory of technological affordances, the present study is the first to investigate the relative strength of three tech affordances-recommendation accuracy, serendipity, and perceived effortlessness offered by three popular SFV platforms: TikTok, Instagram Reels, and YouTube Shorts. A survey of 555 college students was conducted. Each respondent was asked to rate each of the three SFV platforms on an 18-item scale that measured the three tech affordances of interest. Respondents then completed scales that measured social media engagement and social media addiction. As posited, SFV users rated the TikTok platform as offering more tech affordances than Instagram Reels and YouTube Shorts. Study results also found tech affordances derived from TikTok and Instagram Reels indirectly impact addictive social media use through the mediating variable of social media engagement. Study results show affordances offered by SFVs, as designed, are associated with heightened social media engagement, and ultimately, addiction. Future research should investigate these tech affordances and others and their relationship with heightened social media use, as well as how SFV is used (passively or actively) impacts engagement and its potential outcomes.",
         "url": "https://doi.org/10.1089/cyber.2024.0338",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1089/cyber.2024.0407",
+        "title": "Generative Artificial Intelligence and Misinformation Acceptance: An Experimental Test of the Effect of Forewarning About Artificial Intelligence Hallucination",
+        "authors": [
+          "Yoori Hwang",
+          "Se‐Hoon Jeong"
+        ],
+        "year": 2025,
+        "citation_count": 18,
+        "topics": [
+          "AI hallucination",
+          "Misinformation acceptance",
+          "Forewarning interventions",
+          "Generative AI"
+        ],
+        "abstract": "Generative artificial intelligence (AI) tools could create statements that are seemingly plausible but factually incorrect. This is referred to as AI hallucination, which can contribute to the generation and dissemination of misinformation. Thus, the present study examines whether forewarning about AI hallucination could reduce individuals’ acceptance of AI-generated misinformation. An online experiment with 208 Korean adults demonstrated that AI hallucination forewarning reduced misinformation acceptance ( p = 0.001, Cohen’s d = 0.45) while forewarning did not reduce acceptance of true information ( p = 0.91). In addition, the effect of AI hallucination forewarning on misinformation acceptance was moderated by preference for effortful thinking ( p &lt; 0.01) such that forewarning decreased misinformation acceptance when preference for effortful thinking was high (vs. low).",
+        "url": "https://doi.org/10.1089/cyber.2024.0407",
         "topics_llm": true
       },
       {
@@ -2130,25 +2145,6 @@
         ],
         "abstract": "Previous studies have shown that short-form video addiction (SVA) is a significant predictor of adolescent depression. However, little is known about the mediating mechanisms. Guided by the Interaction of Person-Affect-Cognition-Execution model, this study aimed to investigate the relationship between SVA and depression among Chinese adolescents and to examine the mediating role of attentional bias toward positive information (API) and negative information (ANI), including potential gender differences. A total of 4750 Chinese adolescents ( M age = 16.01, SD = 0.76, 62.15 percent male) completed self-reported scales for SVA, API, ANI, and depression. The structural equation modeling results indicated that both API and ANI mediated the relationship between SVA and depression. Moreover, multigroup analyses revealed that the mediating effect of ANI was significantly stronger in female than in male adolescents. These findings enhance our understanding of the relationship between SVA and depression in adolescents and suggest that developing gender-specific interventions could mitigate the detrimental effects of SVA on depression.",
         "url": "https://doi.org/10.1089/cyber.2024.0442",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1089/cyber.2024.0407",
-        "title": "Generative Artificial Intelligence and Misinformation Acceptance: An Experimental Test of the Effect of Forewarning About Artificial Intelligence Hallucination",
-        "authors": [
-          "Yoori Hwang",
-          "Se‐Hoon Jeong"
-        ],
-        "year": 2025,
-        "citation_count": 16,
-        "topics": [
-          "AI hallucination",
-          "Misinformation acceptance",
-          "Forewarning interventions",
-          "Generative AI"
-        ],
-        "abstract": "Generative artificial intelligence (AI) tools could create statements that are seemingly plausible but factually incorrect. This is referred to as AI hallucination, which can contribute to the generation and dissemination of misinformation. Thus, the present study examines whether forewarning about AI hallucination could reduce individuals’ acceptance of AI-generated misinformation. An online experiment with 208 Korean adults demonstrated that AI hallucination forewarning reduced misinformation acceptance ( p = 0.001, Cohen’s d = 0.45) while forewarning did not reduce acceptance of true information ( p = 0.91). In addition, the effect of AI hallucination forewarning on misinformation acceptance was moderated by preference for effortful thinking ( p &lt; 0.01) such that forewarning decreased misinformation acceptance when preference for effortful thinking was high (vs. low).",
-        "url": "https://doi.org/10.1089/cyber.2024.0407",
         "topics_llm": true
       },
       {
@@ -2425,6 +2421,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1089/cyber.2024.0027",
+        "title": "Homelessness in Virtual Reality: Experiencing Social Exclusion Improves Attitudes and Behaviors Toward Unhoused People",
+        "authors": [
+          "Marco Marinucci",
+          "Paolo Riva"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "Virtual reality",
+          "Intergroup attitudes",
+          "Social exclusion",
+          "Homelessness"
+        ],
+        "abstract": "Virtual reality (VR) interventions are receiving increasing attention from research seeking to promote harmonious intergroup relations. Despite this, the effectiveness of VR methods and the underlying mechanisms for enhancing intergroup relations yield mixed findings. The current research examined if a 360° immersive video where participants embodied an unhoused person could improve attitudes and behavioral intentions toward unhoused people by making participants experience social exclusion and its psychological repercussions. The study ( N = 210) adopted a 2 × 2 between-subject design where participants were assigned to embody an unhoused or housed person either watching the video in VR (in 3D using head-mounted devices) or in 2D (on a monitor). The study included a followup after 9 days. Results revealed that embodying the unhoused person (vs. housed control) led to increased experiences of social exclusion, need-threat, and negative emotions. These experiences, in turn, were associated with reduced negative attitudes toward unhoused individuals and heightened intentions to engage in charitable behaviors. Notably, the effects on attitudes and behavioral intentions persisted at the followup, with a stronger impact observed for participants who embodied the unhoused person in 3D compared to 2D. The findings suggest that tailoring VR video interventions to elicit social exclusion by embodying the perspective of marginalized social groups can enhance intergroup attitudes and intentions over time. Overall, this research underscores the prominence of VR-based interventions in improving intergroup harmony compared to less-immersive paradigms.",
+        "url": "https://doi.org/10.1089/cyber.2024.0027",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1089/cyber.2024.0295",
         "title": "Decoding Clickbait: The Impact of Clickbait Types and Structures on Cognitive and Emotional Responses in Online Interactions",
         "authors": [
@@ -2443,25 +2458,6 @@
         ],
         "abstract": "This study delves into the influence of clickbait types (hyperbole, insinuation, visual rhetoric, and puzzle) and structures (emotion-label and emotion-laden words) on user cognitive and emotional responses in an online environment. Using electroencephalography with 32 internet-experienced participants, we analyzed how these different clickbait configurations affect engagement and processing. Our findings highlight that clickbait types such as hyperbole and visual rhetoric swiftly capture attention and enhance emotional engagement, whereas insinuative and puzzling clickbait demand more cognitive effort and deeper processing. In addition, the structure of emotional words significantly influences user responses; emotion-laden words facilitate quicker cognitive processing and enhance emotional reactions, particularly in contexts involving negative emotions. These insights offer valuable implications for content creators and marketers in strategizing ethical clickbait usage, aiming to balance user engagement with information integrity. This research contributes to a nuanced understanding of the interplay between content presentation and user perception, providing a foundation for future explorations into ethical digital content practices.",
         "url": "https://doi.org/10.1089/cyber.2024.0295",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1089/cyber.2024.0027",
-        "title": "Homelessness in Virtual Reality: Experiencing Social Exclusion Improves Attitudes and Behaviors Toward Unhoused People",
-        "authors": [
-          "Marco Marinucci",
-          "Paolo Riva"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "Virtual reality",
-          "Intergroup attitudes",
-          "Social exclusion",
-          "Homelessness"
-        ],
-        "abstract": "Virtual reality (VR) interventions are receiving increasing attention from research seeking to promote harmonious intergroup relations. Despite this, the effectiveness of VR methods and the underlying mechanisms for enhancing intergroup relations yield mixed findings. The current research examined if a 360° immersive video where participants embodied an unhoused person could improve attitudes and behavioral intentions toward unhoused people by making participants experience social exclusion and its psychological repercussions. The study ( N = 210) adopted a 2 × 2 between-subject design where participants were assigned to embody an unhoused or housed person either watching the video in VR (in 3D using head-mounted devices) or in 2D (on a monitor). The study included a followup after 9 days. Results revealed that embodying the unhoused person (vs. housed control) led to increased experiences of social exclusion, need-threat, and negative emotions. These experiences, in turn, were associated with reduced negative attitudes toward unhoused individuals and heightened intentions to engage in charitable behaviors. Notably, the effects on attitudes and behavioral intentions persisted at the followup, with a stronger impact observed for participants who embodied the unhoused person in 3D compared to 2D. The findings suggest that tailoring VR video interventions to elicit social exclusion by embodying the perspective of marginalized social groups can enhance intergroup attitudes and intentions over time. Overall, this research underscores the prominence of VR-based interventions in improving intergroup harmony compared to less-immersive paradigms.",
-        "url": "https://doi.org/10.1089/cyber.2024.0027",
         "topics_llm": true
       },
       {
@@ -2564,6 +2560,33 @@
         ],
         "abstract": "Virtual reality (VR) offers a safe, immersive environment for medical training, but some users remain skeptical about a broader implementation. Our study aims to explore how personality traits, affective responses, and task-related perceptions correlate with attitudes towards VR-based medical emergency training. Forty-seven medical students participated in a 30-minute VR emergency training. Personality traits were assessed using the short version of the Big Five Inventory beforehand, while affective responses (using the Positive and Negative Affect Schedule, PANAS), stress, and motivation were measured before and after the training. Participants also rated the sessions' difficulty, cognitive challenge, and technical maturity of the VR program and their acceptance of VR for training and examination purposes. Cluster analysis identified three groups: Cluster 1, characterized by low technical affinity, limited prior VR experience, and high extraversion, demonstrated the greatest increase in negative affective responses and the lowest VR acceptance. In contrast, cluster 3, with high technical affinity and neuroticism, experienced more positive affective responses and increased motivation, expressing high acceptance of VR for training purposes but some reservation regarding its use in examinations. Cluster 2 displayed balanced affective responses and strong support for VR use in both settings. Thematic analysis identified perceived lack of control due to insufficient medical knowledge, technical issues, and simulation sickness as sources of negative affective responses. In conclusion, personality and affective responses may play a significant role in shaping the attitude towards VR training applications. Uncovering emotional barriers to VR adoption among skeptical users and understanding their underlying reasons may inform future strategies for overcoming them. Given the relatively small sample size, results of this preliminary study should be expanded through further examination of diverse populations and a broader range of VR applications.",
         "url": "https://doi.org/10.1089/cyber.2024.0567",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/21522715251378312",
+        "title": "Psychometric Properties and Measurement Invariance of Video Addiction Scales: The Chinese YouTube Addiction Scale for Taiwan and Hong Kong",
+        "authors": [
+          "Po‐Ching Huang",
+          "Chao‐Ying Chen",
+          "I‐Hua Chen",
+          "Ji‐Kang Chen",
+          "Iqbal Pramukti",
+          "Rwei‐Ling Yu",
+          "Jung‐Sheng Chen",
+          "Chi‐Hsien Huang",
+          "Xuelian Wang",
+          "Amir H. Pakpour"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Video addiction",
+          "Measurement invariance",
+          "YouTube",
+          "Cross-cultural validation"
+        ],
+        "abstract": "As the second most frequently visited website globally, YouTube attracts numerous people who spend significant amounts of time on the platform, potentially leading to problematic consequences. To investigate the underlying mechanism of problematic video-based social media use, the present study translated and culturally adapted the YouTube Addiction Scale (YAS) into two Chinese versions for people in Taiwan and Hong Kong. Psychometric properties and measurement invariance across regions (Taiwan and Hong Kong) and sex (male and female) were further validated. Participants from Taiwan ( N = 887) and Hong Kong ( N = 1,008) completed an online survey comprising the YAS , Assessment of Criteria for Specific Internet-use Disorders ( ACSID-11 ), and Bergen Social Media Addiction Scale ( BSMAS ) between September 2023 and June 2024. The results supported adequate concurrent validity of YAS with the ACSID-11 and BSMAS. A robust single-factorial structure with strong factor loadings and good internal consistency was observed among the two Chinese versions. Measurement invariance across regional and sex groups was also supported by all fit indices. Accordingly, the current findings suggest that the YAS can be used as a validated instrument to assess individuals’ problematic YouTube use in Taiwan and Hong Kong. Future studies may investigate the psychosocial influences of problematic use of video-based social media platforms or use the scale in studies of active and passive use of social media.",
+        "url": "https://doi.org/10.1177/21522715251378312",
         "topics_llm": true
       },
       {
