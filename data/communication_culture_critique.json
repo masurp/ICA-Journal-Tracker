@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_culture_critique",
-  "updated_at": "2026-07-13T09:23:27Z",
-  "trending_from": "2024-07-13",
+  "updated_at": "2026-07-20T08:55:26Z",
+  "trending_from": "2024-07-20",
   "sections": {
     "most_cited": [
       {
@@ -51,7 +51,7 @@
           "Serra Tinic"
         ],
         "year": 2009,
-        "citation_count": 233,
+        "citation_count": 235,
         "topics": [
           "Media industry analysis",
           "Critical media studies",
@@ -282,6 +282,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/cccr.12098",
+        "title": "The Politics of Racism: Constructions of African Immigrants in China on ChinaSMACK",
+        "authors": [
+          "Tessa M. Pfafman",
+          "Christopher J. Carpenter",
+          "Yong Tang"
+        ],
+        "year": 2015,
+        "citation_count": 92,
+        "topics": [
+          "Online racism",
+          "Chinese social media",
+          "African immigrants",
+          "Identity politics"
+        ],
+        "abstract": "The purpose of this study is to identify the politics of Chinese netizens' racism toward Africans on the website, ChinaSMACK. Critical and grounded theory analysis reveals that racism on ChinaSMACK (a) is triggered by perceived threats to identity, economic stability, and State fidelity; (b) exists in a paradoxical relationship with globalization; and (c) perpetuates sexist attitudes toward women. We conclude that racism functions politically to disguise criticism of the government, scapegoat Africans for social problems, and obscure netizens' role in perpetuating social inequality.",
+        "url": "https://doi.org/10.1111/cccr.12098",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1093/ccc/tcx014",
         "title": "The Self-Radicalization of White Men: “Fake News” and the Affective Networking of Paranoia",
         "authors": [
@@ -297,26 +317,6 @@
         ],
         "abstract": "This article examines how paranoia is affectively networked through digital technologies, political performances, and social media to radicalize white men. Using actor-network theory and affect theory, this paper analyzes how acts of domestic terrorism perpetrated by white men are triggered beyond rationales of self-interest through the circulation of paranoia as affective value. Specifically, this piece investigates connections between the online and offline violence spurred by #pizzagate and the Unite the Right rally in Charlottesville, Virginia, by tracing relationships between U.S. counterterrorism efforts, the online proliferation of fake news, accusations of fake news lodged by the state against the press, Facebook algorithms, and agentive bots. This analysis argues that, rather than an individual pathology or self-contained anomaly, paranoia is an ecology that is affectively networked by state and nonstate actors, materializing in processes of digital communication such that the radicalization of white men has violent physical and structural effects.",
         "url": "https://doi.org/10.1093/ccc/tcx014",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/cccr.12098",
-        "title": "The Politics of Racism: Constructions of African Immigrants in China on ChinaSMACK",
-        "authors": [
-          "Tessa M. Pfafman",
-          "Christopher J. Carpenter",
-          "Yong Tang"
-        ],
-        "year": 2015,
-        "citation_count": 91,
-        "topics": [
-          "Online racism",
-          "Chinese social media",
-          "African immigrants",
-          "Identity politics"
-        ],
-        "abstract": "The purpose of this study is to identify the politics of Chinese netizens' racism toward Africans on the website, ChinaSMACK. Critical and grounded theory analysis reveals that racism on ChinaSMACK (a) is triggered by perceived threats to identity, economic stability, and State fidelity; (b) exists in a paradoxical relationship with globalization; and (c) perpetuates sexist attitudes toward women. We conclude that racism functions politically to disguise criticism of the government, scapegoat Africans for social problems, and obscure netizens' role in perpetuating social inequality.",
-        "url": "https://doi.org/10.1111/cccr.12098",
         "topics_llm": true
       },
       {
@@ -666,7 +666,7 @@
           "Jack Z. Bratich"
         ],
         "year": 2019,
-        "citation_count": 56,
+        "citation_count": 57,
         "topics": [
           "Misinformation",
           "Moral panic",
@@ -769,27 +769,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1093/ccc/tcaa015",
-        "title": "Structural Limits to the De-Westernization of the Communication Field: The Editorial Board in Clarivate's JCR System",
-        "authors": [
-          "Afonso de Albuquerque",
-          "Thaiane Oliveira",
-          "Marcelo Alves dos Santos",
-          "Sofia Oliveira Firmo de Albuquerque"
-        ],
-        "year": 2020,
-        "citation_count": 53,
-        "topics": [
-          "De-Westernization",
-          "Academic Publishing",
-          "Editorial Diversity",
-          "Journal Citation Reports"
-        ],
-        "abstract": "Abstract Since the 2000s, calls for de-Westernizing the international communication research have been common, but their practical result has been very modest, as the share of non-western countries remained minimal. This article explores the hypothesis that structural factors hamper the diversity in international media research, based on the analysis of the membership of journals listed in Clarivate's Journal of Citation Reports. The data demonstrate a strong unbalance in favor of the US -- and a particular group of US universities in special -- to the detriment of the non-Western countries. The article discusses these findings in reference to the emergence of academic capitalism and the global rankings logic, which is based on ``universal'' defined from a US (and secondarily Anglophonic) viewpoint. The JCR system plays an important role in this schema, as it artificially introduces scarcity in the international publishing system and, therefore, concentrates symbolic power in the hands of a few.",
-        "url": "https://doi.org/10.1093/ccc/tcaa015",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1753-9137.2008.01029.x",
         "title": "Globalization: A Non-Western Perspective: The Bias of Social Science/Communication Oligopoly",
         "authors": [
@@ -867,6 +846,24 @@
         ],
         "abstract": "This article examines how nation branding intersects with a transnational discourse about Europe's “Roma problem.” We undertake a critical discourse analysis of “Romanians in Europe,” a branding campaign by the Romanian government, implemented in 2008. We address three main questions: What conditions led to the Romanian government's decision to intervene in the “Roma problem” discourse through a commercial campaign? How did the campaign construct a narrative of Romanian national identity, and what was the position allotted to Romania's Roma in it? Finally, what can we learn from this case about hierarchies of othering and the politics of national and transnational identities in Europe after the end of the Cold War and in conditions of growing mediatization and commercialization?",
         "url": "https://doi.org/10.1111/cccr.12064",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/ccc/tcz009",
+        "title": "The Populism of Online Communities: Constructing the Boundary Between “Blameless” People and “Culpable” Others",
+        "authors": [
+          "Michael Hameleers"
+        ],
+        "year": 2019,
+        "citation_count": 47,
+        "topics": [
+          "Populism",
+          "Social media discourse",
+          "Online communities",
+          "In-group/out-group dynamics"
+        ],
+        "abstract": "Abstract Populism has become prevalent all across the globe. To date, however, we know too little about the ways in which populist discourse is constructed by citizens on social media. To advance the field, this study draws on a qualitative content analysis of Facebook posts by ordinary citizens in the Netherlands. The results indicate that Facebook offers a discursive opportunity structure for Dutch citizens to vent their populist discontent and to interact with like-minded others. Online populist discourse on Facebook is hostile and uncivil, predominately targeted at the elites and marginalized groups in society. By providing insights into how ordinary citizens construct the boundary between “us” and “them,” this article enhances our understanding of the construction of citizens’ populist discourse on social network sites (SNSs), and how these expressions contradict the principles of democratic communication.",
+        "url": "https://doi.org/10.1093/ccc/tcz009",
         "topics_llm": true
       }
     ],
@@ -1761,6 +1758,42 @@
         "abstract": "Abstract Colonial gatekeeping in the Anglo-publishing industry has affected Palestinian voices for more than 80 years. In 1936, Palestinian American Matiel Mogannam’s book, The Arab Woman and the Palestine Problem (1937) was rejected by the English publishing house Routledge &amp; Sons as “propaganda” on the advice of former British military officer and noted Zionist figure Norman Bentwich. The Arab Woman and the Palestine Problem is considered the first book written in English that traces the history of the Arab and Palestinian women’s movements in the context of the Palestinian national liberation struggle. This article critiques and debunks Bentwich’s accusations using Mogannam’s writing on the topic of women’s anti-colonial history. It demonstrates that Mogannam’s book was rejected because of its mobilizing potential and that Mogannam’s efforts paved the way for Palestine solidarity in the English-speaking world.",
         "url": "https://doi.org/10.1093/ccc/tcaf034",
         "topics_llm": true
+      },
+      {
+        "doi": "10.1093/ccc/tcaf030",
+        "title": "Review of Free to Hate: How Media Liberalization Enabled Right-wing Populism in Post-1989 Bulgaria Martin Marinos",
+        "authors": [
+          "Ergin Bulut"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Media liberalization",
+          "Right-wing populism",
+          "Post-communist Bulgaria",
+          "Political communication"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1093/ccc/tcaf030",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/ccc/tcaf033",
+        "title": "From wampum to blockchain; from gold rush to “code rush” Indigenous currencies: leaving some for the rest in the digital age. Ashley Cordes, 2025, The MIT Press.",
+        "authors": [
+          "Jordan B. Kinder"
+        ],
+        "year": 2025,
+        "citation_count": 0,
+        "topics": [
+          "Indigenous currencies",
+          "Blockchain technology",
+          "Digital economy",
+          "Cultural sustainability"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1093/ccc/tcaf033",
+        "topics_llm": true
       }
     ],
     "trending": [
@@ -1772,7 +1805,7 @@
           "Aurélien Mondon"
         ],
         "year": 2025,
-        "citation_count": 7,
+        "citation_count": 9,
         "topics": [
           "Tech oligarchy",
           "Democratic alternatives",

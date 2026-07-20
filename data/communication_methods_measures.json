@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-07-13T09:24:33Z",
-  "trending_from": "2024-07-13",
+  "updated_at": "2026-07-20T08:57:26Z",
+  "trending_from": "2024-07-20",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4166,
+        "citation_count": 4179,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2501,
+        "citation_count": 2512,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1817,
+        "citation_count": 1822,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1085,
+        "citation_count": 1091,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 907,
+        "citation_count": 908,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 818,
+        "citation_count": 819,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 448,
+        "citation_count": 449,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 395,
+        "citation_count": 396,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 269,
+        "citation_count": 270,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 228,
+        "citation_count": 229,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 191,
+        "citation_count": 192,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -406,7 +406,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 182,
+        "citation_count": 183,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -470,7 +470,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 155,
+        "citation_count": 157,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -519,26 +519,6 @@
         ],
         "abstract": "Twitter users see content mostly from the other users they select to follow. Networks of connected users on Twitter define the set of content to which each user is exposed. We developed a Selective Exposure Cluster (SEC) method to study these connected networks and their discussion patterns in Twitter. To illustrate the SEC method, we collected networks of connections among users who talked about a shared topic: the U.S. President's State of the Union speech in 2012. Cluster analysis was applied to identify subgroups of users who were densely interconnected. These users followed users from their own cluster more than they connected to users in other clusters. In each cluster, the primary distributors of information—the hub users—were identified, along with the hashtags, hyperlinks, and top-mentioned usernames in the content of the messages. Each of these indicators was labeled in terms of its political orientation. An analysis of the resulting patterns of selective exposure suggests that users participate in fragmented interactions and form divided groups in which people tune in to a narrow segment of the wider range of politically oriented information sources. We discuss the strengths and weaknesses of the proposed Selective Exposure Cluster method.",
         "url": "https://doi.org/10.1080/19312458.2013.813922",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2012.651415",
-        "title": "Cautions Regarding the Interpretation of Regression Coefficients and Hypothesis Tests in Linear Models with Interactions",
-        "authors": [
-          "Andrew F. Hayes",
-          "Carroll J. Glynn",
-          "Michael E. Huge"
-        ],
-        "year": 2012,
-        "citation_count": 136,
-        "topics": [
-          "Linear regression",
-          "Statistical interaction",
-          "Methodology",
-          "Hypothesis testing"
-        ],
-        "abstract": "Manuscripts submitted to Communication Methods and Measures and most empirical journals in the field of communication frequently rely on some kind of linear model in the data analysis. Most of the ...",
-        "url": "https://doi.org/10.1080/19312458.2012.651415",
         "topics_llm": true
       },
       {
@@ -767,7 +747,7 @@
           "Diana C. Mutz"
         ],
         "year": 2017,
-        "citation_count": 100,
+        "citation_count": 101,
         "topics": [
           "Media trust",
           "Press credibility",
@@ -799,24 +779,6 @@
         ],
         "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
         "url": "https://doi.org/10.1080/19312458.2022.2109608",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2019.1594742",
-        "title": "The Reliability and Temporal Stability of Self-reported Media Exposure: A Meta-analysis",
-        "authors": [
-          "Michael Scharkow"
-        ],
-        "year": 2019,
-        "citation_count": 95,
-        "topics": [
-          "Media exposure measurement",
-          "Self-report reliability",
-          "Meta-analysis",
-          "Audience research"
-        ],
-        "abstract": "The measurement of media exposure is essential to not only traditional audience research, but also media effects research which relies on accurate estimates of media exposure. Even in the age of digital trace data and passive audience measurement, the workhorse of basically all communication research is self-report data. This article presents a meta-analysis of the reliability and temporal stability of media exposure self-reports in 33 panel studies. Results from a Bayesian multilevel analysis show that self-reported media exposure was moderately reliable (0.69, 90% HDI: 0.65, 0.72) and highly stable (0.90, 90% HDI: 0.88, 0.92). In line with previous studies, the reliability of media exposure measures was higher in adult samples (0.72, 90% HDI: 0.69, 0.76) compared to adolescents (0.60, 90% HDI: 0.53, 0.66). Rank-order stability of media exposure was comparable in adult (0.91, 90% HDI: 0.89, 0.93) and adolescent samples (0.85, 90% HDI: 0.81, 0.90). Moderation analyses showed that self-reported exposure to specific outlets was more reliable than general media use in adult samples. Media-specific differences in reliability were only found in adolescent samples. Overall, moderate reliability in combination with high temporal stability poses important challenges for scholars investigating causes and consequences of media exposure.",
-        "url": "https://doi.org/10.1080/19312458.2019.1594742",
         "topics_llm": true
       },
       {
@@ -865,7 +827,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 88,
+        "citation_count": 90,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -984,6 +946,48 @@
         ],
         "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
         "url": "https://doi.org/10.1080/19312458.2016.1150973",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312450802063404",
+        "title": "Population-Based Assessment of Exposure to Risk Behaviors in Motion Pictures",
+        "authors": [
+          "James D. Sargent",
+          "Keilah A. Worth",
+          "Michael L. Beach",
+          "Meg Gerrard",
+          "Todd F. Heatherton"
+        ],
+        "year": 2008,
+        "citation_count": 78,
+        "topics": [
+          "Media exposure",
+          "Substance use",
+          "Adolescent behavior",
+          "Movie content analysis"
+        ],
+        "abstract": "The aim of most population-based studies of media is to relate a specific exposure to an outcome of interest. A research program has been developed that evaluates exposure to different components of movies in an attempt of assess the association of such exposure with the adoption of substance use during adolescence. To assess exposure to movie substance use, one must measure both viewing time and content. In developing the exposure measure, the study team was interested in circumventing a common problem in exposure measurement, where measures often conflate exposure to media with attention to media. Our aim in this paper is to present a validated measure of exposure to entertainment media, the Beach method, which combines recognition of a movie title with content analysis of the movie for substance use, to generate population based measures of exposure to substance use in this form of entertainment.",
+        "url": "https://doi.org/10.1080/19312450802063404",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312450903378925",
+        "title": "Exposure, Attention, or “Use” of News? Assessing Aspects of the Reliability and Validity of a Central Concept in Political Communication Research",
+        "authors": [
+          "William P. Eveland",
+          "Myiah J. Hutchens",
+          "Fei Shen"
+        ],
+        "year": 2009,
+        "citation_count": 77,
+        "topics": [
+          "News media use",
+          "Measurement validity",
+          "Political communication research",
+          "Media exposure and attention"
+        ],
+        "abstract": "The concept of news media use 1 1Although others have used the broader term “media orientations” (McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), we employ the term “use” as a superordinate label that can subsume exposure, attention, or some combination of the two. More than 20 studies since 2004 have employed this term in their titles or abstracts alone, and it seems to us a useful shorthand for both the behavioral (exposure) and cognitive (attention) components of experiencing news. Matthew Barnidge is a Postdoctoral Researcher, Department of Communication, University of Vienna. has been at the center of political communication research during the past several decades. Historically, scholars have employed measures of exposure to news (Atkin, Galloway, & Nayman, 1976 Atkin, C. K., Galloway, J. and Nayman, O. B. 1976. News media exposure, political knowledge and campaign interest. Journalism Quarterly, 53: 231–237. [Crossref], [Web of Science ®] , [Google Scholar]), attention to news (Chaffee & Schleuder, 1986 Chaffee, S. H. and Schleuder, J. 1986. Measurement and effects of attention to media news. Human Communication Research, 13: 76–107. [Crossref], [Web of Science ®] , [Google Scholar]; McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), and reliance on news (Culbertson & Stempel, 1986 Culbertson, H. M. and Stempel, G. H. I II. 1986. How media use and reliance affect knowledge level. Communication Research, 13: 579–602. [Crossref], [Web of Science ®] , [Google Scholar]) to tap this concept. Moreover, they have been interested in determining the influence of the use of news on various political outcomes, including political knowledge, political participation, and public opinion. Despite a massive accumulation of literature on these topics, what is missing is a consistent and validated survey measure of news use (Chaffee, 2001 Chaffee, S. 2001. Studying the new communication of politics. Political Communication, 18: 237–244. [Taylor & Francis Online], [Web of Science ®] , [Google Scholar]). Given the centrality of this concept and its measurement to the field, it seems appropriate that efforts to better understand the implication of various conceptualizations and measurement approaches be undertaken. Some research on this topic, with an exclusive emphasis on exposure measures, has appeared in recent years (e.g., Althaus & Tewksbury, 2007 Althaus, S. L. and Tewksbury, D. H. 2007. Toward a new generation of media use measures for the ANES., Report to the Board of Overseers, American National Election Study [Google Scholar]; Chang & Krosnick, 2003 Chang, L. C. and Krosnick, J. A. 2003. Measuring the frequency of regular behaviors: Comparing the “typical week” to the “past week.”. Sociological Methodology, 33: 55–80. [Crossref], [Web of Science ®] , [Google Scholar]), but more is needed, particularly given the heavy use of both exposure and attention measures in the extant literature. In this study, we focus on the internal consistency, dimensional structure, and some aspects of validity of measures of frequency of exposure and attention to various news media sources as predictors of political knowledge. We also address analysis issues that follow from the measurement issues. Following prior research (e.g., Price & Zaller, 1993 Price, V. and Zaller, J. 1993. Who gets the news? Alternative measures of news reception and their implications for research. Public Opinion Quarterly, 57: 133–164. [Crossref], [Web of Science ®] , [Google Scholar]), we focus on political knowledge as an important validity criterion, although we certainly acknowledge that other criteria, such as political participation, may be equally important.",
+        "url": "https://doi.org/10.1080/19312450903378925",
         "topics_llm": true
       }
     ],
@@ -1129,26 +1133,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2026.2613829",
-        "title": "Navigating Ambiguities: A Systematic Review and Comparative Analysis of Social Bot Detection Methods in Communication Research",
-        "authors": [
-          "Xiao Meng",
-          "Xiaohui Wang",
-          "Tai-Quan Peng"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Social bots",
-          "Bot detection methods",
-          "Computational communication",
-          "Social media analysis"
-        ],
-        "abstract": "The proliferation of social bots poses significant challenges for authentic online communication, motivating a growing body of research in communication studies. Yet, conceptual ambiguities and methodological inconsistencies continue to undermine the reliability and replicability of social bot research. This study reviews recent work on social bots, revealing a frequent mismatch between detection methods and the types of bots being investigated. To address these issues, we propose a typology based on three dimensions: intention (benign vs. malicious), coordination (independent vs. coordinated), and operation (rule-based vs. generative). We further build a multiclass dataset of 4,071 bots and 6,386 humans from Bluesky and evaluate four major detection methods: rule-based approaches, supervised machine learning, unsupervised approaches, and large language model-based techniques. By highlighting the strengths and limitations of each, we advocate for multimethod strategies to better respond to evolving bot behaviors. We conclude with recommendations for standardizing detection practices and enhancing methodological rigor in social bot research.",
-        "url": "https://doi.org/10.1080/19312458.2026.2613829",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2025.2605946",
         "title": "The platform matters: cross-platform differences in data donation willingness, behavior, and bias",
         "authors": [
@@ -1189,26 +1173,6 @@
         ],
         "abstract": "Digital trace data are increasingly used across the social and behavioral sciences. They allow researchers to access large volumes of highly detailed and continuous information. Such scale and speed cannot be achieved when using traditional sources, such as surveys. Digital traces are also believed to overcome some of the limitations that surveys are criticized for. However, while their use undoubtedly presents researchers with new possibilities, it also introduces new quality challenges that have been increasingly acknowledged. Accounting for these limitations is crucial, as they can lead to biased results and incorrect research findings. Therefore, in this paper, we apply hidden Markov models (HMMs) to digital trace data on Facebook use to assess the nature and incidence of error in measures of Facebook use frequency. HMMs are an attractive method that allows for the estimation and correction of error without the availability of (error-free) gold-standard data, if the assumptions regarding the underlying construct of interest and the nature of the error are met. Our results suggest that the measures derived from digital trace data severely underestimate the frequency of Facebook use for a third of our sample, in particular when not all relevant devices are tracked.",
         "url": "https://doi.org/10.1080/19312458.2025.2573265",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2025.2575468",
-        "title": "Critical, but constructive: defining, detecting, and addressing bias in Computational Social Science",
-        "authors": [
-          "Valerie Hase",
-          "Marko Bachl",
-          "Nathan TeBlunthuis"
-        ],
-        "year": 2025,
-        "citation_count": 3,
-        "topics": [
-          "Computational Social Science",
-          "Bias detection",
-          "Research methodology",
-          "Algorithmic bias"
-        ],
-        "abstract": "Computational Social Science (CSS) increasingly engages in critical discussions about bias in and through computational methods. Two developments drive this shift: first, the recognition of bias as a societal problem, as flawed CSS methods in socio-technical systems can perpetuate structural inequalities; and second, the field’s growing methodological resources, which create not only the opportunity but also the responsibility to confront bias. In this editorial to our Special Issue on CSS and bias, we introduce the contributions and outline a research agenda. In defining bias, we emphasize the importance of embracing epistemological pluralism while balancing the need for standardization with methodological diversity. Detecting bias requires stronger integration of bias detection into validation procedures and the establishment of shared metrics and thresholds across studies. Finally, addressing bias involves adapting established and emerging error-correction strategies from social science traditions to CSS, as well as leveraging bias as an analytical resource for revealing structural inequalities in society. Moving forward, progress in defining, detecting, and addressing bias will require both bottom-up engagement by researchers and top-down institutional support. This Special Issue positions bias as a central theme in CSS – one that the field now has both the tools and the obligation to address.",
-        "url": "https://doi.org/10.1080/19312458.2025.2575468",
         "topics_llm": true
       },
       {
@@ -1549,6 +1513,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2024.2324789",
+        "title": "Automatically Finding Actors in Texts: A Performance Review of Multilingual Named Entity Recognition Tools",
+        "authors": [
+          "Paul Balluff",
+          "Hajo G. Boomgaarden",
+          "Annie Waldherr"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Named Entity Recognition",
+          "Natural Language Processing",
+          "Multilingual NLP",
+          "Actor Detection"
+        ],
+        "abstract": "Named Entity Recognition (NER) is a crucial task in natural language processing and has a wide range of applications in communication science.However, there is a lack of systematic evaluations of available NER tools in the field.In this study, we evaluate the performance of various multilingual NER tools, including rule-based and transformer-based models.We conducted experiments on corpora containing texts in multiple languages and evaluated the F 1 -score, speed, and features of each tool.Our results show that transformer-based language models outperform rule-based models and other NER tools in most languages.However, we found that the performance of the transformer-based models varies depending on the language and the corpus.Our study provides insights into the strengths and weaknesses of NER tools and their suitability for specific languages, which can inform the selection of appropriate tools for future studies and applications in communication science.",
+        "url": "https://doi.org/10.1080/19312458.2024.2324789",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2024.2302125",
         "title": "Coefficient alpha and reliability of communication science measurement scales: A note on Hayes and Coutts",
         "authors": [
@@ -1580,7 +1564,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2024,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Topic Modelling",
           "Named Entity Recognition",
@@ -1608,27 +1592,6 @@
         ],
         "abstract": "Automated classifiers (ACs), often built via supervised machine learning (SML), can categorize large, statistically powerful samples of data ranging from text to images and video. They have become widely popular measurement devices in communication science and related fields. Despite this popularity, even highly accurate classifiers make errors that cause misclassification bias and misleading results when input to downstream statistical analyses–unless such analyses account for these errors. As we show in a systematic literature review of SML applications, communication scholars largely ignore misclassification bias. In principle, existing statistical methods can use “gold standard” validation data, such as that created by human annotators, to correct misclassification bias. We introduce and test such methods, including a new method we design and implement in the R package misclassification_models, via Monte Carlo simulations designed to reveal each method’s limitations, which we also release. Based on our results, we recommend our new error correction method as it is versatile and efficient. In sum, automated classifiers, even those below common accuracy standards or those making systematic misclassifications, can be useful for measurement with careful study design and appropriate error correction methods.",
         "url": "https://doi.org/10.1080/19312458.2023.2293713",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2024.2308369",
-        "title": "Taking communication science and research methodology seriously",
-        "authors": [
-          "Lijiang Shen",
-          "Ye Sun",
-          "Pascal Jürgens",
-          "Baohua Zhou",
-          "Marko Bachl"
-        ],
-        "year": 2024,
-        "citation_count": 5,
-        "topics": [
-          "Communication science",
-          "Research methodology",
-          "Academic epistemology"
-        ],
-        "abstract": "Communication Methods and Measures has made tremendous progress and achievements since its inaugural issue in 2007 and since the last Editorial (Matthes et al., 2016), as reflected in the impact fa...",
-        "url": "https://doi.org/10.1080/19312458.2024.2308369",
         "topics_llm": true
       },
       {
@@ -1754,23 +1717,6 @@
         ],
         "abstract": "The availability of individual-level digital trace data offers exciting new ways to study media uses and effects based on the actual content that people encountered. In this article, we argue that to really reap the benefits of this data, we need to update our methodology for automated text analysis. We review challenges for the automatic identification of theoretically relevant concepts in texts along three dimensions: <i>format/style, language</i>, and <i>modality</i>. These dimensions unveil a significantly higher level of diversity and complexity in individual-level digital trace data, as opposed to the content traditionally examined through automated text analysis in our field. Consequently, they provide a valuable perspective for exploring the limitations of traditional approaches. We argue that recent developments within the field of Natural Language Processing, in particular, <i>transfer learning</i> using <i>transformer-based models</i>, have the potential to aid the development, application, and performance of various computational tools. These tools can contribute to the meaningful categorization of the content of social (and other) media.",
         "url": "https://doi.org/10.1080/19312458.2023.2261372",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2276542",
-        "title": "Acknowledgement",
-        "authors": [
-          "Denise Haunani Solomon"
-        ],
-        "year": 2023,
-        "citation_count": 0,
-        "topics": [
-          "Gratitude expression",
-          "Academic conventions",
-          "Interpersonal communication"
-        ],
-        "abstract": "The editors of the special issue are grateful to numerous people who contributed in essential ways. First and foremost, we acknowledge the encouragement and support of Dr. Lijiang Shen, editor of C...",
-        "url": "https://doi.org/10.1080/19312458.2023.2276542",
         "topics_llm": true
       },
       {
@@ -2006,6 +1952,87 @@
         ],
         "abstract": "Dispositional communication competencies can be assessed in (a) a generic form that does not include any reference to a particular medium of interaction or in (b) a communication medium-specific version. To date, little is known about the specific media that individuals use as a reference and the weights they assign to them when responding to generic communication items – an important research gap because the use of diverse communication media has risen considerably during the COVID-19 pandemic. Based on media theories, two hypotheses were derived: Generic ratings contain a “hidden” face-to-face (FtF) communication framing that is dominant in the cognitive processing (media naturalness perspective) versus media are equally weighted in the mental aggregate of respondents (adaptation perspective). According to a preregistered study plan, generic and medium-specific communication items were assessed to investigate these hypotheses (referencing FtF, videoconferencing, chat, and e-mail interaction contexts). Training (n = 200) and test (n = 389) datasets were analyzed using latent variable modeling. Results indicated that generic ratings have a strong hidden FtF framing. These hidden framings impact the predictive power of the competencies to explain communication criteria (i.e. communication satisfaction). Exploratory analyses indicated that individual differences in media experience may affect the framings.",
         "url": "https://doi.org/10.1080/19312458.2023.2209833",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2207816",
+        "title": "Is Older Indeed Wiser? Identifying Conflict Communication Patterns in Older and Younger Dating Couples",
+        "authors": [
+          "Rachel S. Blickman",
+          "Lisa A. Neff",
+          "Jennifer S. Beer"
+        ],
+        "year": 2023,
+        "citation_count": 5,
+        "topics": [
+          "Conflict communication",
+          "Aging relationships",
+          "Couple dynamics",
+          "Behavioral patterns"
+        ],
+        "abstract": "More adults are dating in later life, yet little is known regarding how older adults navigate conflict in their newly formed relationships. Given theories suggesting that older adults are especially skilled in minimizing negativity within their relationships, the current study utilized data from 81 dating couples (age range 30–88) to examine potential age differences in couples’ behavioral patterns during observed conflict discussions. Using sequence analysis, we identified four distinct multi-turn communication patterns, known as conversational motifs, which characterized couples’ discussions: oppositional problem-solving, cooperative problem-solving, positive passivism, and avoidance. Further analyses revealed no significant age differences in the prevalence of these motifs within couples’ conversations. However, age moderated the effect of oppositional problem-solving motifs on post-conversation appraisals for men. If couples engaged in more oppositional problem-solving sequences, younger, but not older, men rated the conversation as less satisfying. The implications of these findings for understanding age differences in communication are discussed.",
+        "url": "https://doi.org/10.1080/19312458.2023.2207816",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2207005",
+        "title": "The Implications of Communication Technologies for Supportive Conversations: A Dynamic Dyadic Systems Approach Examining Turn Transitions",
+        "authors": [
+          "Stephen A. Rains",
+          "Corey A. Pavlich",
+          "Eric Tsetsi",
+          "Anjali Ashtaputre",
+          "Bethany R. Lutovsky",
+          "Chelsie Akers",
+          "Kateřina Němcová"
+        ],
+        "year": 2023,
+        "citation_count": 8,
+        "topics": [
+          "Social support",
+          "Turn-taking",
+          "Communication technology",
+          "Mediated communication"
+        ],
+        "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
+        "url": "https://doi.org/10.1080/19312458.2023.2207005",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2183188",
+        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
+        "authors": [
+          "Kilian Buehling"
+        ],
+        "year": 2023,
+        "citation_count": 24,
+        "topics": [
+          "Social media data",
+          "Message deletion",
+          "Computational analysis",
+          "Data bias"
+        ],
+        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
+        "url": "https://doi.org/10.1080/19312458.2023.2183188",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2176474",
+        "title": "Leveraging Data Donations for Communication Research: Exploring Drivers Behind the Willingness to Donate",
+        "authors": [
+          "Nico Pfiffner",
+          "Thomas N. Friemel"
+        ],
+        "year": 2023,
+        "citation_count": 41,
+        "topics": [
+          "Data donation",
+          "Digital trace data",
+          "Privacy concerns",
+          "Research methodology"
+        ],
+        "abstract": "Using data donations to collect digital trace data holds great potential for communication research, which has not yet been fully realized. Besides limited awareness and expertise among researchers, a central challenge is to motivate people to donate their personal data. Therefore, this article investigates which factors affect people’s willingness to donate across different platforms and data types. The study applies a multilevel approach that explains the reported willingness to donate different types of data (level 1) belonging to different platforms (level 2) from potential data donors with individual characteristics (level 3) to a hypothetical research project. The analysis is based on data collected through a national online survey (n = 833). We find higher willingness to donate YouTube data compared to Facebook, Instagram, or Google, as well as relevant influencing factors at all three levels. Greater willingness is found for lower perceived sensitivity and higher perceived relevance of the data (level of data type), greater perceived behavioral control to request and submit the data (platform level), more favorable attitudes toward data donation and the donation purpose, as well as lower contextual privacy concerns (individual level). Based on these findings, practical implications for future data donation studies are proposed.",
+        "url": "https://doi.org/10.1080/19312458.2023.2176474",
         "topics_llm": true
       }
     ],

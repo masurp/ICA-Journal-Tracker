@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-07-13T09:24:35Z",
-  "trending_from": "2024-07-13",
+  "updated_at": "2026-07-20T08:57:37Z",
+  "trending_from": "2024-07-20",
   "sections": {
     "most_cited": [
       {
@@ -332,28 +332,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2019.1.001.vana",
-        "title": "A Roadmap for Computational Communication Research",
-        "authors": [
-          "Wouter van Atteveldt",
-          "Drew Margolin",
-          "Cuihua Shen",
-          "Damian Trilling",
-          "René Weber"
-        ],
-        "year": 2019,
-        "citation_count": 20,
-        "topics": [
-          "Computational Communication",
-          "Research Methods",
-          "Reproducible Science",
-          "Journal Publishing"
-        ],
-        "abstract": "Computational Communication Research (CCR) is a new open access journal dedicated to publishing high quality computational research in communication science. This editorial introduction describes the role that we envision for the journal. First, we explain what computational communication science is and why a new journal is needed for this subfield. Then, we elaborate on the type of research this journal seeks to publish, and stress the need for transparent and reproducible science. The relation between theoretical development and computational analysis is discussed, and we argue for the value of null-findings and risky research in additive science. Subsequently, the (experimental) two-phase review process is described. In this process, after the first double-blind review phase, an editor can signal that they intend to publish the article conditional on satisfactory revisions. This starts the second review phase, in which authors and reviewers are no longer required to be anonymous and the authors are encouraged to publish a preprint to their article which will be linked as working paper from the journal. Finally, we introduce the four articles that, together with this Introduction, form the inaugural issue.",
-        "url": "https://doi.org/10.5117/ccr2019.1.001.vana",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2021.1.003.geis",
         "title": "Statistical Power in Content Analysis Designs: How Effect Size, Sample Size and Coding Accuracy Jointly Affect Hypothesis Testing – A Monte Carlo Simulation Approach.",
         "authors": [
@@ -369,6 +347,28 @@
         ],
         "abstract": "This study uses Monte Carlo simulation techniques to estimate the minimum required levels of intercoder reliability in content analysis data for testing correlational hypotheses, depending on sample size, effect size and coder behavior under uncertainty. The ensuing procedure is analogous to power calculations for experimental designs. In most widespread sample size/effect size settings, the rule-of-thumb that chance-adjusted agreement should be ≥.80 or ≥.667 corresponds to the simulation results, resulting in acceptable α and β error rates. However, this simulation allows making precise power calculations that can consider the specifics of each study’s context, moving beyond one-size-fits-all recommendations. Studies with low sample sizes and/or low expected effect sizes may need coder agreement above .800 to test a hypothesis with sufficient statistical power. In studies with high sample sizes and/or high expected effect sizes, coder agreement below .667 may suffice. Such calculations can help in both evaluating and in designing studies. Particularly in pre-registered research, higher sample sizes may be used to compensate for low expected effect sizes and/or borderline coding reliability (e.g. when constructs are hard to measure). I supply equations, easy-to-use tables and R functions to facilitate use of this framework, along with example code as online appendix.",
         "url": "https://doi.org/10.5117/ccr2021.1.003.geis",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.001.vott",
+        "title": "Going Micro to Go Negative?",
+        "authors": [
+          "Fabio Votta",
+          "Arman Noroozian",
+          "Tom Dobber",
+          "Natali Helberger",
+          "Claes H. de Vreese"
+        ],
+        "year": 2023,
+        "citation_count": 19,
+        "topics": [
+          "Negative advertising",
+          "Microtargeting",
+          "Political campaigns",
+          "Incivility"
+        ],
+        "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
+        "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
         "topics_llm": true
       },
       {
@@ -413,28 +413,6 @@
         ],
         "abstract": "Computational communication science (CCS) is embraced by many as a fruitful methodological approach to studying communication in the digital era. However, theoretical advances have not been considered equally important in CCS. Specifically, we observe an emphasis on mid-range and micro theories that misses a larger discussion on how macro-theoretical frameworks can serve CCS scholarship. With this article, we aim to stimulate such a discussion. Although macro frameworks might not point directly to specific questions and hypotheses, they shape our research through influencing which kinds of questions we ask, which kinds of hypotheses we formulate, and which methods we find adequate and useful. We showcase how three selected theoretical frameworks might advance CCS scholarship in this way: (1) complexity theory, (2) theories of the public sphere, and (3) mediatization theory. Using online protest as an example, we discuss how the focus (and the blind spots) of our research designs shifts with each framework.",
         "url": "https://doi.org/10.5117/ccr2021.02.002.wald",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.001.vott",
-        "title": "Going Micro to Go Negative?",
-        "authors": [
-          "Fabio Votta",
-          "Arman Noroozian",
-          "Tom Dobber",
-          "Natali Helberger",
-          "Claes H. de Vreese"
-        ],
-        "year": 2023,
-        "citation_count": 18,
-        "topics": [
-          "Negative advertising",
-          "Microtargeting",
-          "Political campaigns",
-          "Incivility"
-        ],
-        "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
-        "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
         "topics_llm": true
       },
       {
@@ -772,6 +750,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
+        "authors": [
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2023,
+        "citation_count": 8,
+        "topics": [
+          "Topic modeling",
+          "Validation methods",
+          "Model evaluation",
+          "Text analysis"
+        ],
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.006.mali",
         "title": "Representations of Racial Minorities in Popular Movies",
         "authors": [
@@ -846,26 +844,6 @@
         ],
         "abstract": "Most common methods for automatic text analysis in communication science ignore syntactic information, focusing on the occurrence and co-occurrence of individual words, and sometimes n-grams. This is remarkably effective for some purposes, but poses a limitation for fine-grained analyses into semantic relations such as who does what to whom and according to what source. One tested, effective method for moving beyond this bag-of-words assumption is to use a rule-based approach for labeling and extracting syntactic patterns in dependency trees. Although this method can be used for a variety of purposes, its application is hindered by the lack of dedicated and accessible tools. In this paper we introduce the rsyntax R package, which is designed to make working with dependency trees easier and more intuitive for R users, and provides a framework for combining multiple rules for reliably extracting useful semantic relations.",
         "url": "https://doi.org/10.5117/ccr2021.2.003.welb",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 7,
-        "topics": [
-          "Topic modeling",
-          "Validation methods",
-          "Model evaluation",
-          "Text analysis"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {
@@ -950,24 +928,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.1.000.casa",
-        "title": "Introduction to the Special Issue on Images as Data",
-        "authors": [
-          "Andreu Casas",
-          "Nora Webb Williams"
-        ],
-        "year": 2022,
-        "citation_count": 6,
-        "topics": [
-          "Visual data analysis",
-          "Image methodology",
-          "Digital humanities"
-        ],
-        "abstract": "Amsterdam University Press is a leading publisher of academic books, journals and textbooks in the Humanities and Social Sciences. Our aim is to make current research available to scholars, students, innovators, and the general public. AUP stands for scholarly excellence, global presence, and engagement with the international academic community.",
-        "url": "https://doi.org/10.5117/ccr2022.1.000.casa",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.1.10.lian",
         "title": "Word Embedding Enrichment for Dictionary Construction: An Example of Incivility in Cantonese",
         "authors": [
@@ -1023,9 +983,172 @@
         "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in compar- ative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
         "url": "https://doi.org/10.5117/ccr2023.2.3.lich",
         "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.006.dinh",
+        "title": "Are we projecting gender biases to ungendered things? Differences in referring to female versus male named hurricanes in 33 years of news coverage",
+        "authors": [
+          "Ly Dinh",
+          "Janina Sarol",
+          "Sullam Jeoung",
+          "Jana Diesner"
+        ],
+        "year": 2023,
+        "citation_count": 6,
+        "topics": [
+          "Gender bias",
+          "Natural language processing",
+          "Disaster communication",
+          "Hurricanes"
+        ],
+        "abstract": "Hurricanes are ungendered phenomena that are ascribed with gendered names. We examined if news information about the hurricanes are presented using gendered language. This work helps identify if people use gender stereotyping when referring to gender-neutral entities, and what these stereotypes might be. We use methods from natural language processing, qualitative text analysis, and statistics to analyze how gender is expressed in disaster-related news via text-level indicators: (1) pronouns, (2) lexical, syntactic, and semantic features of words related to hurricanes, and (3) types of sources quoted. Our sample contains news articles on 47 hurricane events from 1979 to 2012 from two weeks before to two weeks after landfall. We find that: (1) hurricanes are mainly referred to by gender-neutral pronouns, however, (2) when gendered pronouns are used, female-named hurricanes are five times more likely to be referred to by a gendered pronoun than male-named hurricanes, (3) adjectives and verbs used in discussing female-named hurricanes are on average more negative than those used for reporting on male-named-hurricanes, and (4) governmental sources are most frequently quoted as authority voices (voices from citizens and non-governmental entities are catching up), and a majority of these voices do not directly mention hurricanes with gendered references.",
+        "url": "https://doi.org/10.5117/ccr2023.1.006.dinh",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.1.010.bald",
+        "title": "A Character Recognition Tool for Automatic Detection of Social Characters in Visual Media Content",
+        "authors": [
+          "Joshua Baldwin",
+          "Ralf Schmälzle"
+        ],
+        "year": 2022,
+        "citation_count": 5,
+        "topics": [
+          "Content analysis",
+          "Character recognition",
+          "Visual media",
+          "Automated coding"
+        ],
+        "abstract": "Content analysis is the go-to method for understanding how social characters, such as public figures or movie characters, are portrayed in media messages. It is an indispensable method to investigate character-related media processes and effects. However, conducting large-scale content-analytic studies is a taxing and expensive endeavor that requires hours of coder training and incurs substantial costs. This problem is particularly acute for video-based media, where coders often have to exert extensive time and energy to watch and interpret dynamic content. Here we present a Character-Recognition-Tool (CRT) that enables communication scholars to quickly process large amounts of video data to identify occurrences of specific predefined characters using facial recognition and matching. This paper presents the CRT and provides evidence for its validity. The CRT can automate the coding process of on-screen characters while following recommendations that computational tools be scalable, adaptable for novice programmers, and open source to allow for replication.",
+        "url": "https://doi.org/10.5117/ccr2022.1.010.bald",
+        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.5117/ccr2026.4.5.vand",
+        "title": "What’s on Their For You Page? A Large-Scale Computational Approach to Analyzing Adolescents’ TikTok Archives Through Hashtag Topic Modeling",
+        "authors": [
+          "Amber van der Wal",
+          "Inga Vondenhof",
+          "Konrad Mikalauskas",
+          "Rebecca Godard",
+          "Kfir Zioni",
+          "Felicia Löecherbach",
+          "Ine Beyens"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "TikTok",
+          "Adolescent media consumption",
+          "Topic modeling",
+          "Social media content analysis"
+        ],
+        "abstract": "Short-form video platforms like TikTok play a central role in adolescents’ lives, yet little is known about the actual content they engage with. This study presents a large-scale, computational approach to analyze adolescents’ TikTok feeds using hashtag-based topic modeling applied to user-donated archives from 102 Dutch adolescents (ages 15–19). Using BERTopic, we identified 304 coherent topics, organized them into 32 higher-order content categories, and validated both through a structured human validation study. Analyses reveal that adolescents’ feeds are dominated by entertainment and leisure content, with ‘Media productions,’ ‘Sports,’ ‘Style and appearance,’ ‘Hobbies,’ and ‘Gaming’ as the most prevalent categories. At the same time, there is marked individual variation: niche areas such as K-pop, anime, and specific fandoms are central to some users’ feeds. Latent profile analysis identified six distinct, gendered content-consumption profiles. Together, the findings shed light on adolescents’ TikTok exposure, revealing predominantly benign but highly personalized media diets in which appearance-focused content stands out as a potential risk domain. In all, our approach offers a scalable, efficient way to map short-form video content. Linking these maps to individual users’ media diets opens new possibilities for examining how different content patterns relate to user experiences and outcomes.",
+        "url": "https://doi.org/10.5117/ccr2026.4.5.vand",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.4.4.hu",
+        "title": "Seeing, Reading, Hearing, Interpreting: Computational Multimodal Framing Analysis in Short-Form News Videos",
+        "authors": [
+          "Haohan Lily Hu",
+          "King-wa Fu"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Multimodal analysis",
+          "Framing analysis",
+          "Short-form video news",
+          "Large language models"
+        ],
+        "abstract": "Short-form news videos convey meaning through intertwined visual, auditory, and textual cues, yet most computational approaches analyze them primarily through textual features (e.g., transcripts) or isolated visual elements. Audio elements (e.g., music, speech, ambient sound), video-length visual dynamics, and their interactions remain largely underexamined. This study evaluates how effectively single-modality (visual, audio, text) and multimodal large language model (LLM)-assisted approaches identify frames in short-form news videos. Using 2,957 TikTok videos about the Russia-Ukraine war from three mainstream outlets (CNN, CGTN Europe, The Kyiv Independent), we compare LLM-assisted automated frame detection against manually coded ground truth across six frame categories: Conflict, Human Interest, Responsibility, Morality, Economic Consequence, and Diplomatic/Political Leader. Building on prior semiotic frameworks of image-text relations, we examine how modality interactions (complementary, reinforcing, or independent) shape overall multimodal framing outcome. We further implement a human-in-the-loop validation protocol to clarify the practical limits of automated inference. Benchmark results show that multimodal frameworks outperform single-modality approaches, though the modest improvement over text-only detection raises questions about cost-benefit tradeoffs for large-scale applications. Human judgment remains essential for disambiguating abstract frames, underscoring that methodological choices must account for both the multimodal nature of video and the practical limits of computational inference.",
+        "url": "https://doi.org/10.5117/ccr2026.4.4.hu",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.4.3.wohl",
+        "title": "Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok",
+        "authors": [
+          "Inga K. Wohlert",
+          "Davide Vega",
+          "Matteo Magnani",
+          "Alexandra Segerberg"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Coordinated behavior detection",
+          "Multimodal analysis",
+          "TikTok",
+          "Political communication"
+        ],
+        "abstract": "Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.",
+        "url": "https://doi.org/10.5117/ccr2026.4.3.wohl",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.10.sahi",
+        "title": "Digital Mirrors in Motion: A Tool for Measuring Gendered Movement in Short Videos",
+        "authors": [
+          "Gökçe Şahin",
+          "Ruben Bach",
+          "Christoph Kern"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "gendered self-presentation",
+          "body movement analysis",
+          "short-form video",
+          "visual communication"
+        ],
+        "abstract": "Visual self-representation on social media is a central concern in communication research, as bodily posture and movement convey gendered social codes that shape audience perceptions and contribute to the reproduction of stereotypes. While previous research has identified gendered body-pose patterns in static Instagram imagery, contemporary platform communication is increasingly dominated by short-form video formats, where self-presentation unfolds dynamically over time. Building on Tsolak &amp; Kühne (2025), who identified 150 body-pose clusters in Instagram imagery using OpenPose, this paper introduces an open-source research tool for analyzing gendered bodily self-presentation in video. Using the original raw keypoint dataset, we implemented an independent unsupervised learning pipeline to derive 150 pose prototypes through K-means clustering. These prototypes form the basis of a browser-based application that performs frame-by-frame pose classification using the MediaPipe framework. To bridge differences between OpenPose and MediaPipe landmarks, the tool employs a custom mapping layer that aligns live video data with the original clusters. The framework enables communication researchers to trace how gendered bodily performances unfold over time in short-form video content that now dominates social media engagement.",
+        "url": "https://doi.org/10.5117/ccr2026.1.10.sahi",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.7.schr",
+        "title": "In search of truth: A refined approach to collecting and annotating data for BERT-based misinformation detection",
+        "authors": [
+          "Lotte L. Schrijver",
+          "Rens Vliegenthart",
+          "Pearl Dykstra"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Misinformation detection",
+          "BERT machine learning",
+          "Data annotation",
+          "COVID-19 tweets"
+        ],
+        "abstract": "Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.",
+        "url": "https://doi.org/10.5117/ccr2026.1.7.schr",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.6.kohn",
+        "title": "Put your Data where your Mouth is: Exploring the Viability of WhatsApp Data Donations to investigate Interpersonal Relationships",
+        "authors": [
+          "Julian Kohne",
+          "Christian Montag"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Data donation",
+          "WhatsApp messaging",
+          "Interpersonal relationships",
+          "Privacy concerns"
+        ],
+        "abstract": "This study combined a questionnaire with data donations to explore the viability of anonymized WhatsApp data donations for investigating interpersonal relationships. We examined differences in willingness to donate, actual donations, and participants’ removal of parts of the data before donation (self-censorship) across a range of demographic, psychological and relationship-relevant characteristics. In our opt-in study, about 70% of participants stated to be willing to donate, with younger participants being more willing, and willing participants exhibiting less concerns for privacy than unwilling participants. We found some evidence pointing to women being more willing to donate than men. Overall, we observed an intention-behavior gap with only 68% of willing participants actually donating. We did not find significant differences between donors and non-donors based on univariate tests (e.g., gender, age, personality, relationship status) but found some evidence for personality and sexual orientation as potentially influential factors in a logistic regression model. We discuss implications for conducting WhatsApp data donation studies, limitations, and directions for future research.",
+        "url": "https://doi.org/10.5117/ccr2026.1.6.kohn",
+        "topics_llm": true
+      },
       {
         "doi": "10.5117/ccr2026.2.7.huan",
         "title": "LabelGenius: A Python Library for LLM-based Text-Image Content Labeling",
@@ -1087,6 +1210,96 @@
         ],
         "abstract": "TikTok offers interactive features, such as stitch, duet, and reply-to, that enable creators to respond to others and co-create science content, but it remains unclear whether these features translate into participatory science communication in practice. We developed an AI-powered framework to analyze 2,796 TikTok science short videos with 31,782 image frames and 2,796 audio files, examining how interactive features intersect with communicator identity, communication objectives, and audio-visual presentation strategies. We found that interactive videos were a small share of the overall science videos, yet they showed both promise and risks of participatory science communication: they were actively adopted by scientists and influencers and often used to inform the public and debunk misinformation, but they also facilitated the circulation of pseudoscience. Using latent class analysis, we identified four recurring styles of interactive videos: professional-led explanatory science, ordinary user-led personal commentary on science, influencer-led entertainment or experimental science, and ordinary user-led visual science. This study enriches our understanding of participatory science communication on TikTok and offers an AI-powered analysis framework for studying multimodal science messages on short-video platforms.",
         "url": "https://doi.org/10.5117/ccr2026.4.2.li",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.8.xue",
+        "title": "A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement",
+        "authors": [
+          "Haoning Xue",
+          "Jingwen Zhang",
+          "X J Wang",
+          "Dagyong Kim",
+          "Yunya Song"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Message Sensation Value",
+          "Multimodal features",
+          "Short video engagement",
+          "Computational modeling"
+        ],
+        "abstract": "The contemporary media landscape is characterized by sensational short videos. While prior research examines individual multimodal features’ effects, the collective impact of multimodal features on viewer engagement with short videos remains unknown. Grounded in the theoretical framework of Message Sensation Value (MSV), this study develops and tests a computational model of MSV with multimodal feature analysis and human evaluation of 1,200 short videos. This model that predicts sensory and behavioral engagement was further validated across two unseen datasets from three short video platforms (combined N = 14,492). While MSV is positively associated with sensory engagement, it shows an inverted U-shaped relationship with behavioral engagement: Higher MSV elicits stronger sensory stimulation, but moderate MSV optimizes behavioral engagement. This research advances the theoretical understanding of short video engagement and introduces a robust computational tool for short video research.",
+        "url": "https://doi.org/10.5117/ccr2026.1.8.xue",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.9.obei",
+        "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
+        "authors": [
+          "Abdul Obeid",
+          "Daniel Angus",
+          "Dang Khuong Tran",
+          "Lauren Hayden",
+          "Nicholas Carah",
+          "Khanh Luong",
+          "Giselle Newton"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Mobile advertising",
+          "Social media research methods",
+          "Platform observability",
+          "Digital data collection"
+        ],
+        "abstract": "We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.",
+        "url": "https://doi.org/10.5117/ccr2026.1.9.obei",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.5.gais",
+        "title": "Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter",
+        "authors": [
+          "Felix Gaisbauer",
+          "Armin Pournaki",
+          "Jakob Ohme"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "News sharing",
+          "Political polarization",
+          "Twitter",
+          "Digital journalism"
+        ],
+        "abstract": "News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.",
+        "url": "https://doi.org/10.5117/ccr2026.1.5.gais",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.3.5.much",
+        "title": "Activating Identity and Political Action in the #MeToo Era",
+        "authors": [
+          "Melina Much",
+          "Daniel Ebanks",
+          "Sara Kangaslahti",
+          "Jean Kossaifi",
+          "R. Michael Alvarez",
+          "Anqi Liu",
+          "Anima Anandkumar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media activism",
+          "#MeToo movement",
+          "Feminist consciousness-raising",
+          "Digital political mobilization"
+        ],
+        "abstract": "Twitter (now X) represented an invaluable space for sparking and mobilizing political movements. An example of this is the #MeToo movement beginning in 2017, which was one of the largest social and political reckonings with sexual violence the U.S. has ever seen. This study analyzes over 8 million tweets related to #MeToo over two years, aiming to provide new insights into the movement’s dynamics and its relationship to fourth-wave feminism. Our findings challenge assumptions about consciousness-raising efforts, showing that politicized calls to action do not immediately materialize in online spaces. The study also highlights a lack of intersectional discourse in consciousness-raising discussions, emphasizing the need for broader considerations of gendered sexual violence. We further offer among the first systematic evidence of the relative scale of #MeToo’s reactionary counter-movement, finding that oppositional discourse had come to dominate Twitter’s #MeToo ecosystem by 2019.",
+        "url": "https://doi.org/10.5117/ccr2026.3.5.much",
         "topics_llm": true
       },
       {
@@ -1199,91 +1412,6 @@
         ],
         "abstract": "The representation of gender in large language models (LLMs) can reflect and reinforce existing sociocultural inequalities. However, the nature of such gender biases can differ significantly across languages, influenced by linguistic features and a model’s training data. In this study, we investigate gender representation in 24 open-weight LLMs across six linguistically distinct languages (English, German, Russian, Czech, Albanian, and Serbian). Extending beyond binary frameworks, we incorporate nonbinary individuals as response options and examine associations across psychometrically validated stereotype dimensions (agency, communality, dominance, weakness, and giftedness). Our analysis accounts for variations between and within model families and differences in sampling parameters. The results reveal that traditional gender stereotypes persist with varying degrees of strength, while nonbinary associations show substantial cross-linguistic variations. Temperature analysis demonstrates that such associations are deeply embedded in model parameters rather than being artifacts of sampling procedures. These findings suggest that gender bias identification and potential mitigation in LLMs are shaped by both contextual and technical factors. Overall, our findings challenge the notion that gender bias is a simple, measurable construct, highlighting its complex, context-dependent nature across languages, models, and stereotype dimensions. Effective bias mitigation requires interventions at the level of training data, model architecture, or alignment procedures.",
         "url": "https://doi.org/10.5117/ccr2026.2.11.urma",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.8.xue",
-        "title": "A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement",
-        "authors": [
-          "Haoning Xue",
-          "Jingwen Zhang",
-          "X J Wang",
-          "Dagyong Kim",
-          "Yunya Song"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Message Sensation Value",
-          "Multimodal features",
-          "Short video engagement",
-          "Computational modeling"
-        ],
-        "abstract": "The contemporary media landscape is characterized by sensational short videos. While prior research examines individual multimodal features’ effects, the collective impact of multimodal features on viewer engagement with short videos remains unknown. Grounded in the theoretical framework of Message Sensation Value (MSV), this study develops and tests a computational model of MSV with multimodal feature analysis and human evaluation of 1,200 short videos. This model that predicts sensory and behavioral engagement was further validated across two unseen datasets from three short video platforms (combined N = 14,492). While MSV is positively associated with sensory engagement, it shows an inverted U-shaped relationship with behavioral engagement: Higher MSV elicits stronger sensory stimulation, but moderate MSV optimizes behavioral engagement. This research advances the theoretical understanding of short video engagement and introduces a robust computational tool for short video research.",
-        "url": "https://doi.org/10.5117/ccr2026.1.8.xue",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.9.obei",
-        "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
-        "authors": [
-          "Abdul Obeid",
-          "Daniel Angus",
-          "Dang Khuong Tran",
-          "Lauren Hayden",
-          "Nicholas Carah",
-          "Khanh Luong",
-          "Giselle Newton"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Mobile advertising",
-          "Social media research methods",
-          "Platform observability",
-          "Digital data collection"
-        ],
-        "abstract": "We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.",
-        "url": "https://doi.org/10.5117/ccr2026.1.9.obei",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.6.kohn",
-        "title": "Put your Data where your Mouth is: Exploring the Viability of WhatsApp Data Donations to investigate Interpersonal Relationships",
-        "authors": [
-          "Julian Kohne",
-          "Christian Montag"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Data donation",
-          "WhatsApp messaging",
-          "Interpersonal relationships",
-          "Privacy concerns"
-        ],
-        "abstract": "This study combined a questionnaire with data donations to explore the viability of anonymized WhatsApp data donations for investigating interpersonal relationships. We examined differences in willingness to donate, actual donations, and participants’ removal of parts of the data before donation (self-censorship) across a range of demographic, psychological and relationship-relevant characteristics. In our opt-in study, about 70% of participants stated to be willing to donate, with younger participants being more willing, and willing participants exhibiting less concerns for privacy than unwilling participants. We found some evidence pointing to women being more willing to donate than men. Overall, we observed an intention-behavior gap with only 68% of willing participants actually donating. We did not find significant differences between donors and non-donors based on univariate tests (e.g., gender, age, personality, relationship status) but found some evidence for personality and sexual orientation as potentially influential factors in a logistic regression model. We discuss implications for conducting WhatsApp data donation studies, limitations, and directions for future research.",
-        "url": "https://doi.org/10.5117/ccr2026.1.6.kohn",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.1.5.gais",
-        "title": "Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter",
-        "authors": [
-          "Felix Gaisbauer",
-          "Armin Pournaki",
-          "Jakob Ohme"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "News sharing",
-          "Political polarization",
-          "Twitter",
-          "Digital journalism"
-        ],
-        "abstract": "News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.",
-        "url": "https://doi.org/10.5117/ccr2026.1.5.gais",
         "topics_llm": true
       },
       {
@@ -1938,126 +2066,6 @@
         ],
         "abstract": "Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.",
         "url": "https://doi.org/10.5117/ccr2024.1.5.chan",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.1.1.debr",
-        "title": "Using State-of-the-art Emotion Detection Models in a Crisis Communication Context",
-        "authors": [
-          "Luna De Bruyne",
-          "Toni G.L.A. van der Meer",
-          "Orphée De Clercq",
-          "Véronique Hoste"
-        ],
-        "year": 2024,
-        "citation_count": 4,
-        "topics": [
-          "Emotion detection",
-          "Crisis communication",
-          "Social media analysis",
-          "Natural language processing"
-        ],
-        "abstract": "Times of crisis are usually associated with highly emotional experiences, which often result in emotionally charged communication. This is especially the case on social media. Identifying the emotional climate on social media is imperative in the context of crisis communication, e.g., in view of shaping crisis response strategies. However, the sheer volume of social media data often makes manual oversight impossible. In this paper, we therefore investigate how automatic methods for emotion detection can aid research on crisis communication and social media. Concretely, we investigate two Dutch emotion detection models (a transformer model and a classical machine learning model based on dictionaries) and apply them to Dutch tweets about four different crisis cases. First, we perform a validation study to assess the performance of these models in the domain of crisis-related tweets. Secondly, we propose a framework for monitoring the emotional climate on social media, and assess whether emotion detection models can be used to address the steps in the framework.",
-        "url": "https://doi.org/10.5117/ccr2024.1.1.debr",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.1.4.vand",
-        "title": "Is Matilda Playing it Safe? : Gender in Computational Text Analysis Methods",
-        "authors": [
-          "Mariken Anna Catharina Geertruida van der Velden",
-          "Alona Olga Dolinsky"
-        ],
-        "year": 2024,
-        "citation_count": 2,
-        "topics": [
-          "Gender bias in academia",
-          "Computational text analysis",
-          "Publication patterns"
-        ],
-        "abstract": "Numerous studies document the gender gap in published articles in political science journals, observing systematic imbalances in the sub- mission pool which result in a distorted publication pattern. In this study we test some pathways that may explain the distorted submission pool: a) playing it safe due to the gender perception gap, and b) as a consequence of the Matilda effect setting a higher bar for methodological knowledge, focusing on papers using Computational Text Analysis methods. Papers using Computational Text Analysis Methods are more likely to be published in journals with a ‘masculinized’ perception gap. When women are aiming for these journals, they might ‘play it safe’ by conducting more validation checks than their male colleagues. More- over, embracing the Matilda effect – i.e. internalizing the systematic under-recognition of female scientists and mis-attribution of, especially methodological skills, to men – women scholars are more likely to indicate that a) there are important training needs in more areas; and b) they themselves need (further) training in computational methods and use these reasons not to publish papers employing these methods. We test these claims using a) a unique content analysis of research articles published in the top 20 journals in communication science, political science, sociology and psychology between 2016 and 2020, identifying all 854 articles that involved some form of quantitative textual analysis; and b) a pre-registered expert survey of all authors of quantitative text analytic research identified via said content analysis, which inquired about researchers’ considerations and concerns in the application of computational text analytic strategies",
-        "url": "https://doi.org/10.5117/ccr2024.1.4.vand",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.2.1.loec",
-        "title": "Introduction to the Special Issue on Participant-Centered Behavioral Traces",
-        "authors": [
-          "Felicia Löecherbach",
-          "Lukas Otto"
-        ],
-        "year": 2024,
-        "citation_count": 2,
-        "topics": [
-          "Behavioral traces",
-          "Participant-centered research",
-          "Digital communication methods",
-          "Data collection"
-        ],
-        "abstract": "Introduction to the Special Issue on Participant-Centered Behavioral Traces",
-        "url": "https://doi.org/10.5117/ccr2024.2.1.loec",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.9.enss",
-        "title": "Simulating Reputation Dynamics and Their Manipulation: An Agent Based Model Framework",
-        "authors": [
-          "Torsten Andreas Enßlin",
-          "Viktoria Kainz",
-          "Céline Boehm"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Reputation dynamics",
-          "Agent-based modeling",
-          "Trust networks",
-          "Communication manipulation"
-        ],
-        "abstract": "&lt;div id=\"magicparlabel-12541\" class=\"abstract\"&gt; &lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; Reputation is essential to human interactions and shapes group dy- namics, however, it can be manipulated. In order to identify key aspects of malicious communication strategies, we have developed an agent- based simulation framework that captures aspects of the dynamics of social reputation communication: the reputation game simulation. Af- ter giving an overview of our framework, we highlight both previous and new results obtained with it. Similarly to other works in the literature on trust and reputation networks, probability functions and Bayesian logic are used in the reputation game simulation to represent uncertain- ties in agents’ beliefs. A new aspect of our framework is how bounded rationality of humans is modeled. It is regarded as a consequence of the necessary data compression step minds with limited capacity have to perform. Although this tries to minimize the loss of relevant infor- mation, for which we discuss two theoretically plausible options, it introduces cognitive imperfections. The resulting imperfect reasoning due to this and other cognitive shortcomings makes agents vulnerable to deception. This eventually leads to the emergence of communi- cation and behavioral patterns in reputation game simulations that resemble reality, such as for example echo chambers, self-deception, deception symbiosis, and freezing of group opinions. As a result, the framework we propose could be used to develop methods to mitigate the impact of harmful communication strategies, i.e. in social media. We illustrate the potential for this via simulation experiments. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
-        "url": "https://doi.org/10.5117/ccr2023.1.9.enss",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.004.kath",
-        "title": "Automated Detection of Voice in News Text – Evaluating Tools for Reported Speech and Speaker Recognition",
-        "authors": [
-          "Ahrabhi Kathirgamalingam",
-          "Fabienne Lind",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 0,
-        "topics": [
-          "Automated content analysis",
-          "Reported speech detection",
-          "Computational linguistics",
-          "News media research"
-        ],
-        "abstract": "The automated content analysis of text has become integral to contemporary communication and journalism research. However, automated approaches are seldom utilized to analyze reported voice in text, while doing so would offer valuable insights into media and communication practices. Bridging the fields of communication science and computational linguistics, this study reviews and evaluates off-the-shelf tools for automated voice detection (of direct/indirect speech and of speakers) with respect to user experience and validity. Manually annotated English news articles and Twitter data served as baseline for evaluating the automated detection of voice. Findings indicate that the tools being assessed offer a satisfactory user experience and provide promising solutions for detecting direct speech automatically, encouraging fellow researchers to utilize automated detection for direct quotations. However, the recognition of indirect speech and speakers needs considerable improvement.",
-        "url": "https://doi.org/10.5117/ccr2023.1.004.kath",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.002.jiam",
-        "title": "Attraction behind “Beauty”: Revealing Gay Men’s Self-Presentation on a Dating App with Computer Vision",
-        "authors": [
-          "Jia Fan",
-          "Yan Ming Chen",
-          "Lun Zhang",
-          "Ye Wu",
-          "Xiao Fan Liu"
-        ],
-        "year": 2023,
-        "citation_count": 1,
-        "topics": [
-          "Online dating",
-          "Self-presentation",
-          "Computer vision",
-          "Gay men"
-        ],
-        "abstract": "Profile photos, which are fundamental constructs of online self-presentation, are crucial to building successful online relationships. The visual cues embodied in profile photos are factors that help initiate socialization on visual-based gay dating platforms. This study applies app crawler techniques to collect publicly disclosed profile photos from Finka, a Chinese gay men’s dating app, and uses computer vision artificial intelligence applications to analyze the visual cues from the photos. The results show that appealing faces are relevant factors of user popularity, seemingly confirming the existence of the gay male beauty myth in the dating community. Photos that expose bodies are also popular, although most profile photos have low body visibility, which may be rooted in gay men’s culture in China. Extending existing research, we incorporate the background scene as another theoretical dimension of visual cues. Interestingly, we find an ambiance effect in profile photos—showing background scenes can serve as a self-presentation tactic that potentially influences users’ popularity. In particular, private scenes (e.g., locker room and bedroom scenes) can arouse more desire for further interaction with the presenter.",
-        "url": "https://doi.org/10.5117/ccr2023.1.002.jiam",
         "topics_llm": true
       }
     ],
