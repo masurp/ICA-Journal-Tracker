@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-07-20T08:57:26Z",
-  "trending_from": "2024-07-20",
+  "updated_at": "2026-07-27T09:50:16Z",
+  "trending_from": "2024-07-27",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4179,
+        "citation_count": 4187,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2512,
+        "citation_count": 2525,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1822,
+        "citation_count": 1827,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1091,
+        "citation_count": 1094,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 908,
+        "citation_count": 909,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 819,
+        "citation_count": 825,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Myers"
         ],
         "year": 2011,
-        "citation_count": 456,
+        "citation_count": 457,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 449,
+        "citation_count": 451,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 430,
+        "citation_count": 431,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 424,
+        "citation_count": 425,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 237,
+        "citation_count": 239,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 229,
+        "citation_count": 230,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -291,6 +291,29 @@
         ],
         "abstract": "The measurement of how people are “exposed” to media content, which is crucial for the understanding of media use and effects, has been a challenge for a long time. Today’s media landscape, in which individuals are exposed to a diversity of messages anytime, anywhere, and from a great variety of sources on an increasing number of different media platforms, has complicated the measurement of media exposure even more. However, today’s digital media landscape also offers new possibilities to map media exposure by means of passive measurement. In this Introduction article to the special issue, we give an overview of the different ways in which media exposure is measured and the various issues associated with their applications. We conclude with a research agenda for issues that need to be tackled in future research and also introduce a research tool for media exposure measurement.",
         "url": "https://doi.org/10.1080/19312458.2016.1150441",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2018.1455817",
+        "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
+        "authors": [
+          "Elena Rudkowsky",
+          "Martin Haselmayer",
+          "Matthias Wastian",
+          "Marcelo Jenny",
+          "Štefan Emrich",
+          "Michael Sedlmair"
+        ],
+        "year": 2018,
+        "citation_count": 224,
+        "topics": [
+          "Sentiment analysis",
+          "Word embeddings",
+          "Machine learning",
+          "Political communication"
+        ],
+        "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
+        "url": "https://doi.org/10.1080/19312458.2018.1455817",
         "topics_llm": true
       },
       {
@@ -313,29 +336,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2018.1455817",
-        "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
-        "authors": [
-          "Elena Rudkowsky",
-          "Martin Haselmayer",
-          "Matthias Wastian",
-          "Marcelo Jenny",
-          "Štefan Emrich",
-          "Michael Sedlmair"
-        ],
-        "year": 2018,
-        "citation_count": 223,
-        "topics": [
-          "Sentiment analysis",
-          "Word embeddings",
-          "Machine learning",
-          "Political communication"
-        ],
-        "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
-        "url": "https://doi.org/10.1080/19312458.2018.1455817",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1458084",
         "title": "When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science",
         "authors": [
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 199,
+        "citation_count": 200,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 194,
+        "citation_count": 196,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 178,
+        "citation_count": 179,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -436,6 +436,30 @@
         ],
         "abstract": "We identify three gaps that limit the utility and obstruct the progress of computational text analysis methods (CTAM) for social science research. First, we contend that CTAM development has prioritized technological over validity concerns, giving limited attention to the operationalization of social scientific measurements. Second, we identify a mismatch between CTAMs’ focus on extracting specific contents and document-level patterns, and social science researchers’ need for measuring multiple, often complex contents in the text. Third, we argue that the dominance of English language tools depresses comparative research and inclusivity toward scholarly communities examining languages other than English. We substantiate our claims by drawing upon a broad review of methodological work in the computational social sciences, as well as an inventory of leading research publications using quantitative textual analysis. Subsequently, we discuss implications of these three gaps for social scientists’ uneven uptake of CTAM, as well as the field of computational social science text research as a whole. Finally, we propose a research agenda intended to bridge the identified gaps and improve the validity, utility, and inclusiveness of CTAM.",
         "url": "https://doi.org/10.1080/19312458.2021.2015574",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilám Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 160,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       },
       {
@@ -458,30 +482,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilám Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 157,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2021.1968361",
         "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
         "authors": [
@@ -490,7 +490,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 154,
+        "citation_count": 156,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -569,7 +569,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 134,
+        "citation_count": 135,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -646,7 +646,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 117,
+        "citation_count": 120,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -827,7 +827,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 90,
+        "citation_count": 91,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -1521,7 +1521,7 @@
           "Annie Waldherr"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Named Entity Recognition",
           "Natural Language Processing",
@@ -1583,7 +1583,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1667,7 +1667,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1748,7 +1748,7 @@
           "Sabine Trepte"
         ],
         "year": 2023,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Privacy",
           "Scale development",
@@ -1792,7 +1792,7 @@
           "Miriam Brinberg",
           "Graham D. Bodie",
           "Susanne M. Jones",
-          "Nilàm Ram"
+          "Nilám Ram"
         ],
         "year": 2023,
         "citation_count": 14,
@@ -1858,7 +1858,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 27,
+        "citation_count": 28,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -1882,7 +1882,7 @@
           "William A. Sethares"
         ],
         "year": 2023,
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Multimodal analysis",
           "Political debate",
@@ -1921,7 +1921,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2023,
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Persuasion",
           "Message effects",

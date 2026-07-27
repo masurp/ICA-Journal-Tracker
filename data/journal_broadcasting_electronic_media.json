@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_broadcasting_electronic_media",
-  "updated_at": "2026-07-20T08:59:35Z",
-  "trending_from": "2024-07-20",
+  "updated_at": "2026-07-27T09:50:49Z",
+  "trending_from": "2024-07-27",
   "sections": {
     "most_cited": [
       {
@@ -31,7 +31,7 @@
           "Ellen Helsper"
         ],
         "year": 2008,
-        "citation_count": 1273,
+        "citation_count": 1275,
         "topics": [
           "Parental mediation",
           "Children's internet use",
@@ -50,7 +50,7 @@
           "Anthony M. Limperos"
         ],
         "year": 2013,
-        "citation_count": 1039,
+        "citation_count": 1040,
         "topics": [
           "Uses and Gratifications Theory",
           "New Media",
@@ -127,7 +127,7 @@
           "Nies M. Marseille"
         ],
         "year": 1999,
-        "citation_count": 744,
+        "citation_count": 746,
         "topics": [
           "Television mediation",
           "Parental mediation",
@@ -181,7 +181,7 @@
           "Jessica Vitak"
         ],
         "year": 2012,
-        "citation_count": 612,
+        "citation_count": 614,
         "topics": [
           "Context collapse",
           "Privacy strategies",
@@ -199,7 +199,7 @@
           "André Brock"
         ],
         "year": 2012,
-        "citation_count": 586,
+        "citation_count": 588,
         "topics": [
           "Twitter",
           "Black communication",
@@ -312,7 +312,7 @@
           "Hua Jiang"
         ],
         "year": 2020,
-        "citation_count": 439,
+        "citation_count": 440,
         "topics": [
           "AI chatbots",
           "User experience",
@@ -380,6 +380,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/08838151.2012.761702",
+        "title": "Content Analysis in an Era of Big Data: A Hybrid Approach to Computational and Manual Methods",
+        "authors": [
+          "Seth C. Lewis",
+          "Rodrigo Zamith",
+          "Alfred Hermida"
+        ],
+        "year": 2013,
+        "citation_count": 418,
+        "topics": [
+          "Content analysis",
+          "Computational methods",
+          "Big Data",
+          "Social media analysis"
+        ],
+        "abstract": "Massive datasets of communication are challenging traditional, human-driven approaches to content analysis. Computational methods present enticing solutions to these problems but in many cases are insufficient on their own. We argue that an approach blending computational and manual methods throughout the content analysis process may yield more fruitful results, and draw on a case study of news sourcing on Twitter to illustrate this hybrid approach in action. Careful combinations of computational and manual techniques can preserve the strengths of traditional content analysis, with its systematic rigor and contextual sensitivity, while also maximizing the large-scale capacity of Big Data and the algorithmic accuracy of computational methods.",
+        "url": "https://doi.org/10.1080/08838151.2012.761702",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1207/s15506878jobem5002_2",
         "title": "Getting Hooked on News: Uses and Gratifications and the Formation of News Habits Among College Students in an Internet Environment",
         "authors": [
@@ -399,33 +419,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/08838151.2012.761702",
-        "title": "Content Analysis in an Era of Big Data: A Hybrid Approach to Computational and Manual Methods",
-        "authors": [
-          "Seth C. Lewis",
-          "Rodrigo Zamith",
-          "Alfred Hermida"
-        ],
-        "year": 2013,
-        "citation_count": 415,
-        "topics": [
-          "Content analysis",
-          "Computational methods",
-          "Big Data",
-          "Social media analysis"
-        ],
-        "abstract": "Massive datasets of communication are challenging traditional, human-driven approaches to content analysis. Computational methods present enticing solutions to these problems but in many cases are insufficient on their own. We argue that an approach blending computational and manual methods throughout the content analysis process may yield more fruitful results, and draw on a case study of news sourcing on Twitter to illustrate this hybrid approach in action. Careful combinations of computational and manual techniques can preserve the strengths of traditional content analysis, with its systematic rigor and contextual sensitivity, while also maximizing the large-scale capacity of Big Data and the algorithmic accuracy of computational methods.",
-        "url": "https://doi.org/10.1080/08838151.2012.761702",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/08838151.2020.1843357",
         "title": "User Perceptions of Algorithmic Decisions in the Personalized AI System:Perceptual Evaluation of Fairness, Accountability, Transparency, and Explainability",
         "authors": [
           "Donghee Shin"
         ],
         "year": 2020,
-        "citation_count": 394,
+        "citation_count": 395,
         "topics": [
           "Algorithmic transparency",
           "AI trust and fairness",
@@ -464,7 +464,7 @@
           "danah boyd"
         ],
         "year": 2012,
-        "citation_count": 390,
+        "citation_count": 391,
         "topics": [
           "Social media",
           "Publicness",
@@ -541,7 +541,7 @@
           "James G. Webster"
         ],
         "year": 2010,
-        "citation_count": 336,
+        "citation_count": 337,
         "topics": [
           "News consumption",
           "Civic participation",
@@ -636,7 +636,7 @@
           "Amy I. Nathanson"
         ],
         "year": 2001,
-        "citation_count": 327,
+        "citation_count": 329,
         "topics": [
           "Television mediation",
           "Parental guidance",
@@ -712,7 +712,7 @@
           "Erica Weintraub Austin"
         ],
         "year": 1993,
-        "citation_count": 268,
+        "citation_count": 269,
         "topics": [
           "Parental mediation",
           "Television content",
@@ -789,7 +789,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2005,
-        "citation_count": 254,
+        "citation_count": 255,
         "topics": [
           "Parental mediation",
           "Advertising effects",
@@ -808,7 +808,7 @@
           "Michael T. Stephenson"
         ],
         "year": 2003,
-        "citation_count": 250,
+        "citation_count": 251,
         "topics": [
           "Media effects",
           "Mediation analysis",
@@ -966,7 +966,7 @@
           "Online identity",
           "Resistance tactics"
         ],
-        "abstract": "",
+        "abstract": "The migration of U.S. TikTok users to RedNote following a nationwide ban has created a unique context for examining digital resistance within the framework of algorithmic governance. Drawing on critical cultural theory and de Certeau’s concept of the tactics of the weak, this study explores how displaced U.S. users on RedNote engage in various resistance tactics, shaped by the platform’s technological infrastructure. Through an analysis of 426 videos produced by TikTok refugees, three primary tactics are summarized: emotional mobilization that builds solidarity but faces algorithmic co-optation, carnivalesque performances that sustain engagement at the cost of political dilution, and infrastructural resistance that redirects followers while remaining platform-dependent.",
         "url": "https://doi.org/10.1080/08838151.2026.2703649",
         "topics_llm": true
       },
@@ -1174,7 +1174,7 @@
           "Yini Zhang"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Trust in AI",
           "Generative AI",
@@ -1763,7 +1763,7 @@
           "Wufan Jia"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Ingroup persuasion",
           "Expectancy violation",
@@ -1937,6 +1937,26 @@
     ],
     "trending": [
       {
+        "doi": "10.1080/08838151.2025.2485319",
+        "title": "How Autonomy of Artificial Intelligence Technology and User Agency Influence AI Perceptions and Attitudes: Applying the Theory of Psychological Reactance",
+        "authors": [
+          "Jeeyun Oh",
+          "Soya Nah",
+          "Zinan Darren Yang"
+        ],
+        "year": 2025,
+        "citation_count": 19,
+        "topics": [
+          "Artificial Intelligence",
+          "Psychological Reactance",
+          "User Agency",
+          "Attitudes and Perceptions"
+        ],
+        "abstract": "Artificial intelligence (AI) technology is increasingly taking over various aspects of our daily decision-making processes. The current study investigates how media users emotionally and cognitively respond to the increasing autonomy of AI technology. A survey (N = 297) measured the perceived autonomy of AI applications that individuals currently use and examined its relationship with psychological reactance, user agency, and perceived personalization. Findings show that AI autonomy is positively related to threat to freedom and psychological reactance. However, AI autonomy is also positively associated with personalization, which cancels out the negative impact of psychological reactance on attitudes. Those who feel a higher agency perceive a higher threat to freedom as perceived AI autonomy increases. Theoretical and practical implications are discussed.",
+        "url": "https://doi.org/10.1080/08838151.2025.2485319",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/08838151.2025.2487679",
         "title": "The Role of User Empowerment, AI Hallucination, and Privacy Concerns in Continued Use and Premium Subscription Intentions: An Extended Technology Acceptance Model for Generative AI",
         "authors": [
@@ -1956,26 +1976,6 @@
         ],
         "abstract": "This study extends the Technology Acceptance Model for Generative AI (GAI) by incorporating perceived user empowerment (PUE) and two risk factors – privacy concerns and hallucination risks. A survey of 783 U.S. GAI users revealed that PUE directly influenced continuance intention (CI) and willingness to pay for premium service (PAY) and indirectly affected CI through attitude toward AI (ATTAI). Perceived ease of use was indirectly linked to CI via ATTAI. Privacy concerns negatively affected CI, while hallucination risks negatively influenced ATTAI, which reduced CI. The findings underscore the role of PUE and risk perceptions in CI and PAY for GAI.",
         "url": "https://doi.org/10.1080/08838151.2025.2487679",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/08838151.2025.2485319",
-        "title": "How Autonomy of Artificial Intelligence Technology and User Agency Influence AI Perceptions and Attitudes: Applying the Theory of Psychological Reactance",
-        "authors": [
-          "Jeeyun Oh",
-          "Soya Nah",
-          "Zinan Darren Yang"
-        ],
-        "year": 2025,
-        "citation_count": 18,
-        "topics": [
-          "Artificial Intelligence",
-          "Psychological Reactance",
-          "User Agency",
-          "Attitudes and Perceptions"
-        ],
-        "abstract": "Artificial intelligence (AI) technology is increasingly taking over various aspects of our daily decision-making processes. The current study investigates how media users emotionally and cognitively respond to the increasing autonomy of AI technology. A survey (N = 297) measured the perceived autonomy of AI applications that individuals currently use and examined its relationship with psychological reactance, user agency, and perceived personalization. Findings show that AI autonomy is positively related to threat to freedom and psychological reactance. However, AI autonomy is also positively associated with personalization, which cancels out the negative impact of psychological reactance on attitudes. Those who feel a higher agency perceive a higher threat to freedom as perceived AI autonomy increases. Theoretical and practical implications are discussed.",
-        "url": "https://doi.org/10.1080/08838151.2025.2485319",
         "topics_llm": true
       },
       {
@@ -2040,6 +2040,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/08838151.2025.2487050",
+        "title": "Perceived Risk and Trust in News Sources: A Multi-Group Analysis of Deepfakes and AI-Generated Misinformation",
+        "authors": [
+          "Xintong Zhang",
+          "Ning Lou",
+          "M. Li"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Deepfakes",
+          "Misinformation",
+          "News credibility",
+          "Trust perception"
+        ],
+        "abstract": "This study employs the risk information seeking and processing model to examine how perceived risk, trust in news sources, and information-seeking behavior interact in the context of AI-generated misinformation and deepfakes. Using data from 300 Chinese and 263 South Korean participants, the research applies a moderated-mediation approach to assess cultural differences. Findings reveal that perceived risk reduces trust in news sources via information-seeking behavior. AI-generated misinformation amplifies this relationship, though effects vary: South Koreans engage in more information-seeking, while Chinese participants show reduced engagement, likely due to differing media environments and regulations. These insights highlight cultural nuances in misinformation response.",
+        "url": "https://doi.org/10.1080/08838151.2025.2487050",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/08838151.2024.2383411",
         "title": "Politicized and Paranoid? Assessing Attitudinal Predictors of Alternative News Consumption",
         "authors": [
@@ -2058,26 +2078,6 @@
         ],
         "abstract": "The study of right-wing alternative news sources has moved to the center of scholarly attention recently. Such sources cater to news consumers characterized by extreme political views and mistrust toward mainstream news. However, research into the predictors of alternative news consumption is still scarce. We approach this gap by combining online tracking and survey data from 2,009 German panel participants. We find conspiratorial thinking and pro-Russian stance to be predictors of alternative news consumption, both in absolute and in relative terms. Our analysis thus contributes to a more nuanced understanding of alternative news consumers.",
         "url": "https://doi.org/10.1080/08838151.2024.2383411",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/08838151.2025.2487050",
-        "title": "Perceived Risk and Trust in News Sources: A Multi-Group Analysis of Deepfakes and AI-Generated Misinformation",
-        "authors": [
-          "Xintong Zhang",
-          "Ning Lou",
-          "M. Li"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Deepfakes",
-          "Misinformation",
-          "News credibility",
-          "Trust perception"
-        ],
-        "abstract": "This study employs the risk information seeking and processing model to examine how perceived risk, trust in news sources, and information-seeking behavior interact in the context of AI-generated misinformation and deepfakes. Using data from 300 Chinese and 263 South Korean participants, the research applies a moderated-mediation approach to assess cultural differences. Findings reveal that perceived risk reduces trust in news sources via information-seeking behavior. AI-generated misinformation amplifies this relationship, though effects vary: South Koreans engage in more information-seeking, while Chinese participants show reduced engagement, likely due to differing media environments and regulations. These insights highlight cultural nuances in misinformation response.",
-        "url": "https://doi.org/10.1080/08838151.2025.2487050",
         "topics_llm": true
       }
     ]

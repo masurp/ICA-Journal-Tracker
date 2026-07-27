@@ -1,9 +1,29 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-07-20T08:57:37Z",
-  "trending_from": "2024-07-20",
+  "updated_at": "2026-07-27T09:50:21Z",
+  "trending_from": "2024-07-27",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.5117/ccr2022.2.004.guin",
+        "title": "Fifteen Seconds of Fame: TikTok and the Supply Side of Social Video",
+        "authors": [
+          "Benjamin Guinaudeau",
+          "Kevin Munger",
+          "Fabio Votta"
+        ],
+        "year": 2022,
+        "citation_count": 78,
+        "topics": [
+          "TikTok",
+          "Short-form video",
+          "Social media platforms",
+          "Content creation"
+        ],
+        "abstract": "TikTok has rapidly developed from a punchline for jokes about “kids these days” into a formidable force in American politics. The speed of this development is unprecedented, even in the rapidly-changing world of digital politics. Through a combination of hashtag and snowball sampling, we identify 11,546 TikTok accounts who primarily post about politics, allowing us to analyze trends in the posting, viewing and commenting behavior on 1,998,642 tiktoks they have uploaded. We test a number of theories about how the unique combination of affordances on TikTok shapes how it is used for political communication. Compared to the dominant platform for political videos (YouTube) we find that a higher percentage of TikTok users upload videos, TikTok view counts are more dominated by virality, and viewership of videos are less dependent on a given accounts’ number of followers/subscribers. We discuss how these findings affect the production of content that ultimately determines the experience of TikTok consumers.",
+        "url": "https://doi.org/10.5117/ccr2022.2.004.guin",
+        "topics_llm": true
+      },
       {
         "doi": "10.5117/ccr2022.2.002.boes",
         "title": "A framework for privacy preserving digital trace data collection through data donation",
@@ -27,23 +47,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.2.004.guin",
-        "title": "Fifteen Seconds of Fame: TikTok and the Supply Side of Social Video",
+        "doi": "10.5117/ccr2022.2.002.lu",
+        "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
         "authors": [
-          "Benjamin Guinaudeau",
-          "Kevin Munger",
-          "Fabio Votta"
+          "Yingdan Lu",
+          "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 76,
+        "citation_count": 62,
         "topics": [
-          "TikTok",
-          "Short-form video",
-          "Social media platforms",
-          "Content creation"
+          "Chinese government communication",
+          "Social media content analysis",
+          "Douyin/TikTok",
+          "Political propaganda"
         ],
-        "abstract": "TikTok has rapidly developed from a punchline for jokes about “kids these days” into a formidable force in American politics. The speed of this development is unprecedented, even in the rapidly-changing world of digital politics. Through a combination of hashtag and snowball sampling, we identify 11,546 TikTok accounts who primarily post about politics, allowing us to analyze trends in the posting, viewing and commenting behavior on 1,998,642 tiktoks they have uploaded. We test a number of theories about how the unique combination of affordances on TikTok shapes how it is used for political communication. Compared to the dominant platform for political videos (YouTube) we find that a higher percentage of TikTok users upload videos, TikTok view counts are more dominated by virality, and viewership of videos are less dependent on a given accounts’ number of followers/subscribers. We discuss how these findings affect the production of content that ultimately determines the experience of TikTok consumers.",
-        "url": "https://doi.org/10.5117/ccr2022.2.004.guin",
+        "abstract": "As audiences have moved to digital media, so too have governments around the world. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese government uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese government. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.",
+        "url": "https://doi.org/10.5117/ccr2022.2.002.lu",
         "topics_llm": true
       },
       {
@@ -74,25 +93,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.2.002.lu",
-        "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
-        "authors": [
-          "Yingdan Lu",
-          "Jennifer Pan"
-        ],
-        "year": 2022,
-        "citation_count": 61,
-        "topics": [
-          "Chinese government communication",
-          "Social media content analysis",
-          "Douyin/TikTok",
-          "Political propaganda"
-        ],
-        "abstract": "As audiences have moved to digital media, so too have governments around the world. While previous research has focused on how authoritarian regimes employ strategies such as the use of fabricated accounts and content to boost their reach, this paper reveals two different tactics the Chinese government uses on Douyin, the Chinese version of the video-sharing platform TikTok, to compete for audience attention. We use a multi-modal approach that combines analysis of video, text, and meta-data to examine a novel dataset of Douyin videos. We find that a large share of trending videos are produced by accounts affiliated with the Chinese government. These videos contain visual characteristics designed to maximize attention such as high levels of brightness and entropy and very short duration, and are more visually similar to content produced by celebrities and ordinary users than to content from non-official media accounts. We also find that the majority of videos produced by regime-affiliated accounts do not fit traditional definitions of propaganda but rather contain stories and topics unrelated to any aspect of the government, the Chinese Communist Party, policies, or politics.",
-        "url": "https://doi.org/10.5117/ccr2022.2.002.lu",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2022.2.007.hage",
         "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
         "authors": [
@@ -118,7 +118,7 @@
           "Theo Araujo"
         ],
         "year": 2020,
-        "citation_count": 41,
+        "citation_count": 42,
         "topics": [
           "Conversational agents",
           "Chatbots",
@@ -1548,7 +1548,7 @@
           "Alexander P. Christensen"
         ],
         "year": 2026,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Emotion Analysis",
           "Transformer Models",
