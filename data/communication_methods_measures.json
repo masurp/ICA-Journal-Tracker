@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-07-27T09:50:16Z",
-  "trending_from": "2024-07-27",
+  "updated_at": "2026-08-03T09:42:06Z",
+  "trending_from": "2024-08-03",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4187,
+        "citation_count": 4197,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2525,
+        "citation_count": 2533,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1827,
+        "citation_count": 1830,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1094,
+        "citation_count": 1098,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 909,
+        "citation_count": 910,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 825,
+        "citation_count": 826,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Myers"
         ],
         "year": 2011,
-        "citation_count": 457,
+        "citation_count": 458,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 431,
+        "citation_count": 433,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 425,
+        "citation_count": 426,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 239,
+        "citation_count": 240,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -427,7 +427,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 179,
+        "citation_count": 182,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 160,
+        "citation_count": 164,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -490,7 +490,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 156,
+        "citation_count": 157,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -510,7 +510,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 145,
+        "citation_count": 146,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -519,6 +519,25 @@
         ],
         "abstract": "Twitter users see content mostly from the other users they select to follow. Networks of connected users on Twitter define the set of content to which each user is exposed. We developed a Selective Exposure Cluster (SEC) method to study these connected networks and their discussion patterns in Twitter. To illustrate the SEC method, we collected networks of connections among users who talked about a shared topic: the U.S. President's State of the Union speech in 2012. Cluster analysis was applied to identify subgroups of users who were densely interconnected. These users followed users from their own cluster more than they connected to users in other clusters. In each cluster, the primary distributors of information—the hub users—were identified, along with the hashtags, hyperlinks, and top-mentioned usernames in the content of the messages. Each of these indicators was labeled in terms of its political orientation. An analysis of the resulting patterns of selective exposure suggests that users participate in fragmented interactions and form divided groups in which people tune in to a narrow segment of the wider range of politically oriented information sources. We discuss the strengths and weaknesses of the proposed Selective Exposure Cluster method.",
         "url": "https://doi.org/10.1080/19312458.2013.813922",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2018.1506021",
+        "title": "How to Measure Generalized Trust in News Media? An Adaptation and Test of Scales",
+        "authors": [
+          "Fabian Prochazka",
+          "Wolfgang Schweiger"
+        ],
+        "year": 2018,
+        "citation_count": 136,
+        "topics": [
+          "Media trust",
+          "Scale measurement",
+          "News credibility",
+          "Alternative media"
+        ],
+        "abstract": "In many countries, studies show declining levels of trust in news media at large. However, there still is no valid and accepted measure of generalized trust in news media. To establish and test a suitable measure, we chose two elaborate scales of related concepts: the scale on trust in media coverage of a specific topic by Kohring and Matthes and a credibility scale by Yale, Jensen, Carcioppolo, Sun, and Liu. We adapted both to measure generalized trust in news media and conducted a survey in Germany to (a) evaluate the dimensional structures of both adapted scales and (b) analyze their predictive validity by testing their explanative power on alternative media use. Both adapted scales yield well-fitting models but should be carefully treated with respect to discriminant validity. The adapted Kohring and Matthes scale successfully predicts alternative media use and can therefore be recommended for further research on generalized trust in news media.",
+        "url": "https://doi.org/10.1080/19312458.2018.1506021",
         "topics_llm": true
       },
       {
@@ -538,7 +557,7 @@
           "News tone measurement",
           "Dictionary-based approaches"
         ],
-        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes–at least in the context of Dutch economic news–and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
+        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes – at least in the context of Dutch economic news – and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
         "url": "https://doi.org/10.1080/19312458.2019.1671966",
         "topics_llm": true
       },
@@ -559,25 +578,6 @@
         ],
         "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
         "url": "https://doi.org/10.1080/19312458.2012.703834",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2018.1506021",
-        "title": "How to Measure Generalized Trust in News Media? An Adaptation and Test of Scales",
-        "authors": [
-          "Fabian Prochazka",
-          "Wolfgang Schweiger"
-        ],
-        "year": 2018,
-        "citation_count": 135,
-        "topics": [
-          "Media trust",
-          "Scale measurement",
-          "News credibility",
-          "Alternative media"
-        ],
-        "abstract": "In many countries, studies show declining levels of trust in news media at large. However, there still is no valid and accepted measure of generalized trust in news media. To establish and test a suitable measure, we chose two elaborate scales of related concepts: the scale on trust in media coverage of a specific topic by Kohring and Matthes and a credibility scale by Yale, Jensen, Carcioppolo, Sun, and Liu. We adapted both to measure generalized trust in news media and conducted a survey in Germany to (a) evaluate the dimensional structures of both adapted scales and (b) analyze their predictive validity by testing their explanative power on alternative media use. Both adapted scales yield well-fitting models but should be carefully treated with respect to discriminant validity. The adapted Kohring and Matthes scale successfully predicts alternative media use and can therefore be recommended for further research on generalized trust in news media.",
-        "url": "https://doi.org/10.1080/19312458.2018.1506021",
         "topics_llm": true
       },
       {
@@ -610,7 +610,7 @@
           "Yph Lelkes"
         ],
         "year": 2017,
-        "citation_count": 124,
+        "citation_count": 126,
         "topics": [
           "Media effects research",
           "Survey methodology",
@@ -628,7 +628,7 @@
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 123,
+        "citation_count": 124,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -687,7 +687,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 113,
+        "citation_count": 115,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -770,7 +770,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 98,
+        "citation_count": 100,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -814,7 +814,7 @@
           "Transportation and immersion",
           "Meta-analysis"
         ],
-        "abstract": "Abstract The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
+        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
         "url": "https://doi.org/10.1080/19312458.2013.873777",
         "topics_llm": true
       },
@@ -852,7 +852,7 @@
           "Exponential random graph models",
           "Communication research methodology"
         ],
-        "abstract": "Abstract Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program. This article is part of the following collections: Communication Methods and Measures Article of the Year Award",
+        "abstract": "Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program.",
         "url": "https://doi.org/10.1080/19312458.2010.527869",
         "topics_llm": true
       },
@@ -870,7 +870,7 @@
           "Type I error",
           "Research methodology"
         ],
-        "abstract": "(2007). Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment. Communication Methods and Measures: Vol. 1, No. 4, pp. 243-265.",
+        "abstract": "This essay discusses a statistical problem of multiple comparisons and argues for adjusting familywise alpha under certain conditions. The principle of familywise correction dictates that, upon performing multiple tests within a \"family,\" alpha should be adjusted (i.e., lower than the conventional .05 level) so that overall Type I error inflation is controlled (e.g., Curran-Everett, 2000; Tukey, 1991). This correctional procedure recently has been disputed by O'Keefe (2003), to whose argument the present critique is counterposed. Both pros and cons of familywise alpha adjustment are discussed. First, arguments against familywise correction are reviewed with discussions of five interrelated problems. Second, an alternative perspective advocating the use of familywise procedures under certain circumstances is explicated. Notions of the scope of a null hypothesis and the statistics-theory linkage are highlighted as the grounds of this argument. Finally, an alternative approach to the multiple-comparison problem—false discovery rate control (FDR; Benjamini & Hochberg, 1995, 2000) is introduced as a promising third possibility to the \"to Bonferroni or not to Bonferroni\" debate. The guideline for the use of FDR and traditional familywise alpha adjustment is also discussed.",
         "url": "https://doi.org/10.1080/19312450701641409",
         "topics_llm": true
       },
@@ -900,7 +900,7 @@
           "Jeff Niederdeppe"
         ],
         "year": 2014,
-        "citation_count": 79,
+        "citation_count": 80,
         "topics": [
           "Campaign exposure measurement",
           "Public communication campaigns",
@@ -924,7 +924,7 @@
           "Statistics in Communication",
           "Discourse Analysis"
         ],
-        "abstract": "Click to increase image sizeClick to decrease image size ACKNOWLEDGMENTS Earlier incarnations of this article benefited from comments from John Heritage, Celia Kitzinger, and Geoff Raymond; all weaknesses are my own. Notes 1 Conduct-in-interaction is short for talk-and-other-conduct-in-interaction. CA's definition of conduct includes vocal and nonvocal behavior, the use of artifacts, and any other feature of context that participants can be shown to orient to (vocally or nonvocally), including identities, roles, and relationships. 2There isa distinction between a practice and a practice of action, the former being used to build the latter. For example, multiple practices of turn design, lexical choice, intonation, and sequential position frequently get orchestrated, in context-sensitive ways, to achieve single practices of action. Participants are concerned with the product of this orchestration in terms of action, whereas analysts are concerned in addition with the practices used to build actions. 3Lest we become overly pessimistic about the reliability of single cases, re-consider the first observation made about Extract 1. From prior research (CitationLabov & Fanshel, 1977), we know that the HV's \"you were a nurse at thuh churchill.\" (line 3) implements a practice called a B-event statement. Although space limitations prevent a full analysis, the husband's and wife's responses (lines 4–5) stand as data-internal evidence for this practice. 4There is only audio data for Extract 1. It is possible to \"dream up\" (plausible) reasons why the husband responds first, such as that his wife is occupied with their baby (note, though, that this reason is contraindicated by the fact that the wife responds first at line 8 and, given the observations made about Extract 3, does not account for why the husband responds immediately at line 11). However, such reasons are not empirically demonstrable, and if analysts choose to include audio-only data in their core collection, Extract 1 would be an unexplainable disconfirmatory case.",
+        "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
         "url": "https://doi.org/10.1080/19312450709336663",
         "topics_llm": true
       },
@@ -1121,7 +1121,7 @@
           "Sabine Trepte"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Screen time perception",
           "Temporal experience",
@@ -1250,7 +1250,7 @@
           "Damian Trilling"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Online political discussion",
           "Automated content analysis",
@@ -1521,7 +1521,7 @@
           "Annie Waldherr"
         ],
         "year": 2024,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Named Entity Recognition",
           "Natural Language Processing",
@@ -1564,7 +1564,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2024,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Topic Modelling",
           "Named Entity Recognition",
@@ -1647,7 +1647,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Social media effects",
           "Computational methods",
@@ -1667,7 +1667,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 31,
+        "citation_count": 32,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1708,7 +1708,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1728,7 +1728,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2023,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Media effects",
           "Digital trace data",
@@ -1858,7 +1858,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 28,
+        "citation_count": 29,
         "topics": [
           "Frame analysis",
           "Machine learning",
