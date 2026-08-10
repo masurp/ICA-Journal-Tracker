@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-08-03T09:42:09Z",
-  "trending_from": "2024-08-03",
+  "updated_at": "2026-08-10T07:38:29Z",
+  "trending_from": "2024-08-10",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 79,
+        "citation_count": 81,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -928,6 +928,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2024.1.5.chan",
+        "title": "What makes computational communication science (ir)reproducible?",
+        "authors": [
+          "Chung‐hong Chan",
+          "Tim Schatto‐Eckrodt",
+          "Johannes B. Gruber"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Computational reproducibility",
+          "Open Science",
+          "Research methodology",
+          "Communication research"
+        ],
+        "abstract": "Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.",
+        "url": "https://doi.org/10.5117/ccr2024.1.5.chan",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2023.1.10.lian",
         "title": "Word Embedding Enrichment for Dictionary Construction: An Example of Incivility in Cantonese",
         "authors": [
@@ -1003,25 +1023,6 @@
         ],
         "abstract": "Hurricanes are ungendered phenomena that are ascribed with gendered names. We examined if news information about the hurricanes are presented using gendered language. This work helps identify if people use gender stereotyping when referring to gender-neutral entities, and what these stereotypes might be. We use methods from natural language processing, qualitative text analysis, and statistics to analyze how gender is expressed in disaster-related news via text-level indicators: (1) pronouns, (2) lexical, syntactic, and semantic features of words related to hurricanes, and (3) types of sources quoted. Our sample contains news articles on 47 hurricane events from 1979 to 2012 from two weeks before to two weeks after landfall. We find that: (1) hurricanes are mainly referred to by gender-neutral pronouns, however, (2) when gendered pronouns are used, female-named hurricanes are five times more likely to be referred to by a gendered pronoun than male-named hurricanes, (3) adjectives and verbs used in discussing female-named hurricanes are on average more negative than those used for reporting on male-named-hurricanes, and (4) governmental sources are most frequently quoted as authority voices (voices from citizens and non-governmental entities are catching up), and a majority of these voices do not directly mention hurricanes with gendered references.",
         "url": "https://doi.org/10.5117/ccr2023.1.006.dinh",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.010.bald",
-        "title": "A Character Recognition Tool for Automatic Detection of Social Characters in Visual Media Content",
-        "authors": [
-          "Joshua Baldwin",
-          "Ralf Schmälzle"
-        ],
-        "year": 2022,
-        "citation_count": 5,
-        "topics": [
-          "Content analysis",
-          "Character recognition",
-          "Visual media",
-          "Automated coding"
-        ],
-        "abstract": "Content analysis is the go-to method for understanding how social characters, such as public figures or movie characters, are portrayed in media messages. It is an indispensable method to investigate character-related media processes and effects. However, conducting large-scale content-analytic studies is a taxing and expensive endeavor that requires hours of coder training and incurs substantial costs. This problem is particularly acute for video-based media, where coders often have to exert extensive time and energy to watch and interpret dynamic content. Here we present a Character-Recognition-Tool (CRT) that enables communication scholars to quickly process large amounts of video data to identify occurrences of specific predefined characters using facial recognition and matching. This paper presents the CRT and provides evidence for its validity. The CRT can automate the coding process of on-screen characters while following recommendations that computational tools be scalable, adaptable for novice programmers, and open source to allow for replication.",
-        "url": "https://doi.org/10.5117/ccr2022.1.010.bald",
         "topics_llm": true
       }
     ],
@@ -1686,7 +1687,7 @@
           "Roland Tóth"
         ],
         "year": 2025,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Smartphone usage measurement",
           "Android event logs",
@@ -1875,7 +1876,7 @@
           "Sina Blassnig"
         ],
         "year": 2024,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Data donation",
           "Online recruitment",
@@ -1933,7 +1934,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Data donation",
           "Research methodology",
@@ -2057,7 +2058,7 @@
           "Johannes B. Gruber"
         ],
         "year": 2024,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Computational reproducibility",
           "Open Science",

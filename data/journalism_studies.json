@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_studies",
-  "updated_at": "2026-08-03T09:42:41Z",
-  "trending_from": "2024-08-03",
+  "updated_at": "2026-08-10T07:38:57Z",
+  "trending_from": "2024-08-10",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Maxwell McCombs"
         ],
         "year": 2005,
-        "citation_count": 1234,
+        "citation_count": 1235,
         "topics": [
           "Agenda-setting theory",
           "Media influence",
@@ -49,7 +49,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2016,
-        "citation_count": 1106,
+        "citation_count": 1107,
         "topics": [
           "News values",
           "Journalism",
@@ -69,7 +69,7 @@
           "Avery E. Holton"
         ],
         "year": 2011,
-        "citation_count": 741,
+        "citation_count": 742,
         "topics": [
           "Journalism",
           "Twitter",
@@ -87,7 +87,7 @@
           "Silvio Waisbord"
         ],
         "year": 2018,
-        "citation_count": 618,
+        "citation_count": 619,
         "topics": [
           "Fake news",
           "Journalism",
@@ -172,7 +172,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2005,
-        "citation_count": 556,
+        "citation_count": 557,
         "topics": [
           "Democracy models",
           "Journalism standards",
@@ -202,6 +202,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/14616700802374050",
+        "title": "IN DEFENSE OF TEXTUAL ANALYSIS",
+        "authors": [
+          "Elfriede Fürsich"
+        ],
+        "year": 2008,
+        "citation_count": 456,
+        "topics": [
+          "Textual Analysis",
+          "Media Content Analysis",
+          "Journalism Research Methods",
+          "Encoding/Decoding"
+        ],
+        "abstract": "This essay examines the contribution of textual analysis to media and journalism research. Based on my experience with text-based journalism studies, I highlight the unique methodological position of media content between producers’ intentions and audience interpretations. My central argument is that media texts present a distinctive discursive moment between encoding and decoding that asks for special scholarly engagement. The narrative character of media content, its potential as a site of ideological negotiation and its impact as mediated reality necessitates interpretation in its own right. By engaging current criticisms of the methodology (especially by Greg Philo) I hope to reposition textual analysis (as text-only analysis) as an important option for journalism scholars.",
+        "url": "https://doi.org/10.1080/14616700802374050",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2010.530965",
         "title": "THE REUTERS INSTITUTE FOR THE STUDY OF JOURNALISM",
         "authors": [
@@ -217,24 +235,6 @@
         ],
         "abstract": "The Reuters Institute for the Study of Journalism (RISJ) was established in 2006 within Oxford University to build on the Reuters Foundation Journalist Fellowship Programme that began in 1983. It n...",
         "url": "https://doi.org/10.1080/1461670x.2010.530965",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/14616700802374050",
-        "title": "IN DEFENSE OF TEXTUAL ANALYSIS",
-        "authors": [
-          "Elfriede Fürsich"
-        ],
-        "year": 2008,
-        "citation_count": 455,
-        "topics": [
-          "Textual Analysis",
-          "Media Content Analysis",
-          "Journalism Research Methods",
-          "Encoding/Decoding"
-        ],
-        "abstract": "This essay examines the contribution of textual analysis to media and journalism research. Based on my experience with text-based journalism studies, I highlight the unique methodological position of media content between producers’ intentions and audience interpretations. My central argument is that media texts present a distinctive discursive moment between encoding and decoding that asks for special scholarly engagement. The narrative character of media content, its potential as a site of ideological negotiation and its impact as mediated reality necessitates interpretation in its own right. By engaging current criticisms of the methodology (especially by Greg Philo) I hope to reposition textual analysis (as text-only analysis) as an important option for journalism scholars.",
-        "url": "https://doi.org/10.1080/14616700802374050",
         "topics_llm": true
       },
       {
@@ -316,7 +316,7 @@
           "Claudia Mellado"
         ],
         "year": 2014,
-        "citation_count": 335,
+        "citation_count": 336,
         "topics": [
           "Professional roles",
           "Journalism",
@@ -334,7 +334,7 @@
           "Kim Viborg Andersen"
         ],
         "year": 2019,
-        "citation_count": 331,
+        "citation_count": 333,
         "topics": [
           "News avoidance",
           "News consumption",
@@ -444,7 +444,7 @@
           "Lucas Graves"
         ],
         "year": 2016,
-        "citation_count": 234,
+        "citation_count": 235,
         "topics": [
           "Fact-checking",
           "Professional journalism",
@@ -462,7 +462,7 @@
           "Michael Karlsson"
         ],
         "year": 2010,
-        "citation_count": 234,
+        "citation_count": 235,
         "topics": [
           "Journalism",
           "Transparency",
@@ -499,7 +499,7 @@
           "Mark Deuze"
         ],
         "year": 2006,
-        "citation_count": 228,
+        "citation_count": 229,
         "topics": [
           "Journalism education",
           "Curriculum design",
@@ -611,7 +611,7 @@
           "Craig Robertson"
         ],
         "year": 2019,
-        "citation_count": 199,
+        "citation_count": 200,
         "topics": [
           "Fake news",
           "Misinformation",
@@ -620,6 +620,24 @@
         ],
         "abstract": "After the 2016 US presidential election, the concept of fake news captured popular attention, but conversations lacked a clear conceptualization and used the label in elastic ways to describe various distinct phenomena. In this paper, we analyze fake news as genre blending, combining elements of traditional news with features that are exogenous to normative professional journalism: misinformation, sensationalism, clickbait, and bias. Through a content analysis of stories published by 50 sites that have been labeled fake news and the engagement they generated on social media, we found that stories employed moderate levels of sensationalism, misinformation and partisanship to provide anti-establishment narratives. Complete fabrications were uncommon and did not resonate well with audiences, although there was some truth-stretching that came with genre blending. Results suggest that technocentric solutions aimed at detecting falsehoods are likely insufficient, as fake news is defined more by partisanship and identity politics than misinformation and deception.",
         "url": "https://doi.org/10.1080/1461670x.2019.1566871",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2010.501151",
+        "title": "ONLINE JOURNALISM AND THE PROMISES OF NEW TECHNOLOGY",
+        "authors": [
+          "Steen Steensen"
+        ],
+        "year": 2010,
+        "citation_count": 199,
+        "topics": [
+          "Online journalism",
+          "Technological innovation",
+          "Digital media",
+          "News production"
+        ],
+        "abstract": "Research about online journalism has been dominated by a discourse of technological innovation. The “success” of online journalism is often measured by the extent to which it utilizes technological assets like interactivity, multimedia and hypertext. This paper critically examines the technologically oriented research about online journalism in the second decade of its existence. The aim is twofold. First, to investigate to what degree online journalism, as it is portrayed in empirical research, utilizes new technology more than previously. Second, the paper points to the limitations of technologically oriented research and suggests alternative research approaches that might be more effective in explaining why online journalism develops as it does.",
+        "url": "https://doi.org/10.1080/1461670x.2010.501151",
         "topics_llm": true
       },
       {
@@ -639,24 +657,6 @@
         ],
         "abstract": "Understanding the phenomenon of data journalism requires an examination of this emerging practice not just within organizations themselves, but across them, at the inter-institutional level. Using a semi-structured interview approach, we begin to map the emerging computational journalistic field. We find considerable variety among data journalists in terms of their educational backgrounds, skills, tools and goals. However, many of them face similar struggles, such as trying to define their roles within their organizations and managing scarce resources. Our cross-organizational approach allows for comparisons with similar studies in Belgium, Sweden, and Norway. The common thread in these studies is that the practice of data journalism is stratified. Divisions exist in some countries between resource-rich and resource-poor organizations and in other countries between the realm of discourse and the realm of practice.",
         "url": "https://doi.org/10.1080/1461670x.2014.939852",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2010.501151",
-        "title": "ONLINE JOURNALISM AND THE PROMISES OF NEW TECHNOLOGY",
-        "authors": [
-          "Steen Steensen"
-        ],
-        "year": 2010,
-        "citation_count": 198,
-        "topics": [
-          "Online journalism",
-          "Technological innovation",
-          "Digital media",
-          "News production"
-        ],
-        "abstract": "Research about online journalism has been dominated by a discourse of technological innovation. The “success” of online journalism is often measured by the extent to which it utilizes technological assets like interactivity, multimedia and hypertext. This paper critically examines the technologically oriented research about online journalism in the second decade of its existence. The aim is twofold. First, to investigate to what degree online journalism, as it is portrayed in empirical research, utilizes new technology more than previously. Second, the paper points to the limitations of technologically oriented research and suggests alternative research approaches that might be more effective in explaining why online journalism develops as it does.",
-        "url": "https://doi.org/10.1080/1461670x.2010.501151",
         "topics_llm": true
       },
       {
@@ -702,7 +702,7 @@
           "Phil MacGregor"
         ],
         "year": 2007,
-        "citation_count": 192,
+        "citation_count": 193,
         "topics": [
           "Audience analytics",
           "Digital journalism",
@@ -721,7 +721,7 @@
           "David Nolan"
         ],
         "year": 2007,
-        "citation_count": 191,
+        "citation_count": 192,
         "topics": [
           "Humanitarian communication",
           "Media logic",
@@ -850,7 +850,7 @@
           "Thomas Hanitzsch"
         ],
         "year": 2004,
-        "citation_count": 174,
+        "citation_count": 175,
         "topics": [
           "Peace journalism",
           "Media effects theory",
@@ -868,7 +868,7 @@
           "Dumisani Moyo"
         ],
         "year": 2009,
-        "citation_count": 173,
+        "citation_count": 174,
         "topics": [
           "Citizen journalism",
           "Election coverage",
@@ -938,6 +938,44 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1461670x.2026.2710134",
+        "title": "Journalists in a Multicrisis Situation: External Crises as Accelerators of Long-Term Internal Crises and a Lost Opportunity for Resilience Building",
+        "authors": [
+          "Lenka Waschková Císařová",
+          "Lenka Vochocová",
+          "Jana Rosenfeldová"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Journalism crisis",
+          "Professional resilience",
+          "Media disruption",
+          "Crisis communication"
+        ],
+        "abstract": "Recent crises epitomise the current age of disruption within journalism. Journalism faces a multicrisis situation, where internal issues—mainly economic and technological—accumulate with external predicaments, such as the COVID-19 pandemic, or the war in Ukraine, and the Israeli-Palestinian conflict. From the perspective of resilience building, such disruptions may represent not only threats but also opportunities for change and adaptation. To explore journalists’ interpretations of the relationship between their occupation and large societal crises, we conducted in-depth interviews to show how journalists perceive the disruptions of their work and how they build their professional resilience, focusing on a specific context of a post-transformation Central European country, the Czech Republic. Our findings suggest that large external crises are perceived as accelerators for long-term internal crises in the profession, which, due to the lack of deep collective reflection, represent a wasted opportunity for systemic change. Instead, they push professionals into individualised solutions and highlight the conflict between their social responsibility and the economic pressures of competitiveness.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2710134",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2713000",
+        "title": "Effects of Infotainment Features in Instagram News Stories on Knowledge: A Field Experiment",
+        "authors": [
+          "Dominique S. Wirz"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Instagram news stories",
+          "Infotainment features",
+          "Knowledge acquisition",
+          "Social media news consumption"
+        ],
+        "abstract": "Instagram has become a relevant platform for news consumption. Therefore, it is crucial to understand how characteristics of Instagram news stories affect learning. A field experiment was conducted to investigate the effects of typical Instagram infotainment features—interaction, dynamic elements, and narration—on knowledge about current affairs. Participants (n = 350) followed a manipulated Instagram account for a week and then completed a knowledge test. Overall, exposure to the Instagram stories had a positive effect on knowledge; participants in all experimental conditions had higher knowledge than participants in the control group. This differs from previous findings related to other social media news, for example on Facebook. However, the infotainment features did not affect tracked exposure to the news stories or learning from the news. Moreover, they did not lead to entertainment experiences, which questions underlying assumptions about infotainment.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2713000",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1461670x.2026.2699782",
         "title": "Is Digitization Turning the Inverted Pyramid Upside Down? A Longitudinal Analysis of a Hundred Years of News Storytelling",
@@ -1848,44 +1886,6 @@
         "abstract": "Applying the transactional theory of stress and coping, this study examined the relationships among Korean journalists’ stressors from audience-related harassment, coping strategies, organizational support, and job satisfaction, in addition to gender differences. A survey of 2,011 Korean journalists found that their stressors were associated with high coping and low job satisfaction. Korean journalists’ coping strategies did not enhance job satisfaction, questioning the success of coping. Instead, active organizational support played a crucial moderating role in improving low job satisfaction. The results imply that Korean journalists’ coping appears not to be fulfilled without organizational intervention. In gender differences, women journalists experienced more online harassment, while men experienced more face-to-face confrontations. These findings suggest that Korean news organizations should implement tailored support programs to address and improve hostility toward journalists. News organizations need to reevaluate journalists’ coping and provide follow-up solutions. As men and women journalists experience differing harassment, organizational attention to gender needs to be customized. Further implications in global journalism contexts were discussed.",
         "url": "https://doi.org/10.1080/1461670x.2026.2643759",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2643758",
-        "title": "Expressive News Preferences: Identity-Signaling in News Selection",
-        "authors": [
-          "Seonhye Noh"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "News selection",
-          "Identity signaling",
-          "Social identity",
-          "Media consumption"
-        ],
-        "abstract": "In polarized media environments, individuals’ news preferences may reflect identity signaling rather than genuine informational needs. This study introduces the concept of expressive news preferences—inflated news selections relative to actual news consumption. A preregistered web-based experiment with a national U.S. sample (N = 1,280) tested how consumption expectation and selection publicity influence attitude-consistent news choices. Participants selected gun control headlines under one of four conditions varying by whether they expected to read the full articles, and whether their selections were imagined to be public or private. Results show that participants selected significantly more attitude-consistent news when they did not expect to consume the content. Expressive bias did not significantly vary by selection publicity, but moderate partisans exhibited greater expressive bias than other groups. These findings highlight identity-signaling tendencies in low-cost selection contexts and caution against interpreting selection-based preference measures as direct reflections of real-world news consumption.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2643758",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2643227",
-        "title": "Beyond the Calling: How Passion and Identity Shape the Recruitment of US Journalists",
-        "authors": [
-          "Ammina Kothari",
-          "Sadia Ehsan Cheema",
-          "Eugeniya Iskrenova-Ekiert"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Journalist recruitment",
-          "Professional identity",
-          "Occupational passion",
-          "Career motivation"
-        ],
-        "abstract": "This study examines how news organizations use the term passion when describing ideal job candidates and how journalists interpret passion in relation to their work, framed through the Dualistic Model of Passion. Using a mixed-methods approach, we analyzed a corpus of U.S. journalism job announcements (N = 301) and responses from U.S. journalists (N = 55) to explore organizational and individual understandings of passion and its professional implications. Findings indicate that news organizations frame passion as a desirable personality trait necessary for success in the role, whereas journalists view it as a source of joy and a core aspect of professional identity, guiding authentic engagement with their work. The study highlights the multidimensional nature of passion in journalism, showing that journalists with harmonious passion navigate newsroom challenges and adapt to change more effectively than those with obsessive passion.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2643227",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1898,7 +1898,7 @@
           "Morten Skovsgaard"
         ],
         "year": 2024,
-        "citation_count": 32,
+        "citation_count": 33,
         "topics": [
           "Journalism",
           "Artificial Intelligence",
@@ -1907,26 +1907,6 @@
         ],
         "abstract": "Recent advancements in generative artificial intelligence raise fundamental questions about its impact on the journalistic profession and the future role of journalists in news production. However, the attitudes of regular journalists towards artificial intelligence remain largely unexplored. We address this gap by investigating the potentials and concerns that Danish journalists attribute to the impact of artificial intelligence on journalism. Journalists largely acknowledge its potential to streamline news production. While they also express broader concerns about the trustworthiness of journalism and the risk of job displacement, their more immediate worry lies in the impact of artificial intelligence on job meaningfulness and professional identity. These findings reveal a differentiated perspective on the profession-wide and individual impacts of artificial intelligence on journalism. Furthermore, journalists emphasise their human qualities and skills such as nuanced judgement, empathy, and creativity as beyond artificial intelligence’s capabilities. This indicates that artificial intelligence prompts journalists to reshape their expertise to prioritise the human touch in journalism, suggesting a broadened view of the journalistic profession. By examining these perceptions among regular journalists, this study contributes to a better understanding of the multifaceted challenges that artificial intelligence poses to both individual journalistic practices and the broader profession.",
         "url": "https://doi.org/10.1080/1461670x.2024.2412212",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2393131",
-        "title": "Introduction: What We (Don’t) Know About News Avoidance",
-        "authors": [
-          "Kim Viborg Andersen",
-          "Benjamin Toff",
-          "Brita Ytre-Arne"
-        ],
-        "year": 2024,
-        "citation_count": 25,
-        "topics": [
-          "News avoidance",
-          "Media consumption",
-          "Audience behavior",
-          "Communication research"
-        ],
-        "abstract": "Interest in news avoidance has recently grown both inside and outside academia. In this introduction to a special issue on the topic, we present a systematic review of existing studies (N = 116) and discuss what we (don’t) know about this phenomenon. Our review illustrates that news avoidance has been examined through qualitative, mixed, but most often quantitative studies, conducted primarily in Western countries, although with important exceptions. We highlight how existing literature portrays news avoidance as a multidimensional phenomenon—encompassing behavioral and expressive components—affected by factors at the levels of the (missing) audiences, the news content, and the broader structural context. In terms of blind spots, we know relatively much about causes for news avoidance and some of its consequences, but less about counterstrategies. Also, while much of our knowledge is centered around audiences, we know little about the roles of other actors, such as the news media, journalists, and intermediaries. We end by discussing what the research field can learn by studying news avoidance, highlighting the value of understanding how audiences relate to journalism through a diverse set of methodological approaches. We also stress the need to carefully consider normative assumptions when positioning news avoidance as a problem.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2393131",
         "topics_llm": true
       },
       {
@@ -1941,7 +1921,7 @@
           "Wang Ngai Yeung"
         ],
         "year": 2025,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "AI in journalism",
           "Organizational knowledge silos",
@@ -1961,7 +1941,7 @@
           "Jörg Matthes"
         ],
         "year": 2025,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Automated journalism",
           "Public trust",
@@ -2046,7 +2026,7 @@
           "Ella McPherson"
         ],
         "year": 2025,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Fact-checking",
           "Epistemology",
@@ -2083,7 +2063,7 @@
           "Yael de Haan"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Journalism education",
           "Media landscape",
@@ -2101,7 +2081,7 @@
           "Johana Kotišová"
         ],
         "year": 2025,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Journalism",
           "Affective epistemology",
@@ -2110,27 +2090,6 @@
         ],
         "abstract": "This conceptual paper aims to theorize the role of journalists’ bodies in knowledge-making practices by focusing on affects and emotions as a mediatrix of biological, social, and political bodies. It does so by developing the concepts of journalists’ “affective epistemology” and “epistemic affordances” of emotions and affect that, altogether, aim to provide journalism researchers with a conceptual toolkit for studying the role of emotions and affect in journalistic epistemology. The notion of affective epistemology is based on (1) relevant empirical research on journalism, emotions, and affect, (2) Feminist Standpoint Epistemology, and (3) selected philosophical, sociological, and anthropological theories of emotions and embodied knowledge. The paper also identifies five epistemic affordances of emotions and affect in journalism, i.e., ways how they can be illuminating as well as blinding in journalists’ knowledge-building and fact-finding practices: motivational, methodological-analytical, ontological-narrative, collaborative-innovative, and phatic-interactional. Examples illustrating these affordances come from existing research on various journalism beats, from lifestyle and cultural journalism to conflict reporting. In conclusion, I ask how journalists can integrate emotions in knowledge-building practices in a way that makes emotions rather illuminating than blinding. I suggest that a productive use of emotions/affects requires maximum reflexivity, virtue responsibility, and emotional literacy.",
         "url": "https://doi.org/10.1080/1461670x.2025.2495726",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2385925",
-        "title": "Boundary Work in the Nordic Media Model: Metajournalistic Discourse on Alternative Media in Denmark, Norway, and Sweden",
-        "authors": [
-          "Leif Hemming Pedersen",
-          "Karoline Andrea Ihlebæk",
-          "Tine Ustad Figenschou",
-          "Eva Mayerhöffer"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Alternative media",
-          "Metajournalistic discourse",
-          "Nordic journalism",
-          "Boundary work"
-        ],
-        "abstract": "The increasing prominence of alternative news media has been identified as a particular challenge to contemporary established journalism, next to collapsing financial models, platform dependency, falling levels of trust and increased competition. Against this background, this study examines how news editors from 23 established news organizations in Sweden, Norway, and Denmark view the rise and role of alternative news media and thereby the boundaries of the journalistic field. Combining strategic action field theory, boundary work and the concept of metajournalistic discourse, it identifies three metajournalistic discourses—We are the (real) journalists, We are in control (for now), and We are under pressure. Together, these metajournalistic discourses portray alternative news media as a challenge that largely has been overcome, and as currently insignificant actors that clearly do not represent “real journalism”. At the same time, the discourses also display concerns that alternative news media might represent potential future field ruptures via their association with broader potentially detrimental media developments, such as genre-confused media audiences or harassment of journalists.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2385925",
         "topics_llm": true
       },
       {
@@ -2328,6 +2287,24 @@
         ],
         "abstract": "This paper examines the relationship between journalism, caregiving, and family-building, focusing on women journalists in Portugal. Drawing on a critical thematic analysis of thirty interviews, it explores an analytic framework that includes cultural, structural, and agentic dimensions of career limitations, organised in three overarching themes. The first examines how women journalists experience work constraints stemming from traditional cultural ideals where women are still the main caregivers and work cultures that perpetuate a male perspective on professional routines. The second theme explores the mismatch between work and care responsibilities that arises from prevailing family structures and work processes. The third theme centres on how women journalists respond to constraints by making choices and developing strategies. Journalists’ reflexive deliberations about career decisions, employment conditions, family life and cultural assumptions underpinning parenthood demonstrate the complex interrelationship between cultural and working structures, organisational materiality, and agency. Together, these dimensions replicate patterns that make journalism more inhospitable for women. A central point in this research is that while a systemic gender bias exists beyond the sector, workplace inequalities are particularly consequential for journalism and democracy.",
         "url": "https://doi.org/10.1080/1461670x.2024.2420187",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2025.2531788",
+        "title": "Bodying the War Correspondent: Deploying Creative Practice to Explore the Reporter's Body as a Sense-Making Tool",
+        "authors": [
+          "Celine Patricia Kearney",
+          "Lisa Waller"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "War correspondence",
+          "Embodied journalism",
+          "Creative research methods"
+        ],
+        "abstract": "In her 2021 essay, Bodying the Journalist, Chantal Francoeur acknowledges that journalists’ bodily experiences – “that complex assemblage of impulses, reactions, senses, emotions, energies and physical states” – are not easy to categorise or analyse. She argues that foregrounding the body both as an object of study and as a key resource for conducting research lies in part with journalists themselves investigating how they use their bodies as sense-making tools. This article operationalises Francoeur's three-dimensional framework for understanding how journalists deploy their bodies through the creation and analysis of a personal essay about the lived experience of a Reuters staff correspondent who was assigned to Afghanistan in 2011. The essay was written by one of the authors in journalism's creative non-fiction genre to explore her everyday encounters and embodied routines during a key period in the conflict that saw a surge in violence and coincided with the major news event of Osama Bin Laden's death. The personal essay's focus on how the journalist mobilised her body in her daily encounters with the new environment and interactions with others contributes to growing recognition of the emotional and physical work performed behind news headlines.",
+        "url": "https://doi.org/10.1080/1461670x.2025.2531788",
         "topics_llm": true
       },
       {

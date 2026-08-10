@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-08-03T09:42:06Z",
-  "trending_from": "2024-08-03",
+  "updated_at": "2026-08-10T07:38:23Z",
+  "trending_from": "2024-08-10",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4197,
+        "citation_count": 4202,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2533,
+        "citation_count": 2540,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1830,
+        "citation_count": 1834,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1098,
+        "citation_count": 1108,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 910,
+        "citation_count": 914,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 826,
+        "citation_count": 827,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 433,
+        "citation_count": 434,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 396,
+        "citation_count": 397,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 230,
+        "citation_count": 231,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 200,
+        "citation_count": 201,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 196,
+        "citation_count": 198,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 192,
+        "citation_count": 193,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 164,
+        "citation_count": 166,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -490,7 +490,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 157,
+        "citation_count": 159,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -587,7 +587,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 129,
+        "citation_count": 132,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -726,7 +726,7 @@
           "Laurel S. Gleason"
         ],
         "year": 2012,
-        "citation_count": 103,
+        "citation_count": 104,
         "topics": [
           "Quantitative research methods",
           "Theory development",
@@ -747,7 +747,7 @@
           "Diana C. Mutz"
         ],
         "year": 2017,
-        "citation_count": 101,
+        "citation_count": 102,
         "topics": [
           "Media trust",
           "Press credibility",
@@ -770,7 +770,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2022,
-        "citation_count": 100,
+        "citation_count": 102,
         "topics": [
           "Data donations",
           "Social media measurement",
@@ -1075,25 +1075,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2026.2658505",
-        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
-        "authors": [
-          "Ulrich Schimmack",
-          "Marion Soto"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Statistical power",
-          "Publication bias",
-          "P-curve analysis",
-          "Research credibility"
-        ],
-        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
-        "url": "https://doi.org/10.1080/19312458.2026.2658505",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2026.2652240",
         "title": "Demographic data inclusion tenets in applied data practice: the utilization of the QuantCrit lens to capture demographic fluidness in context",
         "authors": [
@@ -1336,7 +1317,7 @@
           "Sebastian Stier"
         ],
         "year": 2025,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "web scraping",
           "online news consumption",
@@ -1564,7 +1545,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Topic Modelling",
           "Named Entity Recognition",
@@ -1647,7 +1628,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2023,
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Social media effects",
           "Computational methods",
@@ -1708,7 +1689,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 25,
+        "citation_count": 26,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1728,7 +1709,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2023,
-        "citation_count": 10,
+        "citation_count": 12,
         "topics": [
           "Media effects",
           "Digital trace data",
@@ -1858,7 +1839,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 29,
+        "citation_count": 30,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -1882,7 +1863,7 @@
           "William A. Sethares"
         ],
         "year": 2023,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Multimodal analysis",
           "Political debate",
@@ -2024,7 +2005,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2023,
-        "citation_count": 41,
+        "citation_count": 42,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -2033,6 +2014,30 @@
         ],
         "abstract": "Using data donations to collect digital trace data holds great potential for communication research, which has not yet been fully realized. Besides limited awareness and expertise among researchers, a central challenge is to motivate people to donate their personal data. Therefore, this article investigates which factors affect people’s willingness to donate across different platforms and data types. The study applies a multilevel approach that explains the reported willingness to donate different types of data (level 1) belonging to different platforms (level 2) from potential data donors with individual characteristics (level 3) to a hypothetical research project. The analysis is based on data collected through a national online survey (n = 833). We find higher willingness to donate YouTube data compared to Facebook, Instagram, or Google, as well as relevant influencing factors at all three levels. Greater willingness is found for lower perceived sensitivity and higher perceived relevance of the data (level of data type), greater perceived behavioral control to request and submit the data (platform level), more favorable attitudes toward data donation and the donation purpose, as well as lower contextual privacy concerns (individual level). Based on these findings, practical implications for future data donation studies are proposed.",
         "url": "https://doi.org/10.1080/19312458.2023.2176474",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2181319",
+        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
+        "authors": [
+          "Jakob Ohme",
+          "Theo Araujo",
+          "Laura Boeschoten",
+          "Deen Freelon",
+          "Nilám Ram",
+          "Byron Reeves",
+          "Thomas N. Robinson"
+        ],
+        "year": 2023,
+        "citation_count": 166,
+        "topics": [
+          "Digital trace data",
+          "Social media effects",
+          "Research methods",
+          "Content analysis"
+        ],
+        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
+        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       }
     ],
@@ -2069,7 +2074,7 @@
           "Sebastian Stier"
         ],
         "year": 2025,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "web scraping",
           "online news consumption",
