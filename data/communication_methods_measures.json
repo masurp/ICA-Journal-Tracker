@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-08-10T07:38:23Z",
-  "trending_from": "2024-08-10",
+  "updated_at": "2026-08-17T06:52:13Z",
+  "trending_from": "2024-08-17",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4202,
+        "citation_count": 4210,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2540,
+        "citation_count": 2562,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1834,
+        "citation_count": 1846,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1108,
+        "citation_count": 1116,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 914,
+        "citation_count": 916,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 827,
+        "citation_count": 828,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Myers"
         ],
         "year": 2011,
-        "citation_count": 458,
+        "citation_count": 459,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 451,
+        "citation_count": 454,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 426,
+        "citation_count": 427,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 397,
+        "citation_count": 400,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 270,
+        "citation_count": 272,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 240,
+        "citation_count": 242,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -294,6 +294,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2019.1639145",
+        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
+        "authors": [
+          "Dror Walter",
+          "Yotam Ophir"
+        ],
+        "year": 2019,
+        "citation_count": 224,
+        "topics": [
+          "News framing",
+          "Computational methods",
+          "Topic modeling",
+          "Frame analysis"
+        ],
+        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
+        "url": "https://doi.org/10.1080/19312458.2019.1639145",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1455817",
         "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
         "authors": [
@@ -317,25 +336,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2019.1639145",
-        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
-        "authors": [
-          "Dror Walter",
-          "Yotam Ophir"
-        ],
-        "year": 2019,
-        "citation_count": 223,
-        "topics": [
-          "News framing",
-          "Computational methods",
-          "Topic modeling",
-          "Frame analysis"
-        ],
-        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
-        "url": "https://doi.org/10.1080/19312458.2019.1639145",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1458084",
         "title": "When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science",
         "authors": [
@@ -343,7 +343,7 @@
           "Tai‐Quan Peng"
         ],
         "year": 2018,
-        "citation_count": 201,
+        "citation_count": 202,
         "topics": [
           "Computational methods",
           "Big data analysis",
@@ -398,6 +398,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2021.2015574",
+        "title": "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda",
+        "authors": [
+          "Christian Baden",
+          "Christian Pipal",
+          "Martijn Schoonvelde",
+          "Mariken Anna Catharina Geertruida van der Velden"
+        ],
+        "year": 2021,
+        "citation_count": 183,
+        "topics": [
+          "Computational text analysis",
+          "Measurement validity",
+          "Natural language processing",
+          "Multilingual research"
+        ],
+        "abstract": "We identify three gaps that limit the utility and obstruct the progress of computational text analysis methods (CTAM) for social science research. First, we contend that CTAM development has prioritized technological over validity concerns, giving limited attention to the operationalization of social scientific measurements. Second, we identify a mismatch between CTAMs’ focus on extracting specific contents and document-level patterns, and social science researchers’ need for measuring multiple, often complex contents in the text. Third, we argue that the dominance of English language tools depresses comparative research and inclusivity toward scholarly communities examining languages other than English. We substantiate our claims by drawing upon a broad review of methodological work in the computational social sciences, as well as an inventory of leading research publications using quantitative textual analysis. Subsequently, we discuss implications of these three gaps for social scientists’ uneven uptake of CTAM, as well as the field of computational social science text research as a whole. Finally, we propose a research agenda intended to bridge the identified gaps and improve the validity, utility, and inclusiveness of CTAM.",
+        "url": "https://doi.org/10.1080/19312458.2021.2015574",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2016.1150443",
         "title": "Beyond Self-Reports: Using Eye Tracking to Measure Topic and Style Differences in Attention to Social Media Content",
         "authors": [
@@ -418,27 +439,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2021.2015574",
-        "title": "Three Gaps in Computational Text Analysis Methods for Social Sciences: A Research Agenda",
-        "authors": [
-          "Christian Baden",
-          "Christian Pipal",
-          "Martijn Schoonvelde",
-          "Mariken Anna Catharina Geertruida van der Velden"
-        ],
-        "year": 2021,
-        "citation_count": 182,
-        "topics": [
-          "Computational text analysis",
-          "Measurement validity",
-          "Natural language processing",
-          "Multilingual research"
-        ],
-        "abstract": "We identify three gaps that limit the utility and obstruct the progress of computational text analysis methods (CTAM) for social science research. First, we contend that CTAM development has prioritized technological over validity concerns, giving limited attention to the operationalization of social scientific measurements. Second, we identify a mismatch between CTAMs’ focus on extracting specific contents and document-level patterns, and social science researchers’ need for measuring multiple, often complex contents in the text. Third, we argue that the dominance of English language tools depresses comparative research and inclusivity toward scholarly communities examining languages other than English. We substantiate our claims by drawing upon a broad review of methodological work in the computational social sciences, as well as an inventory of leading research publications using quantitative textual analysis. Subsequently, we discuss implications of these three gaps for social scientists’ uneven uptake of CTAM, as well as the field of computational social science text research as a whole. Finally, we propose a research agenda intended to bridge the identified gaps and improve the validity, utility, and inclusiveness of CTAM.",
-        "url": "https://doi.org/10.1080/19312458.2021.2015574",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2023.2181319",
         "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
         "authors": [
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 166,
+        "citation_count": 169,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -460,6 +460,26 @@
         ],
         "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
         "url": "https://doi.org/10.1080/19312458.2023.2181319",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2021.1968361",
+        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
+        "authors": [
+          "Leyla Dogruel",
+          "Philipp K. Masur",
+          "Sven Joeckel"
+        ],
+        "year": 2021,
+        "citation_count": 160,
+        "topics": [
+          "Algorithm literacy",
+          "Digital literacy",
+          "Algorithmic awareness",
+          "Scale development"
+        ],
+        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
+        "url": "https://doi.org/10.1080/19312458.2021.1968361",
         "topics_llm": true
       },
       {
@@ -482,26 +502,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2021.1968361",
-        "title": "Development and Validation of an Algorithm Literacy Scale for Internet Users",
-        "authors": [
-          "Leyla Dogruel",
-          "Philipp K. Masur",
-          "Sven Joeckel"
-        ],
-        "year": 2021,
-        "citation_count": 159,
-        "topics": [
-          "Algorithm literacy",
-          "Digital literacy",
-          "Algorithmic awareness",
-          "Scale development"
-        ],
-        "abstract": "In light of the widespread use of big data analytics, internet users are increasingly confronted with algorithmic decision-making. Developing algorithm literacy is thus crucial to empower users to successfully navigate digital environments. In this paper, we present the development and validation of an algorithm literacy scale that consists of two interrelated dimensions: 1) awareness of algorithms use and 2) knowledge about algorithms. To validate the scale, we use item response theory and report findings from two studies. In study 1, we tested 46 items among N = 331 participants, resulting in a 32-item pool. These items were tested in a second study among N = 1,041 German internet users. The final scale consists of each 11 items measuring algorithm awareness and knowledge. Both subscales correlated positively with participants’ subjective coding skills and proved to be an appropriate predictor for participants’ handling of algorithmic curation in three test-scenarios.",
-        "url": "https://doi.org/10.1080/19312458.2021.1968361",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2013.813922",
         "title": "Tweeting Apart: Applying Network Analysis to Detect Selective Exposure Clusters in Twitter",
         "authors": [
@@ -510,7 +510,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 146,
+        "citation_count": 148,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -519,6 +519,25 @@
         ],
         "abstract": "Twitter users see content mostly from the other users they select to follow. Networks of connected users on Twitter define the set of content to which each user is exposed. We developed a Selective Exposure Cluster (SEC) method to study these connected networks and their discussion patterns in Twitter. To illustrate the SEC method, we collected networks of connections among users who talked about a shared topic: the U.S. President's State of the Union speech in 2012. Cluster analysis was applied to identify subgroups of users who were densely interconnected. These users followed users from their own cluster more than they connected to users in other clusters. In each cluster, the primary distributors of information—the hub users—were identified, along with the hashtags, hyperlinks, and top-mentioned usernames in the content of the messages. Each of these indicators was labeled in terms of its political orientation. An analysis of the resulting patterns of selective exposure suggests that users participate in fragmented interactions and form divided groups in which people tune in to a narrow segment of the wider range of politically oriented information sources. We discuss the strengths and weaknesses of the proposed Selective Exposure Cluster method.",
         "url": "https://doi.org/10.1080/19312458.2013.813922",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2012.703834",
+        "title": "Testing Equivalence in Communication Research: Theory and Application",
+        "authors": [
+          "René Weber",
+          "Lucy Popova"
+        ],
+        "year": 2012,
+        "citation_count": 137,
+        "topics": [
+          "Equivalence testing",
+          "Statistical methods",
+          "Null hypothesis",
+          "Communication research"
+        ],
+        "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
+        "url": "https://doi.org/10.1080/19312458.2012.703834",
         "topics_llm": true
       },
       {
@@ -559,25 +578,6 @@
         ],
         "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes – at least in the context of Dutch economic news – and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
         "url": "https://doi.org/10.1080/19312458.2019.1671966",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2012.703834",
-        "title": "Testing Equivalence in Communication Research: Theory and Application",
-        "authors": [
-          "René Weber",
-          "Lucy Popova"
-        ],
-        "year": 2012,
-        "citation_count": 135,
-        "topics": [
-          "Equivalence testing",
-          "Statistical methods",
-          "Null hypothesis",
-          "Communication research"
-        ],
-        "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
-        "url": "https://doi.org/10.1080/19312458.2012.703834",
         "topics_llm": true
       },
       {
@@ -708,7 +708,7 @@
           "Christopher Monterola"
         ],
         "year": 2011,
-        "citation_count": 107,
+        "citation_count": 108,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -738,6 +738,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2022.2109608",
+        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "authors": [
+          "Irene I. van Driel",
+          "Anastasia Giachanou",
+          "J. Loes Pouwels",
+          "Laura Boeschoten",
+          "Ine Beyens",
+          "Patti M. Valkenburg"
+        ],
+        "year": 2022,
+        "citation_count": 103,
+        "topics": [
+          "Data donations",
+          "Social media measurement",
+          "Digital data collection",
+          "Adolescent online behavior"
+        ],
+        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
+        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2016.1271113",
         "title": "Measuring Trust in the Press in a Changing Media Environment",
         "authors": [
@@ -759,26 +782,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2022.2109608",
-        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "doi": "10.1080/19312458.2013.873777",
+        "title": "Experimental Manipulation of Psychological Involvement with Media",
         "authors": [
-          "Irene I. van Driel",
-          "Anastasia Giachanou",
-          "J. Loes Pouwels",
-          "Laura Boeschoten",
-          "Ine Beyens",
-          "Patti M. Valkenburg"
+          "Riva Tukachinsky"
         ],
-        "year": 2022,
-        "citation_count": 102,
+        "year": 2014,
+        "citation_count": 94,
         "topics": [
-          "Data donations",
-          "Social media measurement",
-          "Digital data collection",
-          "Adolescent online behavior"
+          "Media involvement",
+          "Experimental manipulation",
+          "Transportation and immersion",
+          "Meta-analysis"
         ],
-        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
-        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
+        "url": "https://doi.org/10.1080/19312458.2013.873777",
         "topics_llm": true
       },
       {
@@ -801,24 +819,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2013.873777",
-        "title": "Experimental Manipulation of Psychological Involvement with Media",
-        "authors": [
-          "Riva Tukachinsky"
-        ],
-        "year": 2014,
-        "citation_count": 93,
-        "topics": [
-          "Media involvement",
-          "Experimental manipulation",
-          "Transportation and immersion",
-          "Meta-analysis"
-        ],
-        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
-        "url": "https://doi.org/10.1080/19312458.2013.873777",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1555799",
         "title": "Reporting Mobile Social Media Use: How Survey and Experience Sampling Measures Differ",
         "authors": [
@@ -827,7 +827,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 91,
+        "citation_count": 92,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -846,7 +846,7 @@
           "Edward T. Palazzolo"
         ],
         "year": 2010,
-        "citation_count": 87,
+        "citation_count": 88,
         "topics": [
           "Social network analysis",
           "Exponential random graph models",
@@ -1295,7 +1295,7 @@
           "René Weber"
         ],
         "year": 2025,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Moral communication",
           "Crowdsourcing",
@@ -1545,7 +1545,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2024,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Topic Modelling",
           "Named Entity Recognition",
@@ -1564,7 +1564,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 17,
+        "citation_count": 18,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1648,7 +1648,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 32,
+        "citation_count": 33,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1689,7 +1689,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 26,
+        "citation_count": 27,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -2005,7 +2005,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2023,
-        "citation_count": 42,
+        "citation_count": 44,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -2029,7 +2029,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 166,
+        "citation_count": 169,
         "topics": [
           "Digital trace data",
           "Social media effects",

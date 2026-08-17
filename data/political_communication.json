@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-08-10T07:38:10Z",
-  "trending_from": "2024-08-10",
+  "updated_at": "2026-08-17T06:51:59Z",
+  "trending_from": "2024-08-17",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 1994,
+        "citation_count": 1995,
         "topics": [
           "News framing",
           "Political discourse",
@@ -30,7 +30,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 1575,
+        "citation_count": 1579,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1484,
+        "citation_count": 1488,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1047,
+        "citation_count": 1048,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -104,7 +104,7 @@
           "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 976,
+        "citation_count": 977,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -142,7 +142,7 @@
           "Michael X. Delli Carpini"
         ],
         "year": 2000,
-        "citation_count": 729,
+        "citation_count": 731,
         "topics": [
           "Civic Engagement",
           "Youth Political Participation",
@@ -160,7 +160,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 631,
+        "citation_count": 635,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -169,6 +169,25 @@
         ],
         "abstract": "Across three separate experiments, I find that exposure to negative political information continues to shape attitudes even after the information has been effectively discredited. I call these effects “belief echoes.” Results suggest that belief echoes can be created through an automatic or deliberative process. Belief echoes occur even when the misinformation is corrected immediately, the “gold standard” of journalistic fact-checking. The existence of belief echoes raises ethical concerns about journalists’ and fact-checking organizations’ efforts to publicly correct false claims.",
         "url": "https://doi.org/10.1080/10584609.2015.1102187",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2012.671234",
+        "title": "Affective News: The Automated Coding of Sentiment in Political Texts",
+        "authors": [
+          "Lori Young",
+          "Stuart Soroka"
+        ],
+        "year": 2012,
+        "citation_count": 616,
+        "topics": [
+          "Sentiment analysis",
+          "Automated coding",
+          "Political communication",
+          "News content analysis"
+        ],
+        "abstract": "An increasing number of studies in political communication focus on the “sentiment” or “tone” of news content, political speeches, or advertisements. This growing interest in measuring sentiment coincides with a dramatic increase in the volume of digitized information. Computer automation has a great deal of potential in this new media environment. The objective here is to outline and validate a new automated measurement instrument for sentiment analysis in political texts. Our instrument uses a dictionary-based approach consisting of a simple word count of the frequency of keywords in a text from a predefined dictionary. The design of the freely available Lexicoder Sentiment Dictionary (LSD) is discussed in detail here. The dictionary is tested against a body of human-coded news content, and the resulting codes are also compared to results from nine existing content-analytic dictionaries. Analyses suggest that the LSD produces results that are more systematically related to human coding than are results based on the other available dictionaries. The LSD is thus a useful starting point for a revived discussion about dictionary construction and validation in sentiment analysis for political communication.",
+        "url": "https://doi.org/10.1080/10584609.2012.671234",
         "topics_llm": true
       },
       {
@@ -187,25 +206,6 @@
         ],
         "abstract": "This study of the main evening television news programs in four European countries focuses on the framing of news surrounding a major European event, the January 1, 1999, introduction of the common European currency, the euro. We investigated the visibility of political and economic news in general and of the launch of the euro in particular. We found variations across countries in the emphasis on political and economic news, with the proportion of the newscast normally devoted to these subjects ranging from 45% to 60%. Journalists in all countries were more likely to emphasize conflict (rather than economic consequences) in framing general political and economic news. In the coverage of the launch of the euro, there was a greater emphasis on framing the news in terms of economic consequences. The findings are discussed in terms of influences on framing practices internal and external to journalism and the value of the cross-national comparative approach.",
         "url": "https://doi.org/10.1080/105846001750322934",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2012.671234",
-        "title": "Affective News: The Automated Coding of Sentiment in Political Texts",
-        "authors": [
-          "Lori Young",
-          "Stuart Soroka"
-        ],
-        "year": 2012,
-        "citation_count": 612,
-        "topics": [
-          "Sentiment analysis",
-          "Automated coding",
-          "Political communication",
-          "News content analysis"
-        ],
-        "abstract": "An increasing number of studies in political communication focus on the “sentiment” or “tone” of news content, political speeches, or advertisements. This growing interest in measuring sentiment coincides with a dramatic increase in the volume of digitized information. Computer automation has a great deal of potential in this new media environment. The objective here is to outline and validate a new automated measurement instrument for sentiment analysis in political texts. Our instrument uses a dictionary-based approach consisting of a simple word count of the frequency of keywords in a text from a predefined dictionary. The design of the freely available Lexicoder Sentiment Dictionary (LSD) is discussed in detail here. The dictionary is tested against a body of human-coded news content, and the resulting codes are also compared to results from nine existing content-analytic dictionaries. Analyses suggest that the LSD produces results that are more systematically related to human coding than are results based on the other available dictionaries. The LSD is thus a useful starting point for a revived discussion about dictionary construction and validation in sentiment analysis for political communication.",
-        "url": "https://doi.org/10.1080/10584609.2012.671234",
         "topics_llm": true
       },
       {
@@ -254,7 +254,7 @@
           "Geoffrey Baym"
         ],
         "year": 2005,
-        "citation_count": 559,
+        "citation_count": 561,
         "topics": [
           "Political satire",
           "News and entertainment",
@@ -273,7 +273,7 @@
           "Tim Groeling"
         ],
         "year": 2008,
-        "citation_count": 543,
+        "citation_count": 544,
         "topics": [
           "Political polarization",
           "New media",
@@ -292,7 +292,7 @@
           "Chris Wells"
         ],
         "year": 2020,
-        "citation_count": 534,
+        "citation_count": 536,
         "topics": [
           "Disinformation",
           "Political communication",
@@ -330,7 +330,7 @@
           "Tamir Sheafer"
         ],
         "year": 2007,
-        "citation_count": 517,
+        "citation_count": 519,
         "topics": [
           "Political personalization",
           "Media and politics",
@@ -348,7 +348,7 @@
           "John Zaller"
         ],
         "year": 2003,
-        "citation_count": 499,
+        "citation_count": 500,
         "topics": [
           "News quality",
           "Journalism",
@@ -366,7 +366,7 @@
           "William P. Eveland"
         ],
         "year": 2004,
-        "citation_count": 493,
+        "citation_count": 494,
         "topics": [
           "Political discussion",
           "Political knowledge",
@@ -423,7 +423,7 @@
           "Lilach Nir"
         ],
         "year": 2002,
-        "citation_count": 439,
+        "citation_count": 440,
         "topics": [
           "Political deliberation",
           "Disagreement",
@@ -462,7 +462,7 @@
           "Neta Kligler-Vilenchik"
         ],
         "year": 2020,
-        "citation_count": 428,
+        "citation_count": 430,
         "topics": [
           "Political polarization",
           "Social media analysis",
@@ -499,7 +499,7 @@
           "Stephen McAdams"
         ],
         "year": 2015,
-        "citation_count": 414,
+        "citation_count": 416,
         "topics": [
           "Negativity bias",
           "Political communication",
@@ -518,7 +518,7 @@
           "Neil Malhotra"
         ],
         "year": 2015,
-        "citation_count": 410,
+        "citation_count": 411,
         "topics": [
           "Media coverage",
           "Partisan polarization",
@@ -573,7 +573,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2017,
-        "citation_count": 384,
+        "citation_count": 385,
         "topics": [
           "Technology companies",
           "Political communication",
@@ -582,26 +582,6 @@
         ],
         "abstract": "This article offers the first analysis of the role that technology companies, specifically Facebook, Twitter, Microsoft, and Google, play in shaping the political communication of electoral campaigns in the United States. We offer an empirical analysis of the work technology firms do around electoral politics through interviews with staffers at these firms and digital and social media directors of 2016 U.S. presidential primary and general election campaigns, in addition to field observations at the 2016 Democratic National Convention. We find that technology firms are motivated to work in the political space for marketing, advertising revenue, and relationship-building in the service of lobbying efforts. To facilitate this, these firms have developed organizational structures and staffing patterns that accord with the partisan nature of American politics. Furthermore, Facebook, Twitter, and Google go beyond promoting their services and facilitating digital advertising buys, actively shaping campaign communication through their close collaboration with political staffers. We show how representatives at these firms serve as quasi-digital consultants to campaigns, shaping digital strategy, content, and execution. Given this, we argue that political communication scholars need to consider social media firms as more active agents in political processes than previously appreciated in the literature.",
         "url": "https://doi.org/10.1080/10584609.2017.1364814",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/105846099198541",
-        "title": "News, Talk, Opinion, Participation: The Part Played by Conversation in Deliberative Democracy",
-        "authors": [
-          "Joohan Kim",
-          "Robert O. Wyatt",
-          "Elihu Katz"
-        ],
-        "year": 1999,
-        "citation_count": 381,
-        "topics": [
-          "Deliberative democracy",
-          "Political conversation",
-          "News media use",
-          "Political participation"
-        ],
-        "abstract": "Deliberative democracy can be defined as a political system based on citizens' free discussion of public issues. While most scholars have discussed deliberative democracy normatively, this study attempts to test the validity of a model of deliberative democracy through examining the interrelationships among its four components: newsmedia use, political conversation, opinion formation, and political participation. Sufficient empirical evidence was found to support the hypotheses that (a) news-media use is closely associated with the frequency of political conversation in daily life both at general and issue-specific levels; (b) willingness to argue with those who have different opinions is influenced by majority perceptions and by news-media use and political talk; (c) news-media use and political conversation have positive effects on certain measures of the quality of opinions (argument quality, consideredness, and opinionation) and perhaps on opinion consistency; and (d) news-media use and political conversation are closely associated also with participatory activities, but more so with \"campaigning\" than \"complaining.\"",
-        "url": "https://doi.org/10.1080/105846099198541",
         "topics_llm": true
       },
       {
@@ -614,7 +594,7 @@
           "Stefan Müller"
         ],
         "year": 2021,
-        "citation_count": 379,
+        "citation_count": 384,
         "topics": [
           "Social media",
           "Agenda setting",
@@ -623,6 +603,26 @@
         ],
         "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
         "url": "https://doi.org/10.1080/10584609.2021.1910390",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/105846099198541",
+        "title": "News, Talk, Opinion, Participation: The Part Played by Conversation in Deliberative Democracy",
+        "authors": [
+          "Joohan Kim",
+          "Robert O. Wyatt",
+          "Elihu Katz"
+        ],
+        "year": 1999,
+        "citation_count": 382,
+        "topics": [
+          "Deliberative democracy",
+          "Political conversation",
+          "News media use",
+          "Political participation"
+        ],
+        "abstract": "Deliberative democracy can be defined as a political system based on citizens' free discussion of public issues. While most scholars have discussed deliberative democracy normatively, this study attempts to test the validity of a model of deliberative democracy through examining the interrelationships among its four components: newsmedia use, political conversation, opinion formation, and political participation. Sufficient empirical evidence was found to support the hypotheses that (a) news-media use is closely associated with the frequency of political conversation in daily life both at general and issue-specific levels; (b) willingness to argue with those who have different opinions is influenced by majority perceptions and by news-media use and political talk; (c) news-media use and political conversation have positive effects on certain measures of the quality of opinions (argument quality, consideredness, and opinionation) and perhaps on opinion consistency; and (d) news-media use and political conversation are closely associated also with participatory activities, but more so with \"campaigning\" than \"complaining.\"",
+        "url": "https://doi.org/10.1080/105846099198541",
         "topics_llm": true
       },
       {
@@ -710,7 +710,7 @@
           "Erik C. Nisbet"
         ],
         "year": 2004,
-        "citation_count": 338,
+        "citation_count": 339,
         "topics": [
           "Political participation",
           "Social networks",
@@ -728,7 +728,7 @@
           "Murray Edelman"
         ],
         "year": 1993,
-        "citation_count": 336,
+        "citation_count": 338,
         "topics": [
           "Political framing",
           "Public opinion",
@@ -765,7 +765,7 @@
           "Eytan Gilboa"
         ],
         "year": 2005,
-        "citation_count": 328,
+        "citation_count": 330,
         "topics": [
           "CNN Effect",
           "Media influence",
@@ -783,7 +783,7 @@
           "Regina G. Lawrence"
         ],
         "year": 2000,
-        "citation_count": 323,
+        "citation_count": 324,
         "topics": [
           "Game framing",
           "News framing",
@@ -839,7 +839,7 @@
           "Deen Freelon"
         ],
         "year": 2018,
-        "citation_count": 303,
+        "citation_count": 305,
         "topics": [
           "API restrictions",
           "Research methodology",
@@ -858,7 +858,7 @@
           "Steven H. Chaffee"
         ],
         "year": 2002,
-        "citation_count": 294,
+        "citation_count": 295,
         "topics": [
           "Political socialization",
           "Family communication",
@@ -947,6 +947,120 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2701201",
+        "title": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
+        "authors": [
+          "Hanzhang Liu",
+          "Linan Yao"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Propaganda",
+          "Authoritarian media",
+          "Entertainment framing",
+          "Audience persuasion"
+        ],
+        "abstract": "For authoritarian propaganda to change hearts and minds, it must first reach the masses and capture their attention. In an era of media proliferation, what can an authoritarian regime do to make ordinary citizens consume pro-regime propaganda voluntarily? How can it lower citizens’ resistance to being indoctrinated? In this article, we answer these questions by studying a new generation of propaganda movies in contemporary China. Leveraging observational data and a pre-registered survey experiment, we find that entertainment elements in propaganda movies – both personality-based and narrative-based – play a key role in appealing to viewers and increasing consumption; this effect is especially pronounced among groups that are the least inclined to expose themselves to propaganda in the first place. Also, viewers are more receptive to political indoctrination when it is interwoven with entertainment, even when they recognize such content. Combined, these findings highlight the importance of entertainment in authoritarian propaganda: not only does it serve as a vehicle to disseminate political indoctrination, but it also functions as a source of appeal that renders such indoctrination more palatable to the masses.",
+        "url": "https://doi.org/10.1080/10584609.2026.2701201",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2714818",
+        "title": "Affective Legitimacy and Digital Populism: Evidence from Romania’s Annulled Presidential Elections",
+        "authors": [
+          "Antonio Amuza",
+          "Vasile Dîncu"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital populism",
+          "Democratic legitimacy",
+          "Social media polarization",
+          "Political institutions"
+        ],
+        "abstract": "On 6 December 2024, Romania’s Constitutional Court annulled the first round of presidential elections, triggering an exceptional crisis of democratic legitimacy in post-communist Europe. While procedurally justified, the decision sparked intense public reactions, both emotional and political. The findings confirm that populist interpretations of institutional actions proliferate in fragmented and emotionalized digital media environments, where distrust is personalized and intensified. Drawing on a nationally representative survey (N = 964), conducted by IRES shortly after the annulment, the study examines how Romanian citizens perceived the legitimacy of the Court’s decision and identifies the key socio-political and media-related factors shaping these perceptions. Binary logistic regression and mediation models were used to assess the drivers of perceived illegitimacy. TikTok use, negative emotions (anger, disappointment, resentment), political distrust, and anti-establishment party support significantly increase the likelihood of viewing the decision as illegitimate, whereas trust in journalists reduces it. The study contributes to the literature on populism as a communicative style and emotional register, showing how legitimacy itself becomes a contested symbol in digital environments marked by personalization, fragmentation, and affective intensification. We argue that institutional legitimacy is no longer grounded solely in procedural legality but is increasingly shaped by emotionally resonant narratives circulating through digital platforms. We complement the survey with a headline-level media analysis (N = 3,923; Dec 2024 - Aug 2025), to serve as a contextual counterfactual: instead of escalating antagonism, mainstream media gradually stabilize institutional language. A keyness comparison shows that the Early window (first 14 days) is driven by institutional/legal terms (CCR, decision, annulment), while the Late window becomes actor-centric (Simion, Antonescu, Ponta, Bolojan). Over time, lexical entropy declines markedly, signaling a standardization of vocabulary around procedural frames rather than escalating antagonism. Taken together, the results point to a decoupling between media normalization and individual affect, suggesting that democratic legitimacy in platformized communication environments is increasingly produced through affective legitimacy rather than procedural authority.",
+        "url": "https://doi.org/10.1080/10584609.2026.2714818",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2715697",
+        "title": "Kamala is Brat: TikTok and the Affective Politics of Memes",
+        "authors": [
+          "Laura Cervi",
+          "Sarah J. Jackson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Memes",
+          "TikTok",
+          "Political communication",
+          "Affect theory"
+        ],
+        "abstract": "In this article, we examine TikTok memes about former Vice president Kamala Harris that circulated through the digital registers of the Charli XCX-inspired “Kamala is Brat” trend. By analyzing the form, function, and affective resonance of these memes, we explore how creators interpreted and reframed Harris’s image leading up to the 2024 U.S. presidential election. Using a multimodal analysis, we introduce a three-layer analytic that distinguishes memetic form, communicative function, and affective character. Our findings show how creators mobilized recognizable meme templates, narrative positioning, and affective cues to recast Harris through identity-signaling and aesthetic contrast to her opponent. We also find that TikTok’s features enabled a pop culture intertextuality in which other viral trends – including the appeal of “it girl” Julia Fox, and the symbolic ambiguity of signifiers ranging from Pulp Fiction, The Matrix, and coconuts – become linked to the candidate. We argue that platform-native meme cultures on TikTok operate as mechanisms of vernacular electoral mediation, enabling creators to reinterpret candidate imagery and political narratives through the aesthetic conventions of platform culture. In doing so, this work demonstrates how participatory meme practices contribute to the symbolic construction of electoral candidates in contemporary digital media environments.",
+        "url": "https://doi.org/10.1080/10584609.2026.2715697",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2715700",
+        "title": "Policing the Political Boundary: How the r/BarstoolSports Audience Confronts Politicization",
+        "authors": [
+          "Elliott Edsall"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online communities",
+          "Political discourse",
+          "Media audience",
+          "Subreddit culture"
+        ],
+        "abstract": "Recent scholarship attends to politicized popular cultural spaces. Scarcely understood is how audiences of these spaces contend with this scrutiny. In response, I introduce the concept of anti-political space to describe how fans of politicized media spatially distinguish popular cultural spaces from institutional politics. This is conceptualized through a critical discourse analysis of the official Barstool Sports (Barstool) subreddit from 2019 to 2025, where fans share critical news coverage of Barstool. Across 16 analyzed threads, criticism is rendered unfounded or demonstrative of politically obsessed liberal culture. I argue fans’ varied expressions of victimhood and estrangement, while nominally defending against politicization, showcase how reactionary political discourse appears beyond institutional political spaces. Theoretically, this analysis recognizes how symbolic contests over what constitutes politics occur through boundary work. As the political relevance of popular cultural spaces increases in the contemporary media landscape, this analysis underscores how boundary work defends against the felt intrusion of politics into popular culture. Amid broader sociotechnical changes, I suggest anti-political spaces are poised to be a continued feature of the contemporary media environment.",
+        "url": "https://doi.org/10.1080/10584609.2026.2715700",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2716378",
+        "title": "Examining the Influence of Media Coverage on Information-Seeking of Judicial Candidates",
+        "authors": [
+          "Marcy Shieh"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Judicial communication",
+          "Media coverage",
+          "Information-seeking behavior",
+          "Political candidates"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/10584609.2026.2716378",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2708127",
+        "title": "Trending Topics, Growing Knowledge? How Curating Actors’ Political Social Media Content Affects Youth’s Political Knowledge",
+        "authors": [
+          "Margot Lissens",
+          "Cato Waeterloos",
+          "Laura Vandenbosch",
+          "Desirée Schmuck"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media",
+          "Political knowledge",
+          "Youth",
+          "Opinion leadership"
+        ],
+        "abstract": "Whether youth can gain political knowledge through social media is long debated. Existing research has insufficiently accounted for different curating actors of political information, an indirect learning logic, and within-person changes. To fill these gaps, we conducted a large-scale three-wave panel study among 16- to 30-year-olds (NT3 = 2276) to examine how exposure to different social media actors such as politicians, peers, or influencers relates to the acquisition of current affairs knowledge over time. We investigated perceived opinion leadership gratifications as a novel underlying mechanism in this process. While increased exposure to all curating actors’ political content was related to higher opinion leadership gratifications in the same wave, we found little indirect learning effects over time on the within-person level through obtained gratifications. This association emerged only during the national election period, when perceived opinion leadership gratifications from peers’ political content were linked to above-usual gains in objective political knowledge over time.",
+        "url": "https://doi.org/10.1080/10584609.2026.2708127",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2708131",
         "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search",
@@ -1174,7 +1288,7 @@
           "Dhavan V. Shah"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Podcast audiences",
           "Epistemic orientations",
@@ -1827,123 +1941,6 @@
         "abstract": "Despite a growing body of literature on computational propaganda, significant gaps remain in the existing literature, particularly in its Western-centric focus and emphasis on leading platforms, such as Twitter. This symposium attempts to address these gaps and extend our understanding of computational propaganda beyond Western contexts. The contributions of this symposium offer new theoretical insights, such as Performative Propaganda Engagement and the Reference Point Adjustment, to the literature. It also presents new empirical evidence from underexplored contexts, including Indonesia, the Philippines, China, Turkey, and Thailand. The papers published in the symposium provide a fresh understanding of these non-Western governments’ novel tactics and practices in sharing computational propaganda, which is not necessarily limited to conventional forms of disinformation or social platforms. This essay introduces the collection by outlining the concept of computational propaganda, examining its core components, and identifying enduring gaps in the literature, before demonstrating how the included contributions address these gaps.",
         "url": "https://doi.org/10.1080/10584609.2025.2595596",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2584999",
-        "title": "Performative Propaganda Engagement: How Celebrity Fans Engage with State Propaganda on Weibo",
-        "authors": [
-          "Yingdan Lu"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Celebrity fandom",
-          "State propaganda",
-          "Social media engagement",
-          "Chinese digital platforms"
-        ],
-        "abstract": "Authoritarian regimes have increasingly co-opted non-state actors such as celebrities and fans to extend the reach of state propaganda in fragmented digital environments. Despite this growing trend, there remains limited understanding of how fans in authoritarian contexts respond to such efforts. This paper identified a novel phenomenon, performative propaganda engagement, to explain why and how celebrity fans in informational autocracies engage with state propaganda. Combining quantitative analysis of fan engagement with People’s Daily on Weibo and qualitative interviews with celebrity fans in China, this exploratory research finds that celebrity fans actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. Fans primarily engage with celebrity-signaling propaganda, and some of this engagement is instrumental. This research contributes to political communication theory by offering an alternative view of the downstream effects of digital propaganda in authoritarian contexts. The findings shed light on how non-state actors are strategically incorporated into state communication efforts and how fans may behave under a compliance-based logic shaped by political constraints and platform incentives, bridging scholarship on authoritarian information control, fandom politics, and algorithmic media environments.",
-        "url": "https://doi.org/10.1080/10584609.2025.2584999",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2585498",
-        "title": "Twitter to Yell at Them, Facebook to Ask Questions and Instagram to Show Support? Exploring Platform Effects in Responses to Women Politicians On Social Media",
-        "authors": [
-          "Emily Harmer",
-          "Rosalynd Southern"
-        ],
-        "year": 2025,
-        "citation_count": 3,
-        "topics": [
-          "Platform effects",
-          "Women politicians",
-          "Social media",
-          "Political communication"
-        ],
-        "abstract": "Previous research has shown that women politicians are often subject to more incivility, hate speech, and sexualized abuse on social media. Until now, studies tend to analyze one platform, and there has been no research to establish whether these experiences are the same across different platforms. This study deploys a two-stage design to isolate a platform effect in online incivility and abuse. We selected 18 women politicians from a range of UK political parties because they shared identical posts across three platforms – Facebook, Instagram, and Twitter. We collected all identical posts and replies to them, across each platform. The replies were content analyzed for elements of incivility and legitimate criticism but also for support and respectful responses. Multi-level binary logistic models were run on these data to assess platform effect, controlling for party and whether the original post mentioned a gendered topic. The replies were then subject to a qualitative analysis. The results showed a clear platform effect with Twitter being the source of the majority of uncivil, insulting and othering replies to women politicians. Twitter posts also received the least support and the fewest polite messages. Conversely, Instagram appeared to be less hostile. The platform had more polite interaction and a high proportion of supportive responses, accounting for well over half of all supportive responses across the sample.",
-        "url": "https://doi.org/10.1080/10584609.2025.2585498",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2588248",
-        "title": "Flooding the Feed: The Politics of Social Media Sharing Among Defensive Publics",
-        "authors": [
-          "Katharina Tittel",
-          "William Allen",
-          "Pedro Ramaciotti Morales"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Social media sharing",
-          "Political communication",
-          "Defensive publics",
-          "Digital politics"
-        ],
-        "abstract": "What political significance do widely-shared sources on social media carry? Efforts at documenting media content have produced useful insights about political phenomena, including right-wing populist movements that have recently been theorized as comprising defensive publics which seek to preserve social, economic, and cultural hierarchies that privilege white “nationals.” In France, the concept of defensive publics is particularly useful for understanding how right-wing identitarian and nationalist actors use social media to mobilize publics to defend hierarchies framed as under siege by immigration, multiculturalism, and global liberal elites. Building on literature about illiberal communication and the illiberal public sphere, we argue that patterns of sources’ visibility – not just content – also serve defensive purposes. Using computational analysis of 1.16 million French language immigration-related posts on Twitter/X and ideological embeddings of 44,810 of these users, we show how far-right-leaning users flood feeds with hyper-partisan sources, particularly on immigration, although they also share ideologically varied sources. Then, interviews with 13 high-profile far-right-affiliated posters who include senior French politicians reveal how these practices support defensive political aims. Sharing hyper-partisan sources outside the “elitist” mainstream redresses perceived censorship by mainstream media, while sharing mainstream sources signals credibility and respectability, even as these actors maintain critiques of the very same media. Meanwhile, reposting sources with statistical and quantitative evidence serves to obscure overtly white supremacist ideologies while advancing anti-immigration agendas. We conclude that sharing practices themselves function as rhetorical resources that highly-visible members of defensive publics use to reassert symbolic and political dominance in a contested media environment.",
-        "url": "https://doi.org/10.1080/10584609.2025.2588248",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2575328",
-        "title": "Campaigning in the Age of Platforms: A Longitudinal Analysis of German Parties &amp; Politicians",
-        "authors": [
-          "Mike Cowburn",
-          "Ulrike Klinger",
-          "Anders Olof Larsson"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Political communication",
-          "Social media platforms",
-          "German politics",
-          "Campaign strategy"
-        ],
-        "abstract": "Social media platforms now play a central role in election campaigns for parties and politicians. Yet comparatively little research has compared how these actors use these platforms during and outside of campaign periods longitudinally, with much focus on single elections. Given narratives about the prevalence of a permanent campaign, we examine how German national and state actors used Twitter and Facebook between 2010 and 2021—a period that included forty-three state, national, or European elections. We demonstrate a surge and decline in the volume of party posts, contrasting with continued increases among politicians. Political actors’ communication was distinct during campaign periods, with more positive rhetoric and increased use of platform affordances. Engagement was also different during campaign periods, with posts receiving more likes and shares in the month prior to an election. We demonstrate how platform campaigning evolved over a thirteen-year period, potentially exacerbating the personalization of politics, and show how platforms’ features and affordances structure both the supply of and demand for political communication at election time.",
-        "url": "https://doi.org/10.1080/10584609.2025.2575328",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2579716",
-        "title": "Expressive Data: Conceptualizing Political Expression Through Social Media Feeds",
-        "authors": [
-          "Chelsea Butkowski"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Political expression",
-          "Social media",
-          "Digital communication",
-          "Online discourse"
-        ],
-        "abstract": "In an increasingly algorithmic digital landscape, everyday user data can take on expressive qualities, particularly in shaping the political content that people encounter on social media. This study examines the role of user data in political expression by focusing on social media feeds. I conducted a total of 55 interviews with 21 participants over the course of the 2020 U.S. presidential election, utilizing a technique that I call feed analysis interviewing to examine how participants understood and leveraged personal data to manage their exposure to online political content during a major political transition. Emergent findings suggest that participants considered their social media feeds as potent, if often inaccurate, reflections of their political beliefs and values, inviting reflection on political self-concept. Through this analysis, I extended conceptualizations of political expression by developing the action-identification-audience framework, composed of three indicators of political expression on social media. These include degrees of action in sharing political opinions online; identification with expressed political views; and alignment with imagined audiences, which may encompass networked connections, platform algorithms, and the future self. In addition to providing a conceptual framework for political expression on social media that can be applied in other contexts, this study identifies a novel dimension of the concept. Distributed political expression describes how individuals voice political opinions through reflexive engagement with their own data. This study offers implications for further research on political expression and media exposure at the juncture of political communication and critical data studies.",
-        "url": "https://doi.org/10.1080/10584609.2025.2579716",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2578364",
-        "title": "Resistance is Far-Right from Futile: Deplatforming, Resilience, and Persistent Presence Across Platforms as Drivers of Accelerationist Politics",
-        "authors": [
-          "Katherine Kountz",
-          "Mor Yachin",
-          "Carol Winkler",
-          "Dror Walter",
-          "Anthony F. Lemieux"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Deplatforming",
-          "Far-right extremism",
-          "Platform resilience",
-          "Accelerationist politics"
-        ],
-        "abstract": "This study investigates how a far-right extremist group, The Base, enacts communicative resilience (CR) strategies across digital platforms despite deplatforming efforts. In our empirical analysis, we conducted a content analysis of 69 conversations about bans that occurred in The Base’s encrypted chatrooms on Matrix and Wire between 2018 and 2020. We examined if and how the CR processes outlined in the communication theory of resilience (CTR) applied to far-right extremists groups operating online. Our analysis shows that deplatforming, while disruptive, triggers CR processes that activate collaborative discovery of new methods to remain resilient. Additionally, we discovered an additional, online performative process of persistent presence in response to a perceived constant, existential threat. That strategy demonstrates operational capacity, reinforces group-based identities, accrues social capital, and performs a proven capacity to challenge detractors. By assessing The Base’s online dynamics, this study contributes to broader conversations on mediated CTR, deplatforming, extremism, and the role of CR in political legitimation.",
-        "url": "https://doi.org/10.1080/10584609.2025.2578364",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1973,7 +1970,7 @@
           "Desirée Schmuck"
         ],
         "year": 2024,
-        "citation_count": 18,
+        "citation_count": 19,
         "topics": [
           "Social media influencers",
           "Political communication",
@@ -2065,7 +2062,7 @@
           "Pranav Malhotra"
         ],
         "year": 2025,
-        "citation_count": 10,
+        "citation_count": 11,
         "topics": [
           "Social media",
           "Place theory",
@@ -2092,7 +2089,7 @@
           "Olivia Martin"
         ],
         "year": 2025,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Critical Race Theory",
           "White identity politics",
@@ -2111,7 +2108,7 @@
           "Ethan Porter"
         ],
         "year": 2024,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Fact-checking",
           "Misinformation",

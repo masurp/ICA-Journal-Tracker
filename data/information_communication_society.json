@@ -1,7 +1,7 @@
 {
   "journal_id": "information_communication_society",
-  "updated_at": "2026-08-10T07:38:18Z",
-  "trending_from": "2024-08-10",
+  "updated_at": "2026-08-17T06:52:07Z",
+  "trending_from": "2024-08-17",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Kate Crawford"
         ],
         "year": 2012,
-        "citation_count": 5384,
+        "citation_count": 5396,
         "topics": [
           "Big Data",
           "Data Analytics",
@@ -31,7 +31,7 @@
           "Alexandra Segerberg"
         ],
         "year": 2012,
-        "citation_count": 2952,
+        "citation_count": 2960,
         "topics": [
           "Connective action",
           "Digital networks",
@@ -67,7 +67,7 @@
           "Taina Bucher"
         ],
         "year": 2016,
-        "citation_count": 1267,
+        "citation_count": 1269,
         "topics": [
           "Algorithms",
           "Social media platforms",
@@ -93,7 +93,7 @@
           "Michael Stern"
         ],
         "year": 2015,
-        "citation_count": 1166,
+        "citation_count": 1176,
         "topics": [
           "Digital inequality",
           "Digital divide",
@@ -105,13 +105,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1369118x.2016.1259344",
+        "title": "Affective publics: sentiment, technology, and politics",
+        "authors": [
+          "Marc Perelló-Sobrepere"
+        ],
+        "year": 2016,
+        "citation_count": 1147,
+        "topics": [
+          "Affect theory",
+          "Digital publics",
+          "Political communication",
+          "Social media sentiment"
+        ],
+        "abstract": "Zizi Papacharissi’s newest book release, Affective publics: Sentiment, technology, and politics, will not leave any reader indifferent. The Head of UIC’s Communication Department presents affect as...",
+        "url": "https://doi.org/10.1080/1369118x.2016.1259344",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1369118x.2016.1154087",
         "title": "Thinking critically about and researching algorithms",
         "authors": [
           "Rob Kitchin"
         ],
         "year": 2016,
-        "citation_count": 1106,
+        "citation_count": 1117,
         "topics": [
           "Algorithms",
           "Critical algorithm studies",
@@ -148,7 +166,7 @@
           "Niels van Doorn"
         ],
         "year": 2017,
-        "citation_count": 915,
+        "citation_count": 918,
         "topics": [
           "Platform labor",
           "Gig economy",
@@ -169,7 +187,7 @@
           "Florin Büchel"
         ],
         "year": 2016,
-        "citation_count": 907,
+        "citation_count": 909,
         "topics": [
           "Populism",
           "Social media",
@@ -187,7 +205,7 @@
           "David Beer"
         ],
         "year": 2016,
-        "citation_count": 855,
+        "citation_count": 866,
         "topics": [
           "Algorithms",
           "Social power",
@@ -206,7 +224,7 @@
           "Gina Walejko"
         ],
         "year": 2008,
-        "citation_count": 811,
+        "citation_count": 813,
         "topics": [
           "Digital content creation",
           "Participation inequality",
@@ -224,7 +242,7 @@
           "Karen Yeung"
         ],
         "year": 2016,
-        "citation_count": 801,
+        "citation_count": 806,
         "topics": [
           "Big Data",
           "Algorithmic regulation",
@@ -260,7 +278,7 @@
           "Zizi Papacharissi"
         ],
         "year": 2015,
-        "citation_count": 727,
+        "citation_count": 730,
         "topics": [
           "Affective publics",
           "Social media activism",
@@ -279,7 +297,7 @@
           "Eli Skogerbø"
         ],
         "year": 2013,
-        "citation_count": 708,
+        "citation_count": 710,
         "topics": [
           "Personalized campaigning",
           "Social media political communication",
@@ -297,7 +315,7 @@
           "Lincoln Dahlberg"
         ],
         "year": 2001,
-        "citation_count": 696,
+        "citation_count": 699,
         "topics": [
           "Online deliberative forums",
           "Public sphere",
@@ -333,7 +351,7 @@
           "Robert Gorwa"
         ],
         "year": 2019,
-        "citation_count": 654,
+        "citation_count": 659,
         "topics": [
           "Platform governance",
           "Social media regulation",
@@ -352,7 +370,7 @@
           "Anne Oeldorf-Hirsch"
         ],
         "year": 2018,
-        "citation_count": 611,
+        "citation_count": 612,
         "topics": [
           "Privacy policies",
           "Terms of service",
@@ -361,6 +379,28 @@
         ],
         "abstract": "This paper addresses ‘the biggest lie on the internet’ with an empirical investigation of privacy policy (PP) and terms of service (TOS) policy reading behavior. An experimental survey (N = 543) assessed the extent to which individuals ignored PP and TOS when joining a fictitious social networking service (SNS), NameDrop. Results reveal 74% skipped PP, selecting the ‘quick join’ clickwrap. Average adult reading speed (250–280 words per minute), suggests PP should have taken 29–32 minutes and TOS 15–17 minutes to read. For those that didn’t select the clickwrap, average PP reading time was 73 seconds. All participants were presented the TOS and had an average reading time of 51 seconds. Most participants agreed to the policies, 97% to PP and 93% to TOS, with decliners reading PP 30 seconds longer and TOS 90 seconds longer. A regression analysis identifies information overload as a significant negative predictor of reading TOS upon sign up, when TOS changes, and when PP changes. Qualitative findings suggest that participants view policies as nuisance, ignoring them to pursue the ends of digital production, without being inhibited by the means. Implications are revealed as 98% missed NameDrop TOS ‘gotcha clauses’ about data sharing with the NSA and employers, and about providing a first-born child as payment for SNS access.",
         "url": "https://doi.org/10.1080/1369118x.2018.1486870",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2014.987152",
+        "title": "<i>#</i>Funeral and Instagram: death, social media, and platform vernacular",
+        "authors": [
+          "Martin Gibbs",
+          "James Meese",
+          "Matthew Arnold",
+          "Bjørn Nansen",
+          "Marcus Carter"
+        ],
+        "year": 2014,
+        "citation_count": 563,
+        "topics": [
+          "Death and mourning",
+          "Social media practices",
+          "Platform vernacular",
+          "Digital memorialization"
+        ],
+        "abstract": "This paper presents findings from a study of Instagram use and funerary practices that analysed photographs shared on public profiles tagged with ‘#funeral’. We found that the majority of images uploaded with the hashtag #funeral often communicated a person's emotional circumstances and affective context, and allowed them to reposition their funeral experience amongst wider networks of acquaintances, friends, and family. We argue that photo-sharing through Instagram echoes broader shifts in commemorative and memorialization practices, moving away from formal and institutionalized rituals to informal and personalized, vernacular practices. Finally, we consider how Instagram's ‘platform vernacular’ unfolds in relation to traditions and contexts of death, mourning, and memorialization. This research contributes to a broader understanding of how platform vernaculars are shaped through the logics of architecture and use. This research also directly contributes to the understanding of death and digital media by examining how social media is being mobilized in relation to death, the differences that different media platforms make, and the ways social media are increasingly entwined with the places, events, and rituals of mourning.",
+        "url": "https://doi.org/10.1080/1369118x.2014.987152",
         "topics_llm": true
       },
       {
@@ -379,28 +419,6 @@
         ],
         "abstract": "Crowdsourcing is an online, distributed problem-solving and production model already in use by businesses such as Threadless.com, iStockphoto.com, and InnoCentive.com. This model, which harnesses the collective intelligence of a crowd of Web users through an open-call format, has the potential for government and non-profit applications. Yet, in order to explore new applications for the crowdsourcing model, there must be a better understanding of why crowds participate in crowdsourcing processes. Based on 17 interviews conducted via instant messenger with members of the crowd at Threadless, the present study adds qualitatively rich data on a new crowdsourcing case to an existing body of quantitative data on motivations for participation in crowdsourcing. Four primary motivators for participation at Threadless emerge from these interview data: the opportunity to make money, the opportunity to develop one's creative skills, the potential to take up freelance work, and the love of community at Threadless. A fifth theme is also discussed that addresses the language of ‘addiction’ used by the interviewees to describe their activity on the site. Understanding this kind of ‘addiction’ in an online community is perhaps the most important finding for future public crowdsourcing ventures. This study develops a more complete – though ongoing – composite of what motivates the crowd to participate in crowdsourcing applications generally, information crucial to adapt the crowdsourcing model to new forms of problem-solving.",
         "url": "https://doi.org/10.1080/13691181003624090",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2014.987152",
-        "title": "<i>#</i>Funeral and Instagram: death, social media, and platform vernacular",
-        "authors": [
-          "Martin Gibbs",
-          "James Meese",
-          "Matthew Arnold",
-          "Bjørn Nansen",
-          "Marcus Carter"
-        ],
-        "year": 2014,
-        "citation_count": 559,
-        "topics": [
-          "Death and mourning",
-          "Social media practices",
-          "Platform vernacular",
-          "Digital memorialization"
-        ],
-        "abstract": "This paper presents findings from a study of Instagram use and funerary practices that analysed photographs shared on public profiles tagged with ‘#funeral’. We found that the majority of images uploaded with the hashtag #funeral often communicated a person's emotional circumstances and affective context, and allowed them to reposition their funeral experience amongst wider networks of acquaintances, friends, and family. We argue that photo-sharing through Instagram echoes broader shifts in commemorative and memorialization practices, moving away from formal and institutionalized rituals to informal and personalized, vernacular practices. Finally, we consider how Instagram's ‘platform vernacular’ unfolds in relation to traditions and contexts of death, mourning, and memorialization. This research contributes to a broader understanding of how platform vernaculars are shaped through the logics of architecture and use. This research also directly contributes to the understanding of death and digital media by examining how social media is being mobilized in relation to death, the differences that different media platforms make, and the ways social media are increasingly entwined with the places, events, and rituals of mourning.",
-        "url": "https://doi.org/10.1080/1369118x.2014.987152",
         "topics_llm": true
       },
       {
@@ -484,7 +502,7 @@
           "Zeynep Tüfekçi"
         ],
         "year": 2008,
-        "citation_count": 519,
+        "citation_count": 520,
         "topics": [
           "Social networking sites",
           "Online identity presentation",
@@ -535,24 +553,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/13691180110117668",
-        "title": "Cool, Creative and Egalitarian? Exploring Gender in Project-Based New Media Work in Euro",
-        "authors": [
-          "Rosalind Gill"
-        ],
-        "year": 2002,
-        "citation_count": 500,
-        "topics": [
-          "Gender inequality",
-          "New media industries",
-          "Project-based work",
-          "Creative labor"
-        ],
-        "abstract": "The new media industries are popularly regarded as cool, creative and egalitarian. This view is held by academics, policy-makers and also by new media workers themselves, who cite the youth, dynamism and informality of new media as some of its main attractions. This paper is concerned with what this mythologized version of new media work leaves out, glosses over and, indeed, makes difficult to articulate at all. Themes include pervasive insecurity, low pay, and long hours but the particular focus of the paper is on gender inequalities in new media work. Despite its image as 'cool', non-hierarchical and egalitarian, the new media sector, this paper will argue, is characterized by a number of entrenched and all too old-fashioned patterns of gender inequality relating to education, access to work and pay. Moreover, a number of new forms of gender inequality are emerging, connected - paradoxically - to many of the features of the work that are valued - informality,autonomy,flexibility and so on. Drawing on a study of 125 freelance new media workers in six European countries, this paper explores these issues and argues that the new forms of sexism in new media represent a serious challenge to its image of itself as cool, diverse and egalitarian.",
-        "url": "https://doi.org/10.1080/13691180110117668",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1369118x.2015.1078834",
         "title": "Development and validation of the Internet Skills Scale (ISS)",
         "authors": [
@@ -561,7 +561,7 @@
           "Rebecca Eynon"
         ],
         "year": 2015,
-        "citation_count": 500,
+        "citation_count": 502,
         "topics": [
           "Internet skills",
           "Scale development",
@@ -573,6 +573,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/13691180110117668",
+        "title": "Cool, Creative and Egalitarian? Exploring Gender in Project-Based New Media Work in Euro",
+        "authors": [
+          "Rosalind Gill"
+        ],
+        "year": 2002,
+        "citation_count": 501,
+        "topics": [
+          "Gender inequality",
+          "New media industries",
+          "Project-based work",
+          "Creative labor"
+        ],
+        "abstract": "The new media industries are popularly regarded as cool, creative and egalitarian. This view is held by academics, policy-makers and also by new media workers themselves, who cite the youth, dynamism and informality of new media as some of its main attractions. This paper is concerned with what this mythologized version of new media work leaves out, glosses over and, indeed, makes difficult to articulate at all. Themes include pervasive insecurity, low pay, and long hours but the particular focus of the paper is on gender inequalities in new media work. Despite its image as 'cool', non-hierarchical and egalitarian, the new media sector, this paper will argue, is characterized by a number of entrenched and all too old-fashioned patterns of gender inequality relating to education, access to work and pay. Moreover, a number of new forms of gender inequality are emerging, connected - paradoxically - to many of the features of the work that are valued - informality,autonomy,flexibility and so on. Drawing on a study of 125 freelance new media workers in six European countries, this paper explores these issues and argues that the new forms of sexism in new media represent a serious challenge to its image of itself as cool, diverse and egalitarian.",
+        "url": "https://doi.org/10.1080/13691180110117668",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/13691181003628307",
         "title": "INTERNET AND SOCIAL MOVEMENT ACTION REPERTOIRES",
         "authors": [
@@ -580,7 +598,7 @@
           "Peter Van Aelst"
         ],
         "year": 2010,
-        "citation_count": 497,
+        "citation_count": 500,
         "topics": [
           "Social movements",
           "Internet activism",
@@ -598,7 +616,7 @@
           "Annette Markham"
         ],
         "year": 2012,
-        "citation_count": 471,
+        "citation_count": 474,
         "topics": [
           "Research ethics",
           "Privacy protection",
@@ -617,7 +635,7 @@
           "Eszter Hargittai"
         ],
         "year": 2006,
-        "citation_count": 470,
+        "citation_count": 471,
         "topics": [
           "Digital divide",
           "Disability access",
@@ -675,7 +693,7 @@
           "Nathan Jurgenson"
         ],
         "year": 2014,
-        "citation_count": 442,
+        "citation_count": 443,
         "topics": [
           "Context collapse",
           "Social media",
@@ -694,7 +712,7 @@
           "Oxana Trofimenko"
         ],
         "year": 2018,
-        "citation_count": 440,
+        "citation_count": 441,
         "topics": [
           "Micro-celebrities",
           "Source credibility",
@@ -731,7 +749,7 @@
           "Dan Mercea"
         ],
         "year": 2011,
-        "citation_count": 430,
+        "citation_count": 431,
         "topics": [
           "Digital democracy",
           "Social media",
@@ -751,7 +769,7 @@
           "Michael A. Xenos"
         ],
         "year": 2014,
-        "citation_count": 425,
+        "citation_count": 427,
         "topics": [
           "Social media",
           "Political participation",
@@ -811,7 +829,7 @@
           "Axel Bruns"
         ],
         "year": 2019,
-        "citation_count": 395,
+        "citation_count": 399,
         "topics": [
           "Social media platforms",
           "API access restrictions",
@@ -831,7 +849,7 @@
           "José Manuel Sabucedo Cameselle"
         ],
         "year": 2013,
-        "citation_count": 392,
+        "citation_count": 394,
         "topics": [
           "Social media mobilization",
           "Political protest",
@@ -869,7 +887,7 @@
           "Taina Bucher"
         ],
         "year": 2020,
-        "citation_count": 381,
+        "citation_count": 382,
         "topics": [
           "Algorithm awareness",
           "Digital divide",
@@ -878,6 +896,27 @@
         ],
         "abstract": "Algorithms are an increasingly important element of internet infrastructure in that they are used to make decisions about everything from mundane music recommendations through to more profound and oftentimes life changing ones such as policing, health care or social benefits. Given algorithmic systems’ impact and sometimes harm on people’s everyday life, information access and agency, awareness of algorithms has the potential to be a critical issue. We, therefore, ask whether having awareness of algorithms or not corresponds to a new reinforced digital divide. This study examines levels of awareness and attitudes toward algorithms across the population of the highly digitized country of Norway. Our exploratory research finds clear demographic differences regarding levels of algorithms awareness. Furthermore, attitudes to algorithm driven recommendations (e.g., YouTube and Spotify), advertisements and content (e.g., personalized news feeds in social media and online newspaper) are associated with both the level of algorithm awareness and demographic variables. A cluster analysis facilitates an algorithm awareness typology of six groups: the unaware, the uncertain, the affirmative, the neutral, the sceptic and the critical.",
         "url": "https://doi.org/10.1080/1369118x.2020.1736124",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2018.1444076",
+        "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
+        "authors": [
+          "Judith Möller",
+          "Damian Trilling",
+          "Natali Helberger",
+          "Bram van Es"
+        ],
+        "year": 2018,
+        "citation_count": 380,
+        "topics": [
+          "Algorithmic recommendation",
+          "Filter bubbles",
+          "Content diversity",
+          "News recommendation systems"
+        ],
+        "abstract": "In the debate about filter bubbles caused by algorithmic news recommendation, the conceptualization of the two core concepts in this debate, diversity and algorithms, has received little attention in social scientific research. This paper examines the effect of multiple recommender systems on different diversity dimensions. To this end, it maps different values that diversity can serve, and a respective set of criteria that characterizes a diverse information offer in this particular conception of diversity. We make use of a data set of simulated article recommendations based on actual content of one of the major Dutch broadsheet newspapers and its users (N=21,973 articles, N=500 users). We find that all of the recommendation logics under study proved to lead to a rather diverse set of recommendations that are on par with human editors and that basing recommendations on user histories can substantially increase topic diversity within a recommendation set.",
+        "url": "https://doi.org/10.1080/1369118x.2018.1444076",
         "topics_llm": true
       },
       {
@@ -899,27 +938,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1369118x.2018.1444076",
-        "title": "Do not blame it on the algorithm: an empirical assessment of multiple recommender systems and their impact on content diversity",
-        "authors": [
-          "Judith Möller",
-          "Damian Trilling",
-          "Natali Helberger",
-          "Bram van Es"
-        ],
-        "year": 2018,
-        "citation_count": 379,
-        "topics": [
-          "Algorithmic recommendation",
-          "Filter bubbles",
-          "Content diversity",
-          "News recommendation systems"
-        ],
-        "abstract": "In the debate about filter bubbles caused by algorithmic news recommendation, the conceptualization of the two core concepts in this debate, diversity and algorithms, has received little attention in social scientific research. This paper examines the effect of multiple recommender systems on different diversity dimensions. To this end, it maps different values that diversity can serve, and a respective set of criteria that characterizes a diverse information offer in this particular conception of diversity. We make use of a data set of simulated article recommendations based on actual content of one of the major Dutch broadsheet newspapers and its users (N=21,973 articles, N=500 users). We find that all of the recommendation logics under study proved to lead to a rather diverse set of recommendations that are on par with human editors and that basing recommendations on user histories can substantially increase topic diversity within a recommendation set.",
-        "url": "https://doi.org/10.1080/1369118x.2018.1444076",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/13691180701409770",
         "title": "FROM WOMEN AND TECHNOLOGY TO GENDERED TECHNOSCIENCE",
         "authors": [
@@ -936,30 +954,106 @@
         "abstract": "This paper situates current discussions of women's position in ICTs in the wider context of feminist debates on gender and technology. While a common trend among early feminist theorists was a profound pessimism about the inherent masculinity of technology, this was replaced during the 1990s by an unwarranted optimism about the liberating potential of technoscience for women. This article gives an account of both technophobia and technophilia, arguing that recent approaches drawing on the social studies of technology provide a more subtle analysis. Avoiding both technological determinism and gender essentialism, technofeminist approaches emphasize that the gender–technology relationship is fluid and flexible, and that feminist politics and not technology per se is the key to gender equality.",
         "url": "https://doi.org/10.1080/13691180701409770",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2013.785581",
-        "title": "BETWEEN BROADCASTING POLITICAL MESSAGES AND INTERACTING WITH VOTERS",
-        "authors": [
-          "Todd Graham",
-          "Marcel Broersma",
-          "Karin Hazelhoff",
-          "Guido van 't Haar"
-        ],
-        "year": 2013,
-        "citation_count": 365,
-        "topics": [
-          "Twitter",
-          "Political campaigns",
-          "Election communication",
-          "Social media strategy"
-        ],
-        "abstract": "Politicians across Western democracies are increasingly adopting and experimenting with Twitter, particularly during election time. The purpose of this article is to investigate how candidates are using it during an election campaign. The aim is to create a typology of the various ways in which candidates behaved on Twitter. Our research, which included a content analysis of tweets (n = 26,282) from all twittering Conservative, Labour and Liberal Democrat candidates (n = 416) during the 2010 UK General Election campaign, focused on four aspects of tweets: type, interaction, function and topic. By examining candidates' twittering behaviour, the authors show that British politicians mainly used Twitter as a unidirectional form of communication. However, there were a group of candidates who used it to interact with voters by, for example, mobilizing, helping and consulting them, thus tapping into the potential Twitter offers for facilitating a closer relationship with citizens.",
-        "url": "https://doi.org/10.1080/1369118x.2013.785581",
-        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1369118x.2026.2663190",
+        "title": "Where digital hate finds its home: perpetrators' preferred affordances and their experiences with content moderation and user intervention",
+        "authors": [
+          "Giang-Truong Nguyen",
+          "Stephanie Buehrer",
+          "Kevin Koban",
+          "Jörg Matthes"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Online hate speech",
+          "Content moderation",
+          "Digital platforms",
+          "User intervention"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2663190",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2716342",
+        "title": "Offline life as virtual reality: platformed ethics and ontological inversion in digital self-cultivation",
+        "authors": [
+          "Summer Qassim"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital self-cultivation",
+          "Platformed ethics",
+          "Ontological inversion",
+          "Virtual reality"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2716342",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2674873",
+        "title": "The strategic provocation of digital hate: empowered targets’ perceptions of perpetrators and bystanders",
+        "authors": [
+          "Maryam Khaleghipour",
+          "Kevin Koban",
+          "Jörg Matthes"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital hate speech",
+          "Online harassment",
+          "Power dynamics",
+          "Bystander intervention"
+        ],
+        "abstract": "This study investigates how scholars, as empowered individuals who have been personally targeted by digital hate, perceive perpetrators and bystanders, with an emphasis on power imbalances. Drawing on semi-structured interviews with 24 university professors from Austria, France, Hungary, and Sweden, it reveals that scholars perceive digital hate not only as driven by ordinary citizens, but also as strategic provocation initiated by high-status actors, such as political parties or movements, who, while not explicitly involved in digital hate incidents, trigger broader public aggression. In terms of bystanders, their interventions were often perceived as insufficient due to fear, lack of expertise, or power asymmetries. Notably, scholars emphasized that while individual support provided emotional relief, effective intervention requires either intervention by empowered individuals or coordinated collective responses. The findings highlight the limitations of individual responses and underscore the need to reframe bystander intervention strategies when addressing digital hate against societally empowered individuals.",
+        "url": "https://doi.org/10.1080/1369118x.2026.2674873",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2716340",
+        "title": "Digital Footprint Capital: AI, identity, and the algorithmic governance of creative work",
+        "authors": [
+          "Tsehaye Haidemariam"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital identity",
+          "Creative labor",
+          "Algorithmic governance",
+          "AI"
+        ],
+        "abstract": "Digital footprints, once regarded as incidental traces of online interaction, have become central to the organization of creative labour. In the age of artificial intelligence (AI), these traces function not only as markers of identity but as forms of symbolic, reputational, and economic capital that mediate visibility, opportunity, and legitimacy within cultural and creative industries. This article introduces the concept of Digital Footprint Capital (DFC) to theorize how creators cultivate and mobilize online presence across four analytically derived dimensions: visibility capital, authenticity capital, collaborative capital, and resilience capital. Drawing on a systematic and reflexive synthesis of scholarship on digital identity, creative labour precarity, AI and algorithmic governance, the framework demonstrates how AI simultaneously expands creative possibilities and intensifies structural vulnerabilities. While generative AI accelerates content production and cultural circulation, it also reproduces inequalities, amplifies reputational fragility, and deepens pressures on digital wellness. Through documented empirical examples from platformed creative work, the article shows how digital footprints are co-constructed by human and algorithmic actors, producing hybrid identities that are both strategic and unstable. By conceptualizing digital traces as capital, this study advances debates on the datafication of cultural work and offers a framework for anticipating the evolving dynamics of AI-mediated creative economies.",
+        "url": "https://doi.org/10.1080/1369118x.2026.2716340",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2713667",
+        "title": "‘Cool! I wanna try it!’: online exposure to e-cigarette advertisements increases e-cigarette susceptibility among U.S. sexual minority young adults",
+        "authors": [
+          "Yuyuan Kylie Lai",
+          "Jizhou Francis Ye",
+          "M. Liu"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "E-cigarette advertising",
+          "Sexual minority youth",
+          "Health communication",
+          "Online media exposure"
+        ],
+        "abstract": "",
+        "url": "https://doi.org/10.1080/1369118x.2026.2713667",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1369118x.2026.2715572",
         "title": "Corporate digital responsibility: what drives public expectations towards companies’ role in the digital society?",
@@ -1017,7 +1111,7 @@
           "Cross-cultural communication",
           "Online persuasion"
         ],
-        "abstract": "",
+        "abstract": "Online targeted advertising has seen increasing use by political actors. With this technique, messages can be tailored to align with the preferences of individual recipients. In this study, we address the lack of understanding about the factors that influence voters' perceptions of political ads as tailored, as well as the extent to which tailoring perceptions (e.g., the extent to which an individual experiences a message as fitting to them) influence ad evaluation. We first argue that the issue content and the sending parties are the main drivers behind the perception of a political ad as tailored. Subsequently, we hypothesize that perceived tailoring influences ad evaluation positively. Lastly, we test what drives tailoring effects: actual tailoring or perceptions of it. To test these hypotheses, we employ an innovative design to capture ad exposure and responses. We combine the mobile experience sampling method (mESM) with data donations in the form of screenshots of actual ads received by respondents during election campaigns in the United States (2022) and Germany (2021). Our findings confirm that partisan alignment enhances the perception of the ad as tailored. We have mixed results for the effect of issue alignment, which only increases tailoring perceptions in Germany. Furthermore, ads perceived as tailored are evaluated more positively in both the US and Germany. Lastly, we find evidence for partial mediation through tailoring perceptions. Our findings have important implications for understanding the mechanisms of how targeted political ads on social media could impact society.",
         "url": "https://doi.org/10.1080/1369118x.2026.2703856",
         "topics_llm": true
       },
@@ -1037,26 +1131,6 @@
         ],
         "abstract": "This paper develops ‘replatformization’ to evaluate the re-constitutive practices of alternative platforms. Alt-tech platforms that cater to ‘deplatformed’ reactionary users characterize themselves as unregulated, obfuscating how they adopt governance tactics to subvert deplatformization. Through a case study of the harassment forum Kiwi Farms, I characterize replatformization as a strategy by which alternative platforms build a ‘stack-to-come’ which exercises control of digital infrastructure within an existent regulatory model. I analyze Kiwi Farms’ replatformization between 2013 and 2025, focusing on its social, technical, and organizational tactics to evade corporate deplatforming under market-based governance. This paper elucidates three general characteristics of replatformization. First, replatformization is a sociotechnical process which requires not only technical administration but also the consolidation of capital and labor, persuasive campaigning, and proliferation of organizational apparatuses to sustain independent infrastructure. Second, replatformization intensifies the foundational values of an imperiled platform, which, for alt-tech platforms, entails a deeper descent into reactionary vitriol. Third, replatformization efforts scale after each instance of deplatforming, reflecting the ecological character of the platform economy. Alt-tech replatformization aligns with the market-based model of governance while posturing as an alternative to it, obscuring more democratic possibilities for platform governance. The three tenants of replatformization offer researchers a heuristic with which to investigate how any alternative platform, not just alt-tech, positions itself as ‘alternative’ to a platform ecosystem.",
         "url": "https://doi.org/10.1080/1369118x.2026.2713669",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2674925",
-        "title": "Examining initial trust development and trusting intentions toward humanoid social robots",
-        "authors": [
-          "Jeong Hwang",
-          "Jiwon Shim",
-          "Yoon Min Hwang"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Human-robot interaction",
-          "Trust formation",
-          "Humanoid social robots",
-          "User acceptance"
-        ],
-        "abstract": "Humanoid social robots (HSRs) collect personal data and offer personalized services, fostering user reliance. Unlike passive tools, HSRs actively engage in interactions, making initial trust – formed before direct experience – critical for user acceptance. Despite its importance in reducing uncertainty and shaping first impressions, initial trust remains underexplored. To address this gap, we developed a model of initial trust formation and tested it through a study with 375 U.S. participants. The results supported five out of nine hypotheses, offering actionable insights for businesses and policymakers. Key factors such as structural assurance, perceived service benefits, and reputation play a pivotal role in cultivating early trust, thereby enhancing adoption and acceptance of HSRs.",
-        "url": "https://doi.org/10.1080/1369118x.2026.2674925",
         "topics_llm": true
       },
       {
@@ -1316,6 +1390,26 @@
         ],
         "abstract": "This article theorizes ‘data throttling’ in China as infrastructural governance of digital citizenship via allocative control of speed. In ‘unlimited’ / ‘high-volume’ plans, connections are slowed after usage thresholds are exceeded. Based on interviews with high-data users across multiple provinces and a small corpus of social-media discourse, we find: (1) throttling is normalized through a strategically vague regime that grants operators definitional authority over ‘normal’ speed and acceptable latency; (2) throttling produces instantaneous downgrading – engineered suspensions of immediacy in payment, mobility, and work – extending speed politics to programmable latency and micro-temporal rationing; and (3) attribution of responsibility shifts from self-blame toward claims on infrastructure for minimum availability. Conceptually, we redefine digital inequality as a schedulable scarcity of usable speed. We advance the lowest speed and latency at which core civic functions remain actionable as a more precise target of governance than access per se.",
         "url": "https://doi.org/10.1080/1369118x.2026.2699255",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2026.2674925",
+        "title": "Examining initial trust development and trusting intentions toward humanoid social robots",
+        "authors": [
+          "Jeong Hwang",
+          "Jiwon Shim",
+          "Yoon Min Hwang"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Human-robot interaction",
+          "Trust formation",
+          "Humanoid social robots",
+          "User acceptance"
+        ],
+        "abstract": "Humanoid social robots (HSRs) collect personal data and offer personalized services, fostering user reliance. Unlike passive tools, HSRs actively engage in interactions, making initial trust – formed before direct experience – critical for user acceptance. Despite its importance in reducing uncertainty and shaping first impressions, initial trust remains underexplored. To address this gap, we developed a model of initial trust formation and tested it through a study with 375 U.S. participants. The results supported five out of nine hypotheses, offering actionable insights for businesses and policymakers. Key factors such as structural assurance, perceived service benefits, and reputation play a pivotal role in cultivating early trust, thereby enhancing adoption and acceptance of HSRs.",
+        "url": "https://doi.org/10.1080/1369118x.2026.2674925",
         "topics_llm": true
       },
       {
@@ -1788,7 +1882,7 @@
           "Taylor Annabell"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Influencer marketing",
           "Disclosure practices",
@@ -1854,103 +1948,6 @@
         "abstract": "",
         "url": "https://doi.org/10.1080/1369118x.2026.2678361",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2665795",
-        "title": "Integrating farmers markets into a communication infrastructure model: the moderating role of physical community spaces for civic engagement",
-        "authors": [
-          "Cheryl S. Y. Shea",
-          "Laura Witzling",
-          "Bret R. Shaw",
-          "Darlene Wolnik"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Civic engagement",
-          "Community spaces",
-          "Communication infrastructure",
-          "Local food systems"
-        ],
-        "abstract": "What drives civic engagement in today’s complex communication environment? Guided by Communication Infrastructure Theory (CIT), this study used nationally representative survey data (N = 5,141) to examine both the independent and joint effects of attention to different communication channels on participatory and perceptual dimensions of civic engagement in the U.S. The communication channels modeled included national and local news, platform-specific social media, community-based organizations, and interpersonal communication. As a common shared physical space in many communities in the U.S., we also explored how farmers markets may amplify the effects of those communication channels on civic engagement. The results showed that attention to different social media platforms had distinct effects on both participatory (community participation) and perceptual (sense of community) measures of civic engagement. Moreover, frequent farmers market attendance strengthened the relationship between attention to news, social media and community participation. By disaggregating social media platform variables and examining the role of farmers markets as common, shared physical spaces that bring people together, this study advances CIT and offers a more comprehensive understanding of how diverse communication channels – both online and in-person – jointly shape civic life.",
-        "url": "https://doi.org/10.1080/1369118x.2026.2665795",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2678366",
-        "title": "Algorithmic ambivalence: LGBTQ+ social media and mental health among Chinese gay men",
-        "authors": [
-          "Lazar Dragić",
-          "KJ Kaixin Deng"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "LGBTQ+ social media",
-          "Mental health",
-          "Algorithm effects",
-          "Chinese gay men"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1369118x.2026.2678366",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2678364",
-        "title": "Stigma to skepticism: online consumer narratives of obesity management medications",
-        "authors": [
-          "Rumaila Abbas",
-          "Munyaradzi W. Nyadzayo"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Obesity medications",
-          "Online narratives",
-          "Stigma",
-          "Consumer health communication"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1080/1369118x.2026.2678364",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2652497",
-        "title": "Targeting and/or tailoring?! A theoretical framework and its application to political social media advertising",
-        "authors": [
-          "Christina Gahn",
-          "Simon Kruschinski"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Political advertising",
-          "Social media",
-          "Micro-targeting",
-          "Personalization"
-        ],
-        "abstract": "Despite the widespread use of data-driven campaigning (DDC), there is limited conceptual clarity and empirical understanding of how political parties employ the advertising strategies of targeting (deciding which audiences to reach with ads) and tailoring (adapting ad content to specific target groups) on social media. Little is known about how these strategies, individually or in combination, influence outcome variables such as impressions of an ad, a key metric for assessing the visibility of ads in campaigns. In this paper we provide a novel theoretical conceptualization of the related yet distinct strategies of targeting and tailoring and demonstrate how they can be measured separately. We apply our framework to the 2021 German election campaign on the Meta platforms Facebook and Instagram. We do this by analyzing all ads (n = 4760) purchased by six German parties and their top candidates during the final four weeks of the campaign. We combine multi-modal manual content analysis data of ad tailoring with the Meta Ad Targeting Dataset and the Meta Ad Library to measure the two concepts independently. Our findings show that targeting and tailoring are distinct theoretical concepts that are rarely combined in practice. German parties tend to use these strategies independently. Targeting and tailoring have separate effects on ad impressions, with targeting showing a significant association while tailoring does not. These results underscore the importance of treating targeting and tailoring as distinct phenomena within DDC and provide a foundation for future research on the strategic use of social media advertising in political campaigns.",
-        "url": "https://doi.org/10.1080/1369118x.2026.2652497",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2026.2667914",
-        "title": "Examining the influence of social media cues and platform perceptions on fake news detection",
-        "authors": [
-          "J.H. Tang",
-          "Barbara Millet"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Fake news detection",
-          "Social media",
-          "Platform perception",
-          "Misinformation"
-        ],
-        "abstract": "This study investigates how source credibility, collective social endorsement, and users’ perceptions of Twitter's helpfulness for news consumption influence fake news detection on social media. We conducted a 2 (Veracity: real vs. fake) × 2 (Source Credibility: credible vs. non-credible) × 2 (Collective Social Endorsement: low vs. high) online experiment (N = 271). Results revealed a truth bias, with participants judging 60% of posts as real. Participants showed higher accuracy in identifying real news (77%) compared to fake news (57%). Source credibility interacted with news veracity, enhancing accuracy for real news while impairing detection of fake news. Collective social endorsement showed no significant effect. Notably, users’ perceptions of Twitter's helpfulness in staying informed impacted fake news detection – participants with higher perceptions of Twitter's helpfulness were less accurate in identifying fake news. The findings suggest new directions for combating online misinformation.",
-        "url": "https://doi.org/10.1080/1369118x.2026.2667914",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1979,7 +1976,7 @@
           "Ana Valdivia"
         ],
         "year": 2024,
-        "citation_count": 47,
+        "citation_count": 48,
         "topics": [
           "AI ethics",
           "Supply chain capitalism",
@@ -2082,7 +2079,7 @@
           "Gianfranco Polizzi"
         ],
         "year": 2025,
-        "citation_count": 19,
+        "citation_count": 21,
         "topics": [
           "Digital literacy",
           "Civic participation",
@@ -2146,7 +2143,7 @@
           "Tine K. Jensen"
         ],
         "year": 2025,
-        "citation_count": 13,
+        "citation_count": 15,
         "topics": [
           "Platform literacy",
           "Social media affordances",
@@ -2164,7 +2161,7 @@
           "Andreas Baur"
         ],
         "year": 2025,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Digital sovereignty",
           "Cloud infrastructure",
@@ -2173,6 +2170,25 @@
         ],
         "abstract": "The Gaia-X initiative was launched to bolster European digital sovereignty. It aims to contest the dominance of non-European cloud providers since cloud infrastructures are core resources for societies and economies. Despite this aim, the initiative paradoxically incorporates these dominant cloud providers, prompting scrutiny. This article asks to what extent Gaia-X contributes to advancing digital sovereignty in Europe. Moreover, what are the challenges in pursuing this goal? The Gaia-X case provides insights in the opportunities and challenges in achieving digital sovereignty and independence in a world dominated by US technology companies. Taking non-regulatory forms of governance for digital sovereignty and the role of private actors in achieving digital sovereignty seriously, I argue that Gaia-X needs to be understood as a complex infrastructuring initiative. It has a unique character combining both political and non-political elements and actors. Moreover, the project aims at infrastructuring digital sovereignty in the cloud sector through infrastructural development and governance structures. The analysis along three dimensions of Gaia-X’s development – design, dependence, and differentiation – shows the confrontation with dominant infrastructure (providers) and how Gaia-X alters its approach by developing a specific hybrid governance. Despite this, Gaia-X aims to achieve digital sovereignty, albeit in a broad understanding and by focusing on ‘compliance by design’ as a means.",
         "url": "https://doi.org/10.1080/1369118x.2025.2516545",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2024.2396614",
+        "title": "Manufacturing influencers: the gatekeeping roles of MCNs (Multi-channel networks) in cultural production",
+        "authors": [
+          "Fan Liang",
+          "Ji Li"
+        ],
+        "year": 2024,
+        "citation_count": 13,
+        "topics": [
+          "Influencer marketing",
+          "Gatekeeping",
+          "Digital media production",
+          "Multi-channel networks"
+        ],
+        "abstract": "This study examines the revolutionary role of MCNs (multi-channel networks) in China's influencer market, focusing on their impact on cultural production. While existing scholarship has explored influencer precarity and platform dependency, the role of MCNs receives little attention. Drawing from platform studies, cultural production literature, and media industry research, this study maps out the development of the MCN industry and reveals the ways they shape cultural production. Our findings demonstrate that MCNs not only assist influencers in producing content and managing risk but also standardize cultural products and play a key role in restricting influencers’ creative autonomy. Moreover, MCNs provide the infrastructure and support for content creation and thus act as pivotal gatekeepers, directing influencers’ careers. We conceptualize this process as ‘manufacturing influencers’ which involves three overarching approaches: talent incubation, content optimization, and platform monetization. We argue that MCNs have moved beyond mere intermediation toward gatekeeping cultural production and consumption.",
+        "url": "https://doi.org/10.1080/1369118x.2024.2396614",
         "topics_llm": true
       },
       {
@@ -2191,25 +2207,6 @@
         ],
         "abstract": "This article explores users’ perceptions of justice when using appeals on Instagram and TikTok, focusing on the barriers de-platformed users across fields like activism, sex work, sex education and LGBTQIA + self-expression face when using these platforms’ automated appeals to recover their de-platformed content and/or accounts. Examining appeals from a platform governance standpoint and drawing from fairness and due process literature, this study finds concerning loopholes within these platforms’ appeals, leaving room for discrimination, fraud and scams and leading to user disempowerment. Through interviews with de-platformed users, this paper reveals significant barriers faced by particularly transgender and sex working users when recovering their de-platformed accounts through in-platform appeals. With metaphors of an ‘algorithmic cop, jury and judge,’ this paper concludes that the needs of marginalised users have been designed out of content moderation and of platforms’ processes, leading them to experience the appeals system as opaque, unfair and unjust.",
         "url": "https://doi.org/10.1080/1369118x.2024.2396621",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2024.2396614",
-        "title": "Manufacturing influencers: the gatekeeping roles of MCNs (Multi-channel networks) in cultural production",
-        "authors": [
-          "Fan Liang",
-          "Ji Li"
-        ],
-        "year": 2024,
-        "citation_count": 12,
-        "topics": [
-          "Influencer marketing",
-          "Gatekeeping",
-          "Digital media production",
-          "Multi-channel networks"
-        ],
-        "abstract": "This study examines the revolutionary role of MCNs (multi-channel networks) in China's influencer market, focusing on their impact on cultural production. While existing scholarship has explored influencer precarity and platform dependency, the role of MCNs receives little attention. Drawing from platform studies, cultural production literature, and media industry research, this study maps out the development of the MCN industry and reveals the ways they shape cultural production. Our findings demonstrate that MCNs not only assist influencers in producing content and managing risk but also standardize cultural products and play a key role in restricting influencers’ creative autonomy. Moreover, MCNs provide the infrastructure and support for content creation and thus act as pivotal gatekeepers, directing influencers’ careers. We conceptualize this process as ‘manufacturing influencers’ which involves three overarching approaches: talent incubation, content optimization, and platform monetization. We argue that MCNs have moved beyond mere intermediation toward gatekeeping cultural production and consumption.",
-        "url": "https://doi.org/10.1080/1369118x.2024.2396614",
         "topics_llm": true
       },
       {
@@ -2314,23 +2311,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1369118x.2024.2388079",
-        "title": "How persuasive are political cheapfakes disseminated via social media? The effects of out-of-context visual disinformation on message credibility and issue agreement",
+        "doi": "10.1080/1369118x.2024.2442394",
+        "title": "Data integration and analysis platforms as digital platforms: a conceptual proposal",
         "authors": [
-          "Michael Hameleers",
-          "Toni G.L.A. van der Meer",
-          "Rens Vliegenthart"
+          "Simon Egbert",
+          "Lena Ulbricht"
         ],
         "year": 2024,
         "citation_count": 9,
         "topics": [
-          "Visual disinformation",
-          "Political misinformation",
-          "Social media persuasion",
-          "Cheapfakes"
+          "Digital platforms",
+          "Data integration",
+          "Platform governance",
+          "Communication infrastructure"
         ],
-        "abstract": "Although extant research offered first insights into the effects of visual disinformation, we know markedly little about the effects of cheapfakes that rely on the deceptive re-contextualization of authentic visual materials disseminated via social media. Against this backdrop, we rely on online experiments (N = 874) and (N = 733) in which we exposed representative samples of participants to different types of (visual) disinformation in which the out-of-context presentation of visual material was central. Our findings indicate that cheapfakes based on video editing are not more credible than textual or image-only visual disinformation, while disinformation in general can lower support for a delegitimized politician. As a key contribution, we show that when cheapfakes are endorsed by other online users, they can mislead people and therewith succeed in delegitimizing targeted political actors, although richer modalities used in cheapfakes do not amplify deceptive content’s impact.",
-        "url": "https://doi.org/10.1080/1369118x.2024.2388079",
+        "abstract": "In this paper, we conceptualize platforms that aim at data integration and analysis as a distinct type of digital platform. Based on the existing literature on digital platforms in general, which so far did not engage with data integration and analysis platforms, we present a definition of data integration and analysis platforms as a digital platform type in its own right. To emphasize the specificity of this platform type, we present a case example, Palantir Technologies, and highlight its structural characteristics and key technical features. The case study shows that data integration and analysis services should be understood as platforms, because like other platforms, they serve as modifiable digital infrastructures that bring together different parties and enable data-dependent interaction. It is especially important to understand data integration and analysis platforms as digital platforms because these platforms have their own politics and determine what happens on them, as we illustrate with regard to two important social values that are part of the data sovereignty of organizations: epistemic opacity and epistemic control. We conclude that it is time that platform research not only scrutinizes those technologies and companies that are visible to the eye of large numbers of end-users, but also those that operate in the dark.",
+        "url": "https://doi.org/10.1080/1369118x.2024.2442394",
         "topics_llm": true
       },
       {
@@ -2467,25 +2463,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1369118x.2024.2442394",
-        "title": "Data integration and analysis platforms as digital platforms: a conceptual proposal",
-        "authors": [
-          "Simon Egbert",
-          "Lena Ulbricht"
-        ],
-        "year": 2024,
-        "citation_count": 8,
-        "topics": [
-          "Digital platforms",
-          "Data integration",
-          "Platform governance",
-          "Communication infrastructure"
-        ],
-        "abstract": "In this paper, we conceptualize platforms that aim at data integration and analysis as a distinct type of digital platform. Based on the existing literature on digital platforms in general, which so far did not engage with data integration and analysis platforms, we present a definition of data integration and analysis platforms as a digital platform type in its own right. To emphasize the specificity of this platform type, we present a case example, Palantir Technologies, and highlight its structural characteristics and key technical features. The case study shows that data integration and analysis services should be understood as platforms, because like other platforms, they serve as modifiable digital infrastructures that bring together different parties and enable data-dependent interaction. It is especially important to understand data integration and analysis platforms as digital platforms because these platforms have their own politics and determine what happens on them, as we illustrate with regard to two important social values that are part of the data sovereignty of organizations: epistemic opacity and epistemic control. We conclude that it is time that platform research not only scrutinizes those technologies and companies that are visible to the eye of large numbers of end-users, but also those that operate in the dark.",
-        "url": "https://doi.org/10.1080/1369118x.2024.2442394",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1369118x.2025.2492577",
         "title": "Visual narratives and political instability: a case study of visual media prior to the Russia-Ukraine conflict",
         "authors": [
@@ -2604,6 +2581,26 @@
         ],
         "abstract": "Digital media and social networks offer adolescents a space for various social and sexual interactions. While the internet fosters healthy sexual exploration, it also facilitates online sexual abuse, such as non-consensual intimate image creation or dissemination, sextortion, sexual harassment, grooming, and gender-based hate speech. This abuse often goes underreported, especially when parents and teachers minimize or blame victims, or fail to recognize the abuse. This study examined how Israeli teachers and artificial intelligence (AI) identify and attribute blame in cases of sexual abuse. Six vignettes, depicting various sexual scenarios, were presented to 153 teachers and analyzed by ChatGPT-3.5 and ChatGPT-4. Findings revealed that teachers struggled to identify online sexual abuse and often blamed victims. ChatGPT-3.5 also tended to blame victims, but ChatGPT-4 accurately identified the abuse without victim-blaming. The study suggests GPT-4 can be an effective tool for identifying and naming sexual abuse when teachers lack proper training.",
         "url": "https://doi.org/10.1080/1369118x.2025.2492585",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1369118x.2025.2535426",
+        "title": "Disability inclusion in extended reality (XR) research: a critical scoping review",
+        "authors": [
+          "Wenqi Tan",
+          "Ben Egliston",
+          "Marcus Carter"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Extended reality (XR)",
+          "Disability inclusion",
+          "Human-computer interaction",
+          "Universal design"
+        ],
+        "abstract": "While extended reality (XR) technology—encompassing virtual reality, augmented reality, and mixed reality—promises more inclusive futures for disabled people, it is contradictorily steeped in normative assumptions about their users’ embodiments. Supplementing a growing body of work critiquing the ideologies undergirding XR, this article attends to how XR research has understood disability inclusion. Informed by Mitchell and Snyder’s delineation of what constitutes the ‘meaningful inclusion’ of people with disability, we analyzed 45 documents concerned with disability inclusion in XR from a comprehensive search of two databases (January 2009–April 2024). Findings reveal that XR research lacks a common understanding of disability inclusion while predominantly invoking the concept in narrow and harmful ways incompatible with disability activism and scholarship. We advocate for agendas that understand disability inclusion in XR beyond normative boundaries and attend to developing XR spaces conceptualized for disabled corporealities.",
+        "url": "https://doi.org/10.1080/1369118x.2025.2535426",
         "topics_llm": true
       },
       {
@@ -2895,6 +2892,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1369118x.2025.2516542",
+        "title": "Rethinking screen time and academic achievement: gender differences and the hidden benefit of online leisure through digital skills",
+        "authors": [
+          "Gabriel E. Hales",
+          "Keith N. Hampton"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Digital media use",
+          "Academic achievement",
+          "Digital skills",
+          "Gender differences"
+        ],
+        "abstract": "Concerns about the detrimental effects of screen time on adolescents’ academic achievement are widespread. However, this perspective often overlooks the potential educational benefits of online leisure time, and gender differences in online and offline activities. We examine the relationship between digital media use (social media, video games, etc.), digital skills, and standardized test scores (SAT) in a sample of 2,582 students in grades 8-11. Using path analysis, we find a compensatory mechanism. Like unstructured time spent in-person with peers, time spent on social media has a small, negative, direct relationship to academic achievement. However, unlike time spent in-person, digital activities offset the small, negative relationship to achievement with a larger, positive, indirect relationship through digital skills. Notably, boys benefit more than girls in reading and writing from unstructured digital media use, with little difference in math. This potentially mitigates some gender-based achievement gaps. Gender differences are tied to media preferences and the relationship between different digital activities and different digital skills. These findings challenge the simplistic view that unstructured leisure time spent on digital media is inherently harmful or unproductive. We underscore the need for shifts in policy and parenting practices to recognize the benefits of casual leisure and unstructured time with peers, both online and offline, for learning and development.",
+        "url": "https://doi.org/10.1080/1369118x.2025.2516542",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1369118x.2026.2639568",
         "title": "Problematic social media use and adolescent mental well-being: a cross-national study on socioeconomic inequalities",
         "authors": [
@@ -2911,25 +2927,6 @@
         ],
         "abstract": "Although the role of social media in youth mental health has been recently examined, how social inequalities structure the relationship between social media use and adolescent well-being across countries remains unclear. Employing a micro–macro framework, this study examines how family-level socioeconomic status (SES) and country-level income inequalities moderate the relationship between Problematic Social Media Use (PSMU) – a concept of risk-related social media use – and adolescents’ psychological complaints and life satisfaction. Analyses apply mixed-effect multilevel models to data from 35 countries participating in the Health Behaviour of School Aged Children (HBSC) study (N∼145,000). Results show that PSMU is associated with higher psychological complaints and lower life satisfaction consistently across countries. Yet, these effects are stronger for low-SES adolescents than for high-SES adolescents, especially for life satisfaction. At the country level, the relationship between PSMU and poorer adolescent mental well-being is curvilinear, being larger in medium-inequality countries than in both low- and high-inequality countries. Additionally, the observed SES gaps in the association between PSMU and adolescent mental well-being persist across countries with different levels of inequality. Overall, this study shows that risk-related social media behaviours may harm low-SES adolescents more than high-SES adolescents, whereas the relationship between PSMU and adolescent mental well-being is largest in countries with medium income inequality levels.",
         "url": "https://doi.org/10.1080/1369118x.2026.2639568",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1369118x.2025.2496903",
-        "title": "Digital duality: negotiating tradition, modernity, and identity among rural housewife Douyin creators in China",
-        "authors": [
-          "Dandan Liu",
-          "G. F. Fan"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "Social media creators",
-          "Rural identity",
-          "Digital femininity",
-          "Short-form video platforms"
-        ],
-        "abstract": "Douyin, the Chinese domestic version of TikTok, has rapidly become a key social media platform in rural China, offering new avenues for self-expression and economic participation. This study draws on in-depth interviews with 21 rural housewife Douyin creators to investigate how they balance traditional household responsibilities with evolving digital identities. The findings indicate that Douyin opens up unprecedented opportunities for these women to challenge stereotypes, showcase agricultural and domestic skills, and redefine rural femininity. However, this engagement also introduces constraints, including algorithmic pressures to curate content, community scrutiny, and the need to reconcile online visibility with cultural expectations of modesty. Despite these challenges, many participants use Douyin’s interactive features to negotiate complex family and community dynamics, thereby shaping new perceptions of rural womanhood. By examining the interplay between tradition and modernity, the study highlights how Douyin serves as both a platform for empowerment and a space where existing gender norms can be reinforced. The analysis shows the intricate ways in which digital media can transform social roles, while also drawing attention to the persistent cultural and structural barriers that rural housewife creators face. Overall, this research contributes to a deeper understanding of the multifaceted impact of short-video platforms on rural women’s identities, family relations, and community engagement in contemporary China.",
-        "url": "https://doi.org/10.1080/1369118x.2025.2496903",
         "topics_llm": true
       }
     ]

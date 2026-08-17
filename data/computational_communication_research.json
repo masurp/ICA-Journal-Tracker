@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-08-10T07:38:29Z",
-  "trending_from": "2024-08-10",
+  "updated_at": "2026-08-17T06:52:16Z",
+  "trending_from": "2024-08-17",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 81,
+        "citation_count": 82,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -35,7 +35,7 @@
           "Fabio Votta"
         ],
         "year": 2022,
-        "citation_count": 78,
+        "citation_count": 79,
         "topics": [
           "TikTok",
           "Short-form video",
@@ -44,6 +44,33 @@
         ],
         "abstract": "TikTok has rapidly developed from a punchline for jokes about “kids these days” into a formidable force in American politics. The speed of this development is unprecedented, even in the rapidly-changing world of digital politics. Through a combination of hashtag and snowball sampling, we identify 11,546 TikTok accounts who primarily post about politics, allowing us to analyze trends in the posting, viewing and commenting behavior on 1,998,642 tiktoks they have uploaded. We test a number of theories about how the unique combination of affordances on TikTok shapes how it is used for political communication. Compared to the dominant platform for political videos (YouTube) we find that a higher percentage of TikTok users upload videos, TikTok view counts are more dominated by virality, and viewership of videos are less dependent on a given accounts’ number of followers/subscribers. We discuss how these findings affect the production of content that ultimately determines the experience of TikTok consumers.",
         "url": "https://doi.org/10.5117/ccr2022.2.004.guin",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2022.2.001.arau",
+        "title": "OSD2F: An Open-Source Data Donation Framework",
+        "authors": [
+          "Theo Araujo",
+          "Jef Ausloos",
+          "Wouter van Atteveldt",
+          "Felicia Löecherbach",
+          "Judith Moeller",
+          "Jakob Ohme",
+          "Damian Trilling",
+          "Bob van de Velde",
+          "Claes H. de Vreese",
+          "Kasper Welbers"
+        ],
+        "year": 2022,
+        "citation_count": 63,
+        "topics": [
+          "Data donation",
+          "Open-source framework",
+          "Data science",
+          "Research methodology"
+        ],
+        "abstract": "The digital traces that people leave through their use of various online platforms provide tremendous opportunities for studying human behavior. However, the collection of these data is hampered by legal, ethical, and technical challenges. We present a framework and tool for collecting these data through a data donation platform where consenting participants can securely submit their digital traces. This approach leverages recent developments in data rights that have given people more control over their own data, such as legislation that now mandates companies to make digital trace data available on request in a machine-readable format. By transparently requesting access to specific parts of this data for clearly communicated academic purposes, the data ownership and privacy of participants is respected, and researchers are less dependent on commercial organizations that store this data in proprietary archives. In this paper we outline the general design principles, the current state of the tool, and future development goals.",
+        "url": "https://doi.org/10.5117/ccr2022.2.001.arau",
         "topics_llm": true
       },
       {
@@ -66,33 +93,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.2.001.arau",
-        "title": "OSD2F: An Open-Source Data Donation Framework",
-        "authors": [
-          "Theo Araujo",
-          "Jef Ausloos",
-          "Wouter van Atteveldt",
-          "Felicia Löecherbach",
-          "Judith Moeller",
-          "Jakob Ohme",
-          "Damian Trilling",
-          "Bob van de Velde",
-          "Claes H. de Vreese",
-          "Kasper Welbers"
-        ],
-        "year": 2022,
-        "citation_count": 62,
-        "topics": [
-          "Data donation",
-          "Open-source framework",
-          "Data science",
-          "Research methodology"
-        ],
-        "abstract": "The digital traces that people leave through their use of various online platforms provide tremendous opportunities for studying human behavior. However, the collection of these data is hampered by legal, ethical, and technical challenges. We present a framework and tool for collecting these data through a data donation platform where consenting participants can securely submit their digital traces. This approach leverages recent developments in data rights that have given people more control over their own data, such as legislation that now mandates companies to make digital trace data available on request in a machine-readable format. By transparently requesting access to specific parts of this data for clearly communicated academic purposes, the data ownership and privacy of participants is respected, and researchers are less dependent on commercial organizations that store this data in proprietary archives. In this paper we outline the general design principles, the current state of the tool, and future development goals.",
-        "url": "https://doi.org/10.5117/ccr2022.2.001.arau",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2022.2.007.hage",
         "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
         "authors": [
@@ -100,7 +100,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 56,
+        "citation_count": 57,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -174,6 +174,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2020.2.001.maie",
+        "title": "How Document Sampling and Vocabulary Pruning Affect the Results of Topic Models",
+        "authors": [
+          "Daniel Maier",
+          "Andreas Niekler",
+          "Gregor Wiedemann",
+          "Daniela Stoltenberg"
+        ],
+        "year": 2020,
+        "citation_count": 30,
+        "topics": [
+          "Topic modeling",
+          "Computational efficiency",
+          "Corpus analysis",
+          "Vocabulary pruning"
+        ],
+        "abstract": "Topic modeling enables researchers to explore large document corpora. Large corpora, however, can be extremely costly to model in terms of time and computing resources. In order to circumvent this problem, two techniques have been suggested: (1) to model random document samples, and (2) to prune the vocabulary of the corpus. Although frequently applied, there has been no systematic inquiry into how the application of these techniques affects the respective models. Using three empirical corpora with different characteristics (news articles, websites, and Tweets), we systematically investigated how different sample sizes and pruning affect the resulting topic models in comparison to models of the full corpora. Our inquiry provides evidence that both techniques are viable tools that will likely not impair the resulting model. Sample-based topic models closely resemble corpus-based models if the sample size is large enough (&gt; 10,000 documents). Moreover, extensive pruning does not compromise the quality of the resultant topics.",
+        "url": "https://doi.org/10.5117/ccr2020.2.001.maie",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.001.joo",
         "title": "Image as Data: Automated Content Analysis for Visual Presentations of Political Actors and Events",
         "authors": [
@@ -190,27 +211,6 @@
         ],
         "abstract": "Images matter because they help individuals evaluate policies, primarily through emotional resonance, and can help researchers from a variety of fields measure otherwise difficult to estimate quantities. The lack of scalable analytic methods, however, has prevented researchers from incorporating large scale image data in studies. This article offers an in-depth overview of automated methods for image analysis and explains their usage and implementation. It elaborates on how these methods and results can be validated and interpreted and discusses ethical concerns. Two examples then highlight approaches to systematically understanding visual presentations of political actors and events from large scale image datasets collected from social media. The first study examines gender and party differences in the self-presentation of the U.S. politicians through their Facebook photographs, using an off-the-shelf computer vision model, Google’s Label Detection API. The second study develops image classifiers based on convolutional neural networks to detect custom labels from images of protesters shared on Twitter to understand how protests are framed on social media. These analyses demonstrate advantages of computer vision and deep learning as a novel analytic tool that can expand the scope and size of traditional visual analysis to thousands of features and millions of images. The paper also provides comprehensive technical details and practices to help guide political communication scholars and practitioners.",
         "url": "https://doi.org/10.5117/ccr2022.1.001.joo",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2020.2.001.maie",
-        "title": "How Document Sampling and Vocabulary Pruning Affect the Results of Topic Models",
-        "authors": [
-          "Daniel Maier",
-          "Andreas Niekler",
-          "Gregor Wiedemann",
-          "Daniela Stoltenberg"
-        ],
-        "year": 2020,
-        "citation_count": 29,
-        "topics": [
-          "Topic modeling",
-          "Computational efficiency",
-          "Corpus analysis",
-          "Vocabulary pruning"
-        ],
-        "abstract": "Topic modeling enables researchers to explore large document corpora. Large corpora, however, can be extremely costly to model in terms of time and computing resources. In order to circumvent this problem, two techniques have been suggested: (1) to model random document samples, and (2) to prune the vocabulary of the corpus. Although frequently applied, there has been no systematic inquiry into how the application of these techniques affects the respective models. Using three empirical corpora with different characteristics (news articles, websites, and Tweets), we systematically investigated how different sample sizes and pruning affect the resulting topic models in comparison to models of the full corpora. Our inquiry provides evidence that both techniques are viable tools that will likely not impair the resulting model. Sample-based topic models closely resemble corpus-based models if the sample size is large enough (&gt; 10,000 documents). Moreover, extensive pruning does not compromise the quality of the resultant topics.",
-        "url": "https://doi.org/10.5117/ccr2020.2.001.maie",
         "topics_llm": true
       },
       {
@@ -242,7 +242,7 @@
           "René Weber"
         ],
         "year": 2019,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "GDELT database",
           "Content analysis",
@@ -437,6 +437,28 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.1.8.wang",
+        "title": "Cross-Platform Information Flow and Multilingual Text Analysis: A Comparative Study of Weibo and Twitter Through Deep Learning",
+        "authors": [
+          "Zituo Wang",
+          "Jiayi Zhu",
+          "Yixuan Xu",
+          "Dong-Gyu Kim",
+          "Dmitri Williams"
+        ],
+        "year": 2023,
+        "citation_count": 17,
+        "topics": [
+          "Social media analysis",
+          "Multilingual text classification",
+          "Cross-platform information flow",
+          "Deep learning sentiment analysis"
+        ],
+        "abstract": "&lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; &lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; This study delved into cross-platform information flow and multilingual text analysis by examining social media posts on Weibo and Twitter in Chinese and English. We investigated public opinions about a violent restaurant attack in China that received widespread attention and validated three strategies of Bidirectional Encoder Representations from Transformers (BERT) to classify multilingual social media posts regarding their attitudes, targets, and frames. This study found that there was more criticism than support on Twitter than on Weibo when calling for social justice. When targeting the governments, Weibo users focused more on the local level, while Twitter users focused more on the state level. When framing their opinions, Weibo users focused more on gender violence, while Twitter users focused more on gang violence. These variations within social media posts across platforms were fundamentally influenced by the interruption of transnational information flow as a result of Chinese governance and censorship of the internet. Through the “porous censorship,” social media users’ autonomy and trust in the government played critical roles in the dynamics between online criticism and authoritarian responsiveness. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
+        "url": "https://doi.org/10.5117/ccr2023.1.8.wang",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.007.neum",
         "title": "Body Language and Gender Stereotypes in Campaign Video",
         "authors": [
@@ -457,25 +479,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2023.1.8.wang",
-        "title": "Cross-Platform Information Flow and Multilingual Text Analysis: A Comparative Study of Weibo and Twitter Through Deep Learning",
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
         "authors": [
-          "Zituo Wang",
-          "Jiayi Zhu",
-          "Yixuan Xu",
-          "Dong-Gyu Kim",
-          "Dmitri Williams"
+          "Hauke Licht",
+          "Fabienne Lind"
         ],
         "year": 2023,
-        "citation_count": 16,
+        "citation_count": 14,
         "topics": [
-          "Social media analysis",
-          "Multilingual text classification",
-          "Cross-platform information flow",
-          "Deep learning sentiment analysis"
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
         ],
-        "abstract": "&lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; &lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; This study delved into cross-platform information flow and multilingual text analysis by examining social media posts on Weibo and Twitter in Chinese and English. We investigated public opinions about a violent restaurant attack in China that received widespread attention and validated three strategies of Bidirectional Encoder Representations from Transformers (BERT) to classify multilingual social media posts regarding their attitudes, targets, and frames. This study found that there was more criticism than support on Twitter than on Weibo when calling for social justice. When targeting the governments, Weibo users focused more on the local level, while Twitter users focused more on the state level. When framing their opinions, Weibo users focused more on gender violence, while Twitter users focused more on gang violence. These variations within social media posts across platforms were fundamentally influenced by the interruption of transnational information flow as a result of Chinese governance and censorship of the internet. Through the “porous censorship,” social media users’ autonomy and trust in the government played critical roles in the dynamics between online criticism and authoritarian responsiveness. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
-        "url": "https://doi.org/10.5117/ccr2023.1.8.wang",
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -518,25 +537,6 @@
         ],
         "abstract": "Recommendation algorithms are widely used in online cultural markets to provide personalized suggestions for products like books and movies. At the heart of the commercial success of recommendation algorithms is their ability to make an accurate prediction of a target person’s preferences for previously unseen items. Can these algorithms also be used to predict which health messages an individual will evaluate favorably, and thereby provide effective tailored communication to the person? Although there is evidence that message tailoring enhances persuasion, little research has examined the effectiveness of recommendation algorithms for tailored health interventions aimed at promoting behavior change. We developed a message tailoring algorithm to select smoking-related public service announcements (PSAs) for smokers, and experimentally test its effectiveness in predicting a target smoker’s evaluations of PSAs and encouraging smoking cessation. The tailoring algorithm was constructed using multiple levels of data on smokers’ PSA rating history, individual differences, content features of the PSAs, and other smokers’ PSA ratings. We conducted a longitudinal online experiment to examine its efficacy in comparison to two non-tailored methods: “best in show” (choosing messages most preferred by other smokers) and “off the shelf” (random selection from eligible ads). The results showed that the tailoring algorithm produced more accurate predictions of smokers’ message evaluations than the simple-average method used for the “best in show” approach. Smokers who viewed PSAs recommended by the tailoring algorithm were more likely than those receiving a random set to evaluate the PSAs favorably and quit smoking. There was no significant difference between the “best in show” and “off the shelf” methods in message assessment and quitting behavior.",
         "url": "https://doi.org/10.5117/ccr2019.1.005.sukk",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
-        ],
-        "year": 2023,
-        "citation_count": 13,
-        "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
-        ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -1451,7 +1451,7 @@
           "Deepak Kumar"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Conversational AI",
           "Field experiments",
