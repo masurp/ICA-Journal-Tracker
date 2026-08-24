@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-08-17T06:52:13Z",
-  "trending_from": "2024-08-17",
+  "updated_at": "2026-08-24T06:55:14Z",
+  "trending_from": "2024-08-24",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4210,
+        "citation_count": 4220,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2562,
+        "citation_count": 2578,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1846,
+        "citation_count": 1848,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1116,
+        "citation_count": 1118,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 916,
+        "citation_count": 919,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 828,
+        "citation_count": 831,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 169,
+        "citation_count": 168,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -548,7 +548,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 136,
+        "citation_count": 137,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -569,7 +569,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2019,
-        "citation_count": 136,
+        "citation_count": 137,
         "topics": [
           "Sentiment analysis",
           "Automated content analysis",
@@ -827,7 +827,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 92,
+        "citation_count": 93,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -840,7 +840,7 @@
       },
       {
         "doi": "10.1080/19312458.2010.527869",
-        "title": "Exponential Random Graph ( <i>p*</i> ) Models as a Method for Social Network Analysis in Communication Research",
+        "title": "Exponential Random Graph ( p* ) Models as a Method for Social Network Analysis in Communication Research",
         "authors": [
           "Michelle Shumate",
           "Edward T. Palazzolo"
@@ -993,6 +993,26 @@
     ],
     "latest": [
       {
+        "doi": "10.1080/19312458.2026.2693637",
+        "title": "Introducing HALC: a general pipeline for the systematic and reliable construction of prompts for automated coding with LLMs in the computational social sciences",
+        "authors": [
+          "Andreas Reich",
+          "Claudia Thoms",
+          "Tobias Schrimpf"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Large Language Models",
+          "Automated Coding",
+          "Computational Social Sciences",
+          "Content Analysis"
+        ],
+        "abstract": "LLMs are seeing widespread use for task automation, including automated coding in the social sciences. However, even though researchers have proposed different prompting strategies, their effectiveness varies across LLMs and tasks. Often trial and error practices are still widespread. Our study aims to fill this gap and evaluate how LLMs can be used in a systematic and transparent way to produce reliable codings in content analyses. We propose HALC — a general pipeline that allows for the systematic and reliable construction of prompts for any given coding task and model. We develop this pipeline based on current literature and findings of a prestudy investigating consistency and influencing factors of LLM codings. We also apply HALC on two other datasets covering different thematic contexts, document types, languages, and coding units to test its applicability. Based on more than three million LLM requests, our results demonstrate that the pipeline is capable of identifying prompts for reliable codings in different settings. We also discuss shortcomings and further potential for development.",
+        "url": "https://doi.org/10.1080/19312458.2026.2693637",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2026.2697199",
         "title": "Beyond apps: a method to model full distributions of screen content over time to study media effects",
         "authors": [
@@ -1014,26 +1034,6 @@
         ],
         "abstract": "Research on smartphone media use has progressed from aggregate screen-time measures to app-level logs, yet these approaches still obscure the diversity and structure of the content users encounter. We introduce smartphone screen content patterns (content patterns) as a new construct and propose an analytical framework that represents smartphone use as distributions of experienced screen content rather than summaries of time spent on devices or in apps. We operationalize content patterns using deep learning embeddings of moment-by-moment screenshots and formalize use periods as probability distributions over embedding space. This distribution-based representation supports two analytic strategies: Mantel tests to assess covariation between changes in content patterns and outcomes, and k-nearest neighbor regression to evaluate whether content patterns contain sufficient information to reconstruct outcomes. We illustrate the framework with six months of screenomics data from 53 adolescents, including 21 million passively collected screenshots and 542 fortnightly mental health self-reports. Results show that most content variability occurs within applications and time periods, highlighting the limits of app- and time-based measures. Content patterns outperform screen-time measures and provide complementary insights to app-level logs, advancing a content-centric approach to modeling digital media exposure.",
         "url": "https://doi.org/10.1080/19312458.2026.2697199",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2026.2693637",
-        "title": "Introducing HALC: a general pipeline for the systematic and reliable construction of prompts for automated coding with LLMs in the computational social sciences",
-        "authors": [
-          "Andreas Reich",
-          "Claudia Thoms",
-          "Tobias Schrimpf"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Large Language Models",
-          "Automated Coding",
-          "Computational Social Sciences",
-          "Content Analysis"
-        ],
-        "abstract": "LLMs are seeing widespread use for task automation, including automated coding in the social sciences. However, even though researchers have proposed different prompting strategies, their effectiveness varies across LLMs and tasks. Often trial and error practices are still widespread. Our study aims to fill this gap and evaluate how LLMs can be used in a systematic and transparent way to produce reliable codings in content analyses. We propose HALC — a general pipeline that allows for the systematic and reliable construction of prompts for any given coding task and model. We develop this pipeline based on current literature and findings of a prestudy investigating consistency and influencing factors of LLM codings. We also apply HALC on two other datasets covering different thematic contexts, document types, languages, and coding units to test its applicability. Based on more than three million LLM requests, our results demonstrate that the pipeline is capable of identifying prompts for reliable codings in different settings. We also discuss shortcomings and further potential for development.",
-        "url": "https://doi.org/10.1080/19312458.2026.2693637",
         "topics_llm": true
       },
       {
@@ -1489,7 +1489,7 @@
           "Communication research",
           "Evidence alignment"
         ],
-        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages).For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated.Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\"But that inference is mistaken.The reasoning mistake is not specific to that example, but rather is a common mistake in communication research.This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.Consider the following reasoning: \"Narrative transportation and persuasion are positively correlated: the more individuals are transported by a narrative (carried away by the story, immersed in the story world, etc.), the more persuaded they are.Hence when creating narrative messages meant to persuade, message designers should make the messages highly transporting, because messages that are more transporting will be more persuasive.\"This reasoning sounds quite sensible, but in fact is deeply flawed.The reasoning mistake here is not specific to narrative messages or transportation or persuasion, but instead is a common and general mistake evident in several aspects of communication research.In what follows, this article first specifies and explains the mistake in this reasoning.A second section provides multiple examples of the mistake.A concluding section discusses implications of, and remedies for, this circumstance. The reasoning mistakeTo continue the example: It seems obvious that if individuals who are more transported by a narrative are more persuaded (than individuals not so transported), then narratives that are more transporting will be more persuasive (than narratives that are not so transporting) and hence persuaders should use those narratives that are more transporting.For example, Green and Clark (2013) noted that \"individuals who are more highly transported into narratives show greater attitude, belief and behavior change\" (p.477); one implication drawn was that \"if a smoking scene occurs in a highly transporting movie, it should have a stronger effect on individuals' attitudes and behaviors than a smoking scene in a less transporting film\" (p.481).Similarly, A. J. Dillard et al. (2018) found that among people who read a narrative about skin cancer, greater",
+        "abstract": "Researchers often invoke individual-level correlations (correlations between properties of individuals) as a basis for message-level claims (claims about properties of messages).For example: \"People who are more transported by a narrative message are generally also more persuaded by it; individuals' transportation and persuasion scores are positively correlated.Therefore narratives that are more transporting will be more persuasive than narratives that are less transporting.\"But that inference is mistaken.The reasoning mistake is not specific to that example, but rather is a common mistake in communication research.This article explains the reasoning mistake, identifies multiple examples of the mistake, and discusses implications of and remedies for this circumstance.",
         "url": "https://doi.org/10.1080/19312458.2024.2349987",
         "topics_llm": true
       },
@@ -1551,7 +1551,7 @@
           "Named Entity Recognition",
           "Text Preprocessing"
         ],
-        "abstract": "Topic Modelling has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communications science, in particular. The core strength of TM approaches is the fact that it is essentially a 2-in-1 method, as it both generates clusters into which the texts may fall as well as classifies the texts according to the clusters. Previous research has pointed out that pre-processing text corpora is as much a part of text analysis as the latter stages. Named Entity Recognition, however, is not often thought of when pre-processing texts for analysis and has thus far not received much attention in relation to the TM pipeline. If simply retaining or removing stop words can produce different interpretations of the outcomes of TM, retaining or removing NEs also has consequences on outcomes and interpretations. The current paper analyses the effects that removing/retaining NEs has on the interpretability of topic models. Both model statistics and human validation are used to address this issue. The results show differences in topics models trained on corpora with and without NEs. TMs trained on corpora where NEs are removed exhibit different structural characteristics, and, more importantly, are perceived differently by human coders. We attempt to formulate recommendations regarding the pre-processing of NEs in TM applications.",
+        "abstract": "Topic Modelling has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communications science, in particular.The core strength of TM approaches is the fact that it is essentially a 2-in-1 method, as it both generates clusters into which the texts may fall as well as classifies the texts according to the clusters.Previous research has pointed out that pre-processing text corpora is as much a part of text analysis as the latter stages.Named Entity Recognition, however, is not often thought of when pre-processing texts for analysis and has thus far not received much attention in relation to the TM pipeline.If simply retaining or removing stop words can produce different interpretations of the outcomes of TM, retaining or removing NEs also has consequences on outcomes and interpretations.The current paper analyses the effects that removing/ retaining NEs has on the interpretability of topic models.Both model statistics and human validation are used to address this issue.The results show differences in topics models trained on corpora with and without NEs.TMs trained on corpora where NEs are removed exhibit different structural characteristics, and, more importantly, are perceived differently by human coders.We attempt to formulate recommendations regarding the preprocessing of NEs in TM applications.Topic Modelling (TM) has established itself as one of the major text-as-data methodologies within the social sciences in general, and in communication science, in particular.The core strength of TM approaches is the fact that they essentially are a 2-in-1 method, as a TM both generates clusters into which texts may fall and classifies the texts according to these clusters.Also, TM makes possible the classification of texts without a priori defining these categories, which allows for relatively fast exploration of textual data.It has been extremely useful for clustering and classification of large quantities of text, that would otherwise be unmanageable for conventional analysis approaches.The proliferation of software and dedicated packages made TM a popular choice for dealing with large text corpora.Nevertheless, to make robust inferences from text-as-data methods, TMs require a substantial amount of validation (e.g., Grimmer & Stewart, 2013).Moreover, text-as-data methods in general, and TMs in particular, are quite sensitive to the input data and may result in different outcomes depending on what goes \"in.\"Within text analysis applications, much of the subsequent interpretation of the results strongly depends on the steps that researchers take at the beginning of the analysis (Maier et al., 2018).While such pre-",
         "url": "https://doi.org/10.1080/19312458.2024.2302120",
         "topics_llm": true
       },
@@ -1576,6 +1576,28 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2024.2308369",
+        "title": "Taking communication science and research methodology seriously",
+        "authors": [
+          "Lijiang Shen",
+          "Ye Sun",
+          "Pascal Jürgens",
+          "Baohua Zhou",
+          "Marko Bachl"
+        ],
+        "year": 2024,
+        "citation_count": 6,
+        "topics": [
+          "Communication science",
+          "Research methodology",
+          "Academic publishing",
+          "Measurement methods"
+        ],
+        "abstract": "Communication Methods and Measures has made tremendous progress and achievements since its inaugural issue in 2007 and since the last Editorial (Matthes et al., 2016), as reflected in the impact fa...",
+        "url": "https://doi.org/10.1080/19312458.2024.2308369",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2023.2285783",
         "title": "Beyond sentiment: an algorithmic strategy for identifying evaluations within large text corpora",
         "authors": [
@@ -1586,7 +1608,7 @@
           "Keren Tenenboim‐Weinblatt"
         ],
         "year": 2023,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Sentiment analysis",
           "Machine learning classification",
@@ -1628,7 +1650,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2023,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Social media effects",
           "Computational methods",
@@ -1696,7 +1718,7 @@
           "Media effects research",
           "Digital trace data"
         ],
-        "abstract": "The availability of individual-level digital trace data offers exciting new ways to study media uses and effects based on the actual content that people encountered. In this article, we argue that to really reap the benefits of this data, we need to update our methodology for automated text analysis. We review challenges for the automatic identification of theoretically relevant concepts in texts along three dimensions: <i>format/style, language</i>, and <i>modality</i>. These dimensions unveil a significantly higher level of diversity and complexity in individual-level digital trace data, as opposed to the content traditionally examined through automated text analysis in our field. Consequently, they provide a valuable perspective for exploring the limitations of traditional approaches. We argue that recent developments within the field of Natural Language Processing, in particular, <i>transfer learning</i> using <i>transformer-based models</i>, have the potential to aid the development, application, and performance of various computational tools. These tools can contribute to the meaningful categorization of the content of social (and other) media.",
+        "abstract": "The availability of individual-level digital trace data offers exciting new ways to study media uses and effects based on the actual content that people encountered.In this article, we argue that to really reap the benefits of this data, we need to update our methodology for automated text analysis.We review challenges for the automatic identification of theoretically relevant concepts in texts along three dimensions: format/style, language, and modality.These dimensions unveil a significantly higher level of diversity and complexity in individual-level digital trace data, as opposed to the content traditionally examined through automated text analysis in our field.Consequently, they provide a valuable perspective for exploring the limitations of traditional approaches.We argue that recent developments within the field of Natural Language Processing, in particular, transfer learning using transformer-based models, have the potential to aid the development, application, and performance of various computational tools.These tools can contribute to the meaningful categorization of the content of social (and other) media.",
         "url": "https://doi.org/10.1080/19312458.2023.2261372",
         "topics_llm": true
       },
@@ -1716,7 +1738,7 @@
           "Survey linkage",
           "Online communication"
         ],
-        "abstract": "Linkage analysis, i.e. linking media exposure, content, and surveys, has been a powerful tool to assess media effects. However, the development of online communication and the advent of social media brings about many challenges for traditional linkage designs. In this paper, we explain the three steps of linkage designs for online communication effects and the usage of computational approaches to capture communication exposure and content. We then review recent designs and studies that use different forms of digital trace data to link digital communication exposure, content, and surveys: Tracking data, data donations, and screenshots/screen recordings. We describe (practical) challenges and opportunities when linking digital communication traces with self-reports and show how these data could be analyzed to establish different media effects.",
+        "abstract": "Linkage analysis, i.e. linking media exposure, content, and surveys, has been a powerful tool to assess media effects.However, the development of online communication and the advent of social media brings about many challenges for traditional linkage designs.In this paper, we explain the three steps of linkage designs for online communication effects and the usage of computational approaches to capture communication exposure and content.We then review recent designs and studies that use different forms of digital trace data to link digital communication exposure, content, and surveys: Tracking data, data donations, and screenshots/screen recordings.We describe (practical) challenges and opportunities when linking digital communication traces with selfreports and show how these data could be analyzed to establish different media effects.Data linkage, in a broad sense, means linking data points from different data sources.In the social sciences, typically, one of these data types is survey data that is linked to other sources (Beuthner et al., 2023).Historically, it was most common to link surveys with data from official statistics offices, administrative data (Calderwood & Lessof, 2009), or voting registry data such as the location or size of households or voting districts (Berent et al., 2016).More recently, biomarkers (McFall et al., 2014) and blood and saliva samples have been used as the second data source.Today, many researchers also link surveys to other data sources, e.g., smartphone sensor data on mobility, geolocation, or other digital behavioral data, which is sometimes referred to as \"smart surveys\" (Struminskaya et al., 2020).The motivations to do so are related to (1) enriching and contextualizing self-report data, (2) acquiring more \"objective\" data that is hard or impossible to access via self-report, or (3) lowering costs of (large-scale) surveys since the additional data might be accessible for large populations and does not need to be measured otherwise (Beuthner et al., 2023).In communication research, linkage analysis mainly refers to a combination of (panel) surveys and media content analysis.The method was, and maybe is, one of the most powerful tools and designs to investigate communication effects (De Vreese et al., 2017;Schuck et al., 2016).The basic idea is straightforward: researchers measure (1) self-reported usage of media and communication (e.g., frequency of newspaper reading), (2) content features of this used communication (e.g., articles about climate change in these newspapers), and (3) the outcome variable of interest -usually with surveys -and link those measures to infer media CONTACT",
         "url": "https://doi.org/10.1080/19312458.2023.2257595",
         "topics_llm": true
       },
@@ -1986,7 +2008,7 @@
           "Kilian Buehling"
         ],
         "year": 2023,
-        "citation_count": 24,
+        "citation_count": 25,
         "topics": [
           "Social media data",
           "Message deletion",
@@ -2005,7 +2027,7 @@
           "Thomas N. Friemel"
         ],
         "year": 2023,
-        "citation_count": 44,
+        "citation_count": 43,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -2014,30 +2036,6 @@
         ],
         "abstract": "Using data donations to collect digital trace data holds great potential for communication research, which has not yet been fully realized. Besides limited awareness and expertise among researchers, a central challenge is to motivate people to donate their personal data. Therefore, this article investigates which factors affect people’s willingness to donate across different platforms and data types. The study applies a multilevel approach that explains the reported willingness to donate different types of data (level 1) belonging to different platforms (level 2) from potential data donors with individual characteristics (level 3) to a hypothetical research project. The analysis is based on data collected through a national online survey (n = 833). We find higher willingness to donate YouTube data compared to Facebook, Instagram, or Google, as well as relevant influencing factors at all three levels. Greater willingness is found for lower perceived sensitivity and higher perceived relevance of the data (level of data type), greater perceived behavioral control to request and submit the data (platform level), more favorable attitudes toward data donation and the donation purpose, as well as lower contextual privacy concerns (individual level). Based on these findings, practical implications for future data donation studies are proposed.",
         "url": "https://doi.org/10.1080/19312458.2023.2176474",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2181319",
-        "title": "Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking",
-        "authors": [
-          "Jakob Ohme",
-          "Theo Araujo",
-          "Laura Boeschoten",
-          "Deen Freelon",
-          "Nilám Ram",
-          "Byron Reeves",
-          "Thomas N. Robinson"
-        ],
-        "year": 2023,
-        "citation_count": 169,
-        "topics": [
-          "Digital trace data",
-          "Social media effects",
-          "Research methods",
-          "Content analysis"
-        ],
-        "abstract": "In social media effects research, the role of specific social media content is understudied, in part attributable to the fact that communication science previously lacked methods to access social media content directly. Digital trace data (DTD) can shed light on textual and audio-visual content of social media use and enable the analysis of content usage on a granular individual level that has been previously unavailable. However, because digital trace data are not specifically designed for research purposes, collection and analysis present several uncertainties. This article is a collaborative effort by scholars to provide an overview of how three methods of digital trace data collection - APIs, data donations, and tracking - can be used in studying the effects of social media content in three important topic areas of communication research: misinformation, algorithmic bias, and well-being. We address the question of how to collect raw social media content data and arrive at meaningful measures with multiple state-of-the-art data collection techniques that can be used to study the effects of social media use on different levels of detail. We conclude with a discussion of best practices for the implementation of each technique, and a comparison of their advantages and disadvantages.",
-        "url": "https://doi.org/10.1080/19312458.2023.2181319",
         "topics_llm": true
       }
     ],

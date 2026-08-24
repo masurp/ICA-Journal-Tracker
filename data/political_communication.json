@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-08-17T06:51:59Z",
-  "trending_from": "2024-08-17",
+  "updated_at": "2026-08-24T06:54:55Z",
+  "trending_from": "2024-08-24",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 1995,
+        "citation_count": 1997,
         "topics": [
           "News framing",
           "Political discourse",
@@ -30,7 +30,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 1579,
+        "citation_count": 1580,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1488,
+        "citation_count": 1489,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1048,
+        "citation_count": 1049,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -104,7 +104,7 @@
           "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 977,
+        "citation_count": 978,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -160,7 +160,7 @@
           "Emily Thorson"
         ],
         "year": 2015,
-        "citation_count": 635,
+        "citation_count": 637,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -179,7 +179,7 @@
           "Stuart Soroka"
         ],
         "year": 2012,
-        "citation_count": 616,
+        "citation_count": 618,
         "topics": [
           "Sentiment analysis",
           "Automated coding",
@@ -236,7 +236,7 @@
           "Markus Strohmaier"
         ],
         "year": 2018,
-        "citation_count": 567,
+        "citation_count": 569,
         "topics": [
           "Political campaigning",
           "Social media platforms",
@@ -292,7 +292,7 @@
           "Chris Wells"
         ],
         "year": 2020,
-        "citation_count": 536,
+        "citation_count": 539,
         "topics": [
           "Disinformation",
           "Political communication",
@@ -311,7 +311,7 @@
           "Dietram A. Scheufele"
         ],
         "year": 2000,
-        "citation_count": 526,
+        "citation_count": 527,
         "topics": [
           "News media use",
           "Knowledge gaps",
@@ -330,7 +330,7 @@
           "Tamir Sheafer"
         ],
         "year": 2007,
-        "citation_count": 519,
+        "citation_count": 520,
         "topics": [
           "Political personalization",
           "Media and politics",
@@ -366,7 +366,7 @@
           "William P. Eveland"
         ],
         "year": 2004,
-        "citation_count": 494,
+        "citation_count": 495,
         "topics": [
           "Political discussion",
           "Political knowledge",
@@ -385,7 +385,7 @@
           "Leticia Bode"
         ],
         "year": 2020,
-        "citation_count": 465,
+        "citation_count": 467,
         "topics": [
           "Misinformation",
           "Defining misinformation",
@@ -462,7 +462,7 @@
           "Neta Kligler-Vilenchik"
         ],
         "year": 2020,
-        "citation_count": 430,
+        "citation_count": 432,
         "topics": [
           "Political polarization",
           "Social media analysis",
@@ -566,25 +566,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2017.1364814",
-        "title": "Technology Firms Shape Political Communication: The Work of Microsoft, Facebook, Twitter, and Google With Campaigns During the 2016 U.S. Presidential Cycle",
-        "authors": [
-          "Daniel Kreiss",
-          "Shannon C. McGregor"
-        ],
-        "year": 2017,
-        "citation_count": 385,
-        "topics": [
-          "Technology companies",
-          "Political communication",
-          "2016 U.S. Presidential election",
-          "Social media platforms"
-        ],
-        "abstract": "This article offers the first analysis of the role that technology companies, specifically Facebook, Twitter, Microsoft, and Google, play in shaping the political communication of electoral campaigns in the United States. We offer an empirical analysis of the work technology firms do around electoral politics through interviews with staffers at these firms and digital and social media directors of 2016 U.S. presidential primary and general election campaigns, in addition to field observations at the 2016 Democratic National Convention. We find that technology firms are motivated to work in the political space for marketing, advertising revenue, and relationship-building in the service of lobbying efforts. To facilitate this, these firms have developed organizational structures and staffing patterns that accord with the partisan nature of American politics. Furthermore, Facebook, Twitter, and Google go beyond promoting their services and facilitating digital advertising buys, actively shaping campaign communication through their close collaboration with political staffers. We show how representatives at these firms serve as quasi-digital consultants to campaigns, shaping digital strategy, content, and execution. Given this, we argue that political communication scholars need to consider social media firms as more active agents in political processes than previously appreciated in the literature.",
-        "url": "https://doi.org/10.1080/10584609.2017.1364814",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2021.1910390",
         "title": "Social Media and Political Agenda Setting",
         "authors": [
@@ -594,7 +575,7 @@
           "Stefan Müller"
         ],
         "year": 2021,
-        "citation_count": 384,
+        "citation_count": 387,
         "topics": [
           "Social media",
           "Agenda setting",
@@ -603,6 +584,25 @@
         ],
         "abstract": "What is the role of social media in political agenda setting? Digital platforms have reduced the gatekeeping power of traditional media and, potentially, they have increased the capacity of various kinds of actors to shape the agenda. We study this question in the Swiss context by examining the connections between three agendas: the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians. Specifically, we validate and apply supervised machine learning classifiers to categorize 2.78 million articles published in 84 newspapers, 6,500 tweets posted on official party accounts, and 210,000 tweets posted by politicians on their own accounts from January 2018 until December 2019. We first use the classifier to measure the salience of the four most relevant issues of the period: the environment, Europe, gender equality, and immigration. Then, using a vector autoregression (VAR) approach, we analyze the relationship between the three agendas. Results show that not only do the traditional media agenda, the social media agenda of parties, and the social media agenda of politicians influence one another but, overall, no agenda leads the others more than it is led by them. There is one important exception: for the environment issue, the social media agenda of parties is more predictive of the traditional media agenda than vice-versa. These findings underscore how closely different agendas are tied together, but also show that advocacy campaigns may play an important role in both constraining and enabling parties to push their specific agendas.",
         "url": "https://doi.org/10.1080/10584609.2021.1910390",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2017.1364814",
+        "title": "Technology Firms Shape Political Communication: The Work of Microsoft, Facebook, Twitter, and Google With Campaigns During the 2016 U.S. Presidential Cycle",
+        "authors": [
+          "Daniel Kreiss",
+          "Shannon C. McGregor"
+        ],
+        "year": 2017,
+        "citation_count": 387,
+        "topics": [
+          "Technology companies",
+          "Political communication",
+          "2016 U.S. Presidential election",
+          "Social media platforms"
+        ],
+        "abstract": "This article offers the first analysis of the role that technology companies, specifically Facebook, Twitter, Microsoft, and Google, play in shaping the political communication of electoral campaigns in the United States. We offer an empirical analysis of the work technology firms do around electoral politics through interviews with staffers at these firms and digital and social media directors of 2016 U.S. presidential primary and general election campaigns, in addition to field observations at the 2016 Democratic National Convention. We find that technology firms are motivated to work in the political space for marketing, advertising revenue, and relationship-building in the service of lobbying efforts. To facilitate this, these firms have developed organizational structures and staffing patterns that accord with the partisan nature of American politics. Furthermore, Facebook, Twitter, and Google go beyond promoting their services and facilitating digital advertising buys, actively shaping campaign communication through their close collaboration with political staffers. We show how representatives at these firms serve as quasi-digital consultants to campaigns, shaping digital strategy, content, and execution. Given this, we argue that political communication scholars need to consider social media firms as more active agents in political processes than previously appreciated in the literature.",
+        "url": "https://doi.org/10.1080/10584609.2017.1364814",
         "topics_llm": true
       },
       {
@@ -653,7 +653,7 @@
           "Rodney Benson"
         ],
         "year": 2006,
-        "citation_count": 367,
+        "citation_count": 369,
         "topics": [
           "Bourdieu field theory",
           "Journalism studies",
@@ -839,7 +839,7 @@
           "Deen Freelon"
         ],
         "year": 2018,
-        "citation_count": 305,
+        "citation_count": 306,
         "topics": [
           "API restrictions",
           "Research methodology",
@@ -848,6 +848,26 @@
         ],
         "abstract": "On April 4, 2018, the post-API age reached a milestone. On that day, Facebook closed access to its Pages API, which had allowed researchers to extract posts, comments, and associated metadata from ...",
         "url": "https://doi.org/10.1080/10584609.2018.1477506",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2017.1334727",
+        "title": "In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use",
+        "authors": [
+          "Daniel Kreiss",
+          "Regina G. Lawrence",
+          "Shannon C. McGregor"
+        ],
+        "year": 2017,
+        "citation_count": 296,
+        "topics": [
+          "Political communication",
+          "Social media strategy",
+          "Political practitioners",
+          "Digital campaigning"
+        ],
+        "abstract": "This study inductively develops a new conceptual framework for analyzing strategic campaign communications across different social media platforms through an analysis of candidate social media strategies during the 2016 U.S. presidential election cycle. We conducted a series of open-ended, in-depth qualitative interviews with campaign professionals active during the 2016 presidential cycle. Our analysis revealed that scholars need to account for the ways that campaigns perceive their candidates in addition to the audiences, affordances, and genres of different social media platforms, as well as the timing of the electoral cycle, in order to effectively study strategic social media communication. Our findings reveal that campaigns proceed from perceptions of their candidates’ public personae and comfort with engagement on social media. Campaigns perceive that social media platforms vary according to their audiences, including their demographics and other characteristics; with respect to their affordances, actual and perceived functionalities; the genres of communication perceived to be appropriate to them; and the timing of the electoral cycle, which shapes messaging strategies and the utility of particular platforms. These factors shape how campaigns use social media in the service of their electoral goals. We conclude by developing these findings into an analytic framework for future research, arguing that researchers should refrain from automatically generalizing the results of single-platform studies to “social media” as a whole, and detailing the implications of our findings for future political communication research.",
+        "url": "https://doi.org/10.1080/10584609.2017.1334727",
         "topics_llm": true
       },
       {
@@ -867,26 +887,6 @@
         ],
         "abstract": "A growing number of theorists are calling for a revival of research on political socialization based on the premise that children are active in their own civic development. We advance this argument a step further by proposing a model of family communication that reverses the roles of parents and children as conventionally understood in political socialization. Adolescent children are not merely receptive to political stimulation; they possess the power to transform patterns of family communication in ways that benefit themselves and their parents. We first challenge a series of interrelated assumptions about the nature and direction of influence in the family. We then document evidence of \"trickle-up influence,\" in which child-initiated discussion--stimulated by a civics curriculum--prompts the parent to increase her civic competence via increased news media use, knowledge gain, and opinion formation. The parent's response reflects her desire to maintain a leadership role in the family, and more important from a theoretical perspective, it reveals the intrinsic forces of family adaptation that can make the home a powerful incubator of citizenship. Political growth occurs when the family system adjusts to reestablish equilibrium in response to exogenous factors or developmental needs that propel change. The ultimate purpose of this essay is to propose a functional model of family political communication. We apply theoretical perspectives from developmental literature to illustrate how political communication serves the family goals of autonomy and cohesion during various stages of the family life cycle.",
         "url": "https://doi.org/10.1080/01957470290055501",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2017.1334727",
-        "title": "In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use",
-        "authors": [
-          "Daniel Kreiss",
-          "Regina G. Lawrence",
-          "Shannon C. McGregor"
-        ],
-        "year": 2017,
-        "citation_count": 294,
-        "topics": [
-          "Political communication",
-          "Social media strategy",
-          "Political practitioners",
-          "Digital campaigning"
-        ],
-        "abstract": "This study inductively develops a new conceptual framework for analyzing strategic campaign communications across different social media platforms through an analysis of candidate social media strategies during the 2016 U.S. presidential election cycle. We conducted a series of open-ended, in-depth qualitative interviews with campaign professionals active during the 2016 presidential cycle. Our analysis revealed that scholars need to account for the ways that campaigns perceive their candidates in addition to the audiences, affordances, and genres of different social media platforms, as well as the timing of the electoral cycle, in order to effectively study strategic social media communication. Our findings reveal that campaigns proceed from perceptions of their candidates’ public personae and comfort with engagement on social media. Campaigns perceive that social media platforms vary according to their audiences, including their demographics and other characteristics; with respect to their affordances, actual and perceived functionalities; the genres of communication perceived to be appropriate to them; and the timing of the electoral cycle, which shapes messaging strategies and the utility of particular platforms. These factors shape how campaigns use social media in the service of their electoral goals. We conclude by developing these findings into an analytic framework for future research, arguing that researchers should refrain from automatically generalizing the results of single-platform studies to “social media” as a whole, and detailing the implications of our findings for future political communication research.",
-        "url": "https://doi.org/10.1080/10584609.2017.1334727",
         "topics_llm": true
       },
       {
@@ -926,27 +926,122 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584600152647083",
-        "title": "A Spiral of Cynicism for Some: The Contingent Effects of Campaign News Frames on Participation and Confidence in Government",
+        "doi": "10.1080/10584609.2017.1334018",
+        "title": "Political Fact-Checking on Twitter: When Do Corrections Have an Effect?",
         "authors": [
-          "Nicholas A. Valentino",
-          "Matthew N. Beckmann",
-          "Thomas A. Buhr"
+          "Drew Margolin",
+          "Anikó Hannák",
+          "Ingmar Weber"
         ],
-        "year": 2001,
-        "citation_count": 289,
+        "year": 2017,
+        "citation_count": 290,
         "topics": [
-          "Campaign news frames",
-          "Political cynicism",
-          "Media effects on political participation",
-          "Political sophistication"
+          "Fact-checking",
+          "Misinformation",
+          "Social networks",
+          "Twitter"
         ],
-        "abstract": "This article explores the impact of strategy-based campaign coverage on turnout and confidence in government. Recent theoretical advances suggest that variables such as sophistication and involvement frequently moderate media exposure effects. We hypothesize that the impact of strategy frames will be moderated by political involvement and sophistication. In an experiment, we precisely isolate and manipulate particular story elements that have been said to foster public cynicism: the strategic interpretation of candidate motives, the presence of polling results, and the use of war or game metaphors to describe the campaign. Relative to the issue-oriented coverage, strategy frames boost the number of strategy-based comments people offer when describing the campaign and depress issue-based commentary. As expected, framing effects on turnout, trust in government, civic duty, and the perceived meaningfulness of elections are moderated by involvement and sophistication. Nonpartisans and those with less than a college degree are significantly demobilized and alienated by strategy-based coverage, while partisans and the highly educated are mostly unaffected.",
-        "url": "https://doi.org/10.1080/10584600152647083",
+        "abstract": "Research suggests that fact checking corrections have only a limited impact on the spread of false rumors. However, research has not considered that fact-checking may be socially contingent, meaning there are social contexts in which truth may be more or less preferred. In particular, we argue that strong social connections between fact-checkers and rumor spreaders encourage the latter to prefer sharing accurate information, making them more likely to accept corrections. We test this argument on real corrections made on Twitter between Janurary 2012 and April, 2014. As hypothesized, we find that individuals who follow and are followed by the people who correct them are significantly more likely to accept the correction than individuals confronted by strangers. We then replicate our findings on new data drawn from November 2015 to February, 2016. These findings suggest that the underlying social structure is an important factor in the correction of misinformation.",
+        "url": "https://doi.org/10.1080/10584609.2017.1334018",
         "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/10584609.2026.2716761",
+        "title": "Hold That Thought: Enhancing the Durability of Fact-Checking Effects Through Low-Cost Accuracy Reminders",
+        "authors": [
+          "Je Hoon Chae",
+          "Tim Groeling",
+          "Hyunjin Song"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Fact-checking",
+          "Misinformation correction",
+          "Belief durability"
+        ],
+        "abstract": "Prior evidence suggests that fact-checking can update beliefs regarding factually incorrect information in the short term but its effects often decay rapidly. Such decay raises normative concerns about its sustainability and real-world impact. Here, we examine whether a cognitively efficient, low-cost intervention – called an “accuracy reminder” – can enhance the durability of fact-checking effects. In a large-scale pre-registered panel longitudinal experiment (N = 7,188), participants were randomly assigned to receive fact-checks and, under some conditions, follow-up prompts to reevaluate the same claim at interval-optimized time points. Across topical domains and partisan identities, reminder conditions produced durable belief correction effects lasting up to four weeks, more than doubling the persistence observed without reminders. Effects were robust across reminder frequency and timing, as well as against individual differences, suggesting implementation flexibility and theoretical generalizability. These findings identify retrieval-based reinforcement as a scalable means of sustaining factual belief correction and reinforcing shared factual baselines in spite of cognitive decay and partisan resistance.",
+        "url": "https://doi.org/10.1080/10584609.2026.2716761",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2715701",
+        "title": "Rethinking Assumptions About Moral Content Selection: Moral-Emotional Content May Be Less Appealing Than Assumed",
+        "authors": [
+          "Isabella Rebasso",
+          "Yanna Krupnikov"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Moral-emotional content",
+          "Social media engagement",
+          "Content selection preferences",
+          "Political polarization"
+        ],
+        "abstract": "Recent work has shown that moral-emotional content spreads rapidly on social media platforms such as X (Twitter). These patterns have led to concerns that social media facilitates the spread of moral outrage – potentially exacerbating political conflict and animosity. While most past work has focused on the supply side of this phenomenon, i.e. the transmission of morally charged political content, we consider the demand side: do people actually want to see this type of content in their information environment? In this paper, we first theoretically contextualize the motivations to engage with or avoid moral-emotional content. Then, through three pre-registered studies conducted in the U.S. in 2022 and 2023, we test whether people actively choose information that includes moral-emotional elements. Contrary to our initial expectations, we find that participants do not actively select moral-emotional content compared to neutral or emotional content. Despite previous findings on transmission, our results suggest that people may not want to see this type of content in their information environment. By focusing on selection rather than transmission, the findings presented in this paper add another nuance to an ongoing debate on the prevalence and consequences of online political outrage.",
+        "url": "https://doi.org/10.1080/10584609.2026.2715701",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2715698",
+        "title": "Assessing Civic Journalism Training: A Mixed-Method Applied Research Study",
+        "authors": [
+          "Joshua Darr",
+          "Susan Robinson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Civic Journalism",
+          "Audience Engagement",
+          "News Framing",
+          "Journalistic Training"
+        ],
+        "abstract": "This mixed‑method applied research study examines how audiences are responding to news stories that are shaped by retraining efforts to help American journalists rebuild audiences. We wanted to know: were these trainings working? Do audiences choose stories that were influenced by these trainings over more traditional elite-focused, problem-oriented, conflict-driven stories? Working with three newsroom-training organizations, we report the results of a series of conjoint experiments that test how well stories abiding by new journalistic techniques of engagement, solutions and “good-conflict” framing play with audiences. We then use the findings from seven focus groups (n = 49) with surveys to explain why people may have responded the way they did in the tests. We found that audiences overwhelmingly selected and appreciated the re-framed content and reported that it makes them trust the news brands more. The focus group participants claimed such content would entice them to become members, subscribe, or even donate to the mainstream brand – if they came across it. However, only a few of the participants said they had heard about the news outlet. Though the principles behind these trainings may seem counterintuitive to some journalists, they offer a potential path forward in uncertain times for local news.",
+        "url": "https://doi.org/10.1080/10584609.2026.2715698",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2715694",
+        "title": "Reclaiming Place Through Symbolic Geographies: Visual Resistance on Palestinian Instagram",
+        "authors": [
+          "Insyirah Mujtahid",
+          "Nurul Huda Rashid",
+          "Kokil Jaidka"
+        ],
+        "year": 2026,
+        "citation_count": 1,
+        "topics": [
+          "Digital activism",
+          "Visual resistance",
+          "Placemaking",
+          "Palestinian identity"
+        ],
+        "abstract": "Palestinians use Instagram to construct symbolic geographies that resist displacement and assert cultural presence. Analyzing 9,126 posts from 834 users posted between October 2023-March 2024, we identify three recurring visual themes that serve as anchors of digital placemaking. The sharing of images depicting everyday routines and familiar spaces functions as an act of asserting belonging in the face of cartographic erasure. Resilience is conveyed through motifs of joy, family, and faith, symbolizing continuity under siege. Knowledge cultivation emerges through practices of naming places, traditions, and environmental markers, reinforcing cultural memory. Comparing Instagram content with 7,448 international news headlines, we find that user-generated posts often offer alternative framings that are absent in mainstream narratives. We close with a discussion of how Palestinian Instagram users created a networked archive that resists material destruction and algorithmic suppression, mapping threatened spaces and producing narrative coherence through everyday digital acts of documentation and resistance.",
+        "url": "https://doi.org/10.1080/10584609.2026.2715694",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2714816",
+        "title": "Enemies Abroad, Animosity at Home: Media Influence on U.S.-China Policy and Anti-Asian Sentiment",
+        "authors": [
+          "Siyu Liang"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Media framing",
+          "Foreign policy attitudes",
+          "Prejudice and discrimination",
+          "China threat narrative"
+        ],
+        "abstract": "How do portrayals of foreign nations as threats shape public opinion on foreign policy and domestic racial attitudes? This study examines how portrayals of China as a threat influence Americans’ support for U.S. policy toward China and attitudes toward Asian Americans. A content analysis of CNN and Fox News transcripts from 2010 to 2020 shows that both outlets increasingly portrayed China as a threat, although Fox News more often emphasized threats to the United States, whereas CNN focused more on threats affecting other countries, international institutions, and populations. A national survey and a preregistered survey experiment further demonstrate that exposure to China threat narratives, regardless of whether the threat targets the United States or another country, increases support for hawkish U.S. foreign policy and heightens anti-Asian resentment, especially among Republicans. These findings show how portrayals of foreign threats shape public opinion and spill over into racial attitudes at home.",
+        "url": "https://doi.org/10.1080/10584609.2026.2714816",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/10584609.2026.2701201",
         "title": "Entertainment as Trojan Horse: Voluntary Consumption of Propaganda in China",
@@ -1143,7 +1238,7 @@
       },
       {
         "doi": "10.1080/10584609.2026.2704891",
-        "title": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
+        "title": "Affective Publics in the YouTube Live Chat: Multimodal Emotional Contagion During the 2024 U.S. Presidential Debate",
         "authors": [
           "Sungwon Jung",
           "Zhi Lin",
@@ -1630,7 +1725,7 @@
           "Wan-Ying Yang"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Gender representation",
           "Political personalization",
@@ -1693,7 +1788,7 @@
           "Alexander Wuttke"
         ],
         "year": 2026,
-        "citation_count": 6,
+        "citation_count": 8,
         "topics": [
           "Artificial Intelligence",
           "Election campaigns",
@@ -1846,101 +1941,6 @@
         "abstract": "Prominent scholars have argued that reframing political positions and issues in terms of moral foundations that appeal to conservatives or liberals can attract more individual-level support for those positions, even when such support would be unexpected. Such a change of attitude would be promising for those looking to narrow ideological divides. As two independent research teams, we set out to explore the promising evidence along these lines and to identify further nuances in the arguments. We tested moral reframing in the context of five issue areas: the environment, tax policy, immigration, English as an official language, and universal healthcare. We consistently found null results, not just for overall samples but for sub-groups that have been hypothesized as the most likely to be affected by moral reframing. Using Bayes factors, the observed data are 100 times more likely to occur under the null hypothesis (of no effect) than the moral foundations hypothesis. We explored the reasons for these null results by examining possibilities such as misunderstanding the treatment, the negative or positive valence of the treatment, and small sample sizes. We found no plausible explanation for the absence of treatment effect. Moral reframing techniques may be less helpful to persuasion than previous research suggests.",
         "url": "https://doi.org/10.1080/10584609.2026.2612739",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2608808",
-        "title": "Pay it Forward? How Target Group and Social Norms Affect Online Bystander Intervention",
-        "authors": [
-          "Magdalena Obermaier",
-          "Ursula Kristin Schmid"
-        ],
-        "year": 2026,
-        "citation_count": 2,
-        "topics": [
-          "Bystander intervention",
-          "Social norms",
-          "Online behavior",
-          "Cyberbullying prevention"
-        ],
-        "abstract": "Hate speech is pervasive on social media. Because such incidents can harm targets and foster hostile discourses, understanding what shapes bystander intervention is crucial. In two consecutive experimental studies, we examined how two key situational factors impact actual bystander intervention behavior: the reference group of the online hate speech (professional vs. minority group) and the platforms’ communication norm (prosocial supportive vs. anti-social non-supportive). Study 1 (N = 442) revealed that social media users perceive online hate speech targeting politicians to be less threatening than such speech targeting people with migration background or Muslims. Study 2 (N = 970), a 2-day social media simulation, confirmed that hate speech targeting politicians led to less bystander intervention. Additionally, a prosocial communication norm on the simulated platform indirectly encouraged individuals’ actual intervention by reinforcing the perceived social norm for prosocial intervention and, in turn, participants’ sense of personal responsibility.",
-        "url": "https://doi.org/10.1080/10584609.2025.2608808",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2607424",
-        "title": "Going Local? Localized Rhetoric in Congressional Communications",
-        "authors": [
-          "Michael Heseltine"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Congressional communication",
-          "Political rhetoric",
-          "Localization strategies",
-          "Constituent relations"
-        ],
-        "abstract": "In the face of the purported nationalization of political discourse in the United States, to what extent do congressional representatives still engage locally through their public communications? Based on a comprehensive dataset of over nine million tweets and Facebook posts sent by Members of Congress between 2011 and 2023, analyzed through a first-of-its-kind fine-tuned machine learning classifier of local content combined with a hand-coded list of over 4000 news web domains, this paper assesses how often Members use localized messaging, which Members are most inclined to use locally-focused communications, and whether a local communications strategy is associated with electoral or political advantages for Members. The results suggest, first, that congressional communications still contain a substantial and consistent focus on local content. The use of local messaging is also dynamic and strategic, with Members in a position of congressional and presidential control being most prone to focusing on local content. However, across a range of measures, localized messaging is not associated with increased constituent approval, campaign fundraising, or electoral performance for Members. These results, collectively, highlight how even in a nationalized online communications environment, local factors still play a significant role in guiding Member messaging strategies, even in the absence of tangible political benefits.",
-        "url": "https://doi.org/10.1080/10584609.2025.2607424",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2604708",
-        "title": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
-        "authors": [
-          "Curd Knüpfer",
-          "Yunkang Yang",
-          "Mike Cowburn"
-        ],
-        "year": 2025,
-        "citation_count": 4,
-        "topics": [
-          "Digital media",
-          "Political polarization",
-          "Elite networks",
-          "Partisan radicalization"
-        ],
-        "abstract": "Across democratic systems, ideological cleavages increasingly emerge not only between but also within political parties. At the same time, hyperpartisan and digitally networked media ecosystems amplify polarization by fostering ideologically segmented information networks. To explain the interplay between internal party divisions and digital connectivity, we introduce a novel framework termed the “logic of connective faction.” We illustrate this framework via a case from the US, and the sudden circulation of the issue of “Critical Race Theory” (CRT), which became a far-right moniker for almost any discussion of race, particularly in education. Utilizing an original dataset comprising right-wing and mainstream news sources, newsletters and social media posts by Republican Members of Congress (n = 1,941,742), we analyze ideological behavior and connectivity patterns, distinguishing Republicans who adopted the “CRT” issue from their co-partisans who did not. We find that the former group represents a distinct faction characterized by greater ideological extremity and deeper integration into right-wing digital networks. Beyond this combination of political behavior and digital connectivity, we highlight various networked media logics, such as platform-based engagement and media attention, which may incentivize such factional behaviors. Finally, we consider implications for political actors and media systems beyond the US.",
-        "url": "https://doi.org/10.1080/10584609.2025.2604708",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2604709",
-        "title": "Local Experience, National Media, and Misperceptions of the COVID-19 Pandemic",
-        "authors": [
-          "David L. Beavers",
-          "Jennifer L. Hochschild"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "COVID-19 pandemic",
-          "Media perception",
-          "Local vs. national information"
-        ],
-        "abstract": "This paper examines conditions under which under- and overestimations about the scale of nationwide COVID-19 deaths attenuate. From May through November 2020, more than a quarter of Americans thought there would be fewer COVID-19 deaths by year’s end than had already occurred at the time of their interview; nearly one-in-ten thought there would be over 1 million COVID-19 deaths, a toll that was not reached until May 2022. We develop a theory that high national media attention to the pandemic and high local coronavirus incidence jointly attenuate misperceptions. Evidence from a large-n survey, county-level COVID-19 incidence data, and text analysis of national news outlets partially supports this theory: when activated by national media attention, local experience attenuates underestimations and, to a lesser degree, overestimations. However, in the absence of local experience, national media attention exacerbates underestimations. We also show that underestimations about the COVID-19 pandemic are personally and politically consequential. This paper advances understanding of conditions under which factual misperceptions may be attenuated and of the interplay between local experience and national media attention.",
-        "url": "https://doi.org/10.1080/10584609.2025.2604709",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2595596",
-        "title": "The Limits of Computational Propaganda: Investigating Underexplored Platforms and Contexts",
-        "authors": [
-          "Hossein Kermani",
-          "Taberez Ahmed Neyazi",
-          "Sophie Lecheler"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Computational propaganda",
-          "Social media platforms",
-          "Digital manipulation",
-          "Online disinformation"
-        ],
-        "abstract": "Despite a growing body of literature on computational propaganda, significant gaps remain in the existing literature, particularly in its Western-centric focus and emphasis on leading platforms, such as Twitter. This symposium attempts to address these gaps and extend our understanding of computational propaganda beyond Western contexts. The contributions of this symposium offer new theoretical insights, such as Performative Propaganda Engagement and the Reference Point Adjustment, to the literature. It also presents new empirical evidence from underexplored contexts, including Indonesia, the Philippines, China, Turkey, and Thailand. The papers published in the symposium provide a fresh understanding of these non-Western governments’ novel tactics and practices in sharing computational propaganda, which is not necessarily limited to conventional forms of disinformation or social platforms. This essay introduces the collection by outlining the concept of computational propaganda, examining its core components, and identifying enduring gaps in the literature, before demonstrating how the included contributions address these gaps.",
-        "url": "https://doi.org/10.1080/10584609.2025.2595596",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1951,7 +1951,7 @@
           "Nicolai Berk"
         ],
         "year": 2025,
-        "citation_count": 27,
+        "citation_count": 28,
         "topics": [
           "Media framing",
           "Information environments",
@@ -2039,7 +2039,7 @@
       },
       {
         "doi": "10.1080/10584609.2024.2414256",
-        "title": "The Contemporary Far Right from<i>Contra</i>to Control",
+        "title": "The Contemporary Far Right fromContrato Control",
         "authors": [
           "Andrea L. P. Pirro"
         ],
@@ -2074,6 +2074,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2024.2395859",
+        "title": "Increasing Demand for Fact-Checking",
+        "authors": [
+          "Matthew Graham",
+          "Ethan Porter"
+        ],
+        "year": 2024,
+        "citation_count": 9,
+        "topics": [
+          "Fact-checking",
+          "Misinformation",
+          "Media literacy",
+          "Digital communication"
+        ],
+        "abstract": "Fact-checks successfully persuade people to reject misinformation, but people who are exposed to misinformation rarely read fact-checks. This makes increasing the demand for fact-checking a crucial, understudied aspect of the fight against misinformation. We test several ways of increasing demand for fact-checking. In our first two studies, we find little evidence that the partisan reputation of fact-checkers affects willingness to read fact-checks. Our third and fourth studies yield three successful classes of interventions: appeals to civic duty, social pressure, and micro-payments. Effects are robust among those who are least likely at baseline to choose to read fact-checks, and among those who are most likely at baseline to consume misinformation. Our results offer several practical lessons. Increasing demand for fact-checks is possible, including among the subgroups most in need of encouragement. Though fact-checkers are widely perceived as partisan, increasing demand may require looking beyond partisan reputations and identities.",
+        "url": "https://doi.org/10.1080/10584609.2024.2395859",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2025.2458069",
         "title": "Rooted in White Identity Politics: Tracing the Genealogy of Critical Race Theory Discourse in Identity-Based Disinformation",
         "authors": [
@@ -2101,22 +2120,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2024.2395859",
-        "title": "Increasing Demand for Fact-Checking",
+        "doi": "10.1080/10584609.2025.2611913",
+        "title": "Artificial Intelligence in Election Campaigns: Perceptions, Penalties, and Implications",
         "authors": [
-          "Matthew Graham",
-          "Ethan Porter"
+          "Andreas Jungherr",
+          "Adrian Rauchfleisch",
+          "Alexander Wuttke"
         ],
-        "year": 2024,
+        "year": 2026,
         "citation_count": 8,
         "topics": [
-          "Fact-checking",
-          "Misinformation",
-          "Media literacy",
-          "Digital communication"
+          "Artificial Intelligence",
+          "Election campaigns",
+          "Political communication",
+          "Public perception"
         ],
-        "abstract": "Fact-checks successfully persuade people to reject misinformation, but people who are exposed to misinformation rarely read fact-checks. This makes increasing the demand for fact-checking a crucial, understudied aspect of the fight against misinformation. We test several ways of increasing demand for fact-checking. In our first two studies, we find little evidence that the partisan reputation of fact-checkers affects willingness to read fact-checks. Our third and fourth studies yield three successful classes of interventions: appeals to civic duty, social pressure, and micro-payments. Effects are robust among those who are least likely at baseline to choose to read fact-checks, and among those who are most likely at baseline to consume misinformation. Our results offer several practical lessons. Increasing demand for fact-checks is possible, including among the subgroups most in need of encouragement. Though fact-checkers are widely perceived as partisan, increasing demand may require looking beyond partisan reputations and identities.",
-        "url": "https://doi.org/10.1080/10584609.2024.2395859",
+        "abstract": "As political parties around the world experiment with Artificial Intelligence (AI) in election campaigns, concerns about deception and manipulation are rising. This article examines how the public reacts to different uses of AI in elections and the potential consequences for party evaluations and regulatory preferences. Across three preregistered studies with over 7600 American respondents, we identify three categories of AI use: campaign operations, voter outreach, and deception. While people generally dislike AI in campaigns, they are especially critical of deceptive uses, which they perceive as norm violations. However, parties engaging in AI-enabled deception face no significant drop in favorability, neither with supporters, opponents, nor independents. Instead, deceptive AI use increases public support for stricter AI regulation, including calls for an outright ban on AI development. These findings indicate that public disapproval of deceptive uses of AI does not directly translate into incentives for parties to forgo them, at least in the polarized political environment of the US.",
+        "url": "https://doi.org/10.1080/10584609.2025.2611913",
         "topics_llm": true
       },
       {
@@ -2182,28 +2202,8 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2025.2611913",
-        "title": "Artificial Intelligence in Election Campaigns: Perceptions, Penalties, and Implications",
-        "authors": [
-          "Andreas Jungherr",
-          "Adrian Rauchfleisch",
-          "Alexander Wuttke"
-        ],
-        "year": 2026,
-        "citation_count": 6,
-        "topics": [
-          "Artificial Intelligence",
-          "Election campaigns",
-          "Political communication",
-          "Public perception"
-        ],
-        "abstract": "As political parties around the world experiment with Artificial Intelligence (AI) in election campaigns, concerns about deception and manipulation are rising. This article examines how the public reacts to different uses of AI in elections and the potential consequences for party evaluations and regulatory preferences. Across three preregistered studies with over 7600 American respondents, we identify three categories of AI use: campaign operations, voter outreach, and deception. While people generally dislike AI in campaigns, they are especially critical of deceptive uses, which they perceive as norm violations. However, parties engaging in AI-enabled deception face no significant drop in favorability, neither with supporters, opponents, nor independents. Instead, deceptive AI use increases public support for stricter AI regulation, including calls for an outright ban on AI development. These findings indicate that public disapproval of deceptive uses of AI does not directly translate into incentives for parties to forgo them, at least in the polarized political environment of the US.",
-        "url": "https://doi.org/10.1080/10584609.2025.2611913",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2025.2575328",
-        "title": "Campaigning in the Age of Platforms: A Longitudinal Analysis of German Parties &amp; Politicians",
+        "title": "Campaigning in the Age of Platforms: A Longitudinal Analysis of German Parties & Politicians",
         "authors": [
           "Mike Cowburn",
           "Ulrike Klinger",

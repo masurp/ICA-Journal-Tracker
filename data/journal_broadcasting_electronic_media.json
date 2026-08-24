@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_broadcasting_electronic_media",
-  "updated_at": "2026-08-17T06:52:49Z",
-  "trending_from": "2024-08-17",
+  "updated_at": "2026-08-24T06:55:49Z",
+  "trending_from": "2024-08-24",
   "sections": {
     "most_cited": [
       {
@@ -31,7 +31,7 @@
           "Ellen Helsper"
         ],
         "year": 2008,
-        "citation_count": 1295,
+        "citation_count": 1300,
         "topics": [
           "Parental mediation",
           "Children's internet use",
@@ -50,7 +50,7 @@
           "Anthony M. Limperos"
         ],
         "year": 2013,
-        "citation_count": 1045,
+        "citation_count": 1048,
         "topics": [
           "Uses and Gratifications Theory",
           "New Media",
@@ -68,7 +68,7 @@
           "Matthew S. Eastin"
         ],
         "year": 2004,
-        "citation_count": 886,
+        "citation_count": 888,
         "topics": [
           "Uses and gratifications theory",
           "Internet usage",
@@ -127,7 +127,7 @@
           "Nies M. Marseille"
         ],
         "year": 1999,
-        "citation_count": 749,
+        "citation_count": 752,
         "topics": [
           "Television mediation",
           "Parental mediation",
@@ -164,7 +164,7 @@
           "Jessica Vitak"
         ],
         "year": 2012,
-        "citation_count": 618,
+        "citation_count": 619,
         "topics": [
           "Context collapse",
           "Privacy strategies",
@@ -177,12 +177,12 @@
       },
       {
         "doi": "10.1080/08838151.2012.705195",
-        "title": "<i>Knock, Knock</i>. Who's There? The Imagined Audience",
+        "title": "Knock, Knock. Who's There? The Imagined Audience",
         "authors": [
           "Eden Litt"
         ],
         "year": 2012,
-        "citation_count": 618,
+        "citation_count": 619,
         "topics": [
           "Imagined audience",
           "Social media communication",
@@ -312,7 +312,7 @@
           "Hua Jiang"
         ],
         "year": 2020,
-        "citation_count": 444,
+        "citation_count": 446,
         "topics": [
           "AI chatbots",
           "User experience",
@@ -425,7 +425,7 @@
           "Donghee Shin"
         ],
         "year": 2020,
-        "citation_count": 402,
+        "citation_count": 405,
         "topics": [
           "Algorithmic transparency",
           "AI trust and fairness",
@@ -434,6 +434,25 @@
         ],
         "abstract": "With the growing presence of algorithms and their far-reaching effects, artificial intelligence (AI) will be mainstream trends any time soon. Despite this surging popularity, little is known about the processes through which people perceive and make a sense of trust through algorithmic characteristics in a personalized algorithm system. This study examines the extent to which trust can be linked to how perceptions of automated personalization by AI and the processes of such perceptions influence user heuristic and systematic processes. It examines how fair, accountable, transparent, and interpretable people perceive the use of algorithmic recommendations by digital platforms. When users perceive that the algorithm is fairer, more accountable, transparent, and explainable, they see it as more trustworthy and useful. This demonstrates that trust is of particular value to users and further implies the heuristic roles of algorithmic characteristics in terms of their underlying links to trust and subsequent attitudes toward algorithmic decisions. The processes offer a useful perspective on the conceptualization of AI experience and interaction. User cognitive processes identified provide solid foundations for algorithm design and development and a stronger basis for the design of sensemaking AI services.",
         "url": "https://doi.org/10.1080/08838151.2020.1843357",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/08838151.2012.705200",
+        "title": "Socially Mediated Publicness: An Introduction",
+        "authors": [
+          "Nancy K. Baym",
+          "danah boyd"
+        ],
+        "year": 2012,
+        "citation_count": 393,
+        "topics": [
+          "Social media",
+          "Publicness",
+          "Audience management",
+          "Digital communication"
+        ],
+        "abstract": "Social media complicate the very nature of public life. In this article, we consider how technology reconfigures publicness, blurs 'audiences' and publics, and alters what it means to engage in public life. The nature of publicness online is shaped by the architecture and affordances of social media, but also by people's social contexts, identities, and practices. Navigating socially mediated publicness requires new mechanisms of control and new skills. Understanding socially-mediated publicness is an ever-shifting process throughout which people juggle blurred boundaries, multi-layered audiences, individual attributes, the specifics of the systems they use, and the contexts of their use.",
+        "url": "https://doi.org/10.1080/08838151.2012.705200",
         "topics_llm": true
       },
       {
@@ -457,32 +476,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/08838151.2012.705200",
-        "title": "Socially Mediated Publicness: An Introduction",
-        "authors": [
-          "Nancy K. Baym",
-          "danah boyd"
-        ],
-        "year": 2012,
-        "citation_count": 392,
-        "topics": [
-          "Social media",
-          "Publicness",
-          "Audience management",
-          "Digital communication"
-        ],
-        "abstract": "Social media complicate the very nature of public life. In this article, we consider how technology reconfigures publicness, blurs 'audiences' and publics, and alters what it means to engage in public life. The nature of publicness online is shaped by the architecture and affordances of social media, but also by people's social contexts, identities, and practices. Navigating socially mediated publicness requires new mechanisms of control and new skills. Understanding socially-mediated publicness is an ever-shifting process throughout which people juggle blurred boundaries, multi-layered audiences, individual attributes, the specifics of the systems they use, and the contexts of their use.",
-        "url": "https://doi.org/10.1080/08838151.2012.705200",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/08838151.2011.521462",
         "title": "The State of Media Literacy",
         "authors": [
           "W. James Potter"
         ],
         "year": 2010,
-        "citation_count": 380,
+        "citation_count": 382,
         "topics": [
           "Media literacy",
           "Curriculum design",
@@ -500,7 +500,7 @@
           "Jimmy Sanderson"
         ],
         "year": 2015,
-        "citation_count": 359,
+        "citation_count": 362,
         "topics": [
           "Self-presentation",
           "Social media",
@@ -541,7 +541,7 @@
           "James G. Webster"
         ],
         "year": 2010,
-        "citation_count": 338,
+        "citation_count": 340,
         "topics": [
           "News consumption",
           "Civic participation",
@@ -580,7 +580,7 @@
           "Donghee Yvette Wohn"
         ],
         "year": 2016,
-        "citation_count": 337,
+        "citation_count": 338,
         "topics": [
           "Social media engagement",
           "Paralinguistic communication",
@@ -694,7 +694,7 @@
           "Dhavan V. Shah"
         ],
         "year": 2003,
-        "citation_count": 274,
+        "citation_count": 275,
         "topics": [
           "Environmental communication",
           "Media consumption and effects",
@@ -789,7 +789,7 @@
           "Patti M. Valkenburg"
         ],
         "year": 2005,
-        "citation_count": 255,
+        "citation_count": 256,
         "topics": [
           "Parental mediation",
           "Advertising effects",
@@ -894,13 +894,13 @@
       },
       {
         "doi": "10.1080/08838151.2012.705199",
-        "title": "Hypermasculinity &amp; Dickwolves: The Contentious Role of Women in the New Gaming Public",
+        "title": "Hypermasculinity & Dickwolves: The Contentious Role of Women in the New Gaming Public",
         "authors": [
           "Anastasia Salter",
           "Bridget Blodgett"
         ],
         "year": 2012,
-        "citation_count": 232,
+        "citation_count": 233,
         "topics": [
           "Gaming culture",
           "Hypermasculinity",
@@ -1584,7 +1584,7 @@
       },
       {
         "doi": "10.1080/08838151.2026.2660922",
-        "title": "From Courtside to Console: How NBA Superfans Extend Their Identities Through MyPlayer in <i>NBA 2K</i>",
+        "title": "From Courtside to Console: How NBA Superfans Extend Their Identities Through MyPlayer in NBA 2K",
         "authors": [
           "Youjeong Kim"
         ],
@@ -1602,7 +1602,7 @@
       },
       {
         "doi": "10.1080/08838151.2026.2656714",
-        "title": "Entertaining or Mis/Disinforming? Social Data Analysis of Audience Reception of Historical Accuracy and Creative License in the Netflix Series ‘ <i>Queen Cleopatra</i> ’ on YouTube. A Case Study",
+        "title": "Entertaining or Mis/Disinforming? Social Data Analysis of Audience Reception of Historical Accuracy and Creative License in the Netflix Series ‘ Queen Cleopatra ’ on YouTube. A Case Study",
         "authors": [
           "Omnya Abdelwahab"
         ],
@@ -1658,7 +1658,7 @@
       },
       {
         "doi": "10.1080/08838151.2026.2642912",
-        "title": "Hostile Media and Friendly Chambers: Social Media Polarization and the 2024 U.S. Campus Protests",
+        "title": "Hostile Media and Friendly Chambers: Social Media Polarization and the 2024 U.S. Campus Protests",
         "authors": [
           "Ran Wei",
           "Jing Guo",
@@ -1947,7 +1947,7 @@
           "Jun Zhang"
         ],
         "year": 2025,
-        "citation_count": 22,
+        "citation_count": 24,
         "topics": [
           "Generative AI adoption",
           "Technology Acceptance Model",
@@ -1988,7 +1988,7 @@
           "Muhammad Masood"
         ],
         "year": 2024,
-        "citation_count": 15,
+        "citation_count": 16,
         "topics": [
           "Deepfakes",
           "Illusory truth effect",
@@ -2048,7 +2048,7 @@
           "M. Li"
         ],
         "year": 2025,
-        "citation_count": 7,
+        "citation_count": 8,
         "topics": [
           "Deepfakes",
           "Misinformation",

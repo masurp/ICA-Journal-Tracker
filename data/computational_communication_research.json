@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-08-17T06:52:16Z",
-  "trending_from": "2024-08-17",
+  "updated_at": "2026-08-24T06:55:20Z",
+  "trending_from": "2024-08-24",
   "sections": {
     "most_cited": [
       {
@@ -47,33 +47,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2022.2.001.arau",
-        "title": "OSD2F: An Open-Source Data Donation Framework",
-        "authors": [
-          "Theo Araujo",
-          "Jef Ausloos",
-          "Wouter van Atteveldt",
-          "Felicia Löecherbach",
-          "Judith Moeller",
-          "Jakob Ohme",
-          "Damian Trilling",
-          "Bob van de Velde",
-          "Claes H. de Vreese",
-          "Kasper Welbers"
-        ],
-        "year": 2022,
-        "citation_count": 63,
-        "topics": [
-          "Data donation",
-          "Open-source framework",
-          "Data science",
-          "Research methodology"
-        ],
-        "abstract": "The digital traces that people leave through their use of various online platforms provide tremendous opportunities for studying human behavior. However, the collection of these data is hampered by legal, ethical, and technical challenges. We present a framework and tool for collecting these data through a data donation platform where consenting participants can securely submit their digital traces. This approach leverages recent developments in data rights that have given people more control over their own data, such as legislation that now mandates companies to make digital trace data available on request in a machine-readable format. By transparently requesting access to specific parts of this data for clearly communicated academic purposes, the data ownership and privacy of participants is respected, and researchers are less dependent on commercial organizations that store this data in proprietary archives. In this paper we outline the general design principles, the current state of the tool, and future development goals.",
-        "url": "https://doi.org/10.5117/ccr2022.2.001.arau",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2022.2.002.lu",
         "title": "The Pervasive Presence of Chinese Government Content on Douyin Trending Videos",
         "authors": [
@@ -93,6 +66,33 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.2.001.arau",
+        "title": "OSD2F: An Open-Source Data Donation Framework",
+        "authors": [
+          "Theo Araujo",
+          "Jef Ausloos",
+          "Wouter van Atteveldt",
+          "Felicia Löecherbach",
+          "Judith Moeller",
+          "Jakob Ohme",
+          "Damian Trilling",
+          "Bob van de Velde",
+          "Claes H. de Vreese",
+          "Kasper Welbers"
+        ],
+        "year": 2022,
+        "citation_count": 62,
+        "topics": [
+          "Data donation",
+          "Open-source framework",
+          "Data science",
+          "Research methodology"
+        ],
+        "abstract": "The digital traces that people leave through their use of various online platforms provide tremendous opportunities for studying human behavior. However, the collection of these data is hampered by legal, ethical, and technical challenges. We present a framework and tool for collecting these data through a data donation platform where consenting participants can securely submit their digital traces. This approach leverages recent developments in data rights that have given people more control over their own data, such as legislation that now mandates companies to make digital trace data available on request in a machine-readable format. By transparently requesting access to specific parts of this data for clearly communicated academic purposes, the data ownership and privacy of participants is respected, and researchers are less dependent on commercial organizations that store this data in proprietary archives. In this paper we outline the general design principles, the current state of the tool, and future development goals.",
+        "url": "https://doi.org/10.5117/ccr2022.2.001.arau",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.2.007.hage",
         "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
         "authors": [
@@ -100,7 +100,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 57,
+        "citation_count": 56,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -190,7 +190,7 @@
           "Corpus analysis",
           "Vocabulary pruning"
         ],
-        "abstract": "Topic modeling enables researchers to explore large document corpora. Large corpora, however, can be extremely costly to model in terms of time and computing resources. In order to circumvent this problem, two techniques have been suggested: (1) to model random document samples, and (2) to prune the vocabulary of the corpus. Although frequently applied, there has been no systematic inquiry into how the application of these techniques affects the respective models. Using three empirical corpora with different characteristics (news articles, websites, and Tweets), we systematically investigated how different sample sizes and pruning affect the resulting topic models in comparison to models of the full corpora. Our inquiry provides evidence that both techniques are viable tools that will likely not impair the resulting model. Sample-based topic models closely resemble corpus-based models if the sample size is large enough (&gt; 10,000 documents). Moreover, extensive pruning does not compromise the quality of the resultant topics.",
+        "abstract": "Topic modeling enables researchers to explore large document corpora. Large corpora, however, can be extremely costly to model in terms of time and computing resources. In order to circumvent this problem, two techniques have been suggested: (1) to model random document samples, and (2) to prune the vocabulary of the corpus. Although frequently applied, there has been no systematic inquiry into how the application of these techniques affects the respective models. Using three empirical corpora with different characteristics (news articles, websites, and Tweets), we systematically investigated how different sample sizes and pruning affect the resulting topic models in comparison to models of the full corpora. Our inquiry provides evidence that both techniques are viable tools that will likely not impair the resulting model. Sample-based topic models closely resemble corpus-based models if the sample size is large enough (> 10,000 documents). Moreover, extensive pruning does not compromise the quality of the resultant topics.",
         "url": "https://doi.org/10.5117/ccr2020.2.001.maie",
         "topics_llm": true
       },
@@ -249,7 +249,7 @@
           "Computational methods",
           "News data"
         ],
-        "abstract": "This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language, and Tone (GDELT; Leetaru &amp; Schrodt, 2013). GDELT provides a vast, open source, and continuously updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential for advancing communication research.",
+        "abstract": "This article introduces the interface for communication research (iCoRe) to access, explore, and analyze the Global Database of Events, Language, and Tone (GDELT; Leetaru & Schrodt, 2013). GDELT provides a vast, open source, and continuously updated repository of online news and event metadata collected from tens of thousands of news outlets around the world. Despite GDELT’s promise for advancing communication science, its massive scale and complex data structures have hindered efforts of communication scholars aiming to access and analyze GDELT. We thus developed iCoRe, an easy-to-use web interface that (a) provides fast access to the data available in GDELT, (b) shapes and processes GDELT for theory-driven applications within communication research, and (c) enables replicability through transparent query and analysis protocols. After providing an overview of how GDELT’s data pertain to addressing communication research questions, we provide a tutorial of utilizing iCoRe across three theory-driven case studies. We conclude this article with a discussion and outlook of iCoRe’s future potential for advancing communication research.",
         "url": "https://doi.org/10.5117/ccr2019.1.002.hopp",
         "topics_llm": true
       },
@@ -454,7 +454,7 @@
           "Cross-platform information flow",
           "Deep learning sentiment analysis"
         ],
-        "abstract": "&lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; &lt;div class=\"page\" title=\"Page 1\"&gt; &lt;div class=\"layoutArea\"&gt; &lt;div class=\"column\"&gt; This study delved into cross-platform information flow and multilingual text analysis by examining social media posts on Weibo and Twitter in Chinese and English. We investigated public opinions about a violent restaurant attack in China that received widespread attention and validated three strategies of Bidirectional Encoder Representations from Transformers (BERT) to classify multilingual social media posts regarding their attitudes, targets, and frames. This study found that there was more criticism than support on Twitter than on Weibo when calling for social justice. When targeting the governments, Weibo users focused more on the local level, while Twitter users focused more on the state level. When framing their opinions, Weibo users focused more on gender violence, while Twitter users focused more on gang violence. These variations within social media posts across platforms were fundamentally influenced by the interruption of transnational information flow as a result of Chinese governance and censorship of the internet. Through the “porous censorship,” social media users’ autonomy and trust in the government played critical roles in the dynamics between online criticism and authoritarian responsiveness. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;",
+        "abstract": "This study delved into cross-platform information flow and multilingual text analysis by examining social media posts on Weibo and Twitter in Chinese and English. We investigated public opinions about a violent restaurant attack in China that received widespread attention and validated three strategies of Bidirectional Encoder Representations from Transformers (BERT) to classify multilingual social media posts regarding their attitudes, targets, and frames. This study found that there was more criticism than support on Twitter than on Weibo when calling for social justice. When targeting the governments, Weibo users focused more on the local level, while Twitter users focused more on the state level. When framing their opinions, Weibo users focused more on gender violence, while Twitter users focused more on gang violence. These variations within social media posts across platforms were fundamentally influenced by the interruption of transnational information flow as a result of Chinese governance and censorship of the internet. Through the “porous censorship,” social media users’ autonomy and trust in the government played critical roles in the dynamics between online criticism and authoritarian responsiveness.",
         "url": "https://doi.org/10.5117/ccr2023.1.8.wang",
         "topics_llm": true
       },
@@ -512,7 +512,7 @@
           "Bias mitigation",
           "Digital trace data"
         ],
-        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (N&lt;sub&gt;I&lt;/sub&gt; = 345) and one with a convenience sample from an online access panel (N&lt;sub&gt;II&lt;/sub&gt; = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
+        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
         "url": "https://doi.org/10.5117/ccr2024.2.2.hase",
         "topics_llm": true
       },
@@ -731,6 +731,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.10.chen",
+        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
+        "authors": [
+          "Calvin Yixiang Cheng",
+          "Weiyu Zhang"
+        ],
+        "year": 2023,
+        "citation_count": 9,
+        "topics": [
+          "Moral foundations",
+          "Computational linguistics",
+          "Chinese language analysis",
+          "Sentiment analysis"
+        ],
+        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
+        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.008.wu",
         "title": "MARMOT",
         "authors": [
@@ -787,25 +806,6 @@
         ],
         "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
         "url": "https://doi.org/10.5117/ccr2022.1.006.mali",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.10.chen",
-        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
-        "authors": [
-          "Calvin Yixiang Cheng",
-          "Weiyu Zhang"
-        ],
-        "year": 2023,
-        "citation_count": 8,
-        "topics": [
-          "Moral foundations",
-          "Computational linguistics",
-          "Chinese language analysis",
-          "Sentiment analysis"
-        ],
-        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
-        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
         "topics_llm": true
       },
       {
@@ -1028,6 +1028,91 @@
     ],
     "latest": [
       {
+        "doi": "10.5117/ccr2026.1.11.henr",
+        "title": "Do Generative Large Language Models Close the Language Gap in Multilingual Discourse Classification? An Evaluation Across Three European Languages",
+        "authors": [
+          "Frederik Weber Henriksen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Multilingual NLP",
+          "Discourse Classification",
+          "Large Language Models",
+          "Language Resource Disparities"
+        ],
+        "abstract": "Uneven language support and resource asymmetries remain a central challenge for applying large language models to social-science text analysis. This study evaluates whether generative models narrow that gap on two multilingual classification tasks – xenophobic and anti-government discourse – using 6,000 social media posts in Danish, Swedish, and German. It compares 12 base models evaluated under supervised fine-tuning and zero-/few-shot prompting (33 model-setting configurations). The support gap persists – model configurations applied to German (or English translations) reliably outperform those for Danish and Swedish; fine-tuned encoders set the ceiling (macro-F1 ≈ 0.85 in German), while few-shot prompting yields only modest gains over zero-shot inference. A consensus analysis of per-item agreement shows higher model-gold alignment for xenophobia than anti-government (high-agreement band: 76.6% vs 52.3% of items), with residual errors concentrated in mediated discourse and irony/euphemism. Methodologically, the study introduces a consensus-based validation approach that groups items by model agreement and employs mixed-effects modeling to identify systematic failure, providing a reproducible bridge between quantitative reliability and qualitative error analysis. Overall, uneven language support governs reliability in discourse-level classification, challenging claims that frontier decoders close multilingual measurement gaps and underscoring the need for evaluation infrastructure for smaller and less-supported languages in communication research.",
+        "url": "https://doi.org/10.5117/ccr2026.1.11.henr",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.3.3.wang",
+        "title": "Protest Images and Interaction Networks Within Affective Publics during the 2024 South Korean Martial Law Crisis",
+        "authors": [
+          "Zituo Wang",
+          "Siyi Zhou",
+          "Jiayi Wang",
+          "Jiayi Zhu",
+          "Dong-Gyu Kim",
+          "Bumju Jung",
+          "Ji Ye Kim",
+          "Ashwin Balasubramanian",
+          "Vito Zou",
+          "Lindsay E. Young"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Affective publics",
+          "Social media activism",
+          "Multimodal analysis",
+          "Protest mobilization"
+        ],
+        "abstract": "This study examines how emotions and visuals interact to shape networked affective publics during the 2024 South Korean martial law crisis. Based on our multimodal dataset of 61,459 tweets that include 94,615 images, we applied emotion classification and image categorization, alongside social network analysis, to analyze how textual emotions and protest images mobilize user engagement within the affective publics. Results show that interaction networks associated with Angry and Sad emotions were larger in size, whereas Fear networks exhibited higher degree centralization and density; by contrast, Happy and Tender networks were smaller and less centralized. Among multimodal tweets, textual emotion was significantly associated with image category, with negative emotions most frequently expressed through human-centric images, but positive emotions exhibited more balanced visual strategies. Happy emotional expression consistently predicted higher user engagement, while human-centric imagery boosted replies and likes, and text-based visuals more effectively drove retweets. The study advances the affective publics theory by integrating emotional, visual, and structural dimensions, offering insights into how multimodal strategies fuel digital activism.",
+        "url": "https://doi.org/10.5117/ccr2026.3.3.wang",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.10.pill",
+        "title": "Leveraging Survey-Informed LLM Personas to Identify Cultural References : Enhancing Inclusivity in News Reporting",
+        "authors": [
+          "Reshmi Pillai",
+          "Antske Fokkens",
+          "Wouter van Atteveldt"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "LLM personas",
+          "News accessibility",
+          "Cultural inclusivity",
+          "Audience diversity"
+        ],
+        "abstract": "With increasingly mobile and diverse audiences, newsrooms worldwide face the growing challenge of addressing the needs of, and fostering meaningful connections with, a wide range of audience segments. We explore the possibility of using LLM personas to support inclusivity in news writing by identifying cultural references in news reports which pose challenges for non-native news readers. We design and implement a pipeline for building and evaluating persona of specific groups (international students, knowledge workers and non-knowledge workers) within non-native news readers in two modes: (1) minimal demographics (occupation, age) and (2) demographics plus survey-derived information. The results demonstrate that persona-driven prompting can support inclusivity in journalism, albeit with certain limitations. Qualitative evaluation showed reasonable alignment between LLM outputs prompted with the same persona, and improvement in LLM performance with additional prompt inputs based on survey data. The present results show, for the first time, empirical analysis of the application of LLM personas in identifying cultural references. Our approach can be useful for journalists to receive regular and on-the-go feedback on culturally complex references, which might require simplification or additional explanation, thus making news reports better accessible for diverse audience.",
+        "url": "https://doi.org/10.5117/ccr2026.2.10.pill",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.1.10.sahi",
+        "title": "Digital Mirrors in Motion: A Tool for Measuring Gendered Movement in Short Videos",
+        "authors": [
+          "Gökçe Şahin",
+          "Ruben Bach",
+          "Christoph Kern"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "gendered self-presentation",
+          "body movement analysis",
+          "short-form video",
+          "visual communication"
+        ],
+        "abstract": "Visual self-representation on social media is a central concern in communication research, as bodily posture and movement convey gendered social codes that shape audience perceptions and contribute to the reproduction of stereotypes. While previous research has identified gendered body-pose patterns in static Instagram imagery, contemporary platform communication is increasingly dominated by short-form video formats, where self-presentation unfolds dynamically over time. Building on Tsolak & Kühne (2025), who identified 150 body-pose clusters in Instagram imagery using OpenPose, this paper introduces an open-source research tool for analyzing gendered bodily self-presentation in video. Using the original raw keypoint dataset, we implemented an independent unsupervised learning pipeline to derive 150 pose prototypes through K-means clustering. These prototypes form the basis of a browser-based application that performs frame-by-frame pose classification using the MediaPipe framework. To bridge differences between OpenPose and MediaPipe landmarks, the tool employs a custom mapping layer that aligns live video data with the original clusters. The framework enables communication researchers to trace how gendered bodily performances unfold over time in short-form video content that now dominates social media engagement.",
+        "url": "https://doi.org/10.5117/ccr2026.1.10.sahi",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2026.4.5.vand",
         "title": "What’s on Their For You Page? A Large-Scale Computational Approach to Analyzing Adolescents’ TikTok Archives Through Hashtag Topic Modeling",
         "authors": [
@@ -1092,26 +1177,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2026.1.10.sahi",
-        "title": "Digital Mirrors in Motion: A Tool for Measuring Gendered Movement in Short Videos",
-        "authors": [
-          "Gökçe Şahin",
-          "Ruben Bach",
-          "Christoph Kern"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "gendered self-presentation",
-          "body movement analysis",
-          "short-form video",
-          "visual communication"
-        ],
-        "abstract": "Visual self-representation on social media is a central concern in communication research, as bodily posture and movement convey gendered social codes that shape audience perceptions and contribute to the reproduction of stereotypes. While previous research has identified gendered body-pose patterns in static Instagram imagery, contemporary platform communication is increasingly dominated by short-form video formats, where self-presentation unfolds dynamically over time. Building on Tsolak &amp; Kühne (2025), who identified 150 body-pose clusters in Instagram imagery using OpenPose, this paper introduces an open-source research tool for analyzing gendered bodily self-presentation in video. Using the original raw keypoint dataset, we implemented an independent unsupervised learning pipeline to derive 150 pose prototypes through K-means clustering. These prototypes form the basis of a browser-based application that performs frame-by-frame pose classification using the MediaPipe framework. To bridge differences between OpenPose and MediaPipe landmarks, the tool employs a custom mapping layer that aligns live video data with the original clusters. The framework enables communication researchers to trace how gendered bodily performances unfold over time in short-form video content that now dominates social media engagement.",
-        "url": "https://doi.org/10.5117/ccr2026.1.10.sahi",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2026.1.7.schr",
         "title": "In search of truth: A refined approach to collecting and annotating data for BERT-based misinformation detection",
         "authors": [
@@ -1129,6 +1194,30 @@
         ],
         "abstract": "Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.",
         "url": "https://doi.org/10.5117/ccr2026.1.7.schr",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.3.5.much",
+        "title": "Activating Identity and Political Action in the #MeToo Era",
+        "authors": [
+          "Melina Much",
+          "Daniel Ebanks",
+          "Sara Kangaslahti",
+          "Jean Kossaifi",
+          "R. Michael Alvarez",
+          "Anqi Liu",
+          "Anima Anandkumar"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Social media activism",
+          "#MeToo movement",
+          "Feminist consciousness-raising",
+          "Digital political mobilization"
+        ],
+        "abstract": "Twitter (now X) represented an invaluable space for sparking and mobilizing political movements. An example of this is the #MeToo movement beginning in 2017, which was one of the largest social and political reckonings with sexual violence the U.S. has ever seen. This study analyzes over 8 million tweets related to #MeToo over two years, aiming to provide new insights into the movement’s dynamics and its relationship to fourth-wave feminism. Our findings challenge assumptions about consciousness-raising efforts, showing that politicized calls to action do not immediately materialize in online spaces. The study also highlights a lack of intersectional discourse in consciousness-raising discussions, emphasizing the need for broader considerations of gendered sexual violence. We further offer among the first systematic evidence of the relative scale of #MeToo’s reactionary counter-movement, finding that oppositional discourse had come to dominate Twitter’s #MeToo ecosystem by 2019.",
+        "url": "https://doi.org/10.5117/ccr2026.3.5.much",
         "topics_llm": true
       },
       {
@@ -1280,30 +1369,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2026.3.5.much",
-        "title": "Activating Identity and Political Action in the #MeToo Era",
-        "authors": [
-          "Melina Much",
-          "Daniel Ebanks",
-          "Sara Kangaslahti",
-          "Jean Kossaifi",
-          "R. Michael Alvarez",
-          "Anqi Liu",
-          "Anima Anandkumar"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Social media activism",
-          "#MeToo movement",
-          "Feminist consciousness-raising",
-          "Digital political mobilization"
-        ],
-        "abstract": "Twitter (now X) represented an invaluable space for sparking and mobilizing political movements. An example of this is the #MeToo movement beginning in 2017, which was one of the largest social and political reckonings with sexual violence the U.S. has ever seen. This study analyzes over 8 million tweets related to #MeToo over two years, aiming to provide new insights into the movement’s dynamics and its relationship to fourth-wave feminism. Our findings challenge assumptions about consciousness-raising efforts, showing that politicized calls to action do not immediately materialize in online spaces. The study also highlights a lack of intersectional discourse in consciousness-raising discussions, emphasizing the need for broader considerations of gendered sexual violence. We further offer among the first systematic evidence of the relative scale of #MeToo’s reactionary counter-movement, finding that oppositional discourse had come to dominate Twitter’s #MeToo ecosystem by 2019.",
-        "url": "https://doi.org/10.5117/ccr2026.3.5.much",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2026.2.6.liu",
         "title": "Seeing the Surreal: Mapping Surrealism in Photorealistic AI-Generated Images Using Large Language Models",
         "authors": [
@@ -1322,7 +1387,7 @@
           "Large Language Models",
           "Visual communication"
         ],
-        "abstract": "Photorealistic AI-generated images (AIGIs) are increasingly indistinguishable from real photographs, raising significant social concerns. While prior research focuses on the production quality and detection of photorealistic AIGIs, such research often overlooks their expressive features. This study focuses on surrealism as a key feature of AIGIs, and introduces the concept of algorithmic surrealism to capture AIGIs&apos; algorithmically driven and public accessible generative processes and consequences. Using 28,290 AIGIs collected from Instagram creators and a mixed-methods, Large Language Model (LLM)-assisted framework, we categorized physical, behavioral, and contextual surrealism at scale and found a pervasive presence of surrealism in AIGIs. Topic network and qualitative analyses show that algorithmic surrealism often appears in hybrid forms, indicates patterns of visual excess, reinforces stereotypes, transforms technical flaws into surreal aesthetic features, and exhibits visual homogenization tendencies. This study advances the theoretical understanding of surrealism and photorealism in the age of generative AI. Methodologically, it contributes to computational social science by demonstrating an LLM-based framework that integrates computational, qualitative, and network analyses to examine complex visual concepts.",
+        "abstract": "Photorealistic AI-generated images (AIGIs) are increasingly indistinguishable from real photographs, raising significant social concerns. While prior research focuses on the production quality and detection of photorealistic AIGIs, such research often overlooks their expressive features. This study focuses on surrealism as a key feature of AIGIs, and introduces the concept of algorithmic surrealism to capture AIGIs' algorithmically driven and public accessible generative processes and consequences. Using 28,290 AIGIs collected from Instagram creators and a mixed-methods, Large Language Model (LLM)-assisted framework, we categorized physical, behavioral, and contextual surrealism at scale and found a pervasive presence of surrealism in AIGIs. Topic network and qualitative analyses show that algorithmic surrealism often appears in hybrid forms, indicates patterns of visual excess, reinforces stereotypes, transforms technical flaws into surreal aesthetic features, and exhibits visual homogenization tendencies. This study advances the theoretical understanding of surrealism and photorealism in the age of generative AI. Methodologically, it contributes to computational social science by demonstrating an LLM-based framework that integrates computational, qualitative, and network analyses to examine complex visual concepts.",
         "url": "https://doi.org/10.5117/ccr2026.2.6.liu",
         "topics_llm": true
       },
@@ -1346,7 +1411,7 @@
           "Social media protest coverage",
           "User-generated content"
         ],
-        "abstract": "Recent developments in both mobile technology and social media have produced significant shifts in both the volume and nature of current events images available to the public. Whereas images of current events used to be the sole domain of professional photojournalists, now nearly anyone with a mobile phone can witness and photograph an event, and distribute that photograph to the public at large. This paper explores roughly 9.5 million tweets and nearly 807,000 images about the August 2017 Unite the Right protest in Charlottesville, VA. We assign “frames” to images, and consider variation in framing across news organizations and individuals. We find individuals&apos; accounts engage in more diverse framing than news organizations, and that there is no convergence of framing over time between individuals and the media. These results have important implications for the diversity of perspectives represented in online discourse, and raise questions about the roles – both positive and negative – of “citizen photojournalists.”",
+        "abstract": "Recent developments in both mobile technology and social media have produced significant shifts in both the volume and nature of current events images available to the public. Whereas images of current events used to be the sole domain of professional photojournalists, now nearly anyone with a mobile phone can witness and photograph an event, and distribute that photograph to the public at large. This paper explores roughly 9.5 million tweets and nearly 807,000 images about the August 2017 Unite the Right protest in Charlottesville, VA. We assign “frames” to images, and consider variation in framing across news organizations and individuals. We find individuals' accounts engage in more diverse framing than news organizations, and that there is no convergence of framing over time between individuals and the media. These results have important implications for the diversity of perspectives represented in online discourse, and raise questions about the roles – both positive and negative – of “citizen photojournalists.”",
         "url": "https://doi.org/10.5117/ccr2026.3.2.stei",
         "topics_llm": true
       },
@@ -1392,7 +1457,7 @@
       },
       {
         "doi": "10.5117/ccr2026.2.11.urma",
-        "title": "Gender Representation in Large Language Models: ACross-Linguistic and Cross-Model Analysis",
+        "title": "Gender Representation in Large Language Models: A Cross-Linguistic and Cross-Model Analysis",
         "authors": [
           "Aleksandra Urman",
           "Emese Domahidi",
@@ -1504,7 +1569,7 @@
       },
       {
         "doi": "10.5117/ccr2026.2.3.kim",
-        "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
+        "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
         "authors": [
           "Sang Jung Kim",
           "Libin Chen"
@@ -1556,7 +1621,7 @@
           "Natural Language Processing",
           "Computational Linguistics"
         ],
-        "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don&apos;t match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
+        "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
         "topics_llm": true
       },
@@ -1636,7 +1701,7 @@
           "Social media strategy",
           "Constituency engagement"
         ],
-        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates&apos; gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland&apos;s candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
+        "abstract": "Social media have become a crucial tool for candidates seeking election, allowing them to build a public profile by posting curated content to appeal to potential voters. Focusing on the 2020 Irish General Election, this study investigates how candidates used Twitter to signal their campaign efforts and policy positions, and how their communicative priorities varied based on their gender, competitiveness, and political experience. To do so, we first demonstrate that a transformer-based machine-learning approach based on sentence embeddings can successfully identify social media posts that contain policy and electioneering content. Our findings show that experienced candidates are more likely to emphasise policy-related content than less experienced ones. This pattern also holds for electioneering content when we account for previous engagement with such posts. Contrary to our pre-registered expectations, we find no meaningful differences in the emphasis on electioneering or policy content based on candidates' gender or electoral competitiveness. Overall, our results demonstrate how candidates strategically use social media to shape their public personas during election campaigns in Ireland's candidate-centred electoral system, with multi-member constituencies and strict campaign spending limits.",
         "url": "https://doi.org/10.5117/ccr2025.1.12.cros",
         "topics_llm": true
       },
@@ -1982,7 +2047,7 @@
           "Bias mitigation",
           "Digital trace data"
         ],
-        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (N&lt;sub&gt;I&lt;/sub&gt; = 345) and one with a convenience sample from an online access panel (N&lt;sub&gt;II&lt;/sub&gt; = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
+        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
         "url": "https://doi.org/10.5117/ccr2024.2.2.hase",
         "topics_llm": true
       },
@@ -2003,70 +2068,6 @@
         ],
         "abstract": "Understanding the decentralized formation of public opinion is increasingly important to communication research. Although many key determinants cannot be observed empirically, we argue they can be explored through theoretical modeling. Building on an existing agent-based model of opinion dynamics, our study introduces more complex, but theoretically interesting and realistic, agent behavior. We model distinct opinion tendencies which represent individuals’ diversity of belief, as well as external influences such as new information. Diversity increases the extremity of opinion in simulated consensus, radicalization and polarization. Simulation of new information demonstrates the ability of a minority group to shift majority opinion significantly in the long term, even with transient changes in behavior. Opposing minority groups do not counteract each other when their actions are delayed and may in fact amplify the original effect. We argue that modeling can help researchers and other stakeholders understand how these outcomes could arise in the real world, and thereby explore potential mitigations or exploitations.",
         "url": "https://doi.org/10.5117/ccr2024.1.3.pogs",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.1.6.stec",
-        "title": "Tools of the Trade – When Are Software Tools Mentioned in Computational Text Analysis Research?",
-        "authors": [
-          "Marvin Stecker",
-          "Paul Balluff",
-          "Fabienne Lind",
-          "Celina Dinhopl",
-          "Annie Waldherr",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2024,
-        "citation_count": 1,
-        "topics": [
-          "Computational text analysis",
-          "Software tools reporting",
-          "Research methodology",
-          "Social science research practices"
-        ],
-        "abstract": "The use of computational methods for text analysis has been rapidly gaining a foothold in computational social science. Yet, little is known about the reporting practices of the software tools utilised in this field. This research note investigates the factors influencing the likelihood of software tools being mentioned in social science journal articles. To this end, we reviewed 406 journal articles, representing all computational text analysis articles published in top social science journals between 2016 and 2020, and identified all software tools reported. We explore both article-level and tool-level characteristics and investigate their association with the mentioning of software tools. Our findings indicate a consistent pattern of tool reporting across time and disciplines, while authors who detail methodological validation within their papers are more inclined to mention the software tools employed. Furthermore, we observe that software tools with greater accessibility tend to receive more frequent mentions, while the maintenance status of the tools does not significantly impact their frequency of being mentioned. We discuss the implications of these results for the further development of computational text analysis in social science and especially communication research.",
-        "url": "https://doi.org/10.5117/ccr2024.1.6.stec",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "citation_count": 11,
-        "topics": [
-          "Data donation",
-          "Media consumption measurement",
-          "Digital trace data",
-          "Research methodology"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.1.5.chan",
-        "title": "What makes computational communication science (ir)reproducible?",
-        "authors": [
-          "Chung‐hong Chan",
-          "Tim Schatto‐Eckrodt",
-          "Johannes B. Gruber"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Computational reproducibility",
-          "Open Science",
-          "Research methodology",
-          "Communication research"
-        ],
-        "abstract": "Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.",
-        "url": "https://doi.org/10.5117/ccr2024.1.5.chan",
         "topics_llm": true
       }
     ],
