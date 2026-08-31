@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-08-24T06:55:14Z",
-  "trending_from": "2024-08-24",
+  "updated_at": "2026-08-31T12:46:09Z",
+  "trending_from": "2024-08-31",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4220,
+        "citation_count": 4228,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2578,
+        "citation_count": 2592,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1848,
+        "citation_count": 1855,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1118,
+        "citation_count": 1122,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 919,
+        "citation_count": 923,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 831,
+        "citation_count": 832,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 454,
+        "citation_count": 455,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 400,
+        "citation_count": 402,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 272,
+        "citation_count": 274,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -386,7 +386,7 @@
           "Kevin K. John"
         ],
         "year": 2019,
-        "citation_count": 193,
+        "citation_count": 195,
         "topics": [
           "Eye tracking",
           "Visual behavior research",
@@ -407,7 +407,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 183,
+        "citation_count": 185,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -427,7 +427,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 183,
+        "citation_count": 184,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 168,
+        "citation_count": 171,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -471,7 +471,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 160,
+        "citation_count": 166,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -522,25 +522,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2012.703834",
-        "title": "Testing Equivalence in Communication Research: Theory and Application",
-        "authors": [
-          "René Weber",
-          "Lucy Popova"
-        ],
-        "year": 2012,
-        "citation_count": 137,
-        "topics": [
-          "Equivalence testing",
-          "Statistical methods",
-          "Null hypothesis",
-          "Communication research"
-        ],
-        "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
-        "url": "https://doi.org/10.1080/19312458.2012.703834",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1506021",
         "title": "How to Measure Generalized Trust in News Media? An Adaptation and Test of Scales",
         "authors": [
@@ -548,7 +529,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2018,
-        "citation_count": 137,
+        "citation_count": 138,
         "topics": [
           "Media trust",
           "Scale measurement",
@@ -581,13 +562,32 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2012.703834",
+        "title": "Testing Equivalence in Communication Research: Theory and Application",
+        "authors": [
+          "René Weber",
+          "Lucy Popova"
+        ],
+        "year": 2012,
+        "citation_count": 137,
+        "topics": [
+          "Equivalence testing",
+          "Statistical methods",
+          "Null hypothesis",
+          "Communication research"
+        ],
+        "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
+        "url": "https://doi.org/10.1080/19312458.2012.703834",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1453057",
         "title": "Culture-centered Approach in Addressing Health Disparities: Communication Infrastructures for Subaltern Voices",
         "authors": [
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 132,
+        "citation_count": 133,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -646,7 +646,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 120,
+        "citation_count": 121,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -654,26 +654,6 @@
         ],
         "abstract": "A series of studies report the development of empirically derived instruments that measure student interest and engagement. The first study inductively develops an initial item pool through open-ended questionnaire data. A second study subjects the measures to exploratory factor analysis to ascertain an underlying factor structure. The third study deductively tests the measures through confirmatory factor analysis and examines associations among teacher communication behaviors, student emotional and cognitive interest, and engagement. A fourth study offers discriminant validity evidence, suggesting that the new measures are distinct from scales that assess similar yet divergent constructs. Guided by prior theory (Mottet, Frymier, & Beebe, 2006 Mottet, T. P., Frymier, A. B. and Beebe, S. A. 2006. “Theorizing about instructional communication”. In Handbook of instructional communication, Edited by: Mottet, T. P., Richmond, V. P. and McCroskey, J. C. 255–282. Boston, MA: Pearson. [Google Scholar]) and research (Harp & Mayer, 1997 Harp, S. F. and Mayer, R. E. 1997. The role of interest in learning from scientific text and illustration: On the distinction between emotional interest and cognitive interest. Journal of Educational Psychology, 89: 92–102. [Crossref], [Web of Science ®] , [Google Scholar]), the instruments developed here possess heuristic potential for instructional communication research. Implications and areas for future research are discussed.",
         "url": "https://doi.org/10.1080/19312458.2012.679244",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2010.547823",
-        "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
-        "authors": [
-          "Douglas A. Luke",
-          "Charlene Caburnay",
-          "Elisia L. Cohen"
-        ],
-        "year": 2011,
-        "citation_count": 115,
-        "topics": [
-          "Content analysis",
-          "Sampling methods",
-          "Health communication",
-          "Newspaper research"
-        ],
-        "abstract": "Researchers frequently use constructed week samples to approximate content for larger populations of textual data in content analysis projects. To date, this sampling method has not been validated in longitudinal contexts necessary for the conduct of large-scale health communication research. This study uses Monte Carlo bootstrap sampling to determine the number of constructed weeks necessary to accurately estimate one- and five-year population values for different types of variables in a quantitative content analysis. Five years (1999–2004) of four different daily newspapers were coded for four variables that varied on type (count vs. rating), amount of missing data, and distribution (normal vs. nonnormal). Results suggest that sampling a minimum of six constructed weeks was most efficient for both time frames. Missing data lowers sampling precision, although a correction can be calculated if the amount of missing data can be estimated. Using an efficient method of sampling newspapers such as constructed week sampling can help communication researchers to more easily study health coverage in the media.",
-        "url": "https://doi.org/10.1080/19312458.2010.547823",
         "topics_llm": true
       },
       {
@@ -696,6 +676,26 @@
         ],
         "abstract": "We explore the application of supervised machine learning (SML) to frame coding. By automating the coding of frames in news, SML facilitates the incorporation of large-scale content analysis into framing research, even if financial resources are scarce. This furthers a more integrated investigation of framing processes conceptually as well as methodologically. We conduct several experiments in which we automate the coding of four generic frames that are operationalised as a set of indicator questions. In doing so, we compare two approaches to modelling the coherence between indicator questions and frames as an SML task. The results of our experiments show that SML is well suited to automate frame coding but that coding performance is dependent on the way SML is implemented.",
         "url": "https://doi.org/10.1080/19312458.2014.937527",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2010.547823",
+        "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
+        "authors": [
+          "Douglas A. Luke",
+          "Charlene Caburnay",
+          "Elisia L. Cohen"
+        ],
+        "year": 2011,
+        "citation_count": 115,
+        "topics": [
+          "Content analysis",
+          "Sampling methods",
+          "Health communication",
+          "Newspaper research"
+        ],
+        "abstract": "Researchers frequently use constructed week samples to approximate content for larger populations of textual data in content analysis projects. To date, this sampling method has not been validated in longitudinal contexts necessary for the conduct of large-scale health communication research. This study uses Monte Carlo bootstrap sampling to determine the number of constructed weeks necessary to accurately estimate one- and five-year population values for different types of variables in a quantitative content analysis. Five years (1999–2004) of four different daily newspapers were coded for four variables that varied on type (count vs. rating), amount of missing data, and distribution (normal vs. nonnormal). Results suggest that sampling a minimum of six constructed weeks was most efficient for both time frames. Missing data lowers sampling precision, although a correction can be calculated if the amount of missing data can be estimated. Using an efficient method of sampling newspapers such as constructed week sampling can help communication researchers to more easily study health coverage in the media.",
+        "url": "https://doi.org/10.1080/19312458.2010.547823",
         "topics_llm": true
       },
       {
@@ -726,7 +726,7 @@
           "Laurel S. Gleason"
         ],
         "year": 2012,
-        "citation_count": 104,
+        "citation_count": 105,
         "topics": [
           "Quantitative research methods",
           "Theory development",
@@ -782,24 +782,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2013.873777",
-        "title": "Experimental Manipulation of Psychological Involvement with Media",
-        "authors": [
-          "Riva Tukachinsky"
-        ],
-        "year": 2014,
-        "citation_count": 94,
-        "topics": [
-          "Media involvement",
-          "Experimental manipulation",
-          "Transportation and immersion",
-          "Meta-analysis"
-        ],
-        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
-        "url": "https://doi.org/10.1080/19312458.2013.873777",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2014.903390",
         "title": "How Can We Tell When a Heuristic Has Been Used? Design and Analysis Strategies for Capturing the Operation of Heuristics",
         "authors": [
@@ -816,6 +798,24 @@
         ],
         "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
         "url": "https://doi.org/10.1080/19312458.2014.903390",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2013.873777",
+        "title": "Experimental Manipulation of Psychological Involvement with Media",
+        "authors": [
+          "Riva Tukachinsky"
+        ],
+        "year": 2014,
+        "citation_count": 94,
+        "topics": [
+          "Media involvement",
+          "Experimental manipulation",
+          "Transportation and immersion",
+          "Meta-analysis"
+        ],
+        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
+        "url": "https://doi.org/10.1080/19312458.2013.873777",
         "topics_llm": true
       },
       {
@@ -883,7 +883,7 @@
           "Hannah Früh"
         ],
         "year": 2012,
-        "citation_count": 82,
+        "citation_count": 83,
         "topics": [
           "Electrodermal Activity",
           "Audience Arousal",
@@ -912,23 +912,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312450709336663",
-        "title": "The Role of Numbers and Statistics within Conversation Analysis",
-        "authors": [
-          "Jeffrey D. Robinson"
-        ],
-        "year": 2007,
-        "citation_count": 79,
-        "topics": [
-          "Conversation Analysis",
-          "Statistics in Communication",
-          "Discourse Analysis"
-        ],
-        "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
-        "url": "https://doi.org/10.1080/19312450709336663",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2016.1150973",
         "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
         "authors": [
@@ -946,6 +929,23 @@
         ],
         "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
         "url": "https://doi.org/10.1080/19312458.2016.1150973",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312450709336663",
+        "title": "The Role of Numbers and Statistics within Conversation Analysis",
+        "authors": [
+          "Jeffrey D. Robinson"
+        ],
+        "year": 2007,
+        "citation_count": 79,
+        "topics": [
+          "Conversation Analysis",
+          "Statistics in Communication",
+          "Discourse Analysis"
+        ],
+        "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
+        "url": "https://doi.org/10.1080/19312450709336663",
         "topics_llm": true
       },
       {
@@ -1271,7 +1271,7 @@
           "Elisa Omodei"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Online political polarization",
           "Invisible engagement",
@@ -1670,7 +1670,7 @@
           "Albert Ali Salah"
         ],
         "year": 2023,
-        "citation_count": 33,
+        "citation_count": 34,
         "topics": [
           "Visual content analysis",
           "Social media effects",
@@ -1751,7 +1751,7 @@
           "Sabine Trepte"
         ],
         "year": 2023,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Privacy",
           "Scale development",
@@ -1906,7 +1906,7 @@
           "Jorlanditha T. Austin"
         ],
         "year": 2023,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Conversational analysis",
           "Parent-adolescent communication",

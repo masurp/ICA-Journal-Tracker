@@ -1,7 +1,7 @@
 {
   "journal_id": "mobile_media_communication",
-  "updated_at": "2026-08-24T06:54:50Z",
-  "trending_from": "2024-08-24",
+  "updated_at": "2026-08-31T12:45:47Z",
+  "trending_from": "2024-08-31",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Jing Zeng"
         ],
         "year": 2020,
-        "citation_count": 473,
+        "citation_count": 480,
         "topics": [
           "Platform evolution",
           "Mobile short video",
@@ -32,7 +32,7 @@
           "Stephen A. Rains"
         ],
         "year": 2017,
-        "citation_count": 296,
+        "citation_count": 297,
         "topics": [
           "Digital divide",
           "Smartphone access",
@@ -51,7 +51,7 @@
           "Christoph Lutz"
         ],
         "year": 2016,
-        "citation_count": 280,
+        "citation_count": 283,
         "topics": [
           "Online dating",
           "Self-presentation",
@@ -193,7 +193,7 @@
           "Jordan Frith"
         ],
         "year": 2013,
-        "citation_count": 146,
+        "citation_count": 147,
         "topics": [
           "Gamification",
           "Location-based mobile games",
@@ -293,7 +293,7 @@
           "Heather A. Horst"
         ],
         "year": 2015,
-        "citation_count": 109,
+        "citation_count": 112,
         "topics": [
           "Mobile media",
           "Digital ethnography",
@@ -320,6 +320,25 @@
         ],
         "abstract": "",
         "url": "https://doi.org/10.1177/2050157914563369",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157916680015",
+        "title": "Pokémon GO : Mobile media play, place-making, and the digital wayfarer",
+        "authors": [
+          "Larissa Hjorth",
+          "Ingrid Richardson"
+        ],
+        "year": 2017,
+        "citation_count": 103,
+        "topics": [
+          "Mobile gaming",
+          "Location-based technology",
+          "Digital play and place",
+          "Surveillance and privacy"
+        ],
+        "abstract": "This special commentary for Mobile Media & Communication seeks to put these divisive debates in context. Through the lens of Pokémon GO, we can understand and critically interpret a variety of issues involved in the politics and practice of playful mobile media. These issues move across debates around location-aware technologies in constructions of privacy (Coldewey, 2016; Cunningham, 2016), risk and surveillance (Machkovech, 2016; Mishra, 2016) to the role of mobile media in commodifying (Evangelho, 2016) and expanding the social, cultural, and creative dimensions of play (Isbister, 2016; Mäyrä, 2012). As the mobile media and game theorists in this commentary highlight, the game sits at the nexus of several technological and cultural trajectories: the playful turn; the ubiquity of location-based and haptic mobile media (and apps and games); innovative game design; the effects of digital mapping technologies; the intertwining of performative media games and art; our individual and collective memories of playworlds and transmedia universes; the increasing importance of issues concerning privacy and risk in public spaces; the ongoing augmentation of place and space; and the politics embedded in this hybrid experience of the lifeworld.",
+        "url": "https://doi.org/10.1177/2050157916680015",
         "topics_llm": true
       },
       {
@@ -386,7 +405,7 @@
           "James Miller"
         ],
         "year": 2014,
-        "citation_count": 94,
+        "citation_count": 95,
         "topics": [
           "Mediatization",
           "Smartphone communication",
@@ -406,7 +425,7 @@
           "Diana Floegel"
         ],
         "year": 2019,
-        "citation_count": 93,
+        "citation_count": 94,
         "topics": [
           "Mobile phone use",
           "Parent-child interaction",
@@ -442,7 +461,7 @@
           "Lee Humphreys"
         ],
         "year": 2013,
-        "citation_count": 91,
+        "citation_count": 92,
         "topics": [
           "Mobile social media",
           "Location-based networks",
@@ -473,24 +492,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157912459502",
-        "title": "The promise and peril of mHealth in developing countries",
-        "authors": [
-          "Arul Chib"
-        ],
-        "year": 2013,
-        "citation_count": 87,
-        "topics": [
-          "mHealth",
-          "Healthcare technology",
-          "Developing countries",
-          "Mobile interventions"
-        ],
-        "abstract": "The mHealth field understandably arose from a base of practice, developed a nascent, yet ever-expanding, body of inter-disciplinary scholarship, and currently hopes for recognition by, and establishment on, national and trans-national policy bodies and agendas respectively. However, to justify public investment, policymakers require a body of theoretically sound, methodologically rigorous, and generalizable, evidence on how mobile technologies can effectively improve basic healthcare service delivery for hard-to-reach, resource-poor populations in developing countries. This essay draws upon prior work, ranging from a review article, an mHealth intervention for Indonesian healthcare workers within the medical infrastructure, to a text-messaging project in Uganda focused on beneficiaries. The argument is organized around theoretical, methodological, and sustainability issues, and proposes suggestions for how the discipline of mobile communication studies can add value to the field of mHealth research in developing countries.",
-        "url": "https://doi.org/10.1177/2050157912459502",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157914520846",
         "title": "There’s a religious app for that! A framework for studying religious mobile applications",
         "authors": [
@@ -509,6 +510,24 @@
         ],
         "abstract": "This article provides a new methodological approach to studying religious-oriented mobile applications available on the iTunes app store. Through an extensive review of 451 religious apps a number of problems were noted when relying solely on iTunes categories to identify app functions and purpose. Thus further analysis was done in order to present a new typology and framing of religious apps, which more accurately describe their design. We suggest that the 11 new categories offered here suggest a critical framework for studying religious apps. Thus this study provides a starting point for scholars interested in analyzing religious mobile applications to investigate how app developers integrate religious goals into their designs, and consider the primary ways people are expected to practice religion through mobile apps.",
         "url": "https://doi.org/10.1177/2050157914520846",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157912459502",
+        "title": "The promise and peril of mHealth in developing countries",
+        "authors": [
+          "Arul Chib"
+        ],
+        "year": 2013,
+        "citation_count": 87,
+        "topics": [
+          "mHealth",
+          "Healthcare technology",
+          "Developing countries",
+          "Mobile interventions"
+        ],
+        "abstract": "The mHealth field understandably arose from a base of practice, developed a nascent, yet ever-expanding, body of inter-disciplinary scholarship, and currently hopes for recognition by, and establishment on, national and trans-national policy bodies and agendas respectively. However, to justify public investment, policymakers require a body of theoretically sound, methodologically rigorous, and generalizable, evidence on how mobile technologies can effectively improve basic healthcare service delivery for hard-to-reach, resource-poor populations in developing countries. This essay draws upon prior work, ranging from a review article, an mHealth intervention for Indonesian healthcare workers within the medical infrastructure, to a text-messaging project in Uganda focused on beneficiaries. The argument is organized around theoretical, methodological, and sustainability issues, and proposes suggestions for how the discipline of mobile communication studies can add value to the field of mHealth research in developing countries.",
+        "url": "https://doi.org/10.1177/2050157912459502",
         "topics_llm": true
       },
       {
@@ -548,6 +567,24 @@
         ],
         "abstract": "This study uses co-orientation theory to examine the impact of mobile phone use on relational quality across three copresent contexts. It investigates the relationship between perceived similarity, actual similarity, and understanding of mobile phone usage on relationship outcomes, and uses a new measure of mobile relational interference to assess how commitment, satisfaction, and liking are affected by perceptions of relational partners’ mobile phone use. Contrary to popular belief, the results from this study of 69 dyads reveals that, at least within a sample of young Americans, failing to adhere to injunctive (i.e., societal) norms regarding mobile phone usage does not impact relational quality. Rather, results indicate that perceived adherence to participants’ own internal standards—by both the participant, and the participant’s relational partner—and perceived similarity between partners were more influential.",
         "url": "https://doi.org/10.1177/2050157913517684",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157915601455",
+        "title": "Mobile youth culture: A conceptual development",
+        "authors": [
+          "Mariek Vanden Abeele"
+        ],
+        "year": 2015,
+        "citation_count": 84,
+        "topics": [
+          "Mobile youth culture",
+          "Adolescent mobile phone use",
+          "Youth culture theory",
+          "Media appropriation"
+        ],
+        "abstract": "The concept of “mobile youth culture” is frequently used in the field of adolescent mobile phone research to refer to the distinctive ways in which youths around the world embed the mobile phone in their everyday lives. Little attention, however, has been devoted to its theoretical foundations. Drawing from youth culture theory and new (mobile) media theories, this article conceptually develops mobile youth culture by (a) describing the commonalities in adolescent mobile phone use that constitute the culture, and by (b) discussing the origins of these commonalities through an analysis of the network, the social and personal logics inherent in mobile communication technology, and the way these are appropriated by youths to accommodate their transition to adulthood. The article concludes by pointing out the shortcomings of the concept: The limited attention for the heterogeneity in adolescent media use, the integration of mobile media technologies into young people’s media repertoires, the cross-generational implications of mobile media use, and the impact of local context and culture.",
+        "url": "https://doi.org/10.1177/2050157915601455",
         "topics_llm": true
       },
       {
@@ -605,21 +642,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157915601455",
-        "title": "Mobile youth culture: A conceptual development",
+        "doi": "10.1177/2050157915583925",
+        "title": "Beyond “connected presence”: Multimedia mobile instant messaging in close relationship management",
         "authors": [
-          "Mariek Vanden Abeele"
+          "Di Cui"
         ],
         "year": 2015,
-        "citation_count": 83,
+        "citation_count": 80,
         "topics": [
-          "Mobile youth culture",
-          "Adolescent mobile phone use",
-          "Youth culture theory",
-          "Media appropriation"
+          "Mobile instant messaging",
+          "Close relationships",
+          "Multimodal communication",
+          "WeChat"
         ],
-        "abstract": "The concept of “mobile youth culture” is frequently used in the field of adolescent mobile phone research to refer to the distinctive ways in which youths around the world embed the mobile phone in their everyday lives. Little attention, however, has been devoted to its theoretical foundations. Drawing from youth culture theory and new (mobile) media theories, this article conceptually develops mobile youth culture by (a) describing the commonalities in adolescent mobile phone use that constitute the culture, and by (b) discussing the origins of these commonalities through an analysis of the network, the social and personal logics inherent in mobile communication technology, and the way these are appropriated by youths to accommodate their transition to adulthood. The article concludes by pointing out the shortcomings of the concept: The limited attention for the heterogeneity in adolescent media use, the integration of mobile media technologies into young people’s media repertoires, the cross-generational implications of mobile media use, and the impact of local context and culture.",
-        "url": "https://doi.org/10.1177/2050157915601455",
+        "abstract": "Despite its worldwide popularity, mobile instant messaging (MIM) as a new mode of interpersonal communication has received scant scholarly attention by far. Drawing upon the notion of “connected presence,” this study extends related discussions by exploring the patterns of MIM interaction in the management of close relationships. Focusing on WeChat, the most popular MIM in China, this study presents findings based on interviews with young Chinese as WeChat users. This study finds that WeChat’s wide functionality enabled multimodal communication in varying situations. Four modes of WeChat interaction were identified: General information exchange, experience articulation, technical support, and sympathetic companionship. The study also analyzes how user construction attaches social meaning to certain communicative practices on WeChat.",
+        "url": "https://doi.org/10.1177/2050157915583925",
         "topics_llm": true
       },
       {
@@ -639,24 +676,6 @@
         ],
         "abstract": "Mobile media have the potential to affect how one remembers and exercises the past as they offer new and creative ways to record and document the current. These new ways of preserving the past could be in the form of sharing locational information (e.g., geotagging, camera phone photos, check-ins), which would remind our future selves where we come from and how we used to be. We sometimes consciously create our everyday life narratives intending to hang onto a moment, or simply because the technology automatically saves our experiences, we unconsciously preserve our pasts. Mobile media can contribute to the existing ways of narrating places and the self because locational information can communicate multiple and different aspects of places. Situating our analysis within the broader literature on memory and media, we draw on three different studies conducted in the UK and the US in order to analyze different uses of mobile media in remembering associations with places, past experiences, and creating a nostalgic sense of place. More specifically we draw on notions of memory work and mediated memories to explore the mutual shaping of media, place, and memory.",
         "url": "https://doi.org/10.1177/2050157914565846",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157915583925",
-        "title": "Beyond “connected presence”: Multimedia mobile instant messaging in close relationship management",
-        "authors": [
-          "Di Cui"
-        ],
-        "year": 2015,
-        "citation_count": 80,
-        "topics": [
-          "Mobile instant messaging",
-          "Close relationships",
-          "Multimodal communication",
-          "WeChat"
-        ],
-        "abstract": "Despite its worldwide popularity, mobile instant messaging (MIM) as a new mode of interpersonal communication has received scant scholarly attention by far. Drawing upon the notion of “connected presence,” this study extends related discussions by exploring the patterns of MIM interaction in the management of close relationships. Focusing on WeChat, the most popular MIM in China, this study presents findings based on interviews with young Chinese as WeChat users. This study finds that WeChat’s wide functionality enabled multimodal communication in varying situations. Four modes of WeChat interaction were identified: General information exchange, experience articulation, technical support, and sympathetic companionship. The study also analyzes how user construction attaches social meaning to certain communicative practices on WeChat.",
-        "url": "https://doi.org/10.1177/2050157915583925",
         "topics_llm": true
       },
       {
@@ -779,24 +798,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914530297",
-        "title": "Health benefits and barriers to cell phone use in low-income urban U.S. neighborhoods: Indications of technology maintenance",
-        "authors": [
-          "Amy L. Gonzales"
-        ],
-        "year": 2014,
-        "citation_count": 67,
-        "topics": [
-          "Digital divide",
-          "Health communication technology",
-          "Low-income communities",
-          "Mobile phone access"
-        ],
-        "abstract": "Little is known about the everyday health and safety benefits of cell phones for the U.S. poor, despite heightened risks of illness and exposure to crime for this population. Interviews with low-income, urban U.S. residents reveal that cell phones are an asset for psychological reassurance, crime prevention, and critical access to emergency help. At the same time findings reveal that these residents often have broken and disconnected cell phones that require constant upkeep, or technology maintenance. Reliance on second-hand, government, and no-contract phones ease cell phone ownership but also normalize intermittent disconnection leading to dependably instability. These findings demonstrate the extreme value of cell phone access for residents of poor neighborhoods, and at the same time indicate that disparities in cell phone access still persist and may be worsening.",
-        "url": "https://doi.org/10.1177/2050157914530297",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157914550664",
         "title": "Mobile news use and participation in elections: A bridge for the democratic divide?",
         "authors": [
@@ -812,6 +813,24 @@
         ],
         "abstract": "This study explores the role of mobile news in democracy by examining individual-level variations in mobile election news use based on demographics, socioeconomic indicators, and mobile media activity breadth, and, in turn, how mobile news use is associated with political participation. Nationally representative data from a random-sample survey of American adults ( N = 2,250) in the 2010 general election were analyzed to better explain who mobile election news users are, how they compare to nonusers, and whether mobile news use was associated with voter turnout and mobile campaign donation. Findings underscore the significance of mobile media use and mobile news as phenomena of emerging importance in the election campaigns, and important differential patterns in the relationships of sociodemographics, mobile media, and electoral participation are discussed. By providing a nuanced accounting of the socioeconomic and demographic profile of mobile election news users and how those individuals differ from nonusers, this study enriches explanations of how societal privilege and the benefits of political engagement are related in complicated ways to individual-level variations in consuming and using mobile election news. Notably, for racial minorities, mobile media may provide a bridge across the digital-driven democratic divide and a more effective means of engaging with digital election information than other ICTs. Analysis also extends what is known about how citizens use mobile news to engage with increasingly personalized election campaigns. Results indicate that mobile election news use was a significant positive predictor of the odds of having voted and whether individuals used their mobile devices to make contributions during the campaign. These findings support arguments that the unique qualities of mobile devices are contributing to new and different pathways to political engagement while also retaining significance in relation to traditional forms of offline political participation.",
         "url": "https://doi.org/10.1177/2050157914550664",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157914530297",
+        "title": "Health benefits and barriers to cell phone use in low-income urban U.S. neighborhoods: Indications of technology maintenance",
+        "authors": [
+          "Amy L. Gonzales"
+        ],
+        "year": 2014,
+        "citation_count": 67,
+        "topics": [
+          "Digital divide",
+          "Health communication technology",
+          "Low-income communities",
+          "Mobile phone access"
+        ],
+        "abstract": "Little is known about the everyday health and safety benefits of cell phones for the U.S. poor, despite heightened risks of illness and exposure to crime for this population. Interviews with low-income, urban U.S. residents reveal that cell phones are an asset for psychological reassurance, crime prevention, and critical access to emergency help. At the same time findings reveal that these residents often have broken and disconnected cell phones that require constant upkeep, or technology maintenance. Reliance on second-hand, government, and no-contract phones ease cell phone ownership but also normalize intermittent disconnection leading to dependably instability. These findings demonstrate the extreme value of cell phone access for residents of poor neighborhoods, and at the same time indicate that disparities in cell phone access still persist and may be worsening.",
+        "url": "https://doi.org/10.1177/2050157914530297",
         "topics_llm": true
       },
       {
@@ -878,6 +897,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/2050157918770696",
+        "title": "Attached to dating apps: Attachment orientations and preferences for dating apps",
+        "authors": [
+          "Kristi Chin",
+          "Robin S. Edelstein",
+          "Philip A. Vernon"
+        ],
+        "year": 2018,
+        "citation_count": 63,
+        "topics": [
+          "Attachment theory",
+          "Dating apps",
+          "Online dating",
+          "User preferences"
+        ],
+        "abstract": "Our study examines attachment-related differences in the use of dating applications (dating apps). We collected online survey data regarding people’s attachment orientation and dating app preferences. People with a more anxious attachment orientation were more likely to report using dating apps than people lower in anxious attachment; people with a more avoidant attachment orientation were less likely to report using dating apps than people lower in avoidant attachment. Participants who used dating apps cited Tinder, OkCupid, and Plenty of Fish as those most commonly used. The most common reason people reported for using apps was to meet others, and the most common reason people reported for not using apps was difficulty trusting people online. Our findings suggest that individual differences in attachment may be relevant for understanding online behavior, and that dating apps might be a fruitful avenue for future research on attachment-related differences.",
+        "url": "https://doi.org/10.1177/2050157918770696",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/2050157917718601",
         "title": "“Mr Right Now”: Temporality of relationship formation on gay mobile dating apps",
         "authors": [
@@ -915,60 +954,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914550663",
-        "title": "Examining the influences of news use patterns, motivations, and age cohort on mobile news use: The case of Hong Kong",
+        "doi": "10.1177/2050157917722055",
+        "title": "“We’re not only here but we’re there in spirit”: Asymmetrical mobile intimacy and the transnational Filipino family",
         "authors": [
-          "Michael Chan"
+          "Earvin Charles Cabalquinto"
         ],
-        "year": 2015,
+        "year": 2017,
         "citation_count": 62,
         "topics": [
-          "Mobile news consumption",
-          "Multi-platform media use",
-          "News gratifications",
-          "Age cohort differences"
-        ],
-        "abstract": "Adopting perspectives from media displacement, complementary uses, and uses and gratifications theories, this study examines the relationships and dynamics between mobile news use and use of other mediums for accessing the news. Findings from a national sample in Hong Kong, which has among the highest mobile phone penetration rates in the world, found support for all perspectives. Those in the 18–34 and 35–54 cohorts were mostly multiplatform users of news, yet subgroup analyses reveal different patterns of complementary uses and displacement. Moreover, results showed that different gratifications predict mobile hard news use and mobile soft news use. Implications and future prospects for mobile news are discussed.",
-        "url": "https://doi.org/10.1177/2050157914550663",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157918770696",
-        "title": "Attached to dating apps: Attachment orientations and preferences for dating apps",
-        "authors": [
-          "Kristi Chin",
-          "Robin S. Edelstein",
-          "Philip A. Vernon"
-        ],
-        "year": 2018,
-        "citation_count": 62,
-        "topics": [
-          "Attachment theory",
-          "Dating apps",
-          "Online dating",
-          "User preferences"
-        ],
-        "abstract": "Our study examines attachment-related differences in the use of dating applications (dating apps). We collected online survey data regarding people’s attachment orientation and dating app preferences. People with a more anxious attachment orientation were more likely to report using dating apps than people lower in anxious attachment; people with a more avoidant attachment orientation were less likely to report using dating apps than people lower in avoidant attachment. Participants who used dating apps cited Tinder, OkCupid, and Plenty of Fish as those most commonly used. The most common reason people reported for using apps was to meet others, and the most common reason people reported for not using apps was difficulty trusting people online. Our findings suggest that individual differences in attachment may be relevant for understanding online behavior, and that dating apps might be a fruitful avenue for future research on attachment-related differences.",
-        "url": "https://doi.org/10.1177/2050157918770696",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157913513255",
-        "title": "The mobile phone in street protest: Texting, tweeting, tracking, and tracing",
-        "authors": [
-          "Christina Neumayer",
-          "Gitte Stald"
-        ],
-        "year": 2014,
-        "citation_count": 61,
-        "topics": [
+          "Transnational families",
           "Mobile communication",
-          "Street protest",
-          "Activism",
-          "Social movements"
+          "Digital intimacy",
+          "Migration"
         ],
-        "abstract": "This paper examines the role of information provision through mobile communication in mass street protest. The argument is based on two case studies: (a) the civic outrage of young people concerning the destruction of a youth centre in Copenhagen, Denmark in 2006 and (b) the use of mobile phones in antifascist protests in Dresden, Germany in 2011. The cases are analysed across three dimensions that are relevant to mobile communication tactics for providing information in protest: Actors, power relations between the actors, and goals. By identifying the affordances of the mobile phone for providing information across these dimensions, we argue that mobile communication can be appropriated to increase activists’ repertoire of actions, foster resistance, and shut down opportunities. The ways in which the affordances of mobile phones limit and empower resistance are located at the intersection of coordination, mobilisation, and the creation of counter narratives as well as of the surveillance and maintenance of existing power relations.",
-        "url": "https://doi.org/10.1177/2050157913513255",
+        "abstract": "Organising, performing, and experiencing festive family rituals sustain relationships among family members. However, in recent times, high levels of human migration alongside the rapid development of digital communication technologies are reconfiguring family traditions. This paper investigates the ways in which 21 overseas Filipino workers in Melbourne, Australia, and their left-behind family members in the Philippines use mobile devices and communications platforms to restage festive family rituals. Employing a visual method and drawing on in-depth interviews, the empirical study uncovers the personalised and heterogenous practices of the transnational Filipino family in performing intimacy at a distance, paving the way for constructing copresence during festivities. Importantly, using the mobilities lens (Urry, 2007) as a framework for critical investigation, the findings show that a disproportionate level of network capital as informed by age, gender, and social class produces “asymmetrical mobile intimacy.” The present study also reveals how ambivalent feelings emerge due to technological asymmetries and parameters. Importantly, transnational families often negotiate such contradictory experiences through mobile device use. By comparing and contrasting the mobile practices of dispersed family members, the present study uncovers the hidden social inequalities perpetuated in a networked family life.",
+        "url": "https://doi.org/10.1177/2050157917722055",
         "topics_llm": true
       }
     ],
@@ -1174,7 +1174,7 @@
           "Colleta Gandidzanwa"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Digital technology adoption",
           "Mobile technology",
@@ -1281,24 +1281,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/20501579261449047",
-        "title": "Reimagining Life With a Smartphone: A Creative Inquiry Into Women in Emerging Adulthood in Germany and Norway",
-        "authors": [
-          "Victoria A. E. Kratel"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Digital media",
-          "Smartphone use",
-          "Emerging adulthood",
-          "Utopian studies"
-        ],
-        "abstract": "In contrast to states and industries promoting continuous innovation, discourse around digital disconnection suggests that individuals increasingly seek a reduced presence of technology. Recognizing that ordinary people have limited opportunities to create and articulate their own visions of life with digital media, this study employs a creative inquiry with 20 women in emerging adulthood (ages 18 to 29) from Germany ( n = 10) and Norway ( n = 10). Specifically, participants reflected on the role a smartphone would play in an ideal world, expressing themselves through drawings, text, and bullet points. Employing utopian thought as the guiding framework, the data reveal both formative desires and perceptions of responsibility across three themes: (1) ideal self, reflecting a wish for greater self-discipline in personal use; (2) ideal technology, involving critiques of technological design and industry interests; and (3) ideal society, envisioning collective change toward reduced device use.",
-        "url": "https://doi.org/10.1177/20501579261449047",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/20501579261448864",
         "title": "Exploring the Impact of Maternal Modeling and Restrictive Mediation on Adolescents’ Short Video Use: Insights from Mother−Adolescent Dyads",
         "authors": [
@@ -1315,6 +1297,24 @@
         ],
         "abstract": "This study investigated the dual roles of mothers as models and regulators in influencing adolescents’ short video use (A-SVU). Using survey data from 7,509 Chinese mother−adolescent dyads, the study confirmed a positive modeling effect, demonstrating that maternal short video use significantly increased adolescent usage. Restrictive mediation, however, presented a more complex picture: general restrictive mediation showed an inverted U-shape relationship with A-SVU, while more specific restrictions were associated with reduced A-SVU. The style of restriction also mattered; applying restriction in an autonomy-supportive style decreased A-SVU, whereas controlling and inconsistent styles led to a counterproductive effect. Subsequent moderation analysis suggested that this boomerang effect was most pronounced when mothers used short videos infrequently but applied restrictions in a controlling manner. These findings were cross-validated by both adolescent-reported and mother-reported restrictive mediation, with adolescent-reported restrictive mediation serving as stronger predictors of A-SVU than mothers’ reports.",
         "url": "https://doi.org/10.1177/20501579261448864",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579261449047",
+        "title": "Reimagining Life With a Smartphone: A Creative Inquiry Into Women in Emerging Adulthood in Germany and Norway",
+        "authors": [
+          "Victoria A. E. Kratel"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Digital media",
+          "Smartphone use",
+          "Emerging adulthood",
+          "Utopian studies"
+        ],
+        "abstract": "In contrast to states and industries promoting continuous innovation, discourse around digital disconnection suggests that individuals increasingly seek a reduced presence of technology. Recognizing that ordinary people have limited opportunities to create and articulate their own visions of life with digital media, this study employs a creative inquiry with 20 women in emerging adulthood (ages 18 to 29) from Germany ( n = 10) and Norway ( n = 10). Specifically, participants reflected on the role a smartphone would play in an ideal world, expressing themselves through drawings, text, and bullet points. Employing utopian thought as the guiding framework, the data reveal both formative desires and perceptions of responsibility across three themes: (1) ideal self, reflecting a wish for greater self-discipline in personal use; (2) ideal technology, involving critiques of technological design and industry interests; and (3) ideal society, envisioning collective change toward reduced device use.",
+        "url": "https://doi.org/10.1177/20501579261449047",
         "topics_llm": true
       },
       {
@@ -1524,25 +1524,6 @@
         ],
         "abstract": "This study presents an exploratory approach to the analysis of social differences in smartphone use. Previous research has predominantly focused on problematic smartphone use and addiction. By contrast, this study turns to the research program of Pierre Bourdieu to forward a sociological study on social differences in how people use their smartphones. Using multiple correspondence analysis of Swedish survey data ( n = 2,401), the study explores the structure of the “space of smartphone use.” This space is characterized by two main oppositions: high vs. low volumes of smartphone use on the one hand, and degree of investment in legitimized uses on the other. While age and gender remain key factors in explaining how people position themselves in this space, we show that cultural capital, economic capital, and habitus shape these differences. Privileged social positions tend to “push” social agents toward more frequent and legitimized smartphone uses. Social inequalities shape smartphone uses, particularly among older generations.",
         "url": "https://doi.org/10.1177/20501579251406087",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251398570",
-        "title": "Mobile communication and later life: From theories to empirical frescoes",
-        "authors": [
-          "Mireia Fernández-Ardèvol",
-          "Sakari Taipale"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Mobile communication",
-          "Aging",
-          "Later life",
-          "Technology adoption"
-        ],
-        "abstract": "",
-        "url": "https://doi.org/10.1177/20501579251398570",
         "topics_llm": true
       },
       {
@@ -1874,7 +1855,7 @@
           "Chafic Tony Najem"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Carceral mobilities",
           "Smuggled mobile technologies",
@@ -1939,6 +1920,24 @@
         ],
         "abstract": "This study focuses on the emerging spatial media that are created by integrating Internet Protocol (IP) geolocation with social media in China. Using the concept of mediated spatiality, it analyzes how this new spatial media reshapes users' perception of space and reconstructs the norms of interaction on social media. The study takes Weibo, Zhihu, and Xiaohongshu as research sites, employing a combination of online field observation and textual analysis methods. The findings reveal that the intertwining of IP geolocation, physical, and claimed geographical information of posts complicates users' perception of digital geospatial space. The overlap and dislocation between IP geolocation and the claimed geographical information of posts are regarded as new standards for assessing and maintaining credibility. The consistency and conflict between IP geolocation and physical geographical information leads users to gradually form norms of civilized expression to mitigate regional conflicts and create new ways of perceiving, connecting, and expressing affects. This study contributes to understanding the construction of digital geospatial space surrounding emerging spatial media in a non-Western context.",
         "url": "https://doi.org/10.1177/20501579251356215",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579251352991",
+        "title": "A global sense of work place? rethinking the (dis)locality of digital nomads",
+        "authors": [
+          "Erika Polson"
+        ],
+        "year": 2025,
+        "citation_count": 3,
+        "topics": [
+          "Digital nomads",
+          "Remote work",
+          "Workplace culture",
+          "Geomedia and space"
+        ],
+        "abstract": "The growing ‘digital nomad’ movement flourishes amid concerns about the impacts of remote work on workplace culture. This ethnographic study combines a Massey-inspired perspective on space, place, and spatial divisions of labor with a geomedia lens to interpret digital nomad infrastructure as producing a ‘global sense of workplace’. By adopting this perspective, the nomadic lifestyle appears less as a radical departure by professionals from office/life and more as a spatial manifestation of digital labor in the context of neoliberal capitalism.",
+        "url": "https://doi.org/10.1177/20501579251352991",
         "topics_llm": true
       }
     ],
@@ -2007,6 +2006,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/20501579251326809",
+        "title": "Whatsapp Explorer : A data donation tool to facilitate research on WhatsApp",
+        "authors": [
+          "Kiran Garimella",
+          "Simon Chauchard"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "WhatsApp",
+          "Data donation",
+          "Misinformation research",
+          "Social media data collection"
+        ],
+        "abstract": "In recent years, reports have pointed at the influence of WhatsApp on a variety of outcomes, ranging from elections to collective violence. While academic research should examine the validity of these claims, obtaining WhatsApp data for research is notably challenging, contrasting with the relative abundance (at least until recently) of data from platforms such as Facebook and Twitter, in which the “information diet” of users has been extensively studied. This lack of data is particularly problematic because WhatsApp may be a powerful vehicle for misinformation and hate speech. To help make research on these questions, and more generally research on WhatsApp possible, this paper introduces Whatsapp Explorer , a tool designed to enable WhatsApp data collection on a large scale. We discuss protocols for data collection, including potential sampling approaches, and explain why our tool (and adjoining protocol) arguably allow researchers to collect WhatsApp data in an ethical and legal manner, at scale. Finally, we provide insights from our pilots in India and Brazil, including details on how much data we were able to collect, sampling challenges, and the path forward.",
+        "url": "https://doi.org/10.1177/20501579251326809",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/20501579251323246",
         "title": "A multifaceted nudge-based intervention to reduce smartphone use: Findings from a randomized cross-over trial",
         "authors": [
@@ -2024,25 +2042,6 @@
         ],
         "abstract": "The widespread use of smartphones has raised concerns about problematic usage behaviors, including excessive screentime and frequent phone checking, which can disrupt daily functioning. This study aimed to evaluate the effectiveness of a multifaceted nudge-based intervention in reducing smartphone use through subtle changes to smartphone settings. The intervention incorporated adjustments such as disabling face/touch ID, setting longer passwords, switching to grayscale mode, and removing social media apps from the home screen. A randomized within-subject cross-over trial with counterbalancing was conducted over a two-week period using a daily diary approach paired with objective smartphone usage data to track the impact of these interventions on both smartphone screentime and checking behavior. Multilevel modeling on 163 young adults with 1508 observations indicated that the intervention significantly reduced both screentime and checking frequency compared to the control condition. However, participants reported higher levels of stress during the intervention, potentially due to the frustration of partial restrictions without full disengagement from their smartphones. These findings highlight not only the potential of multifaceted nudges to reduce smartphone use but also the importance of carefully selecting and combining strategies to avoid unintended stress. This study provides a practical, cost-free and scalable foundation for refining smartphone interventions, contributing to the growing body of research on nudge-based strategies to promote healthier phone habits.",
         "url": "https://doi.org/10.1177/20501579251323246",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251326809",
-        "title": "Whatsapp Explorer : A data donation tool to facilitate research on WhatsApp",
-        "authors": [
-          "Kiran Garimella",
-          "Simon Chauchard"
-        ],
-        "year": 2025,
-        "citation_count": 6,
-        "topics": [
-          "WhatsApp",
-          "Data donation",
-          "Misinformation research",
-          "Social media data collection"
-        ],
-        "abstract": "In recent years, reports have pointed at the influence of WhatsApp on a variety of outcomes, ranging from elections to collective violence. While academic research should examine the validity of these claims, obtaining WhatsApp data for research is notably challenging, contrasting with the relative abundance (at least until recently) of data from platforms such as Facebook and Twitter, in which the “information diet” of users has been extensively studied. This lack of data is particularly problematic because WhatsApp may be a powerful vehicle for misinformation and hate speech. To help make research on these questions, and more generally research on WhatsApp possible, this paper introduces Whatsapp Explorer , a tool designed to enable WhatsApp data collection on a large scale. We discuss protocols for data collection, including potential sampling approaches, and explain why our tool (and adjoining protocol) arguably allow researchers to collect WhatsApp data in an ethical and legal manner, at scale. Finally, we provide insights from our pilots in India and Brazil, including details on how much data we were able to collect, sampling challenges, and the path forward.",
-        "url": "https://doi.org/10.1177/20501579251326809",
         "topics_llm": true
       }
     ]
