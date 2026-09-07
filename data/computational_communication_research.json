@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-08-31T12:46:14Z",
-  "trending_from": "2024-08-31",
+  "updated_at": "2026-09-07T11:38:34Z",
+  "trending_from": "2024-09-07",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 83,
+        "citation_count": 84,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -709,6 +709,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
+        "authors": [
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2023,
+        "citation_count": 9,
+        "topics": [
+          "Topic modeling",
+          "Validation methods",
+          "Model evaluation",
+          "Text analysis"
+        ],
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2021.2.001.calc",
         "title": "The Accuracy and Precision of Measurement",
         "authors": [
@@ -747,26 +767,6 @@
         ],
         "abstract": "The data-driven study of cultural information diffusion in online (social) media is currently an active area of research. The availability of data from the web thereby generates new opportunities to examine how words propagate through online media and communities, as well as how these diffusion patterns are intertwined with the materiality and culture of social media platforms. In support of such efforts, this paper introduces an online tool for tracking the consecutive occurrences of words across subreddits on Reddit between 2005 and 2017. By processing the full Pushshift.io Reddit comment archive for this period (Baumgartner et al., 2020), we are able to track the first occurrences of 76 million words, allowing us to visualize which subreddits subsequently adopt any of those words over time. We illustrate this approach by addressing the spread of terms referring to famous internet controversies, and the percolation of alt-right terminology. By making our instrument and the processed data publically available, we aim to facilitate a range of exploratory analyses in computational social science, the digital humanities, and related fields.",
         "url": "https://doi.org/10.5117/ccr2021.1.005.will",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "citation_count": 8,
-        "topics": [
-          "Topic modeling",
-          "Validation methods",
-          "Model evaluation",
-          "Text analysis"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern",
         "topics_llm": true
       },
       {
