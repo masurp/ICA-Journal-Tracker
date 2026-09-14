@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-09-07T11:38:34Z",
-  "trending_from": "2024-09-07",
+  "updated_at": "2026-09-14T11:52:35Z",
+  "trending_from": "2024-09-14",
   "sections": {
     "most_cited": [
       {
@@ -15,7 +15,7 @@
           "Daniel L. Oberski"
         ],
         "year": 2022,
-        "citation_count": 84,
+        "citation_count": 85,
         "topics": [
           "Privacy",
           "Digital trace data",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 62,
+        "citation_count": 63,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -81,7 +81,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 62,
+        "citation_count": 63,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -100,7 +100,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 56,
+        "citation_count": 57,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -1752,7 +1752,7 @@
           "Roland Tóth"
         ],
         "year": 2025,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Smartphone usage measurement",
           "Android event logs",
@@ -2067,6 +2067,26 @@
         "topics_llm": true
       }
     ],
-    "trending": []
+    "trending": [
+      {
+        "doi": "10.5117/ccr2025.1.8.parr",
+        "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
+        "authors": [
+          "Douglas A. Parry",
+          "Roland Tóth"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Smartphone usage measurement",
+          "Android event logs",
+          "Digital behavior tracking",
+          "Methodological analysis"
+        ],
+        "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling these data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics (sessions, glances, app episodes) from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, advancing knowledge of smartphone use patterns and their effects.",
+        "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
+        "topics_llm": true
+      }
+    ]
   }
 }

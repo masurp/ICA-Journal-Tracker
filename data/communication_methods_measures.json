@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-09-07T11:38:32Z",
-  "trending_from": "2024-09-07",
+  "updated_at": "2026-09-14T11:52:33Z",
+  "trending_from": "2024-09-14",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4233,
+        "citation_count": 4246,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2601,
+        "citation_count": 2620,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1864,
+        "citation_count": 1868,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1125,
+        "citation_count": 1131,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 924,
+        "citation_count": 932,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 837,
+        "citation_count": 841,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Myers"
         ],
         "year": 2011,
-        "citation_count": 459,
+        "citation_count": 460,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 455,
+        "citation_count": 456,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -186,7 +186,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 427,
+        "citation_count": 428,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 406,
+        "citation_count": 407,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth Benoit"
         ],
         "year": 2017,
-        "citation_count": 274,
+        "citation_count": 276,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -282,7 +282,7 @@
           "Peter Neijens"
         ],
         "year": 2016,
-        "citation_count": 231,
+        "citation_count": 232,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -291,6 +291,29 @@
         ],
         "abstract": "The measurement of how people are “exposed” to media content, which is crucial for the understanding of media use and effects, has been a challenge for a long time. Today’s media landscape, in which individuals are exposed to a diversity of messages anytime, anywhere, and from a great variety of sources on an increasing number of different media platforms, has complicated the measurement of media exposure even more. However, today’s digital media landscape also offers new possibilities to map media exposure by means of passive measurement. In this Introduction article to the special issue, we give an overview of the different ways in which media exposure is measured and the various issues associated with their applications. We conclude with a research agenda for issues that need to be tackled in future research and also introduce a research tool for media exposure measurement.",
         "url": "https://doi.org/10.1080/19312458.2016.1150441",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2018.1455817",
+        "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
+        "authors": [
+          "Elena Rudkowsky",
+          "Martin Haselmayer",
+          "Matthias Wastian",
+          "Marcelo Jenny",
+          "Štefan Emrich",
+          "Michael Sedlmair"
+        ],
+        "year": 2018,
+        "citation_count": 225,
+        "topics": [
+          "Sentiment analysis",
+          "Word embeddings",
+          "Machine learning",
+          "Political communication"
+        ],
+        "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
+        "url": "https://doi.org/10.1080/19312458.2018.1455817",
         "topics_llm": true
       },
       {
@@ -310,29 +333,6 @@
         ],
         "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
         "url": "https://doi.org/10.1080/19312458.2019.1639145",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2018.1455817",
-        "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
-        "authors": [
-          "Elena Rudkowsky",
-          "Martin Haselmayer",
-          "Matthias Wastian",
-          "Marcelo Jenny",
-          "Štefan Emrich",
-          "Michael Sedlmair"
-        ],
-        "year": 2018,
-        "citation_count": 224,
-        "topics": [
-          "Sentiment analysis",
-          "Word embeddings",
-          "Machine learning",
-          "Political communication"
-        ],
-        "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
-        "url": "https://doi.org/10.1080/19312458.2018.1455817",
         "topics_llm": true
       },
       {
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 198,
+        "citation_count": 199,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -407,7 +407,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 186,
+        "citation_count": 187,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 174,
+        "citation_count": 175,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -471,7 +471,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 169,
+        "citation_count": 170,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -587,7 +587,7 @@
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 133,
+        "citation_count": 135,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -667,7 +667,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 115,
+        "citation_count": 116,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -687,7 +687,7 @@
           "Elisia L. Cohen"
         ],
         "year": 2011,
-        "citation_count": 115,
+        "citation_count": 116,
         "topics": [
           "Content analysis",
           "Sampling methods",
@@ -719,6 +719,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2022.2109608",
+        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "authors": [
+          "Irene I. van Driel",
+          "Anastasia Giachanou",
+          "J. Loes Pouwels",
+          "Laura Boeschoten",
+          "Ine Beyens",
+          "Patti M. Valkenburg"
+        ],
+        "year": 2022,
+        "citation_count": 105,
+        "topics": [
+          "Data donations",
+          "Social media measurement",
+          "Digital data collection",
+          "Adolescent online behavior"
+        ],
+        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
+        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2012.732626",
         "title": "Contributing to Theory and Knowledge in Quantitative Communication Science",
         "authors": [
@@ -735,29 +758,6 @@
         ],
         "abstract": "We propose a framework for understanding how quantitative researchers typically seek to contribute to theory and generalizable knowledge in communication, noting some of the strengths and weaknesses of the various approaches typically used. The major approaches are described, and a content analysis of articles from four issues each of Journal of Communication, Human Communication Research, and Communication Research spanning parts of 2008 and 2009 provides information about their relative frequency of use in the field. We discuss how these categories can be employed by researchers when conceptualizing and articulating the theoretical contributions planned in their research and by reviewers, editors, and researchers in critically assessing such contributions in the work of others.",
         "url": "https://doi.org/10.1080/19312458.2012.732626",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2022.2109608",
-        "title": "Promises and Pitfalls of Social Media Data Donations",
-        "authors": [
-          "Irene I. van Driel",
-          "Anastasia Giachanou",
-          "J. Loes Pouwels",
-          "Laura Boeschoten",
-          "Ine Beyens",
-          "Patti M. Valkenburg"
-        ],
-        "year": 2022,
-        "citation_count": 104,
-        "topics": [
-          "Data donations",
-          "Social media measurement",
-          "Digital data collection",
-          "Adolescent online behavior"
-        ],
-        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
-        "url": "https://doi.org/10.1080/19312458.2022.2109608",
         "topics_llm": true
       },
       {
@@ -809,7 +809,7 @@
           "S. Shyam Sundar"
         ],
         "year": 2014,
-        "citation_count": 94,
+        "citation_count": 95,
         "topics": [
           "Heuristics",
           "Dual process models",
@@ -1086,7 +1086,7 @@
           "Lion Wedel"
         ],
         "year": 2026,
-        "citation_count": 3,
+        "citation_count": 4,
         "topics": [
           "Digital trace data",
           "Temporal dynamics",
@@ -1095,6 +1095,25 @@
         ],
         "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2026.2658505",
+        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
+        "authors": [
+          "Ulrich Schimmack",
+          "Marion Soto"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Publication bias",
+          "Research credibility",
+          "Statistical power",
+          "Replicability crisis"
+        ],
+        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
+        "url": "https://doi.org/10.1080/19312458.2026.2658505",
         "topics_llm": true
       },
       {
@@ -1125,7 +1144,7 @@
           "Sabine Trepte"
         ],
         "year": 2026,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Screen time perception",
           "Temporal experience",
@@ -1230,7 +1249,7 @@
           "Emese Domahidi"
         ],
         "year": 2025,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Large Language Models",
           "Incivility detection",
@@ -1318,7 +1337,7 @@
           "René Weber"
         ],
         "year": 2025,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Moral communication",
           "Crowdsourcing",
@@ -1465,7 +1484,7 @@
           "Kasper Welbers"
         ],
         "year": 2024,
-        "citation_count": 4,
+        "citation_count": 5,
         "topics": [
           "Language models",
           "Measurement validity",
@@ -1734,7 +1753,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 28,
+        "citation_count": 29,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1947,7 +1966,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2023,
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Persuasion",
           "Message effects",
@@ -2023,48 +2042,9 @@
         "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
         "url": "https://doi.org/10.1080/19312458.2023.2207005",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2183188",
-        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
-        "authors": [
-          "Kilian Buehling"
-        ],
-        "year": 2023,
-        "citation_count": 25,
-        "topics": [
-          "Social media data",
-          "Message deletion",
-          "Computational analysis",
-          "Data bias"
-        ],
-        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
-        "url": "https://doi.org/10.1080/19312458.2023.2183188",
-        "topics_llm": true
       }
     ],
     "trending": [
-      {
-        "doi": "10.1080/19312458.2024.2393165",
-        "title": "Uncovering Digital Trace Data Biases: Tracking Undercoverage in Web Tracking Data",
-        "authors": [
-          "Oriol J. Bosch",
-          "Patrick Sturgis",
-          "Jouni Kuha",
-          "Mélanie Revilla"
-        ],
-        "year": 2024,
-        "citation_count": 12,
-        "topics": [
-          "Digital trace data",
-          "Web tracking",
-          "Data bias",
-          "Undercoverage"
-        ],
-        "abstract": "Digital trace data is an increasingly popular alternative to surveys, often considered as the gold standard. This study critically assesses the use of web tracking data to study online media exposure. Specifically, we focus on a critical error source of this type of data, tracking undercoverage: researchers’ failure to capture data from all the devices and browsers that individuals utilize to go online. Using data from Spain, Portugal, and Italy, we explore undercoverage in online panels and simulate biases in online media exposure estimates. We show that undercoverage is highly prevalent when using commercial panels, with more than 70% of participants affected. Additionally, the primary determinant of undercoverage is the type and number of devices used, rather than individual’s characteristics. Moreover, through a simulation study, we demonstrate that web tracking estimates are often substantially biased. Methodologically, the paper showcases how auxiliary survey data can help study web tracking errors.",
-        "url": "https://doi.org/10.1080/19312458.2024.2393165",
-        "topics_llm": true
-      },
       {
         "doi": "10.1080/19312458.2025.2482538",
         "title": "Beyond time delays: how web scraping distorts measures of online news consumption",
@@ -2106,6 +2086,51 @@
         ],
         "abstract": "This paper demonstrates the performance of the Joint Sentiment Topic model (JST) and the reversed Joint Sentiment Topic model (rJST) in measuring sentiment in political speeches, comparing them against a set of popular methods for sentiment analysis: widely used off-the-shelf sentiment dictionaries; an embeddings-enhanced dictionary approach; Latent Semantic Scaling, a semi-supervised approach; and a zero-shot transformer-based approach using a large language model (GPT-4). The findings reveal JST’s superiority over all non-transformer-based approaches in predicting human-coded sentiment in multiple languages and its ability to replicate known sentiment trends in legislative speech. rJST, meanwhile, provides valuable topic-specific sentiment estimates, responsive to political dynamics and significant events. Both models are, however, outperformed by transformer-based models like GPT-4. Additionally, the paper introduces the ’sentitopics’ R-package, designed to facilitate the use of JST and rJST in computational text analysis workflows. This package is compatible with popular text analysis tools, making the models accessible for applied researchers in communication science.",
         "url": "https://doi.org/10.1080/19312458.2024.2383453",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2025.2551693",
+        "title": "Classification bias of LLMs in detecting incivility towards female and male politicians in German social media discourse",
+        "authors": [
+          "Anke Stoll",
+          "Jingyuan Yu",
+          "Aliya Andrich",
+          "Emese Domahidi"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Large Language Models",
+          "Incivility detection",
+          "Gender bias",
+          "Social media analysis"
+        ],
+        "abstract": "This study explores potential biases in current language models for detecting different forms of incivility in online discussions. Our work builds on prior research demonstrating that numerous classification approaches disproportionately focus on overt forms of uncivil language, while more subtle forms of incivility remain underrecognized. Such classification bias may lead to the unfair treatment of social groups that are more frequently targeted by implicit forms of incivility in online debates, such as stereotyping and discrimination, including, for instance, female politicians. On a dataset of 24,681 user comments from YouTube and X, we evaluate state-of-the-art language models including BERT, GPT-4, and Meta Llama 3, for their ability to reliably identify different subtypes of incivility directed at female and male politicians, combining comparative performance evaluation and in-depth error analysis. Our results suggest that stereotyping and discriminatory comments are less reliably classified across all models and learning strategies than, for example, vulgar language and insults, indicating a continued risk of bias toward overt forms of incivility in modern language models. As a result, incivility directed at social groups that are more frequently targeted with stereotyping and discrimination may remain underdetected. With this study, we aim to offer valuable implications for the use of current language models in both incivility research and online moderation, supporting the development of more transparent and fairer artificial intelligence grounded in democratic principles.",
+        "url": "https://doi.org/10.1080/19312458.2025.2551693",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2025.2500329",
+        "title": "The Extended Morality as Cooperation Dictionary (eMACD): A Crowd-Sourced Approach via the Moral Narrative Analyzer Platform",
+        "authors": [
+          "Musa Malik",
+          "Sungbin Youk",
+          "Frederic R. Hopp",
+          "Oliver Scott Curry",
+          "Marc Cheong",
+          "Mark Alfano",
+          "René Weber"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Moral communication",
+          "Crowdsourcing",
+          "Narrative analysis",
+          "Digital methodology"
+        ],
+        "abstract": "What is the prevalence of moral themes in textual corpora? Most previous moral mining research has been informed by Moral Foundations Theory (MFT). Here, we develop and evaluate an alternative moral mining tool based on the theory of Morality as Cooperation (MAC), using crowd-sourced annotations and the web-based hybrid content annotation platform, the Moral Narrative Analyzer (MoNA). We compare the empirical performance of the extended Morality as Cooperation Dictionary (eMACD) with previous dictionaries, including the extended Moral Foundations Dictionary (eMFD), across ten validation analyses, encompassing diverse corpora that include news media, journal entries, presidential speeches, social media, and movies. We find that eMACD outperforms previous dictionaries in most cases. We conclude that eMACD is an important addition to the methodological toolkit of researchers examining moral content in textual data, and we provide eMACDscore – a Python-based moral mining tool – to facilitate future research.",
+        "url": "https://doi.org/10.1080/19312458.2025.2500329",
         "topics_llm": true
       },
       {
