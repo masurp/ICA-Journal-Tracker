@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-09-14T11:52:35Z",
-  "trending_from": "2024-09-14",
+  "updated_at": "2026-09-21T12:03:48Z",
+  "trending_from": "2024-09-21",
   "sections": {
     "most_cited": [
       {
@@ -262,7 +262,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2022,
-        "citation_count": 23,
+        "citation_count": 24,
         "topics": [
           "Topic modeling",
           "Frame analysis",
@@ -292,6 +292,27 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2022.1.003.chen",
+        "title": "Visual Framing of Science Conspiracy Videos",
+        "authors": [
+          "Kaiping Chen",
+          "Sang Jung Kim",
+          "Qiantong Gao",
+          "Sebastian Raschka"
+        ],
+        "year": 2022,
+        "citation_count": 21,
+        "topics": [
+          "Visual framing",
+          "Science conspiracy",
+          "YouTube videos",
+          "Computational analysis"
+        ],
+        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
+        "url": "https://doi.org/10.5117/ccr2022.1.003.chen",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2020.1.003.loec",
         "title": "3bij3 – Developing a framework for researching recommender systems and their effects",
         "authors": [
@@ -308,27 +329,6 @@
         ],
         "abstract": "Today’s online news environment is increasingly characterized by personalized news selections, relying on algorithmic solutions for extracting relevant articles and composing an individual’s news diet. Yet, the impact of such recommendation algorithms on how we consume and perceive news is still understudied. We therefore developed one of the first software solutions to conduct studies on effects of news recommender systems in a realistic setting. The web app of our framework (called 3bij3) displays real-time news articles selected by different mechanisms. 3bij3 can be used to conduct large-scale field experiments, in which participants’ use of the site can be tracked over extended periods of time. Compared to previous work, 3bij3 gives researchers control over the recommendation system under study and creates a realistic environment for the participants. It integrates web scraping, different methods to compare and classify news articles, different recommender systems, a web interface for participants, gamification elements, and a user survey to enrich the behavioural measures obtained.",
         "url": "https://doi.org/10.5117/ccr2020.1.003.loec",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.1.003.chen",
-        "title": "Visual Framing of Science Conspiracy Videos",
-        "authors": [
-          "Kaiping Chen",
-          "Sang Jung Kim",
-          "Qiantong Gao",
-          "Sebastian Raschka"
-        ],
-        "year": 2022,
-        "citation_count": 20,
-        "topics": [
-          "Visual framing",
-          "Science conspiracy",
-          "YouTube videos",
-          "Computational analysis"
-        ],
-        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
-        "url": "https://doi.org/10.5117/ccr2022.1.003.chen",
         "topics_llm": true
       },
       {
@@ -459,6 +459,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.2.lich",
+        "title": "Going cross-lingual: A guide to multilingual text analysis",
+        "authors": [
+          "Hauke Licht",
+          "Fabienne Lind"
+        ],
+        "year": 2023,
+        "citation_count": 16,
+        "topics": [
+          "Multilingual text analysis",
+          "Computational text methods",
+          "Comparative political communication",
+          "Natural language processing"
+        ],
+        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
+        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2022.1.007.neum",
         "title": "Body Language and Gender Stereotypes in Campaign Video",
         "authors": [
@@ -495,25 +514,6 @@
         ],
         "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
         "url": "https://doi.org/10.5117/ccr2024.2.2.hase",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.2.lich",
-        "title": "Going cross-lingual: A guide to multilingual text analysis",
-        "authors": [
-          "Hauke Licht",
-          "Fabienne Lind"
-        ],
-        "year": 2023,
-        "citation_count": 14,
-        "topics": [
-          "Multilingual text analysis",
-          "Computational text methods",
-          "Comparative political communication",
-          "Natural language processing"
-        ],
-        "abstract": "Text-as-data methods have revolutionized the study of political behavior and communication, and the increasing availability of multilingual text collections promises exciting new applications of these methods in comparative research. To encourage researchers to seize these opportunities, we provide a guide to multilingual quantitative text analysis. Responding to the unique challenges research faces in multilingual analysis, we provide a systematic overview of multilingual text analysis methods developed for political and communication science research. To structure this overview, we distinguish between separate analysis, input alignment, and anchoring approaches to cross-lingual text analysis. We then compare these approaches’ resource intensiveness and discuss the strategies they offer for approaching measurement equivalence. We argue that to ensure valid measurement across languages and contexts, researchers should reflect on these aspects when choosing between approaches. We conclude with an outlook on future directions for method development and potential fields of applications. Overall, our contribution helps political and communication scientists to navigate the field of multilingual text analysis and gives impulses for their wider adoption and further development.",
-        "url": "https://doi.org/10.5117/ccr2023.2.2.lich",
         "topics_llm": true
       },
       {
@@ -1028,6 +1028,45 @@
     ],
     "latest": [
       {
+        "doi": "10.5117/ccr2026.2.12.wang",
+        "title": "Beyond Keywords: Comparing LLM-Assisted Topic Modeling Approaches Across Political Communication Contexts",
+        "authors": [
+          "Ryan Yang Wang",
+          "Catherine Chen"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Topic modeling",
+          "Large language models",
+          "Political communication",
+          "Text analysis"
+        ],
+        "abstract": "This study provides a comprehensive evaluation of large language model (LLM)-assisted topic modeling across diverse political communication datasets, proposing a conceptual distinction between topic categorization (manifest subject mapping) and concept induction (latent construct discovery). We compare four methods, LDA, BERTopic, TopicGPT, and LLooM paired with four proprietary LLMs and one open-weights model across social media posts, party platforms, and legislative bills. Using a multi-dimensional framework of alignment, coherence, diversity, and human interpretability, we find that TopicGPT excels at high-precision topic categorization, achieving peak semantic alignment especially in structured policy contexts. Conversely, LLooM functions as a powerful tool for concept induction; although it may diverge from manifest ground-truth labels, it frequently demonstrates stronger text-topic relevance by capturing latent discursive logics that deductive approaches may overlook. Our findings further reveal that GPT-family models generally mitigate semantic vagueness, whereas the open-weights model shows a distinctive capacity for thematic diversity and performs competitively in some alignment settings, though its performance varies across contexts. Human annotation uncovers a semantic compression loss, where models identify rich latent themes but struggle to condense them into concise labels, highlighting the persistent need for human interpretive oversight. We conclude by offering an epistemological and practical framework to guide communication scholars in selecting GenAI-assisted methods that align with their theoretical level of meaning.",
+        "url": "https://doi.org/10.5117/ccr2026.2.12.wang",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2026.2.10.pill",
+        "title": "Leveraging Survey-Informed LLM Personas to Identify Cultural References : Enhancing Inclusivity in News Reporting",
+        "authors": [
+          "Reshmi Pillai",
+          "Antske Fokkens",
+          "Wouter van Atteveldt"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "LLM personas",
+          "News accessibility",
+          "Cultural inclusivity",
+          "Audience diversity"
+        ],
+        "abstract": "With increasingly mobile and diverse audiences, newsrooms worldwide face the growing challenge of addressing the needs of, and fostering meaningful connections with, a wide range of audience segments. We explore the possibility of using LLM personas to support inclusivity in news writing by identifying cultural references in news reports which pose challenges for non-native news readers. We design and implement a pipeline for building and evaluating persona of specific groups (international students, knowledge workers and non-knowledge workers) within non-native news readers in two modes: (1) minimal demographics (occupation, age) and (2) demographics plus survey-derived information. The results demonstrate that persona-driven prompting can support inclusivity in journalism, albeit with certain limitations. Qualitative evaluation showed reasonable alignment between LLM outputs prompted with the same persona, and improvement in LLM performance with additional prompt inputs based on survey data. The present results show, for the first time, empirical analysis of the application of LLM personas in identifying cultural references. Our approach can be useful for journalists to receive regular and on-the-go feedback on culturally complex references, which might require simplification or additional explanation, thus making news reports better accessible for diverse audience.",
+        "url": "https://doi.org/10.5117/ccr2026.2.10.pill",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2026.1.11.henr",
         "title": "Do Generative Large Language Models Close the Language Gap in Multilingual Discourse Classification? An Evaluation Across Three European Languages",
         "authors": [
@@ -1070,26 +1109,6 @@
         ],
         "abstract": "This study examines how emotions and visuals interact to shape networked affective publics during the 2024 South Korean martial law crisis. Based on our multimodal dataset of 61,459 tweets that include 94,615 images, we applied emotion classification and image categorization, alongside social network analysis, to analyze how textual emotions and protest images mobilize user engagement within the affective publics. Results show that interaction networks associated with Angry and Sad emotions were larger in size, whereas Fear networks exhibited higher degree centralization and density; by contrast, Happy and Tender networks were smaller and less centralized. Among multimodal tweets, textual emotion was significantly associated with image category, with negative emotions most frequently expressed through human-centric images, but positive emotions exhibited more balanced visual strategies. Happy emotional expression consistently predicted higher user engagement, while human-centric imagery boosted replies and likes, and text-based visuals more effectively drove retweets. The study advances the affective publics theory by integrating emotional, visual, and structural dimensions, offering insights into how multimodal strategies fuel digital activism.",
         "url": "https://doi.org/10.5117/ccr2026.3.3.wang",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2026.2.10.pill",
-        "title": "Leveraging Survey-Informed LLM Personas to Identify Cultural References : Enhancing Inclusivity in News Reporting",
-        "authors": [
-          "Reshmi Pillai",
-          "Antske Fokkens",
-          "Wouter van Atteveldt"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "LLM personas",
-          "News accessibility",
-          "Cultural inclusivity",
-          "Audience diversity"
-        ],
-        "abstract": "With increasingly mobile and diverse audiences, newsrooms worldwide face the growing challenge of addressing the needs of, and fostering meaningful connections with, a wide range of audience segments. We explore the possibility of using LLM personas to support inclusivity in news writing by identifying cultural references in news reports which pose challenges for non-native news readers. We design and implement a pipeline for building and evaluating persona of specific groups (international students, knowledge workers and non-knowledge workers) within non-native news readers in two modes: (1) minimal demographics (occupation, age) and (2) demographics plus survey-derived information. The results demonstrate that persona-driven prompting can support inclusivity in journalism, albeit with certain limitations. Qualitative evaluation showed reasonable alignment between LLM outputs prompted with the same persona, and improvement in LLM performance with additional prompt inputs based on survey data. The present results show, for the first time, empirical analysis of the application of LLM personas in identifying cultural references. Our approach can be useful for journalists to receive regular and on-the-go feedback on culturally complex references, which might require simplification or additional explanation, thus making news reports better accessible for diverse audience.",
-        "url": "https://doi.org/10.5117/ccr2026.2.10.pill",
         "topics_llm": true
       },
       {
@@ -1535,7 +1554,7 @@
           "Jakob Ohme"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Data donation",
           "Social media platforms",
@@ -2043,27 +2062,6 @@
         ],
         "abstract": "The collection of data donations holds great potential for making digital trace data accessible to communication research. However, a major challenge is the recruitment of participants who are willing to donate their data for research. Hence, this research report presents our experiences with different strategies used in one study to recruit citizens to donate their personal media usage data. Based on our experiences during a data donation study in which Google Search and YouTube usage histories were collected, we compare three different online recruitment channels—(a) an access panel, (b) social media advertisements, and (c) a data marketplace—in terms of five dimensions: (1) administrative effort, (2) setup effort, (3) participation rate, (4) costs, and (5) analytical considerations. Overall, participation rates were rather low across all recruitment channels. Nevertheless, access panels remain a viable option for recruiting data donors even if significantly lower response rates must be expected compared to survey studies. Furthermore, we see potential in recruiting data donors through online advertisements, especially if they can be targeted through mobile ads. By contrast, our experience with the data marketplace was discouraging.",
         "url": "https://doi.org/10.5117/ccr2024.2.8.pfif",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "citation_count": 11,
-        "topics": [
-          "Data donation",
-          "Media consumption measurement",
-          "Digital trace data",
-          "Research methodology"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb",
         "topics_llm": true
       }
     ],

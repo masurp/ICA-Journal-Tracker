@@ -1,7 +1,7 @@
 {
   "journal_id": "journalism_sage",
-  "updated_at": "2026-09-14T11:52:53Z",
-  "trending_from": "2024-09-14",
+  "updated_at": "2026-09-21T12:04:03Z",
+  "trending_from": "2024-09-21",
   "sections": {
     "most_cited": [
       {
@@ -11,7 +11,7 @@
           "Mark Deuze"
         ],
         "year": 2005,
-        "citation_count": 1751,
+        "citation_count": 1754,
         "topics": [
           "Professional identity",
           "Journalism ideology",
@@ -29,7 +29,7 @@
           "Michael Schudson"
         ],
         "year": 2001,
-        "citation_count": 1131,
+        "citation_count": 1134,
         "topics": [
           "Journalistic objectivity",
           "Professional norms",
@@ -48,7 +48,7 @@
           "Tamara Witschge"
         ],
         "year": 2017,
-        "citation_count": 594,
+        "citation_count": 599,
         "topics": [
           "Journalism studies",
           "Professional transformation",
@@ -86,7 +86,7 @@
           "Jane B. Singer"
         ],
         "year": 2005,
-        "citation_count": 527,
+        "citation_count": 528,
         "topics": [
           "Political blogging",
           "Journalistic norms",
@@ -106,7 +106,7 @@
           "James Stanyer"
         ],
         "year": 2011,
-        "citation_count": 507,
+        "citation_count": 508,
         "topics": [
           "Political personalization",
           "News coverage",
@@ -125,7 +125,7 @@
           "Tim P. Vos"
         ],
         "year": 2016,
-        "citation_count": 484,
+        "citation_count": 485,
         "topics": [
           "Journalistic roles",
           "Non-democratic contexts",
@@ -143,7 +143,7 @@
           "C. W. Anderson"
         ],
         "year": 2011,
-        "citation_count": 479,
+        "citation_count": 481,
         "topics": [
           "Audience measurement",
           "Digital journalism",
@@ -199,7 +199,7 @@
           "Pablo J. Boczkowski"
         ],
         "year": 2009,
-        "citation_count": 381,
+        "citation_count": 383,
         "topics": [
           "Online news media",
           "Journalism practices",
@@ -317,7 +317,7 @@
           "Hans‐Bernd Brosius"
         ],
         "year": 2016,
-        "citation_count": 307,
+        "citation_count": 308,
         "topics": [
           "Automated journalism",
           "Source credibility",
@@ -335,7 +335,7 @@
           "Karin Wahl‐Jorgensen"
         ],
         "year": 2012,
-        "citation_count": 300,
+        "citation_count": 301,
         "topics": [
           "Journalism",
           "Emotionality",
@@ -353,7 +353,7 @@
           "Jane B. Singer"
         ],
         "year": 2003,
-        "citation_count": 295,
+        "citation_count": 297,
         "topics": [
           "Professional identity",
           "Online journalism",
@@ -373,7 +373,7 @@
           "Rosa Berganza"
         ],
         "year": 2011,
-        "citation_count": 287,
+        "citation_count": 289,
         "topics": [
           "Political news",
           "Negativity bias",
@@ -465,7 +465,7 @@
           "Matthew C. Nisbet"
         ],
         "year": 2011,
-        "citation_count": 243,
+        "citation_count": 244,
         "topics": [
           "Science journalism",
           "Online media",
@@ -485,7 +485,7 @@
           "Xosé López García"
         ],
         "year": 2020,
-        "citation_count": 240,
+        "citation_count": 241,
         "topics": [
           "TikTok",
           "News media adaptation",
@@ -506,7 +506,7 @@
           "Jaekwan Jeong"
         ],
         "year": 2007,
-        "citation_count": 237,
+        "citation_count": 238,
         "topics": [
           "Blogging",
           "Citizen journalism",
@@ -554,6 +554,23 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/1464884910388224",
+        "title": "Emotion aside or emotional side? Crafting an ‘experience of involvement’ in the news",
+        "authors": [
+          "Chris Peters"
+        ],
+        "year": 2011,
+        "citation_count": 225,
+        "topics": [
+          "Emotion in journalism",
+          "News production",
+          "Audience engagement"
+        ],
+        "abstract": "In relation to journalism, the concept of ‘emotion’ is consistently undertheorized. Employed with commonsensical discernment, it is conflated with tabloid practices, sensationalism, bias, commercialization, and the like. Consequently, when discussed, emotion is often treated dismissively; a marker of unprincipled and flawed journalism. Yet hard, self-styled objective, ‘just the facts’ journalism is not unemotional, just as soft, so-called tabloid news is not irrational. For authors who study the sociology of emotions note, emotion has a social component and can more broadly be conceptualized as the experience of involvement. This article utilizes this understanding to interrogate traditional news dichotomies before applying this perspective to consider non-valorized news alternatives. One significant change over the past few decades is not that the news has become emotional (indeed, it has always been); rather, the diversity of emotional styles, the acceptability of journalistic involvement, and attempts to involve the audience have become more explicit.",
+        "url": "https://doi.org/10.1177/1464884910388224",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884910388223",
         "title": "The immediacy of online news, the visibility of journalistic processes and a restructuring of journalistic authority",
         "authors": [
@@ -578,7 +595,7 @@
           "Henrik Örnebring"
         ],
         "year": 2010,
-        "citation_count": 224,
+        "citation_count": 225,
         "topics": [
           "Journalism",
           "Technology and labour",
@@ -590,20 +607,25 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/1464884910388224",
-        "title": "Emotion aside or emotional side? Crafting an ‘experience of involvement’ in the news",
+        "doi": "10.1177/1464884915595474",
+        "title": "News selection criteria in the digital age: Professional norms versus online audience metrics",
         "authors": [
-          "Chris Peters"
+          "Kasper Welbers",
+          "Wouter van Atteveldt",
+          "Jan Kleinnijenhuis",
+          "Nel Ruigrok",
+          "Joep Schaper"
         ],
-        "year": 2011,
-        "citation_count": 223,
+        "year": 2015,
+        "citation_count": 220,
         "topics": [
-          "Emotion in journalism",
-          "News production",
-          "Audience engagement"
+          "News selection",
+          "Audience metrics",
+          "Digital journalism",
+          "Professional norms"
         ],
-        "abstract": "In relation to journalism, the concept of ‘emotion’ is consistently undertheorized. Employed with commonsensical discernment, it is conflated with tabloid practices, sensationalism, bias, commercialization, and the like. Consequently, when discussed, emotion is often treated dismissively; a marker of unprincipled and flawed journalism. Yet hard, self-styled objective, ‘just the facts’ journalism is not unemotional, just as soft, so-called tabloid news is not irrational. For authors who study the sociology of emotions note, emotion has a social component and can more broadly be conceptualized as the experience of involvement. This article utilizes this understanding to interrogate traditional news dichotomies before applying this perspective to consider non-valorized news alternatives. One significant change over the past few decades is not that the news has become emotional (indeed, it has always been); rather, the diversity of emotional styles, the acceptability of journalistic involvement, and attempts to involve the audience have become more explicit.",
-        "url": "https://doi.org/10.1177/1464884910388224",
+        "abstract": "On newspaper websites, journalists can observe the preferences of the audience in unprecedented detail and for low costs, based on the audience clicks (i.e. page views) for specific news articles. This article addresses whether journalists use this information to cater to audience preferences in their news selection choices. We analyzed the print and online editions of five national newspapers from the Netherlands with a mixed-method approach. Using a cross-lagged analysis covering 6 months, we found that storylines of the most-viewed articles were more likely to receive attention in subsequent reporting, which indicates that audience clicks affect news selection. However, based on interviews with editors we found that they consider the use of this information for news selection to conflict with professional norms. We elaborate on the implications of this discrepancy in the norms and behaviors of journalists, and project directions for future studies.",
+        "url": "https://doi.org/10.1177/1464884915595474",
         "topics_llm": true
       },
       {
@@ -624,28 +646,6 @@
         ],
         "abstract": "Claims by political and news elites about the influence of visual images are far more common than actual evidence of such effects. This research attempts to gain insight into the ‘power’ of visual images, specifically those that accompany lexical–verbal messages in the press. We argue that the widely held notion that vivid images often drive public opinion is overly simplistic; in contrast, we posit that images most often interact with individuals' existing understandings of the world to shape information processing and judgments. With this in mind, we conducted an experiment in which news coverage was systematically altered – as including a famous photograph widely attributed great influence, or not – within otherwise constant information environments. Findings suggest that visual news images (a) influence people's information processing in ways that can be understood only by taking into account individuals' predispositions and values, and (b) at the same time appear to have a particular ability to ‘trigger’ considerations that spread through one's mental framework to other evaluations.",
         "url": "https://doi.org/10.1177/146488490200300211",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/1464884915595474",
-        "title": "News selection criteria in the digital age: Professional norms versus online audience metrics",
-        "authors": [
-          "Kasper Welbers",
-          "Wouter van Atteveldt",
-          "Jan Kleinnijenhuis",
-          "Nel Ruigrok",
-          "Joep Schaper"
-        ],
-        "year": 2015,
-        "citation_count": 219,
-        "topics": [
-          "News selection",
-          "Audience metrics",
-          "Digital journalism",
-          "Professional norms"
-        ],
-        "abstract": "On newspaper websites, journalists can observe the preferences of the audience in unprecedented detail and for low costs, based on the audience clicks (i.e. page views) for specific news articles. This article addresses whether journalists use this information to cater to audience preferences in their news selection choices. We analyzed the print and online editions of five national newspapers from the Netherlands with a mixed-method approach. Using a cross-lagged analysis covering 6 months, we found that storylines of the most-viewed articles were more likely to receive attention in subsequent reporting, which indicates that audience clicks affect news selection. However, based on interviews with editors we found that they consider the use of this information for news selection to conflict with professional norms. We elaborate on the implications of this discrepancy in the norms and behaviors of journalists, and project directions for future studies.",
-        "url": "https://doi.org/10.1177/1464884915595474",
         "topics_llm": true
       },
       {
@@ -692,7 +692,7 @@
           "Mats Ekström"
         ],
         "year": 2002,
-        "citation_count": 212,
+        "citation_count": 213,
         "topics": [
           "Television journalism",
           "Epistemology",
@@ -701,6 +701,24 @@
         ],
         "abstract": "This article sketches a theoretical framework for studies of the epistemologies of journalism. In this context epistemology does not refer to philosophical inquiries into the nature of true knowledge but to the study of knowledge-producing practices and communication of knowledge claims. The focus in the article is mainly on TV journalism. The theoretical framework distinguishes three fundamental areas and three main questions for research on the epistemologies of journalism: (1) form of knowledge (What are the characteristics of the knowledge that television journalism produces and offers its audiences?); (2) production of knowledge (What rules, routines, institutionalized procedures and systems of classification guide the production of knowledge and how do journalists decide what is sufficiently true and authoritative?); and (3) public acceptance of knowledge claims (What conditions are decisive for the public's acceptance or rejection of the knowledge claims of television journalism?). The article develops the framework by way of theoretical conceptualizations and empirical illustrations from concrete forms of TV journalism.",
         "url": "https://doi.org/10.1177/146488490200300301",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/1464884904044201",
+        "title": "Picturing America’s ‘War on Terrorism’ in Afghanistan and Iraq",
+        "authors": [
+          "Michael J. Griffin"
+        ],
+        "year": 2004,
+        "citation_count": 211,
+        "topics": [
+          "War on Terrorism",
+          "Visual framing",
+          "News photography",
+          "Media discourse"
+        ],
+        "abstract": "Following research on depictions of the Persian Gulf War of 1991, this article discusses the nature of US news-magazine photo coverage of the ‘War on Terrorism’ in Afghanistan and the military invasion of Iraq. The analysis suggests that news-magazine photographs primarily serve established narrative themes within official discourse: that published photographs most often offer prompts for prevailing government versions of events and rarely contribute independent, new or unique visual information. Despite claims of ‘live’ and spontaneous coverage, photographs from Afghanistan and Iraq, like those from the Gulf War in 1991, are characterized by a narrow range of predictable, recurrent motifs. Repetitive images of the mustering and deployment of the American military arsenal overshadow any fuller or more complex range of depiction. And when dominant news narratives, such as the fall of the Taliban or the fall of Baghdad, come to a close, photographic coverage of continuing events in Afghanistan and Iraq falls off sharply.",
+        "url": "https://doi.org/10.1177/1464884904044201",
         "topics_llm": true
       },
       {
@@ -722,31 +740,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/1464884904044201",
-        "title": "Picturing America’s ‘War on Terrorism’ in Afghanistan and Iraq",
-        "authors": [
-          "Michael J. Griffin"
-        ],
-        "year": 2004,
-        "citation_count": 210,
-        "topics": [
-          "War on Terrorism",
-          "Visual framing",
-          "News photography",
-          "Media discourse"
-        ],
-        "abstract": "Following research on depictions of the Persian Gulf War of 1991, this article discusses the nature of US news-magazine photo coverage of the ‘War on Terrorism’ in Afghanistan and the military invasion of Iraq. The analysis suggests that news-magazine photographs primarily serve established narrative themes within official discourse: that published photographs most often offer prompts for prevailing government versions of events and rarely contribute independent, new or unique visual information. Despite claims of ‘live’ and spontaneous coverage, photographs from Afghanistan and Iraq, like those from the Gulf War in 1991, are characterized by a narrow range of predictable, recurrent motifs. Repetitive images of the mustering and deployment of the American military arsenal overshadow any fuller or more complex range of depiction. And when dominant news narratives, such as the fall of the Taliban or the fall of Baghdad, come to a close, photographic coverage of continuing events in Afghanistan and Iraq falls off sharply.",
-        "url": "https://doi.org/10.1177/1464884904044201",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/1464884914545441",
         "title": "When news sites go native: Redefining the advertising–editorial divide in response to native advertising",
         "authors": [
           "Matt Carlson"
         ],
         "year": 2014,
-        "citation_count": 208,
+        "citation_count": 210,
         "topics": [
           "Native advertising",
           "Editorial-advertising divide",
@@ -765,7 +765,7 @@
           "Eric Jenner"
         ],
         "year": 2004,
-        "citation_count": 208,
+        "citation_count": 209,
         "topics": [
           "Foreign correspondence",
           "News coverage",
@@ -813,6 +813,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/1464884918802975",
+        "title": "Twitter’s influence on news judgment: An experiment among journalists",
+        "authors": [
+          "Shannon C. McGregor",
+          "Logan Molyneux"
+        ],
+        "year": 2018,
+        "citation_count": 197,
+        "topics": [
+          "Twitter",
+          "News judgment",
+          "Journalism",
+          "Social media influence"
+        ],
+        "abstract": "The literature suggests that journalists give a substantial amount of attention to Twitter and use the platform widely, but the impact of that use on news judgment has not been assessed. We hypothesize that Twitter affects journalists’ news judgment, impacting coverage decisions. To test this, we conducted an online survey experiment on working US journalists ( N = 212). We find that journalists who use Twitter less in their work discount news they see on the platform, potentially causing them to dismiss information that many of their colleagues identify as newsworthy. Our results also indicate that the routinization of Twitter into news production affects news judgment – for journalists who incorporate Twitter into their reporting routines, and those with fewer years of experience, Twitter has become so normalized that tweets were deemed equally newsworthy as headlines appearing to be from the AP wire. This may have negative implications, such as pack journalism, but we also see positives, as Twitter may conduit a wider array of voices into the mainstream news agenda. Twitter plays a key role in journalistic practices including, as we demonstrate here, influencing journalists’ news judgment. Twitter’s growing centrality in the news process warrants greater scrutiny from journalists and scholars.",
+        "url": "https://doi.org/10.1177/1464884918802975",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/1464884913479015",
         "title": "The rise of contextual journalism, 1950s–2000s",
         "authors": [
@@ -832,32 +851,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/1464884918802975",
-        "title": "Twitter’s influence on news judgment: An experiment among journalists",
-        "authors": [
-          "Shannon C. McGregor",
-          "Logan Molyneux"
-        ],
-        "year": 2018,
-        "citation_count": 196,
-        "topics": [
-          "Twitter",
-          "News judgment",
-          "Journalism",
-          "Social media influence"
-        ],
-        "abstract": "The literature suggests that journalists give a substantial amount of attention to Twitter and use the platform widely, but the impact of that use on news judgment has not been assessed. We hypothesize that Twitter affects journalists’ news judgment, impacting coverage decisions. To test this, we conducted an online survey experiment on working US journalists ( N = 212). We find that journalists who use Twitter less in their work discount news they see on the platform, potentially causing them to dismiss information that many of their colleagues identify as newsworthy. Our results also indicate that the routinization of Twitter into news production affects news judgment – for journalists who incorporate Twitter into their reporting routines, and those with fewer years of experience, Twitter has become so normalized that tweets were deemed equally newsworthy as headlines appearing to be from the AP wire. This may have negative implications, such as pack journalism, but we also see positives, as Twitter may conduit a wider array of voices into the mainstream news agenda. Twitter plays a key role in journalistic practices including, as we demonstrate here, influencing journalists’ news judgment. Twitter’s growing centrality in the news process warrants greater scrutiny from journalists and scholars.",
-        "url": "https://doi.org/10.1177/1464884918802975",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/1464884910392851",
         "title": "The interaction between experts and journalists in news journalism",
         "authors": [
           "Erik Albæk"
         ],
         "year": 2011,
-        "citation_count": 195,
+        "citation_count": 196,
         "topics": [
           "Expert sources",
           "Journalist-expert interaction",
@@ -944,6 +944,80 @@
       }
     ],
     "latest": [
+      {
+        "doi": "10.1177/14648849261490638",
+        "title": "When journalists and scientists sit down to talk: Juggling audience expectations in interactional science podcasts during the COVID-19 pandemic",
+        "authors": [
+          "Anna-Lena Oltersdorf"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Science podcasts",
+          "Science journalism",
+          "Audience expectations",
+          "COVID-19 communication"
+        ],
+        "abstract": "Given the growing relevance of podcasts in science communication, especially science journalism, this paper analyzes interactional science podcasts from a dramaturgical perspective. Scientists and journalists face conflicting expectations from different audiences, ranging from professional peers to a ‘general audience.’ Nevertheless, their interactions tend to be relatively harmonious. This paper addresses this puzzle and asks how journalists and scientists juggle audience expectations in different roles. It is based on a qualitative analysis of 15 episodes of the prominent German podcast ‘Coronavirus Update,’ sampled through mentions in metajournalistic discourse during the COVID-19 pandemic in Germany. The analysis shows that conflicting expectations require a certain variation within role constellations: actors speak as (co-)moderator, (co-)expert, and as a representative of the audience. The constellations are stabilized through mutual support of each other’s self-presentation, but also the intentional withdrawal thereof in risky situations. Unpacking those interactional dynamics, shaped by audience expectations, helps to understand the social dimension of science journalism and its emerging practices, such as podcasting.",
+        "url": "https://doi.org/10.1177/14648849261490638",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261491424",
+        "title": "Institutional realism in media culture: How disability journalism education reveals structural limits of cultural change",
+        "authors": [
+          "Faith Valencia‐Forrester"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Disability journalism",
+          "Institutional change",
+          "Professional socialization",
+          "Media education"
+        ],
+        "abstract": "Media institutions systematically exclude disability perspectives despite decades of advocacy and educational intervention. This article examines why cultural transformation efforts fail to penetrate professional media practice, extending Mark Fisher’s concept of ‘capitalist realism’ to reveal how institutional realism operates: we can imagine transformed practitioners but not transformed institutions. Drawing on critical autoethnographic analysis of two contrasting disability reporting education initiatives, an intensive community-partnered program and widely-distributed industry guidance, I demonstrate how professional socialisation functions as a mechanism of cultural reproduction, systematically neutralising educational gains through reification processes. While both interventions demonstrably transformed individual practitioners, neither disrupted what Jacques Rancière (2004) terms the ‘distribution of the sensible’ that determines whose voices become audible in media discourse. This case contributes to critical theory by specifying how institutional realism lets institutions appear to embrace cultural change while containing it. The analysis reveals a depth-versus-scale paradox: interventions intensive enough to transform how practitioners see disability cannot be scaled, while interventions that scale reach only those already disposed to change. It specifies two frameworks: the distinction between epistemic transformation and behavioural modification, and the mechanism through which newsroom routines reify ableist assumptions as professional competence, and positional disability expertise as optional specialisation rather than core.",
+        "url": "https://doi.org/10.1177/14648849261491424",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261489840",
+        "title": "The meaning and viability of redress: How newspapers and polls frame reparations",
+        "authors": [
+          "Sean Pauley"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Media framing",
+          "Reparations discourse",
+          "Political communication",
+          "News coverage"
+        ],
+        "abstract": "Despite reparations for slavery being part of the historical struggle for racial justice in the United States, the issue has fallen at the periphery of political discourse. Yet, in 2019 and 2020, the news devoted substantially more attention to the issue as Democratic primary candidates discussed it in debates and it was championed by the Movement for Black Lives. However, despite the fact we know that coverage increased during this time, we know surprisingly little about how reparations were discussed. This study analyzes the framing decisions present in opinion pieces across three of the largest U.S. national newspapers—and how these decisions interacted with public opinion polling and general election coverage in 2019 and 2020. I find that reparations were commonly discussed without mentioning any specific form. Instead, the issue framed as one of many radical and unpopular issues championed by people on the far left before the 2020 election.",
+        "url": "https://doi.org/10.1177/14648849261489840",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849261491026",
+        "title": "The polarized talk least about polarization: Polarization discourses in tabloids and broadsheets from UK, Germany and Sweden",
+        "authors": [
+          "Mike Farjam",
+          "Hendrik Meyer",
+          "Anamaria Dutceac Segesten",
+          "Michael Brüggemann"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Media polarization",
+          "Newspaper discourse analysis",
+          "Political polarization coverage"
+        ],
+        "abstract": "This study examines how newspapers from three distinct national contexts—the UK, Germany, and Sweden—report about polarization, and how such coverage makes societal division visible and emotionally salient. Drawing on 230,000 news articles from 2014 to 2023, we use Word2Vec, Named Entity Recognition, topic modeling, and anger classification to identify and analyze journalistic metadiscourse about polarization and broader division. Across countries and outlets, references to polarization increased markedly during the decade. Sweden, the least polarized country in our comparison, showed the highest volume of polarization discourse. Tabloids generally feature higher levels of anger in broader coverage but report less often about polarization than broadsheets. These findings are consistent with a reflexive-journalism logic, whereby polarization discourse is most frequent in outlets that interpret and contextualize broader societal developments, rather than in the most polarized settings. The study highlights the need for cross-national perspectives on how media frame and write about societal division.",
+        "url": "https://doi.org/10.1177/14648849261491026",
+        "topics_llm": true
+      },
       {
         "doi": "10.1177/14648849261488877",
         "title": "Anchored in capital: A Bourdieusian analysis of journalistic identity and resilience in the Portuguese field",
@@ -1821,87 +1895,6 @@
         "abstract": "In the era of generative artificial intelligence (GenAI), the impact of news on audiences may depend not only on stance and source diversity but also on whether the news is generated by AI.This study employed a 2 × 2 × 2 between-subjects factorial experiment, manipulating news writer (GenAI vs human) and actor diversity (single vs multiple), while news stance (pro vs con) was combined with participants’ prior attitudes to calculate stance congruence between media and audience. The experiment examined two issue contexts, abortion and genetically modified food, and produced 608 valid responses. Results reaffirm the hostile media effect (HME): audiences perceived greater bias when news stances conflicted with their own and less bias when stances aligned. Moreover, under stand-incongruent conditions, human journalists were more likely than AI journalists to elicit stronger hostile perceptions. This study extends HME research in the Chinese context, showing that audience stance outweighs formal news characteristics such as writer identity and actor diversity. It highlights stance congruence between media and audience as the core mechanism of HME and suggests that AI journalists may help mitigate audience hostility in highly contentious issues.",
         "url": "https://doi.org/10.1177/14648849261468847",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261467565",
-        "title": "The Knowing–Perceiving gap in journalists’ professional ethics: Professional socialization and young adults’ perceptions in contemporary China",
-        "authors": [
-          "Jingyi Guo",
-          "Xinghui Niu",
-          "Di Wu",
-          "Ya Yang",
-          "Guoming Yu"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Professional socialization",
-          "Journalist ethics",
-          "Implicit cognition",
-          "Media perception"
-        ],
-        "abstract": "This study examines whether different levels of professional socialization shape young adults’ perceptions of journalists’ professional ethics in the contemporary Chinese media environment. Drawing on theories of professional socialization and implicit cognition, a mixed-methods design was employed, combining a Single-Category Implicit Association Test (SC-IAT) with semi-structured interviews. In Study 1, participants with journalism internship experience (JIE), journalism and communication majors without internship experience (MJC), and non-journalism students (NN) completed an SC-IAT to measure implicit evaluative associations toward journalists’ professional ethics. No significant differences were found across the three groups. To contextualize these findings, Study 2 conducted interviews with students, professional journalists, and journalism educators. The qualitative findings revealed a consistent distinction between normative understandings of what journalists should do and perceptions of what journalists actually do. Across groups, participants generally recognized the ethical ideals associated with journalism while expressing similar perceptions of the profession as increasingly constrained by platformization, commercialization, and changing media environments. Drawing on the convergence of quantitative and qualitative evidence, the study tentatively proposes a process of de-differentiation in perceptions of journalists’ ethical status quo and identifies three potential mechanisms that may contribute to this pattern: tensions between normative and experiential narratives within professional socialization, the influence of non-professional information channels, and broader structural transformations in the media environment. The findings suggest that professional socialization may be effective in transmitting normative knowledge but more limited in shaping perceptions of actual professional practice.",
-        "url": "https://doi.org/10.1177/14648849261467565",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261466296",
-        "title": "“Be like Sweden” (?): Swedish COVID-19 strategy in mainstream and far-right US media",
-        "authors": [
-          "Mathilda Åkerlund",
-          "Jennifer Hollowell",
-          "Ralph Schroeder"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "COVID-19 media coverage",
-          "Political polarization",
-          "Ideology and news framing",
-          "Comparative media analysis"
-        ],
-        "abstract": "By means of a longitudinal systematic content analysis across six mainstream US news and six US far-right media outlets, we illustrate in this paper how the Swedish COVID-19 approach was refracted through ideologically diverse media outlets in the US. In doing so, we show how the same events can be interpreted through quite different ideological lenses and misconstrued for political purposes. We show how Sweden was championed as a beacon of limited state interference to criticise the US left and government’s pandemic approach; an interesting reversal of how Sweden is usually seen by the US (far) right. We discuss the implications of these findings.",
-        "url": "https://doi.org/10.1177/14648849261466296",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261466367",
-        "title": "The literary journalism of Irene Lisboa: The violent everyday life of women and children under the Portuguese Estado Novo dictatorship",
-        "authors": [
-          "Jorge da Cunha",
-          "Isabel Soares"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Literary journalism",
-          "Portuguese dictatorship",
-          "Women's representation",
-          "Political resistance"
-        ],
-        "abstract": "Irene Lisboa (1892–1958) is one of the most significant female thinkers and writers of the early decades of Portuguese Fascism. This article offers a pioneering examination that positions her work within the field of literary journalism, journalism written with literary techniques in a narrative mode. To be a writer, poet, pedagogue, literary journalist, and woman during the consolidation of Europe’s longest dictatorship (1933–1974) was to engage in a constant struggle with the regime. Writing in the first person or through the voices of real individuals, Lisboa developed a discourse of denunciation that emerged from her immersive positioning in the spaces she described. Her crónicas – a form of literary journalism native to Portuguese Spanish – present a fragmentary and experimental style with which Lisboa expressed her revolt while simultaneously evading censorship. Her primary concern was to represent the everyday realities of anonymous individuals from both Lisbon and rural Portugal, focusing particularly on the violent experiences of women and children in stark contrast to the regime’s narrative of a modern, cosmopolitan nation.",
-        "url": "https://doi.org/10.1177/14648849261466367",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/14648849261467071",
-        "title": "#JournalismStudiesSoWhite: Evidence of epistemological bias and gatekeeping of scholars of color in journalism studies",
-        "authors": [
-          "Danielle K. Brown",
-          "Miya Williams Fayne",
-          "Jung-Hsiang (Eric) Hsieh"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Journalism studies",
-          "Scholarly representation",
-          "Epistemological bias",
-          "Academic gatekeeping"
-        ],
-        "abstract": "White, Western, and men-centered positionalities are well established in academia, but the scope of this influence and the mechanisms that help maintain it are underexplored in subdisciplines like journalism studies. Our two-part study assesses the barriers scholars face in the field. We utilize a mixed-methods approach to assess 1) representation patterns within scholarship production considering how race/ethnicity and gender appear in both authorship and topical research consideration and 2) the perceptions, challenges, and experiences of women scholars of color who navigate the journalism studies subdiscipline. Our findings confirm that the field of journalism studies overall is predominantly White, but White women scholars are slightly more prominent in the field than the anticipated White male scholars. Our qualitative interviews provide additional critical insights about the mostly race-and-ethnicity-related structural barriers that women scholars of color face, including challenges with epistemological preference and bias, and gatekeeping.",
-        "url": "https://doi.org/10.1177/14648849261467071",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -2010,7 +2003,7 @@
           "Stephanie Jean Tsang"
         ],
         "year": 2024,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Misinformation",
           "Fake news detection",
@@ -2182,6 +2175,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/14648849241305068",
+        "title": "The threat within: Power dynamics impeding cross-border journalism practice–perspectives from African investigators",
+        "authors": [
+          "Ruona Meyer"
+        ],
+        "year": 2024,
+        "citation_count": 7,
+        "topics": [
+          "Investigative journalism",
+          "Cross-border collaboration",
+          "Power dynamics",
+          "African media"
+        ],
+        "abstract": "This paper reveals incidents of episodic and systemic power that threaten fully virtual, remote collaboration between African investigative journalists (AJs) and their colleagues in Global North countries. Safety is conceptualized as journalists’ ability to surmount threats sparked by occupational power structures unique to cross-border journalism. The workplace is the digitally mediated, often temporal space where socialized media enables journalists co-produce and distribute investigative reports. Interviews with 25 journalists across west and southern Africa showed that tension within virtual teams causes: disagreements over media cultures and wages; downplaying of risks; de-prioritization of cultural norms and disparities in access to funding. The resulting consequences affected journalists’ psychological, financial, and physical safety during, and beyond collaboration. Respondents coped by Compliance or Avoidance, exiting their teams or leaving investigative journalism in general. Awareness of technology-based inequity, cultural norms concerning mental health, and agile appraisal of threats are recommendations for journalists and donors. By adapting organisational Sources of Power theory to virtual workplaces, this study specifies the work routines and conditions that cause colleague-based threats during cross-border journalism work. The creation of a new power category for assessing breaches of cultural norms is a modest contribution towards understanding power asymmetries within transnational investigations mainly funded by and consumed in non-African countries.",
+        "url": "https://doi.org/10.1177/14648849241305068",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/14648849251387949",
         "title": "“I feel disgusted”: Experiences of moral injury and its impact on the well-being of conflict journalists",
         "authors": [
@@ -2258,24 +2269,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/14648849241305068",
-        "title": "The threat within: Power dynamics impeding cross-border journalism practice–perspectives from African investigators",
-        "authors": [
-          "Ruona Meyer"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Investigative journalism",
-          "Cross-border collaboration",
-          "Power dynamics",
-          "African media"
-        ],
-        "abstract": "This paper reveals incidents of episodic and systemic power that threaten fully virtual, remote collaboration between African investigative journalists (AJs) and their colleagues in Global North countries. Safety is conceptualized as journalists’ ability to surmount threats sparked by occupational power structures unique to cross-border journalism. The workplace is the digitally mediated, often temporal space where socialized media enables journalists co-produce and distribute investigative reports. Interviews with 25 journalists across west and southern Africa showed that tension within virtual teams causes: disagreements over media cultures and wages; downplaying of risks; de-prioritization of cultural norms and disparities in access to funding. The resulting consequences affected journalists’ psychological, financial, and physical safety during, and beyond collaboration. Respondents coped by Compliance or Avoidance, exiting their teams or leaving investigative journalism in general. Awareness of technology-based inequity, cultural norms concerning mental health, and agile appraisal of threats are recommendations for journalists and donors. By adapting organisational Sources of Power theory to virtual workplaces, this study specifies the work routines and conditions that cause colleague-based threats during cross-border journalism work. The creation of a new power category for assessing breaches of cultural norms is a modest contribution towards understanding power asymmetries within transnational investigations mainly funded by and consumed in non-African countries.",
-        "url": "https://doi.org/10.1177/14648849241305068",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/14648849241303249",
         "title": "Understanding disinformation as narratives in the hybrid media ecosystem: Evidence from the US",
         "authors": [
@@ -2312,6 +2305,27 @@
         ],
         "abstract": "AI-generated news is becoming increasingly prevalent on social media, raising questions about how audiences perceive, evaluate, and engage with this content. This study examines how AI authorship labeling (vs. human labeling) and content type (factual, conspiratorial, partisan) jointly shape readers’ cognitive, affective, and behavioral responses. Across three experiments ( N = 1,600), results show that readers could not reliably detect AI authorship without disclosure, although their evaluations nonetheless diverged depending on content type. When content was labeled as “AI-generated,” it consistently received lower cognitive and affective evaluations—regardless of factual accuracy—indicating a robust AI aversion effect. Crucially, emotionally charged content (conspiratorial or partisan) attenuated this effect. Such content elicited stronger engagement and sharing intentions, even when attributed to AI, suggesting that emotional resonance can override source skepticism. These findings support a dual-processing account: while authorship cues shape cognitive judgments, emotional content drives affective and behavioral responses. The results challenge the effectiveness of binary AI transparency labels and underscore the need for context-sensitive disclosure practices in journalism. They also reveal new challenges for platform governance and digital literacy, especially in curbing emotionally manipulative AI-generated content on social media.",
         "url": "https://doi.org/10.1177/14648849251381218",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849251372805",
+        "title": "From disruptive protests to disrupted news frames: Comparing German news on climate protests",
+        "authors": [
+          "Hendrik Meyer",
+          "Mike Farjam",
+          "Helena Rauxloh",
+          "Michael Brüggemann"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Climate protests",
+          "News framing",
+          "Political ideology",
+          "Media analysis"
+        ],
+        "abstract": "This paper examines how news frames on disruptive climate protests differ from coverage of conventional protests in news outlets with different political leanings. Analyzing 6632 articles from 21 ideologically diverse German news sources between January 2022 and May 2023, we apply Word2Vec for semantic mapping, emotion classifiers, and qualitative evaluations to assess the frames present in the coverage of climate movements, and the anger attached to these frames. Comparing the more disruptive protests of the group “The Last Generation” and the more conventional protest movement “Fridays for Future”, we find that coverage of “Fridays for Future” varies predictably across the ideological spectrum: Right-wing outlets present protesters as extreme or criminal, while other outlets make reference to climate justice within their coverage of the protests, thereby following the movement’s own framing. When covering the more disruptive “Last Generation”, the entire news landscape engages in an emotionally-charged debate, asking whether the protesters are extremists or criminals, while barely discussing their actual demands. Amid an increasingly affectively polarized media debate on disruptive climate protests, left- and right-wing media remain divided in their evaluations of the protests, but focus on criminality and extremism rather than climate justice. The findings should serve as a reminder to journalists of their responsibility to carefully reflect the frames through which they cover protest movements.",
+        "url": "https://doi.org/10.1177/14648849251372805",
         "topics_llm": true
       },
       {
@@ -2409,6 +2423,25 @@
         ],
         "abstract": "Political communication research centers the definition of news around institutions and norms tied to professional journalism. However, qualitative audience research increasingly shows that this approach does not match the reality of citizens anymore – news has become a much more fluid, fragmented concept than just what has been produced by journalists. Not accounting for these changes means that researchers are missing out on important sources of political information, potentially leading to biased estimates of exposure. This is especially true in the area of digital trace studies in which researchers are faced with an abundance of detailed data but so far mostly limited their analyses to lists of popular news outlets to research political information exposure. The aim of this paper is threefold: Conceptually , we propose to combine existing conceptualizations of news into a taxonomy of news. Methodologically , we apply this taxonomy to classify domains in digital trace data of Dutch users, showing its applicability to study changes in information environments on a larger, quantitative scale. Empirically , we show the extent to which a focus on general interest newsroom journalism leads to distortions and blind spots in news diversity research. Our results show that there is much to be found when zooming in on the long tail of news, outside of larger newsroom journalism sources. In particular for the study of news diversity and media effects, throwing away part of the data for research-practical purposes leads to missing the nuances that might just be of interest.",
         "url": "https://doi.org/10.1177/14648849241303115",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/14648849241292200",
+        "title": "Transparency and fact-checking in open societies",
+        "authors": [
+          "Laurence Dierickx",
+          "Carl‐Gustav Lindén"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Fact-checking",
+          "Transparency",
+          "Journalism",
+          "Accountability"
+        ],
+        "abstract": "Transparency is more than a motto for professional fact-checkers; it is a professional requirement that permeates their daily practice. Although transparency has been theorised and critiqued extensively in journalism studies, there has been less research on its practical implications for news workers. This paper aims to fill this gap by focusing on fact-checking practices in the Nordic countries. The paper highlights the double-edged sword of transparency by drawing on 14 semistructured interviews with fact-checkers and newsroom managers from the four independent fact-checking organisations in Finland, Sweden, Norway and Denmark. Transparency is seen as a means to achieve accountability and credibility in reporting and as a tool to hold public figures accountable. However, transparency does not protect Nordic fact-checkers from criticism or harassment for delivering uncomfortable truths. This study also links fact-checkers discourses with the material traces of transparency on their respective websites, showing that transparency can be approached differently in practice. This research provides valuable insights into the nuanced role of transparency in fact-checkers’ daily routines while acknowledging its limitations in that transparency is not without flaws, even in societies characterised by a culture of openness and transparency.",
+        "url": "https://doi.org/10.1177/14648849241292200",
         "topics_llm": true
       },
       {

@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-09-14T11:52:33Z",
-  "trending_from": "2024-09-14",
+  "updated_at": "2026-09-21T12:03:45Z",
+  "trending_from": "2024-09-21",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4246,
+        "citation_count": 4255,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2620,
+        "citation_count": 2633,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1868,
+        "citation_count": 1879,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1131,
+        "citation_count": 1134,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 932,
+        "citation_count": 934,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 841,
+        "citation_count": 843,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 407,
+        "citation_count": 410,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -294,6 +294,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2019.1639145",
+        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
+        "authors": [
+          "Dror Walter",
+          "Yotam Ophir"
+        ],
+        "year": 2019,
+        "citation_count": 225,
+        "topics": [
+          "News framing",
+          "Computational methods",
+          "Topic modeling",
+          "Frame analysis"
+        ],
+        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
+        "url": "https://doi.org/10.1080/19312458.2019.1639145",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1455817",
         "title": "More than Bags of Words: Sentiment Analysis with Word Embeddings",
         "authors": [
@@ -314,25 +333,6 @@
         ],
         "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
         "url": "https://doi.org/10.1080/19312458.2018.1455817",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2019.1639145",
-        "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
-        "authors": [
-          "Dror Walter",
-          "Yotam Ophir"
-        ],
-        "year": 2019,
-        "citation_count": 224,
-        "topics": [
-          "News framing",
-          "Computational methods",
-          "Topic modeling",
-          "Frame analysis"
-        ],
-        "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
-        "url": "https://doi.org/10.1080/19312458.2019.1639145",
         "topics_llm": true
       },
       {
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 199,
+        "citation_count": 200,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -407,7 +407,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 187,
+        "citation_count": 188,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -427,7 +427,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 184,
+        "citation_count": 185,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -451,7 +451,7 @@
           "Thomas N. Robinson"
         ],
         "year": 2023,
-        "citation_count": 175,
+        "citation_count": 177,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -510,7 +510,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 148,
+        "citation_count": 149,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -562,6 +562,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2018.1453057",
+        "title": "Culture-centered Approach in Addressing Health Disparities: Communication Infrastructures for Subaltern Voices",
+        "authors": [
+          "Mohan J. Dutta"
+        ],
+        "year": 2018,
+        "citation_count": 137,
+        "topics": [
+          "Health disparities",
+          "Culture-centered approach",
+          "Subaltern communities",
+          "Health communication"
+        ],
+        "abstract": "This article offers a conceptual overview of the key principles of the culture-centered approach (CCA) as a meta-theoretical framework for addressing health inequalities by building communicative infrastructures for listening to the voices of subaltern communities that are hitherto erased from dominant discursive spaces. Complementing a growing body of scholarship that draws on the CCA to address the structural contexts of health in the subaltern margins across the globe, this article lays out the methodological framework of the CCA. It highlights the key conceptual anchors that serve as foundations of the approach, suggesting that participation, partnerships, communication, dialogue, and reflexivity offer methodological tools that interrogate the reproduction of erasures within dominant structures, and create entry points for subaltern voices to arrive into hegemony. The essay wraps up by offering specific strategies and tools for designing culture-centered projects that may be adopted by activists, community advocates and organizers, and academics working in academic-community partnerships in the backdrop of health disparities.",
+        "url": "https://doi.org/10.1080/19312458.2018.1453057",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2012.703834",
         "title": "Testing Equivalence in Communication Research: Theory and Application",
         "authors": [
@@ -578,24 +596,6 @@
         ],
         "abstract": "Although equivalence testing is preferred when a researcher's goal is to support the null hypothesis (i.e., no substantial effect), equivalence tests are virtually unknown and unused in the communication field. This article provides the rationale for and theoretical background of equivalence testing and offers examples of equivalence tests for the independent and dependent groups t-test and tests of association using Pearson's coefficient or correlation. From a review of meta-analyses, we provide tables of commonly observed effect-sizes across subdisciplines and topic areas in communication and offer these as a guideline for choosing minimum substantial effects (Δ) in equivalence testing when no other information source is available. To facilitate the adoption of equivalence tests in future research, we provide easy-to-use custom dialogs for SPSS which greatly simplify their computation and application.",
         "url": "https://doi.org/10.1080/19312458.2012.703834",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2018.1453057",
-        "title": "Culture-centered Approach in Addressing Health Disparities: Communication Infrastructures for Subaltern Voices",
-        "authors": [
-          "Mohan J. Dutta"
-        ],
-        "year": 2018,
-        "citation_count": 135,
-        "topics": [
-          "Health disparities",
-          "Culture-centered approach",
-          "Subaltern communities",
-          "Health communication"
-        ],
-        "abstract": "This article offers a conceptual overview of the key principles of the culture-centered approach (CCA) as a meta-theoretical framework for addressing health inequalities by building communicative infrastructures for listening to the voices of subaltern communities that are hitherto erased from dominant discursive spaces. Complementing a growing body of scholarship that draws on the CCA to address the structural contexts of health in the subaltern margins across the globe, this article lays out the methodological framework of the CCA. It highlights the key conceptual anchors that serve as foundations of the approach, suggesting that participation, partnerships, communication, dialogue, and reflexivity offer methodological tools that interrogate the reproduction of erasures within dominant structures, and create entry points for subaltern voices to arrive into hegemony. The essay wraps up by offering specific strategies and tools for designing culture-centered projects that may be adopted by activists, community advocates and organizers, and academics working in academic-community partnerships in the backdrop of health disparities.",
-        "url": "https://doi.org/10.1080/19312458.2018.1453057",
         "topics_llm": true
       },
       {
@@ -646,7 +646,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 121,
+        "citation_count": 122,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -667,7 +667,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 116,
+        "citation_count": 117,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -687,7 +687,7 @@
           "Elisia L. Cohen"
         ],
         "year": 2011,
-        "citation_count": 116,
+        "citation_count": 117,
         "topics": [
           "Content analysis",
           "Sampling methods",
@@ -894,6 +894,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2016.1150973",
+        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
+        "authors": [
+          "Kim Viborg Andersen",
+          "Claes H. de Vreese",
+          "Erik Albæk"
+        ],
+        "year": 2016,
+        "citation_count": 80,
+        "topics": [
+          "Media exposure measurement",
+          "Survey methodology",
+          "Media consumption",
+          "Self-report validity"
+        ],
+        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
+        "url": "https://doi.org/10.1080/19312458.2016.1150973",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2014.903391",
         "title": "Conceptual, Empirical, and Practical Issues in Developing Valid Measures of Public Communication Campaign Exposure",
         "authors": [
@@ -909,26 +929,6 @@
         ],
         "abstract": "The ability to validly measure campaign exposure is central to claims of public communication campaign effectiveness. Surprisingly, scholars have paid remarkably little attention to questions about the validity of various ways to measure campaign exposure. This paper begins to address this gap by outlining conceptual, empirical, and practical issues in developing valid measures of campaign exposure. First, I offer a brief definition of measurement validity and describe a variety of measurement options utilized in recent, large–scale health communication campaign evaluations. Next, I outline conceptual and empirical assumptions behind these various measurement strategies. I continue with a review of research that has applied validation criteria to specific measures of campaign exposure. I conclude by offering a series of guidelines for exposure measurement and validation practices based on the evidence to date, which I caveat by describing tensions and emergent issues that researchers will need to consider in future work.",
         "url": "https://doi.org/10.1080/19312458.2014.903391",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2016.1150973",
-        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
-        "authors": [
-          "Kim Viborg Andersen",
-          "Claes H. de Vreese",
-          "Erik Albæk"
-        ],
-        "year": 2016,
-        "citation_count": 79,
-        "topics": [
-          "Media exposure measurement",
-          "Survey methodology",
-          "Media consumption",
-          "Self-report validity"
-        ],
-        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
-        "url": "https://doi.org/10.1080/19312458.2016.1150973",
         "topics_llm": true
       },
       {
@@ -1095,25 +1095,6 @@
         ],
         "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2026.2658505",
-        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
-        "authors": [
-          "Ulrich Schimmack",
-          "Marion Soto"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Publication bias",
-          "Research credibility",
-          "Statistical power",
-          "Replicability crisis"
-        ],
-        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
-        "url": "https://doi.org/10.1080/19312458.2026.2658505",
         "topics_llm": true
       },
       {
@@ -1966,7 +1947,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2023,
-        "citation_count": 14,
+        "citation_count": 15,
         "topics": [
           "Persuasion",
           "Message effects",
@@ -2041,6 +2022,24 @@
         ],
         "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
         "url": "https://doi.org/10.1080/19312458.2023.2207005",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2183188",
+        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
+        "authors": [
+          "Kilian Buehling"
+        ],
+        "year": 2023,
+        "citation_count": 25,
+        "topics": [
+          "Social media data",
+          "Message deletion",
+          "Computational analysis",
+          "Data quality"
+        ],
+        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
+        "url": "https://doi.org/10.1080/19312458.2023.2183188",
         "topics_llm": true
       }
     ],
