@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-09-21T12:03:48Z",
-  "trending_from": "2024-09-21",
+  "updated_at": "2026-09-28T12:58:45Z",
+  "trending_from": "2024-09-28",
   "sections": {
     "most_cited": [
       {
@@ -10,9 +10,9 @@
         "authors": [
           "Laura Boeschoten",
           "Jef Ausloos",
-          "Judith Möller",
+          "Judith E. Möller",
           "Theo Araujo",
-          "Daniel L. Oberski"
+          "Daniel Leonard Oberski"
         ],
         "year": 2022,
         "citation_count": 85,
@@ -32,7 +32,7 @@
         "authors": [
           "Benjamin Guinaudeau",
           "Kevin Munger",
-          "Fabio Votta"
+          "Fabio A. Votta"
         ],
         "year": 2022,
         "citation_count": 79,
@@ -54,7 +54,7 @@
           "Jef Ausloos",
           "Wouter van Atteveldt",
           "Felicia Löecherbach",
-          "Judith Moeller",
+          "Judith E. Möller",
           "Jakob Ohme",
           "Damian Trilling",
           "Bob van de Velde",
@@ -62,7 +62,7 @@
           "Kasper Welbers"
         ],
         "year": 2022,
-        "citation_count": 63,
+        "citation_count": 64,
         "topics": [
           "Data donation",
           "Open-source framework",
@@ -81,7 +81,7 @@
           "Jennifer Pan"
         ],
         "year": 2022,
-        "citation_count": 63,
+        "citation_count": 64,
         "topics": [
           "Chinese government communication",
           "Social media content analysis",
@@ -100,7 +100,7 @@
           "Sal Hagen"
         ],
         "year": 2022,
-        "citation_count": 57,
+        "citation_count": 59,
         "topics": [
           "Social media research",
           "Digital research methodology",
@@ -138,7 +138,7 @@
           "Oliver Quiring"
         ],
         "year": 2020,
-        "citation_count": 35,
+        "citation_count": 36,
         "topics": [
           "Online incivility detection",
           "Computational text classification",
@@ -156,7 +156,7 @@
           "ZACHARY STEINERT-THRELKELD"
         ],
         "year": 2022,
-        "citation_count": 31,
+        "citation_count": 32,
         "topics": [
           "Visual Content Analysis",
           "Political Communication",
@@ -173,7 +173,7 @@
         "authors": [
           "Chung‐hong Chan",
           "Joseph Bajjalieh",
-          "Loretta Auvil",
+          "Loretta Sue Auvil",
           "Hartmut Weßler",
           "Scott L. Althaus",
           "Kasper Welbers",
@@ -202,7 +202,7 @@
           "Daniela Stoltenberg"
         ],
         "year": 2020,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Topic modeling",
           "Computational efficiency",
@@ -238,7 +238,7 @@
         "authors": [
           "Frederic R. Hopp",
           "J.P. Schaffer",
-          "Jacob T. Fisher",
+          "Jacob Taylor Fisher",
           "René Weber"
         ],
         "year": 2019,
@@ -357,7 +357,7 @@
         "doi": "10.5117/ccr2023.1.001.vott",
         "title": "Going Micro to Go Negative?",
         "authors": [
-          "Fabio Votta",
+          "Fabio A. Votta",
           "Arman Noroozian",
           "Tom Dobber",
           "Natali Helberger",
@@ -373,6 +373,27 @@
         ],
         "abstract": "Spreading uncivil negative campaign messages is a “high-risk, high reward” campaign strategy since certain voters are more likely to be swayed by negative messaging whereas other voters are more inclined to feel sympathy with the attacked. Due to its risks, campaigns may attempt to outsource their uncivil ads to outside groups thus distancing themselves from the negativity and potentially avoiding any backlash. But at a time when advertising platforms boast of their ability to deliver ads to highly targeted audiences, uncivil negative ads could also be optimized to narrowly target citizens to which they are more likely to appeal. To study whether such optimizations are occurring, we retrieve all online advertisements that were placed on Facebook platforms (incl. Instagram) in the seven months prior to the US 2020 election. We perform multilevel ordinal regressions and find that ads from official political campaigns are more likely to be toxic when targeted at a narrower audience, whereas “dark money” outside groups (like super PACs and non-profits) are more likely to target broad audiences with their toxicity. In addition, we find that ads from outside groups are more likely to be toxic. We discuss the findings in light of this evidence and reflect upon future research regarding microtargeting negative messages on online platforms such as Facebook and Instagram.",
         "url": "https://doi.org/10.5117/ccr2023.1.001.vott",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2021.3.001.lind",
+        "title": "Greasing the wheels for comparative communication research: Supervised text classification for multilingual corpora",
+        "authors": [
+          "Fabienne Lind",
+          "Tobias Heidenreich",
+          "Christoph Kralj",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2021,
+        "citation_count": 19,
+        "topics": [
+          "Text classification",
+          "Machine learning",
+          "Multilingual corpora",
+          "Automated annotation"
+        ],
+        "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
+        "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
         "topics_llm": true
       },
       {
@@ -416,27 +437,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.5117/ccr2021.3.001.lind",
-        "title": "Greasing the wheels for comparative communication research: Supervised text classification for multilingual corpora",
-        "authors": [
-          "Fabienne Lind",
-          "Tobias Heidenreich",
-          "Christoph Kralj",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2021,
-        "citation_count": 18,
-        "topics": [
-          "Text classification",
-          "Machine learning",
-          "Multilingual corpora",
-          "Automated annotation"
-        ],
-        "abstract": "Employing supervised machine learning for text classification is already a resource-intensive endeavor in a monolingual setting. However, facing the challenge to classify a multilingual corpus, the cost of producing the required annotated documents quickly exceeds even generous time and financial constraints. We show how tools like automated annotation and machine translation can not only efficiently but also effectively be employed for the classification of a multilingual corpus with supervised machine learning. Our findings demonstrate that good results can already be achieved with the machine translation of about 250 to 350 documents per category class and language and a dictionary in just one language, which we perceive as a realistic scenario for many projects. The methodological strategy is applied to study migration frames in seven languages (news discourse in seven European countries) and discussed and evaluated for its usability in comparative communication research.",
-        "url": "https://doi.org/10.5117/ccr2021.3.001.lind",
-        "topics_llm": true
-      },
-      {
         "doi": "10.5117/ccr2023.1.8.wang",
         "title": "Cross-Platform Information Flow and Multilingual Text Analysis: A Comparative Study of Weibo and Twitter Through Deep Learning",
         "authors": [
@@ -444,7 +444,7 @@
           "Jiayi Zhu",
           "Yixuan Xu",
           "Dong-Gyu Kim",
-          "Dmitri Williams"
+          "Dmitri C. Williams"
         ],
         "year": 2023,
         "citation_count": 17,
@@ -466,7 +466,7 @@
           "Fabienne Lind"
         ],
         "year": 2023,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Multilingual text analysis",
           "Computational text methods",
@@ -481,7 +481,7 @@
         "doi": "10.5117/ccr2022.1.007.neum",
         "title": "Body Language and Gender Stereotypes in Campaign Video",
         "authors": [
-          "Markus Neumann",
+          "Markus F. Neumann",
           "Erika Franklin Fowler",
           "Travis N. Ridout"
         ],
@@ -668,6 +668,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2023.2.10.chen",
+        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
+        "authors": [
+          "Calvin Yixiang Cheng",
+          "Weiyu Zhang"
+        ],
+        "year": 2023,
+        "citation_count": 10,
+        "topics": [
+          "Moral foundations",
+          "Computational linguistics",
+          "Chinese language analysis",
+          "Sentiment analysis"
+        ],
+        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
+        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2024.2.3.stry",
         "title": "The blind spot in data donations: who is (not) willing to donate digital data in social scientific research",
         "authors": [
@@ -675,7 +694,7 @@
           "Corine S. Meppelink",
           "Brahim Zarouali",
           "Theo Araujo",
-          "Hilde Voorveld"
+          "Hilde A. M. Voorveld"
         ],
         "year": 2024,
         "citation_count": 9,
@@ -687,25 +706,6 @@
         ],
         "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
         "url": "https://doi.org/10.5117/ccr2024.2.3.stry",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2023.2.10.chen",
-        "title": "C-MFD 2.0: Developing a Chinese Moral Foundation Dictionary",
-        "authors": [
-          "Calvin Yixiang Cheng",
-          "Weiyu Zhang"
-        ],
-        "year": 2023,
-        "citation_count": 9,
-        "topics": [
-          "Moral foundations",
-          "Computational linguistics",
-          "Chinese language analysis",
-          "Sentiment analysis"
-        ],
-        "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
-        "url": "https://doi.org/10.5117/ccr2023.2.10.chen",
         "topics_llm": true
       },
       {
@@ -850,7 +850,7 @@
         "doi": "10.5117/ccr2020.2.003.kell",
         "title": "To Whom Do Politicians Talk and Listen?",
         "authors": [
-          "Tobias Keller"
+          "Tobias R. Keller"
         ],
         "year": 2020,
         "citation_count": 7,
@@ -865,10 +865,29 @@
         "topics_llm": true
       },
       {
+        "doi": "10.5117/ccr2025.1.8.parr",
+        "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
+        "authors": [
+          "Douglas A. Parry",
+          "Roland Tóth"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Smartphone usage measurement",
+          "Android event logs",
+          "Digital behavior tracking",
+          "Methodological analysis"
+        ],
+        "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling these data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics (sessions, glances, app episodes) from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, advancing knowledge of smartphone use patterns and their effects.",
+        "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
+        "topics_llm": true
+      },
+      {
         "doi": "10.5117/ccr2024.1.5.chan",
         "title": "What makes computational communication science (ir)reproducible?",
         "authors": [
-          "Chung‐hong Chan",
+          "Chung-hong  Chan",
           "Tim Schatto‐Eckrodt",
           "Johannes B. Gruber"
         ],
@@ -888,7 +907,7 @@
         "doi": "10.5117/ccr2024.2.6.angu",
         "title": "Enabling Online Advertising Transparency through Data Donation Methods",
         "authors": [
-          "Daniel Angus",
+          "Daniel J. Angus",
           "Abdul Karim Obeid",
           "Jean Burgess",
           "Christine Parker",
@@ -906,6 +925,25 @@
         ],
         "abstract": "Advertising has historically played a major cultural role in media and society; targeted advertising based on the detailed profiling of consumers has become central to the business models of commercial digital and social media platforms. Despite their immense cultural and economic significance, the operations of these advertising systems are difficult to observe, preventing the independent, systematic study of both advertising content and how it is delivered to audiences. This paper details a novel data donation infrastructure aimed at improving the observability of both of these aspects of platform-based advertising. The infrastructure includes custom plugins developed for major web browsers to capture web-based Facebook advertising content and targeting information from individual Facebook users for large- scale offline analysis. The paper describes the technical components of the infrastructure, including the plugin(s), data storage, data processing and enrichment, and researcher dashboard. We also discuss preliminary findings from case studies conducted using the tool, the ethical considerations associated with the research, and insights for future data donation projects.",
         "url": "https://doi.org/10.5117/ccr2024.2.6.angu",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.5117/ccr2023.1.005.zier",
+        "title": "Algorithmic Recommendations’ Role for the Interrelatedness of Counter-Messages and Polluted Content on YouTube – A Network Analysis",
+        "authors": [
+          "Lisa Zieringer",
+          "Diana Rieger"
+        ],
+        "year": 2023,
+        "citation_count": 6,
+        "topics": [
+          "Algorithmic recommendations",
+          "Counter-messaging",
+          "Extremist content",
+          "Network analysis"
+        ],
+        "abstract": "Counter-messages are used by civil education, youth prevention actors, and security agencies to counter the magnitude of polluted content. On the Internet, algorithmic operations of intermediaries affect how users encounter and receive polluted content. As counter-messages often show similar keywords, algorithms establish connections between counter-messages and polluted content, primarily because they share mutual topics. Against the background of legislative attempts to stop the spread of extremist online content, this paper aims to further investigate the interrelatedness of counter-messages and polluted content on YouTube due to the platform’s recommendation algorithm. To that end, two information network analyses were conducted based on each five seed videos of two differently designed counter-message campaigns one year after their publication on YouTube in 2019. Five thousand four hundred of the 35,982 videos of the two networks were analyzed qualitatively and manually. Results show that counter-messages are indirectly strongly connected to more polluted content. We further identify the campaigns’ design and setup on YouTube as factors that can cause the interrelatedness between counter-messages and polluted content.",
+        "url": "https://doi.org/10.5117/ccr2023.1.005.zier",
         "topics_llm": true
       },
       {
@@ -986,44 +1024,6 @@
         "abstract": "Multilingual text analysis is increasingly important to address the current narrow focus of English and other Indo-European languages in comparative studies. However, there has been a lack of a comprehensive approach to evaluate the validity of multilingual text analytic methods across different language contexts. To address this issue, we propose that the validity of multilingual text analysis should be studied through the lens of transferability, which assesses the extent to which the performance of a multilingual text analytic method can be maintained when switching from one language context to another. We first formally conceptualize transferability in multilingual text analysis as a measure of whether the method is equivalent across language groups (linguistic transferability) and societal contexts (contextual transferability). We propose a model-agnostic approach to evaluate transferability using (1) natural and synthetic data pairs, (2) manual annotation of errors, and (3) the Local Interpretable Model-Agnostic Explanations (LIME) technique. As an application of our approach, we analyze the transferability of a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language-speaking countries of the Comparative Agendas Project. The transferability is then evaluated using natural and synthetic parliamentary data from the UK, Basque, Hong Kong, and Taiwan. Through the evaluation of transferability, this study sheds light on the common causes that lead to prediction errors in multilingual text classification using mBERT.",
         "url": "https://doi.org/10.5117/ccr2023.2.3.ho",
         "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2022.2.005.jaid",
-        "title": "Talking politics: Building and validating data-driven lexica to measure political discussion quality",
-        "authors": [
-          "Kokil Jaidka"
-        ],
-        "year": 2022,
-        "citation_count": 6,
-        "topics": [
-          "Political discussion quality",
-          "Computational social science",
-          "Machine learning classifiers",
-          "Social media analysis"
-        ],
-        "abstract": "Social media data offers computational social scientists the opportunity to understand how ordinary citizens engage in political activities, such as expressing their ideological stances and engaging in policy discussions. This study curates and develops discussion quality lexica from the Corpus for the Linguistic Analysis of Political Talk ONline (CLAPTON). Supervised machine learning classifiers to characterize political talk are evaluated for out-of-sample label prediction and generalizability to new contexts. The approach yields data-driven lexica, or dictionaries, that can be applied to measure the constructiveness, justification, relevance, reciprocity, empathy, and incivility of political discussions. In addition, the findings illustrate how the choices made in training such classifiers, such as the heterogeneity of the data, the feature sets used to train classifiers, and the classification approach, affect their generalizability. The article concludes by summarizing the strengths and weaknesses of applying machine learning methods to social media posts and theoretical insights into the quality and structure of online political discussions.",
-        "url": "https://doi.org/10.5117/ccr2022.2.005.jaid",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.5117/ccr2020.2.002.jose",
-        "title": "Who Says What with Whom",
-        "authors": [
-          "Kenneth Joseph",
-          "Ryan J. Gallagher",
-          "Brooke Foucault Welles"
-        ],
-        "year": 2020,
-        "citation_count": 6,
-        "topics": [
-          "Social media activism",
-          "Protest networks",
-          "Community detection",
-          "Twitter analysis"
-        ],
-        "abstract": "Social media protest networks involve many participants, from long-time activists to individuals who are engaged only in a particular protest event. We propose a new approach to studying how various communities of users participate in protest events. Our approach combines two methodological innovations. First, rather than study tweets central to one event, we collect full timelines of user activity leading up to participation in a focal event. Second, we propose bi-spectral clustering as a scalable computational method for rapidly identifying communities of users by the words (hashtags) they use. Using a large sample of tweets from users who discussed the 2016 protests in Charlotte, North Carolina following the extrajudicial killing of Keith Lamont Scott as a case study, we demonstrate how bi-spectral clustering can be applied to sort, sample, and identify ideologically and thematically coherent clusters whose members participated in the protest on Twitter. Our proposed approach provides another tool in the mixed methods scholar’s toolkit to computationally sort and cluster large-scale network data by allowing researchers to look beyond focal hashtags or keywords and situate protest messages within the broader communication context of participating users.",
-        "url": "https://doi.org/10.5117/ccr2020.2.002.jose",
-        "topics_llm": true
       }
     ],
     "latest": [
@@ -1070,7 +1070,7 @@
         "doi": "10.5117/ccr2026.1.11.henr",
         "title": "Do Generative Large Language Models Close the Language Gap in Multilingual Discourse Classification? An Evaluation Across Three European Languages",
         "authors": [
-          "Frederik Weber Henriksen"
+          "Frederik Møller Henriksen"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1117,7 +1117,7 @@
         "authors": [
           "Gökçe Şahin",
           "Ruben Bach",
-          "Christoph Kern"
+          "Christoph A. Kern"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1144,7 +1144,7 @@
           "Ine Beyens"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "TikTok",
           "Adolescent media consumption",
@@ -1160,7 +1160,7 @@
         "title": "Seeing, Reading, Hearing, Interpreting: Computational Multimodal Framing Analysis in Short-Form News Videos",
         "authors": [
           "Haohan Lily Hu",
-          "King-wa Fu"
+          "King‐Wa Fu"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1178,7 +1178,7 @@
         "doi": "10.5117/ccr2026.1.7.schr",
         "title": "In search of truth: A refined approach to collecting and annotating data for BERT-based misinformation detection",
         "authors": [
-          "Lotte L. Schrijver",
+          "Lotte Schrijver",
           "Rens Vliegenthart",
           "Pearl Dykstra"
         ],
@@ -1286,7 +1286,7 @@
         "title": "Stitching, dueting, and playing with science on TikTok: An AI-powered multimodal approach to understanding interactive science videos and audience engagement",
         "authors": [
           "Yuhan Li",
-          "Annie L. Zhang",
+          "Annie Li Zhang",
           "Hang Lu"
         ],
         "year": 2026,
@@ -1325,8 +1325,8 @@
         "doi": "10.5117/ccr2026.1.9.obei",
         "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
         "authors": [
-          "Abdul Obeid",
-          "Daniel Angus",
+          "Abdul Karim Obeid",
+          "Daniel J. Angus",
           "Dang Khuong Tran",
           "Lauren Hayden",
           "Nicholas Carah",
@@ -1417,7 +1417,7 @@
           "ZACHARY STEINERT-THRELKELD",
           "Karsten Donnay",
           "Jungseock Joo",
-          "Thomas Zeitzoff",
+          "Thomas C. Zeitzoff",
           "Stuart Soroka",
           "Phillip Kling",
           "Alexander Chan"
@@ -1439,7 +1439,7 @@
         "title": "Influence in Motion: Tracing Persuasive Dynamics via Multi‐Agent Networks",
         "authors": [
           "Ming Huang",
-          "Z. Zhang"
+          "Zi-Ke Zhang"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1460,7 +1460,7 @@
           "Xinyi Li",
           "Yu Xu",
           "Yongfeng Zhang",
-          "Edward C. Malthouse"
+          "Edward Carl Malthouse"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1485,7 +1485,7 @@
           "Michaela Maier",
           "Dren Gërguri",
           "Jaromír Mazak",
-          "Mariken Velden"
+          "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1529,8 +1529,8 @@
           "Yun-Shiuan Chuang",
           "Shanglin Yang",
           "Jonathan Feldman",
-          "Andrew Zhao",
-          "Munmun  De Choudhury",
+          "Andrew X. Zhao",
+          "Munmun De Choudhury",
           "Sijia Yang",
           "D.V. Shah"
         ],
@@ -1570,7 +1570,7 @@
         "title": "Visual Framing in the AI Era: Lessons from Manual Approaches for Computational Methods",
         "authors": [
           "Kareem El Damanhoury",
-          "Carol Winkler",
+          "Carol Kay Winkler",
           "Ayse D. Lokmanoglu",
           "Keyu Alexander Chen"
         ],
@@ -1591,7 +1591,7 @@
         "title": "Visual Framing at Scale: A Theory-Driven Computational Framework for Analyzing Protest Imagery with Generative AI",
         "authors": [
           "Sang Jung Kim",
-          "Libin Chen"
+          "Lei Chen"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1609,7 +1609,7 @@
         "doi": "10.5117/ccr2026.2.4.liu",
         "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
         "authors": [
-          "A. Y. Liu",
+          "Anna Yan Liu",
           "Maggie Mengqing Zhang"
         ],
         "year": 2026,
@@ -1629,7 +1629,7 @@
         "title": "transforEmotion: An Open-Source R Package for Emotion Analysis Using Transformer-Based Generative AI Models",
         "authors": [
           "Aleksandar Tomašević",
-          "Hudson Golino",
+          "Hudson Fernandes Golino",
           "Alexander P. Christensen"
         ],
         "year": 2026,
@@ -1668,7 +1668,7 @@
         "authors": [
           "Jielu Yao",
           "Travis N. Ridout",
-          "Markus Neumann",
+          "Markus F. Neumann",
           "Erika Franklin Fowler"
         ],
         "year": 2025,
@@ -1709,7 +1709,7 @@
         "authors": [
           "James Cross",
           "Derek Greene",
-          "Stefan Müller",
+          "Stefan C Müller",
           "Martijn Schoonvelde"
         ],
         "year": 2025,
@@ -1771,7 +1771,7 @@
           "Roland Tóth"
         ],
         "year": 2025,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Smartphone usage measurement",
           "Android event logs",
@@ -1789,10 +1789,10 @@
           "Edward W. Chew",
           "Mahasweta Chakraborti",
           "William Weisman",
-          "Seth Frey"
+          "Seth D. Frey"
         ],
         "year": 2025,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Machine translation",
           "Computational methods",
@@ -1828,7 +1828,7 @@
         "authors": [
           "Delia Dumitrescu",
           "Inga S. Ulusoy",
-          "Petr Andriushchenko",
+          "Petr Dmitrievich Andriushchenko",
           "Gwydoin Daskalakis",
           "Dominic Kempf",
           "Xianghe Ma"
@@ -1891,7 +1891,7 @@
         "authors": [
           "Jielu Yao",
           "Travis N. Ridout",
-          "Markus Neumann",
+          "Markus F. Neumann",
           "Erika Franklin Fowler"
         ],
         "year": 2025,
@@ -2007,7 +2007,7 @@
         "doi": "10.5117/ccr2024.1.5.chan",
         "title": "What makes computational communication science (ir)reproducible?",
         "authors": [
-          "Chung‐hong Chan",
+          "Chung-hong  Chan",
           "Tim Schatto‐Eckrodt",
           "Johannes B. Gruber"
         ],
@@ -2074,7 +2074,7 @@
           "Roland Tóth"
         ],
         "year": 2025,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Smartphone usage measurement",
           "Android event logs",

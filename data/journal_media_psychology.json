@@ -1,7 +1,7 @@
 {
   "journal_id": "journal_media_psychology",
-  "updated_at": "2026-09-21T12:03:46Z",
-  "trending_from": "2024-09-21",
+  "updated_at": "2026-09-28T12:58:43Z",
+  "trending_from": "2024-09-28",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Stephan Winter"
         ],
         "year": 2008,
-        "citation_count": 878,
+        "citation_count": 879,
         "topics": [
           "Impression Management",
           "Self-presentation",
@@ -30,7 +30,7 @@
           "Pavica Sheldon"
         ],
         "year": 2008,
-        "citation_count": 507,
+        "citation_count": 511,
         "topics": [
           "Communication apprehension",
           "Social media use",
@@ -38,6 +38,26 @@
         ],
         "abstract": "A survey with 172 students was conducted at a large southern research university to examine how unwillingness-to-communicate in interpersonal communication influences gratifications sought and gratifications obtained from Facebook use. The study investigated the relationship between two dimensions of unwillingness-to-communicate (approach-avoidance and reward) and different motives of Facebook use. In addition, it examined the relationship between unwillingness-to-communicate and the behavioral and attitudinal outcomes of Facebook use (e.g., the number of hours spent on Facebook, duration of use, the number of Facebook friends, satisfaction with Facebook). Results of multiple regression analysis revealed that respondents who felt anxiety and fears in their face-to-face communication used Facebook to pass time and feel less lonely more than other respondents, but they had fewer Facebook friends. Overall, this paper finds evidence that people who are involved in online relationships are those who are willing to communicate in real life, rather than the opposite. Such results seem to justify the rich-get-richer hypothesis, which states that the internet primarily benefits extraverted individuals. Our results are in contrast to findings that socially anxious individuals are more likely to form relationships online.",
         "url": "https://doi.org/10.1027/1864-1105.20.2.67",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1027/1864-1105.21.3.95",
+        "title": "Virtual Reality",
+        "authors": [
+          "Jesse Fox",
+          "Dylan Arena",
+          "Jeremy N. Bailenson"
+        ],
+        "year": 2009,
+        "citation_count": 393,
+        "topics": [
+          "Virtual reality",
+          "Human-computer interaction",
+          "Social science research methods",
+          "Technology effects"
+        ],
+        "abstract": "In this article, we provide the nontechnical reader with a fundamental understanding of the components of virtual reality (VR) and a thorough discussion of the role VR has played in social science. First, we provide a brief overview of the hardware and equipment used to create VR and review common elements found within the virtual environment that may be of interest to social scientists, such as virtual humans and interactive, multisensory feedback. Then, we discuss the role of VR in existing social scientific research. Specifically, we review the literature on the study of VR as an object, wherein we discuss the effects of the technology on human users; VR as an application, wherein we consider real-world applications in areas such as medicine and education; and VR as a method, wherein we provide a comprehensive outline of studies in which VR technologies are used to study phenomena that have traditionally been studied in physical settings, such as nonverbal behavior and social interaction. We then present a content analysis of the literature, tracking the trends for this research over the last two decades. Finally, we present some possibilities for future research for interested social scientists.",
+        "url": "https://doi.org/10.1027/1864-1105.21.3.95",
         "topics_llm": true
       },
       {
@@ -60,26 +80,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1027/1864-1105.21.3.95",
-        "title": "Virtual Reality",
-        "authors": [
-          "Jesse Fox",
-          "Dylan Arena",
-          "Jeremy N. Bailenson"
-        ],
-        "year": 2009,
-        "citation_count": 390,
-        "topics": [
-          "Virtual reality",
-          "Human-computer interaction",
-          "Social science research methods",
-          "Technology effects"
-        ],
-        "abstract": "In this article, we provide the nontechnical reader with a fundamental understanding of the components of virtual reality (VR) and a thorough discussion of the role VR has played in social science. First, we provide a brief overview of the hardware and equipment used to create VR and review common elements found within the virtual environment that may be of interest to social scientists, such as virtual humans and interactive, multisensory feedback. Then, we discuss the role of VR in existing social scientific research. Specifically, we review the literature on the study of VR as an object, wherein we discuss the effects of the technology on human users; VR as an application, wherein we consider real-world applications in areas such as medicine and education; and VR as a method, wherein we provide a comprehensive outline of studies in which VR technologies are used to study phenomena that have traditionally been studied in physical settings, such as nonverbal behavior and social interaction. We then present a content analysis of the literature, tracking the trends for this research over the last two decades. Finally, we present some possibilities for future research for interested social scientists.",
-        "url": "https://doi.org/10.1027/1864-1105.21.3.95",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1027/1864-1105/a000137",
         "title": "The Spatial Presence Experience Scale (SPES)",
         "authors": [
@@ -95,7 +95,7 @@
           "Timo Saari"
         ],
         "year": 2015,
-        "citation_count": 306,
+        "citation_count": 307,
         "topics": [
           "Spatial presence",
           "Media psychology",
@@ -113,7 +113,7 @@
           "Leonard Reinecke"
         ],
         "year": 2009,
-        "citation_count": 284,
+        "citation_count": 285,
         "topics": [
           "Video games",
           "Stress recovery",
@@ -132,7 +132,7 @@
           "Leonard Reinecke"
         ],
         "year": 2010,
-        "citation_count": 269,
+        "citation_count": 270,
         "topics": [
           "Avatar identification",
           "Video game enjoyment",
@@ -151,7 +151,7 @@
           "Anne Bartsch"
         ],
         "year": 2011,
-        "citation_count": 226,
+        "citation_count": 227,
         "topics": [
           "Media appreciation",
           "Audience response",
@@ -209,7 +209,7 @@
           "Wolfgang Wagner"
         ],
         "year": 2012,
-        "citation_count": 189,
+        "citation_count": 190,
         "topics": [
           "Internet forums",
           "Online communities",
@@ -246,7 +246,7 @@
           "Ron Tamborini"
         ],
         "year": 2011,
-        "citation_count": 151,
+        "citation_count": 169,
         "topics": [
           "Moral Foundations Theory",
           "Media Entertainment",
@@ -281,10 +281,10 @@
         "doi": "10.1027/1864-1105/a000011",
         "title": "Do Pedagogical Agents Facilitate Learner Motivation and Learning Outcomes?",
         "authors": [
-          "Steffi Domagk"
+          "Steffi Heidig"
         ],
         "year": 2010,
-        "citation_count": 145,
+        "citation_count": 147,
         "topics": [
           "Pedagogical agents",
           "Learning outcomes",
@@ -324,7 +324,7 @@
           "Gregor Daschmann"
         ],
         "year": 2008,
-        "citation_count": 140,
+        "citation_count": 141,
         "topics": [
           "Parasocial relationships",
           "Suspense",
@@ -359,12 +359,12 @@
         "doi": "10.1027/1864-1105/a000050",
         "title": "Cognitive, Attitudinal, and Emotional Effects of News Frame and Group Cues, on Processing News About Immigration",
         "authors": [
-          "Juan-José Igartua",
+          "Juan José Igartúa Perosanz",
           "Félix Moral-Toranzo",
           "Itziar Fernández"
         ],
         "year": 2011,
-        "citation_count": 111,
+        "citation_count": 113,
         "topics": [
           "Framing effects",
           "Immigration news",
@@ -383,7 +383,7 @@
           "Rens Vliegenthart"
         ],
         "year": 2017,
-        "citation_count": 101,
+        "citation_count": 103,
         "topics": [
           "News consumption",
           "Mental well-being",
@@ -400,10 +400,10 @@
         "authors": [
           "Glenn Leshner",
           "Paul D. Bolls",
-          "Kevin Wise"
+          "Kevin R. Wise"
         ],
         "year": 2011,
-        "citation_count": 101,
+        "citation_count": 102,
         "topics": [
           "Fear appeals",
           "Anti-tobacco advertising",
@@ -459,7 +459,7 @@
         "authors": [
           "Christian Montag",
           "Matthias Flierl",
-          "Sebastian Markett",
+          "Sebastian A. Markett",
           "Nora T. Walter",
           "Magdalena Jurkiewicz",
           "Martin Reuter"
@@ -484,7 +484,7 @@
           "Werner Wirth"
         ],
         "year": 2010,
-        "citation_count": 94,
+        "citation_count": 95,
         "topics": [
           "Parasocial interactions",
           "Measurement validity",
@@ -503,7 +503,7 @@
           "Roxana Moreno"
         ],
         "year": 2010,
-        "citation_count": 92,
+        "citation_count": 94,
         "topics": [
           "Animated Pedagogical Agents",
           "Nonverbal Communication",
@@ -554,7 +554,7 @@
         "title": "Dubbing or Subtitling?",
         "authors": [
           "Bartholomäus Wissmath",
-          "David Weibel",
+          "David T. Weibel",
           "Rudolf Groner"
         ],
         "year": 2009,
@@ -592,7 +592,7 @@
         "doi": "10.1027/1864-1105/a000036",
         "title": "“I Really Liked That Movie”",
         "authors": [
-          "Alice Hall",
+          "Alice E. Hall",
           "Cheryl Campanella Bracken"
         ],
         "year": 2011,
@@ -616,7 +616,7 @@
           "Gamze Özoğul"
         ],
         "year": 2010,
-        "citation_count": 81,
+        "citation_count": 82,
         "topics": [
           "Pedagogical Agents",
           "Visual Attention Guidance",
@@ -625,6 +625,24 @@
         ],
         "abstract": "This study tested the hypothesis that animated pedagogical agents (APAs) can effectively support students’ learning by signaling visual information in multiple-representation learning environments. Novice students learned about electrical circuit analysis with an agent-based instructional program that included circuit diagrams and the corresponding Cartesian graphs. For some students, attention to relevant parts of the display was guided by an animated arrow (A group) or the deictic movements of a pedagogical agent (P group). A control (C) group learned with no visual attention-guiding method. Group P outperformed groups C and A on a posttest and gave lower difficulty ratings than group C. The findings suggest that a promising function of APAs is to support students’ cognitive processing during learning.",
         "url": "https://doi.org/10.1027/1864-1105/a000008",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1027/1864-1105/a000027",
+        "title": "The Role of Morality in Emotional Reactions to and Enjoyment of Media Entertainment",
+        "authors": [
+          "Arthur A. Raney"
+        ],
+        "year": 2011,
+        "citation_count": 78,
+        "topics": [
+          "Morality",
+          "Emotional responses",
+          "Media entertainment",
+          "Character evaluation"
+        ],
+        "abstract": "This article examines the complex role that morality plays in emotional reactions to media entertainment. Morality no doubt influences and to a certain extent governs our emotional responses to media, with the stories we chose to consume, the characters we love and hate, the rationale behind those feelings, the emotions that we experience on their behalf, and the pleasure and meaning comes as a result. Specifically, as media consumers, we experience emotional reactions to characters (liking), to their plights (anticipatory emotions), and to their ultimate outcomes (enjoyment and appreciation). Each of these emotional reactions are regulated by morality: character liking by moral judgments about the behaviors and motivations of characters, anticipatory emotions by sense of expected justice restoration, and enjoyment by the moral evaluation of the actual outcome portrayed in relation to the expected outcome. These processes and relationships are discussed in light of recent work on moral intuition, moral emotions, and moral disengagement.",
+        "url": "https://doi.org/10.1027/1864-1105/a000027",
         "topics_llm": true
       },
       {
@@ -649,9 +667,9 @@
         "doi": "10.1027/1864-1105/a000187",
         "title": "A Conceptual Framework of Narrative Persuasion",
         "authors": [
-          "Anne Hamby",
+          "Anne M. Hamby",
           "David Brinberg",
-          "James Jaccard"
+          "James J. Jaccard"
         ],
         "year": 2016,
         "citation_count": 77,
@@ -666,24 +684,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1027/1864-1105/a000027",
-        "title": "The Role of Morality in Emotional Reactions to and Enjoyment of Media Entertainment",
-        "authors": [
-          "Arthur A. Raney"
-        ],
-        "year": 2011,
-        "citation_count": 77,
-        "topics": [
-          "Morality",
-          "Emotional responses",
-          "Media entertainment",
-          "Character evaluation"
-        ],
-        "abstract": "This article examines the complex role that morality plays in emotional reactions to media entertainment. Morality no doubt influences and to a certain extent governs our emotional responses to media, with the stories we chose to consume, the characters we love and hate, the rationale behind those feelings, the emotions that we experience on their behalf, and the pleasure and meaning comes as a result. Specifically, as media consumers, we experience emotional reactions to characters (liking), to their plights (anticipatory emotions), and to their ultimate outcomes (enjoyment and appreciation). Each of these emotional reactions are regulated by morality: character liking by moral judgments about the behaviors and motivations of characters, anticipatory emotions by sense of expected justice restoration, and enjoyment by the moral evaluation of the actual outcome portrayed in relation to the expected outcome. These processes and relationships are discussed in light of recent work on moral intuition, moral emotions, and moral disengagement.",
-        "url": "https://doi.org/10.1027/1864-1105/a000027",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1027/1864-1105/a000044",
         "title": "Parasocial Interaction as More Than Friendship",
         "authors": [
@@ -691,7 +691,7 @@
           "Sarah F. Rosaen"
         ],
         "year": 2011,
-        "citation_count": 74,
+        "citation_count": 75,
         "topics": [
           "Parasocial interaction",
           "Television audiences",
@@ -712,7 +712,7 @@
           "Rick W. Busselle"
         ],
         "year": 2015,
-        "citation_count": 72,
+        "citation_count": 73,
         "topics": [
           "Narrative engagement",
           "Psychophysiological measures",
@@ -747,7 +747,7 @@
         "authors": [
           "Tim van der Zee",
           "Wilfried Admiraal",
-          "Fred Paas",
+          "FRED G. W. C. PAAS",
           "Nadira Saab",
           "Bas Giesbers"
         ],
@@ -825,6 +825,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1027/1864-1105/a000034",
+        "title": "What’s Next?",
+        "authors": [
+          "Peter Vorderer"
+        ],
+        "year": 2011,
+        "citation_count": 64,
+        "topics": [
+          "Entertainment theory",
+          "Media enjoyment",
+          "Audience reception",
+          "Cultural differences in media"
+        ],
+        "abstract": "This paper points to new developments in the context of entertainment theory. Starting from a background of well-established theories that have been proposed and elaborated mainly by Zillmann and his collaborators since the 1980s, a new two-factor model of entertainment is introduced. This model encompasses “enjoyment” and “appreciation” as two independent factors. In addition, several open questions regarding cultural differences in humans’ responses to entertainment products or the usefulness of various theoretical concepts like “presence,” “identification,” or “transportation” are also discussed. Finally, the question of why media users are seeking entertainment is brought to the forefront, and a possibly relevant need such as the “search for meaningfulness” is mentioned as a possible major candidate for such an explanation.",
+        "url": "https://doi.org/10.1027/1864-1105/a000034",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1027/1864-1105/a000196",
         "title": "The Association Between Social Networking Sites and Alcohol Abuse Among Belgian Adolescents",
         "authors": [
@@ -840,24 +858,6 @@
         ],
         "abstract": "Abstract. Both consuming alcohol and using social networking sites (SNS) are popular pastimes among adolescents. The current cross-sectional study (N = 3,133) aims to explore the relation between being exposed to and displaying alcohol-related content on SNS with alcohol abuse among adolescents aged 16–20 years. First, the results support that displaying alcohol-related content on SNS is more strongly associated with alcohol abuse than exposure to this kind of content. Furthermore, the associations of both exposure to and displaying alcohol-related content on SNS with alcohol abuse are mediated through perceived social norms of friends and attitudes toward excessive alcohol consumption. Yet, whereas alcohol-related attitudes and social norms seemed to be equally important mediators in the relation between exposure to alcohol-related content on SNS and alcohol abuse, the association between displaying alcohol-related content on SNS and alcohol abuse seemed to be mediated predominantly through a change in alcohol-related attitudes. Overall, this study sheds more light on the complex relations between SNS use and risky drinking behavior among adolescents.",
         "url": "https://doi.org/10.1027/1864-1105/a000196",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1027/1864-1105/a000034",
-        "title": "What’s Next?",
-        "authors": [
-          "Peter Vorderer"
-        ],
-        "year": 2011,
-        "citation_count": 63,
-        "topics": [
-          "Entertainment theory",
-          "Media enjoyment",
-          "Audience reception",
-          "Cultural differences in media"
-        ],
-        "abstract": "This paper points to new developments in the context of entertainment theory. Starting from a background of well-established theories that have been proposed and elaborated mainly by Zillmann and his collaborators since the 1980s, a new two-factor model of entertainment is introduced. This model encompasses “enjoyment” and “appreciation” as two independent factors. In addition, several open questions regarding cultural differences in humans’ responses to entertainment products or the usefulness of various theoretical concepts like “presence,” “identification,” or “transportation” are also discussed. Finally, the question of why media users are seeking entertainment is brought to the forefront, and a possibly relevant need such as the “search for meaningfulness” is mentioned as a possible major candidate for such an explanation.",
-        "url": "https://doi.org/10.1027/1864-1105/a000034",
         "topics_llm": true
       },
       {
@@ -950,7 +950,7 @@
           "Matthias Höfer"
         ],
         "year": 2013,
-        "citation_count": 58,
+        "citation_count": 59,
         "topics": [
           "Entertainment appreciation",
           "Mortality salience",
@@ -983,11 +983,69 @@
     ],
     "latest": [
       {
+        "doi": "10.1027/1864-1105/a000521",
+        "title": "Deindividuation Among Gendered Violence Survivors and Posting About #MeToo",
+        "authors": [
+          "Shannon Pappas",
+          "Kathryn D. Coduto",
+          "Jenn Anderson"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "#MeToo",
+          "Deindividuation",
+          "Online activism",
+          "Sexual violence disclosure"
+        ],
+        "abstract": "Abstract: Individuals have numerous channels to choose from when posting online, particularly when posting about sensitive or highly personal topics. This study uses the social identity model of deindividuation effects to examine why individuals posted about the #MeToo movement, considering whether they posted about their own experiences as survivors of gendered violence. Specifically, this manuscript offers an alternative theoretical perspective by focusing on positive deindividuation consequences. Participants ( N = 256) completed a survey measuring social identification and perceived anonymity affordances; participants also completed a perceived deindividuation scale that was created for this study and found to be reliable. Results reveal that survivors who posted with #MeToo had stronger group identification with others posting, higher perceptions of anonymity afforded on social network sites, and higher perceptions of deindividuation during #MeToo compared to survivors who chose not to post. This work offers theoretical implications related to positive deindividuating effects, as well as an exploratory measure for deindividuation experiences. Furthermore, this work discusses practical implications related to what makes an online social movement “successful.”",
+        "url": "https://doi.org/10.1027/1864-1105/a000521",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1027/1864-1105/a000520",
+        "title": "The Making of Media Entertainment",
+        "authors": [
+          "Robert Joel Lewis"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Entertainment",
+          "Media production",
+          "Attention mechanisms",
+          "Superstimuli"
+        ],
+        "abstract": "Abstract: Entertainment science remains a mosaic of disconnected research streams, each generating valuable insights but lacking a cross-cutting mechanism to reveal their connections. Existing understandings do not link different areas of theory, such as research on entertainment’s appeal versus research on its maladaptive effects. This paper proposes that attending to how entertainment is made can bridge these streams. What entertainment is, on this view, is a technology: entertainment is a deliberately iterated system of superstimuli (unnaturally attention-grabbing stimuli that activate evolved cognitive mechanisms) that producers refine to capture audiences and serve their own goals. Drawing on predictive-mind frameworks from computational neuroscience, this paper treats attention as precision-weighted Bayesian inference and shows how entertainment taps that inference architecture using increasingly sophisticated superstimulus technologies. This view reveals attention capture as a common principle underlying diverse entertainment phenomena. It (a) provides a principled taxonomy that maps research domains onto the evolved mechanisms content activates, (b) reframes and resolves the paradox of suspense, (c) generates first-principles predictions about content evolution and cultivation effects, and (d) helps account for entertainment’s appeal. By identifying what unites disparate research traditions, this approach enables researchers across subfields to position their investigations within a shared theoretical landscape capable of generating cumulative, interconnected knowledge.",
+        "url": "https://doi.org/10.1027/1864-1105/a000520",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1027/1864-1105/a000522",
+        "title": "Navigating Trans-Parasocial Relationships and Emotional Bonds",
+        "authors": [
+          "Y.M. Hu",
+          "Cindy Sing Bik Ngai",
+          "Morgan E. Ellithorpe"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Parasocial relationships",
+          "Social media influencers",
+          "Adolescent audiences",
+          "Digital culture"
+        ],
+        "abstract": "Abstract: Social media influencers have emerged as powerful figures in digital culture, engaging followers in relationships that differ from one-sided parasocial dynamics. Scholars have proposed the framework of trans-parasocial relations, characterized by collective reciprocity, synchronous and asynchronous interaction, and co-creation. However, little research has explored this phenomenon among adolescents, who are particularly susceptible to media influence. This study conducted semistructured interviews with 20 Chinese adolescents aged 13–19 to examine their perceived relationships and emotional bonds with influencers. Findings corroborate and extend trans-parasocial relationships in the adolescent context, showing that these connections are imaginably and interactively connected, collectively and selectively reciprocal, and co-created. Importantly, the study reveals a set of distinct emotional bonding patterns in trans-parasocial relationships that diverge from traditional parasocial attachment, characterized by automated proximity, hedonic attachment, familiarity-based security, and flexible commitment. These insights offer a culturally grounded contribution to media psychology and deepen understanding of adolescent engagement in social media environments.",
+        "url": "https://doi.org/10.1027/1864-1105/a000522",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1027/1864-1105/a000519",
         "title": "Different Gameplay Styles, Different Psychological Needs – Linking Relatedness to Behavioral Indicators of Relational Social Influence",
         "authors": [
           "Ji Ye Kim",
-          "Dmitri Williams",
+          "Dmitri C. Williams",
           "Dong-Gyu Kim",
           "Siyi Zhou",
           "Zituo Wang",
@@ -1049,7 +1107,7 @@
         "doi": "10.1027/1864-1105/a000514",
         "title": "Level Up Your Mood – Mood Repair Effects of Hedonic Versus Eudaimonic Video Games",
         "authors": [
-          "Gary L. Wagener",
+          "Gary Lee Wagener",
           "André Melzer"
         ],
         "year": 2026,
@@ -1128,7 +1186,7 @@
         "title": "More Is Not Always More: Rethinking Task Demand and Mood Repair in VR Gaming",
         "authors": [
           "Elena Yifei Zhao",
-          "Nicholas D. Bowman"
+          "Nicholas David Bowman"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1147,7 +1205,7 @@
         "title": "Do I Need Pleasure, Meaning, or New Ideas Today? Exploring the Relationship Between Daily Experiences, Motivations for Media Use, and Content Preferences",
         "authors": [
           "Sara M. Grady",
-          "Dominique Wirz",
+          "Dominique Stefanie Wirz",
           "Morgan E. Ellithorpe",
           "Ezgi Ulusoy",
           "Allison Eden"
@@ -1169,7 +1227,7 @@
         "authors": [
           "Jack Lipei Tang",
           "Mingxuan Liu",
-          "Dmitri Williams"
+          "Dmitri C. Williams"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1310,7 +1368,7 @@
         "title": "Framerate Sensitivity and Cinemagoing Explain the Soap Opera Effect of Films",
         "authors": [
           "Sonny Rosenthal",
-          "Benjamin J. Li"
+          "Benjamin Junting Li"
         ],
         "year": 2025,
         "citation_count": 0,
@@ -1346,7 +1404,7 @@
         "doi": "10.1027/1864-1105/a000502",
         "title": "Direct and Vicarious Routes to Relatedness Need Satisfaction Through Narrative Media",
         "authors": [
-          "Emma Bognar",
+          "Emma J. Bognar",
           "Kristi A. Costabile"
         ],
         "year": 2025,
@@ -1403,7 +1461,7 @@
         "doi": "10.1027/1864-1105/a000493",
         "title": "The Representation of Moral Intuitions in Stories Created by ChatGPT",
         "authors": [
-          "Joshua Baldwin"
+          "Joshua A. Baldwin"
         ],
         "year": 2025,
         "citation_count": 1,
@@ -1616,7 +1674,7 @@
         "doi": "10.1027/1864-1105/a000488",
         "title": "Who Am I? Mothers’ Self-Uncertainty, Identification, and Conformity in Online Maternal Groups on Social Media",
         "authors": [
-          "J.-W. Kim",
+          "Jinhee Kim",
           "Jung Hyun Kim"
         ],
         "year": 2025,
@@ -1677,7 +1735,7 @@
         "title": "Information Integrity in a Digital Age",
         "authors": [
           "Richard Huskey",
-          "Heather J. Hether",
+          "Heather Jane Hether",
           "Soojong Kim"
         ],
         "year": 2025,
@@ -1696,7 +1754,7 @@
         "doi": "10.1027/1864-1105/a000483",
         "title": "What Post-Pandemic Paradox?",
         "authors": [
-          "Bridget Rubenking",
+          "Bridget E. Rubenking",
           "Monica Mayer",
           "Melissa Looney",
           "Walker Talton"
@@ -1717,7 +1775,7 @@
         "doi": "10.1027/1864-1105/a000484",
         "title": "Facts About Fact-Checkers: Comparing Credibility Perceptions, Usage, and Sharing of Different Fact-Checking Sources",
         "authors": [
-          "Qi Li",
+          "Qi Lecky Li",
           "Laurent H. Wang",
           "Xingyu Liu",
           "Miriam J. Metzger"
@@ -1777,7 +1835,7 @@
         "title": "Leveraging Motivations to Curb Misinformation",
         "authors": [
           "Camille J. Saucier",
-          "Christopher Calabrese",
+          "Christopher R. Calabrese",
           "Nathan Walter"
         ],
         "year": 2025,
@@ -1889,64 +1947,6 @@
         ],
         "abstract": "Abstract: TikTok’s algorithm (the “For You Page”) leads like-minded, like-diagnosed users together. Amid users frequenting comment sections, seldom research examines how venues of algorithmically-dominated social media might contextualize mental illness discourse. In exploration of how users’ perceived realities both inform and are informed by algorithmic social media environments, the present study offers a theoretical extension of cultivation theory. A reflexive thematic analysis of TikTok comment sections from 15 videos ( N = 15,540 comments) spanning mental illness-related topics including suicidality, bipolar disorder, eating disorders, premenstrual dysphoric disorder, and obsessive-compulsive disorder, positions shared and distinguished knowledge between subject groups as a central component of health communication on the platform. Findings illuminate processes of self-diagnosing, presence of an “algorithmic clock,” emotional contagion, and confession hour, driven by the algorithmic environment. Questioning healthcare treatment, looming stigma, and distinct relational struggles thematically illuminated the sharing of such illness-related experiences.",
         "url": "https://doi.org/10.1027/1864-1105/a000474",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1027/1864-1105/a000473",
-        "title": "Media Task-Switching as Self-Control Failure",
-        "authors": [
-          "Ranran Z. Mi",
-          "Catalina L. Toma",
-          "Shiwei Mo"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Media multitasking",
-          "Self-control",
-          "Task performance",
-          "Distraction"
-        ],
-        "abstract": "Abstract: Media task-switching refers to the act of interrupting a primary task by turning to media distractions. Using a self-control failure framework, this paper examines why and to what effect people engage in task-switching with media. We theorize that media task-switching is dually shaped by people’s motivation to perform well on the primary task and by the presence of “tempting” media. Study 1, a lab experiment ( N = 188), shows that (1) the availability of media produced task-switching, while high motivation to perform well on the primary task reduced it; (2) some media activities (i.e., Facebook browsing) improved mood, but overall, task-switching decreased mood; and (3) task-switching led to a significant drop in task performance. Study 2, a vignette-based online experiment with mixed model design ( N = 163) replicates the effect of motivation on task-switching and further examines how the effortfulness of media activities influences task-switching. In both social media use and texting context, individuals were more likely to switch to low-effort activities (e.g., browsing social media, checking messages) compared to medium-effort or high-effort activities (e.g., composing posts, initiating messages). This paper provides evidence that both psychological and media-related factors jointly shape media task-switching, and advances self-control theory by explicating the tempting characteristics of daily media use.",
-        "url": "https://doi.org/10.1027/1864-1105/a000473",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1027/1864-1105/a000470",
-        "title": "Is It Time to Abandon the Media Multitasking Index?",
-        "authors": [
-          "Douglas A. Parry",
-          "Jacob T. Fisher"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Media multitasking",
-          "Measurement validity",
-          "Cognitive functioning"
-        ],
-        "abstract": "Abstract: For over a decade, the media multitasking index (MMI) has been the de facto standard measure for media multitasking. Thousands of studies in communication and adjacent disciplines have used the measure to investigate the relationship between media multitasking and cognitive functioning. In this paper we pose one central question: Is it time to abandon the MMI as a valid measure of individual differences in media multitasking? To answer this question, we highlight a selection of practical, methodological, and theoretical concerns regarding the validity and usefulness of the MMI for indexing media multitasking. Thereafter, we outline a research agenda to evaluate the veracity of these concerns and to advance the development of new measures of media multitasking and the adoption of new research designs. In doing so, we aim to integrate disjointed perspectives and stimulate new, improved theoretical and methodological practices in media multitasking research.",
-        "url": "https://doi.org/10.1027/1864-1105/a000470",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1027/1864-1105/a000471",
-        "title": "Experimental Testing of Active vs. Passive Inoculation Interventions on Adolescents’ News Discernment and Learning Enjoyment",
-        "authors": [
-          "Anne Reinhardt",
-          "Claudia Wilhelm",
-          "Sophie Mayen"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Media literacy",
-          "Misinformation inoculation",
-          "Adolescent news discernment",
-          "Game-based learning"
-        ],
-        "abstract": "Abstract: Adolescents increasingly rely on social media platforms for news consumption, highlighting the urgent need to equip them with the skills to differentiate between credible and deceptive information. To address this challenge, we developed two logic-based inoculation interventions suitable for classroom settings: an online game (active) and a leaflet (passive). In a school experiment involving 373 participants, we assessed students’ news discernment ability before and after exposure to the interventions, evaluating veracity discernment, fake and real news detection, and response biases. Additionally, we examined the interventions’ effects on students’ enjoyment of learning, recognizing its critical role in game-based learning. Findings show that enjoyment was significantly higher in the active intervention group compared to the passive one. However, our findings revealed no significant differences in credibility evaluation performance between the two intervention types over time. Moreover, we uncovered a paradoxical trend: while students improved in identifying fake news after the interventions, they demonstrated a decline in proficiency at identifying real news. The observed effect highlights the importance of a holistic approach to media literacy education, incorporating strategies to evaluate both fake and real news sources to mitigate unexpected backfire effects.",
-        "url": "https://doi.org/10.1027/1864-1105/a000471",
         "topics_llm": true
       }
     ],
