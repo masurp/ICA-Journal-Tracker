@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-09-28T12:58:39Z",
-  "trending_from": "2024-09-28",
+  "updated_at": "2026-10-05T13:40:34Z",
+  "trending_from": "2024-10-05",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4261,
+        "citation_count": 4264,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2644,
+        "citation_count": 2662,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1881,
+        "citation_count": 1887,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1141,
+        "citation_count": 1147,
         "topics": [
           "Scale development",
           "Measurement",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 847,
+        "citation_count": 850,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 459,
+        "citation_count": 458,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -167,7 +167,7 @@
           "Michael Scharkow"
         ],
         "year": 2016,
-        "citation_count": 437,
+        "citation_count": 435,
         "topics": [
           "Self-reported media use",
           "Internet usage measurement",
@@ -205,7 +205,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 411,
+        "citation_count": 412,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -225,7 +225,7 @@
           "Kenneth R. Benoit"
         ],
         "year": 2017,
-        "citation_count": 278,
+        "citation_count": 280,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 243,
+        "citation_count": 242,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -282,7 +282,7 @@
           "Peter C. Neijens"
         ],
         "year": 2016,
-        "citation_count": 232,
+        "citation_count": 233,
         "topics": [
           "Media exposure measurement",
           "Digital media landscape",
@@ -301,7 +301,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 229,
+        "citation_count": 232,
         "topics": [
           "News framing",
           "Computational methods",
@@ -365,7 +365,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 200,
+        "citation_count": 201,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -407,7 +407,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 189,
+        "citation_count": 188,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -471,7 +471,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 172,
+        "citation_count": 173,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -660,7 +660,7 @@
         "doi": "10.1080/19312458.2010.547823",
         "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
         "authors": [
-          "Douglas Alwyn Luke",
+          "Douglas A. Luke",
           "Charlene A. Caburnay",
           "Elisia L. Cohen"
         ],
@@ -708,7 +708,7 @@
           "Christopher Pineda Monterola"
         ],
         "year": 2011,
-        "citation_count": 108,
+        "citation_count": 109,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -894,26 +894,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2016.1150973",
-        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
-        "authors": [
-          "Kim Viborg Andersen",
-          "Claes H. de Vreese",
-          "Erik Albæk"
-        ],
-        "year": 2016,
-        "citation_count": 80,
-        "topics": [
-          "Media exposure measurement",
-          "Survey methodology",
-          "Media consumption",
-          "Self-report validity"
-        ],
-        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
-        "url": "https://doi.org/10.1080/19312458.2016.1150973",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2014.903391",
         "title": "Conceptual, Empirical, and Practical Issues in Developing Valid Measures of Public Communication Campaign Exposure",
         "authors": [
@@ -932,6 +912,46 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2016.1150973",
+        "title": "Measuring Media Diet in a High-Choice Environment - Testing the List-Frequency Technique",
+        "authors": [
+          "Kim Viborg Andersen",
+          "Claes H. de Vreese",
+          "Erik Albæk"
+        ],
+        "year": 2016,
+        "citation_count": 79,
+        "topics": [
+          "Media exposure measurement",
+          "Survey methodology",
+          "Media consumption",
+          "Self-report validity"
+        ],
+        "abstract": "How to measure exposure to information in the media is highly disputed, primarily due to the difficulties of obtaining accurate self-reports. The growing supply of outlets and proliferation of information sources have added an additional level of complexity to these problems. Reflecting on old and new approaches for measuring exposure to political information, it is argued that both the specific source and the frequency of exposure must be taken into account. The validity of this so-called “list-frequency technique” is tested using a two-wave panel survey as well as a split sample experiment from the survey pre-test to enable comparison with the “list technique.” The results support the list-frequency technique in being a good solution, since it provides the same aggregate estimates of media use as the already validated list technique, and may give more detailed effect estimates and increase the explained variance when predicting political knowledge.",
+        "url": "https://doi.org/10.1080/19312458.2016.1150973",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312450903378925",
+        "title": "Exposure, Attention, or “Use” of News? Assessing Aspects of the Reliability and Validity of a Central Concept in Political Communication Research",
+        "authors": [
+          "William P. Eveland",
+          "Myiah J. Hutchens",
+          "Fei Shen"
+        ],
+        "year": 2009,
+        "citation_count": 79,
+        "topics": [
+          "News media use",
+          "Measurement validity",
+          "Political communication research",
+          "Media exposure and attention"
+        ],
+        "abstract": "The concept of news media use 1 1Although others have used the broader term “media orientations” (McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), we employ the term “use” as a superordinate label that can subsume exposure, attention, or some combination of the two. More than 20 studies since 2004 have employed this term in their titles or abstracts alone, and it seems to us a useful shorthand for both the behavioral (exposure) and cognitive (attention) components of experiencing news. Matthew Barnidge is a Postdoctoral Researcher, Department of Communication, University of Vienna. has been at the center of political communication research during the past several decades. Historically, scholars have employed measures of exposure to news (Atkin, Galloway, & Nayman, 1976 Atkin, C. K., Galloway, J. and Nayman, O. B. 1976. News media exposure, political knowledge and campaign interest. Journalism Quarterly, 53: 231–237. [Crossref], [Web of Science ®] , [Google Scholar]), attention to news (Chaffee & Schleuder, 1986 Chaffee, S. H. and Schleuder, J. 1986. Measurement and effects of attention to media news. Human Communication Research, 13: 76–107. [Crossref], [Web of Science ®] , [Google Scholar]; McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), and reliance on news (Culbertson & Stempel, 1986 Culbertson, H. M. and Stempel, G. H. I II. 1986. How media use and reliance affect knowledge level. Communication Research, 13: 579–602. [Crossref], [Web of Science ®] , [Google Scholar]) to tap this concept. Moreover, they have been interested in determining the influence of the use of news on various political outcomes, including political knowledge, political participation, and public opinion. Despite a massive accumulation of literature on these topics, what is missing is a consistent and validated survey measure of news use (Chaffee, 2001 Chaffee, S. 2001. Studying the new communication of politics. Political Communication, 18: 237–244. [Taylor & Francis Online], [Web of Science ®] , [Google Scholar]). Given the centrality of this concept and its measurement to the field, it seems appropriate that efforts to better understand the implication of various conceptualizations and measurement approaches be undertaken. Some research on this topic, with an exclusive emphasis on exposure measures, has appeared in recent years (e.g., Althaus & Tewksbury, 2007 Althaus, S. L. and Tewksbury, D. H. 2007. Toward a new generation of media use measures for the ANES., Report to the Board of Overseers, American National Election Study [Google Scholar]; Chang & Krosnick, 2003 Chang, L. C. and Krosnick, J. A. 2003. Measuring the frequency of regular behaviors: Comparing the “typical week” to the “past week.”. Sociological Methodology, 33: 55–80. [Crossref], [Web of Science ®] , [Google Scholar]), but more is needed, particularly given the heavy use of both exposure and attention measures in the extant literature. In this study, we focus on the internal consistency, dimensional structure, and some aspects of validity of measures of frequency of exposure and attention to various news media sources as predictors of political knowledge. We also address analysis issues that follow from the measurement issues. Following prior research (e.g., Price & Zaller, 1993 Price, V. and Zaller, J. 1993. Who gets the news? Alternative measures of news reception and their implications for research. Public Opinion Quarterly, 57: 133–164. [Crossref], [Web of Science ®] , [Google Scholar]), we focus on political knowledge as an important validity criterion, although we certainly acknowledge that other criteria, such as political participation, may be equally important.",
+        "url": "https://doi.org/10.1080/19312450903378925",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312450709336663",
         "title": "The Role of Numbers and Statistics within Conversation Analysis",
         "authors": [
@@ -946,26 +966,6 @@
         ],
         "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
         "url": "https://doi.org/10.1080/19312450709336663",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312450903378925",
-        "title": "Exposure, Attention, or “Use” of News? Assessing Aspects of the Reliability and Validity of a Central Concept in Political Communication Research",
-        "authors": [
-          "William P. Eveland",
-          "Myiah J. Hutchens",
-          "Fei Shen"
-        ],
-        "year": 2009,
-        "citation_count": 78,
-        "topics": [
-          "News media use",
-          "Measurement validity",
-          "Political communication research",
-          "Media exposure and attention"
-        ],
-        "abstract": "The concept of news media use 1 1Although others have used the broader term “media orientations” (McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), we employ the term “use” as a superordinate label that can subsume exposure, attention, or some combination of the two. More than 20 studies since 2004 have employed this term in their titles or abstracts alone, and it seems to us a useful shorthand for both the behavioral (exposure) and cognitive (attention) components of experiencing news. Matthew Barnidge is a Postdoctoral Researcher, Department of Communication, University of Vienna. has been at the center of political communication research during the past several decades. Historically, scholars have employed measures of exposure to news (Atkin, Galloway, & Nayman, 1976 Atkin, C. K., Galloway, J. and Nayman, O. B. 1976. News media exposure, political knowledge and campaign interest. Journalism Quarterly, 53: 231–237. [Crossref], [Web of Science ®] , [Google Scholar]), attention to news (Chaffee & Schleuder, 1986 Chaffee, S. H. and Schleuder, J. 1986. Measurement and effects of attention to media news. Human Communication Research, 13: 76–107. [Crossref], [Web of Science ®] , [Google Scholar]; McLeod & McDonald, 1985 McLeod, J. M. and McDonald, D. 1985. Beyond simple exposure: Media orientations and their impact on political processes. Communication Research, 12: 3–33. [Crossref], [Web of Science ®] , [Google Scholar]), and reliance on news (Culbertson & Stempel, 1986 Culbertson, H. M. and Stempel, G. H. I II. 1986. How media use and reliance affect knowledge level. Communication Research, 13: 579–602. [Crossref], [Web of Science ®] , [Google Scholar]) to tap this concept. Moreover, they have been interested in determining the influence of the use of news on various political outcomes, including political knowledge, political participation, and public opinion. Despite a massive accumulation of literature on these topics, what is missing is a consistent and validated survey measure of news use (Chaffee, 2001 Chaffee, S. 2001. Studying the new communication of politics. Political Communication, 18: 237–244. [Taylor & Francis Online], [Web of Science ®] , [Google Scholar]). Given the centrality of this concept and its measurement to the field, it seems appropriate that efforts to better understand the implication of various conceptualizations and measurement approaches be undertaken. Some research on this topic, with an exclusive emphasis on exposure measures, has appeared in recent years (e.g., Althaus & Tewksbury, 2007 Althaus, S. L. and Tewksbury, D. H. 2007. Toward a new generation of media use measures for the ANES., Report to the Board of Overseers, American National Election Study [Google Scholar]; Chang & Krosnick, 2003 Chang, L. C. and Krosnick, J. A. 2003. Measuring the frequency of regular behaviors: Comparing the “typical week” to the “past week.”. Sociological Methodology, 33: 55–80. [Crossref], [Web of Science ®] , [Google Scholar]), but more is needed, particularly given the heavy use of both exposure and attention measures in the extant literature. In this study, we focus on the internal consistency, dimensional structure, and some aspects of validity of measures of frequency of exposure and attention to various news media sources as predictors of political knowledge. We also address analysis issues that follow from the measurement issues. Following prior research (e.g., Price & Zaller, 1993 Price, V. and Zaller, J. 1993. Who gets the news? Alternative measures of news reception and their implications for research. Public Opinion Quarterly, 57: 133–164. [Crossref], [Web of Science ®] , [Google Scholar]), we focus on political knowledge as an important validity criterion, although we certainly acknowledge that other criteria, such as political participation, may be equally important.",
-        "url": "https://doi.org/10.1080/19312450903378925",
         "topics_llm": true
       },
       {
@@ -1095,6 +1095,25 @@
         ],
         "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2026.2658505",
+        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
+        "authors": [
+          "Ulrich Schimmack",
+          "Marion Soto"
+        ],
+        "year": 2026,
+        "citation_count": 1,
+        "topics": [
+          "Publication bias",
+          "Statistical power",
+          "Research credibility",
+          "Replicability"
+        ],
+        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
+        "url": "https://doi.org/10.1080/19312458.2026.2658505",
         "topics_llm": true
       },
       {
@@ -1275,7 +1294,7 @@
           "Elisa Omodei"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Online political polarization",
           "Invisible engagement",
@@ -1427,7 +1446,7 @@
           "Mélanie Revilla"
         ],
         "year": 2024,
-        "citation_count": 12,
+        "citation_count": 17,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -1587,7 +1606,7 @@
           "Chung‐hong Chan"
         ],
         "year": 2024,
-        "citation_count": 19,
+        "citation_count": 20,
         "topics": [
           "Automated content analysis",
           "Misclassification bias",
@@ -1609,7 +1628,7 @@
           "Marko Bachl"
         ],
         "year": 2024,
-        "citation_count": 6,
+        "citation_count": 7,
         "topics": [
           "Communication science",
           "Research methodology",
@@ -1651,7 +1670,7 @@
           "Martin Canaan Mafunda"
         ],
         "year": 2023,
-        "citation_count": 12,
+        "citation_count": 13,
         "topics": [
           "Speaker embeddings",
           "Linguistic similarity",
@@ -1714,7 +1733,7 @@
           "Zhiying Yue"
         ],
         "year": 2023,
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Keyword selection",
           "Text data retrieval",
@@ -1821,7 +1840,7 @@
           "Nilám Ram"
         ],
         "year": 2023,
-        "citation_count": 14,
+        "citation_count": 16,
         "topics": [
           "Dyadic communication",
           "Dynamic systems theory",
@@ -1884,7 +1903,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -2022,24 +2041,6 @@
         ],
         "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
         "url": "https://doi.org/10.1080/19312458.2023.2207005",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2023.2183188",
-        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
-        "authors": [
-          "Kilian Buehling"
-        ],
-        "year": 2023,
-        "citation_count": 25,
-        "topics": [
-          "Social media data",
-          "Message deletion",
-          "Computational analysis",
-          "Data quality"
-        ],
-        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
-        "url": "https://doi.org/10.1080/19312458.2023.2183188",
         "topics_llm": true
       }
     ],
