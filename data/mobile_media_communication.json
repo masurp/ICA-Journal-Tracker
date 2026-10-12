@@ -1,7 +1,7 @@
 {
   "journal_id": "mobile_media_communication",
-  "updated_at": "2026-10-05T13:40:15Z",
-  "trending_from": "2024-10-05",
+  "updated_at": "2026-10-12T14:29:23Z",
+  "trending_from": "2024-10-12",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
           "Jing Zeng"
         ],
         "year": 2020,
-        "citation_count": 493,
+        "citation_count": 494,
         "topics": [
           "Platform evolution",
           "Mobile short video",
@@ -32,7 +32,7 @@
           "Stephen A. Rains"
         ],
         "year": 2017,
-        "citation_count": 299,
+        "citation_count": 292,
         "topics": [
           "Digital divide",
           "Smartphone access",
@@ -51,7 +51,7 @@
           "Christoph Lutz"
         ],
         "year": 2016,
-        "citation_count": 287,
+        "citation_count": 288,
         "topics": [
           "Online dating",
           "Self-presentation",
@@ -60,6 +60,26 @@
         ],
         "abstract": "The emergence of location-based real-time dating (LBRTD) apps such as Tinder has introduced a new way for users to get to know potential partners nearby. The design of the apps represents a departure from “old-school” dating sites as it relies on the affordances of mobile media. This might change the way individuals portray themselves as their authentic or deceptive self. Based on survey data collected via Mechanical Turk and using structural equation modeling, we assess how Tinder users present themselves, exploring at the same time the impact of their personality characteristics, their demographics, and their motives of use. We find that self-esteem is the most important psychological predictor, fostering real self-presentation but decreasing deceptive self-presentation. The motives of use—hooking up/sex, friendship, relationship, traveling, self-validation, and entertainment—also affect the two forms of self-presentation. Demographic characteristics and psychological antecedents influence the motives for using Tinder, with gender differences being especially pronounced. Women use Tinder more for friendship and self-validation, while men use it more for hooking up/sex, traveling, and relationship seeking. We put the findings into context, discuss the limitations of our approach and provide avenues for future research into the topic.",
         "url": "https://doi.org/10.1177/2050157916664559",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157919843961",
+        "title": "The privacy implications of social robots: Scoping review and expert interviews",
+        "authors": [
+          "Christoph Lutz",
+          "Maren Schöttler",
+          "Christian Pieter Hoffmann"
+        ],
+        "year": 2019,
+        "citation_count": 204,
+        "topics": [
+          "Social robots",
+          "Privacy implications",
+          "Human-machine communication",
+          "Mobile technology"
+        ],
+        "abstract": "In this contribution, we investigate the privacy implications of social robots as an emerging mobile technology. Drawing on a scoping literature review and expert interviews, we show how social robots come with privacy implications that go beyond those of established mobile technology. Social robots challenge not only users’ informational privacy but also affect their physical, psychological, and social privacy due to their autonomy and potential for social bonding. These distinctive privacy challenges require study from varied theoretical perspectives, with contextual privacy and human–machine communication emerging as particularly fruitful lenses. Findings also point to an increasing focus on technological privacy solutions, complementing an evolving legal landscape as well as a strengthening of user agency and literacy.",
+        "url": "https://doi.org/10.1177/2050157919843961",
         "topics_llm": true
       },
       {
@@ -76,7 +96,7 @@
           "Prabu David"
         ],
         "year": 2018,
-        "citation_count": 213,
+        "citation_count": 199,
         "topics": [
           "Smartphone usage",
           "Task switching",
@@ -88,26 +108,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157919843961",
-        "title": "The privacy implications of social robots: Scoping review and expert interviews",
-        "authors": [
-          "Christoph Lutz",
-          "Maren Schöttler",
-          "Christian Pieter Hoffmann"
-        ],
-        "year": 2019,
-        "citation_count": 203,
-        "topics": [
-          "Social robots",
-          "Privacy implications",
-          "Human-machine communication",
-          "Mobile technology"
-        ],
-        "abstract": "In this contribution, we investigate the privacy implications of social robots as an emerging mobile technology. Drawing on a scoping literature review and expert interviews, we show how social robots come with privacy implications that go beyond those of established mobile technology. Social robots challenge not only users’ informational privacy but also affect their physical, psychological, and social privacy due to their autonomy and potential for social bonding. These distinctive privacy challenges require study from varied theoretical perspectives, with contextual privacy and human–machine communication emerging as particularly fruitful lenses. Findings also point to an increasing focus on technological privacy solutions, complementing an evolving legal landscape as well as a strengthening of user agency and literacy.",
-        "url": "https://doi.org/10.1177/2050157919843961",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157913505257",
         "title": "New visualities and the digital wayfarer: Reconceptualizing camera phone photography and locative media",
         "authors": [
@@ -115,7 +115,7 @@
           "Sarah Pink"
         ],
         "year": 2013,
-        "citation_count": 193,
+        "citation_count": 192,
         "topics": [
           "Mobile photography",
           "Location-based services",
@@ -134,7 +134,7 @@
           "Corinna Peil"
         ],
         "year": 2019,
-        "citation_count": 175,
+        "citation_count": 174,
         "topics": [
           "Mobile instant messaging",
           "Media usage research methods",
@@ -154,7 +154,7 @@
           "Jessica Taylor Piotrowski"
         ],
         "year": 2020,
-        "citation_count": 159,
+        "citation_count": 151,
         "topics": [
           "Mobile data donations",
           "Self-report accuracy",
@@ -163,27 +163,6 @@
         ],
         "abstract": "With digital communication increasingly shifting to mobile devices, communication research needs to explore ways to retrieve, process, and analyze digital trace data on people’s most personal devices. This study presents a new methodological approach, mobile data donations, in which smartphone usage data is collected unobtrusively with the help of mobile log data. The iOS Screen Time function is used as a test case for gathering log data with the help of screenshots. The study investigates the feasibility of the method, sample biases, and accuracy of smartphone usage self-reports on a general population sample of Dutch citizens ( n=404). Importantly, it explores how mobile data donations can be used as add-ons or substitutes for conventional media exposure measures. Results indicate that (a) users’ privacy concerns and technical skills are crucial factors for the willingness to donate mobile log data and (b) there is a strong tendency for underreporting of smartphone usage duration and frequency.",
         "url": "https://doi.org/10.1177/2050157920959106",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157920902830",
-        "title": "How psychosocial well-being and usage amount predict inaccuracies in retrospective estimates of digital technology use",
-        "authors": [
-          "Craig Jeffrey Robb Sewall",
-          "Todd Bear",
-          "John A. Merranko",
-          "Daniel Rosen"
-        ],
-        "year": 2020,
-        "citation_count": 155,
-        "topics": [
-          "digital technology use",
-          "retrospective bias",
-          "psychosocial well-being",
-          "self-report measurement error"
-        ],
-        "abstract": "Using Apple’s Screen Time application to obtain reported actual iPhone and social media (SM) use, we examined the accuracy of retrospective estimates of usage, how inaccuracies bias associations between use and psychosocial well-being (depression, loneliness, and life satisfaction), and the degree to which inaccuracies were predicted by levels of well-being. Among a sample of 325 iPhone users, we found that (a) participants misestimated their weekly overall iPhone and SM use by 19.1 and 12.2 hours, respectively; (b) correlations between estimated use and well-being variables were consistently stronger than the correlations between reported actual use and well-being variables; and (c) the degree of inaccuracy in estimated use was associated with levels of participant well-being and amount of use. These findings suggest that retrospective estimates of digital technology use may be systematically biased by factors that are fundamental to the associations under investigation. We propose that retrospective estimates of digital technology use may be capturing the construct of perceived use rather than actual use, and discuss how the antecedents, correlates, and consequences of perceived use may be distinct from those of actual use. Implications of these findings are discussed in view of the ongoing debate surrounding the effects of digital technology use on well-being.",
-        "url": "https://doi.org/10.1177/2050157920902830",
         "topics_llm": true
       },
       {
@@ -212,7 +191,7 @@
           "Michelle Shaul"
         ],
         "year": 2015,
-        "citation_count": 143,
+        "citation_count": 142,
         "topics": [
           "Brand marketing",
           "Instagram",
@@ -224,23 +203,24 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157913477095",
-        "title": "Measuring mobile phone use: Gender, age and real usage level in relation to the accuracy and validity of self-reported mobile phone use",
+        "doi": "10.1177/2050157920902830",
+        "title": "How psychosocial well-being and usage amount predict inaccuracies in retrospective estimates of digital technology use",
         "authors": [
-          "Mariek Vanden Abeele",
-          "Kathleen Beullens",
-          "Keith Roe"
+          "Craig Jeffrey Robb Sewall",
+          "Todd Bear",
+          "John A. Merranko",
+          "Daniel Rosen"
         ],
-        "year": 2013,
-        "citation_count": 124,
+        "year": 2020,
+        "citation_count": 139,
         "topics": [
-          "Mobile phone use measurement",
-          "Self-reported vs. behavioral data",
-          "Gender and age differences",
-          "Measurement validity"
+          "digital technology use",
+          "retrospective bias",
+          "psychosocial well-being",
+          "self-report measurement error"
         ],
-        "abstract": "This article reports the results of a mobile phone use validation survey in which we compared self-reported mobile phone use to network provider data, and examined the observed discrepancies between both data sources in a convenience sample of 466 Flemish mobile phone users (18–65 years). The results showed significant discrepancies between self-reported and behavioral mobile phone use, particularly for the number and duration of mobile calls. Light users tended to overestimate, while heavy users tended to underestimate their mobile phone use. Females were more likely to underestimate their weekly number of calls. Younger adults were more accurate in reporting their weekly number of calls, but less accurate in reporting their weekly number of text messages. The discussion devotes particular attention to potential question wording effects that are likely to have influenced the results.",
-        "url": "https://doi.org/10.1177/2050157913477095",
+        "abstract": "Using Apple’s Screen Time application to obtain reported actual iPhone and social media (SM) use, we examined the accuracy of retrospective estimates of usage, how inaccuracies bias associations between use and psychosocial well-being (depression, loneliness, and life satisfaction), and the degree to which inaccuracies were predicted by levels of well-being. Among a sample of 325 iPhone users, we found that (a) participants misestimated their weekly overall iPhone and SM use by 19.1 and 12.2 hours, respectively; (b) correlations between estimated use and well-being variables were consistently stronger than the correlations between reported actual use and well-being variables; and (c) the degree of inaccuracy in estimated use was associated with levels of participant well-being and amount of use. These findings suggest that retrospective estimates of digital technology use may be systematically biased by factors that are fundamental to the associations under investigation. We propose that retrospective estimates of digital technology use may be capturing the construct of perceived use rather than actual use, and discuss how the antecedents, correlates, and consequences of perceived use may be distinct from those of actual use. Implications of these findings are discussed in view of the ongoing debate surrounding the effects of digital technology use on well-being.",
+        "url": "https://doi.org/10.1177/2050157920902830",
         "topics_llm": true
       },
       {
@@ -253,7 +233,7 @@
           "Siti Zubeidah Kadir"
         ],
         "year": 2013,
-        "citation_count": 121,
+        "citation_count": 118,
         "topics": [
           "Transnational mothering",
           "Mobile communication",
@@ -265,6 +245,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/2050157913477095",
+        "title": "Measuring mobile phone use: Gender, age and real usage level in relation to the accuracy and validity of self-reported mobile phone use",
+        "authors": [
+          "Mariek Vanden Abeele",
+          "Kathleen Beullens",
+          "Keith Roe"
+        ],
+        "year": 2013,
+        "citation_count": 118,
+        "topics": [
+          "Mobile phone use measurement",
+          "Self-reported vs. behavioral data",
+          "Gender and age differences",
+          "Measurement validity"
+        ],
+        "abstract": "This article reports the results of a mobile phone use validation survey in which we compared self-reported mobile phone use to network provider data, and examined the observed discrepancies between both data sources in a convenience sample of 466 Flemish mobile phone users (18–65 years). The results showed significant discrepancies between self-reported and behavioral mobile phone use, particularly for the number and duration of mobile calls. Light users tended to overestimate, while heavy users tended to underestimate their mobile phone use. Females were more likely to underestimate their weekly number of calls. Younger adults were more accurate in reporting their weekly number of calls, but less accurate in reporting their weekly number of text messages. The discussion devotes particular attention to potential question wording effects that are likely to have influenced the results.",
+        "url": "https://doi.org/10.1177/2050157913477095",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/2050157918808327",
         "title": "Smartphone and self-extension: Functionally, anthropomorphically, and ontologically extending self via the smartphone",
         "authors": [
@@ -272,7 +272,7 @@
           "Barbara K. Kaye"
         ],
         "year": 2018,
-        "citation_count": 115,
+        "citation_count": 113,
         "topics": [
           "Self-extension",
           "Smartphone technology",
@@ -323,24 +323,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157913505558",
-        "title": "A tethered generation: Exploring the role of mobile phones in the daily life of young people",
-        "authors": [
-          "Paul Mihailidis"
-        ],
-        "year": 2013,
-        "citation_count": 103,
-        "topics": [
-          "Mobile phone usage",
-          "Youth communication practices",
-          "Digital engagement",
-          "Information behavior"
-        ],
-        "abstract": "The increasing global ubiquity of mobile phones has called into question their efficacy as dynamic tools for engagement and participation in daily life. While there is little argument in their growth as primary communication tools, scholars have actively debated their role as conduits for dynamic and diverse, information flow. This study explores how an international cohort of university students uses mobile phones for daily communication and information needs. In spring 2012, 793 students from 8 universities on 3 continents participated in a 24-hour mobile tracking exercise and reflection to answer the questions: How are college students using mobile phones for daily communication and information needs? and, how do college students perceive of the role of mobile phones for communication and information needs in their daily lives? The findings point to a population tethered to their mobile devices primarily through social networking apps, to the extent that they find it increasingly difficult to distinguish relationships that exist in their pockets from those that exist in their physical surroundings. While the participants acknowledged the diverse and participatory capacity of mobile devices, their dependence on the phone for connecting to peers left them skeptical of the phone’s efficacy for productive connectivity, vibrant communication, and diverse information consumption in daily life. The study concludes with suggestions for more inclusive and active engagement in the dynamic potential of phones that are not necessitated by a response to large-scale political or civil injustices.",
-        "url": "https://doi.org/10.1177/2050157913505558",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157914557691",
         "title": "What’s APPening to news? A mixed-method audience-centred study on mobile news consumption",
         "authors": [
@@ -350,7 +332,7 @@
           "Lieven De Marez"
         ],
         "year": 2015,
-        "citation_count": 101,
+        "citation_count": 99,
         "topics": [
           "Mobile news consumption",
           "News media repertoires",
@@ -362,13 +344,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/2050157913505558",
+        "title": "A tethered generation: Exploring the role of mobile phones in the daily life of young people",
+        "authors": [
+          "Paul Mihailidis"
+        ],
+        "year": 2013,
+        "citation_count": 99,
+        "topics": [
+          "Mobile phone usage",
+          "Youth communication practices",
+          "Digital engagement",
+          "Information behavior"
+        ],
+        "abstract": "The increasing global ubiquity of mobile phones has called into question their efficacy as dynamic tools for engagement and participation in daily life. While there is little argument in their growth as primary communication tools, scholars have actively debated their role as conduits for dynamic and diverse, information flow. This study explores how an international cohort of university students uses mobile phones for daily communication and information needs. In spring 2012, 793 students from 8 universities on 3 continents participated in a 24-hour mobile tracking exercise and reflection to answer the questions: How are college students using mobile phones for daily communication and information needs? and, how do college students perceive of the role of mobile phones for communication and information needs in their daily lives? The findings point to a population tethered to their mobile devices primarily through social networking apps, to the extent that they find it increasingly difficult to distinguish relationships that exist in their pockets from those that exist in their physical surroundings. While the participants acknowledged the diverse and participatory capacity of mobile devices, their dependence on the phone for connecting to peers left them skeptical of the phone’s efficacy for productive connectivity, vibrant communication, and diverse information consumption in daily life. The study concludes with suggestions for more inclusive and active engagement in the dynamic potential of phones that are not necessitated by a response to large-scale political or civil injustices.",
+        "url": "https://doi.org/10.1177/2050157913505558",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/2050157912459495",
         "title": "Mobile media and communication: A new field, or just a new journal?",
         "authors": [
           "Scott W. Campbell"
         ],
         "year": 2013,
-        "citation_count": 101,
+        "citation_count": 96,
         "topics": [
           "Mobile communication",
           "Media studies",
@@ -380,31 +380,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/20501579211029326",
-        "title": "Studying problems, not problematic usage: Do mobile checking habits increase procrastination and decrease well-being?",
-        "authors": [
-          "Adrian Meier"
-        ],
-        "year": 2021,
-        "citation_count": 96,
-        "topics": [
-          "Mobile habits",
-          "Procrastination",
-          "Digital well-being",
-          "Technology use"
-        ],
-        "abstract": "Most prior research on the effects of mobile and social media on well-being has worked from either the “technology addiction” or “screen time” approach. Yet these frameworks struggle with considerable conceptual and methodological limitations. The present study discusses and tests an established but understudied alternative, the technology habit approach. Instead of conflating mobile usage with problems (i.e., addictive/problematic usage) or ignoring users’ psychological engagement with mobiles (i.e., screen time), this approach investigates how person-level (habit strength) and day-level aspects of mobile habits (perceived interruptions and the urge to check) contribute to a key problem outcome, procrastination, as well as affective well-being and meaningfulness. In a five-day diary study with N = 532 student smartphone users providing N = 2,331 diary entries, mobile checking habit strength, perceived interruptions, and the urge to check together explained small to moderate amounts of procrastination. Procrastination, in turn, was linked to lower affective well-being and meaningfulness. Yet mobile habits showed only very small or no direct associations with affective well-being and meaningfulness. By separating habitual mobile connectivity from problem outcomes and well-being measures, this research demonstrates a promising alternative to the study of digital well-being.",
-        "url": "https://doi.org/10.1177/20501579211029326",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157914521412",
         "title": "The fourth screen: Mediatization and the smartphone",
         "authors": [
           "James William Miller"
         ],
         "year": 2014,
-        "citation_count": 95,
+        "citation_count": 93,
         "topics": [
           "Mediatization",
           "Smartphone communication",
@@ -416,33 +398,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157919846916",
-        "title": "“Look at me!” Parental use of mobile phones at the playground",
-        "authors": [
-          "Dafna Lemish",
-          "Nelly Elias",
-          "Diana Floegel"
-        ],
-        "year": 2019,
-        "citation_count": 94,
-        "topics": [
-          "Mobile phone use",
-          "Parent-child interaction",
-          "Family communication",
-          "Early childhood development"
-        ],
-        "abstract": "Research suggests that parent–child communication is rapidly changing as a result of the massive adoption of mobile devices and their penetration into interpersonal interaction within the family. Accordingly, this study aims to develop a more nuanced understanding of the impact of mobile device use on the quality of parent–child interaction in early childhood, based on ethnographic observations of 60 families at two playgrounds in the United States. The research findings suggest that parental behavior can be classified along a continuum of high engagement, divided engagement, and disengagement, often dependent upon whether and how parents use their mobile phone. Though mobile phones were not the only distracting factor during playground visits, their use was more highly correlated with parents’ disengagement from their children as compared to other distractors. Parents’ mobile phone use also corresponded to two main consequences for their children: safety concerns and emotional concerns, both resulting in missed opportunities for social learning. The results of this study call for closer attention to parental uses of mobile phones in public spaces.",
-        "url": "https://doi.org/10.1177/2050157919846916",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157912459499",
         "title": "Mobile social media: Future challenges and opportunities",
         "authors": [
           "Lee Humphreys"
         ],
         "year": 2013,
-        "citation_count": 93,
+        "citation_count": 92,
         "topics": [
           "Mobile social media",
           "Location-based networks",
@@ -454,22 +416,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157916639347",
-        "title": "Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions",
+        "doi": "10.1177/20501579211029326",
+        "title": "Studying problems, not problematic usage: Do mobile checking habits increase procrastination and decrease well-being?",
         "authors": [
-          "Giovanna Mascheroni",
-          "Jane Vincent"
+          "Adrian Meier"
         ],
-        "year": 2016,
-        "citation_count": 88,
+        "year": 2021,
+        "citation_count": 89,
         "topics": [
-          "Perpetual contact",
-          "Smartphone affordances",
-          "Youth communication",
-          "Digital emotions"
+          "Mobile habits",
+          "Procrastination",
+          "Digital well-being",
+          "Technology use"
         ],
-        "abstract": "This paper draws on qualitative data collected as a part of a comparative study on children and teenagers’ uses of smartphones in nine European countries to explore the meanings and emotions associated with the enhanced possibility of “full-time” contact with peers provided by smartphones. It argues that full-time access to peers—which interviewees identify as the main consequence of smartphones and instant messaging apps on their interactions with friends—is a communicative affordance, that is, a set of socially constructed opportunities and constraints that frame possibilities of action by giving rise to a diversity of communicative practices, as well as contradictory feelings among young people: intimacy, proximity, security as well as anxiety, exclusion and obligation. Understanding the perceptions and emotions around the affordance of “anywhere, anytime” accessibility, therefore, helps in untangling how communicative affordances are individually perceived but also, and more importantly, socially appropriated, negotiated, legitimised, and institutionalised.",
-        "url": "https://doi.org/10.1177/2050157916639347",
+        "abstract": "Most prior research on the effects of mobile and social media on well-being has worked from either the “technology addiction” or “screen time” approach. Yet these frameworks struggle with considerable conceptual and methodological limitations. The present study discusses and tests an established but understudied alternative, the technology habit approach. Instead of conflating mobile usage with problems (i.e., addictive/problematic usage) or ignoring users’ psychological engagement with mobiles (i.e., screen time), this approach investigates how person-level (habit strength) and day-level aspects of mobile habits (perceived interruptions and the urge to check) contribute to a key problem outcome, procrastination, as well as affective well-being and meaningfulness. In a five-day diary study with N = 532 student smartphone users providing N = 2,331 diary entries, mobile checking habit strength, perceived interruptions, and the urge to check together explained small to moderate amounts of procrastination. Procrastination, in turn, was linked to lower affective well-being and meaningfulness. Yet mobile habits showed only very small or no direct associations with affective well-being and meaningfulness. By separating habitual mobile connectivity from problem outcomes and well-being measures, this research demonstrates a promising alternative to the study of digital well-being.",
+        "url": "https://doi.org/10.1177/20501579211029326",
         "topics_llm": true
       },
       {
@@ -480,7 +441,7 @@
           "Stephanie Tom Tong"
         ],
         "year": 2015,
-        "citation_count": 88,
+        "citation_count": 89,
         "topics": [
           "Mobile dating applications",
           "Uncertainty management",
@@ -492,13 +453,73 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1177/2050157919846916",
+        "title": "“Look at me!” Parental use of mobile phones at the playground",
+        "authors": [
+          "Dafna Lemish",
+          "Nelly Elias",
+          "Diana Floegel"
+        ],
+        "year": 2019,
+        "citation_count": 88,
+        "topics": [
+          "Mobile phone use",
+          "Parent-child interaction",
+          "Family communication",
+          "Early childhood development"
+        ],
+        "abstract": "Research suggests that parent–child communication is rapidly changing as a result of the massive adoption of mobile devices and their penetration into interpersonal interaction within the family. Accordingly, this study aims to develop a more nuanced understanding of the impact of mobile device use on the quality of parent–child interaction in early childhood, based on ethnographic observations of 60 families at two playgrounds in the United States. The research findings suggest that parental behavior can be classified along a continuum of high engagement, divided engagement, and disengagement, often dependent upon whether and how parents use their mobile phone. Though mobile phones were not the only distracting factor during playground visits, their use was more highly correlated with parents’ disengagement from their children as compared to other distractors. Parents’ mobile phone use also corresponded to two main consequences for their children: safety concerns and emotional concerns, both resulting in missed opportunities for social learning. The results of this study call for closer attention to parental uses of mobile phones in public spaces.",
+        "url": "https://doi.org/10.1177/2050157919846916",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157914520846",
+        "title": "There’s a religious app for that! A framework for studying religious mobile applications",
+        "authors": [
+          "Heidi A. Campbell",
+          "Brian Altenhofen",
+          "Wendi R. Bellar",
+          "Kyong James Cho"
+        ],
+        "year": 2014,
+        "citation_count": 88,
+        "topics": [
+          "Mobile applications",
+          "Religious communication",
+          "Digital religion",
+          "App design methodology"
+        ],
+        "abstract": "This article provides a new methodological approach to studying religious-oriented mobile applications available on the iTunes app store. Through an extensive review of 451 religious apps a number of problems were noted when relying solely on iTunes categories to identify app functions and purpose. Thus further analysis was done in order to present a new typology and framing of religious apps, which more accurately describe their design. We suggest that the 11 new categories offered here suggest a critical framework for studying religious apps. Thus this study provides a starting point for scholars interested in analyzing religious mobile applications to investigate how app developers integrate religious goals into their designs, and consider the primary ways people are expected to practice religion through mobile apps.",
+        "url": "https://doi.org/10.1177/2050157914520846",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157916639347",
+        "title": "Perpetual contact as a communicative affordance: Opportunities, constraints, and emotions",
+        "authors": [
+          "Giovanna Mascheroni",
+          "Jane Vincent"
+        ],
+        "year": 2016,
+        "citation_count": 87,
+        "topics": [
+          "Perpetual contact",
+          "Smartphone affordances",
+          "Youth communication",
+          "Digital emotions"
+        ],
+        "abstract": "This paper draws on qualitative data collected as a part of a comparative study on children and teenagers’ uses of smartphones in nine European countries to explore the meanings and emotions associated with the enhanced possibility of “full-time” contact with peers provided by smartphones. It argues that full-time access to peers—which interviewees identify as the main consequence of smartphones and instant messaging apps on their interactions with friends—is a communicative affordance, that is, a set of socially constructed opportunities and constraints that frame possibilities of action by giving rise to a diversity of communicative practices, as well as contradictory feelings among young people: intimacy, proximity, security as well as anxiety, exclusion and obligation. Understanding the perceptions and emotions around the affordance of “anywhere, anytime” accessibility, therefore, helps in untangling how communicative affordances are individually perceived but also, and more importantly, socially appropriated, negotiated, legitimised, and institutionalised.",
+        "url": "https://doi.org/10.1177/2050157916639347",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1177/2050157912464490",
         "title": "The infrastructures of mobile media: Towards a future reseach agenda",
         "authors": [
           "Heather A. Horst"
         ],
         "year": 2013,
-        "citation_count": 88,
+        "citation_count": 87,
         "topics": [
           "Mobile media infrastructure",
           "Political economy of communication",
@@ -516,7 +537,7 @@
           "Arul Indrasen Chib"
         ],
         "year": 2013,
-        "citation_count": 88,
+        "citation_count": 86,
         "topics": [
           "mHealth",
           "Healthcare technology",
@@ -528,45 +549,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914520846",
-        "title": "There’s a religious app for that! A framework for studying religious mobile applications",
-        "authors": [
-          "Heidi A. Campbell",
-          "Brian Altenhofen",
-          "Wendi R. Bellar",
-          "Kyong James Cho"
-        ],
-        "year": 2014,
-        "citation_count": 87,
-        "topics": [
-          "Mobile applications",
-          "Religious communication",
-          "Digital religion",
-          "App design methodology"
-        ],
-        "abstract": "This article provides a new methodological approach to studying religious-oriented mobile applications available on the iTunes app store. Through an extensive review of 451 religious apps a number of problems were noted when relying solely on iTunes categories to identify app functions and purpose. Thus further analysis was done in order to present a new typology and framing of religious apps, which more accurately describe their design. We suggest that the 11 new categories offered here suggest a critical framework for studying religious apps. Thus this study provides a starting point for scholars interested in analyzing religious mobile applications to investigate how app developers integrate religious goals into their designs, and consider the primary ways people are expected to practice religion through mobile apps.",
-        "url": "https://doi.org/10.1177/2050157914520846",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157915601455",
-        "title": "Mobile youth culture: A conceptual development",
-        "authors": [
-          "Mariek Vanden Abeele"
-        ],
-        "year": 2015,
-        "citation_count": 85,
-        "topics": [
-          "Mobile youth culture",
-          "Adolescent mobile phone use",
-          "Youth culture theory",
-          "Media appropriation"
-        ],
-        "abstract": "The concept of “mobile youth culture” is frequently used in the field of adolescent mobile phone research to refer to the distinctive ways in which youths around the world embed the mobile phone in their everyday lives. Little attention, however, has been devoted to its theoretical foundations. Drawing from youth culture theory and new (mobile) media theories, this article conceptually develops mobile youth culture by (a) describing the commonalities in adolescent mobile phone use that constitute the culture, and by (b) discussing the origins of these commonalities through an analysis of the network, the social and personal logics inherent in mobile communication technology, and the way these are appropriated by youths to accommodate their transition to adulthood. The article concludes by pointing out the shortcomings of the concept: The limited attention for the heterogeneity in adolescent media use, the integration of mobile media technologies into young people’s media repertoires, the cross-generational implications of mobile media use, and the impact of local context and culture.",
-        "url": "https://doi.org/10.1177/2050157915601455",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157913517684",
         "title": "Put down that phone and talk to me: Understanding the roles of mobile phone norm adherence and similarity in relationships",
         "authors": [
@@ -575,7 +557,7 @@
           "Kate M. Miltner"
         ],
         "year": 2014,
-        "citation_count": 85,
+        "citation_count": 84,
         "topics": [
           "Mobile phone use",
           "Relationship quality",
@@ -587,31 +569,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914546711",
-        "title": "Tasking the everyday: Where mobile and online communication take time",
-        "authors": [
-          "Kenzie Burchell"
-        ],
-        "year": 2014,
-        "citation_count": 84,
-        "topics": [
-          "Mobile communication",
-          "Temporality",
-          "Everyday life",
-          "Digital practices"
-        ],
-        "abstract": "In the contemporary urban environment, the conditions for communication are in abundance, having shifted and extended to include multiple overlapping possibilities for interaction through mobile devices, personal computers, and online platforms such that traditional domains of activity have been subsumed within a relational domain of communication activity. This involves not only an extension of interaction across spaces of activity but also the remapping of how interpersonal communication practices are woven into the temporality and embodied practices of everyday life. The conditions for networked communication partially emerge through a consistent set of embodied background communication practices. These include practices of the individual maintaining contact with technological objects in their environment and also the habitual rhythms of interface-level practices, which together contribute to the forms of networked connection. Stemming from qualitative fieldwork with 35 participants during 2010 and 2011, this paper explores the organization and experience of networked interpersonal communication practices within the temporalities of everyday life. The individual’s perceived need for networked connection is proposed as the prerequisite for, but also a condition of, participation in contemporary everyday life. This paper explores the emerging role of networked time: where the constant and multiple embodied rhythms of individual engagement with overlapping media technologies, as objects and interfaces within the material environment, are interwoven with the capacity of those media to partially constitute one’s relationship to, and management of, time in everyday life. The tension between the finite minutes of the individual’s day and the limitless potential of networked connection is explored through the individual’s interface-level practices to avoid being temporally overwhelmed by potential interactions. In this manner, communication is perceived and managed as distinct, quantifiable, but variable units of time in and of themselves: interaction as “tasks” to be addressed and completed through engagement.",
-        "url": "https://doi.org/10.1177/2050157914546711",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157912459492",
         "title": "Location-aware mobile technologies: Historical, social and spatial approaches",
         "authors": [
           "Adriana de Souza e Silva"
         ],
         "year": 2013,
-        "citation_count": 83,
+        "citation_count": 84,
         "topics": [
           "Location-based services",
           "Mobile technologies",
@@ -620,6 +584,42 @@
         ],
         "abstract": "With the popularization of smartphones, location-based services are increasingly part of everyday life. People use their cell phones to find nearby restaurants and friends in the vicinity, and track their children. Although location-based services have received sparse attention from mobile communication scholars to date, the ability to locate people and things with one’s cell phone is not new. Since the removal of GPS signal degradation in 2000, artists and researchers have been exploring how location-awareness influences mobility, spatiality, and sociability. Besides exploring the historical antecedents of today’s location-based services, this article focuses on the main social issues that emerge when location-aware technologies leave the strict domain of art and research and become part of everyday life: locational privacy, sociability, and spatiality. Finally, this article addresses two main topics that future mobile communication research that focuses on location-awareness should take into consideration: a shift in the meaning of location, and the adoption and appropriation of location-aware technologies in the global south.",
         "url": "https://doi.org/10.1177/2050157912459492",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157915601455",
+        "title": "Mobile youth culture: A conceptual development",
+        "authors": [
+          "Mariek Vanden Abeele"
+        ],
+        "year": 2015,
+        "citation_count": 83,
+        "topics": [
+          "Mobile youth culture",
+          "Adolescent mobile phone use",
+          "Youth culture theory",
+          "Media appropriation"
+        ],
+        "abstract": "The concept of “mobile youth culture” is frequently used in the field of adolescent mobile phone research to refer to the distinctive ways in which youths around the world embed the mobile phone in their everyday lives. Little attention, however, has been devoted to its theoretical foundations. Drawing from youth culture theory and new (mobile) media theories, this article conceptually develops mobile youth culture by (a) describing the commonalities in adolescent mobile phone use that constitute the culture, and by (b) discussing the origins of these commonalities through an analysis of the network, the social and personal logics inherent in mobile communication technology, and the way these are appropriated by youths to accommodate their transition to adulthood. The article concludes by pointing out the shortcomings of the concept: The limited attention for the heterogeneity in adolescent media use, the integration of mobile media technologies into young people’s media repertoires, the cross-generational implications of mobile media use, and the impact of local context and culture.",
+        "url": "https://doi.org/10.1177/2050157915601455",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157914546711",
+        "title": "Tasking the everyday: Where mobile and online communication take time",
+        "authors": [
+          "Kenzie Burchell"
+        ],
+        "year": 2014,
+        "citation_count": 83,
+        "topics": [
+          "Mobile communication",
+          "Temporality",
+          "Everyday life",
+          "Digital practices"
+        ],
+        "abstract": "In the contemporary urban environment, the conditions for communication are in abundance, having shifted and extended to include multiple overlapping possibilities for interaction through mobile devices, personal computers, and online platforms such that traditional domains of activity have been subsumed within a relational domain of communication activity. This involves not only an extension of interaction across spaces of activity but also the remapping of how interpersonal communication practices are woven into the temporality and embodied practices of everyday life. The conditions for networked communication partially emerge through a consistent set of embodied background communication practices. These include practices of the individual maintaining contact with technological objects in their environment and also the habitual rhythms of interface-level practices, which together contribute to the forms of networked connection. Stemming from qualitative fieldwork with 35 participants during 2010 and 2011, this paper explores the organization and experience of networked interpersonal communication practices within the temporalities of everyday life. The individual’s perceived need for networked connection is proposed as the prerequisite for, but also a condition of, participation in contemporary everyday life. This paper explores the emerging role of networked time: where the constant and multiple embodied rhythms of individual engagement with overlapping media technologies, as objects and interfaces within the material environment, are interwoven with the capacity of those media to partially constitute one’s relationship to, and management of, time in everyday life. The tension between the finite minutes of the individual’s day and the limitless potential of networked connection is explored through the individual’s interface-level practices to avoid being temporally overwhelmed by potential interactions. In this manner, communication is perceived and managed as distinct, quantifiable, but variable units of time in and of themselves: interaction as “tasks” to be addressed and completed through engagement.",
+        "url": "https://doi.org/10.1177/2050157914546711",
         "topics_llm": true
       },
       {
@@ -679,26 +679,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914557509",
-        "title": "Choosing the right app: An exploratory perspective on heuristic decision processes for smartphone app selection",
-        "authors": [
-          "Leyla Dogruel",
-          "Sven Joeckel",
-          "Nicholas David Bowman"
-        ],
-        "year": 2014,
-        "citation_count": 78,
-        "topics": [
-          "Mobile app selection",
-          "Decision-making heuristics",
-          "User behavior",
-          "Smartphone technology"
-        ],
-        "abstract": "Decision-making theories have argued that many daily decisions are the result of heuristic rather than systematic processes. Given the ubiquity of smartphones as mobile communication and computing devices along with the vast smartphone app market, our exploratory study aimed to understand how heuristics guide smartphone app selection. Observing 49 smartphone users from the US and Germany viewing 189 total apps from three predetermined categories, the current study identified five decision-making heuristics used to download a variety of smartphone apps. Of these, four were variants of a “Take the First” (TtF) heuristic that allowed smartphone users to quickly navigate the app market, by passing a good deal of other informational cues in order to download apps that were simply highly rated or ranked. Reliance on heuristic processing is useful in helping navigate the app market, but it also results in smartphone users overlooking potentially important app information.",
-        "url": "https://doi.org/10.1177/2050157914557509",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1177/2050157918758129",
         "title": "Disrupted copresence: Older adults’ views on mobile phone use during face-to-face interactions",
         "authors": [
@@ -710,7 +690,7 @@
           "Young June Sah"
         ],
         "year": 2018,
-        "citation_count": 76,
+        "citation_count": 74,
         "topics": [
           "Mobile phone etiquette",
           "Face-to-face communication",
@@ -730,7 +710,7 @@
           "Rebecca Renatus"
         ],
         "year": 2017,
-        "citation_count": 75,
+        "citation_count": 73,
         "topics": [
           "Fitness apps",
           "Gender differences",
@@ -742,25 +722,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/20501579211054928",
-        "title": "How and when do mobile media demands impact well-being? Explicating the Integrative Model of Mobile Media Use and Need Experiences (IM 3 UNE)",
+        "doi": "10.1177/2050157914557509",
+        "title": "Choosing the right app: An exploratory perspective on heuristic decision processes for smartphone app selection",
         "authors": [
-          "Frank M. Schneider",
-          "Sarah Lutz",
-          "Annabell Halfmann",
-          "Adrian Meier",
-          "Leonard Reinecke"
+          "Leyla Dogruel",
+          "Sven Joeckel",
+          "Nicholas David Bowman"
         ],
-        "year": 2021,
-        "citation_count": 71,
+        "year": 2014,
+        "citation_count": 72,
         "topics": [
-          "Mobile media use",
-          "Digital well-being",
-          "Psychological needs",
-          "Need satisfaction and frustration"
+          "Mobile app selection",
+          "Decision-making heuristics",
+          "User behavior",
+          "Smartphone technology"
         ],
-        "abstract": "Using mobile media can be both detrimental and beneficial for well-being. Thus, explaining how and when they elicit such effects is of crucial importance. To explicate boundary conditions and processes for digital well-being, this article introduces the Integrative Model of Mobile Media Use and Need Experiences (IM³UNE). Instead of assuming mobile media to be pathogenic, the IM³UNE offers a salutogenic perspective—it focuses on how we can stay healthy when using mobile media ubiquitously in daily life. More specifically, the model assumes that both the satisfaction and the frustration of basic psychological needs are key underlying mechanisms linking demanding mobile media use to well-being. However, the impact of these mechanisms is contingent on how users perceive, appraise, act on, and make sense of mobile media demands according to their global orientation to life (i.e., their sense of coherence; SOC). Integrating prior work, we theoretically link mindfulness, self-control, and meaningfulness to SOC’s central facets, arguing that they represent crucial personal resources required to cope with mobile media demands. Thus, the IM³UNE offers an integrative framework, guiding further research towards a more nuanced, less technologically deterministic study of mobile media’s well-being effects.",
-        "url": "https://doi.org/10.1177/20501579211054928",
+        "abstract": "Decision-making theories have argued that many daily decisions are the result of heuristic rather than systematic processes. Given the ubiquity of smartphones as mobile communication and computing devices along with the vast smartphone app market, our exploratory study aimed to understand how heuristics guide smartphone app selection. Observing 49 smartphone users from the US and Germany viewing 189 total apps from three predetermined categories, the current study identified five decision-making heuristics used to download a variety of smartphone apps. Of these, four were variants of a “Take the First” (TtF) heuristic that allowed smartphone users to quickly navigate the app market, by passing a good deal of other informational cues in order to download apps that were simply highly rated or ranked. Reliance on heuristic processing is useful in helping navigate the app market, but it also results in smartphone users overlooking potentially important app information.",
+        "url": "https://doi.org/10.1177/2050157914557509",
         "topics_llm": true
       },
       {
@@ -771,7 +749,7 @@
           "Yong Jin Park"
         ],
         "year": 2013,
-        "citation_count": 71,
+        "citation_count": 70,
         "topics": [
           "Adolescent sexting",
           "Mobile communication",
@@ -801,25 +779,45 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157921993896",
-        "title": "Caught in the moment: Are there person-specific associations between momentary procrastination and passively measured smartphone use?",
+        "doi": "10.1177/20501579211054928",
+        "title": "How and when do mobile media demands impact well-being? Explicating the Integrative Model of Mobile Media Use and Need Experiences (IM 3 UNE)",
         "authors": [
-          "George Aalbers",
-          "Mariek Vanden Abeele",
-          "Andrew T. Hendrickson",
-          "Lieven De Marez",
-          "Loes Keijsers"
+          "Frank M. Schneider",
+          "Sarah Lutz",
+          "Annabell Halfmann",
+          "Adrian Meier",
+          "Leonard Reinecke"
         ],
         "year": 2021,
         "citation_count": 67,
         "topics": [
-          "Procrastination",
-          "Smartphone use",
-          "Experience sampling",
-          "Digital behavior"
+          "Mobile media use",
+          "Digital well-being",
+          "Psychological needs",
+          "Need satisfaction and frustration"
         ],
-        "abstract": "Procrastination is an increasingly prevalent phenomenon. Although research suggests smartphones might be involved, little is known about the momentary association between different patterns of smartphone use and procrastination. In a preregistered study, 221 students ( M age = 20, 55% female) self-reported procrastination five times a day for 30 days (i.e., experience sampling method) while their smartphone use was continuously monitored (i.e., passive logging). Using dynamic structural equation modeling on 27,151 observations, we estimated momentary within-person associations between procrastination and (a) total smartphone use and use of specific application categories (social media, messaging, browsers, games, and video streaming), (b) notifications, and (c) smartphone use fragmentation. Procrastination was positively albeit weakly associated with all aforementioned patterns, and associations varied from person to person. Collectively, our findings suggest these popular devices potentially encourage dilatory behavior.",
-        "url": "https://doi.org/10.1177/2050157921993896",
+        "abstract": "Using mobile media can be both detrimental and beneficial for well-being. Thus, explaining how and when they elicit such effects is of crucial importance. To explicate boundary conditions and processes for digital well-being, this article introduces the Integrative Model of Mobile Media Use and Need Experiences (IM³UNE). Instead of assuming mobile media to be pathogenic, the IM³UNE offers a salutogenic perspective—it focuses on how we can stay healthy when using mobile media ubiquitously in daily life. More specifically, the model assumes that both the satisfaction and the frustration of basic psychological needs are key underlying mechanisms linking demanding mobile media use to well-being. However, the impact of these mechanisms is contingent on how users perceive, appraise, act on, and make sense of mobile media demands according to their global orientation to life (i.e., their sense of coherence; SOC). Integrating prior work, we theoretically link mindfulness, self-control, and meaningfulness to SOC’s central facets, arguing that they represent crucial personal resources required to cope with mobile media demands. Thus, the IM³UNE offers an integrative framework, guiding further research towards a more nuanced, less technologically deterministic study of mobile media’s well-being effects.",
+        "url": "https://doi.org/10.1177/20501579211054928",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157916649989",
+        "title": "Domestication of smartphones and mobile applications: A quantitative mixed-method study",
+        "authors": [
+          "Mark de Reuver",
+          "Shahrokh Nikou",
+          "Harry Bouwman"
+        ],
+        "year": 2016,
+        "citation_count": 67,
+        "topics": [
+          "Smartphone domestication",
+          "Mobile applications",
+          "Daily routines",
+          "Technology appropriation"
+        ],
+        "abstract": "Smartphones are finding their way into our daily lives. This paper examines the domestication of smartphones by looking at how the way we use mobile applications affects our everyday routines. Data is collected through an innovative quantitative mixed-method approach, combining log data from smartphones and survey (perception) data. We find that there are dimensions of domestication that explain how the use of smartphones affects our daily routines. Contributions are stronger for downloaded applications than for native applications. Especially applications that require interaction with others, such as social media and instant messaging, have a serious impact on our day-to-day routines. As a result, appropriation is core in incorporating smartphones in daily life routines. However, frequency of use and the total number of minutes spent on a given type of application per day affect our everyday routines in different ways. This paper is the first quantitative domestication study that focuses on smartphones rather than feature phones. The theoretical contribution and practical implications are outlined.",
+        "url": "https://doi.org/10.1177/2050157916649989",
         "topics_llm": true
       },
       {
@@ -841,41 +839,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157914530297",
-        "title": "Health benefits and barriers to cell phone use in low-income urban U.S. neighborhoods: Indications of technology maintenance",
+        "doi": "10.1177/2050157918770696",
+        "title": "Attached to dating apps: Attachment orientations and preferences for dating apps",
         "authors": [
-          "Amy L. Gonzales"
+          "Kristi Alexis Chin",
+          "Robin S. Edelstein",
+          "Philip Anthony Vernon"
         ],
-        "year": 2014,
-        "citation_count": 67,
+        "year": 2018,
+        "citation_count": 63,
         "topics": [
-          "Digital divide",
-          "Health communication technology",
-          "Low-income communities",
-          "Mobile phone access"
+          "Attachment theory",
+          "Dating apps",
+          "Online dating",
+          "User preferences"
         ],
-        "abstract": "Little is known about the everyday health and safety benefits of cell phones for the U.S. poor, despite heightened risks of illness and exposure to crime for this population. Interviews with low-income, urban U.S. residents reveal that cell phones are an asset for psychological reassurance, crime prevention, and critical access to emergency help. At the same time findings reveal that these residents often have broken and disconnected cell phones that require constant upkeep, or technology maintenance. Reliance on second-hand, government, and no-contract phones ease cell phone ownership but also normalize intermittent disconnection leading to dependably instability. These findings demonstrate the extreme value of cell phone access for residents of poor neighborhoods, and at the same time indicate that disparities in cell phone access still persist and may be worsening.",
-        "url": "https://doi.org/10.1177/2050157914530297",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157916649989",
-        "title": "Domestication of smartphones and mobile applications: A quantitative mixed-method study",
-        "authors": [
-          "Mark de Reuver",
-          "Shahrokh Nikou",
-          "Harry Bouwman"
-        ],
-        "year": 2016,
-        "citation_count": 66,
-        "topics": [
-          "Smartphone domestication",
-          "Mobile applications",
-          "Daily routines",
-          "Technology appropriation"
-        ],
-        "abstract": "Smartphones are finding their way into our daily lives. This paper examines the domestication of smartphones by looking at how the way we use mobile applications affects our everyday routines. Data is collected through an innovative quantitative mixed-method approach, combining log data from smartphones and survey (perception) data. We find that there are dimensions of domestication that explain how the use of smartphones affects our daily routines. Contributions are stronger for downloaded applications than for native applications. Especially applications that require interaction with others, such as social media and instant messaging, have a serious impact on our day-to-day routines. As a result, appropriation is core in incorporating smartphones in daily life routines. However, frequency of use and the total number of minutes spent on a given type of application per day affect our everyday routines in different ways. This paper is the first quantitative domestication study that focuses on smartphones rather than feature phones. The theoretical contribution and practical implications are outlined.",
-        "url": "https://doi.org/10.1177/2050157916649989",
+        "abstract": "Our study examines attachment-related differences in the use of dating applications (dating apps). We collected online survey data regarding people’s attachment orientation and dating app preferences. People with a more anxious attachment orientation were more likely to report using dating apps than people lower in anxious attachment; people with a more avoidant attachment orientation were less likely to report using dating apps than people lower in avoidant attachment. Participants who used dating apps cited Tinder, OkCupid, and Plenty of Fish as those most commonly used. The most common reason people reported for using apps was to meet others, and the most common reason people reported for not using apps was difficulty trusting people online. Our findings suggest that individual differences in attachment may be relevant for understanding online behavior, and that dating apps might be a fruitful avenue for future research on attachment-related differences.",
+        "url": "https://doi.org/10.1177/2050157918770696",
         "topics_llm": true
       },
       {
@@ -888,7 +868,7 @@
           "Scott W. Campbell"
         ],
         "year": 2015,
-        "citation_count": 66,
+        "citation_count": 63,
         "topics": [
           "Distracted driving",
           "Texting behavior",
@@ -900,42 +880,21 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1177/2050157918770696",
-        "title": "Attached to dating apps: Attachment orientations and preferences for dating apps",
+        "doi": "10.1177/2050157914530297",
+        "title": "Health benefits and barriers to cell phone use in low-income urban U.S. neighborhoods: Indications of technology maintenance",
         "authors": [
-          "Kristi Alexis Chin",
-          "Robin S. Edelstein",
-          "Philip Anthony Vernon"
+          "Amy L. Gonzales"
         ],
-        "year": 2018,
-        "citation_count": 65,
-        "topics": [
-          "Attachment theory",
-          "Dating apps",
-          "Online dating",
-          "User preferences"
-        ],
-        "abstract": "Our study examines attachment-related differences in the use of dating applications (dating apps). We collected online survey data regarding people’s attachment orientation and dating app preferences. People with a more anxious attachment orientation were more likely to report using dating apps than people lower in anxious attachment; people with a more avoidant attachment orientation were less likely to report using dating apps than people lower in avoidant attachment. Participants who used dating apps cited Tinder, OkCupid, and Plenty of Fish as those most commonly used. The most common reason people reported for using apps was to meet others, and the most common reason people reported for not using apps was difficulty trusting people online. Our findings suggest that individual differences in attachment may be relevant for understanding online behavior, and that dating apps might be a fruitful avenue for future research on attachment-related differences.",
-        "url": "https://doi.org/10.1177/2050157918770696",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/2050157917718601",
-        "title": "“Mr Right Now”: Temporality of relationship formation on gay mobile dating apps",
-        "authors": [
-          "Tien Ee Dominic Yeo",
-          "Tsz Hin Fung"
-        ],
-        "year": 2017,
+        "year": 2014,
         "citation_count": 63,
         "topics": [
-          "Mobile dating apps",
-          "LGBTQ+ relationships",
-          "Temporality",
-          "Digital communication"
+          "Digital divide",
+          "Health communication technology",
+          "Low-income communities",
+          "Mobile phone access"
         ],
-        "abstract": "Mobile dating apps with geolocation function have gained popularity for fostering social, romantic, and sexual connections between nearby strangers. Through in-depth interviews and focus-group discussions with 74 users of gay mobile dating apps (Grindr and Jack’d) in Hong Kong, this study illustrates how the sociological concept of time can shed light on users’ experience of relationship formation through these apps. Specifically, the accelerated tempo of interactions facilitated by perpetual connectivity, mutual proximity awareness, and instant messaging was seen to entail instantaneous and ephemeral relationships. The interface design, which foregrounds profile photos and backgrounds textual self-descriptions, was perceived to structure the sequence of browsing and screening in favor of physical appearance and users seeking casual hook-ups. The findings suggest that the temporality of browsing and exchange on apps is incongruous with the temporal norms prescribing formation of friendship and long-term romance. Such incongruity affects the perceived quality and satisfaction of app use, frustrating users who seek more durable relationships.",
-        "url": "https://doi.org/10.1177/2050157917718601",
+        "abstract": "Little is known about the everyday health and safety benefits of cell phones for the U.S. poor, despite heightened risks of illness and exposure to crime for this population. Interviews with low-income, urban U.S. residents reveal that cell phones are an asset for psychological reassurance, crime prevention, and critical access to emergency help. At the same time findings reveal that these residents often have broken and disconnected cell phones that require constant upkeep, or technology maintenance. Reliance on second-hand, government, and no-contract phones ease cell phone ownership but also normalize intermittent disconnection leading to dependably instability. These findings demonstrate the extreme value of cell phone access for residents of poor neighborhoods, and at the same time indicate that disparities in cell phone access still persist and may be worsening.",
+        "url": "https://doi.org/10.1177/2050157914530297",
         "topics_llm": true
       },
       {
@@ -974,9 +933,105 @@
         "abstract": "As the field of mobile media studies continues to grow, researchers are focusing on new developments and trends in mobile technologies. One of these areas that has been garnering interest is mobile augmented reality (AR) technologies. While much of the earliest research in AR was primarily focused on answering computer science and engineering related questions, social science and humanities scholars have started taking note of AR as perhaps the next major development in mobile media. Given that much of this research has been distributed across interdisciplinary lines and from many different theoretical perspectives, this piece identifies some early lines of media, communication, and social science research into AR and identifies key themes and areas of focus: AR users/nonusers, AR devices, AR content, and AR industry. By organizing these lines of research, this manuscript serves as a call for specific future areas of research, suggests new approaches that researchers could take to explore interrelationships between these areas, and advocates for the necessity of research that examines different levels (micro/meso/macro) of analysis within AR. The goal of this piece is to advance a framework that informs and motivates mobile scholars to consider and integrate AR into their research areas, at a moment where it is in the process of moving from science fiction to material reality, from blueprint to prototype, and from laboratory to homes, cars, workplaces, and pockets.",
         "url": "https://doi.org/10.1177/2050157918792438",
         "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157917722055",
+        "title": "“We’re not only here but we’re there in spirit”: Asymmetrical mobile intimacy and the transnational Filipino family",
+        "authors": [
+          "Earvin Charles Cabalquinto"
+        ],
+        "year": 2017,
+        "citation_count": 62,
+        "topics": [
+          "Transnational families",
+          "Mobile communication",
+          "Digital intimacy",
+          "Migration and diaspora"
+        ],
+        "abstract": "Organising, performing, and experiencing festive family rituals sustain relationships among family members. However, in recent times, high levels of human migration alongside the rapid development of digital communication technologies are reconfiguring family traditions. This paper investigates the ways in which 21 overseas Filipino workers in Melbourne, Australia, and their left-behind family members in the Philippines use mobile devices and communications platforms to restage festive family rituals. Employing a visual method and drawing on in-depth interviews, the empirical study uncovers the personalised and heterogenous practices of the transnational Filipino family in performing intimacy at a distance, paving the way for constructing copresence during festivities. Importantly, using the mobilities lens (Urry, 2007) as a framework for critical investigation, the findings show that a disproportionate level of network capital as informed by age, gender, and social class produces “asymmetrical mobile intimacy.” The present study also reveals how ambivalent feelings emerge due to technological asymmetries and parameters. Importantly, transnational families often negotiate such contradictory experiences through mobile device use. By comparing and contrasting the mobile practices of dispersed family members, the present study uncovers the hidden social inequalities perpetuated in a networked family life.",
+        "url": "https://doi.org/10.1177/2050157917722055",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/2050157917718601",
+        "title": "“Mr Right Now”: Temporality of relationship formation on gay mobile dating apps",
+        "authors": [
+          "Tien Ee Dominic Yeo",
+          "Tsz Hin Fung"
+        ],
+        "year": 2017,
+        "citation_count": 61,
+        "topics": [
+          "Mobile dating apps",
+          "LGBTQ+ relationships",
+          "Temporality",
+          "Digital communication"
+        ],
+        "abstract": "Mobile dating apps with geolocation function have gained popularity for fostering social, romantic, and sexual connections between nearby strangers. Through in-depth interviews and focus-group discussions with 74 users of gay mobile dating apps (Grindr and Jack’d) in Hong Kong, this study illustrates how the sociological concept of time can shed light on users’ experience of relationship formation through these apps. Specifically, the accelerated tempo of interactions facilitated by perpetual connectivity, mutual proximity awareness, and instant messaging was seen to entail instantaneous and ephemeral relationships. The interface design, which foregrounds profile photos and backgrounds textual self-descriptions, was perceived to structure the sequence of browsing and screening in favor of physical appearance and users seeking casual hook-ups. The findings suggest that the temporality of browsing and exchange on apps is incongruous with the temporal norms prescribing formation of friendship and long-term romance. Such incongruity affects the perceived quality and satisfaction of app use, frustrating users who seek more durable relationships.",
+        "url": "https://doi.org/10.1177/2050157917718601",
+        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1177/20501579261494639",
+        "title": "Texting for Connection in an “Always-On” Society: Roles of Content, Availability Pressure, and Emotional Fatigue",
+        "authors": [
+          "David de Segovia Vicente",
+          "Mariek Vanden Abeele",
+          "Kyle Van Gaeveren",
+          "Stephen Lee Murphy",
+          "Jeffrey A. Hall"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Mobile communication",
+          "Relational satisfaction",
+          "Emotional fatigue",
+          "Always-on culture"
+        ],
+        "abstract": "Texting is the most ubiquitous form of computer-mediated communication, but its ability to satisfy relational needs in an always-on society remains under scrutiny. This study examines how message content and psychological context—specifically emotional fatigue and availability pressure—determine the relational value of texting. Analyzing 5,821 ecological momentary assessments from 112 adults, the results reveal that while texting and offline interactions positively predict connectedness, offline interactions demonstrate a meaningfully stronger effect. Within the context of texting, meaningful and affectionate interactions are associated with high levels of connectedness compared with those of small talk or practical exchanges, supporting the hierarchy of communication episodes proposed by communicate bond belong theory. Notably, neither emotional fatigue nor availability pressure significantly influences the association between texting and connectedness. These findings highlight that the relational benefits of texting are resilient to emotional fatigue and availability pressure and primarily depend on the nature of the content instead of users' psychological context.",
+        "url": "https://doi.org/10.1177/20501579261494639",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579261497392",
+        "title": "Compressed Time, Narrow Space: The Visual-Temporal Aesthetics of Mobile Microdrama on ReelShort",
+        "authors": [
+          "Seda Aktaş"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Mobile microdramas",
+          "Visual-temporal aesthetics",
+          "Short-form video",
+          "Cinematic form"
+        ],
+        "abstract": "The widespread adoption of digital platforms and mobile devices has significantly transformed audiovisual storytelling. Short-form mobile microdramas represent not only a new mode of distribution but also a narrative form that reorganizes cinematic time and space. While previous research has primarily focused on platform economies, audience engagement, and algorithmic circulation, the visual-temporal organization of mobile microdramas has received comparatively little attention from the perspective of quantitative film analysis. Addressing this gap, this study investigates how mobile microdramas reorganize cinematic form through temporal compression and spatial narrowing. A quantitative formal analysis was conducted on the first episodes of 10 ReelShort series representing different narrative tropes. The analysis examined average shot length (ASL), editing rhythm, shots per minute, shot-scale distribution, and the use of establishing shots. Shot boundaries were automatically identified using Adobe Premiere Pro's Scene Edit Detection tool, while shot scales and spatial indicators were analysed through qualitative coding. The findings show that an exceptionally short ASL of 2.31 s, together with the predominance of medium shots and the limited use of full/long shots and establishing shots, minimizes spatial exposition while privileging character-centred compositions and producing a dense visual rhythm optimized for smartphone viewing. The results suggest that ReelShort reorganizes cinematic form by simultaneously compressing cinematic time and narrowing cinematic space, extending long-term stylistic tendencies in film history while adapting them to the perceptual and technological conditions of vertically oriented mobile media.",
+        "url": "https://doi.org/10.1177/20501579261497392",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579261496225",
+        "title": "Heterogeneities of Smartphone Use Among Chinese Urban Older Adults: A Life Course Approach",
+        "authors": [
+          "Lu Chen",
+          "Miaoting Cheng"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Smartphone use",
+          "Older adults",
+          "Life course perspective",
+          "Digital inclusion"
+        ],
+        "abstract": "Drawing on a qualitative analysis of semi-structured interview data, this research adopts a life course perspective to examine how Chinese urban older adults adjust their smartphone use in response to significant life events across later life. The findings reveal that multi-level life events foster a dynamic continuum of (dis)connection. At the same time, adaptive and maladaptive use patterns coexist among Chinese urban older adults, demonstrating heterogeneity in their smartphone use. By proposing a shift from an age-as-variable approach to an aging-as-process approach, this study emphasizes older adults’ contextualized (dis)connectivity situated within life course transitions and trajectories, which reflects a negotiation between individual agency and socio-technical structures.",
+        "url": "https://doi.org/10.1177/20501579261496225",
+        "topics_llm": true
+      },
       {
         "doi": "10.1177/20501579261491582",
         "title": "Stratified Mobile Parenting Capital: Restrictive, Reformist and Radical Parenting Among Rural Migrant Working Families in China",
@@ -1777,7 +1832,7 @@
           "T.Y. Kim"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Phubbing",
           "Mobile phone use",
@@ -1796,7 +1851,7 @@
           "Tonny Krijnen"
         ],
         "year": 2025,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Digital place-making",
           "Aging and migration",
@@ -1813,7 +1868,7 @@
           "Sarah Wagner"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Digital agency",
           "Aging and technology",
@@ -1884,67 +1939,6 @@
         "abstract": "News consumption is often treated as static behavior, yet situational and temporal factors play a significant role in shaping how individuals consume news throughout their daily lives. Mobile phones have become a driving force of dynamic news habits, especially among younger audiences. This study aims to bridge the gap between static perceptions of news consumption and the dynamic realities of daily mobile usage. To investigate this, we tracked news usage on the mobile phones of 384 young adults in Switzerland over three weeks in 2021, in a period surrounding a national referendum. These data were combined with two surveys at the beginning and end of the tracking period to examine how a political referendum, daily schedules, and browsing habits are related to the amount of mobile news consumption. Using a Bayesian time-lagged model, we found an increase in news consumption on the day of the referendum, and a slight decrease on weekends and during working hours. We also found that participants read more news when they first opened their phones than as a browsing session continued, and that higher news consumption was substantially associated with the use of X/Twitter and Instagram, but only slightly with TikTok.",
         "url": "https://doi.org/10.1177/20501579251376418",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251378548",
-        "title": "Navigating Technology: Mobile Media Usage and Reticence Among Older Adults in Rural India",
-        "authors": [
-          "Debjani Chakraborty",
-          "Chhavi Garg"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "Mobile media usage",
-          "Older adults",
-          "Digital literacy",
-          "Rural India"
-        ],
-        "abstract": "With increasing access to mobile devices and media, 77% of the population of India, the most populated nation in the world, are now mobile phone users. This has translated to an increasing user base across demographics, including older rural adults: Most own a dedicated feature phone and share access to a smartphone, while many older couples share access to one dedicated smartphone. With considerably lower literacy rates, especially among older women, using a mobile phone that is programmed in English comes with its own set of challenges, and the older users have developed their own unique strategies to navigate them. This study uses in-depth interviews and participant observation in a village in the agrarian state of Punjab, a state in north-western India. The findings indicate three types of users among older rural adults: techno-optimists who find the phone useful for younger users, individuals who use the phone solely for useful purposes, and participants who see the mobile phone as disruptive. Factors shaping usage include low digital skills, tendency to depend on warm experts (younger members of the family who can potentially teach them mobile media usage) to use the mobile phone on their behalf, and expectations of moral and ethical performativity. The study finds that, along with digital skills and age, social structure of living in a close knit family (joint family) forms a reticence even among techno-optimist older adults, who see the mobile phone as something for the young people to learn instead of upskilling themselves to use one.",
-        "url": "https://doi.org/10.1177/20501579251378548",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251370458",
-        "title": "Navigating Social Pressure to Be Available: The Roles of Mindfulness and Need Experiences in Messenger Users’ Well-/Ill-Being",
-        "authors": [
-          "Sarah Lutz",
-          "Frank M. Schneider",
-          "Annabell Halfmann",
-          "Anna Freytag",
-          "Dorothée Hefner"
-        ],
-        "year": 2025,
-        "citation_count": 1,
-        "topics": [
-          "Mobile messaging",
-          "Availability pressure",
-          "Mindfulness",
-          "Need satisfaction"
-        ],
-        "abstract": "In a digitally connected world, the perceived expectation to always stay available via mobile messenger services places unique demands on users. This paper addresses the question of how and when so-called availability pressure leads to variations in messenger users’ well-/ill-being. Drawing on the Integrative Model of Mobile Media Use and Need Experiences, it conceptualizes the satisfaction versus frustration of fundamental needs (autonomy, competence, relatedness) as mediators and the health-promoting personality trait mindfulness as a moderator. This model was tested across a 7-day-long diary study ( N = 229) and a 2-factorial online experiment ( N = 166). Both pre-registered studies are in line with the model's assumption that availability pressure can lead to specific need experiences, which in turn predict different facets of well-/ill-being. Although we identified limited moderating effects, being mindful (Study 1) and cultivating mindfulness (Study 2) were positively related to need satisfaction and well-being and negatively related to need frustration and ill-being. This highlights the complex consequences of availability pressure and the importance of individual coping mechanisms. Future research should refine theoretical models like the Integrative Model of Mobile Media Use and Need Experiences and explore additional health-promoting personality traits to better understand digital well-being in the era of mobile connectivity.",
-        "url": "https://doi.org/10.1177/20501579251370458",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251371884",
-        "title": "Pushing Past News Avoidance: Implications of Mobile Alerts on News Engagement Intentions",
-        "authors": [
-          "Renée Barnes",
-          "Rory Francis Mulcahy",
-          "Aimee S. Riedel"
-        ],
-        "year": 2025,
-        "citation_count": 0,
-        "topics": [
-          "News avoidance",
-          "Mobile alerts",
-          "News engagement",
-          "Smartphone journalism"
-        ],
-        "abstract": "The ubiquitous presence of smartphones has led to their prominence as a dominant source of news for a vast majority of people. In this context, the impact of mobile technology’s affordances, including access, applications, and mobile alerts, on news engagement has been the subject of numerous studies. At the same time, recent research has found an increase in those who either have very low news usage or intentionally or unintentionally avoid news. Within a deliberative public sphere perspective, habitual news avoidance presents many problems, including lack of civic engagement and lack of critical information for partaking in public life. Drawing on framing theory and results from two experimental studies, this research sought to examine the intersection of the promise of mobile news alerts for enhancing news engagement intentions and curiosity among high-level news avoiders. Study 1 shows that positive frames in mobile alerts are associated with higher engagement intentions in high news avoiders, and this effect is mediated by curiosity. In study 2, the results show that positive framing with three facts is associated with higher levels of engagement intentions, and this is mediated by curiosity. Further, the results show that for moderate news avoiders, two facts, which are negatively framed, should be used.",
-        "url": "https://doi.org/10.1177/20501579251371884",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1980,7 +1974,7 @@
           "Peter Hilpert"
         ],
         "year": 2024,
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Partner phubbing",
           "Mobile phone use",
@@ -1989,6 +1983,25 @@
         ],
         "abstract": "Studies show that the use of smartphones in the presence of a partner may result in lower relationship quality, intimacy, and increased conflict. Such co-present phone use, often referred to as “phubbing” or “technoference,” has been problematized in the literature. However, few studies have hitherto explored the possibility that using phones in each other's presence may not cause any relational harm and might even support relationship maintenance. Only recently did the critiques and theoretical frameworks begin to expand our understanding of the broader role of smartphones in dyadic interactions. In this study, we tested whether co-present phone use is always perceived as negative, or if it could also be neutral or positive. We employed quantitative methods and content coding of free responses to understand the participants’ experiences and reasoning in different evaluations. We analyzed the responses of British participants ( N = 383) living with their partner, who were enrolled via Prolific to take part in the study. The analyses revealed that only 15% of participants perceived their partner's phone use as negative, the majority evaluating it as neutral or positive. Most participants reported that their partner's phone use had no impact on their time together or was integrated with other activities. Those who reported a negative impact attributed it to the partner's lack of attention. The present study challenges the existing literature and highlights the need for a conceptual expansion of smartphone-related behaviors in dyads.",
         "url": "https://doi.org/10.1177/20501579241298271",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579251348098",
+        "title": "Navigating mobile technologies: Older adults’ mobile, digital, and non-digital strategies for enhancing subjective well-being",
+        "authors": [
+          "Riitta Hänninen",
+          "Sini Tiihonen"
+        ],
+        "year": 2025,
+        "citation_count": 8,
+        "topics": [
+          "Older adults",
+          "Mobile technology use",
+          "Digital well-being",
+          "Aging and technology"
+        ],
+        "abstract": "Older age cohorts have been found to exhibit both less interest and less use of digital technologies than younger cohorts, which suggests that they may be less flexible in comparison to younger technology users. However, frequency is not the only differentiating factor between age groups in the context of mobile technology use, as the specific ways in which technologies are used also play a significant role in the daily lives of older adults (65+). Drawing on the selective optimization with compensation (SOC) model, we ask what strategies older adults use to enhance their subjective well-being when using mobile technologies. The thematic analysis is based on 20 elicitation interviews conducted in Central Finland in 2018. Our findings suggest that mobile technologies can act as both a tool to enhance well-being and a source of problems for older adults, and that older adults show considerable creativity in navigating various mobile, digital and non-digital strategies. Furthermore, we argue that these evolving, and thus also in this sense mobile, strategies contribute to the subjective well-being and successful ageing of older adults by providing them with “workarounds” to manage mobile technologies to their benefit.",
+        "url": "https://doi.org/10.1177/20501579251348098",
         "topics_llm": true
       },
       {
@@ -2009,25 +2022,6 @@
         ],
         "abstract": "The characteristics of mobile technology devices have enabled new ways of integrating technology in familial interactions. This study aimed to investigate (1) differences in perspectives of technoference and family-oriented mobile technology use between parents and children, (2) the relation between parent–child interactions that take place via mobile technology and the quality of the parent–child relationship, and (3) its association with the well-being of parents and preadolescents separately. Structural equation modelling was performed on cross-sectional data from 390 parent–child dyads. The findings revealed discrepancies in child technoference perceptions and varying associations of the different types of mobile technology use with the parent–child relationship and parents' and children's well-being. From children's perspective, both parent and child technoference was negative for the parent–child relationship, whereas family-oriented mobile technology use when physically together was beneficial for the relationship and the child's well-being. From parents’ perspective, only child technoference was negatively related to the parent–child relationship and parent's well-being. Overall, the findings underline that mobile technology use can be both detrimental and beneficial, however, the effects can differ depending on the family member and the type of technology use.",
         "url": "https://doi.org/10.1177/20501579241278757",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1177/20501579251348098",
-        "title": "Navigating mobile technologies: Older adults’ mobile, digital, and non-digital strategies for enhancing subjective well-being",
-        "authors": [
-          "Riitta Hänninen",
-          "Sini Tiihonen"
-        ],
-        "year": 2025,
-        "citation_count": 7,
-        "topics": [
-          "Older adults",
-          "Mobile technology use",
-          "Digital well-being",
-          "Aging and technology"
-        ],
-        "abstract": "Older age cohorts have been found to exhibit both less interest and less use of digital technologies than younger cohorts, which suggests that they may be less flexible in comparison to younger technology users. However, frequency is not the only differentiating factor between age groups in the context of mobile technology use, as the specific ways in which technologies are used also play a significant role in the daily lives of older adults (65+). Drawing on the selective optimization with compensation (SOC) model, we ask what strategies older adults use to enhance their subjective well-being when using mobile technologies. The thematic analysis is based on 20 elicitation interviews conducted in Central Finland in 2018. Our findings suggest that mobile technologies can act as both a tool to enhance well-being and a source of problems for older adults, and that older adults show considerable creativity in navigating various mobile, digital and non-digital strategies. Furthermore, we argue that these evolving, and thus also in this sense mobile, strategies contribute to the subjective well-being and successful ageing of older adults by providing them with “workarounds” to manage mobile technologies to their benefit.",
-        "url": "https://doi.org/10.1177/20501579251348098",
         "topics_llm": true
       },
       {
@@ -2087,6 +2081,25 @@
         ],
         "abstract": "Digital back-feeding is a bottom-up process by which younger generations teach or assist older generations in digital access, usage, and literacy. This study aims to examine how two means of digital back-feeding—proxy back-feeding and learning back-feeding—might be differently impacted by older adults’ perceptions of smartphone use, as well as their impact on older adults’ digital literacy. A cross-sectional questionnaire survey ( n = 433) was conducted in mainland China. Our findings revealed that perceived usefulness and perceived risk of smartphone use were positively associated with older adults’ engagement with both proxy back-feeding and learning back-feeding. Perceived ease of use was found to be negatively associated with older adults’ engagement in proxy back-feeding. In addition, older adults’ digital literacy was found to be negatively associated with proxy back-feeding, but positively associated with learning back-feeding. Results suggest that digital back-feeding is a complicated process that may influence older adults’ digital literacy through different routes, which deserves further investigation to bridge digital divide intergenerationally.",
         "url": "https://doi.org/10.1177/20501579241300960",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1177/20501579251360886",
+        "title": "Theorizing dis/connection: A mutual invitation to mobile media and digital disconnection scholars",
+        "authors": [
+          "Mariek Vanden Abeele",
+          "Trine Syvertsen"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Digital disconnection",
+          "Mobile media",
+          "Digital well-being",
+          "Media affordances"
+        ],
+        "abstract": "Mobile connectivity fosters a 24/7 lifestyle that both benefits and burdens individuals. Digital well-being has emerged as a concept describing how persons balance these benefits and burdens. The concept of digital disconnection describes how people set limits to connectivity. Both concepts are currently studied in two fields of research, each dominated by different strands of theories. One strand is developing in mobile media studies: It uses the media-centric lens of affordances theory to explain how mobile media enable and constrain human action. The other is developing into its own field of “disconnection studies,” and draws on studies of media resistance to explain how the phenomenon of disconnection is inherently tied to the morality of what it means to lead a good (media) life in an increasingly digitized—yet unequal—society. This article offers a theoretical contribution at the intersection of both fields: Following an exploration of what “lack of theory” means in mobile communication and media studies, we argue that theoretical development fruitfully takes place through explorations of overlapping and complementary theoretical notions from adjacent fields. Mobile media and digital disconnection scholars thus benefit from extending a mutual invitation. To illustrate our argument, we formulate five axioms that compromise mobile media affordances with morality, to prepare mobile media studies for a future beyond mobile media.",
+        "url": "https://doi.org/10.1177/20501579251360886",
         "topics_llm": true
       }
     ]

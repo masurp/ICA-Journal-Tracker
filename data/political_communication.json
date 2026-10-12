@@ -1,7 +1,7 @@
 {
   "journal_id": "political_communication",
-  "updated_at": "2026-10-05T13:40:17Z",
-  "trending_from": "2024-10-05",
+  "updated_at": "2026-10-12T14:29:27Z",
+  "trending_from": "2024-10-12",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Gerald M. Kosicki"
         ],
         "year": 1993,
-        "citation_count": 2005,
+        "citation_count": 1999,
         "topics": [
           "News framing",
           "Political discourse",
@@ -30,7 +30,7 @@
           "Peter Dahlgren"
         ],
         "year": 2005,
-        "citation_count": 1590,
+        "citation_count": 1575,
         "topics": [
           "Digital public sphere",
           "Political deliberation",
@@ -49,7 +49,7 @@
           "Winfried Schulz"
         ],
         "year": 1999,
-        "citation_count": 1489,
+        "citation_count": 1483,
         "topics": [
           "Mediatization",
           "Media and politics",
@@ -68,7 +68,7 @@
           "Dennis Kavanagh"
         ],
         "year": 1999,
-        "citation_count": 1060,
+        "citation_count": 1054,
         "topics": [
           "Political communication",
           "Media evolution",
@@ -86,7 +86,7 @@
           "Robert M. Entman"
         ],
         "year": 2003,
-        "citation_count": 988,
+        "citation_count": 981,
         "topics": [
           "Political communication",
           "Framing analysis",
@@ -104,7 +104,7 @@
           "Dhavan V. Shah"
         ],
         "year": 2001,
-        "citation_count": 977,
+        "citation_count": 974,
         "topics": [
           "Internet use",
           "Social capital",
@@ -124,7 +124,7 @@
           "Patricia Moy"
         ],
         "year": 1999,
-        "citation_count": 915,
+        "citation_count": 908,
         "topics": [
           "Local political participation",
           "Mass media effects",
@@ -142,7 +142,7 @@
           "Michael X. Delli Carpini"
         ],
         "year": 2000,
-        "citation_count": 730,
+        "citation_count": 726,
         "topics": [
           "Civic Engagement",
           "Youth Political Participation",
@@ -160,7 +160,7 @@
           "Emily A. Thorson"
         ],
         "year": 2015,
-        "citation_count": 641,
+        "citation_count": 624,
         "topics": [
           "Misinformation correction",
           "Belief perseverance",
@@ -172,32 +172,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2012.671234",
-        "title": "Affective News: The Automated Coding of Sentiment in Political Texts",
-        "authors": [
-          "Lori Young",
-          "Stuart Soroka"
-        ],
-        "year": 2012,
-        "citation_count": 623,
-        "topics": [
-          "Sentiment analysis",
-          "Automated coding",
-          "Political communication",
-          "News content analysis"
-        ],
-        "abstract": "An increasing number of studies in political communication focus on the “sentiment” or “tone” of news content, political speeches, or advertisements. This growing interest in measuring sentiment coincides with a dramatic increase in the volume of digitized information. Computer automation has a great deal of potential in this new media environment. The objective here is to outline and validate a new automated measurement instrument for sentiment analysis in political texts. Our instrument uses a dictionary-based approach consisting of a simple word count of the frequency of keywords in a text from a predefined dictionary. The design of the freely available Lexicoder Sentiment Dictionary (LSD) is discussed in detail here. The dictionary is tested against a body of human-coded news content, and the resulting codes are also compared to results from nine existing content-analytic dictionaries. Analyses suggest that the LSD produces results that are more systematically related to human coding than are results based on the other available dictionaries. The LSD is thus a useful starting point for a revived discussion about dictionary construction and validation in sentiment analysis for political communication.",
-        "url": "https://doi.org/10.1080/10584609.2012.671234",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/105846001750322934",
         "title": "Framing Politics at the Launch of the Euro: A Cross-National Comparative Study of Frames in the News",
         "authors": [
           "Claes H. De Vreese"
         ],
         "year": 2001,
-        "citation_count": 617,
+        "citation_count": 613,
         "topics": [
           "Media framing",
           "Political communication",
@@ -209,6 +190,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2012.671234",
+        "title": "Affective News: The Automated Coding of Sentiment in Political Texts",
+        "authors": [
+          "Lori Young",
+          "Stuart Soroka"
+        ],
+        "year": 2012,
+        "citation_count": 609,
+        "topics": [
+          "Sentiment analysis",
+          "Automated coding",
+          "Political communication",
+          "News content analysis"
+        ],
+        "abstract": "An increasing number of studies in political communication focus on the “sentiment” or “tone” of news content, political speeches, or advertisements. This growing interest in measuring sentiment coincides with a dramatic increase in the volume of digitized information. Computer automation has a great deal of potential in this new media environment. The objective here is to outline and validate a new automated measurement instrument for sentiment analysis in political texts. Our instrument uses a dictionary-based approach consisting of a simple word count of the frequency of keywords in a text from a predefined dictionary. The design of the freely available Lexicoder Sentiment Dictionary (LSD) is discussed in detail here. The dictionary is tested against a body of human-coded news content, and the resulting codes are also compared to results from nine existing content-analytic dictionaries. Analyses suggest that the LSD produces results that are more systematically related to human coding than are results based on the other available dictionaries. The LSD is thus a useful starting point for a revived discussion about dictionary construction and validation in sentiment analysis for political communication.",
+        "url": "https://doi.org/10.1080/10584609.2012.671234",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2010.542360",
         "title": "From Incivility to Outrage: Political Discourse in Blogs, Talk Radio, and Cable News",
         "authors": [
@@ -216,7 +216,7 @@
           "Jeffrey M. Berry"
         ],
         "year": 2011,
-        "citation_count": 597,
+        "citation_count": 590,
         "topics": [
           "Political incivility",
           "Media discourse analysis",
@@ -236,34 +236,15 @@
           "Markus Strohmaier"
         ],
         "year": 2018,
-        "citation_count": 574,
+        "citation_count": 566,
         "topics": [
           "Political campaigning",
           "Social media platforms",
           "Political communication",
           "Election discourse"
         ],
-        "abstract": "Formulae display:?Mathematical formulae have been encoded as MathML and are displayed in this HTML version using MathJax in order to improve their display. Uncheck the box to turn MathJax off. This feature requires Javascript. Click on a formula to zoom.",
+        "abstract": "Although considerable research has concentrated on online campaigning, it is still unclear how politicians use different social media platforms in political communication.Focusing on the German federal election campaign 2013, this article investigates whether election candidates address the topics most important to the mass audience and to which extent their communication is shaped by the characteristics of Facebook and Twitter.Based on open-ended responses from a representative survey conducted during the election campaign, we train a human-interpretable Bayesian language model to identify political topics.Applying the model to social media messages of candidates and their direct audiences, we find that both prioritize different topics than the mass audience.The analysis also shows that politicians use Facebook and Twitter for different purposes.We relate the various findings to the mediation of political communication on social media induced by the particular characteristics of audiences and sociotechnical environments.",
         "url": "https://doi.org/10.1080/10584609.2017.1334728",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2020.1723755",
-        "title": "Disinformation as Political Communication",
-        "authors": [
-          "Deen Freelon",
-          "Chris Wells"
-        ],
-        "year": 2020,
-        "citation_count": 565,
-        "topics": [
-          "Disinformation",
-          "Political communication",
-          "Fake news",
-          "Media literacy"
-        ],
-        "abstract": "This introduction to the special issue “Beyond Fake News: The Politics of Disinformation” contains four main sections. In the first, we discuss the major sociopolitical factors that have allowed disinformation to flourish in recent years. Second, we review the very short history of disinformation research, devoting particular attention to two of its more extensively studied conceptual relatives: propaganda and misinformation. Third, we preview the seven articles in this issue, which we divide into two types: studies of disinformation content and of disinformation reception. We conclude by advancing a few suggestions for future disinformation research.",
-        "url": "https://doi.org/10.1080/10584609.2020.1723755",
         "topics_llm": true
       },
       {
@@ -273,7 +254,7 @@
           "Geoffrey Baym"
         ],
         "year": 2005,
-        "citation_count": 563,
+        "citation_count": 560,
         "topics": [
           "Political satire",
           "News and entertainment",
@@ -285,6 +266,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2020.1723755",
+        "title": "Disinformation as Political Communication",
+        "authors": [
+          "Deen Freelon",
+          "Chris Wells"
+        ],
+        "year": 2020,
+        "citation_count": 559,
+        "topics": [
+          "Disinformation",
+          "Political communication",
+          "Fake news",
+          "Media literacy"
+        ],
+        "abstract": "This introduction to the special issue “Beyond Fake News: The Politics of Disinformation” contains four main sections. In the first, we discuss the major sociopolitical factors that have allowed disinformation to flourish in recent years. Second, we review the very short history of disinformation research, devoting particular attention to two of its more extensively studied conceptual relatives: propaganda and misinformation. Third, we preview the seven articles in this issue, which we divide into two types: studies of disinformation content and of disinformation reception. We conclude by advancing a few suggestions for future disinformation research.",
+        "url": "https://doi.org/10.1080/10584609.2020.1723755",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584600802426965",
         "title": "New Media and the Polarization of American Political Discourse",
         "authors": [
@@ -292,7 +292,7 @@
           "Tim J. Groeling"
         ],
         "year": 2008,
-        "citation_count": 546,
+        "citation_count": 536,
         "topics": [
           "Political polarization",
           "New media",
@@ -311,7 +311,7 @@
           "Dietram A. Scheufele"
         ],
         "year": 2000,
-        "citation_count": 530,
+        "citation_count": 529,
         "topics": [
           "News media use",
           "Knowledge gaps",
@@ -330,7 +330,7 @@
           "Tamir Sheafer"
         ],
         "year": 2007,
-        "citation_count": 522,
+        "citation_count": 521,
         "topics": [
           "Political personalization",
           "Media and politics",
@@ -348,7 +348,7 @@
           "John R. Zaller"
         ],
         "year": 2003,
-        "citation_count": 501,
+        "citation_count": 499,
         "topics": [
           "News quality",
           "Journalism",
@@ -366,7 +366,7 @@
           "William P. Eveland"
         ],
         "year": 2004,
-        "citation_count": 497,
+        "citation_count": 493,
         "topics": [
           "Political discussion",
           "Political knowledge",
@@ -385,7 +385,7 @@
           "Leticia Bode"
         ],
         "year": 2020,
-        "citation_count": 485,
+        "citation_count": 477,
         "topics": [
           "Misinformation",
           "Defining misinformation",
@@ -403,7 +403,7 @@
           "Andrew Chadwick"
         ],
         "year": 2007,
-        "citation_count": 462,
+        "citation_count": 460,
         "topics": [
           "Organizational hybridity",
           "Digital networks",
@@ -423,7 +423,7 @@
           "Lilach Nir"
         ],
         "year": 2002,
-        "citation_count": 443,
+        "citation_count": 441,
         "topics": [
           "Political deliberation",
           "Disagreement",
@@ -435,26 +435,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2020.1785067",
-        "title": "Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media",
-        "authors": [
-          "Moran Yarchi",
-          "Christian Baden",
-          "Neta Kligler-Vilenchik"
-        ],
-        "year": 2020,
-        "citation_count": 440,
-        "topics": [
-          "Political polarization",
-          "Social media analysis",
-          "Computational communication",
-          "Digital political discourse"
-        ],
-        "abstract": "Political polarization on the digital sphere poses a real challenge to many democracies around the world. Although the issue has received some scholarly attention, there is a need to improve the conceptual precision in the increasingly blurry debate. The use of computational communication science approaches allows us to track political conversations in a fine-grained manner within their natural settings – the realm of interactive social media. The present study combines different algorithmic approaches to studying social media data in order to capture both the interactional structure and content of dynamic political talk online. We conducted an analysis of political polarization across social media platforms (analyzing Facebook, Twitter, and WhatsApp) over 16 months, with close to a quarter million online contributions regarding a political controversy in Israel. Our comprehensive measurement of interactive political talk enables us to address three key aspects of political polarization: (1) interactional polarization – homophilic versus heterophilic user interactions; (2) positional polarization – the positions expressed, and (3) affective polarization – the emotions and attitudes expressed. Our findings indicate that political polarization on social media cannot be conceptualized as a unified phenomenon, as there are significant cross-platform differences. While interactions on Twitter largely conform to established expectations (homophilic interaction patterns, aggravating positional polarization, pronounced inter-group hostility), on WhatsApp, de-polarization occurred over time. Surprisingly, Facebook was found to be the least homophilic platform in terms of interactions, positions, and emotions expressed. Our analysis points to key conceptual distinctions and raises important questions about the drivers and dynamics of political polarization online.",
-        "url": "https://doi.org/10.1080/10584609.2020.1785067",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.1996.9963131",
         "title": "News decisions: Journalists as partisan actors",
         "authors": [
@@ -462,7 +442,7 @@
           "Wolfgang Donsbagh"
         ],
         "year": 1996,
-        "citation_count": 439,
+        "citation_count": 436,
         "topics": [
           "Journalist bias",
           "News decision-making",
@@ -474,6 +454,44 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2020.1785067",
+        "title": "Political Polarization on the Digital Sphere: A Cross-platform, Over-time Analysis of Interactional, Positional, and Affective Polarization on Social Media",
+        "authors": [
+          "Moran Yarchi",
+          "Christian Baden",
+          "Neta Kligler-Vilenchik"
+        ],
+        "year": 2020,
+        "citation_count": 435,
+        "topics": [
+          "Political polarization",
+          "Social media analysis",
+          "Computational communication",
+          "Digital political discourse"
+        ],
+        "abstract": "Political polarization on the digital sphere poses a real challenge to many democracies around the world. Although the issue has received some scholarly attention, there is a need to improve the conceptual precision in the increasingly blurry debate. The use of computational communication science approaches allows us to track political conversations in a fine-grained manner within their natural settings – the realm of interactive social media. The present study combines different algorithmic approaches to studying social media data in order to capture both the interactional structure and content of dynamic political talk online. We conducted an analysis of political polarization across social media platforms (analyzing Facebook, Twitter, and WhatsApp) over 16 months, with close to a quarter million online contributions regarding a political controversy in Israel. Our comprehensive measurement of interactive political talk enables us to address three key aspects of political polarization: (1) interactional polarization – homophilic versus heterophilic user interactions; (2) positional polarization – the positions expressed, and (3) affective polarization – the emotions and attitudes expressed. Our findings indicate that political polarization on social media cannot be conceptualized as a unified phenomenon, as there are significant cross-platform differences. While interactions on Twitter largely conform to established expectations (homophilic interaction patterns, aggravating positional polarization, pronounced inter-group hostility), on WhatsApp, de-polarization occurred over time. Surprisingly, Facebook was found to be the least homophilic platform in terms of interactions, positions, and emotions expressed. Our analysis points to key conceptual distinctions and raises important questions about the drivers and dynamics of political polarization online.",
+        "url": "https://doi.org/10.1080/10584609.2020.1785067",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/105846000198495",
+        "title": "Patterns of Internet and Traditional News Media Use in a Networked Community",
+        "authors": [
+          "Scott L. Althaus",
+          "David H. Tewksbury"
+        ],
+        "year": 2000,
+        "citation_count": 425,
+        "topics": [
+          "News media consumption",
+          "Internet vs traditional media",
+          "Media substitution effects"
+        ],
+        "abstract": "The growing popularity of the World Wide Web as a source of news raises questions about the future of traditional news media. Is the Web likely to become a supplement to newspapers and television news, or a substitute for these media? Among people who have access to newspapers, television, and the World Wide Web, why do some prefer to use the Web as a source of news, while others prefer traditional news media? Drawing from a survey of 520 undergraduate students at a large public university where Internet use is woven into the fabric of daily life, this study suggests that use of the Web as a news source is positively related with reading newspapers but has no relationship with viewing television news. Members of this community use the Web mainly as a source of entertainment. Patterns of Web and traditional media exposure are examined in light of computer anxiety, desire for control, and political knowledge. This study suggests that even when computer skills and Internet access become more widespread in the general population, use of the World Wide Web as a news source seems unlikely to diminish substantially use of traditional news media.",
+        "url": "https://doi.org/10.1080/105846000198495",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2015.1038455",
         "title": "Does Media Coverage of Partisan Polarization Affect Political Attitudes?",
         "authors": [
@@ -481,7 +499,7 @@
           "Neil A. Malhotra"
         ],
         "year": 2015,
-        "citation_count": 431,
+        "citation_count": 416,
         "topics": [
           "Media coverage",
           "Partisan polarization",
@@ -493,24 +511,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/105846000198495",
-        "title": "Patterns of Internet and Traditional News Media Use in a Networked Community",
-        "authors": [
-          "Scott L. Althaus",
-          "David H. Tewksbury"
-        ],
-        "year": 2000,
-        "citation_count": 427,
-        "topics": [
-          "News media consumption",
-          "Internet vs traditional media",
-          "Media substitution effects"
-        ],
-        "abstract": "The growing popularity of the World Wide Web as a source of news raises questions about the future of traditional news media. Is the Web likely to become a supplement to newspapers and television news, or a substitute for these media? Among people who have access to newspapers, television, and the World Wide Web, why do some prefer to use the Web as a source of news, while others prefer traditional news media? Drawing from a survey of 520 undergraduate students at a large public university where Internet use is woven into the fabric of daily life, this study suggests that use of the Web as a news source is positively related with reading newspapers but has no relationship with viewing television news. Members of this community use the Web mainly as a source of entertainment. Patterns of Web and traditional media exposure are examined in light of computer anxiety, desire for control, and political knowledge. This study suggests that even when computer skills and Internet access become more widespread in the general population, use of the World Wide Web as a news source seems unlikely to diminish substantially use of traditional news media.",
-        "url": "https://doi.org/10.1080/105846000198495",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2014.881942",
         "title": "News, Politics, and Negativity",
         "authors": [
@@ -518,7 +518,7 @@
           "Stephen E. McAdams"
         ],
         "year": 2015,
-        "citation_count": 422,
+        "citation_count": 415,
         "topics": [
           "Negativity bias",
           "Political communication",
@@ -536,7 +536,7 @@
           "Matthew Baum"
         ],
         "year": 2003,
-        "citation_count": 406,
+        "citation_count": 404,
         "topics": [
           "Soft news",
           "Political knowledge",
@@ -545,6 +545,24 @@
         ],
         "abstract": "In \"Any Good News in Soft News?\" Markus Prior investigates whether, beyond enhancing their attentiveness to select political issues (Baum, 2002a), consumers also learn about politics from soft news. He presents evidence suggesting that the audience for soft news is much smaller than that for hard news, and that a self-expressed preference for soft news outlets is associated with at most sporadic gains in factual political knowledge. In this commentary, I argue that the audience for soft news outlets is, in fact, quite large, even rivaling that for hard news. I further argue that long-term retention of factual political knowledge--the focus of Prior's web-based survey--is an overly restrictive definition of learning. By broadening our definition--taking into account recent insights from cognitive and social psychology concerning human information processing--it becomes possible to understand how consuming soft news might indeed be associated with learning about politics, but not necessarily with an enhanced long-term store of factual political knowledge. I present evidence that consuming soft news influences the attitudes of politically inattentive individuals and that, in at least some fairly predictable contexts, doing so is also associated with enhanced factual political knowledge. I conclude that while Prior's finding of an absence of evidence of consistent factual political knowledge effects represents a valuable contribution to our understanding of the political significance of the soft news media, it does not constitute compelling evidence of absence of any meaningful learning about politics associated with consuming soft news. Hence, it is premature to conclude that there is no good news in soft news.",
         "url": "https://doi.org/10.1080/10584600390211181",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584600390211172",
+        "title": "Any Good News in Soft News? The Impact of Soft News Preference on Political Knowledge",
+        "authors": [
+          "Markus Prior"
+        ],
+        "year": 2003,
+        "citation_count": 400,
+        "topics": [
+          "Soft news",
+          "Political knowledge",
+          "News consumption",
+          "Democratic engagement"
+        ],
+        "abstract": "Several scholars, most notably Matt Baum, have recently argued that soft news formats contribute to democratic discourse, because they attract viewers who would otherwise not be exposed to news at all. I extend Baum's approach in two ways. First, Baum's theory postulates that people's appreciation of entertainment is one of the factors determining news exposure and, by extension, attention to politics, but he does not analyze the underlying utility calculation directly. I create a measure of entertainment preference and examine its impact on people's preferred news formats. Second, while Baum's analysis is restricted to attention paid to politics, I assess the effect of soft news preference on political knowledge. If soft news leads people to pay more attention to the \"entertaining\" aspect of politics, but does not actually produce any learning effects, the suggested positive consequences of soft news would have to be qualified. The main data source for this article is a survey of 2,358 randomly selected U.S. residents conducted by Knowledge Networks in February and March 2002. Results show that people like soft news for its entertainment value but that soft news programs are still not very popular compared to hard news and pure entertainment. More critically, there is only very limited evidence that viewers actually learn from soft news. The positive consequences of soft news for the political process remain to be demonstrated.",
+        "url": "https://doi.org/10.1080/10584600390211172",
         "topics_llm": true
       },
       {
@@ -557,7 +575,7 @@
           "Stefan Müller"
         ],
         "year": 2021,
-        "citation_count": 405,
+        "citation_count": 399,
         "topics": [
           "Social media",
           "Agenda setting",
@@ -569,24 +587,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584600390211172",
-        "title": "Any Good News in Soft News? The Impact of Soft News Preference on Political Knowledge",
-        "authors": [
-          "Markus Prior"
-        ],
-        "year": 2003,
-        "citation_count": 401,
-        "topics": [
-          "Soft news",
-          "Political knowledge",
-          "News consumption",
-          "Democratic engagement"
-        ],
-        "abstract": "Several scholars, most notably Matt Baum, have recently argued that soft news formats contribute to democratic discourse, because they attract viewers who would otherwise not be exposed to news at all. I extend Baum's approach in two ways. First, Baum's theory postulates that people's appreciation of entertainment is one of the factors determining news exposure and, by extension, attention to politics, but he does not analyze the underlying utility calculation directly. I create a measure of entertainment preference and examine its impact on people's preferred news formats. Second, while Baum's analysis is restricted to attention paid to politics, I assess the effect of soft news preference on political knowledge. If soft news leads people to pay more attention to the \"entertaining\" aspect of politics, but does not actually produce any learning effects, the suggested positive consequences of soft news would have to be qualified. The main data source for this article is a survey of 2,358 randomly selected U.S. residents conducted by Knowledge Networks in February and March 2002. Results show that people like soft news for its entertainment value but that soft news programs are still not very popular compared to hard news and pure entertainment. More critically, there is only very limited evidence that viewers actually learn from soft news. The positive consequences of soft news for the political process remain to be demonstrated.",
-        "url": "https://doi.org/10.1080/10584600390211172",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/105846099198541",
         "title": "News, Talk, Opinion, Participation: The Part Played by Conversation in Deliberative Democracy",
         "authors": [
@@ -595,7 +595,7 @@
           "Elihu Katz"
         ],
         "year": 1999,
-        "citation_count": 399,
+        "citation_count": 397,
         "topics": [
           "Deliberative democracy",
           "Political conversation",
@@ -614,7 +614,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2017,
-        "citation_count": 397,
+        "citation_count": 391,
         "topics": [
           "Technology companies",
           "Political communication",
@@ -635,7 +635,7 @@
           "JungHwan Yang"
         ],
         "year": 2019,
-        "citation_count": 379,
+        "citation_count": 374,
         "topics": [
           "Astroturfing",
           "Disinformation campaigns",
@@ -653,7 +653,7 @@
           "Rodney Benson"
         ],
         "year": 2006,
-        "citation_count": 370,
+        "citation_count": 369,
         "topics": [
           "Bourdieu field theory",
           "Journalism studies",
@@ -670,7 +670,7 @@
           "Frauke Schnell Karen Callaghan"
         ],
         "year": 2001,
-        "citation_count": 363,
+        "citation_count": 359,
         "topics": [
           "Media framing",
           "Policy discourse",
@@ -689,7 +689,7 @@
           "Andrew Rojecki"
         ],
         "year": 1993,
-        "citation_count": 358,
+        "citation_count": 355,
         "topics": [
           "Media framing",
           "Anti-nuclear movement",
@@ -710,7 +710,7 @@
           "Erik C. Nisbet"
         ],
         "year": 2004,
-        "citation_count": 356,
+        "citation_count": 351,
         "topics": [
           "Political participation",
           "Social networks",
@@ -728,7 +728,7 @@
           "Murray J. Edelman"
         ],
         "year": 1993,
-        "citation_count": 340,
+        "citation_count": 339,
         "topics": [
           "Political framing",
           "Public opinion",
@@ -746,7 +746,7 @@
           "Eytan Gilboa"
         ],
         "year": 2005,
-        "citation_count": 335,
+        "citation_count": 333,
         "topics": [
           "CNN Effect",
           "Media influence",
@@ -758,6 +758,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2018.1477506",
+        "title": "Computational Research in the Post-API Age",
+        "authors": [
+          "Deen Freelon"
+        ],
+        "year": 2018,
+        "citation_count": 331,
+        "topics": [
+          "API restrictions",
+          "Research methodology",
+          "Digital data access",
+          "Computational social science"
+        ],
+        "abstract": "Briefly describes the implications of the emerging post-API age for social science research methods.",
+        "url": "https://doi.org/10.1080/10584609.2018.1477506",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.1996.9963127",
         "title": "Government's little helper: U.S. press coverage of foreign policy crises, 1945–1991",
         "authors": [
@@ -765,7 +783,7 @@
           "Dennis Chiu"
         ],
         "year": 1996,
-        "citation_count": 332,
+        "citation_count": 328,
         "topics": [
           "Foreign policy journalism",
           "News indexing",
@@ -783,7 +801,7 @@
           "Regina G. Lawrence"
         ],
         "year": 2000,
-        "citation_count": 324,
+        "citation_count": 321,
         "topics": [
           "Game framing",
           "News framing",
@@ -795,25 +813,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/105846099198749",
-        "title": "Increasing Political Sophistication Through Public Deliberation",
-        "authors": [
-          "John Gastil",
-          "James Price Dillard"
-        ],
-        "year": 1999,
-        "citation_count": 321,
-        "topics": [
-          "Political deliberation",
-          "Political sophistication",
-          "Democratic participation",
-          "Civic engagement"
-        ],
-        "abstract": "Deliberative democratic theory posits that group deliberation aids the development of citizens' political sophistication. To test this general claim, the authors studied the association between participation in face-to-face political deliberation and subsequent changes in the coherence, integration, differentiation, and detail of participants' political beliefs. The authors measured these dependent variables using questionnaires administered before and after participation in a deliberative activity-National Issues Forums (NIF) discussions of political issues. Seven different issues were studied, and the results of these separate studies were integrated through meta-analysis. Changes in preforum and postformum responses suggested that participation in the NIF discussions increased participants' schematic integration and differentiation and reduced their attitudinal uncertainty.",
-        "url": "https://doi.org/10.1080/105846099198749",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584600390244121",
         "title": "Gatekeeping, Indexing, and Live-Event News: Is Technology Altering the Construction of News?",
         "authors": [
@@ -821,7 +820,7 @@
           "W. Lance Bennett"
         ],
         "year": 2003,
-        "citation_count": 320,
+        "citation_count": 317,
         "topics": [
           "News gatekeeping",
           "Technology and journalism",
@@ -833,6 +832,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/105846099198749",
+        "title": "Increasing Political Sophistication Through Public Deliberation",
+        "authors": [
+          "John Gastil",
+          "James Price Dillard"
+        ],
+        "year": 1999,
+        "citation_count": 317,
+        "topics": [
+          "Political deliberation",
+          "Political sophistication",
+          "Democratic participation",
+          "Civic engagement"
+        ],
+        "abstract": "Deliberative democratic theory posits that group deliberation aids the development of citizens' political sophistication. To test this general claim, the authors studied the association between participation in face-to-face political deliberation and subsequent changes in the coherence, integration, differentiation, and detail of participants' political beliefs. The authors measured these dependent variables using questionnaires administered before and after participation in a deliberative activity-National Issues Forums (NIF) discussions of political issues. Seven different issues were studied, and the results of these separate studies were integrated through meta-analysis. Changes in preforum and postformum responses suggested that participation in the NIF discussions increased participants' schematic integration and differentiation and reduced their attitudinal uncertainty.",
+        "url": "https://doi.org/10.1080/105846099198749",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/01957470290055501",
         "title": "From Top-Down to Trickle-Up Influence: Revisiting Assumptions About the Family in Political Socialization",
         "authors": [
@@ -840,7 +858,7 @@
           "Steven H. Chaffee"
         ],
         "year": 2002,
-        "citation_count": 317,
+        "citation_count": 314,
         "topics": [
           "Political socialization",
           "Family communication",
@@ -852,24 +870,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2018.1477506",
-        "title": "Computational Research in the Post-API Age",
-        "authors": [
-          "Deen Freelon"
-        ],
-        "year": 2018,
-        "citation_count": 311,
-        "topics": [
-          "API restrictions",
-          "Research methodology",
-          "Digital data access",
-          "Computational social science"
-        ],
-        "abstract": "On April 4, 2018, the post-API age reached a milestone. On that day, Facebook closed access to its Pages API, which had allowed researchers to extract posts, comments, and associated metadata from ...",
-        "url": "https://doi.org/10.1080/10584609.2018.1477506",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/10584609.2017.1334727",
         "title": "In Their Own Words: Political Practitioner Accounts of Candidates, Audiences, Affordances, Genres, and Timing in Strategic Social Media Use",
         "authors": [
@@ -878,7 +878,7 @@
           "Shannon C. McGregor"
         ],
         "year": 2017,
-        "citation_count": 298,
+        "citation_count": 293,
         "topics": [
           "Political communication",
           "Social media strategy",
@@ -896,7 +896,7 @@
           "Nicolas M. Anspach"
         ],
         "year": 2017,
-        "citation_count": 295,
+        "citation_count": 289,
         "topics": [
           "Social media influence",
           "News consumption",
@@ -908,23 +908,23 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2017.1334018",
-        "title": "Political Fact-Checking on Twitter: When Do Corrections Have an Effect?",
+        "doi": "10.1080/10584600591006564",
+        "title": "“She Brought Only a Skirt”: Print Media Coverage of Elizabeth Dole's Bid for the Republican Presidential Nomination",
         "authors": [
-          "Drew Margolin",
-          "Anikó Hannák",
-          "Ingmar G. Weber"
+          "Caroline Heldman",
+          "Susan J. Carroll",
+          "Stephanie Olson"
         ],
-        "year": 2017,
-        "citation_count": 291,
+        "year": 2005,
+        "citation_count": 289,
         "topics": [
-          "Fact-checking",
-          "Misinformation",
-          "Social networks",
-          "Twitter"
+          "Gender in media",
+          "Political campaign coverage",
+          "Presidential elections",
+          "Media bias"
         ],
-        "abstract": "Research suggests that fact checking corrections have only a limited impact on the spread of false rumors. However, research has not considered that fact-checking may be socially contingent, meaning there are social contexts in which truth may be more or less preferred. In particular, we argue that strong social connections between fact-checkers and rumor spreaders encourage the latter to prefer sharing accurate information, making them more likely to accept corrections. We test this argument on real corrections made on Twitter between Janurary 2012 and April, 2014. As hypothesized, we find that individuals who follow and are followed by the people who correct them are significantly more likely to accept the correction than individuals confronted by strangers. We then replicate our findings on new data drawn from November 2015 to February, 2016. These findings suggest that the underlying social structure is an important factor in the correction of misinformation.",
-        "url": "https://doi.org/10.1080/10584609.2017.1334018",
+        "abstract": "This article analyzes two data sets to determine differences in print media coverage of Elizabeth Dole and five other Republican contenders for the presidential nomination in 1999: George W. Bush, John McCain, Alan Keyes, Gary Bauer, and Steve Forbes. Our findings indicate that Dole received a differential amount and type of print media coverage that was decidedly gendered and may have hindered her candidacy. Dole did not receive an amount of media coverage consistent with her standing as the number two candidate in the polls throughout the time period we examined, and the press paid more attention to Dole's personality traits and appearance than to the traits and appearance of other candidates. Journalists also repeatedly framed Dole as the “first woman” to be a serious presidential candidate and focused on her gender more than any other aspect of her candidacy, suggesting implicitly, if not explicitly, that she was a novelty in the race rather than a strong contender with a good chance of winning.",
+        "url": "https://doi.org/10.1080/10584600591006564",
         "topics_llm": true
       },
       {
@@ -934,7 +934,7 @@
           "James N. Druckman"
         ],
         "year": 2005,
-        "citation_count": 290,
+        "citation_count": 287,
         "topics": [
           "Media coverage",
           "Campaign journalism",
@@ -948,13 +948,74 @@
     ],
     "latest": [
       {
+        "doi": "10.1080/10584609.2026.2745832",
+        "title": "Who Verifies the Verifiers? AI, Local Knowledge Production, and Credibility in Tanzania’s 2025 Election",
+        "authors": [
+          "Gregory Gondwe"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Fact-checking",
+          "Election misinformation",
+          "AI and journalism",
+          "Local credibility practices"
+        ],
+        "abstract": "This study examines how Factchecking AI tools and community-based credibility practices interacted during Tanzania’s 2025 presidential election. Using data from five regions, we analyzed 342 media materials, 87 interviews, field observations, and 22 distinct contested election events. The findings identify three forms of verification disjuncture. First, AI-assisted translation and transcription sometimes changed the meaning of politically important statements before journalists could verify them. Second, fact-checks and disputed claims often moved through different communication channels, which limited the chances that people would see the correction. Third, some communities trusted personal experience, familiar sources, and collective discussion more than professional fact-checkers. Participants judged credibility through relationships, lived experience, group discussion, humor and satire, and social accountability. These practices sometimes supported the same conclusions as institutional verification and sometimes produced different judgments. We argue that fact-checking becomes politically effective when the meaning of a claim is preserved, the correction reaches the people discussing it, and the source of the correction is recognized as credible. This explains why an accurate fact-check can still have limited public influence.",
+        "url": "https://doi.org/10.1080/10584609.2026.2745832",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2745844",
+        "title": "The Politics of the “Non-Political”: A Conceptual Review",
+        "authors": [
+          "Yufan Guo",
+          "Yibin Fan"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Political boundaries",
+          "Non-political entities",
+          "Conceptual analysis",
+          "Politics and communication"
+        ],
+        "abstract": "Recent literature has documented a growing entanglement between political processes and many nonpolitical entities. This calls into question the traditional presupposition of politics as a self-contained sphere, highlighting the need to clarify how the conceptual relationship between the political and the nonpolitical has been established. In line with a relational understanding of politics, we provide a boundary analysis by looking at the “non-political” labeling in 140 empirical studies published in political science and communication journals. Two major conceptual treatments are identified: categorical, treating the “non-political” as an inherent, exclusive feature; and contextual, viewing it as a temporary, transformative state. Intellectual traditions, theoretical orientations, methodological standards, and rhetorical norms in academic knowledge production may explain why this boundary has been constructed in such different ways. We call for a more active reconciliation between these treatments, and argue that the nonpolitical, as well as (de)politicization, should be recognized as a meaningful analytical lens. It signifies a relational stance against the explicit, institutionalized politics in political communication studies, offering an indirect yet heuristically productive response to the question of what the political is.",
+        "url": "https://doi.org/10.1080/10584609.2026.2745844",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2026.2733320",
+        "title": "Does the TikTok Feed Lean Right? Exposure to Political Content Among Non-Partisan Users in Germany",
+        "authors": [
+          "Jasper Tjaden",
+          "Johannes Wolfgram",
+          "Aaron Philipp",
+          "Sarah Weißmann",
+          "Licia Bobzien",
+          "Ulrich Köhler",
+          "Roland Verwiebe"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Algorithm bias",
+          "Political content moderation",
+          "TikTok",
+          "Partisan polarization"
+        ],
+        "abstract": "We evaluated disparities in exposure to partisan content among new, nonpartisan TikTok users. We performed a sock puppet audit using 118 automated users in Germany ahead of three regional elections in 2024 and the federal election in 2025 (N = 266.161 videos). The design allowed us to account for past individual user behavior, user networks, location, and time. Overall, general political content constitutes 5%–7% of nonpolitical user feeds in our sample. When nonpartisan users encounter unsolicited political content, it is more likely to feature videos mentioning and supporting the far-right populist Alternative für Deutschland (AfD) party relative to all other parties. Further descriptive analysis shows that content by the AfD is associated with a higher volume of accounts and a higher number of viral videos.",
+        "url": "https://doi.org/10.1080/10584609.2026.2733320",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2026.2735922",
         "title": "When Populism? Consistent and Opportunistic Populist Communication in the 2022 Brazilian Presidential Elections",
         "authors": [
           "Gustavo Luiz Venturelli",
           "Paolo Ricci",
           "Guilherme Tiengo",
-          "Raphaela Martins Guedes Azevedo Velho"
+          "Raphaela Velho"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1387,7 +1448,7 @@
         "title": "Happiness in Political Communication by Men and Women Members of the US Congress",
         "authors": [
           "Constantine Boussalis",
-          "Travis G. Coan",
+          "Travis Coan",
           "Mirya R. Holman"
         ],
         "year": 2026,
@@ -1492,7 +1553,7 @@
           "Damian Hodel"
         ],
         "year": 2026,
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Fact-checking",
           "Political misinformation",
@@ -1881,65 +1942,6 @@
         "abstract": "Rather than framing disinformation as false facts which can be countered by true facts, we propose a model of disinformation as narrative by tracing three case studies of successful disinformation across Facebook and Twitter. As stories, disinformation disseminates throughout culture and exists at all levels of media and across genres. Using a dataset of content hosted on URLs shared widely on social media corresponding to U.S. left, right, and nonpartisan examples of disinformation, we examine how successful disinformation circulates as narratives across platforms and genres. We find that all three case studies meet the formal criteria of narrative, and that narrative is intrinsically emotional and moral, providing catharsis for those who share it. Understanding that successful disinformation narratives are enforced by cultural forces, are intrinsically linked to identity, and hold deep emotional resonance for those with whom they resonate has vast implications for responding to and countering them.",
         "url": "https://doi.org/10.1080/10584609.2026.2644198",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2026.2649632",
-        "title": "Political Communication Special Issue Introduction: Multi-Platform Research",
-        "authors": [
-          "Josephine Lukito",
-          "Meredith L. Pruden",
-          "Jiyoun Suk",
-          "Yunkang Yang",
-          "Wei Zhong"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Political communication",
-          "Multi-platform analysis",
-          "Digital media",
-          "Social media"
-        ],
-        "abstract": "In this introduction to the Multi-Platform Research Special Issue, we continue a field-wide discussion regarding how political communication scholars conduct multi-platform research. Despite the continued challenges to develop both robust methods and longstanding theoretical frameworks, political communication research that accounts for multiple platforms has continued to grow. In addition to noting these challenges, we outline a framework to distinguish comparative studies, which focus on patterned similarities and differences across platforms, and systemic studies, which seek to understand how platform content, users, and affordances may be shaped by one another. Articles that are a part of this Special Issue demonstrate the theoretical, methodological, and empirical value of multi-platform research, taking into account a broad array of countries, cultural contexts, and political action to analyze political communication as it actually occurs: across multiple interlocking and rapidly-evolving digital platforms.",
-        "url": "https://doi.org/10.1080/10584609.2026.2649632",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2026.2613647",
-        "title": "Negativity and Misinformation",
-        "authors": [
-          "Stuart Soroka",
-          "Christopher B. Wlezien"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Misinformation",
-          "Negative messaging",
-          "Communication effects",
-          "Information credibility"
-        ],
-        "abstract": "There are large and growing bodies of research highlighting inaccuracies in news coverage. In this paper, we suggest that negativity biases account for a substantial portion of longstanding inaccuracies (or “misinformation”) in coverage of a broad range of social, medical, environmental, political, and economic domains. As an illustrative example, we use automated content analyses of over 20 years of television news transcripts merged with unemployment data to measure the accuracy of unemployment coverage across the six major US broadcasters (ABC, CBS, NBS, CNN, Fox News, and MSNBC), and then examine the degree to which variation in accuracy is associated with variation in the tendency to overweight negative information relative to positive information. Results reveal a connection between inaccuracy and negativity biases, a finding that we interpret as it relates to our understanding of misinformation in the news.",
-        "url": "https://doi.org/10.1080/10584609.2026.2613647",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2026.2627253",
-        "title": "Truth-Seeking vs. Balance: The Credibility Dilemma in Correcting Political Misinformation",
-        "authors": [
-          "Hwayong Shin"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Misinformation correction",
-          "Political credibility",
-          "Journalistic balance",
-          "Fact-checking"
-        ],
-        "abstract": "When journalists perceive more misinformation from one side of the political spectrum, do they face a normative dilemma between truth and balance? Correcting one party more often in pursuit of truth can undermine news credibility, while maintaining balance to preserve credibility can be misleading. To assess whether the trade-off that I term the “truth-balance dilemma” exists in practice, I examine whether asymmetric corrections of one party undermine news credibility when considered across multiple topics. While prior studies have focused on single-issue contexts, this study highlights how individuals evaluate news sources based on their coverage of a range of issues. Through fact-checking datasets and national surveys, I find that, while journalists have corrected Republican misstatements more often, large segments of the public believe that misinformation comes from both parties or primarily from Democrats. Two preregistered experiments show that asymmetric corrections undermine credibility, but the effect depends on audience perceptions about who spreads misinformation. Individuals who blame both parties for misinformation discount credibility when a source mostly corrects one side—even when the imbalance favors their own side. Meanwhile, those who blame the opposing party find heavier corrections of that party as credible as balanced corrections, but view heavier corrections of their own party as less credible. By showing how the truth-balance dilemma stems from the perception gap between journalists and audiences, this study underscores the reputational risks that truth-seeking journalism faces in polarized environments.",
-        "url": "https://doi.org/10.1080/10584609.2026.2627253",
-        "topics_llm": true
       }
     ],
     "trending": [
@@ -1950,7 +1952,7 @@
           "Nicolai Berk"
         ],
         "year": 2025,
-        "citation_count": 31,
+        "citation_count": 32,
         "topics": [
           "Media framing",
           "Information environments",
@@ -1959,25 +1961,6 @@
         ],
         "abstract": "To what extent do news frames influence public opinion? While a large body of experimental research suggests sizable effects, it is unclear how these findings translate to authentically complex information environments. I exploit a rare change in the immigration framing of the largest German tabloid, Bild, to estimate the precise impact of this shift on immigration attitudes using large-scale panel data. Despite a 42% increase in the emphasis on crime in Bild’s immigration coverage, I find a robust and precise null effect on immigration attitudes and several related variables. These findings highlight that framing effects materialize under specific scope conditions that need to be considered when generalizing from experimental results.",
         "url": "https://doi.org/10.1080/10584609.2025.2456519",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2406809",
-        "title": "Prevalence, Presentation, and Popularity of Political Topics in Social Media Influencers’ Content Across Two Countries",
-        "authors": [
-          "Darian Harff",
-          "Desirée Schmuck"
-        ],
-        "year": 2024,
-        "citation_count": 22,
-        "topics": [
-          "Social media influencers",
-          "Political communication",
-          "Cross-cultural analysis",
-          "Content analysis"
-        ],
-        "abstract": "Social media influencers (SMIs) are not only important players in marketing but have also repeatedly posted about political issues on their channels. Yet, we lack insights into the prevalence of their political communication, their portrayal of different political subjects, and factors driving content popularity among audiences. This comparative study tackles these gaps: Quota-based youth surveys in Germany and Belgium (NTotal = 2,800) informed a YouTube content analysis in both countries (NTotal = 5,740), which was complemented by video metadata (i.e. views and likes per views on videos). Our findings show that most youth encounter political content from SMIs, but on a more occasional basis. Correspondingly, we found that most of the SMIs in our sample addressed political topics rather sporadically. However, their political videos received more views and likes than their nonpolitical content, implying that their discussion of meaningful subjects garners audiences’ attention. Our five-year analysis further suggests that political topics have become more prevalent in their content over time, pointing to an upwards trend in their political communication in recent years. Moreover, findings indicate that lifestyle-based political topics (e.g., gender, health) are most frequently discussed by SMIs. Generally, political topics were most often presented in the form of commentaries or reaction videos, which has several theoretical implications. Last, our results demonstrate that commentary-style videos and those characterized by high infotainment are most liked by audiences, showing that this type of content resonates strongly with SMIs’ viewers.",
-        "url": "https://doi.org/10.1080/10584609.2024.2406809",
         "topics_llm": true
       },
       {
@@ -2037,6 +2020,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2025.2611913",
+        "title": "Artificial Intelligence in Election Campaigns: Perceptions, Penalties, and Implications",
+        "authors": [
+          "Andreas Jungherr",
+          "Adrian Rauchfleisch",
+          "Alexander Wuttke"
+        ],
+        "year": 2026,
+        "citation_count": 13,
+        "topics": [
+          "Artificial Intelligence",
+          "Election campaigns",
+          "Political communication",
+          "Public perception"
+        ],
+        "abstract": "As political parties around the world experiment with Artificial Intelligence (AI) in election campaigns, concerns about deception and manipulation are rising. This article examines how the public reacts to different uses of AI in elections and the potential consequences for party evaluations and regulatory preferences. Across three preregistered studies with over 7600 American respondents, we identify three categories of AI use: campaign operations, voter outreach, and deception. While people generally dislike AI in campaigns, they are especially critical of deceptive uses, which they perceive as norm violations. However, parties engaging in AI-enabled deception face no significant drop in favorability, neither with supporters, opponents, nor independents. Instead, deceptive AI use increases public support for stricter AI regulation, including calls for an outright ban on AI development. These findings indicate that public disapproval of deceptive uses of AI does not directly translate into incentives for parties to forgo them, at least in the polarized political environment of the US.",
+        "url": "https://doi.org/10.1080/10584609.2025.2611913",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2025.2512342",
         "title": "Toward Conceptualizing Bounded Social Media Places",
         "authors": [
@@ -2052,44 +2055,6 @@
         ],
         "abstract": "In this theoretical piece, I explicate the concept of bounded social media places (BSMPs), places within social media characterized by control over visibility such as private groups, servers, and chats. I distinguish these from public social media places (PSMPs), like algorithmically controlled content feeds and public groups, profiles, and pages. In doing so, I argue that political communication scholars engaged in multi-platform research can adopt an affordances perspective and use the affordance of visibility as an organizing principle to understand the broader social media ecology. Thus, they can differentiate between lower visibility BSMPs and higher visibility PSMPs across multiple platforms. This helps to address the limitations associated with using platform as a discrete object of study in multi-platform research. In particular, individual platforms are heterogenous and contain both lower and higher visibility places, which can be associated with distinct political outcomes. Furthermore, I identify four types of BSMPs and review political communication research on them, highlighting how the concept of BSMPs can help researchers tackle some of the limitations associated with this work as well as encourage scholars to conduct more multi-platform political communication research on these different BSMPs. I also outline specific ways in which the concept of BSMPs can facilitate more nuanced multi-platform political communication research and theorizing. Scholars can draw on this concept to more clearly identify their object of study, engage in more platform-agnostic and durable research, and present a more complete picture of multi-platform media ecologies and political communication.",
         "url": "https://doi.org/10.1080/10584609.2025.2512342",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2024.2414256",
-        "title": "The Contemporary Far Right fromContrato Control",
-        "authors": [
-          "Andrea L. P. Pirro"
-        ],
-        "year": 2024,
-        "citation_count": 12,
-        "topics": [
-          "Far-right politics",
-          "Political communication",
-          "Hegemony",
-          "Democratic discourse"
-        ],
-        "abstract": "The far right has moved from oppositional force to control over the last decades. This outcome is the result of a long-term process of renewal ultimately aimed at dismantling the liberal order. As the far right moves from counter-hegemonic to hegemonic force in certain contexts, it is important to acknowledge that it does not constitute a “counter-public;” counter-publics are indeed those voices that the far right seeks to silence, i.e. various minorities and opponents. Research on far-right politics is thus charged with addressing terminological and methodological challenges capable of exposing the elusive nature of this phenomenon and illiberal or anti-democratic “red flags.”",
-        "url": "https://doi.org/10.1080/10584609.2024.2414256",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2611913",
-        "title": "Artificial Intelligence in Election Campaigns: Perceptions, Penalties, and Implications",
-        "authors": [
-          "Andreas Jungherr",
-          "Adrian Rauchfleisch",
-          "Alexander Wuttke"
-        ],
-        "year": 2026,
-        "citation_count": 11,
-        "topics": [
-          "Artificial Intelligence",
-          "Election campaigns",
-          "Political communication",
-          "Public perception"
-        ],
-        "abstract": "As political parties around the world experiment with Artificial Intelligence (AI) in election campaigns, concerns about deception and manipulation are rising. This article examines how the public reacts to different uses of AI in elections and the potential consequences for party evaluations and regulatory preferences. Across three preregistered studies with over 7600 American respondents, we identify three categories of AI use: campaign operations, voter outreach, and deception. While people generally dislike AI in campaigns, they are especially critical of deceptive uses, which they perceive as norm violations. However, parties engaging in AI-enabled deception face no significant drop in favorability, neither with supporters, opponents, nor independents. Instead, deceptive AI use increases public support for stricter AI regulation, including calls for an outright ban on AI development. These findings indicate that public disapproval of deceptive uses of AI does not directly translate into incentives for parties to forgo them, at least in the polarized political environment of the US.",
-        "url": "https://doi.org/10.1080/10584609.2025.2611913",
         "topics_llm": true
       },
       {
@@ -2158,6 +2123,26 @@
         ],
         "abstract": "America is said to be more polarized than ever before, and extensive research examines the causes and effects of political polarization. A less studied but more pronounced trend is that citizens perceive society and politics as sharply divided. We focus on news exposure as a key reason for these perceptions. We disentangle the unique effects of exposure to partisan outlets and to news coverage of polarization in general, whether in partisan or centrist news media. We rely on 9 months of online behavioral data (127,400,000 visits) from large samples in the U.S. and Poland (total N = 2,462 & 2,120), paired with a three-wave panel survey on participants' attitudes and perceptions. We measure individual exposure, over-time and unobtrusively, to partisan outlets as well as to news coverage of polarization through a fine-tuned BERT-based machine learning classifier. We find that both exposures increase perceived polarization, independently, in both countries. Yet, in both contexts, it is news coverage of polarization, regardless of whether it is ideologically left, right, or centrist news outlets, that is the strongest driver of perceived polarization. These changes are confined to personal-level polarization (perceived distance between oneself and members of the opposing party), while no measure significantly influences perceptions of society, more generally, as being polarized. These findings have important implications for our understanding of how the media’s increasing tendency to focus on conflict as a central reporting frame can be the driver of often exaggerated perceptions of partisan divisions.",
         "url": "https://doi.org/10.1080/10584609.2024.2423093",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/10584609.2025.2604708",
+        "title": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
+        "authors": [
+          "Curd Benjamin Knüpfer",
+          "Yunkang Yang",
+          "Mike Cowburn"
+        ],
+        "year": 2025,
+        "citation_count": 7,
+        "topics": [
+          "Political polarization",
+          "Digital media ecosystems",
+          "Party factionalism",
+          "Partisan networks"
+        ],
+        "abstract": "Across democratic systems, ideological cleavages increasingly emerge not only between but also within political parties. At the same time, hyperpartisan and digitally networked media ecosystems amplify polarization by fostering ideologically segmented information networks. To explain the interplay between internal party divisions and digital connectivity, we introduce a novel framework termed the “logic of connective faction.” We illustrate this framework via a case from the US, and the sudden circulation of the issue of “Critical Race Theory” (CRT), which became a far-right moniker for almost any discussion of race, particularly in education. Utilizing an original dataset comprising right-wing and mainstream news sources, newsletters and social media posts by Republican Members of Congress (n = 1,941,742), we analyze ideological behavior and connectivity patterns, distinguishing Republicans who adopted the “CRT” issue from their co-partisans who did not. We find that the former group represents a distinct faction characterized by greater ideological extremity and deeper integration into right-wing digital networks. Beyond this combination of political behavior and digital connectivity, we highlight various networked media logics, such as platform-based engagement and media attention, which may incentivize such factional behaviors. Finally, we consider implications for political actors and media systems beyond the US.",
+        "url": "https://doi.org/10.1080/10584609.2025.2604708",
         "topics_llm": true
       },
       {
@@ -2238,6 +2223,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/10584609.2025.2456524",
+        "title": "Election Denial as a News Coverage Dilemma: A Survey Experiment with Local Journalists",
+        "authors": [
+          "Erik Peterson",
+          "Shannon C. McGregor",
+          "Ryan Block"
+        ],
+        "year": 2025,
+        "citation_count": 6,
+        "topics": [
+          "Election denial",
+          "News coverage",
+          "Journalism",
+          "Political misinformation"
+        ],
+        "abstract": "In 2022 Republican candidates across the country contested the legitimacy of the prior Presidential election. How journalists cover this topic has important implications for the political information environment and democracy itself. We survey local news reporters covering congressional campaigns and find election denial poses a dilemma for them. Journalists support efforts to increase the public’s trust in elections, but also feel compelled to let election deniers explain their views in the news. Using a survey experiment, we show exposure to information about an alternative democracy-framed way of covering this topic changes how journalists approach it by decreasing the appeal of stories that address election denial as an electoral strategy or recirculate rhetoric casting doubt on the legitimacy of elections. Our study shows why the erosion of democratic norms poses a challenge for journalists while also revealing openness to alternative coverage approaches.",
+        "url": "https://doi.org/10.1080/10584609.2025.2456524",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/10584609.2024.2439320",
         "title": "Does Social Media Level the Political Field or Reinforce Existing Inequalities? Cartographies of the 2022 Brazilian Election",
         "authors": [
@@ -2254,26 +2259,6 @@
         ],
         "abstract": "If representation furnishes the stage where political struggles play out, this stage can be alarmingly small. In this study, we examine whether social media campaigns in the 2022 Brazil elections are inclusive. Based on the triangulation of data provided by Brazil’s Electoral Supreme Court, national census, and approximately 80,000 Facebook posts and ads, our findings reveal that candidates who lacked resources were either absent from this platform or received significantly less engagement. Those who already belonged to Brazil’s political class and invested more on content promotion online were more successful in boosting their social media metrics. We also find that campaigns were highly concentrated on populous and rich municipalities, thereby neglecting hundreds of cities in these communication efforts. Overall, our results suggest that social media will reproduce, rather than subvert, existing forms of inequality and exclusion in Brazilian representative politics.",
         "url": "https://doi.org/10.1080/10584609.2024.2439320",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/10584609.2025.2604708",
-        "title": "The Logic of Connective Faction: How Digitally Networked Elites and Hyper-Partisan Media Radicalize Politics",
-        "authors": [
-          "Curd Benjamin Knüpfer",
-          "Yunkang Yang",
-          "Mike Cowburn"
-        ],
-        "year": 2025,
-        "citation_count": 5,
-        "topics": [
-          "Political polarization",
-          "Digital media ecosystems",
-          "Party factionalism",
-          "Partisan networks"
-        ],
-        "abstract": "Across democratic systems, ideological cleavages increasingly emerge not only between but also within political parties. At the same time, hyperpartisan and digitally networked media ecosystems amplify polarization by fostering ideologically segmented information networks. To explain the interplay between internal party divisions and digital connectivity, we introduce a novel framework termed the “logic of connective faction.” We illustrate this framework via a case from the US, and the sudden circulation of the issue of “Critical Race Theory” (CRT), which became a far-right moniker for almost any discussion of race, particularly in education. Utilizing an original dataset comprising right-wing and mainstream news sources, newsletters and social media posts by Republican Members of Congress (n = 1,941,742), we analyze ideological behavior and connectivity patterns, distinguishing Republicans who adopted the “CRT” issue from their co-partisans who did not. We find that the former group represents a distinct faction characterized by greater ideological extremity and deeper integration into right-wing digital networks. Beyond this combination of political behavior and digital connectivity, we highlight various networked media logics, such as platform-based engagement and media attention, which may incentivize such factional behaviors. Finally, we consider implications for political actors and media systems beyond the US.",
-        "url": "https://doi.org/10.1080/10584609.2025.2604708",
         "topics_llm": true
       },
       {
@@ -2313,23 +2298,24 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/10584609.2025.2456524",
-        "title": "Election Denial as a News Coverage Dilemma: A Survey Experiment with Local Journalists",
+        "doi": "10.1080/10584609.2025.2469097",
+        "title": "Depolarizing within the Comfort of Your Party: Experimental Evidence from Online Workshops",
         "authors": [
-          "Erik Peterson",
-          "Shannon C. McGregor",
-          "Ryan Block"
+          "Robert Blair",
+          "Jessica Gottlieb",
+          "Marie Schenk",
+          "Christopher Woods"
         ],
         "year": 2025,
         "citation_count": 5,
         "topics": [
-          "Election denial",
-          "News coverage",
-          "Journalism",
-          "Political misinformation"
+          "Partisan polarization",
+          "Intergroup contact",
+          "Online interventions",
+          "Political communication"
         ],
-        "abstract": "In 2022 Republican candidates across the country contested the legitimacy of the prior Presidential election. How journalists cover this topic has important implications for the political information environment and democracy itself. We survey local news reporters covering congressional campaigns and find election denial poses a dilemma for them. Journalists support efforts to increase the public’s trust in elections, but also feel compelled to let election deniers explain their views in the news. Using a survey experiment, we show exposure to information about an alternative democracy-framed way of covering this topic changes how journalists approach it by decreasing the appeal of stories that address election denial as an electoral strategy or recirculate rhetoric casting doubt on the legitimacy of elections. Our study shows why the erosion of democratic norms poses a challenge for journalists while also revealing openness to alternative coverage approaches.",
-        "url": "https://doi.org/10.1080/10584609.2025.2456524",
+        "abstract": "Democrats and Republicans have increasingly sorted into homogeneous physical and online spaces and increasingly avoid contact with each other. Yet interventions that attempt to reduce partisan animus often rely on cross-partisan contact, an arrangement that can be hard to achieve in a workshop setting and even harder to sustain outside it. In this study, we evaluate a typical cross-partisan intervention alongside a more novel one that entirely sidesteps the challenge of bringing out-partisans together. Both are online workshops, but only the latter aims to change behaviors within rather than across partisan groups, teaching participants to recognize their own tendency toward outgroup animus and develop skills to challenge in-group members who use polarizing language. Field experimental evidence suggests that the within-group skill-building intervention diminishes partisan animosity, while the intergroup one does not. Given the challenges of facilitating intergroup contact in the US, it is promising that Americans can become less polarized without leaving the comfort of their own party.",
+        "url": "https://doi.org/10.1080/10584609.2025.2469097",
         "topics_llm": true
       },
       {

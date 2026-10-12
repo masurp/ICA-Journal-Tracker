@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-10-05T13:40:34Z",
-  "trending_from": "2024-10-05",
+  "updated_at": "2026-10-12T14:29:44Z",
+  "trending_from": "2024-10-12",
   "sections": {
     "most_cited": [
       {
@@ -12,7 +12,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2007,
-        "citation_count": 4264,
+        "citation_count": 4197,
         "topics": [
           "Reliability measurement",
           "Content analysis",
@@ -31,7 +31,7 @@
           "Jacob J. Coutts"
         ],
         "year": 2020,
-        "citation_count": 2662,
+        "citation_count": 2628,
         "topics": [
           "Reliability estimation",
           "Cronbach's alpha",
@@ -50,7 +50,7 @@
           "James P. Selig"
         ],
         "year": 2012,
-        "citation_count": 1887,
+        "citation_count": 1875,
         "topics": [
           "Monte Carlo methods",
           "Confidence intervals",
@@ -68,7 +68,7 @@
           "Serena Carpenter"
         ],
         "year": 2017,
-        "citation_count": 1147,
+        "citation_count": 1131,
         "topics": [
           "Scale development",
           "Measurement",
@@ -86,7 +86,7 @@
           "Masaki Matsunaga"
         ],
         "year": 2008,
-        "citation_count": 939,
+        "citation_count": 929,
         "topics": [
           "Structural equation modeling",
           "Item parceling",
@@ -113,7 +113,7 @@
           "Thomas Häußler"
         ],
         "year": 2018,
-        "citation_count": 850,
+        "citation_count": 832,
         "topics": [
           "Topic modeling",
           "LDA methodology",
@@ -131,7 +131,7 @@
           "Teresa Ann Myers"
         ],
         "year": 2011,
-        "citation_count": 461,
+        "citation_count": 457,
         "topics": [
           "Missing data",
           "Hot deck imputation",
@@ -149,7 +149,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2011,
-        "citation_count": 458,
+        "citation_count": 453,
         "topics": [
           "Coding reliability",
           "Inter-coder agreement",
@@ -161,24 +161,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2015.1118446",
-        "title": "The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data",
-        "authors": [
-          "Michael Scharkow"
-        ],
-        "year": 2016,
-        "citation_count": 435,
-        "topics": [
-          "Self-reported media use",
-          "Internet usage measurement",
-          "Survey validity",
-          "Behavioral data"
-        ],
-        "abstract": "The vast majority of empirical research on online communication, or media use in general, relies on self-report measures instead of behavioral data. Previous research has shown that the accuracy of these self-report measures can be quite low, and both over- and underreporting of media use are commonplace. This study compares self-reports of Internet use with client log files from a large household sample. Results show that the accuracy of self-reported frequency and duration of Internet use is quite low, and that survey data are only moderately correlated with log file data. Moreover, there are systematic patterns of misreporting, especially overreporting, rather than random deviations from the log files. Self-reports for specific content such as social network sites or video platforms seem to be more accurate and less consistently biased than self-reports of generic frequency or duration of Internet use. The article closes by demonstrating the consequences of biased self-reports and discussing possible solutions to the problem.",
-        "url": "https://doi.org/10.1080/19312458.2015.1118446",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2016.1271116",
         "title": "A Tutorial on Testing, Visualizing, and Probing an Interaction Involving a Multicategorical Variable in Linear Regression Analysis",
         "authors": [
@@ -186,7 +168,7 @@
           "Amanda Kay Montoya"
         ],
         "year": 2017,
-        "citation_count": 429,
+        "citation_count": 421,
         "topics": [
           "Moderation analysis",
           "Regression analysis",
@@ -205,7 +187,7 @@
           "Mark Boukes"
         ],
         "year": 2021,
-        "citation_count": 412,
+        "citation_count": 409,
         "topics": [
           "Sentiment analysis",
           "Validation methods",
@@ -217,6 +199,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2015.1118446",
+        "title": "The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data",
+        "authors": [
+          "Michael Scharkow"
+        ],
+        "year": 2016,
+        "citation_count": 409,
+        "topics": [
+          "Self-reported media use",
+          "Internet usage measurement",
+          "Survey validity",
+          "Behavioral data"
+        ],
+        "abstract": "The vast majority of empirical research on online communication, or media use in general, relies on self-report measures instead of behavioral data. Previous research has shown that the accuracy of these self-report measures can be quite low, and both over- and underreporting of media use are commonplace. This study compares self-reports of Internet use with client log files from a large household sample. Results show that the accuracy of self-reported frequency and duration of Internet use is quite low, and that survey data are only moderately correlated with log file data. Moreover, there are systematic patterns of misreporting, especially overreporting, rather than random deviations from the log files. Self-reports for specific content such as social network sites or video platforms seem to be more accurate and less consistently biased than self-reports of generic frequency or duration of Internet use. The article closes by demonstrating the consequences of biased self-reports and discussing possible solutions to the problem.",
+        "url": "https://doi.org/10.1080/19312458.2015.1118446",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2017.1387238",
         "title": "Text Analysis in R",
         "authors": [
@@ -225,7 +225,7 @@
           "Kenneth R. Benoit"
         ],
         "year": 2017,
-        "citation_count": 280,
+        "citation_count": 276,
         "topics": [
           "Computational text analysis",
           "R programming",
@@ -243,7 +243,7 @@
           "Daniel J. O’Keefe"
         ],
         "year": 2007,
-        "citation_count": 251,
+        "citation_count": 245,
         "topics": [
           "Statistical power analysis",
           "Research methodology",
@@ -263,7 +263,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2017,
-        "citation_count": 242,
+        "citation_count": 235,
         "topics": [
           "Internet use measurement",
           "Self-reported data accuracy",
@@ -275,25 +275,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2016.1150441",
-        "title": "Measuring Media Exposure in a Changing Communications Environment",
-        "authors": [
-          "Claes H. de Vreese",
-          "Peter C. Neijens"
-        ],
-        "year": 2016,
-        "citation_count": 233,
-        "topics": [
-          "Media exposure measurement",
-          "Digital media landscape",
-          "Passive measurement",
-          "Media use and effects"
-        ],
-        "abstract": "The measurement of how people are “exposed” to media content, which is crucial for the understanding of media use and effects, has been a challenge for a long time. Today’s media landscape, in which individuals are exposed to a diversity of messages anytime, anywhere, and from a great variety of sources on an increasing number of different media platforms, has complicated the measurement of media exposure even more. However, today’s digital media landscape also offers new possibilities to map media exposure by means of passive measurement. In this Introduction article to the special issue, we give an overview of the different ways in which media exposure is measured and the various issues associated with their applications. We conclude with a research agenda for issues that need to be tackled in future research and also introduce a research tool for media exposure measurement.",
-        "url": "https://doi.org/10.1080/19312458.2016.1150441",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2019.1639145",
         "title": "News Frame Analysis: An Inductive Mixed-method Computational Approach",
         "authors": [
@@ -301,7 +282,7 @@
           "Yotam Ophir"
         ],
         "year": 2019,
-        "citation_count": 232,
+        "citation_count": 229,
         "topics": [
           "News framing",
           "Computational methods",
@@ -310,6 +291,25 @@
         ],
         "abstract": "Framing is one of the most central, applicable, and contested theories in communication research. At the heart of the debate on framing is the question of operationalizing and measuring emphasis frames. We harness novel computational tools to propose a new method for inductive identification of frames. We argue and demonstrate that frame elements could be identified using topic modeling, and that frame elements can then be automatically grouped into frame “packages” using community detection techniques applied to the topic network. Building upon recent conceptual and methodological developments in framing research, we introduce a new approach, the Analysis of Topic Model Networks (ANTMN). We demonstrate the applicability of our method in case studies where framing theory is developed and fairly consistent, and in exploratory ones where it is not, using three diverse U.S. news corpora: the coverage of political candidates in Senate races (n = 8,337 articles), foreign nations (n = 18,216), and infectious diseases and epidemics (n = 5,005). We conclude by discussing the theoretical, methodological, and practical implications of ANTMN.",
         "url": "https://doi.org/10.1080/19312458.2019.1639145",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2016.1150441",
+        "title": "Measuring Media Exposure in a Changing Communications Environment",
+        "authors": [
+          "Claes H. de Vreese",
+          "Peter C. Neijens"
+        ],
+        "year": 2016,
+        "citation_count": 228,
+        "topics": [
+          "Media exposure measurement",
+          "Digital media landscape",
+          "Passive measurement",
+          "Media use and effects"
+        ],
+        "abstract": "The measurement of how people are “exposed” to media content, which is crucial for the understanding of media use and effects, has been a challenge for a long time. Today’s media landscape, in which individuals are exposed to a diversity of messages anytime, anywhere, and from a great variety of sources on an increasing number of different media platforms, has complicated the measurement of media exposure even more. However, today’s digital media landscape also offers new possibilities to map media exposure by means of passive measurement. In this Introduction article to the special issue, we give an overview of the different ways in which media exposure is measured and the various issues associated with their applications. We conclude with a research agenda for issues that need to be tackled in future research and also introduce a research tool for media exposure measurement.",
+        "url": "https://doi.org/10.1080/19312458.2016.1150441",
         "topics_llm": true
       },
       {
@@ -324,7 +324,7 @@
           "Michael Sedlmair"
         ],
         "year": 2018,
-        "citation_count": 225,
+        "citation_count": 219,
         "topics": [
           "Sentiment analysis",
           "Word embeddings",
@@ -333,25 +333,6 @@
         ],
         "abstract": "Moving beyond the dominant bag-of-words approach to sentiment analysis we introduce an alternative procedure based on distributed word embeddings. The strength of word embeddings is the ability to capture similarities in word meaning. We use word embeddings as part of a supervised machine learning procedure which estimates levels of negativity in parliamentary speeches. The procedure’s accuracy is evaluated with crowdcoded training sentences; its external validity through a study of patterns of negativity in Austrian parliamentary speeches. The results show the potential of the word embeddings approach for sentiment analysis in the social sciences.",
         "url": "https://doi.org/10.1080/19312458.2018.1455817",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2018.1458084",
-        "title": "When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science",
-        "authors": [
-          "Wouter van Atteveldt",
-          "Tai‐Quan Peng"
-        ],
-        "year": 2018,
-        "citation_count": 205,
-        "topics": [
-          "Computational methods",
-          "Big data analysis",
-          "Text and network analysis",
-          "Communication science"
-        ],
-        "abstract": "The recent increase in digitally available data, tools, and processing power is fostering the use of computational methods to the study of communication. This special issue discusses the validity of using big data in communication science and showcases a number of new methods and applications in the fields of text and network analysis. Computational methods have the potential to greatly enhance the scientific study of communication because they allow us to move towards collaborative large-N studies of actual behavior in its social context. This requires us to develop new skills and infrastructure and meet the challenges of open, valid, reliable, and ethical “big data” research. By bringing together a number of leading scholars in one issue, we contribute to the increasing development and adaptation of computational methods in communication science.",
-        "url": "https://doi.org/10.1080/19312458.2018.1458084",
         "topics_llm": true
       },
       {
@@ -365,7 +346,7 @@
           "Martin Fishbein"
         ],
         "year": 2011,
-        "citation_count": 201,
+        "citation_count": 200,
         "topics": [
           "Argument strength measurement",
           "Persuasive communication",
@@ -377,12 +358,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2018.1458084",
+        "title": "When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science",
+        "authors": [
+          "Wouter van Atteveldt",
+          "Tai‐Quan Peng"
+        ],
+        "year": 2018,
+        "citation_count": 197,
+        "topics": [
+          "Computational methods",
+          "Big data analysis",
+          "Text and network analysis",
+          "Communication science"
+        ],
+        "abstract": "The recent increase in digitally available data, tools, and processing power is fostering the use of computational methods to the study of communication. This special issue discusses the validity of using big data in communication science and showcases a number of new methods and applications in the fields of text and network analysis. Computational methods have the potential to greatly enhance the scientific study of communication because they allow us to move towards collaborative large-N studies of actual behavior in its social context. This requires us to develop new skills and infrastructure and meet the challenges of open, valid, reliable, and ethical “big data” research. By bringing together a number of leading scholars in one issue, we contribute to the increasing development and adaptation of computational methods in communication science.",
+        "url": "https://doi.org/10.1080/19312458.2018.1458084",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1558194",
         "title": "Improving Visual Behavior Research in Communication Science: An Overview, Review, and Reporting Recommendations for Using Eye-Tracking Methods",
         "authors": [
           "Andy J. King",
           "Nadine Bol",
-          "Robert Glenn Cummins",
+          "R. Glenn Cummins",
           "Kevin K. John"
         ],
         "year": 2019,
@@ -407,7 +407,7 @@
           "Mariken Anna Catharina Geertruida van der Velden"
         ],
         "year": 2021,
-        "citation_count": 188,
+        "citation_count": 182,
         "topics": [
           "Computational text analysis",
           "Measurement validity",
@@ -427,7 +427,7 @@
           "Sonya V. Troller‐Renfree"
         ],
         "year": 2016,
-        "citation_count": 185,
+        "citation_count": 182,
         "topics": [
           "Eye tracking",
           "Social media attention",
@@ -451,7 +451,7 @@
           "Thomas Nichols Robinson"
         ],
         "year": 2023,
-        "citation_count": 180,
+        "citation_count": 176,
         "topics": [
           "Digital trace data",
           "Social media effects",
@@ -471,7 +471,7 @@
           "Sven Joeckel"
         ],
         "year": 2021,
-        "citation_count": 173,
+        "citation_count": 170,
         "topics": [
           "Algorithm literacy",
           "Digital literacy",
@@ -490,7 +490,7 @@
           "Jeffrey Boase"
         ],
         "year": 2012,
-        "citation_count": 161,
+        "citation_count": 155,
         "topics": [
           "Mobile communication",
           "Measurement error",
@@ -510,7 +510,7 @@
           "Ben Shneiderman"
         ],
         "year": 2013,
-        "citation_count": 149,
+        "citation_count": 148,
         "topics": [
           "Twitter",
           "Network Analysis",
@@ -541,34 +541,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2019.1671966",
-        "title": "What’s the Tone? Easy Doesn’t Do It: Analyzing Performance and Agreement Between Off-the-Shelf Sentiment Analysis Tools",
-        "authors": [
-          "Mark Boukes",
-          "Bob van de Velde",
-          "Theo Araujo",
-          "Rens Vliegenthart"
-        ],
-        "year": 2019,
-        "citation_count": 137,
-        "topics": [
-          "Sentiment analysis",
-          "Automated content analysis",
-          "News tone measurement",
-          "Dictionary-based approaches"
-        ],
-        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes – at least in the context of Dutch economic news – and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
-        "url": "https://doi.org/10.1080/19312458.2019.1671966",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2018.1453057",
         "title": "Culture-centered Approach in Addressing Health Disparities: Communication Infrastructures for Subaltern Voices",
         "authors": [
           "Mohan J. Dutta"
         ],
         "year": 2018,
-        "citation_count": 137,
+        "citation_count": 139,
         "topics": [
           "Health disparities",
           "Culture-centered approach",
@@ -587,7 +566,7 @@
           "Lucy Popova"
         ],
         "year": 2012,
-        "citation_count": 137,
+        "citation_count": 135,
         "topics": [
           "Equivalence testing",
           "Statistical methods",
@@ -599,13 +578,34 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2019.1671966",
+        "title": "What’s the Tone? Easy Doesn’t Do It: Analyzing Performance and Agreement Between Off-the-Shelf Sentiment Analysis Tools",
+        "authors": [
+          "Mark Boukes",
+          "Bob van de Velde",
+          "Theo Araujo",
+          "Rens Vliegenthart"
+        ],
+        "year": 2019,
+        "citation_count": 132,
+        "topics": [
+          "Sentiment analysis",
+          "Automated content analysis",
+          "News tone measurement",
+          "Dictionary-based approaches"
+        ],
+        "abstract": "This article scrutinizes the method of automated content analysis to measure the tone of news coverage. We compare a range of off-the-shelf sentiment analysis tools to manually coded economic news as well as examine the agreement between these dictionary approaches themselves. We assess the performance of five off-the-shelf sentiment analysis tools and two tailor-made dictionary-based approaches. The analyses result in five conclusions. First, there is little overlap between the off-the-shelf tools; causing wide divergence in terms of tone measurement. Second, there is no stronger overlap with manual coding for short texts (i.e., headlines) than for long texts (i.e., full articles). Third, an approach that combines individual dictionaries achieves a comparably good performance. Fourth, precision may increase to acceptable levels at higher levels of granularity. Fifth, performance of dictionary approaches depends more on the number of relevant keywords in the dictionary than on the number of valenced words as such; a small tailor-made lexicon was not inferior to large established dictionaries. Altogether, we conclude that off-the-shelf sentiment analysis tools are mostly unreliable and unsuitable for research purposes – at least in the context of Dutch economic news – and manual validation for the specific language, domain, and genre of the research project at hand is always warranted.",
+        "url": "https://doi.org/10.1080/19312458.2019.1671966",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2020.1832976",
         "title": "Latent Semantic Scaling: A Semisupervised Text Analysis Technique for New Domains and Languages",
         "authors": [
           "Kohei Watanabe"
         ],
         "year": 2020,
-        "citation_count": 126,
+        "citation_count": 124,
         "topics": [
           "Text analysis",
           "Computational linguistics",
@@ -628,7 +628,7 @@
           "Yph Lelkes"
         ],
         "year": 2017,
-        "citation_count": 126,
+        "citation_count": 124,
         "topics": [
           "Media effects research",
           "Survey methodology",
@@ -646,7 +646,7 @@
           "Joseph P. Mazer"
         ],
         "year": 2012,
-        "citation_count": 123,
+        "citation_count": 122,
         "topics": [
           "Student engagement",
           "Scale development",
@@ -654,26 +654,6 @@
         ],
         "abstract": "A series of studies report the development of empirically derived instruments that measure student interest and engagement. The first study inductively develops an initial item pool through open-ended questionnaire data. A second study subjects the measures to exploratory factor analysis to ascertain an underlying factor structure. The third study deductively tests the measures through confirmatory factor analysis and examines associations among teacher communication behaviors, student emotional and cognitive interest, and engagement. A fourth study offers discriminant validity evidence, suggesting that the new measures are distinct from scales that assess similar yet divergent constructs. Guided by prior theory (Mottet, Frymier, & Beebe, 2006 Mottet, T. P., Frymier, A. B. and Beebe, S. A. 2006. “Theorizing about instructional communication”. In Handbook of instructional communication, Edited by: Mottet, T. P., Richmond, V. P. and McCroskey, J. C. 255–282. Boston, MA: Pearson. [Google Scholar]) and research (Harp & Mayer, 1997 Harp, S. F. and Mayer, R. E. 1997. The role of interest in learning from scientific text and illustration: On the distinction between emotional interest and cognitive interest. Journal of Educational Psychology, 89: 92–102. [Crossref], [Web of Science ®] , [Google Scholar]), the instruments developed here possess heuristic potential for instructional communication research. Implications and areas for future research are discussed.",
         "url": "https://doi.org/10.1080/19312458.2012.679244",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2010.547823",
-        "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
-        "authors": [
-          "Douglas A. Luke",
-          "Charlene A. Caburnay",
-          "Elisia L. Cohen"
-        ],
-        "year": 2011,
-        "citation_count": 118,
-        "topics": [
-          "Content analysis",
-          "Sampling methods",
-          "Health communication",
-          "Newspaper research"
-        ],
-        "abstract": "Researchers frequently use constructed week samples to approximate content for larger populations of textual data in content analysis projects. To date, this sampling method has not been validated in longitudinal contexts necessary for the conduct of large-scale health communication research. This study uses Monte Carlo bootstrap sampling to determine the number of constructed weeks necessary to accurately estimate one- and five-year population values for different types of variables in a quantitative content analysis. Five years (1999–2004) of four different daily newspapers were coded for four variables that varied on type (count vs. rating), amount of missing data, and distribution (normal vs. nonnormal). Results suggest that sampling a minimum of six constructed weeks was most efficient for both time frames. Missing data lowers sampling precision, although a correction can be calculated if the amount of missing data can be estimated. Using an efficient method of sampling newspapers such as constructed week sampling can help communication researchers to more easily study health coverage in the media.",
-        "url": "https://doi.org/10.1080/19312458.2010.547823",
         "topics_llm": true
       },
       {
@@ -687,7 +667,7 @@
           "Claes H. de Vreese"
         ],
         "year": 2014,
-        "citation_count": 116,
+        "citation_count": 114,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -696,6 +676,26 @@
         ],
         "abstract": "We explore the application of supervised machine learning (SML) to frame coding. By automating the coding of frames in news, SML facilitates the incorporation of large-scale content analysis into framing research, even if financial resources are scarce. This furthers a more integrated investigation of framing processes conceptually as well as methodologically. We conduct several experiments in which we automate the coding of four generic frames that are operationalised as a set of indicator questions. In doing so, we compare two approaches to modelling the coherence between indicator questions and frames as an SML task. The results of our experiments show that SML is well suited to automate frame coding but that coding performance is dependent on the way SML is implemented.",
         "url": "https://doi.org/10.1080/19312458.2014.937527",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2010.547823",
+        "title": "How Much Is Enough? New Recommendations for Using Constructed Week Sampling in Newspaper Content Analysis of Health Stories",
+        "authors": [
+          "Douglas A. Luke",
+          "Charlene A. Caburnay",
+          "Elisia L. Cohen"
+        ],
+        "year": 2011,
+        "citation_count": 114,
+        "topics": [
+          "Content analysis",
+          "Sampling methods",
+          "Health communication",
+          "Newspaper research"
+        ],
+        "abstract": "Researchers frequently use constructed week samples to approximate content for larger populations of textual data in content analysis projects. To date, this sampling method has not been validated in longitudinal contexts necessary for the conduct of large-scale health communication research. This study uses Monte Carlo bootstrap sampling to determine the number of constructed weeks necessary to accurately estimate one- and five-year population values for different types of variables in a quantitative content analysis. Five years (1999–2004) of four different daily newspapers were coded for four variables that varied on type (count vs. rating), amount of missing data, and distribution (normal vs. nonnormal). Results suggest that sampling a minimum of six constructed weeks was most efficient for both time frames. Missing data lowers sampling precision, although a correction can be calculated if the amount of missing data can be estimated. Using an efficient method of sampling newspapers such as constructed week sampling can help communication researchers to more easily study health coverage in the media.",
+        "url": "https://doi.org/10.1080/19312458.2010.547823",
         "topics_llm": true
       },
       {
@@ -708,7 +708,7 @@
           "Christopher Pineda Monterola"
         ],
         "year": 2011,
-        "citation_count": 109,
+        "citation_count": 108,
         "topics": [
           "Frame analysis",
           "Media frames",
@@ -716,48 +716,6 @@
         ],
         "abstract": "Detecting media frames has spawned a variety of methods, but very little has been done to investigate whether these methods provide comparable results. This article compares the results of two kinds of human coding framing analysis. The first is a method developed by Matthes and Kohring (2008) Matthes, J. and Kohring, M. 2008. The content analysis of media frames: Toward improving reliability and validity. Journal of Communication, 58: 258–279. [Crossref], [Web of Science ®] , [Google Scholar] involving human coding of elements based on Entman's (1993) Entman, R. M. 1993. Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4): 51–58. [Crossref], [Web of Science ®] , [Google Scholar] definition of frames, and the second coding is based on an extracted set of frames. Cluster analysis of news articles on population published from 1987–2007 in the Philippines yielded an optimum number of three communities or frames that agree with the holistic predetermined frames. Results indicate support for the validity of both procedures. Methodological implications are further discussed.",
         "url": "https://doi.org/10.1080/19312458.2011.624873",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2022.2109608",
-        "title": "Promises and Pitfalls of Social Media Data Donations",
-        "authors": [
-          "Irene Ingeborg van Driel",
-          "Anastasia Giachanou",
-          "J. Loes Pouwels",
-          "Laura Boeschoten",
-          "Ine Beyens",
-          "Patti M. Valkenburg"
-        ],
-        "year": 2022,
-        "citation_count": 106,
-        "topics": [
-          "Data donations",
-          "Social media measurement",
-          "Digital data collection",
-          "Adolescent online behavior"
-        ],
-        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
-        "url": "https://doi.org/10.1080/19312458.2022.2109608",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312458.2012.732626",
-        "title": "Contributing to Theory and Knowledge in Quantitative Communication Science",
-        "authors": [
-          "Michael D. Slater",
-          "Laurel S. Gleason"
-        ],
-        "year": 2012,
-        "citation_count": 105,
-        "topics": [
-          "Quantitative research methods",
-          "Theory development",
-          "Communication science",
-          "Research frameworks"
-        ],
-        "abstract": "We propose a framework for understanding how quantitative researchers typically seek to contribute to theory and generalizable knowledge in communication, noting some of the strengths and weaknesses of the various approaches typically used. The major approaches are described, and a content analysis of articles from four issues each of Journal of Communication, Human Communication Research, and Communication Research spanning parts of 2008 and 2009 provides information about their relative frequency of use in the field. We discuss how these categories can be employed by researchers when conceptualizing and articulating the theoretical contributions planned in their research and by reviewers, editors, and researchers in critically assessing such contributions in the work of others.",
-        "url": "https://doi.org/10.1080/19312458.2012.732626",
         "topics_llm": true
       },
       {
@@ -782,6 +740,48 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/19312458.2012.732626",
+        "title": "Contributing to Theory and Knowledge in Quantitative Communication Science",
+        "authors": [
+          "Michael D. Slater",
+          "Laurel S. Gleason"
+        ],
+        "year": 2012,
+        "citation_count": 102,
+        "topics": [
+          "Quantitative research methods",
+          "Theory development",
+          "Communication science",
+          "Research frameworks"
+        ],
+        "abstract": "We propose a framework for understanding how quantitative researchers typically seek to contribute to theory and generalizable knowledge in communication, noting some of the strengths and weaknesses of the various approaches typically used. The major approaches are described, and a content analysis of articles from four issues each of Journal of Communication, Human Communication Research, and Communication Research spanning parts of 2008 and 2009 provides information about their relative frequency of use in the field. We discuss how these categories can be employed by researchers when conceptualizing and articulating the theoretical contributions planned in their research and by reviewers, editors, and researchers in critically assessing such contributions in the work of others.",
+        "url": "https://doi.org/10.1080/19312458.2012.732626",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2022.2109608",
+        "title": "Promises and Pitfalls of Social Media Data Donations",
+        "authors": [
+          "Irene Ingeborg van Driel",
+          "Anastasia Giachanou",
+          "J. Loes Pouwels",
+          "Laura Boeschoten",
+          "Ine Beyens",
+          "Patti M. Valkenburg"
+        ],
+        "year": 2022,
+        "citation_count": 101,
+        "topics": [
+          "Data donations",
+          "Social media measurement",
+          "Digital data collection",
+          "Adolescent online behavior"
+        ],
+        "abstract": "Studies assessing the effects of social media use are largely based on measures of time spent on social media. In recent years, scholars increasingly ask for more insights in social media activities and content people engage with. Data Download Packages (DDPs), the archives of social media platforms that each European user has the right to download, provide a new and promising method to collect timestamped and content-based information about social media use. In this paper, we first detail the experiences and insights of a data collection of 110 Instagram DDPs gathered from 102 adolescents. We successively discuss the challenges and opportunities of collecting and analyzing DDPs to help future researchers in their consideration of whether and how to use DDPs. DDPs provide tremendous opportunities to get insight in the frequency, range, and content of social media activities, from browsing to searching and posting. Yet, collecting, processing, and analyzing DDPs is also complex and laborious, and demands numerous procedural and analytical choices and decisions.",
+        "url": "https://doi.org/10.1080/19312458.2022.2109608",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/19312458.2018.1555799",
         "title": "Reporting Mobile Social Media Use: How Survey and Experience Sampling Measures Differ",
         "authors": [
@@ -790,7 +790,7 @@
           "Daniela Schlütz"
         ],
         "year": 2018,
-        "citation_count": 98,
+        "citation_count": 94,
         "topics": [
           "Mobile social media",
           "Survey methodology",
@@ -809,7 +809,7 @@
           "S. Shyam Sundar"
         ],
         "year": 2014,
-        "citation_count": 95,
+        "citation_count": 93,
         "topics": [
           "Heuristics",
           "Dual process models",
@@ -827,7 +827,7 @@
           "Riva H. Tukachinsky"
         ],
         "year": 2014,
-        "citation_count": 95,
+        "citation_count": 93,
         "topics": [
           "Media involvement",
           "Experimental manipulation",
@@ -854,24 +854,6 @@
         ],
         "abstract": "Since the 1970s, communication researchers have utilized social network analysis to understand mass, health, organizational, and interpersonal communication. This article introduces communication researchers to a new class of social network analysis methods, exponential random graph (p*) models. This new method represents the latest advancement in social network methodology and will enhance the trajectory of social network research in the communication discipline. The benefits of this class of models include allowing for the simultaneous estimation of attribute and structural parameters, accounting for the interdependent nature of network data, and retaining the complexity of network observations throughout the analysis. An example analysis using data from Shumate, Fulk, and Monge (2005) is provided to illustrate the potentials of exponential random graph modeling. Five different social network software programs capable of the analysis discussed in this article are introduced with regard to their respective benefits. Finally, a brief tutorial based on data from Palazzolo (2005) is given on how to conduct an ERGM analysis using the PNET software program.",
         "url": "https://doi.org/10.1080/19312458.2010.527869",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/19312450701641409",
-        "title": "Familywise Error in Multiple Comparisons: Disentangling a Knot through a Critique of O'Keefe's Arguments against Alpha Adjustment",
-        "authors": [
-          "Masaki Matsunaga"
-        ],
-        "year": 2007,
-        "citation_count": 85,
-        "topics": [
-          "Statistical methods",
-          "Multiple comparisons",
-          "Type I error",
-          "Research methodology"
-        ],
-        "abstract": "This essay discusses a statistical problem of multiple comparisons and argues for adjusting familywise alpha under certain conditions. The principle of familywise correction dictates that, upon performing multiple tests within a \"family,\" alpha should be adjusted (i.e., lower than the conventional .05 level) so that overall Type I error inflation is controlled (e.g., Curran-Everett, 2000; Tukey, 1991). This correctional procedure recently has been disputed by O'Keefe (2003), to whose argument the present critique is counterposed. Both pros and cons of familywise alpha adjustment are discussed. First, arguments against familywise correction are reviewed with discussions of five interrelated problems. Second, an alternative perspective advocating the use of familywise procedures under certain circumstances is explicated. Notions of the scope of a null hypothesis and the statistics-theory linkage are highlighted as the grounds of this argument. Finally, an alternative approach to the multiple-comparison problem—false discovery rate control (FDR; Benjamini & Hochberg, 1995, 2000) is introduced as a promising third possibility to the \"to Bonferroni or not to Bonferroni\" debate. The guideline for the use of FDR and traditional familywise alpha adjustment is also discussed.",
-        "url": "https://doi.org/10.1080/19312450701641409",
         "topics_llm": true
       },
       {
@@ -989,6 +971,26 @@
         "abstract": "The aim of most population-based studies of media is to relate a specific exposure to an outcome of interest. A research program has been developed that evaluates exposure to different components of movies in an attempt of assess the association of such exposure with the adoption of substance use during adolescence. To assess exposure to movie substance use, one must measure both viewing time and content. In developing the exposure measure, the study team was interested in circumventing a common problem in exposure measurement, where measures often conflate exposure to media with attention to media. Our aim in this paper is to present a validated measure of exposure to entertainment media, the Beach method, which combines recognition of a movie title with content analysis of the movie for substance use, to generate population based measures of exposure to substance use in this form of entertainment.",
         "url": "https://doi.org/10.1080/19312450802063404",
         "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2013.813925",
+        "title": "Techniques for Measuring Selective Exposure: A Critical Review",
+        "authors": [
+          "Russ Clay",
+          "Jessica M. Barber",
+          "Natalie J. Shook"
+        ],
+        "year": 2013,
+        "citation_count": 76,
+        "topics": [
+          "Selective exposure",
+          "Measurement methodology",
+          "Political communication",
+          "Information consumption"
+        ],
+        "abstract": "Prior research has identified selective exposure (i.e., the tendency to consume information that is consistent with one's existing beliefs) as a phenomenon that may reduce the likelihood that individuals are exposed to diverse information or perspectives. However, weaknesses associated with techniques commonly used to measure selective exposure have led to ambiguity in the interpretation of past results and inconsistency in findings across studies. This paper provides a review of previous research that has investigated selective exposure, particularly in a political context, by measuring participants' retrospective reports of exposure to prior information, by assessing behavioral intentions to consume information in the future, by observing selective exposure behavior directly, or by investigating aggregated behavioral information recorded over a period of time. These prior methods are critically evaluated and recommendations are made which should improve the measurement of selective exposure and consequently the validity and reliability of downstream findings stemming from research in this area.",
+        "url": "https://doi.org/10.1080/19312458.2013.813925",
+        "topics_llm": true
       }
     ],
     "latest": [
@@ -1045,7 +1047,7 @@
           "Xiaoran Sun",
           "Thomas N. Robinson",
           "Nilám Ram",
-          "Byron Reeves"
+          "Byron B. Reeves"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1098,25 +1100,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/19312458.2026.2658505",
-        "title": "How credible are published significant results: estimating average true power with P-Curve or Z-curve?",
-        "authors": [
-          "Ulrich Schimmack",
-          "Marion Soto"
-        ],
-        "year": 2026,
-        "citation_count": 1,
-        "topics": [
-          "Publication bias",
-          "Statistical power",
-          "Research credibility",
-          "Replicability"
-        ],
-        "abstract": "Concerns about publication bias and the replicability of psychological research have motivated the development of methods that evaluate the credibility of published significant results. Two prominent approaches are p-curve and z-curve, which use the distribution of significant p-values to estimate the evidential value of a set of studies. Although both methods rely on selection models, they differ critically in how they handle heterogeneity in true effect sizes and statistical power. We systematically vary heterogeneity in effect sizes (τ) across a realistic range and show that both methods perform well when heterogeneity is small, but only z-curve performs well when heterogeneity is moderate. We illustrate the practical consequences using data from the Reproducibility Project, showing that only z-curve correctly predicts that many replication attempts will fail. Because z-curve performs as well as or better than p-curve across conditions, we recommend using z-curve to evaluate the credibility and evidential value of meta-analytic findings, particularly when meta-analyses synthesize conceptual rather than direct replications.",
-        "url": "https://doi.org/10.1080/19312458.2026.2658505",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/19312458.2026.2652240",
         "title": "Demographic data inclusion tenets in applied data practice: the utilization of the QuantCrit lens to capture demographic fluidness in context",
         "authors": [
@@ -1144,7 +1127,7 @@
           "Sabine Trepte"
         ],
         "year": 2026,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Screen time perception",
           "Temporal experience",
@@ -1228,14 +1211,14 @@
           "Kasper Welbers"
         ],
         "year": 2025,
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Annotation bias",
           "Political polarization",
           "NLP benchmarks",
           "Fact-checking"
         ],
-        "abstract": "Information shapes citizens’ political decision-making. This process is amply studied by social scientists, for whom human annotation is a crucial instrument in their toolkit. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these benchmarks more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Currently, disagreement and bias are often conflated – ignoring the possibility of annotator sample bias and valid disagreement. In a preregistered experiment in the Netherlands and a close replication in the U.S. we show that personal characteristics of annotators, like political ideology or knowledge, can interfere with annotators’ judgment of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
+        "abstract": "Information shapes citizens' political decision-making. This process is amply studied by social scientists, who have human annotation as a crucial instrument in their toolkit. To address concerns regarding the validity and reliability of annotation tasks, we establish strict standards. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these standards are more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Our tools to create valid and reliable annotation data currently do not allow for dealing with different perspectives of annotators. In two pre-registered experiments in the United States and the Netherlands, we show that personal characteristics of annotators, like political ideology or knowledge, interfere with annotators' judgement of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
         "url": "https://doi.org/10.1080/19312458.2025.2562034",
         "topics_llm": true
       },
@@ -1301,7 +1284,7 @@
           "Platform APIs",
           "Selective exposure"
         ],
-        "abstract": "Measurements of political polarization online have so far largely focused on visible traces accessible through platform APIs, neglecting invisible traces that are not recorded or otherwise unavailable to researchers, which can reveal key aspects of political engagement online. Our study addresses this gap by investigating the polarization measurement bias that arises when only visible engagement is analyzed, uncovering disparities at both the user and channel levels. Analyzing a combined dataset that links survey responses with YouTube digital traces through data donation from a sample of Hungarian Internet users (N=758), we find that users who engage visibly through commenting are more politically polarized, and exhibit a greater level of selective exposure to content than users who engage invisibly through viewing. Moreover, ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, relying solely on public comment data may simplify, even overstate the segregation of political channels. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers on YouTube. We highlight the benefits of using combined datasets to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
+        "abstract": "Measurements of political polarization online have so far been largely focused on visible traces accessible through platformAPIs,while neglecting invisible traces not recorded or otherwise unavailable via online channels, which can reveal key aspects of political engagement online. Our study aims to address this gap by investigating the polarization measurement bias that arises when only visible engagement is considered. Using a combined dataset that links survey responses with YouTube digital traces froma representative sample of Hungarian Internet users (N=758), we uncover disparities at both user and channel levels.We find that users who visibly engage through commenting are more politically polarized. People tend to comment and subscribe to ideologically concentrated content, while viewingideologically diverse content. We also notice that ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, the segregation ofpolitical channels may be overstated or simplified when relying solely on public comment data. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers online. We highlight the benefits of data donation to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
         "url": "https://doi.org/10.1080/19312458.2025.2542725",
         "topics_llm": true
       },
@@ -1484,7 +1467,7 @@
           "Kasper Welbers"
         ],
         "year": 2024,
-        "citation_count": 5,
+        "citation_count": 6,
         "topics": [
           "Language models",
           "Measurement validity",
@@ -1670,7 +1653,7 @@
           "Martin Canaan Mafunda"
         ],
         "year": 2023,
-        "citation_count": 13,
+        "citation_count": 16,
         "topics": [
           "Speaker embeddings",
           "Linguistic similarity",
@@ -1753,7 +1736,7 @@
           "Wouter van Atteveldt"
         ],
         "year": 2023,
-        "citation_count": 30,
+        "citation_count": 31,
         "topics": [
           "Automated content analysis",
           "Transfer learning",
@@ -1793,7 +1776,7 @@
           "Sabine Trepte"
         ],
         "year": 2023,
-        "citation_count": 17,
+        "citation_count": 16,
         "topics": [
           "Privacy",
           "Scale development",
@@ -1840,7 +1823,7 @@
           "Nilám Ram"
         ],
         "year": 2023,
-        "citation_count": 16,
+        "citation_count": 17,
         "topics": [
           "Dyadic communication",
           "Dynamic systems theory",
@@ -1903,7 +1886,7 @@
           "Hajo G. Boomgaarden"
         ],
         "year": 2023,
-        "citation_count": 31,
+        "citation_count": 32,
         "topics": [
           "Frame analysis",
           "Machine learning",
@@ -2041,6 +2024,24 @@
         ],
         "abstract": "Although turn-level dynamics involving the back-and-forth exchange of talk between support seekers and providers form the foundation for supportive conversations, they have largely been overlooked by researchers studying the implications of communication technologies for social support. To address this gap, we demonstrate the utility of examining turn transitions using configural frequency analysis to investigate patterns of talk that mark and distinguish supportive conversations conducted face-to-face and via instant messaging. Using secondary data from two experiments in which the medium for supportive conversations was manipulated among stranger dyads, we explore the nature and prevalence of seeker-to-provider and provider-to-seeker turn transitions. The results demonstrated interpersonal coordination in off-topic talk between seekers and providers that transcended the communication medium. Additionally, patterns were observed suggesting that high levels of provider person centeredness were more likely to be generated and influential in turn transitions appearing in instant messaging compared to face-to-face conversations.",
         "url": "https://doi.org/10.1080/19312458.2023.2207005",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/19312458.2023.2183188",
+        "title": "Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis",
+        "authors": [
+          "Kilian Buehling"
+        ],
+        "year": 2023,
+        "citation_count": 25,
+        "topics": [
+          "Social media data",
+          "Message deletion",
+          "Computational analysis",
+          "Data ephemerality"
+        ],
+        "abstract": "Ephemeral digital trace data can decrease the completeness, reproducibility, and reliability of social media datasets. Systematic post deletions thus potentially bias the results of computational methods used to map actors, content, and online information diffusion. Therefore, the aim of this study was to assess the extent and distribution of message deletion across different data types using data from the hybrid messenger service Telegram, which has experienced an influx of deplatformed users from mainstream social media platforms. A repeatedly scraped sample of messages from public Telegram groups and channels was used to investigate the effect of message ephemerality on the consistency of Telegram datasets. The findings revealed that message deletion introduces biases to the computational collection and analysis of Telegram data. Further, message ephemerality reduces dataset consistency, the quality of social network analyses, and the results of computational content analysis methods, such as topic modeling or dictionaries. The implications of these findings for scholars aiming to use Telegram data for computational research, possible solutions, and contributions to the methodological advancement of studying online political communication are discussed further in this article.",
+        "url": "https://doi.org/10.1080/19312458.2023.2183188",
         "topics_llm": true
       }
     ],

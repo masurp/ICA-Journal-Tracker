@@ -1,27 +1,9 @@
 {
   "journal_id": "journalism_studies",
-  "updated_at": "2026-10-05T13:41:08Z",
-  "trending_from": "2024-10-05",
+  "updated_at": "2026-10-12T14:30:08Z",
+  "trending_from": "2024-10-12",
   "sections": {
     "most_cited": [
-      {
-        "doi": "10.1080/14616700500250438",
-        "title": "A Look at Agenda-setting: past, present and future",
-        "authors": [
-          "Maxwell McCombs"
-        ],
-        "year": 2005,
-        "citation_count": 1252,
-        "topics": [
-          "Agenda-setting theory",
-          "Media influence",
-          "Political communication",
-          "Election coverage"
-        ],
-        "abstract": "Ten US presidential elections ago in Chapel Hill, North Carolina, the agenda of issues that a small group of undecided voters regarded as the most important ones of the day was compared with the ne...",
-        "url": "https://doi.org/10.1080/14616700500250438",
-        "topics_llm": true
-      },
       {
         "doi": "10.1080/14616700118449",
         "title": "What Is News? Galtung and Ruge revisited",
@@ -30,7 +12,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2001,
-        "citation_count": 1181,
+        "citation_count": 1364,
         "topics": [
           "News values",
           "News selection",
@@ -42,6 +24,24 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/14616700500250438",
+        "title": "A Look at Agenda-setting: past, present and future",
+        "authors": [
+          "Maxwell McCombs"
+        ],
+        "year": 2005,
+        "citation_count": 1239,
+        "topics": [
+          "Agenda-setting theory",
+          "Media influence",
+          "Political communication",
+          "Election coverage"
+        ],
+        "abstract": "Ten US presidential elections ago in Chapel Hill, North Carolina, the agenda of issues that a small group of undecided voters regarded as the most important ones of the day was compared with the ne...",
+        "url": "https://doi.org/10.1080/14616700500250438",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2016.1150193",
         "title": "What is News?",
         "authors": [
@@ -49,7 +49,7 @@
           "Deirdre O’Neill"
         ],
         "year": 2016,
-        "citation_count": 1141,
+        "citation_count": 1138,
         "topics": [
           "News values",
           "Journalism",
@@ -69,7 +69,7 @@
           "Avery E. Holton"
         ],
         "year": 2011,
-        "citation_count": 746,
+        "citation_count": 743,
         "topics": [
           "Journalism",
           "Twitter",
@@ -87,7 +87,7 @@
           "Silvio Waisbord"
         ],
         "year": 2018,
-        "citation_count": 638,
+        "citation_count": 635,
         "topics": [
           "Fake news",
           "Journalism",
@@ -114,7 +114,7 @@
           "Christopher D. Karadjov"
         ],
         "year": 2010,
-        "citation_count": 617,
+        "citation_count": 616,
         "topics": [
           "Journalism cultures",
           "Cross-national comparative study",
@@ -126,35 +126,16 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/14616700120042114",
-        "title": "What Is News? Galtung and Ruge revisited",
-        "authors": [
-          "Tony Harcup",
-          "Deirdre O’Neill"
-        ],
-        "year": 2001,
-        "citation_count": 602,
-        "topics": [
-          "News values",
-          "News selection",
-          "Journalism studies",
-          "Content analysis"
-        ],
-        "abstract": "This study aims to shed light on the news selection process by examining the news values currently operational in British newspapers. The study takes as its starting point Galtung and Ruge's widely cited taxonomy of news values established in their 1965 study and puts these criteria to the test in an empirical analysis of news published in three national daily UK newspapers. A review of Galtung and Ruge's original study as well as a wider review of related literature is provided. The findings of the news content analysis are used to evaluate critically Galtung and Ruge's original criteria and to propose a contemporary set of news values.",
-        "url": "https://doi.org/10.1080/14616700120042114",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2012.664430",
         "title": "SHARE, LIKE, RECOMMEND",
         "authors": [
           "Alfred Hermida",
           "Fred Fletcher",
-          "Darryl Korell",
+          "Darryl Korrell",
           "Donna Logan"
         ],
         "year": 2012,
-        "citation_count": 574,
+        "citation_count": 570,
         "topics": [
           "Social media",
           "News consumption",
@@ -172,7 +153,7 @@
           "Jesper Strömbäck"
         ],
         "year": 2005,
-        "citation_count": 572,
+        "citation_count": 569,
         "topics": [
           "Democracy models",
           "Journalism standards",
@@ -208,7 +189,7 @@
           "Elfriede Fürsich"
         ],
         "year": 2008,
-        "citation_count": 458,
+        "citation_count": 457,
         "topics": [
           "Textual Analysis",
           "Media Content Analysis",
@@ -226,7 +207,7 @@
           "David A.L. Levy"
         ],
         "year": 2011,
-        "citation_count": 455,
+        "citation_count": 453,
         "topics": [
           "Journalism studies",
           "Media institutions",
@@ -244,7 +225,7 @@
           "Anabela Carvalho"
         ],
         "year": 2008,
-        "citation_count": 444,
+        "citation_count": 442,
         "topics": [
           "Critical Discourse Analysis",
           "Journalistic Discourse",
@@ -262,7 +243,7 @@
           "Mark Deuze"
         ],
         "year": 2004,
-        "citation_count": 430,
+        "citation_count": 429,
         "topics": [
           "Multimedia journalism",
           "Newsroom convergence",
@@ -274,31 +255,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/14616700500533643",
-        "title": "INTER-MEDIA AGENDA SETTING AND GLOBAL NEWS COVERAGE",
-        "authors": [
-          "Guy J. Golan"
-        ],
-        "year": 2006,
-        "citation_count": 379,
-        "topics": [
-          "Agenda setting",
-          "International news coverage",
-          "Media influence",
-          "News selection"
-        ],
-        "abstract": "For several decades, media scholars have attempted to identify the key variables that shape the complicated international news selection process. At the heart of the research lies the question of what make a nation or an international event newsworthy? Research findings point to several key determinants of international news coverage including deviance, relevance, cultural affinity and location in the hierarchy of nations. The current study suggests that the newsworthiness of international events may result from an inter-media agenda-setting process. The current analysis points to significant correlations between the international news agenda of the morning New York Times and the international news agendas of three evening television news programs. The current study argues that inter-media agenda setting should be considered in future studies on the international news selection process.",
-        "url": "https://doi.org/10.1080/14616700500533643",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/14616700118394",
         "title": "Understanding the Global Journalist: a hierarchy-of-influences approach",
         "authors": [
           "Stephen D. Reese"
         ],
         "year": 2001,
-        "citation_count": 370,
+        "citation_count": 389,
         "topics": [
           "Journalism",
           "Globalization",
@@ -310,13 +273,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/14616700500533643",
+        "title": "INTER-MEDIA AGENDA SETTING AND GLOBAL NEWS COVERAGE",
+        "authors": [
+          "Guy J. Golan"
+        ],
+        "year": 2006,
+        "citation_count": 376,
+        "topics": [
+          "Agenda setting",
+          "International news coverage",
+          "Media influence",
+          "News selection"
+        ],
+        "abstract": "For several decades, media scholars have attempted to identify the key variables that shape the complicated international news selection process. At the heart of the research lies the question of what make a nation or an international event newsworthy? Research findings point to several key determinants of international news coverage including deviance, relevance, cultural affinity and location in the hierarchy of nations. The current study suggests that the newsworthiness of international events may result from an inter-media agenda-setting process. The current analysis points to significant correlations between the international news agenda of the morning New York Times and the international news agendas of three evening television news programs. The current study argues that inter-media agenda setting should be considered in future studies on the international news selection process.",
+        "url": "https://doi.org/10.1080/14616700500533643",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2014.922276",
         "title": "Professional Roles in News Content",
         "authors": [
           "Claudia Mellado"
         ],
         "year": 2014,
-        "citation_count": 345,
+        "citation_count": 341,
         "topics": [
           "Professional roles",
           "Journalism",
@@ -334,7 +315,7 @@
           "Kim Viborg Andersen"
         ],
         "year": 2019,
-        "citation_count": 342,
+        "citation_count": 339,
         "topics": [
           "News avoidance",
           "News consumption",
@@ -353,7 +334,7 @@
           "Jean Burgess"
         ],
         "year": 2012,
-        "citation_count": 323,
+        "citation_count": 322,
         "topics": [
           "Twitter",
           "News discussion",
@@ -389,7 +370,7 @@
           "Joyce Y. M. Nip"
         ],
         "year": 2006,
-        "citation_count": 299,
+        "citation_count": 296,
         "topics": [
           "Public journalism",
           "Audience participation",
@@ -407,7 +388,7 @@
           "Jane B. Singer"
         ],
         "year": 2007,
-        "citation_count": 278,
+        "citation_count": 279,
         "topics": [
           "Professional journalism",
           "Media autonomy",
@@ -462,7 +443,7 @@
           "Michael Karlsson"
         ],
         "year": 2010,
-        "citation_count": 237,
+        "citation_count": 238,
         "topics": [
           "Journalism",
           "Transparency",
@@ -586,25 +567,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2019.1566871",
-        "title": "Fake News as Discursive Integration: An Analysis of Sites That Publish False, Misleading, Hyperpartisan and Sensational Information",
-        "authors": [
-          "Rachel R. Mourão",
-          "Craig Robertson"
-        ],
-        "year": 2019,
-        "citation_count": 203,
-        "topics": [
-          "Fake news",
-          "Misinformation",
-          "Journalism",
-          "Social media engagement"
-        ],
-        "abstract": "After the 2016 US presidential election, the concept of fake news captured popular attention, but conversations lacked a clear conceptualization and used the label in elastic ways to describe various distinct phenomena. In this paper, we analyze fake news as genre blending, combining elements of traditional news with features that are exogenous to normative professional journalism: misinformation, sensationalism, clickbait, and bias. Through a content analysis of stories published by 50 sites that have been labeled fake news and the engagement they generated on social media, we found that stories employed moderate levels of sensationalism, misinformation and partisanship to provide anti-establishment narratives. Complete fabrications were uncommon and did not resonate well with audiences, although there was some truth-stretching that came with genre blending. Results suggest that technocentric solutions aimed at detecting falsehoods are likely insufficient, as fake news is defined more by partisanship and identity politics than misinformation and deception.",
-        "url": "https://doi.org/10.1080/1461670x.2019.1566871",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/14616700802207664",
         "title": "(NO) NEWS ON THE WORLD WIDE WEB?",
         "authors": [
@@ -623,13 +585,32 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2019.1566871",
+        "title": "Fake News as Discursive Integration: An Analysis of Sites That Publish False, Misleading, Hyperpartisan and Sensational Information",
+        "authors": [
+          "Rachel R. Mourão",
+          "Craig Robertson"
+        ],
+        "year": 2019,
+        "citation_count": 201,
+        "topics": [
+          "Fake news",
+          "Misinformation",
+          "Journalism",
+          "Social media engagement"
+        ],
+        "abstract": "After the 2016 US presidential election, the concept of fake news captured popular attention, but conversations lacked a clear conceptualization and used the label in elastic ways to describe various distinct phenomena. In this paper, we analyze fake news as genre blending, combining elements of traditional news with features that are exogenous to normative professional journalism: misinformation, sensationalism, clickbait, and bias. Through a content analysis of stories published by 50 sites that have been labeled fake news and the engagement they generated on social media, we found that stories employed moderate levels of sensationalism, misinformation and partisanship to provide anti-establishment narratives. Complete fabrications were uncommon and did not resonate well with audiences, although there was some truth-stretching that came with genre blending. Results suggest that technocentric solutions aimed at detecting falsehoods are likely insufficient, as fake news is defined more by partisanship and identity politics than misinformation and deception.",
+        "url": "https://doi.org/10.1080/1461670x.2019.1566871",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/14616700601148804",
         "title": "CAN DISCOURSE ANALYSIS SUCCESSFULLY EXPLAIN THE CONTENT OF MEDIA AND JOURNALISTIC PRACTICE?",
         "authors": [
           "Greg Philo"
         ],
         "year": 2007,
-        "citation_count": 202,
+        "citation_count": 201,
         "topics": [
           "Discourse analysis",
           "Media criticism",
@@ -660,31 +641,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670032000136596",
-        "title": "News and its communicative quality: the inverted pyramid—when and why did it appear?",
-        "authors": [
-          "Horst Po ̈ttker"
-        ],
-        "year": 2003,
-        "citation_count": 197,
-        "topics": [
-          "Inverted pyramid",
-          "News structure",
-          "Journalism history",
-          "Communicative quality"
-        ],
-        "abstract": "There is a general assumption that the inverted pyramid (lead-and-body principle, answers to four or five w-questions at the beginning of the article) became a professional standard during the American Civil War (1861–65), either because of the unreliability of the new telegraph technology (technological explanation); or because of the information policy of the Union (political explanation); or because of the increasing commercial interests of publishers and competition between them (economical explanation). But a content analysis of the New York Herald and the New York Times shows that the inverted pyramid became commonplace only two decades later. Between 1880 and 1890, moreover, publishers and editors attempted systematically to enhance the comprehensibility of their products by using, for example, headlines and illustrations. The author therefore favours the thesis that the journalistic routine and genre of the inverted pyramid resulted from the professional effort to strengthen the communicative quality of news.",
-        "url": "https://doi.org/10.1080/1461670032000136596",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/14616700306492",
         "title": "The Problem of Journalism: a political economic contribution to an explanation of the crisis in contemporary US journalism",
         "authors": [
           "Robert W. McChesney"
         ],
         "year": 2003,
-        "citation_count": 196,
+        "citation_count": 195,
         "topics": [
           "Political economy of journalism",
           "Media crisis",
@@ -703,7 +666,7 @@
           "David Nolan"
         ],
         "year": 2007,
-        "citation_count": 194,
+        "citation_count": 193,
         "topics": [
           "Humanitarian communication",
           "Media logic",
@@ -715,31 +678,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/14616700601148879",
-        "title": "TRACKING THE ONLINE AUDIENCE",
-        "authors": [
-          "Phil MacGregor"
-        ],
-        "year": 2007,
-        "citation_count": 194,
-        "topics": [
-          "Audience analytics",
-          "Digital journalism",
-          "News production",
-          "Web metrics"
-        ],
-        "abstract": "This research examines the way online journalists react to new ways of knowing about their audiences. Interviewing 19 online journalists in print, broadcast and net-native media, the research analyses emergent narratives on journalists’ use of tracking data from website servers. The study concludes that competing attitudes are at work in the way journalists react to server data about users and audiences. News and brand values influence journalists towards traditional behaviours, which are shown to form a strong counterweight to market pressure for growth in audience numbers. In addition, a vigorous narrative of change is evident. Online journalists are seen to claim a more reasoned and evidence-based method in choosing what to publish, which is less subject to “instinct” and whim. Tracking data are therefore directly revising the way “news values” are implemented in the respondent sample. Overall, social and organisational context rather than technology alone shape the way these online professionals react to their new tool.",
-        "url": "https://doi.org/10.1080/14616700601148879",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2020.1847681",
         "title": "Understanding the Audience Turn in Journalism: From Quality Discourse to Innovation Discourse as Anchoring Practices 1995–2020",
         "authors": [
           "Irene Costera Meijer"
         ],
         "year": 2020,
-        "citation_count": 193,
+        "citation_count": 191,
         "topics": [
           "Audience engagement",
           "Journalism practices",
@@ -751,6 +696,42 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/14616700601148879",
+        "title": "TRACKING THE ONLINE AUDIENCE",
+        "authors": [
+          "Phil MacGregor"
+        ],
+        "year": 2007,
+        "citation_count": 191,
+        "topics": [
+          "Audience analytics",
+          "Digital journalism",
+          "News production",
+          "Web metrics"
+        ],
+        "abstract": "This research examines the way online journalists react to new ways of knowing about their audiences. Interviewing 19 online journalists in print, broadcast and net-native media, the research analyses emergent narratives on journalists’ use of tracking data from website servers. The study concludes that competing attitudes are at work in the way journalists react to server data about users and audiences. News and brand values influence journalists towards traditional behaviours, which are shown to form a strong counterweight to market pressure for growth in audience numbers. In addition, a vigorous narrative of change is evident. Online journalists are seen to claim a more reasoned and evidence-based method in choosing what to publish, which is less subject to “instinct” and whim. Tracking data are therefore directly revising the way “news values” are implemented in the respondent sample. Overall, social and organisational context rather than technology alone shape the way these online professionals react to their new tool.",
+        "url": "https://doi.org/10.1080/14616700601148879",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670032000136596",
+        "title": "News and its communicative quality: the inverted pyramid—when and why did it appear?",
+        "authors": [
+          "Horst Pöttker"
+        ],
+        "year": 2003,
+        "citation_count": 191,
+        "topics": [
+          "Inverted pyramid",
+          "News structure",
+          "Journalism history",
+          "Communicative quality"
+        ],
+        "abstract": "There is a general assumption that the inverted pyramid (lead-and-body principle, answers to four or five w-questions at the beginning of the article) became a professional standard during the American Civil War (1861–65), either because of the unreliability of the new telegraph technology (technological explanation); or because of the information policy of the Union (political explanation); or because of the increasing commercial interests of publishers and competition between them (economical explanation). But a content analysis of the New York Herald and the New York Times shows that the inverted pyramid became commonplace only two decades later. Between 1880 and 1890, moreover, publishers and editors attempted systematically to enhance the comprehensibility of their products by using, for example, headlines and illustrations. The author therefore favours the thesis that the journalistic routine and genre of the inverted pyramid resulted from the professional effort to strengthen the communicative quality of news.",
+        "url": "https://doi.org/10.1080/1461670032000136596",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2016.1161497",
         "title": "Effects of Civility and Reasoning in User Comments on Perceived Journalistic Quality",
         "authors": [
@@ -759,7 +740,7 @@
           "Wolfgang Schweiger"
         ],
         "year": 2016,
-        "citation_count": 191,
+        "citation_count": 188,
         "topics": [
           "User comments",
           "Journalistic quality",
@@ -768,6 +749,25 @@
         ],
         "abstract": "Journalists are increasingly concerned that offensive and banal user comments on news websites might alienate readers and damage quality perceptions. To explore such presumed effects, we investigated the impact of civility and reasoning (and lack thereof) in user comments on perceptions of journalistic quality. An experiment revealed that unreasoned comments decrease an article’s perceived informational quality, but only in unknown news brands. Incivility in comments had an unconditionally negative effect on the perceived formal quality of an article. Neither civility nor reasoning improved the assessments of journalistic quality, as compared to a comment-free version. On the contrary, we observed a trend showing that the mere presence of comments deteriorates the perceived quality of an article.",
         "url": "https://doi.org/10.1080/1461670x.2016.1161497",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2018.1528882",
+        "title": "Explaining the Gender Gap in News Avoidance: “News-Is-for-Men” Perceptions and the Burdens of Caretaking",
+        "authors": [
+          "Benjamin Toff",
+          "Ruth A. Palmer"
+        ],
+        "year": 2018,
+        "citation_count": 187,
+        "topics": [
+          "Gender gap",
+          "News avoidance",
+          "Media consumption",
+          "Political participation"
+        ],
+        "abstract": "Even in wealthy post-industrial countries where equity between men and women has improved in recent years, women are still significantly more likely than men to say they avoid the news, a gender gap that has important implications for political participation. This article employs a qualitative, inductive approach to examine the how and why behind the gender gap in news consumption. Using in-depth interviews with 43 working- and middle-class individuals in the United Kingdom who say they rarely or never access conventional news sources, we find that decisions around when and whether to engage with news are (1) often viewed through a gendered lens, which we call “news-is-for-men” perceptions, and (2) subject to structural inequalities that shape people's everyday media consumption habits. These include both gender-based divisions of labor in the consumption of news within households and the physical and emotional burdens of caretaking responsibilities, which fall predominantly on women and can interfere with staying up-to-date with news. We argue that efforts to close the gender gap that fail to address both of these entrenched underlying causes are unlikely to succeed.",
+        "url": "https://doi.org/10.1080/1461670x.2018.1528882",
         "topics_llm": true
       },
       {
@@ -789,32 +789,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2018.1528882",
-        "title": "Explaining the Gender Gap in News Avoidance: “News-Is-for-Men” Perceptions and the Burdens of Caretaking",
-        "authors": [
-          "Benjamin Toff",
-          "Ruth A. Palmer"
-        ],
-        "year": 2018,
-        "citation_count": 186,
-        "topics": [
-          "Gender gap",
-          "News avoidance",
-          "Media consumption",
-          "Political participation"
-        ],
-        "abstract": "Even in wealthy post-industrial countries where equity between men and women has improved in recent years, women are still significantly more likely than men to say they avoid the news, a gender gap that has important implications for political participation. This article employs a qualitative, inductive approach to examine the how and why behind the gender gap in news consumption. Using in-depth interviews with 43 working- and middle-class individuals in the United Kingdom who say they rarely or never access conventional news sources, we find that decisions around when and whether to engage with news are (1) often viewed through a gendered lens, which we call “news-is-for-men” perceptions, and (2) subject to structural inequalities that shape people's everyday media consumption habits. These include both gender-based divisions of labor in the consumption of news within households and the physical and emotional burdens of caretaking responsibilities, which fall predominantly on women and can interfere with staying up-to-date with news. We argue that efforts to close the gender gap that fail to address both of these entrenched underlying causes are unlikely to succeed.",
-        "url": "https://doi.org/10.1080/1461670x.2018.1528882",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/146167000361195",
         "title": "The Propaganda Model: a retrospective",
         "authors": [
           "Edward S. Herman"
         ],
         "year": 2000,
-        "citation_count": 182,
+        "citation_count": 180,
         "topics": [
           "Media criticism",
           "Propaganda model",
@@ -850,7 +831,7 @@
           "Thomas Hanitzsch"
         ],
         "year": 2004,
-        "citation_count": 177,
+        "citation_count": 176,
         "topics": [
           "Peace journalism",
           "Media effects theory",
@@ -889,7 +870,7 @@
           "Summer Harlow"
         ],
         "year": 2017,
-        "citation_count": 173,
+        "citation_count": 169,
         "topics": [
           "News virality",
           "Social media sharing",
@@ -898,24 +879,6 @@
         ],
         "abstract": "Audiences play a fundamental role in disseminating and evaluating news content, and one of the big questions facing news organizations is what elements make content viral in the digital environment. This comparative study of the United States, Brazil and Argentina explores what values and topics present in news shared online predict audience interaction on social media. Findings shed light on what news values and topics trigger more audience responses on Facebook and Twitter. At the same time, a comparison between popular content produced by traditional media versus online-native media reveals that the former lean more toward government-related news and conflict/controversy news values than online native media. Brazilian stories prompted more social media interactivity than content from the United States or Argentina. Through content analysis, this study contributes to improving our understanding of audiences’ news values preferences on social networks. It also helps us to recognize the role of users’ online activities (sharing, commenting and liking) in the social construction of news and meaning inside the networked sphere. Finally, it opens an old media debate about whether providing and sharing too much media content with conflict, controversy and oddity could potentially hinder understanding and agreement in society. Articles were collected via media tracking and the data collection company NewsWhip.",
         "url": "https://doi.org/10.1080/1461670x.2016.1265896",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/14616700600980652",
-        "title": "JOURNALISM AND EXPERTISE",
-        "authors": [
-          "Tammy Boyce"
-        ],
-        "year": 2006,
-        "citation_count": 170,
-        "topics": [
-          "Journalism",
-          "Expertise",
-          "Trust in media",
-          "Source credibility"
-        ],
-        "abstract": "Many researchers have observed the paradox of the decline in trust of experts alongside the increasing use of expertise in Western society. This research argues for the division of expertise into a defined category, “expert-source”, separating experts from other sources who do not possess expertise. Using a normative concept of expertise to provide categories can offer a more coherent and consistent method of assessing a source's expertise and how to present their statements. This research presents findings based on a media analysis of television, radio and newspapers, interviews with journalists and sources and the results of national surveys and focus groups with parents and uses a recent medical controversy in the UK as a backdrop to explore expertise. In 1998 a scientist claimed there might be a link between the measles, mumps and rubella vaccine and autism. His claims received significant media attention and vaccination rates fell across the UK. This case study examines how journalists constructed expertise, how key sources presented themselves as expert-sources and the effect of balancing expert-sources with sources. This research encourages journalists and academics to question how expertise affects media coverage.",
-        "url": "https://doi.org/10.1080/14616700600980652",
         "topics_llm": true
       },
       {
@@ -935,9 +898,83 @@
         "abstract": "In order to understand why so little media attention was paid to risks in the banking sector in the run up to the financial crisis, we need to understand the framework of law, regulation, self-regulation and professional incentives that structure the practice of financial and business journalism. This paper focuses in particular on what role financial journalists play in the system of corporate governance, the ways in which law and regulation recognize that role, and the extent to which this role is accepted and understood by financial journalists themselves. The first part of the essay reviews recent debate on financial journalism and investigates the role of financial journalism from a systemic perspective: looking at its role in corporate governance, and its impact on market behaviour. I develop the notion that financial and business journalists operate within a framework of rights and duties which institutionalize a particular ethical approach to their role. The second half of the article, which draws more extensively on interviews conducted with journalists and editors, asks how journalists themselves understand and describe their role and what they see as the key challenges they face as they attempt to perform it. It emerges that there is no consensus among financial and business journalists about their “watchdog” role in relation to markets and corporate behaviour, and whilst the financial journalists interviewed tended to agree on the key challenges they face, they are uncertain how to respond to them.",
         "url": "https://doi.org/10.1080/14616700903378661",
         "topics_llm": true
+      },
+      {
+        "doi": "10.1080/14616701003638376",
+        "title": "RETHINKING [AGAIN] THE FUTURE OF JOURNALISM EDUCATION",
+        "authors": [
+          "Donica Mensing"
+        ],
+        "year": 2010,
+        "citation_count": 168,
+        "topics": [
+          "Journalism education",
+          "Digital media transformation",
+          "Community-centered journalism"
+        ],
+        "abstract": "For many of the previous 100 years the role of a journalist was to find information, shape it into an accurate story and transmit it as quickly as possible to a mass audience via a mass medium. Today, information is no longer scarce, breaking news is no longer the province of professional journalists, mass media are declining in influence and news is easily personalized. Like many news organizations, journalism education programs are distinctly unprepared to respond to such deeply structural changes in the environment. Preliminary research indicates that the response to date has been primarily to expand technology training and reorient sequence and media emphasis tracks. The present study recommends a realignment of journalism education from an industry-centered model to a community-centered model as one way to re-engage journalism education in a more productive and vital role in the future of journalism. A community-centered focus could provide a way to conceptualize a reconstitution of journalism education to match that taking place in journalism beyond the university. Three examples from current journalism programs illustrate the implications of this analysis and provide an indication of future directions for realignment.",
+        "url": "https://doi.org/10.1080/14616701003638376",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/14616700600980652",
+        "title": "JOURNALISM AND EXPERTISE",
+        "authors": [
+          "Tammy Boyce"
+        ],
+        "year": 2006,
+        "citation_count": 168,
+        "topics": [
+          "Journalism",
+          "Expertise",
+          "Trust in media",
+          "Source credibility"
+        ],
+        "abstract": "Many researchers have observed the paradox of the decline in trust of experts alongside the increasing use of expertise in Western society. This research argues for the division of expertise into a defined category, “expert-source”, separating experts from other sources who do not possess expertise. Using a normative concept of expertise to provide categories can offer a more coherent and consistent method of assessing a source's expertise and how to present their statements. This research presents findings based on a media analysis of television, radio and newspapers, interviews with journalists and sources and the results of national surveys and focus groups with parents and uses a recent medical controversy in the UK as a backdrop to explore expertise. In 1998 a scientist claimed there might be a link between the measles, mumps and rubella vaccine and autism. His claims received significant media attention and vaccination rates fell across the UK. This case study examines how journalists constructed expertise, how key sources presented themselves as expert-sources and the effect of balancing expert-sources with sources. This research encourages journalists and academics to question how expertise affects media coverage.",
+        "url": "https://doi.org/10.1080/14616700600980652",
+        "topics_llm": true
       }
     ],
     "latest": [
+      {
+        "doi": "10.1080/1461670x.2026.2739290",
+        "title": "Moral Archivists and Agents of Accountability: Typologies of Advocacy Journalism in Local Indonesian Media's Coverage of the Kanjuruhan Tragedy",
+        "authors": [
+          "Reza Safitri",
+          "Dicky Wahyudi",
+          "Ainun Qisthi Rosyidah",
+          "Ranee Tuta"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "Advocacy journalism",
+          "Local media",
+          "Disaster coverage",
+          "Accountability journalism"
+        ],
+        "abstract": "This study examines how local media implemented advocacy journalism in their coverage of the Kanjuruhan Tragedy, an event that killed 135 people and triggered prolonged collective trauma in Malang, Indonesia. Using a qualitative approach, the study analyzed 160 news articles and conducted in-depth interviews with journalists and editors from four local media outlets. The findings identify six typologies of advocacy journalism that are not isolated but interconnected, forming a dynamic spectrum of practices. Segmented Advocacy emerges as the dominant form through the direct representation of victims’ voices, often integrated with Emotional Advocacy to build public empathy. Meanwhile, Woven Advocacy and Counter-Frame Advocacy demonstrate strategic critiques that range from implicit to explicit challenges to state narratives. Emerging new typologies and Community Alliance further indicate the expansion of advocacy into cultural, spiritual, and collaborative engagement with civil society. The findings also reveal that institutional pressures and journalist polarization dynamics shape advocacy practices. These findings offer an empirically grounded perspective on advocacy journalism in the Global South, where local media act as moral archivists and agents of accountability sustaining collective memory and justice.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2739290",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2026.2740762",
+        "title": "“They Don’t Understand What it Means to be Poor”: How Representation, Relevance, and Relatability Shape the News Experience of Marginalised Young Adults",
+        "authors": [
+          "James Dennis"
+        ],
+        "year": 2026,
+        "citation_count": 0,
+        "topics": [
+          "News consumption",
+          "Social inequality",
+          "Youth media engagement",
+          "Representation and marginalization"
+        ],
+        "abstract": "There are significant concerns about young adults from low socioeconomic backgrounds becoming disengaged from the news. Drawing on 25 semi-structured interviews with participants aged 18–25 in England, this study examines how social inequality shapes how young adults experience news. Interviewees avoid legacy news media, citing a lack of representation, as stories about them and their communities are omitted from coverage. Where relevant topics are included, they feel that the reporting masks the complexity of how an issue impacts marginalised communities. Crucially, however, this group are not consistent news avoiders but remains engaged with news found on social platforms, accessing perspectives that resonate with their lived experience. This often comes from non-traditional actors who draw on new forms of journalistic storytelling. This paper argues that relatability—understood as a felt sense of proximity to news based on shared communicative norms, cultural experiences, and perceived social relevance—is crucial to understanding this population's news experience. By analysing relatability alongside representation and relevance, the study demonstrates how the interviewees’ lived experience of inequality shapes their relationship to news, both in its content and form. The paper offers practical recommendations for how inclusive storytelling and support for creator journalists can better serve this population.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2740762",
+        "topics_llm": true
+      },
       {
         "doi": "10.1080/1461670x.2026.2734288",
         "title": "Perceiving the News as Toxic: A Longitudinal, Cross-National Analysis of Negative News Evaluations in Flanders and Ireland",
@@ -1201,7 +1238,7 @@
         "authors": [
           "Simona Bisiani",
           "Sarah Stonbely",
-          "Bahareh Heravi"
+          "Bahareh Rahmanzadeh Heravi"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1399,7 +1436,7 @@
           "Shynggys Atay",
           "Rimma Zhaxylykbayeva",
           "M. Zhetpisbaeva",
-          "O. Zh. Oshanova",
+          "О.Ж. Ошанова",
           "Lazıza Nurpeııs"
         ],
         "year": 2026,
@@ -1606,7 +1643,7 @@
         "authors": [
           "Fabien Ohl",
           "Lucie Schoch",
-          "Damien Ressiot"
+          "D. Ressiot"
         ],
         "year": 2026,
         "citation_count": 0,
@@ -1755,7 +1792,7 @@
           "Authoritarian regimes",
           "Wartime communication"
         ],
-        "abstract": "This study examines how authoritarian regimes set conflicting domestic and foreign propaganda agenda during wartime to ensure domestic unity and engage international audiences. We posit that authoritarian regimes relying on public support for legitimacy attempt to keep domestic opinion onside by emphasizing the high stakes and low costs of war, thereby ensuring that dissent against the conflict does not threaten the regime. Foreign audiences, on the other hand, are encouraged to consider their responsibility and the risks of catastrophic escalation associated with intervention. We test our argument by analyzing domestic and international Russian propaganda around the reinvasion of Ukraine from January 2022 to August 2023. By comparing war coverage tailored for domestic audiences in RIA Novosti and foreign-facing coverage that appeared on RT, we find greater emphasis on the threat from the opponent, the high stakes of the war, and less emphasis on risks in domestic media. Foreign media focuses more on international actors’ responsibility, the local stakes, and the risks of nuclear escalation. We conclude with a discussion of our findings and the tradeoffs autocracies must contend with in the management of the media during wartime.",
+        "abstract": "This study examines how authoritarian regimes set conflicting domestic and foreign propaganda agenda during wartime to ensure domestic unity and engage international audiences. We posit that authoritarian regimes relying on public support for legitimacy attempt to keep domestic opinion onside by emphasizing the high stakes and low costs of war, thereby ensuring that dissent against the conflict does not threaten the regime. Foreign audiences, on the other hand, are encouraged to consider their responsibility and the risks of catastrophic escalation associated with intervention. We test our argument by analyzing domestic and international Russian propaganda around the reinvasion of Ukraine from January 2022 to August 2023. By comparing war coverage tailored for domestic audiences in RIA Novosti and foreign-facing coverage that appeared on RT, we find greater emphasis on the threat from the opponent, the high stakes of the war, and less emphasis on risks in domestic media. Foreign media focuses more on international actors' responsibility, the local stakes, and the risks of nuclear escalation. We conclude with a discussion of our findings and the tradeoffs autocracies must contend with in the management of the media during wartime.",
         "url": "https://doi.org/10.1080/1461670x.2026.2700614",
         "topics_llm": true
       },
@@ -1767,7 +1804,7 @@
           "Sneha Gore Mehendale"
         ],
         "year": 2026,
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Artificial intelligence in journalism",
           "Professional attitudes",
@@ -1874,68 +1911,9 @@
         "abstract": "This study examines how sensational strategies independently and interactively shape public attitudes. We conceptualize the sensational victim frame as a theoretical domain comprising two dimensions—victimization and objectifying—each manifested in textual and visual forms. The analysis is based on a dataset of 16,908 gender-based violence news posts and 279,652 associated comments from Weibo (2020–2024). Textual victimization and visual objectifying significantly increase user engagement. Moreover, these two strategies independently heighten the likelihood of victim-blaming comments, and their cross-modal combinations further amplify this effect. Overall, the findings demonstrate that sensationalism in gender-based violence reporting operates through distinct textual and visual pathways that can both attract and harm audiences. This study advances multimodal framing theory and offers practical implications for ethical reporting and platform design aimed at mitigating revictimization while sustaining public attention.",
         "url": "https://doi.org/10.1080/1461670x.2026.2699772",
         "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2686733",
-        "title": "Losing Control: Seasonality of the News During Democratic Deconsolidation",
-        "authors": [
-          "Michael A. McDevitt"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "News media",
-          "Democratic deconsolidation",
-          "Political journalism",
-          "News cycles"
-        ],
-        "abstract": "News of politics possesses features analogous to seasons: media storms, news waves, and affective news streams amplify crisis in response to social disturbances. Seasonality implies a dynamic in which news media are caught up in forces seemingly beyond their control. This essay demonstrates the productivity of this approach in three respects. Seasonality provides a new way of grasping journalistic complicity in democratic deconsolidation, an interpretative lens for why professional autonomy is compromised, and the basis for a normative rationale on why the responsible press must retake control of the news. We explain how three elements of seasonal political news contribute to deconsolidation. Anticipation and recurrence of conflict constitute fulfillment of expectations about the desirability of democracy. A subsequent section illustrates how seasonality manifested in anticipation of “the dread election” of 2024. The heuristic value of seasonality is also demonstrated in how deconsolidation is experienced by journalists and their audiences. We explicate temporal patterns that fluctuate in affective intensity in ways that promote a perception of politics spiraling. The analysis then turns to implications of seasonality for journalism as a trustee of political conflict. A consideration of underlying epistemologies generates insights for making the news more resistant to seasonal disorder.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2686733",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2695135",
-        "title": "Google as Journalists’ Invisible Research Assistant? The Impact of Algorithmically-Driven Search Results in Journalistic Information Gathering Routines",
-        "authors": [
-          "Yael de Haan",
-          "Nele Goutier",
-          "Sanne Kruikemeier",
-          "Sophie K. Lecheler"
-        ],
-        "year": 2026,
-        "citation_count": 0,
-        "topics": [
-          "Search algorithms",
-          "Journalistic practices",
-          "Information gathering",
-          "Search engine influence"
-        ],
-        "abstract": "Search engines play an important role in the information-gathering process of journalists. This paper analyzes the possible influence Google has on journalists when consulting, selecting, and evaluating sources through this search engine. We conducted a rare experiment on site with 73 journalists working within newsrooms in the Netherlands. We, firstly, find that all participating journalists use Google and mainly remain on the first page of results. Secondly, our analysis shows that journalists consult the sources that are offered on the first page of results. We do find that algorithmic logic had no significant effects on the perception of the evaluation of the sources.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2695135",
-        "topics_llm": true
       }
     ],
     "trending": [
-      {
-        "doi": "10.1080/1461670x.2024.2412212",
-        "title": "A Little of that Human Touch: How Regular Journalists Redefine Their Expertise in the Face of Artificial Intelligence",
-        "authors": [
-          "Lynge Asbjørn Møller",
-          "Arjen van Dalen",
-          "Morten Skovsgaard"
-        ],
-        "year": 2024,
-        "citation_count": 34,
-        "topics": [
-          "Journalism",
-          "Artificial Intelligence",
-          "Professional Identity",
-          "News Production"
-        ],
-        "abstract": "Recent advancements in generative artificial intelligence raise fundamental questions about its impact on the journalistic profession and the future role of journalists in news production. However, the attitudes of regular journalists towards artificial intelligence remain largely unexplored. We address this gap by investigating the potentials and concerns that Danish journalists attribute to the impact of artificial intelligence on journalism. Journalists largely acknowledge its potential to streamline news production. While they also express broader concerns about the trustworthiness of journalism and the risk of job displacement, their more immediate worry lies in the impact of artificial intelligence on job meaningfulness and professional identity. These findings reveal a differentiated perspective on the profession-wide and individual impacts of artificial intelligence on journalism. Furthermore, journalists emphasise their human qualities and skills such as nuanced judgement, empathy, and creativity as beyond artificial intelligence’s capabilities. This indicates that artificial intelligence prompts journalists to reshape their expertise to prioritise the human touch in journalism, suggesting a broadened view of the journalistic profession. By examining these perceptions among regular journalists, this study contributes to a better understanding of the multifaceted challenges that artificial intelligence poses to both individual journalistic practices and the broader profession.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2412212",
-        "topics_llm": true
-      },
       {
         "doi": "10.1080/1461670x.2025.2547301",
         "title": "AI in the Newsroom: Does the Public Trust Automated Journalism and Will They Pay for It?",
@@ -1977,31 +1955,6 @@
         ],
         "abstract": "The effective adoption of responsible AI practices in journalism requires a concerted effort to bridge different perspectives, including technological, editorial, and managerial. Among the many challenges that could impact information sharing around responsible AI inside news organisations are knowledge silos, where information is isolated within one part of the organisation and not easily shared with others. This study aims to study how knowledge silos might affect the adoption of responsible AI practices in journalism through a cross-case study of four Dutch media outlets. We examine individual and organisational barriers to AI knowledge sharing and the extent to which knowledge silos could impede the operationalisation of responsible AI initiatives inside these newsrooms. To address this question, we conducted 14 semi-structured interviews with a strategic sample of editors, managers, and journalists at de Telegraaf, de Volkskrant, NOS, and RTL Nederland. The interviews aimed to uncover insights into the existence of knowledge silos, their effects on responsible AI practice adoption, and the organisational practices influencing these dynamics. Our results emphasise the importance of creating better structures for sharing information on AI across all layers of news organisations and highlight the need for research on knowledge silos as an impediment to responsible AI production.",
         "url": "https://doi.org/10.1080/1461670x.2025.2463589",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2412213",
-        "title": "Online Abuse, Emotion Work and Sports Journalism",
-        "authors": [
-          "Gary Sinclair",
-          "C. Kearns",
-          "Katie Liston",
-          "Daniel Kilvington",
-          "Jack Black",
-          "Mark Doidge",
-          "Thomas Fletcher",
-          "Theo Lynn"
-        ],
-        "year": 2024,
-        "citation_count": 13,
-        "topics": [
-          "Online abuse",
-          "Sports journalism",
-          "Emotional labour",
-          "Digital harassment"
-        ],
-        "abstract": "This article generates new insights into the changing profession of journalism. Empirically, we present the findings of 21 interviews with journalists working in the Irish and UK sports beats on their experiences of online abuse. Conceptually, we address the under-theorising of emotions in journalism by extending the utility and entanglement of emotion work and emotional labour. In doing so, we posit future lines of theoretical enquiry about individual and social regulation. Several key discoveries are presented. First, sports journalism is a distinctive profession because significant authentic emotional work is undertaken. This is only accentuated when online abuse occurs. Journalists are deeply affected by this abuse, personally and professionally. Second, online abuse towards sports journalists is now so ubiquitous as to be habitually accepted, and it has obscured the distinction between public and private spaces. Third, in response, sports journalists have been compelled to develop their own emotional strategies, including self-censorship, to cope with and manage online abuse. The findings presented here also pose practical and existential questions about the sustainability of the profession, especially in the absence of formal institutional supports or even an informal code of practice about how to cope with and respond to online abuse.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2412213",
         "topics_llm": true
       },
       {
@@ -2121,22 +2074,24 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2024.2406814",
-        "title": "Educating for a Changing Media Landscape: Four Scenarios for Journalism Education in 2030",
+        "doi": "10.1080/1461670x.2026.2616634",
+        "title": "On Controlled Change: Generative AI’s Impact on Professional Authority in Journalism",
         "authors": [
-          "Maaike Severijnen",
-          "Yael de Haan"
+          "Tomás Dodds",
+          "Wang Ngai Yeung",
+          "Claudia Mellado",
+          "Mathias‐Felipe de‐Lima‐Santos"
         ],
-        "year": 2024,
-        "citation_count": 10,
+        "year": 2026,
+        "citation_count": 8,
         "topics": [
-          "Journalism education",
-          "Media landscape",
-          "Scenario planning",
-          "Lifelong learning"
+          "Generative AI",
+          "Journalism",
+          "Professional authority",
+          "Media transformation"
         ],
-        "abstract": "Over the past decades, journalism schools and journalism training programmes have been trying to keep up with the constant technological and societal developments. Numerous studies have been done about what knowledge and skills should be taught and several on how they should be taught, to be more adaptive to this changing environment and media landscape. Meanwhile, also media companies are increasingly becoming educators, with their own learning academies to make journalists become lifelong learners. In this study, which was conducted in the Netherlands, we take a holistic approach to understanding the uncertain future journalism education is currently dealing with. We use the method of scenario planning to systematically analyse the current debate on journalism education. By collecting opinions and views of fifty different experts from the broad field of journalism and (journalism) education, we deducted certain and uncertain trends that led to two axes, answering the following questions: What type of journalism do we educate for and Who is in charge of the learning process? Crossing these axes, four scenarios for the future of journalism education appear. With this study, we intend to facilitate the debate on the future of journalism education.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2406814",
+        "abstract": "Using (generative) artificial intelligence tools and systems in journalism is expected to increase journalists’ production rates, transform newsrooms’ economic models, and further personalize the audience’s news consumption practices. Since its release in 2022, OpenAI’s ChatGPT and other large language models have raised alarms within news organizations, not only for introducing new challenges to news reporting and fact-checking but also for what these technologies would mean for journalists’ professional authority. This paper examines how journalists in Dutch media integrate AI technologies into their daily routines. Drawing on 13 interviews with editors, journalists, and innovation managers across different news outlets and media companies, we use controlled change as an interpretative frame derived from empirical data to explain how journalists are proactively setting guidelines, experimenting with AI tools, and identifying their limitations and capabilities. Using professional authority as a theoretical framework, we argue that journalists anticipate and integrate AI technologies in a supervised manner and identify three primary mechanisms through which journalists manage this integration: (1) developing adaptive guidelines that align AI use with ethical codes, (2) experimenting with AI technologies to determine their necessity and fit, and (3) critically assessing the capabilities and limitations of AI systems.",
+        "url": "https://doi.org/10.1080/1461670x.2026.2616634",
         "topics_llm": true
       },
       {
@@ -2156,27 +2111,6 @@
         ],
         "abstract": "Autonomy is a fundamental requirement for the professional practice of journalism. However, while its role in ensuring well-informed audiences is widely acknowledged, the way in which audiences make sense of journalists’ autonomy remains unexplored. Similarly, the understanding of how audience perceptions of journalists’ autonomy, their attributed professionalism and authority, and the resulting impact on journalism practice remains incomplete. To address these gaps, this study conducts a qualitative analysis involving semi-structured interviews with 64 news users in Chile. Results show that journalists’ autonomy, from audiences’ view, is limited by labor forces and organizational influences. Journalists’ working conditions are perceived to be connected to high levels of editorial control, yielding a deficiency of autonomy that relegates journalists to a subservient role, compromising their professionalism, undermining their authority, and eroding the quality of the information they provide. Also, findings show that autonomy assumes a prominent role as a distinct form of authority when journalists diverge from conventional news norms, establishing a closer connection with their audience. Furthermore, independent journalists frequently garner recognition for their autonomy and credibility, attributed to their detachment from specific media outlets. The article delves into the implications of these findings for journalism studies and practice.",
         "url": "https://doi.org/10.1080/1461670x.2024.2416062",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2026.2616634",
-        "title": "On Controlled Change: Generative AI’s Impact on Professional Authority in Journalism",
-        "authors": [
-          "Tomás Dodds",
-          "Wang Ngai Yeung",
-          "Claudia Mellado",
-          "Mathias-Felipe de Lima-Santos"
-        ],
-        "year": 2026,
-        "citation_count": 7,
-        "topics": [
-          "Generative AI",
-          "Journalism",
-          "Professional authority",
-          "Media transformation"
-        ],
-        "abstract": "Using (generative) artificial intelligence tools and systems in journalism is expected to increase journalists’ production rates, transform newsrooms’ economic models, and further personalize the audience’s news consumption practices. Since its release in 2022, OpenAI’s ChatGPT and other large language models have raised alarms within news organizations, not only for introducing new challenges to news reporting and fact-checking but also for what these technologies would mean for journalists’ professional authority. This paper examines how journalists in Dutch media integrate AI technologies into their daily routines. Drawing on 13 interviews with editors, journalists, and innovation managers across different news outlets and media companies, we use controlled change as an interpretative frame derived from empirical data to explain how journalists are proactively setting guidelines, experimenting with AI tools, and identifying their limitations and capabilities. Using professional authority as a theoretical framework, we argue that journalists anticipate and integrate AI technologies in a supervised manner and identify three primary mechanisms through which journalists manage this integration: (1) developing adaptive guidelines that align AI use with ethical codes, (2) experimenting with AI technologies to determine their necessity and fit, and (3) critically assessing the capabilities and limitations of AI systems.",
-        "url": "https://doi.org/10.1080/1461670x.2026.2616634",
         "topics_llm": true
       },
       {
@@ -2251,26 +2185,6 @@
         ],
         "abstract": "This paper examines the relationship between journalism, caregiving, and family-building, focusing on women journalists in Portugal. Drawing on a critical thematic analysis of thirty interviews, it explores an analytic framework that includes cultural, structural, and agentic dimensions of career limitations, organised in three overarching themes. The first examines how women journalists experience work constraints stemming from traditional cultural ideals where women are still the main caregivers and work cultures that perpetuate a male perspective on professional routines. The second theme explores the mismatch between work and care responsibilities that arises from prevailing family structures and work processes. The third theme centres on how women journalists respond to constraints by making choices and developing strategies. Journalists’ reflexive deliberations about career decisions, employment conditions, family life and cultural assumptions underpinning parenthood demonstrate the complex interrelationship between cultural and working structures, organisational materiality, and agency. Together, these dimensions replicate patterns that make journalism more inhospitable for women. A central point in this research is that while a systemic gender bias exists beyond the sector, workplace inequalities are particularly consequential for journalism and democracy.",
         "url": "https://doi.org/10.1080/1461670x.2024.2420187",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1080/1461670x.2024.2412206",
-        "title": "Quantifying Community Interest: A Study on the Role of Audience Metrics in Hyperlocal Journalism",
-        "authors": [
-          "A. de Koning",
-          "Tomás Dodds",
-          "Astrid Vandendaele"
-        ],
-        "year": 2024,
-        "citation_count": 7,
-        "topics": [
-          "Hyperlocal journalism",
-          "Audience metrics",
-          "Community engagement",
-          "News consumption"
-        ],
-        "abstract": "This study examines how editors in Dutch hyperlocal newspapers use technologies for audience metrics in the news production process. As news organizations, especially small-scaled, low-budget ones, strive to engage and retain their readership, metrics analysis provides invaluable insights into audience preferences and behaviors. However, the use and misuse of audience metrics also risk increasing the dependency of small-budget newsrooms on media platforms and metrics technologies. Drawing from thirteen semi-structured interviews with ten editors and three managers from local news media conglomerates in South Holland, our findings reveal that editors and managers rely heavily on metrics such as clicks, views, and best-read stories to inform agenda-setting decisions. This reliance is further entrenched as these metrics are embedded in all-in-one editing suites, making them a constant presence and difficult to escape in the daily news production workflow. While editors in hyperlocal newsrooms display a generally positive attitude toward innovation and metrics adoption, they also demonstrate awareness of the risk of prioritizing “scoring” over “informing.” Although this article enhances our understanding of innovation in hyperlocal newsrooms and underscores the importance of audience metrics in shaping editorial choices, it also highlights the dependent position that small-scaled local newsrooms find themselves in.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2412206",
         "topics_llm": true
       },
       {
@@ -2370,25 +2284,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1080/1461670x.2024.2412205",
-        "title": "The Humanitarian Crisis in the Media: Framing Analysis of Rohingya-Related International News Using BERTopic",
-        "authors": [
-          "Md. Sayeed Al-Zaman",
-          "Mohammad Harun Or Rashid"
-        ],
-        "year": 2024,
-        "citation_count": 6,
-        "topics": [
-          "Media framing",
-          "Humanitarian crisis",
-          "Topic modeling",
-          "Rohingya"
-        ],
-        "abstract": "The Rohingya crisis is one of the most severe humanitarian tragedies of our time, yet its portrayal in international media often lacks justification. Utilizing BERTopic, a transformer-based semi-supervised topic modeling technique, we analyzed 8,074 news articles about the Rohingya crisis, spanning newspapers from ten countries between 2009 and 2023. We aimed to observe the framing of the Rohingya crisis across countries and track frames’ evolution over time. We identified eleven frames: Politics, Departure, Repatriation, Human Rights, Resettlement, Refuge, Relief, Crisis, Retribution, Condolence, and Press Freedom, with the Political frame as the most frequent. Notably, host and non-host countries differed in framing the crisis, with Retribution and Crisis frames exclusive to host countries’ media, while Resettlement and Press Freedom frames were exclusive to non-host countries’ media. Host countries focused on Repatriation, Human Rights, and Relief news, whereas non-host countries prioritized Politics, Departure, and Refuge frames. Additionally, neighboring host countries were less likely to publish news on Resettlement. Changes in frames displayed significant variability across countries, indicating a lack of consistently identifiable patterns and suggesting that news media's framing habits may prioritize national interests over the chronological progression of the crisis.",
-        "url": "https://doi.org/10.1080/1461670x.2024.2412205",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1080/1461670x.2025.2547302",
         "title": "What “Digital Literacies” Must Journalists Have? Unpacking How Journalists Define and Practice News Literacy, Data Literacy, and Algorithmic and AI Literacy in the Digital Age",
         "authors": [
@@ -2465,6 +2360,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1080/1461670x.2025.2462548",
+        "title": "Disruptions in Normalization: Reflexive Monitoring in Journalism Adaptation and Audience Collaboration",
+        "authors": [
+          "Gregory Perreault",
+          "Valérie Bélair‐Gagnon",
+          "Jennifer R. Henrichsen"
+        ],
+        "year": 2025,
+        "citation_count": 5,
+        "topics": [
+          "Journalism innovation",
+          "Normalization process theory",
+          "Audience collaboration",
+          "Professional routines"
+        ],
+        "abstract": "In the adaptation of innovations, journalists often reflect on areas of concern that can lead to subsequent selection, a strategic process of diminishing the practice of a routine. Through the lens of normalization process theory and structuration theory, this article explores how journalists reflexively monitor innovations. The article also elaborates on the ways journalists evaluate disruptive circumstances that can lead them to select routines for denormalization. Using 44 interviews with journalists from the United States, this study argues that reflexive monitoring occurs through collaborations with audiences: a key to helping re-center journalists on the viability of a routine with existing commitments.",
+        "url": "https://doi.org/10.1080/1461670x.2025.2462548",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1080/1461670x.2025.2462550",
         "title": "Broadcasting through the (New) Iron Curtain: Practices, Challenges, and Legacies of Russia's Independent Media in Exile",
         "authors": [
@@ -2518,6 +2433,26 @@
         ],
         "abstract": "Recent technological and political developments have caused researchers to reevaluate journalists’ relevance vis a vis other forms of media production, with some calling for a “decentering” of journalism within broader media cultures. While there has been sizeable growth in research concerning the impacts of new digital technologies on journalism, we call for a renewed focus on partisan media. We contend that the future of journalism studies necessarily involves a reckoning with right-wing news cultures and note four areas where further research is especially necessary: including theorizing how conservative news influences and its epistemological assumptions, as well as right-wing media’s increasing salience across a diverse array of communities in the U.S. and across the globe. We intend this essay as a provocation to journalism studies scholars, with the goal of effecting a robust and reflexive subfield devoted to the study of right-wing news.",
         "url": "https://doi.org/10.1080/1461670x.2025.2454344",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1080/1461670x.2024.2414340",
+        "title": "Examining Journalists’ Adoption of Social Media Tools in Contexts of Precarity",
+        "authors": [
+          "Soheil Kafiliveyjuyeh",
+          "Feyyaz Fırat",
+          "Ruth Moon"
+        ],
+        "year": 2024,
+        "citation_count": 5,
+        "topics": [
+          "Journalism",
+          "Social media adoption",
+          "Precarity",
+          "News production"
+        ],
+        "abstract": "Digital technologies have changed journalists’ work practices and their roles with far-reaching effects for news production. While many studies focus on the ways social media transforms editorial processes, much of this research examines fully democratic Western countries. We examine how journalists in Turkey, who occupy particularly precarious social positions, incorporate social media tools into their routines, and the effects of these tools on journalistic role conceptions. To understand this, we analyzed 10 interviews with Turkish editors and reporters from popular Turkish news outlets. These journalists say their roles are shifting from active news formation to passive information relay — they are becoming aggregators rather than reporters. And while social networking sites increase the volume of newsworthy ideas that journalists encounter, they also increase the pressure on editors and reporters to compete with other news outlets. The organizations we studied did not employ separate fact-checking teams or software for news verification, leading to workflow challenges around verifying large quantities of information collected from social media. Our findings suggest that journalists in precarious positions might be especially reliant on social media logics in their daily work since they lack the social, political, and occupational security to improvise or resist new practices and values.",
+        "url": "https://doi.org/10.1080/1461670x.2024.2414340",
         "topics_llm": true
       }
     ]

@@ -1,9 +1,29 @@
 {
   "journal_id": "human_communication_research",
-  "updated_at": "2026-10-05T13:39:48Z",
-  "trending_from": "2024-10-05",
+  "updated_at": "2026-10-12T14:28:46Z",
+  "trending_from": "2024-10-12",
   "sections": {
     "most_cited": [
+      {
+        "doi": "10.1093/hcr/28.4.587",
+        "title": "Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability",
+        "authors": [
+          "Matthew Lombard",
+          "Jennifer Snyder‐Duch",
+          "Cheryl Campanella Bracken"
+        ],
+        "year": 2002,
+        "citation_count": 3033,
+        "topics": [
+          "Content analysis",
+          "Intercoder reliability",
+          "Research methodology",
+          "Mass communication"
+        ],
+        "abstract": "As a method specifically intended for the study of messages, content analysis is fundamental to mass communication research. Intercoder reliability, more specifically termed intercoder agreement, is a measure of the extent to which independent judges make the same coding decisions in evaluating the characteristics of messages, and is at the heart of this method. Yet there are few standard and accessible guidelines available regarding the appropriate procedures to use to assess and report intercoder reliability, or software tools to calculate it. As a result, it seems likely that there is little consistency in how this critical element of content analysis is assessed and reported in published mass communication studies. Following a review of relevant concepts, indices, and tools, a content analysis of 200 studies utilizing content analysis published in the communication literature between 1994 and 1998 is used to characterize practices in the field. The results demonstrate that mass communication researchers often fail to assess (or at least report) intercoder reliability and often rely on percent agreement, an overly liberal index. Based on the review and these results, concrete guidelines are offered regarding procedures for assessment and reporting of this important aspect of content analysis.",
+        "url": "https://doi.org/10.1093/hcr/28.4.587",
+        "topics_llm": true
+      },
       {
         "doi": "10.1111/j.1468-2958.1975.tb00258.x",
         "title": "SOME EXPLORATIONS IN INITIAL INTERACTION AND BEYOND: TOWARD A DEVELOPMENTAL THEORY OF INTERPERSONAL COMMUNICATION",
@@ -12,7 +32,7 @@
           "Richard J. Calabrese"
         ],
         "year": 1975,
-        "citation_count": 3017,
+        "citation_count": 3000,
         "topics": [
           "Interpersonal communication",
           "Relationship development",
@@ -24,33 +44,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2002.tb00826.x",
-        "title": "Content Analysis in Mass Communication: Assessment and Reporting of Intercoder Reliability",
-        "authors": [
-          "Matthew Lombard",
-          "Jennifer Snyder‐Duch",
-          "Cheryl Campanella Bracken"
-        ],
-        "year": 2002,
-        "citation_count": 2968,
-        "topics": [
-          "Content analysis",
-          "Intercoder reliability",
-          "Mass communication methodology",
-          "Research assessment"
-        ],
-        "abstract": "As a method specifically intended for the study of messages, content analysis is fundamental to mass communication research. Intercoder reliability, more specifically termed intercoder agreement, is a measure of the extent to which independent judges make the same coding decisions in evaluating the characteristics of messages, and is at the heart of this method. Yet there are few standard and accessible guidelines available regarding the appropriate procedures to use to assess and report intercoder reliability, or software tools to calculate it. As a result, it seems likely that there is little consistency in how this critical element of content analysis is assessed and reported in published mass communication studies. Following a review of relevant concepts, indices, and tools, a content analysis of 200 studies utilizing content analysis published in the communication literature between 1994 and 1998 is used to characterize practices in the field. The results demonstrate that mass communication researchers often fail to assess (or at least report) intercoder reliability and often rely on percent agreement, an overly liberal index. Based on the review and these results, concrete guidelines are offered regarding procedures for assessment and reporting of this important aspect of content analysis.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00826.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1468-2958.2004.tb00738.x",
         "title": "Reliability in Content Analysis.",
         "authors": [
           "Klaus Krippendorff"
         ],
         "year": 2004,
-        "citation_count": 2146,
+        "citation_count": 2128,
         "topics": [
           "Content analysis",
           "Research methodology",
@@ -69,7 +69,7 @@
           "Jeremy N. Bailenson"
         ],
         "year": 2007,
-        "citation_count": 2125,
+        "citation_count": 2109,
         "topics": [
           "Avatar representation",
           "Virtual environments",
@@ -81,22 +81,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2002.tb00811.x",
+        "doi": "10.1093/hcr/28.3.317",
         "title": "Computer-Mediated Communication Effects on Disclosure, Impressions, and Interpersonal Evaluations: Getting to Know One Another a Bit at a Time",
         "authors": [
           "Lisa Collins Tidwell",
           "Joseph B. Walther"
         ],
         "year": 2002,
-        "citation_count": 1216,
+        "citation_count": 1239,
         "topics": [
-          "Computer-Mediated Communication",
+          "Computer-mediated communication",
           "Self-disclosure",
-          "Impression Formation",
-          "Interpersonal Relationships"
+          "Uncertainty reduction",
+          "Initial interactions"
         ],
         "abstract": "This investigation examined how computer-mediated communication (CMC) partners exchange personal information in initial interactions, focusing on the effects of communication channels on self-disclosure, question-asking, and uncertainty reduction. Unacquainted individuals (N = 158) met either face-to-face or via CMC. Computer-mediated interactants exhibited a greater proportion of more direct and intimate uncertainty reduction behaviors than unmediated participants did, and demonstrated significantly greater gains in attributional confidence over the course of the conversations. The use of direct strategies by mediated interactants resulted in judgments of greater conversational effectiveness by partners. Results illuminate some microstructures previously asserted but unverified within social information processing theory (Walther, 1992), and extend uncertainty reduction theory (Berger & Calabrese, 1975) to CMC interaction.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00811.x",
+        "url": "https://doi.org/10.1093/hcr/28.3.317",
         "topics_llm": true
       },
       {
@@ -108,7 +108,7 @@
           "Robert A. Powell"
         ],
         "year": 1985,
-        "citation_count": 1139,
+        "citation_count": 1135,
         "topics": [
           "Parasocial interaction",
           "Loneliness",
@@ -131,7 +131,7 @@
           "Sam Heyman"
         ],
         "year": 1996,
-        "citation_count": 1104,
+        "citation_count": 1097,
         "topics": [
           "Cross-cultural communication",
           "Individualism-collectivism",
@@ -151,7 +151,7 @@
           "CHESTER D. COOK"
         ],
         "year": 1977,
-        "citation_count": 1031,
+        "citation_count": 1024,
         "topics": [
           "Innovativeness measurement",
           "Scale development",
@@ -169,7 +169,7 @@
           "Klaus Krippendorff"
         ],
         "year": 2004,
-        "citation_count": 1022,
+        "citation_count": 1014,
         "topics": [
           "Content analysis",
           "Reliability",
@@ -188,7 +188,7 @@
           "Judee K. Burgoon"
         ],
         "year": 1992,
-        "citation_count": 1001,
+        "citation_count": 996,
         "topics": [
           "Computer-mediated communication",
           "Relational communication",
@@ -200,22 +200,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2002.tb00828.x",
+        "doi": "10.1093/hcr/28.4.612",
         "title": "Eta Squared, Partial Eta Squared, and Misreporting of Effect Size in Communication Research",
         "authors": [
           "Timothy R. Levine",
           "Craig R. Hullett"
         ],
         "year": 2002,
-        "citation_count": 983,
+        "citation_count": 995,
         "topics": [
           "Effect size reporting",
-          "ANOVA statistics",
-          "Research methodology",
-          "Statistical software"
+          "Statistical methodology",
+          "ANOVA",
+          "Communication research"
         ],
         "abstract": "Communication researchers, along with social scientists from a variety of disciplines, are increasingly recognizing the importance of reporting effect sizes to augment significance tests. Serious errors in the reporting of effect sizes, however, have appeared in recently published articles. This article calls for accurate reporting of estimates of effect size. Eta squared (η2) is the most commonly reported estimate of effect sized for the ANOVA. The classical formulation of eta squared (Pearson, 1911; Fisher, 1928) is distinguished from the lesser known partial eta squared (Cohen, 1973), and a mislabeling problem in the statistical software SPSS (1998) is identified. What SPSS reports as eta squared is really partial eta squared. Hence, researchers obtaining estimates of eta squared from SPSS are at risk of reporting incorrect values. Several simulations are reported to demonstrate critical issues. The strengths and limitations of several estimates of effect size used in ANOVA are discussed, as are the implications of the reporting errors. A list of suggestions for researchers is then offered.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00828.x",
+        "url": "https://doi.org/10.1093/hcr/28.4.612",
         "topics_llm": true
       },
       {
@@ -225,7 +225,7 @@
           "James C. McCroskey"
         ],
         "year": 1977,
-        "citation_count": 893,
+        "citation_count": 888,
         "topics": [
           "Oral communication apprehension",
           "Communication anxiety",
@@ -247,7 +247,7 @@
           "Stephanie Tom Tong"
         ],
         "year": 2008,
-        "citation_count": 772,
+        "citation_count": 768,
         "topics": [
           "Social media",
           "Impression formation",
@@ -265,7 +265,7 @@
           "Ronald E. Rice"
         ],
         "year": 1993,
-        "citation_count": 728,
+        "citation_count": 724,
         "topics": [
           "Media appropriateness",
           "Organizational communication",
@@ -274,25 +274,6 @@
         ],
         "abstract": "This study assesses a scale measuring appropriateness of media for a variety of organizational communication activities and then compares seven media across six organizational sites. The ranking of media were face-to-face, telephone, meetings, desktop video and videoconferencing, voice mail, text, and electronic mail. Although information exchange and socioemotional relations dimensions emerged, the first provided a parsimonious solution. Multidimensional scaling placed traditional media in separate clusters, and new media together with some instances of text and phone, along interpersonal-mediated and synchronous-asynchronous axes. The appropriateness of face-to-face and meetings did not change over time, whereas ratings of phone and text (to some extent) and new media did. Appropriateness of new media was weakly associated with use. finally, there was very little evidence of social information processing influence on appropriateness, except for organizational newcomers’ratings of the newest medium, desktop video.",
         "url": "https://doi.org/10.1111/j.1468-2958.1993.tb00309.x",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1111/j.1468-2958.2009.01367.x",
-        "title": "Explaining the Effects of Narrative in an Entertainment Television Program: Overcoming Resistance to Persuasion",
-        "authors": [
-          "Emily Moyer‐Gusé",
-          "Robin L. Nabi"
-        ],
-        "year": 2009,
-        "citation_count": 727,
-        "topics": [
-          "Entertainment-education",
-          "Narrative persuasion",
-          "Resistance to persuasion",
-          "Health communication"
-        ],
-        "abstract": "Research has examined the ability of entertainment-education (E-E) programs to influence behavior across a variety of health and social issues. However, less is known about the underlying mechanisms that account for these effects. In keeping with the extended elaboration likelihood model (E-ELM) and the entertainment overcoming resistance model (EORM), we examined how story features, such as narrative transportation and involvement with characters, may reduce three forms of resistance to persuasion—reactance, counterarguing, and perceived invulnerability. In a between-subjects experiment, 367 undergraduates viewed either a dramatic narrative or a nonnarrative program about the difficult consequences of an unplanned teen pregnancy. Participants completed a questionnaire assessing their reactions to the program immediately after viewing and again 2 weeks later. Consistent with predictions derived from the EORM and E-ELM, the dramatic narrative reduced reactance by fostering parasocial interaction with characters and decreasing perceptions of persuasive intent. Also as expected, identification with characters in the narrative reduced counterarguing and increased perceived vulnerability to unplanned pregnancy—although the latter occurred only at the delayed posttest 2 weeks after exposure. Unexpectedly, transportation into the dramatic narrative was associated with greater counterarguing. Taken together, this research demonstrates that investigating narrative influence from the perspective of overcoming resistance is a useful approach. Findings also suggest important differences in how individuals process narrative and nonnarrative messages.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2009.01367.x",
         "topics_llm": true
       },
       {
@@ -315,6 +296,25 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1468-2958.2009.01367.x",
+        "title": "Explaining the Effects of Narrative in an Entertainment Television Program: Overcoming Resistance to Persuasion",
+        "authors": [
+          "Emily Moyer‐Gusé",
+          "Robin L. Nabi"
+        ],
+        "year": 2009,
+        "citation_count": 709,
+        "topics": [
+          "Entertainment-education",
+          "Narrative persuasion",
+          "Resistance to persuasion",
+          "Health communication"
+        ],
+        "abstract": "Research has examined the ability of entertainment-education (E-E) programs to influence behavior across a variety of health and social issues. However, less is known about the underlying mechanisms that account for these effects. In keeping with the extended elaboration likelihood model (E-ELM) and the entertainment overcoming resistance model (EORM), we examined how story features, such as narrative transportation and involvement with characters, may reduce three forms of resistance to persuasion—reactance, counterarguing, and perceived invulnerability. In a between-subjects experiment, 367 undergraduates viewed either a dramatic narrative or a nonnarrative program about the difficult consequences of an unplanned teen pregnancy. Participants completed a questionnaire assessing their reactions to the program immediately after viewing and again 2 weeks later. Consistent with predictions derived from the EORM and E-ELM, the dramatic narrative reduced reactance by fostering parasocial interaction with characters and decreasing perceptions of persuasive intent. Also as expected, identification with characters in the narrative reduced counterarguing and increased perceived vulnerability to unplanned pregnancy—although the latter occurred only at the delayed posttest 2 weeks after exposure. Unexpectedly, transportation into the dramatic narrative was associated with greater counterarguing. Taken together, this research demonstrates that investigating narrative influence from the perspective of overcoming resistance is a useful approach. Findings also suggest important differences in how individuals process narrative and nonnarrative messages.",
+        "url": "https://doi.org/10.1111/j.1468-2958.2009.01367.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1986.tb00104.x",
         "title": "Experiments in Group Decision Making Communication Process and Outcome in Face-to-Face Versus Computerized Conferences",
         "authors": [
@@ -323,7 +323,7 @@
           "Murray Turoff"
         ],
         "year": 1986,
-        "citation_count": 659,
+        "citation_count": 654,
         "topics": [
           "Group decision making",
           "Computer-mediated communication",
@@ -342,7 +342,7 @@
           "Anne Bartsch"
         ],
         "year": 2009,
-        "citation_count": 652,
+        "citation_count": 647,
         "topics": [
           "Media gratification",
           "Film entertainment",
@@ -354,6 +354,26 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/hcr/28.2.258",
+        "title": "Information Seeking and Avoiding in Health Contexts",
+        "authors": [
+          "Dale E. Brashers",
+          "Daena J. Goldsmith",
+          "Elaine Hsieh"
+        ],
+        "year": 2002,
+        "citation_count": 640,
+        "topics": [
+          "Health communication",
+          "Information seeking and avoidance",
+          "Uncertainty management",
+          "Coping strategies"
+        ],
+        "abstract": "Information management is an important component of coping with illness and illness-related uncertainty. Normative theory and research on information seeking and avoiding in health contexts can help explain why some information management activities are more adaptive than others. Challenges and dilemmas of information management include relational demands (e.g., the need to coordinate the behaviors and goals of the participants) and contextual features (e.g., cross-cultural considerations or channels available for information seeking and providing). Issues that need to be addressed in a normative approach include (a) how information management goals can be accomplished while still accounting for other goals (e.g., identity management or relational maintenance), (b) what roles interpreters can play to facilitate effective cross-cultural information exchange (e.g., as cultural informants), and (c) how information seekers can best manage conflicting or overwhelming information when confronted with messages from multiple channels.",
+        "url": "https://doi.org/10.1093/hcr/28.2.258",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1987.tb00129.x",
         "title": "Audience Activity and Soap Opera Involvement A Uses and Effects Investigation",
         "authors": [
@@ -361,7 +381,7 @@
           "Elizabeth M. Perse"
         ],
         "year": 1987,
-        "citation_count": 638,
+        "citation_count": 637,
         "topics": [
           "Television viewing",
           "Soap operas",
@@ -373,33 +393,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2002.tb00807.x",
-        "title": "Information Seeking and Avoiding in Health Contexts",
-        "authors": [
-          "Dale E. Brashers",
-          "Daena J. Goldsmith",
-          "Elaine Hsieh"
-        ],
-        "year": 2002,
-        "citation_count": 630,
-        "topics": [
-          "Health communication",
-          "Information seeking and avoiding",
-          "Uncertainty management",
-          "Coping with illness"
-        ],
-        "abstract": "Information management is an important component of coping with illness and illness-related uncertainty. Normative theory and research on information seeking and avoiding in health contexts can help explain why some information management activities are more adaptive than others. Challenges and dilemmas of information management include relational demands (e.g., the need to coordinate the behaviors and goals of the participants) and contextual features (e.g., cross-cultural considerations or channels available for information seeking and providing). Issues that need to be addressed in a normative approach include (a) how information management goals can be accomplished while still accounting for other goals (e.g., identity management or relational maintenance), (b) what roles interpreters can play to facilitate effective cross-cultural information exchange (e.g., as cultural informants), and (c) how information seekers can best manage conflicting or overwhelming information when confronted with messages from multiple channels.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2002.tb00807.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1468-2958.1977.tb00518.x",
         "title": "EXPLICATION AND TEST OF A MODEL OF COMMUNICATIVE COMPETENCE",
         "authors": [
           "John M. Wiemann"
         ],
         "year": 1977,
-        "citation_count": 596,
+        "citation_count": 592,
         "topics": [
           "Communicative competence",
           "Interaction management",
@@ -418,7 +418,7 @@
           "Sampada Sameer Marathe"
         ],
         "year": 2010,
-        "citation_count": 586,
+        "citation_count": 581,
         "topics": [
           "Personalization",
           "User agency",
@@ -430,13 +430,33 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1093/hcr/26.3.341",
+        "title": "The formation of group norms in computer-mediated communication",
+        "authors": [
+          "Tom Postmes",
+          "Russell Spears",
+          "M. Lea"
+        ],
+        "year": 2000,
+        "citation_count": 555,
+        "topics": [
+          "Group norms",
+          "Computer-mediated communication",
+          "Social construction",
+          "Network analysis"
+        ],
+        "abstract": "The formation of group norms in computer-mediated communication (CMC) was examined among students who used e-mail as part of a course. A network analysis of group structures revealed that (a) content and form of communication is normative, group norms defining communication patterns within groups, (b) conformity to group norms increases over time, communication outside the group is governed by different social norms. Results show that norms prescribing a particular use of technology are socially constructed over time at the level of locally defined groups and also show that the influence of these norms is limited to the boundaries of the group. It is concluded that the process of social construction is restrained by social identities that become salient over the course of interaction via CMC. These findings complement experimental evidence that stresses the importance of normative influence in CMC.",
+        "url": "https://doi.org/10.1093/hcr/26.3.341",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1978.tb00603.x",
         "title": "A COMMUNICATION MODEL OF PERSONAL SPACE VIOLATIONS: EXPLICATION AND AN INITIAL TEST",
         "authors": [
           "Judee K. Burgoon"
         ],
         "year": 1978,
-        "citation_count": 546,
+        "citation_count": 544,
         "topics": [
           "Personal space",
           "Nonverbal communication",
@@ -454,7 +474,7 @@
           "Andrew F. Hayes"
         ],
         "year": 2006,
-        "citation_count": 542,
+        "citation_count": 530,
         "topics": [
           "Multilevel modeling",
           "Doctor-patient communication",
@@ -465,34 +485,14 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2000.tb00761.x",
-        "title": "The formation of group norms in computer-mediated communication",
-        "authors": [
-          "Tom Postmes",
-          "Russell Spears",
-          "M. Lea"
-        ],
-        "year": 2000,
-        "citation_count": 542,
-        "topics": [
-          "Group norms",
-          "Computer-mediated communication",
-          "Network analysis",
-          "Social construction"
-        ],
-        "abstract": "The formation of group norms in computer-mediated communication (CMC) was examined among students who used e-mail as part of a course. A network analysis of group structures revealed that (a) content and form of communication is normative, group norms defining communication patterns within groups, (b) conformity to group norms increases over time, communication outside the group is governed by different social norms. Results show that norms prescribing a particular use of technology are socially constructed over time at the level of locally defined groups and also show that the influence of these norms is limited to the boundaries of the group. It is concluded that the process of social construction is restrained by social identities that become salient over the course of interaction via CMC. These findings complement experimental evidence that stresses the importance of normative influence in CMC.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2000.tb00761.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1468-2958.2001.tb00779.x",
         "title": "Internet use in the contemporary media environment",
         "authors": [
-          "AJ Flanagin",
-          "MJ Metzger"
+          "Andrew J. Flanagin",
+          "Miriam J. Metzger"
         ],
         "year": 2006,
-        "citation_count": 521,
+        "citation_count": 519,
         "topics": [
           "Internet use",
           "Media choice",
@@ -504,24 +504,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2012.01443.x",
-        "title": "The Nature of Psychological Reactance Revisited: A Meta-Analytic Review",
-        "authors": [
-          "Stephen A. Rains"
-        ],
-        "year": 2012,
-        "citation_count": 519,
-        "topics": [
-          "Psychological reactance",
-          "Persuasion",
-          "Meta-analysis",
-          "Message effects"
-        ],
-        "abstract": "Psychological reactance (Brehm, 1966; Brehm & Brehm, 1981) has been a long-standing topic of interest among scholars studying the design and effects of persuasive messages and campaigns. Yet, until recently, reactance was considered to be a motivational state that could not be measured. Dillard and Shen (2005) argued that reactance can be conceptualized as cognition and affect and made amenable to direct measurement. This article revisits Dillard and Shen's (2005) questions about the nature of psychological reactance and reports a test designed to identify the best fitting model of reactance. A meta-analytic review of reactance research was conducted (K = 20, N = s4,942) and the results were used to test path models representing competing conceptualizations of reactance. The results offer evidence that the intertwined model—in which reactance is modeled as a latent factor with anger and counterarguments serving as indicators—best fit the data.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2012.01443.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1468-2958.1976.tb00494.x",
         "title": "CONCEPTUALIZATION AND MEASUREMENT OF REPORTED SELF-DISCLOSURE",
         "authors": [
@@ -529,7 +511,7 @@
           "JAMS GROTZ"
         ],
         "year": 1976,
-        "citation_count": 516,
+        "citation_count": 513,
         "topics": [
           "Self-disclosure",
           "Measurement",
@@ -541,13 +523,31 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1468-2958.2012.01443.x",
+        "title": "The Nature of Psychological Reactance Revisited: A Meta-Analytic Review",
+        "authors": [
+          "Stephen A. Rains"
+        ],
+        "year": 2012,
+        "citation_count": 508,
+        "topics": [
+          "Psychological reactance",
+          "Persuasion",
+          "Meta-analysis",
+          "Message effects"
+        ],
+        "abstract": "Psychological reactance (Brehm, 1966; Brehm & Brehm, 1981) has been a long-standing topic of interest among scholars studying the design and effects of persuasive messages and campaigns. Yet, until recently, reactance was considered to be a motivational state that could not be measured. Dillard and Shen (2005) argued that reactance can be conceptualized as cognition and affect and made amenable to direct measurement. This article revisits Dillard and Shen's (2005) questions about the nature of psychological reactance and reports a test designed to identify the best fitting model of reactance. A meta-analytic review of reactance research was conducted (K = 20, N = s4,942) and the results were used to test path models representing competing conceptualizations of reactance. The results offer evidence that the intertwined model—in which reactance is modeled as a latent factor with anger and counterarguments serving as indicators—best fit the data.",
+        "url": "https://doi.org/10.1111/j.1468-2958.2012.01443.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1980.tb00140.x",
         "title": "THE SOCIAL USES OF TELEVISION",
         "authors": [
           "James Lull"
         ],
         "year": 1980,
-        "citation_count": 508,
+        "citation_count": 507,
         "topics": [
           "Television viewing",
           "Uses and gratifications",
@@ -568,7 +568,7 @@
           "Felix Eschenburg"
         ],
         "year": 2008,
-        "citation_count": 507,
+        "citation_count": 502,
         "topics": [
           "Avatar-mediated communication",
           "Social presence",
@@ -588,7 +588,7 @@
           "John A. Daly"
         ],
         "year": 1975,
-        "citation_count": 502,
+        "citation_count": 496,
         "topics": [
           "Homophily",
           "Interpersonal communication",
@@ -600,25 +600,6 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2003.tb00844.x",
-        "title": "Perceived Risk and Efficacy Beliefs as Motivators of Change.",
-        "authors": [
-          "Rajiv N. Rimal",
-          "Kevin J. Real"
-        ],
-        "year": 2003,
-        "citation_count": 500,
-        "topics": [
-          "Risk perception",
-          "Efficacy beliefs",
-          "Health behavior change",
-          "Extended parallel process model"
-        ],
-        "abstract": "Evidence of a direct correlation between risk perception and self-protective behavior is ambiguous at best. Witte's (1992, 1994) extended parallel process model (EPPM) explains many contradictory findings by pointing out the moderating role played by efficacy beliefs. Working from the EPPM, this article introduces the risk perception attitude (RPA) framework that categorizes individuals into one of four attitudinal groups: responsive (high risk, high efficacy), avoidance (high risk, low efficacy), proactive (low risk, high efficacy), and indifference (low risk, low efficacy). We conducted two studies to test our hypotheses that these groups differ in their self-protective motivation, intention to seek information, behavioral intention, knowledge acquisition, and time spent seeking information. Results, though not entirely consistent, suggest that, when risk and efficacy are made salient (Study 1), people's risk perception guides most of their subsequent actions, but in a natural context (Study 2), risk and efficacy jointly affect subsequent action.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2003.tb00844.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1111/j.1468-2958.1986.tb00096.x",
         "title": "Measurement and Effects of Attention to Media News",
         "authors": [
@@ -626,7 +607,7 @@
           "Joan Schleuder"
         ],
         "year": 1986,
-        "citation_count": 496,
+        "citation_count": 493,
         "topics": [
           "Media attention",
           "News consumption",
@@ -635,6 +616,25 @@
         ],
         "abstract": "Survey measures of attention, in addition to the usual measures of exposure to media use, are explored in detail. Using data from a two-year longitudinal study of adolescents and their parents, the reliability and validity of self-report questions about attention to newspaper and television news are examined. Attention measures proved to be highly stable across three waves of interviews; repeated items were summed to form reliable indices of attention to each medium's news, and to general news topics without specific mention of medium. Changes in knowledge about public affairs and politics were assessed to test the effects of both exposure and attention to media news. These tests showed significant increments of knowledge gain associated with media attention, even after exposure to the medium was controlled in hierarchical regression analysis. Addition of the attention measures was especially important in evaluating television news, which contributes much more to public knowledge than has been suggested by previous studies that use only measures of TV exposure.",
         "url": "https://doi.org/10.1111/j.1468-2958.1986.tb00096.x",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1111/j.1468-2958.2003.tb00844.x",
+        "title": "Perceived Risk and Efficacy Beliefs as Motivators of Change.",
+        "authors": [
+          "Rajiv N. Rimal",
+          "Kevin J. Real"
+        ],
+        "year": 2003,
+        "citation_count": 492,
+        "topics": [
+          "Risk perception",
+          "Efficacy beliefs",
+          "Health behavior change",
+          "Extended parallel process model"
+        ],
+        "abstract": "Evidence of a direct correlation between risk perception and self-protective behavior is ambiguous at best. Witte's (1992, 1994) extended parallel process model (EPPM) explains many contradictory findings by pointing out the moderating role played by efficacy beliefs. Working from the EPPM, this article introduces the risk perception attitude (RPA) framework that categorizes individuals into one of four attitudinal groups: responsive (high risk, high efficacy), avoidance (high risk, low efficacy), proactive (low risk, high efficacy), and indifference (low risk, low efficacy). We conducted two studies to test our hypotheses that these groups differ in their self-protective motivation, intention to seek information, behavioral intention, knowledge acquisition, and time spent seeking information. Results, though not entirely consistent, suggest that, when risk and efficacy are made salient (Study 1), people's risk perception guides most of their subsequent actions, but in a natural context (Study 2), risk and efficacy jointly affect subsequent action.",
+        "url": "https://doi.org/10.1111/j.1468-2958.2003.tb00844.x",
         "topics_llm": true
       },
       {
@@ -648,7 +648,7 @@
           "Kimberly A. Potts"
         ],
         "year": 2007,
-        "citation_count": 495,
+        "citation_count": 489,
         "topics": [
           "Psychological Reactance",
           "Health Communication",
@@ -668,7 +668,7 @@
           "Asbjørn Følstad"
         ],
         "year": 2022,
-        "citation_count": 479,
+        "citation_count": 477,
         "topics": [
           "Human-AI relationships",
           "Social chatbots",
@@ -687,7 +687,7 @@
           "Janis Grotz"
         ],
         "year": 1977,
-        "citation_count": 478,
+        "citation_count": 473,
         "topics": [
           "Trust",
           "Self-disclosure",
@@ -706,7 +706,7 @@
           "William J. Brown"
         ],
         "year": 1995,
-        "citation_count": 464,
+        "citation_count": 459,
         "topics": [
           "Self-construal",
           "Collectivist communication",
@@ -723,7 +723,7 @@
           "Joseph B. Walther"
         ],
         "year": 1994,
-        "citation_count": 458,
+        "citation_count": 454,
         "topics": [
           "Computer-mediated communication",
           "Anticipated interaction",
@@ -741,7 +741,7 @@
           "Michael L. Hecht"
         ],
         "year": 1978,
-        "citation_count": 455,
+        "citation_count": 452,
         "topics": [
           "Interpersonal communication satisfaction",
           "Measurement scale development",
@@ -752,33 +752,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.2009.01366.x",
-        "title": "The Prevalence of Lying in America: Three Studies of Self-Reported Lies",
-        "authors": [
-          "Kim B. Serota",
-          "Timothy R. Levine",
-          "Franklin J. Boster"
-        ],
-        "year": 2009,
-        "citation_count": 445,
-        "topics": [
-          "Deception",
-          "Lying behavior",
-          "Self-report studies",
-          "Individual differences"
-        ],
-        "abstract": "This study addresses the frequency and the distribution of reported lying in the adult population. A national survey asked 1,000 U.S. adults to report the number of lies told in a 24-hour period. Sixty percent of subjects report telling no lies at all, and almost half of all lies are told by only 5% of subjects; thus, prevalence varies widely and most reported lies are told by a few prolific liars. The pattern is replicated in a reanalysis of previously published research and with a student sample. Substantial individual differences in lying behavior have implications for the generality of truth–lie base rates in deception detection experiments. Explanations concerning the nature of lying and methods for detecting lies need to account for this variation.",
-        "url": "https://doi.org/10.1111/j.1468-2958.2009.01366.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1093/hcr/27.3.409",
         "title": "The effects of violent video games on aggression. A meta-analysis",
         "authors": [
           "J. Sherry"
         ],
         "year": 2001,
-        "citation_count": 445,
+        "citation_count": 444,
         "topics": [
           "Video game violence",
           "Aggression",
@@ -790,13 +770,33 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1468-2958.2009.01366.x",
+        "title": "The Prevalence of Lying in America: Three Studies of Self-Reported Lies",
+        "authors": [
+          "Kim B. Serota",
+          "Timothy R. Levine",
+          "Franklin J. Boster"
+        ],
+        "year": 2009,
+        "citation_count": 438,
+        "topics": [
+          "Deception",
+          "Lying behavior",
+          "Self-report studies",
+          "Individual differences"
+        ],
+        "abstract": "This study addresses the frequency and the distribution of reported lying in the adult population. A national survey asked 1,000 U.S. adults to report the number of lies told in a 24-hour period. Sixty percent of subjects report telling no lies at all, and almost half of all lies are told by only 5% of subjects; thus, prevalence varies widely and most reported lies are told by a few prolific liars. The pattern is replicated in a reanalysis of previously published research and with a student sample. Substantial individual differences in lying behavior have implications for the generality of truth–lie base rates in deception detection experiments. Explanations concerning the nature of lying and methods for detecting lies need to account for this variation.",
+        "url": "https://doi.org/10.1111/j.1468-2958.2009.01366.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1986.tb00084.x",
         "title": "COMMUNICATION SATISFACTION, JOB SATISFACTION, AND JOB PERFORMANCE",
         "authors": [
           "J. David Pincus"
         ],
         "year": 1986,
-        "citation_count": 435,
+        "citation_count": 432,
         "topics": [
           "Organizational Communication",
           "Job Satisfaction",
@@ -815,7 +815,7 @@
           "John Waite Bowers"
         ],
         "year": 1991,
-        "citation_count": 433,
+        "citation_count": 431,
         "topics": [
           "Politeness theory",
           "Facework",
@@ -833,7 +833,7 @@
           "Sandi W. Smith"
         ],
         "year": 2007,
-        "citation_count": 422,
+        "citation_count": 419,
         "topics": [
           "Theory of planned behavior",
           "Organ donation",
@@ -851,7 +851,7 @@
           "Lawrence R. Wheeless"
         ],
         "year": 1978,
-        "citation_count": 420,
+        "citation_count": 417,
         "topics": [
           "Trust",
           "Self-disclosure",
@@ -863,6 +863,23 @@
         "topics_llm": true
       },
       {
+        "doi": "10.1111/j.1468-2958.1978.tb00600.x",
+        "title": "FOUNDATION OF A COMMUNICATOR STYLE CONSTRUCT",
+        "authors": [
+          "Robert Wayne Norton"
+        ],
+        "year": 1978,
+        "citation_count": 415,
+        "topics": [
+          "Communicator style",
+          "Communication variables",
+          "Interpersonal communication"
+        ],
+        "abstract": "The foundation of a communicator style construct is presented in this paper. The construct is stipulated to include communication variables which reflect the “way one verbally and paraverbally interacts to signal how literal meaning should be taken, interpreted, filtered, or understood.” Nine independent variables (dominant, dramatic, animated, open, contentious, relaxed, friendly, attentive, and impression leaving) and one dependent variable (communicator image) operationally define the construct. Two independent samples, the first with 80 subjects and 102 items and the second with 1,086 subjects and 51 items, are analyzed in terms of (1) how the variables cluster, (2) what dimensionality is embedded in the structure of intercorrelations, and (3) which variables best predict communicator image. Potentially, the construct provides a context for other communication variables, relates to perceptual processes, and explains interpersonal consequents.",
+        "url": "https://doi.org/10.1111/j.1468-2958.1978.tb00600.x",
+        "topics_llm": true
+      },
+      {
         "doi": "10.1111/j.1468-2958.1993.tb00305.x",
         "title": "A Comprehensive Model of Cancer-Related Information Seeking Applied to Magazines",
         "authors": [
@@ -870,7 +887,7 @@
           "Hendrika W. Meischke"
         ],
         "year": 1993,
-        "citation_count": 419,
+        "citation_count": 406,
         "topics": [
           "Health information seeking",
           "Cancer communication",
@@ -882,30 +899,13 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.1978.tb00600.x",
-        "title": "FOUNDATION OF A COMMUNICATOR STYLE CONSTRUCT",
-        "authors": [
-          "Robert Wayne Norton"
-        ],
-        "year": 1978,
-        "citation_count": 417,
-        "topics": [
-          "Communicator style",
-          "Communication variables",
-          "Interpersonal communication"
-        ],
-        "abstract": "The foundation of a communicator style construct is presented in this paper. The construct is stipulated to include communication variables which reflect the “way one verbally and paraverbally interacts to signal how literal meaning should be taken, interpreted, filtered, or understood.” Nine independent variables (dominant, dramatic, animated, open, contentious, relaxed, friendly, attentive, and impression leaving) and one dependent variable (communicator image) operationally define the construct. Two independent samples, the first with 80 subjects and 102 items and the second with 1,086 subjects and 51 items, are analyzed in terms of (1) how the variables cluster, (2) what dimensionality is embedded in the structure of intercorrelations, and (3) which variables best predict communicator image. Potentially, the construct provides a context for other communication variables, relates to perceptual processes, and explains interpersonal consequents.",
-        "url": "https://doi.org/10.1111/j.1468-2958.1978.tb00600.x",
-        "topics_llm": true
-      },
-      {
         "doi": "10.1093/hcr/27.1.153",
         "title": "Internet use in the contemporary media environment",
         "authors": [
           "Andrew J. Flanagin"
         ],
         "year": 2001,
-        "citation_count": 411,
+        "citation_count": 405,
         "topics": [
           "Digital media",
           "Internet adoption",
@@ -917,23 +917,22 @@
         "topics_llm": true
       },
       {
-        "doi": "10.1111/j.1468-2958.1990.tb00229.x",
-        "title": "Nonverbal Behaviors, Persuasion, and Credibility",
+        "doi": "10.1111/j.1468-2958.1976.tb00706.x",
+        "title": "TOWARD A THEORY OF PERSONAL SPACE EXPECTATIONS AND THEIR VIOLATIONS",
         "authors": [
           "Judee K. Burgoon",
-          "Thomas Birk",
-          "Michael William Pfau"
+          "STEPHEN B. JONES"
         ],
-        "year": 1990,
-        "citation_count": 399,
+        "year": 1976,
+        "citation_count": 396,
         "topics": [
+          "Proxemics",
+          "Personal space",
           "Nonverbal communication",
-          "Source credibility",
-          "Public speaking",
-          "Persuasion"
+          "Expectancy violations"
         ],
-        "abstract": "This study examined the relationships among nonverbal behaviors, dimensions of source credibility, and speaker persuasiveness in a public speaking context. Relevant nonverbal literature was organized according to a Brunswikian lens model. Nonverbal behavioral composites, grouped according to their likely proximal percepts, were hypothesized to significantly affect both credibility and persuasiveness. A sample of 60 speakers gave videotaped speeches that were judged on credibility and persuasiveness by classmates. Pairs of trained raters coded 22 vocalic, kinesic, and proxemic nonverbal behaviors evidenced in the tapes. Results confirmed numerous associations between nonverbal behaviors and attributions of credibility and persuasiveness. Greater perceived competence and composure were associated with greater vocal and facial pleasantness, with greater facial expressiveness contributing to competence perceptions. Greater sociability was associated with more kinesic/proxemic immediacy, dominance, and relaxation and with vocal pleasantness. Most of these same cues also enhanced character judgments. No cues were related to dynamism judgments. Greater perceived persuasiveness correlated with greater vocal pleasantness (especially fluency and pitch variety), kinesic/proxemic immediacy, facial expressiveness, and kinesic relaxation (especially high random movement but little tension). All five dimensions of credibility related to persuasiveness. Advantages of analyzing nonverbal cues according to proximal percepts are discussed.",
-        "url": "https://doi.org/10.1111/j.1468-2958.1990.tb00229.x",
+        "abstract": "Proxemics literature is synthesized and placed in a theoretical framework based on norms and expectations. Two major and three subordinate propositions are supported, and a model for predicting effects of violations of proxemic expectations is advanced. A sample of hypotheses generated from the model is included.",
+        "url": "https://doi.org/10.1111/j.1468-2958.1976.tb00706.x",
         "topics_llm": true
       }
     ],
@@ -1075,7 +1074,7 @@
           "Michael Scharkow"
         ],
         "year": 2025,
-        "citation_count": 3,
+        "citation_count": 2,
         "topics": [
           "Mood Management Theory",
           "Music streaming",
@@ -1216,7 +1215,7 @@
           "Christian von Sikorski"
         ],
         "year": 2025,
-        "citation_count": 8,
+        "citation_count": 10,
         "topics": [
           "Social media influencers",
           "Collective efficacy",
@@ -1275,7 +1274,7 @@
           "Leonard Reinecke"
         ],
         "year": 2025,
-        "citation_count": 4,
+        "citation_count": 3,
         "topics": [
           "Media coping",
           "Mood management",
@@ -1527,7 +1526,7 @@
           "Wenbo Li"
         ],
         "year": 2025,
-        "citation_count": 14,
+        "citation_count": 16,
         "topics": [
           "Media literacy",
           "Intervention effectiveness",
@@ -1860,7 +1859,7 @@
           "David M. Keating"
         ],
         "year": 2024,
-        "citation_count": 19,
+        "citation_count": 18,
         "topics": [
           "Message repetition",
           "Persuasion",
@@ -1881,7 +1880,7 @@
           "Magdalena Wojcieszak"
         ],
         "year": 2024,
-        "citation_count": 12,
+        "citation_count": 11,
         "topics": [
           "Fact-checking",
           "Misinformation correction",
@@ -1900,7 +1899,7 @@
           "Christian von Sikorski"
         ],
         "year": 2024,
-        "citation_count": 8,
+        "citation_count": 10,
         "topics": [
           "Affective polarization",
           "Content warnings",
@@ -1961,7 +1960,7 @@
           "Wenbo Li"
         ],
         "year": 2025,
-        "citation_count": 14,
+        "citation_count": 16,
         "topics": [
           "Media literacy",
           "Intervention effectiveness",
@@ -1970,6 +1969,25 @@
         ],
         "abstract": "We conducted a comprehensive meta-analysis of 160 media literacy interventions from 1983 to 2023, finding overall positive effects. Effects were larger for media-over behavior-relevant outcomes and for social over health topics. Stronger effects were found for knowledge outcomes at both immediate-post and delayed follow-up assessments. Attitudes and critical beliefs predicted behavior. No substantial decay in effects was observed between immediate-post and follow-up assessments for multiple outcomes but not for behavior. Interventions targeting social media showed smaller effects for some outcomes compared to those that did not. Online delivery had smaller effects for various outcomes compared to in-person delivery. These findings suggest challenges and opportunities regarding digital and social media for the interventions. Dose was inconsistently linked to outcomes. No significant relationship was found between study year and effect size. The heterogeneity of effects observed across variables suggests a need for more parsimonious frameworks in media literacy research.",
         "url": "https://doi.org/10.1093/hcr/hqaf004",
+        "topics_llm": true
+      },
+      {
+        "doi": "10.1093/hcr/hqaf024",
+        "title": "Social media influencers can increase collective political beliefs and actions: findings from experiments and a quasi-experimental field study",
+        "authors": [
+          "Pascal Merz",
+          "Christian von Sikorski"
+        ],
+        "year": 2025,
+        "citation_count": 10,
+        "topics": [
+          "Social media influencers",
+          "Collective efficacy",
+          "Political mobilization",
+          "Two-step flow of communication"
+        ],
+        "abstract": "Abstract The belief in the capabilities of one’s own group is crucial for joining collective action aimed at addressing large-scale societal crises like climate change. Drawing from the two-step flow of communication theory and behavioral models of collective action, we conducted two experimental studies and an innovative quasi-experimental field study (total N = 2,960). Across these studies, influencer messages increased collective response efficacy beliefs and political action intentions, particularly among followers with strong parasocial ties. Moreover, repeated exposure to an influencer’s message reinforced these effects. Our research underscores the potential of influencers in mobilizing collective political action within digital media environments.",
+        "url": "https://doi.org/10.1093/hcr/hqaf024",
         "topics_llm": true
       },
       {
@@ -1988,25 +2006,6 @@
         ],
         "abstract": "Abstract This meta-analysis reviews the findings from 49 studies (N = 23,336) examining the association between interparental conflict and children feeling caught between parents (also referred to as parent–child triangulation). The cumulative evidence indicates a moderate, meaningful relationship between interparental conflict and children feeling caught (r = .402, 95% confidence interval: .366, .437). On average, the positive association was stronger when researchers used: (a) samples that included both intact and post-divorce family members as opposed to only intact or post-divorce families; (b) samples that included young adult children as opposed to adolescent children; (c) cross-sectional as opposed to longitudinal research designs; (d) children’s reports of interparental conflict as opposed to parents’ reports or observational ratings; and (e) individuals as the unit of analysis as opposed to triads. Implications for developing a communication theory of feeling caught are discussed.",
         "url": "https://doi.org/10.1093/hcr/hqaf018",
-        "topics_llm": true
-      },
-      {
-        "doi": "10.1093/hcr/hqaf024",
-        "title": "Social media influencers can increase collective political beliefs and actions: findings from experiments and a quasi-experimental field study",
-        "authors": [
-          "Pascal Merz",
-          "Christian von Sikorski"
-        ],
-        "year": 2025,
-        "citation_count": 8,
-        "topics": [
-          "Social media influencers",
-          "Collective efficacy",
-          "Political mobilization",
-          "Two-step flow of communication"
-        ],
-        "abstract": "Abstract The belief in the capabilities of one’s own group is crucial for joining collective action aimed at addressing large-scale societal crises like climate change. Drawing from the two-step flow of communication theory and behavioral models of collective action, we conducted two experimental studies and an innovative quasi-experimental field study (total N = 2,960). Across these studies, influencer messages increased collective response efficacy beliefs and political action intentions, particularly among followers with strong parasocial ties. Moreover, repeated exposure to an influencer’s message reinforced these effects. Our research underscores the potential of influencers in mobilizing collective political action within digital media environments.",
-        "url": "https://doi.org/10.1093/hcr/hqaf024",
         "topics_llm": true
       },
       {
