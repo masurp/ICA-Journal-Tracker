@@ -5,12 +5,12 @@ const CITE_MODES = {
   most_cited: {
     key: 'most_cited',
     label: 'Most Cited',
-    tooltip: 'Ranked by total citation count (Crossref). Established, high-impact papers.',
+    tooltip: 'Ranked by total citation count (OpenAlex). Established, high-impact papers.',
   },
   trending: {
     key: 'trending',
     label: 'Trending',
-    tooltip: 'Papers published in the last 2 years, ranked by citation count. Shows what\'s gaining traction recently.',
+    tooltip: 'Papers from the last 2 years with at least 2 citations, ranked by citations per month since publication. Shows what\'s gaining traction now.',
   },
 };
 
@@ -50,9 +50,10 @@ const STOP_WORDS = new Set([
 ]);
 
 function topicColor(topic) {
+  const key = topic.toLowerCase();
   let hash = 0;
-  for (let i = 0; i < topic.length; i++) {
-    hash = (hash * 31 + topic.charCodeAt(i)) >>> 0;
+  for (let i = 0; i < key.length; i++) {
+    hash = (hash * 31 + key.charCodeAt(i)) >>> 0;
   }
   return TOPIC_PALETTE[hash % TOPIC_PALETTE.length];
 }
@@ -66,16 +67,23 @@ function renderTopics(topics) {
   return `<div class="paper-topics">${chips.join('')}</div>`;
 }
 
-function renderAuthorLinks(authors) {
+function renderAuthorLinks(authors, terms = null) {
   if (!authors || authors.length === 0) return '<span>Unknown authors</span>';
   const displayed = authors.slice(0, 3).map(name =>
-    `<a href="https://scholar.google.com/scholar?q=author%3A%22${encodeURIComponent(name)}%22" target="_blank" rel="noopener noreferrer">${escapeHtml(name)}</a>`
+    `<a href="https://scholar.google.com/scholar?q=author%3A%22${encodeURIComponent(name)}%22" target="_blank" rel="noopener noreferrer">${highlightText(name, terms)}</a>`
   );
   const suffix = authors.length > 3 ? ' et al.' : '';
   return displayed.join(', ') + suffix;
 }
 
-function renderCard(paper, rank) {
+// ── Sorting ──────────────────────────────────────────────────────────────────
+
+const byCitations = (a, b) => (b.citation_count || 0) - (a.citation_count || 0);
+// Falls back to the year for snapshots written before publication_date was stored
+const byNewest = (a, b) => String(b.publication_date || b.year || '').localeCompare(String(a.publication_date || a.year || ''));
+const byTrend = (a, b) => (b.trend_score ?? -1) - (a.trend_score ?? -1) || byCitations(a, b);
+
+function renderCard(paper, rank, { terms = null } = {}) {
   const rankStr = `#${rank}`;
   const yearStr = paper.year || '—';
   const citStr = paper.citation_count != null ? paper.citation_count.toLocaleString() : '—';
@@ -90,10 +98,11 @@ function renderCard(paper, rank) {
       ${renderTopics(paper.topics)}
       <div class="paper-title">
         <a href="${escapeHtml(paper.url)}" target="_blank" rel="noopener noreferrer">
-          ${escapeHtml(paper.title)}
+          ${highlightText(paper.title, terms)}
         </a>
       </div>
-      <div class="paper-authors">${renderAuthorLinks(paper.authors)}</div>
+      <div class="paper-authors">${renderAuthorLinks(paper.authors, terms)}</div>
+      ${terms ? renderAbstractSnippet(paper, terms) : ''}
       <div class="paper-footer">
         <div class="paper-meta">
           <span class="meta-badge">
@@ -156,6 +165,9 @@ function initModal() {
     if (btn) { openPaperModal(btn.dataset.doi); return; }
     if (e.target.id === 'paper-modal' || e.target.closest('.modal-close-btn')) closePaperModal();
 
+    const searchMore = e.target.closest('.search-more-btn');
+    if (searchMore) { showMoreSearchResults(searchMore); return; }
+
     const showMore = e.target.closest('.show-more-btn');
     if (showMore) {
       const container = showMore.closest('.section-col') || showMore.parentElement;
@@ -183,8 +195,13 @@ function renderPapersWithShowMore(papers) {
   return html + `<button class="show-more-btn">Show ${Math.min(SHOW_MORE_STEP, remaining)} more</button>`;
 }
 
+// Trending is the default view, unless a journal has too few trending papers to fill it
+function defaultCiteMode(data) {
+  return (data.sections?.trending?.length || 0) >= INITIAL_VISIBLE ? 'trending' : 'most_cited';
+}
+
 function renderCiteSection(data, journalId, journalColor) {
-  const mode = citeModeState[journalId] || 'trending';
+  const mode = citeModeState[journalId] || defaultCiteMode(data);
   const section = CITE_MODES[mode];
   const papers = data.sections?.[section.key] || [];
   const cardsHtml = papers.length > 0
@@ -277,7 +294,9 @@ function renderJournalTrendsSection(data, _journal, publisher) {
     `<button class="trends-toggle-btn journal-trends-btn ${journalTrendsMode === m ? 'active' : ''}" data-jmode="${m}" style="--toggle-color:${publisher.color}">${label}</button>`
   ).join('');
 
-  const yearRangeHtml = journalTrendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+  const yearRangeHtml = journalTrendsMode === 'alluvial'
+    ? renderYearRangeHtml(papers, journalTrendsYearMin, journalTrendsYearMax)
+    : '';
   const chart = journalTrendsMode === 'alluvial'
     ? renderAlluvialChart(papers, journalTrendsYearMin, journalTrendsYearMax)
     : renderTrendsChartHtml(papers, journalTrendsMode);
@@ -299,7 +318,9 @@ function renderJournalTrendsSection(data, _journal, publisher) {
 
 function refreshJournalTrendsControls(data) {
   const papers = collectPapersFromSections(data, journalTrendsSections);
-  const yearRangeHtml = journalTrendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+  const yearRangeHtml = journalTrendsMode === 'alluvial'
+    ? renderYearRangeHtml(papers, journalTrendsYearMin, journalTrendsYearMax)
+    : '';
   const el = document.getElementById('journal-trends-controls');
   if (el) {
     el.innerHTML = renderSectionFilterHtml(journalTrendsSections) + yearRangeHtml;
@@ -315,7 +336,6 @@ function refreshJournalTrendsChart(data) {
     el.innerHTML = journalTrendsMode === 'alluvial'
       ? renderAlluvialChart(papers, journalTrendsYearMin, journalTrendsYearMax)
       : renderTrendsChartHtml(papers, journalTrendsMode);
-    bindTrendsSearchLinks();
   }
 }
 
@@ -482,19 +502,19 @@ function renderSectionFilterHtml(activeSections) {
   ).join('')}</div>`;
 }
 
-function renderYearRangeHtml(papers) {
+function renderYearRangeHtml(papers, selectedMin, selectedMax) {
   const years = [...new Set(papers.filter(p => p.year).map(p => p.year))].sort((a, b) => a - b);
   if (years.length < 2) return '';
   return `<div class="year-range-filter">
     <span class="year-range-label">Years</span>
     <select class="year-range-select" id="year-min-select">
       <option value="">From</option>
-      ${years.map(y => `<option value="${y}" ${y == journalTrendsYearMin ? 'selected' : ''}>${y}</option>`).join('')}
+      ${years.map(y => `<option value="${y}" ${y == selectedMin ? 'selected' : ''}>${y}</option>`).join('')}
     </select>
     <span class="year-range-sep">–</span>
     <select class="year-range-select" id="year-max-select">
       <option value="">To</option>
-      ${years.map(y => `<option value="${y}" ${y == journalTrendsYearMax ? 'selected' : ''}>${y}</option>`).join('')}
+      ${years.map(y => `<option value="${y}" ${y == selectedMax ? 'selected' : ''}>${y}</option>`).join('')}
     </select>
   </div>`;
 }
@@ -533,17 +553,24 @@ function renderByYearChart(papers, yearMin, yearMax) {
   return rows ? `<div class="byyear-chart">${rows}</div>` : '<div class="empty-card">No topic data available.</div>';
 }
 
+const MAX_FLOW_YEARS = 10;
+
 function renderAlluvialChart(papers, yearMin = null, yearMax = null) {
   const byYear = aggregateTopicsByYear(papers);
   let years = Object.keys(byYear).map(Number).sort((a, b) => a - b);
   if (yearMin) years = years.filter(y => y >= yearMin);
   if (yearMax) years = years.filter(y => y <= yearMax);
-  if (years.length > 10) years = years.slice(-10);
+  let note = '';
+  if (years.length > MAX_FLOW_YEARS) {
+    note = `Showing the ${MAX_FLOW_YEARS} most recent of ${years.length} years with data (${years[0]}–${years[years.length - 1]}). Use the year filter to see earlier years.`;
+    years = years.slice(-MAX_FLOW_YEARS);
+  }
   if (years.length < 2) return '<div class="empty-card">Need papers from at least 2 different years. Try enabling "Most Cited".</div>';
 
+  // Top topics are picked within the displayed years only
   const totalCounts = {}, topicLabels = {};
-  for (const yearData of Object.values(byYear)) {
-    for (const [k, { count, label }] of Object.entries(yearData)) {
+  for (const yr of years) {
+    for (const [k, { count, label }] of Object.entries(byYear[yr])) {
       totalCounts[k] = (totalCounts[k] || 0) + count;
       topicLabels[k] = label;
     }
@@ -605,54 +632,24 @@ function renderAlluvialChart(papers, yearMin = null, yearMax = null) {
     svg += `<text x="${blockX(i) + blockW / 2}" y="${H - 4}" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.6" font-family="Inter,sans-serif">${years[i]}</text>`;
   }
 
-  return `<div class="alluvial-wrapper"><svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">${svg}</svg></div>`;
+  const noteHtml = note ? `<p class="alluvial-note">${escapeHtml(note)}</p>` : '';
+  return `${noteHtml}<div class="alluvial-wrapper"><svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto">${svg}</svg></div>`;
 }
 
-function renderHeatmapChart(papersByJournal) {
-  const allPapers = Object.values(papersByJournal).flat();
+// journalPapers: [{ journal, papers }] in nav order
+function renderHeatmapChart(journalPapers) {
+  const allPapers = journalPapers.flatMap(j => j.papers);
   const topTopics = extractTopKeywords(allPapers, 15).map(({ word }) => word);
   if (!topTopics.length) return '<div class="empty-card">No topic data available.</div>';
 
-  const journals = Object.keys(papersByJournal);
-  const ABBREVS = {
-    'Journal of Communication':                              'JOC',
-    'Human Communication Research':                          'HCR',
-    'Communication Theory':                                  'CT',
-    'Journal of Computer-Mediated Communication':            'JCMC',
-    'Communication, Culture & Critique':                     'CCC',
-    'Annals of the International Communication Association': 'Annals',
-    'Communication Research':                                'CR',
-    'New Media & Society':                                   'NMS',
-    'Social Media + Society':                                'SM+S',
-    'Mobile Media & Communication':                          'MMC',
-    'Political Communication':                               'PC',
-    'Information, Communication & Society':                  'ICS',
-    'Digital Journalism':                                    'DJ',
-    'Media Psychology':                                      'MP',
-    'Communication Methods and Measures':                    'CMM',
-    'Journal of Media Psychology':                           'JMP',
-    'Computational Communication Research':                  'CCR',
-    'Cyberpsychology, Behavior, and Social Networking':      'CBSN',
-    'Journalism':                                            'JOU',
-    'Journalism Studies':                                    'JS',
-    'Journalism & Mass Communication Quarterly':             'JMCQ',
-    'European Journal of Communication':                     'EJC',
-    'Communication Monographs':                              'CM',
-    'Journal of Broadcasting & Electronic Media':            'JBEM',
-    'Media and Communication':                               'M&C',
-  };
-  const abbrev = name => ABBREVS[name] || name.split(/\s+/).map(w => w[0]).join('').toUpperCase().slice(0, 5);
-
-  const header = `<div class="hm-cell hm-corner"></div>${journals.map(j =>
-    `<div class="hm-cell hm-header" title="${escapeHtml(j)}"><span class="hm-abbrev">${escapeHtml(abbrev(j))}</span></div>`
+  const header = `<div class="hm-cell hm-corner"></div>${journalPapers.map(({ journal }) =>
+    `<div class="hm-cell hm-header" title="${escapeHtml(journal.name)}"><span class="hm-abbrev">${escapeHtml(journal.short)}</span></div>`
   ).join('')}`;
 
   const rows = topTopics.map(tk => {
-    const cells = journals.map(jname => {
-      return (papersByJournal[jname] || []).filter(p =>
-        p.topics?.some(t => t.toLowerCase() === tk)
-      ).length;
-    });
+    const cells = journalPapers.map(({ papers }) =>
+      papers.filter(p => p.topics?.some(t => t.toLowerCase() === tk)).length
+    );
     const maxCount = Math.max(...cells, 1);
     return `<div class="hm-cell hm-topic">${escapeHtml(tk)}</div>${cells.map(count => {
       const alpha = count > 0 ? Math.max(0.1, (count / maxCount) * 0.85) : 0;
@@ -662,13 +659,13 @@ function renderHeatmapChart(papersByJournal) {
   }).join('');
 
   return `<div class="heatmap-scroll">
-    <div class="heatmap-grid" style="grid-template-columns:140px ${journals.map(() => '1fr').join(' ')}">${header}${rows}</div>
+    <div class="heatmap-grid" style="grid-template-columns:140px ${journalPapers.map(() => '1fr').join(' ')}">${header}${rows}</div>
   </div>`;
 }
 
-function renderOverviewTrendsChart(papers, papersByJournal) {
+function renderOverviewTrendsChart(papers, journalPapers) {
   if (trendsMode === 'alluvial') return renderAlluvialChart(papers, overviewTrendsYearMin, overviewTrendsYearMax);
-  if (trendsMode === 'heatmap') return renderHeatmapChart(papersByJournal);
+  if (trendsMode === 'heatmap') return renderHeatmapChart(journalPapers);
   return renderTrendsChartHtml(papers, trendsMode);
 }
 
@@ -693,30 +690,32 @@ function getOverviewTrendsPapers() {
 }
 
 function getOverviewPapersByJournal() {
-  const result = {};
+  const result = [];
   for (const pub of publishers) {
     for (const journal of pub.journals) {
       const data = dataCache[journal.id];
       if (!data) continue;
-      result[journal.name] = collectPapersFromSections(data, overviewTrendsSections);
+      result.push({ journal, papers: collectPapersFromSections(data, overviewTrendsSections) });
     }
   }
   return result;
 }
 
+function allJournals() {
+  return publishers.flatMap(p => p.journals);
+}
+
+function latestUpdatedAt() {
+  return allJournals().map(j => dataCache[j.id]?.updated_at).filter(Boolean).sort().pop();
+}
+
 // ── Overview ─────────────────────────────────────────────────────────────────
 
-let overviewActive = false;
-
-async function renderOverview() {
-  overviewActive = true;
+async function renderOverview(seq) {
   activeJournalId = null;
   activePublisherId = null;
 
-  document.querySelectorAll('.publisher-btn').forEach(b => {
-    b.classList.remove('active');
-    b.setAttribute('aria-selected', 'false');
-  });
+  setActivePublisherTab(null);
   document.querySelectorAll('.tab-btn').forEach(b => {
     b.classList.remove('active');
     b.setAttribute('aria-selected', 'false');
@@ -724,46 +723,44 @@ async function renderOverview() {
 
   document.getElementById('overview-btn')?.classList.add('active');
   document.getElementById('journal-tabs').innerHTML = '';
-
-  const searchInput = document.getElementById('search-input');
-  if (searchInput) searchInput.value = '';
+  document.documentElement.style.setProperty('--journal-color', 'var(--accent)');
 
   const main = document.getElementById('main-content');
   main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading overview…</p></div>`;
 
   await loadAllJournals();
+  if (seq !== renderSeq) return;
 
   // Build per-section aggregates for the top-papers cards
   const bySection = { most_cited: [], trending: [], latest: [] };
   const seenPerSection = { most_cited: new Set(), trending: new Set(), latest: new Set() };
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      const data = dataCache[journal.id];
-      if (!data) continue;
-      for (const [sectionKey, papers] of Object.entries(data.sections)) {
-        if (!(sectionKey in bySection)) continue;
-        for (const paper of papers) {
-          if (paper.doi && !seenPerSection[sectionKey].has(paper.doi)) {
-            seenPerSection[sectionKey].add(paper.doi);
-            bySection[sectionKey].push({ ...paper, _journalName: journal.name });
-          }
+  for (const journal of allJournals()) {
+    const data = dataCache[journal.id];
+    if (!data) continue;
+    for (const [sectionKey, papers] of Object.entries(data.sections)) {
+      if (!(sectionKey in bySection)) continue;
+      for (const paper of papers) {
+        if (paper.doi && !seenPerSection[sectionKey].has(paper.doi)) {
+          seenPerSection[sectionKey].add(paper.doi);
+          bySection[sectionKey].push({ ...paper, _journalName: journal.name });
         }
       }
     }
   }
 
   const overviewData = {
-    trending_from: Object.values(dataCache)[0]?.trending_from,
+    trending_from: allJournals().map(j => dataCache[j.id]?.trending_from).find(Boolean),
     sections: {
-      most_cited: bySection.most_cited.sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0)).slice(0, 50),
-      trending:   bySection.trending.sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0)).slice(0, 50),
-      latest:     bySection.latest.sort((a, b) => (b.year || 0) - (a.year || 0)).slice(0, 50),
+      most_cited: bySection.most_cited.sort(byCitations).slice(0, 50),
+      trending:   bySection.trending.sort(byTrend).slice(0, 50),
+      latest:     bySection.latest.sort(byNewest).slice(0, 50),
     },
   };
   dataCache['_overview'] = overviewData;
+  setLastUpdated(latestUpdatedAt());
 
   const accentColor = 'var(--accent)';
-  const totalJournals = publishers.reduce((n, p) => n + p.journals.length, 0);
+  const totalJournals = allJournals().length;
 
   function trendsSubText(papers) {
     const n = papers.length;
@@ -799,7 +796,7 @@ async function renderOverview() {
             </div>
             <div class="trends-controls-row">
               ${renderSectionFilterHtml(overviewTrendsSections)}
-              <div id="overview-year-range">${trendsMode === 'alluvial' ? renderYearRangeHtml(trendsPapers) : ''}</div>
+              <div id="overview-year-range">${trendsMode === 'alluvial' ? renderYearRangeHtml(trendsPapers, overviewTrendsYearMin, overviewTrendsYearMax) : ''}</div>
             </div>
           </div>
         </div>
@@ -820,25 +817,23 @@ async function renderOverview() {
     document.getElementById('trends-sub').textContent = trendsSubText(papers);
     document.getElementById('trends-chart').innerHTML  = renderOverviewTrendsChart(papers, byJournal);
     const yrEl = document.getElementById('overview-year-range');
-    if (yrEl) yrEl.innerHTML = trendsMode === 'alluvial' ? renderYearRangeHtml(papers) : '';
+    if (yrEl) yrEl.innerHTML = trendsMode === 'alluvial' ? renderYearRangeHtml(papers, overviewTrendsYearMin, overviewTrendsYearMax) : '';
     bindOverviewYearRange();
-    bindTrendsSearchLinks();
+  }
+
+  function refreshOverviewChart() {
+    document.getElementById('trends-chart').innerHTML =
+      renderOverviewTrendsChart(getOverviewTrendsPapers(), getOverviewPapersByJournal());
   }
 
   function bindOverviewYearRange() {
     document.getElementById('year-min-select')?.addEventListener('change', e => {
       overviewTrendsYearMin = e.target.value ? Number(e.target.value) : null;
-      const papers = getOverviewTrendsPapers();
-      const byJournal = getOverviewPapersByJournal();
-      document.getElementById('trends-chart').innerHTML = renderOverviewTrendsChart(papers, byJournal);
-      bindTrendsSearchLinks();
+      refreshOverviewChart();
     });
     document.getElementById('year-max-select')?.addEventListener('change', e => {
       overviewTrendsYearMax = e.target.value ? Number(e.target.value) : null;
-      const papers = getOverviewTrendsPapers();
-      const byJournal = getOverviewPapersByJournal();
-      document.getElementById('trends-chart').innerHTML = renderOverviewTrendsChart(papers, byJournal);
-      bindTrendsSearchLinks();
+      refreshOverviewChart();
     });
   }
 
@@ -870,19 +865,6 @@ async function renderOverview() {
   });
 
   bindOverviewYearRange();
-  bindTrendsSearchLinks();
-}
-
-function bindTrendsSearchLinks() {
-  document.querySelectorAll('[data-search]').forEach(el => {
-    el.addEventListener('click', () => {
-      const query = el.dataset.search;
-      const searchInput = document.getElementById('search-input');
-      if (searchInput) searchInput.value = query;
-      performSearch(query);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
-  });
 }
 
 let overviewTrendsSections = new Set(['trending', 'latest']);
@@ -934,9 +916,12 @@ function renderTrendsChartHtml(papers, mode = trendsMode) {
 // ── Search ───────────────────────────────────────────────────────────────────
 
 let searchDebounce = null;
-let searchResults = [];
-let searchQuery = '';
-let searchFilter = 'all';
+let searchState = null;   // { params, terms, results, sectionCounts, shown }
+let searchIndex = [];     // one entry per unique DOI across all journals
+let searchIndexKey = '';  // which journals the index was built from
+let searchYears = [];
+
+const SEARCH_PAGE = 20;
 
 const SEARCH_FILTERS = [
   { key: 'all',        label: 'All' },
@@ -945,35 +930,307 @@ const SEARCH_FILTERS = [
   { key: 'latest',     label: 'Latest' },
 ];
 
+const SEARCH_SORTS = [
+  ['relevance', 'Relevance'],
+  ['citations', 'Most cited'],
+  ['newest',    'Newest'],
+];
+
+// Relevance weight of a match in: title, authors, topics, abstract
+const FIELD_WEIGHTS = [3, 2, 3, 1];
+
 function initSearch() {
   const input = document.getElementById('search-input');
   if (!input) return;
   input.addEventListener('input', () => {
     clearTimeout(searchDebounce);
     const q = input.value.trim();
-    if (!q) {
-      restoreJournalView();
-      return;
-    }
-    searchDebounce = setTimeout(() => performSearch(q), 250);
+    searchDebounce = setTimeout(() => {
+      if (!q) {
+        if (currentRoute.view === 'search') navigate(lastBrowseRoute);
+        return;
+      }
+      // Typing refines the current search in place; filters are kept
+      const inSearch = currentRoute.view === 'search';
+      navigate({ ...SEARCH_DEFAULTS, ...(inSearch ? currentRoute : {}), view: 'search', q }, { replace: inSearch });
+    }, q ? 250 : 0);
   });
 }
 
-async function loadAllJournals() {
-  const fetches = [];
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      if (!dataCache[journal.id]) {
-        fetches.push(
-          fetch(`data/${journal.id}.json`)
-            .then(r => r.ok ? r.json() : null)
-            .then(data => { if (data) { dataCache[journal.id] = data; indexJournalData(data, journal.name); } })
-            .catch(() => {})
-        );
+// Words and "quoted phrases", lowercased and deduplicated
+function parseSearchTerms(q) {
+  const terms = [];
+  for (const m of q.matchAll(/"([^"]+)"|(\S+)/g)) {
+    const term = (m[1] ?? m[2]).replace(/"/g, '').trim().toLowerCase();
+    if (term && !terms.includes(term)) terms.push(term);
+  }
+  return terms;
+}
+
+function escapeRegExp(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// Matches at the start of a word, so "ai" finds "AI ethics" but not "said"
+function termRegex(term, flags = 'iu') {
+  return new RegExp(`(^|[^\\p{L}\\p{N}])(${escapeRegExp(term)})`, flags);
+}
+
+function highlightText(text, terms) {
+  if (!text) return '';
+  if (!terms?.length) return escapeHtml(text);
+  const ranges = [];
+  for (const term of terms) {
+    for (const m of text.matchAll(termRegex(term, 'giu'))) {
+      const start = m.index + m[1].length;
+      ranges.push([start, start + m[2].length]);
+    }
+  }
+  if (!ranges.length) return escapeHtml(text);
+  ranges.sort((a, b) => a[0] - b[0]);
+  let html = '', pos = 0;
+  for (const [start, end] of ranges) {
+    if (end <= pos) continue;
+    const from = Math.max(start, pos);
+    html += escapeHtml(text.slice(pos, from)) + `<mark>${escapeHtml(text.slice(from, end))}</mark>`;
+    pos = end;
+  }
+  return html + escapeHtml(text.slice(pos));
+}
+
+// Shows where a term matched when it only appears in the abstract
+function renderAbstractSnippet(paper, terms) {
+  const abstract = paper.abstract;
+  if (!abstract || !terms.length) return '';
+  const visible = [paper.title, ...(paper.authors || []), ...(paper.topics || [])].join(' · ');
+  const term = terms.find(t => !termRegex(t).test(visible) && termRegex(t).test(abstract));
+  if (!term) return '';
+  const m = termRegex(term).exec(abstract);
+  const hit = m.index + m[1].length;
+  let start = Math.max(0, hit - 90);
+  if (start > 0) {
+    const space = abstract.indexOf(' ', start);
+    if (space !== -1 && space < hit) start = space + 1;
+  }
+  let end = Math.min(abstract.length, hit + 160);
+  if (end < abstract.length) {
+    const space = abstract.lastIndexOf(' ', end);
+    if (space > hit) end = space;
+  }
+  return `<p class="search-snippet">${start > 0 ? '…' : ''}${highlightText(abstract.slice(start, end), terms)}${end < abstract.length ? '…' : ''}</p>`;
+}
+
+function ensureSearchIndex() {
+  const key = allJournals().filter(j => dataCache[j.id]).map(j => j.id).join(',');
+  if (key === searchIndexKey) return;
+  searchIndexKey = key;
+  const entries = new Map();
+  for (const journal of allJournals()) {
+    const data = dataCache[journal.id];
+    if (!data) continue;
+    for (const [sectionKey, papers] of Object.entries(data.sections || {})) {
+      for (const paper of papers) {
+        if (!paper.doi) continue;
+        const doi = paper.doi.toLowerCase();
+        let entry = entries.get(doi);
+        if (!entry) {
+          entry = {
+            paper: paperIndex.get(doi) || { ...paper, _journalName: journal.name },
+            journalId: journal.id,
+            sections: new Set(),
+            fields: [
+              paper.title || '',
+              (paper.authors || []).join(' · '),
+              (paper.topics || []).join(' · '),
+              paper.abstract || '',
+            ],
+          };
+          entries.set(doi, entry);
+        }
+        entry.sections.add(sectionKey);
       }
     }
   }
-  await Promise.all(fetches);
+  searchIndex = [...entries.values()];
+  searchYears = [...new Set(searchIndex.map(e => e.paper.year).filter(Boolean))].sort((a, b) => b - a);
+}
+
+// Every term must match somewhere; the score sums the weights of the fields each term matched
+function scoreEntry(entry, regexes) {
+  let score = 0;
+  for (const re of regexes) {
+    let termScore = 0;
+    entry.fields.forEach((field, i) => { if (re.test(field)) termScore += FIELD_WEIGHTS[i]; });
+    if (!termScore) return 0;
+    score += termScore;
+  }
+  return score || 1;
+}
+
+function computeSearchResults(params) {
+  const terms = parseSearchTerms(params.q);
+  const regexes = terms.map(t => termRegex(t));
+  const from = Number(params.from) || null;
+  const to = Number(params.to) || null;
+
+  const matches = [];
+  for (const entry of searchIndex) {
+    if (params.journal && entry.journalId !== params.journal) continue;
+    const year = entry.paper.year;
+    if (from && !(year >= from)) continue;
+    if (to && !(year <= to)) continue;
+    const score = scoreEntry(entry, regexes);
+    if (score) matches.push({ entry, score });
+  }
+
+  const sectionCounts = { all: matches.length };
+  for (const { key } of SEARCH_FILTERS.slice(1)) {
+    sectionCounts[key] = matches.filter(r => r.entry.sections.has(key)).length;
+  }
+  const results = params.section === 'all'
+    ? [...matches]
+    : matches.filter(r => r.entry.sections.has(params.section));
+
+  const compare = {
+    citations: (a, b) => byCitations(a.entry.paper, b.entry.paper),
+    newest:    (a, b) => byNewest(a.entry.paper, b.entry.paper),
+  }[params.sort] || ((a, b) => b.score - a.score || byCitations(a.entry.paper, b.entry.paper));
+  results.sort(compare);
+
+  return { terms, results, sectionCounts };
+}
+
+async function performSearch(params, seq) {
+  // Results span all journals, so no publisher or journal tab stays highlighted
+  setActivePublisherTab(null);
+  setActiveJournalTab(null);
+  document.getElementById('overview-btn')?.classList.remove('active');
+  const main = document.getElementById('main-content');
+  if (!allJournals().every(j => dataCache[j.id])) {
+    main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Searching across all journals…</p></div>`;
+  }
+
+  await loadAllJournals();
+  if (seq !== renderSeq) return;
+
+  ensureSearchIndex();
+  searchState = { params, ...computeSearchResults(params), shown: SEARCH_PAGE };
+  main.innerHTML = renderSearchResults();
+}
+
+function renderSearchCards(start, end) {
+  return searchState.results.slice(start, end).map(({ entry }, i) => `
+    <div class="search-result-item">
+      <div class="search-journal-label">${escapeHtml(entry.paper._journalName)}</div>
+      ${renderCard(entry.paper, start + i + 1, { terms: searchState.terms })}
+    </div>
+  `).join('');
+}
+
+function renderSearchMoreButton() {
+  const remaining = searchState.results.length - searchState.shown;
+  return remaining > 0
+    ? `<button class="show-more-btn search-more-btn">Show ${Math.min(SEARCH_PAGE, remaining)} more</button>`
+    : '';
+}
+
+function showMoreSearchResults(btn) {
+  const start = searchState.shown;
+  searchState.shown += SEARCH_PAGE;
+  btn.closest('.search-results').querySelector('.search-cards')
+    .insertAdjacentHTML('beforeend', renderSearchCards(start, searchState.shown));
+  const more = renderSearchMoreButton();
+  if (more) btn.outerHTML = more;
+  else btn.remove();
+}
+
+function renderSearchResults() {
+  const { params, results, sectionCounts } = searchState;
+
+  const tabsHtml = SEARCH_FILTERS.map(f => {
+    const isActive = params.section === f.key;
+    return `<button class="search-filter-btn ${isActive ? 'active' : ''}" data-filter="${f.key}">
+      ${f.label}<span class="search-filter-count">${sectionCounts[f.key]}</span>
+    </button>`;
+  }).join('');
+
+  const journalOptions = publishers.map(pub => `<optgroup label="${escapeHtml(pub.name)}">${pub.journals.map(j =>
+    `<option value="${escapeHtml(j.id)}" ${params.journal === j.id ? 'selected' : ''}>${escapeHtml(j.name)}</option>`
+  ).join('')}</optgroup>`).join('');
+  const yearOptions = (selected, label) => `<option value="">${label}</option>` + searchYears.map(y =>
+    `<option value="${y}" ${String(y) === String(selected) ? 'selected' : ''}>${y}</option>`
+  ).join('');
+  const sortOptions = SEARCH_SORTS.map(([key, label]) =>
+    `<option value="${key}" ${params.sort === key ? 'selected' : ''}>${label}</option>`
+  ).join('');
+
+  const journalName = allJournals().find(j => j.id === params.journal)?.name;
+  const scope = journalName ? `in ${escapeHtml(journalName)}` : 'across all journals';
+  const matching = params.q ? ` matching <em>"${escapeHtml(params.q)}"</em>` : '';
+
+  const header = `
+    <div class="search-results-header">
+      <div class="search-results-count">
+        ${results.length} paper${results.length !== 1 ? 's' : ''}${matching} ${scope}
+      </div>
+      <div class="search-filter-tabs" role="group" aria-label="Filter results">${tabsHtml}</div>
+      <div class="search-controls">
+        <select class="year-range-select" data-param="journal" aria-label="Journal">
+          <option value="">All journals</option>${journalOptions}
+        </select>
+        <div class="year-range-filter">
+          <span class="year-range-label">Years</span>
+          <select class="year-range-select" data-param="from" aria-label="From year">${yearOptions(params.from, 'From')}</select>
+          <span class="year-range-sep">–</span>
+          <select class="year-range-select" data-param="to" aria-label="To year">${yearOptions(params.to, 'To')}</select>
+        </div>
+        <label class="year-range-filter">
+          <span class="year-range-label">Sort</span>
+          <select class="year-range-select" data-param="sort">${sortOptions}</select>
+        </label>
+      </div>
+    </div>
+  `;
+
+  if (results.length === 0) {
+    const msg = sectionCounts.all === 0
+      ? 'No papers found. Try fewer or different keywords, or remove filters.'
+      : 'No papers in this section match your query.';
+    return `<div class="search-results">${header}<div class="empty-card" style="margin-top:1rem">${msg}</div></div>`;
+  }
+
+  return `<div class="search-results">${header}<div class="search-cards">${renderSearchCards(0, searchState.shown)}</div>${renderSearchMoreButton()}</div>`;
+}
+
+function updateSearchParams(changes) {
+  if (currentRoute.view !== 'search') return;
+  navigate({ ...currentRoute, ...changes }, { replace: true });
+}
+
+// ── Data loading ─────────────────────────────────────────────────────────────
+
+const journalRequests = {}; // journal id → in-flight fetch, shared by concurrent callers
+
+function fetchJournalData(journal) {
+  if (dataCache[journal.id]) return Promise.resolve(dataCache[journal.id]);
+  if (!journalRequests[journal.id]) {
+    journalRequests[journal.id] = fetch(`data/${journal.id}.json`)
+      .then(r => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
+      .then(data => {
+        dataCache[journal.id] = data;
+        indexJournalData(data, journal.name);
+        return data;
+      })
+      .finally(() => { delete journalRequests[journal.id]; });
+  }
+  return journalRequests[journal.id];
+}
+
+function loadAllJournals() {
+  return Promise.allSettled(allJournals().map(fetchJournalData));
 }
 
 function indexJournalData(data, journalName) {
@@ -986,138 +1243,119 @@ function indexJournalData(data, journalName) {
   }
 }
 
-function getAllPapers() {
-  const seen = new Set();
-  const results = [];
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      const data = dataCache[journal.id];
-      if (!data) continue;
-      for (const section of Object.values(data.sections)) {
-        for (const paper of section) {
-          if (paper.doi && !seen.has(paper.doi)) {
-            seen.add(paper.doi);
-            results.push({ ...paper, _journalName: journal.name });
-          }
-        }
-      }
+// ── Routing ──────────────────────────────────────────────────────────────────
+//   (no hash)                overview
+//   #/journal/<id>           journal view
+//   #/search?q=…&section=…&journal=…&from=…&to=…&sort=…
+
+const SEARCH_DEFAULTS = { q: '', section: 'all', journal: '', from: '', to: '', sort: 'relevance' };
+
+let currentRoute = { view: 'overview' };
+let lastBrowseRoute = { view: 'overview' }; // where clearing the search box returns to
+let renderSeq = 0;                          // async renders bail out when a newer route started
+let renderedHash = null;
+
+function parseRoute(hash = location.hash) {
+  const [path, query = ''] = hash.replace(/^#\/?/, '').split('?');
+  const parts = path.split('/').filter(Boolean).map(decodeURIComponent);
+  if (parts[0] === 'journal' && parts[1]) return { view: 'journal', journalId: parts[1] };
+  if (parts[0] === 'search') {
+    const params = new URLSearchParams(query);
+    const route = { view: 'search' };
+    for (const [key, fallback] of Object.entries(SEARCH_DEFAULTS)) route[key] = params.get(key) ?? fallback;
+    return route;
+  }
+  return { view: 'overview' };
+}
+
+function routeToHash(route) {
+  if (route.view === 'journal') return `#/journal/${encodeURIComponent(route.journalId)}`;
+  if (route.view === 'search') {
+    const params = new URLSearchParams();
+    for (const [key, fallback] of Object.entries(SEARCH_DEFAULTS)) {
+      if (route[key] && route[key] !== fallback) params.set(key, route[key]);
     }
+    const query = params.toString();
+    return `#/search${query ? `?${query}` : ''}`;
   }
-  return results;
+  return '';
 }
 
-function getAllPapersWithSections() {
-  const paperMap = new Map();
-  for (const pub of publishers) {
-    for (const journal of pub.journals) {
-      const data = dataCache[journal.id];
-      if (!data) continue;
-      for (const [sectionKey, papers] of Object.entries(data.sections)) {
-        for (const paper of papers) {
-          if (!paper.doi) continue;
-          if (!paperMap.has(paper.doi)) {
-            paperMap.set(paper.doi, { ...paper, _journalName: journal.name, _sections: new Set([sectionKey]) });
-          } else {
-            paperMap.get(paper.doi)._sections.add(sectionKey);
-          }
-        }
-      }
+function navigate(route, { replace = false } = {}) {
+  const hash = routeToHash(route);
+  if (hash !== location.hash) {
+    history[replace ? 'replaceState' : 'pushState'](null, '', hash || location.pathname + location.search);
+  }
+  renderRoute(route);
+}
+
+function searchFor(query) {
+  navigate({ ...SEARCH_DEFAULTS, view: 'search', q: query });
+}
+
+function renderRoute(route) {
+  const seq = ++renderSeq;
+  closePaperModal();
+  const input = document.getElementById('search-input');
+
+  if (route.view === 'search') {
+    currentRoute = route;
+    renderedHash = location.hash;
+    if (input && input.value.trim() !== route.q) input.value = route.q;
+    performSearch(route, seq);
+    return;
+  }
+
+  clearTimeout(searchDebounce);
+  if (input) input.value = '';
+
+  if (route.view === 'journal') {
+    const publisher = publishers.find(p => p.journals.some(j => j.id === route.journalId));
+    const journal = publisher?.journals.find(j => j.id === route.journalId);
+    if (journal) {
+      currentRoute = lastBrowseRoute = route;
+      renderedHash = location.hash;
+      showJournal(journal, publisher, seq);
+      return;
     }
-  }
-  return Array.from(paperMap.values());
-}
-
-function applySearchFilter(results, filter) {
-  const filtered = filter === 'all' ? results : results.filter(p => p._sections?.has(filter));
-  return filter === 'latest'
-    ? [...filtered].sort((a, b) => (b.year || 0) - (a.year || 0))
-    : [...filtered].sort((a, b) => (b.citation_count || 0) - (a.citation_count || 0));
-}
-
-async function performSearch(query) {
-
-  overviewActive = false;
-
-  document.getElementById('overview-btn')?.classList.remove('active');
-  const main = document.getElementById('main-content');
-  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Searching across all journals…</p></div>`;
-
-  await loadAllJournals();
-
-  const q = query.toLowerCase();
-  searchQuery = query;
-  searchFilter = 'all';
-  searchResults = getAllPapersWithSections()
-    .filter(p =>
-      p.title?.toLowerCase().includes(q) ||
-      p.authors?.some(a => a.toLowerCase().includes(q)) ||
-      p.topics?.some(t => t.toLowerCase().includes(q))
-    );
-
-  main.innerHTML = renderSearchResults();
-  bindSearchFilterTabs();
-}
-
-function renderSearchResults() {
-  const filtered = applySearchFilter(searchResults, searchFilter);
-
-  const tabsHtml = SEARCH_FILTERS.map(f => {
-    const count = f.key === 'all'
-      ? searchResults.length
-      : searchResults.filter(p => p._sections?.has(f.key)).length;
-    const isActive = searchFilter === f.key;
-    return `<button class="search-filter-btn ${isActive ? 'active' : ''}" data-filter="${f.key}">
-      ${f.label}<span class="search-filter-count">${count}</span>
-    </button>`;
-  }).join('');
-
-  const header = `
-    <div class="search-results-header">
-      <div class="search-results-count">
-        ${searchResults.length} paper${searchResults.length !== 1 ? 's' : ''} matching <em>"${escapeHtml(searchQuery)}"</em> across all journals
-      </div>
-      <div class="search-filter-tabs" role="group" aria-label="Filter results">${tabsHtml}</div>
-    </div>
-  `;
-
-  if (filtered.length === 0) {
-    const msg = searchResults.length === 0
-      ? 'No papers found. Try a different keyword.'
-      : 'No papers in this section match your query.';
-    return `<div class="search-results">${header}<div class="empty-card" style="margin-top:1rem">${msg}</div></div>`;
+    // Unknown journal id in the URL: fall back to the overview
+    history.replaceState(null, '', location.pathname + location.search);
   }
 
-  const cards = filtered.map((paper, i) => `
-    <div class="search-result-item">
-      <div class="search-journal-label">${escapeHtml(paper._journalName)}</div>
-      ${renderCard(paper, i + 1)}
-    </div>
-  `).join('');
-
-  return `<div class="search-results">${header}<div class="search-cards">${cards}</div></div>`;
+  currentRoute = lastBrowseRoute = { view: 'overview' };
+  renderedHash = location.hash;
+  renderOverview(seq);
 }
 
-function bindSearchFilterTabs() {
-  document.querySelectorAll('.search-filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      if (searchFilter === btn.dataset.filter) return;
-      searchFilter = btn.dataset.filter;
-      document.getElementById('main-content').innerHTML = renderSearchResults();
-      bindSearchFilterTabs();
-    });
+function initNavigation() {
+  // popstate covers back/forward; hashchange covers hand-edited URLs. Both can fire for one change.
+  const onLocationChange = () => {
+    if (location.hash !== renderedHash) renderRoute(parseRoute());
+  };
+  window.addEventListener('popstate', onLocationChange);
+  window.addEventListener('hashchange', onLocationChange);
+
+  document.addEventListener('click', e => {
+    const chip = e.target.closest('.topic-chip[data-topic]');
+    if (chip) { searchFor(chip.dataset.topic); return; }
+
+    const trendLink = e.target.closest('[data-search]');
+    if (trendLink) {
+      searchFor(trendLink.dataset.search);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
+
+    const filterBtn = e.target.closest('.search-filter-btn[data-filter]');
+    if (filterBtn) updateSearchParams({ section: filterBtn.dataset.filter });
   });
-}
 
-function restoreJournalView() {
+  document.addEventListener('change', e => {
+    const select = e.target.closest('.search-results select[data-param]');
+    if (select) updateSearchParams({ [select.dataset.param]: select.value });
+  });
 
-
-  const pub = publishers.find(p => p.id === activePublisherId);
-  const journal = pub?.journals.find(j => j.id === activeJournalId);
-  if (!journal || !pub || !dataCache[journal.id]) return;
-  const main = document.getElementById('main-content');
-  main.innerHTML = renderJournalView(journal, pub, dataCache[journal.id]);
-  setLastUpdated(dataCache[journal.id].updated_at);
-  bindToggleButtons(journal, pub);
+  document.getElementById('overview-btn')?.addEventListener('click', () => navigate({ view: 'overview' }));
 }
 
 // ── App State ────────────────────────────────────────────────────────────────
@@ -1138,25 +1376,57 @@ async function init() {
     });
     publishers = config.publishers || [];
     renderPublisherTabs();
+    initSubscribe();
     initSearch();
     initModal();
-    document.addEventListener('click', e => {
-      const chip = e.target.closest('.topic-chip[data-topic]');
-      if (!chip) return;
-      const topic = chip.dataset.topic;
-      const searchInput = document.getElementById('search-input');
-      if (searchInput) searchInput.value = topic;
-      performSearch(topic);
-    });
-    document.getElementById('overview-btn')?.addEventListener('click', () => {
-      const searchInput = document.getElementById('search-input');
-      if (searchInput) searchInput.value = '';
-      renderOverview();
-    });
-    await renderOverview();
+    initNavigation();
+    renderRoute(parseRoute());
   } catch (err) {
     showError(`Failed to load journal config: ${err.message}`);
   }
+}
+
+// ── RSS feeds ────────────────────────────────────────────────────────────────
+
+// Feed files are written weekly by scripts/build_feeds.py
+function initSubscribe() {
+  const btn = document.getElementById('subscribe-btn');
+  const panel = document.getElementById('subscribe-panel');
+  const list = document.getElementById('subscribe-list');
+  if (!btn || !panel || !list) return;
+
+  const feeds = [
+    { file: 'all.xml', label: 'All journals', title: 'All journals', count: allJournals().length },
+    ...publishers.map(p => ({ file: `${p.id}.xml`, label: p.name, title: p.full_name, count: p.journals.length })),
+  ];
+  list.innerHTML = feeds.map(feed => {
+    const url = new URL(`feeds/${feed.file}`, location.href).href;
+    return `<li class="subscribe-item">
+      <a class="subscribe-name" href="${escapeHtml(url)}" target="_blank" rel="noopener" title="${escapeHtml(feed.title)}">${escapeHtml(feed.label)}</a>
+      <span class="subscribe-count">${feed.count} journal${feed.count !== 1 ? 's' : ''}</span>
+      <button class="subscribe-copy" data-url="${escapeHtml(url)}">Copy link</button>
+    </li>`;
+  }).join('');
+
+  const setOpen = open => {
+    panel.hidden = !open;
+    btn.setAttribute('aria-expanded', String(open));
+  };
+  btn.addEventListener('click', () => setOpen(panel.hidden));
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') setOpen(false); });
+
+  list.addEventListener('click', e => {
+    const copy = e.target.closest('.subscribe-copy');
+    if (!copy) return;
+    const url = copy.dataset.url;
+    // The clipboard API needs a secure context; fall back to a prompt the user can copy from
+    (navigator.clipboard?.writeText(url) ?? Promise.reject())
+      .then(() => {
+        copy.textContent = 'Copied ✓';
+        setTimeout(() => { copy.textContent = 'Copy link'; }, 1500);
+      })
+      .catch(() => window.prompt('Copy this feed link:', url));
+  });
 }
 
 // ── Publisher tabs ────────────────────────────────────────────────────────────
@@ -1193,7 +1463,7 @@ function renderPublisherTabs() {
   nav.querySelectorAll('.publisher-btn[data-publisher-id]').forEach(btn => {
     btn.addEventListener('click', () => {
       const pub = publishers.find(p => p.id === btn.dataset.publisherId);
-      if (pub) selectPublisher(pub);
+      if (pub?.journals[0]) navigate({ view: 'journal', journalId: pub.journals[0].id });
     });
   });
 }
@@ -1204,27 +1474,6 @@ function setActivePublisherTab(publisherId) {
     btn.classList.toggle('active', isActive);
     btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
   });
-}
-
-async function selectPublisher(publisher) {
-  activePublisherId = publisher.id;
-  activeJournalId = null;
-
-  overviewActive = false;
-
-  document.getElementById('overview-btn')?.classList.remove('active');
-  const searchInput = document.getElementById('search-input');
-  if (searchInput) searchInput.value = '';
-
-  setActivePublisherTab(publisher.id);
-  document.documentElement.style.setProperty('--journal-color', publisher.color);
-
-  renderJournalTabs(publisher);
-
-  const firstJournal = publisher.journals[0];
-  if (firstJournal) {
-    await loadJournal(firstJournal, publisher);
-  }
 }
 
 // ── Journal tabs ──────────────────────────────────────────────────────────────
@@ -1245,11 +1494,7 @@ function renderJournalTabs(publisher) {
   `).join('');
 
   nav.querySelectorAll('.tab-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const pub = publishers.find(p => p.id === activePublisherId);
-      const journal = pub?.journals.find(j => j.id === btn.dataset.journalId);
-      if (journal && pub) loadJournal(journal, pub);
-    });
+    btn.addEventListener('click', () => navigate({ view: 'journal', journalId: btn.dataset.journalId }));
   });
 }
 
@@ -1264,51 +1509,40 @@ function setActiveJournalTab(journalId) {
   });
 }
 
-// ── Journal loading ───────────────────────────────────────────────────────────
+// ── Journal view ──────────────────────────────────────────────────────────────
 
-async function loadJournal(journal, publisher) {
-
-  overviewActive = false;
+async function showJournal(journal, publisher, seq) {
+  activePublisherId = publisher.id;
+  activeJournalId = journal.id;
 
   document.getElementById('overview-btn')?.classList.remove('active');
-  const searchInput = document.getElementById('search-input');
-  if (searchInput) searchInput.value = '';
-
-  activeJournalId = journal.id;
+  setActivePublisherTab(publisher.id);
+  renderJournalTabs(publisher);
   setActiveJournalTab(journal.id);
   document.documentElement.style.setProperty('--journal-color', publisher.color);
 
   const main = document.getElementById('main-content');
+  if (!dataCache[journal.id]) {
+    main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading ${escapeHtml(journal.short)} data…</p></div>`;
+  }
 
-  if (dataCache[journal.id]) {
-    journalTrendsYearMin = null;
-    journalTrendsYearMax = null;
-    main.innerHTML = renderJournalView(journal, publisher, dataCache[journal.id]);
-    setLastUpdated(dataCache[journal.id].updated_at);
-    bindToggleButtons(journal, publisher);
-    bindJournalTrendsEvents(dataCache[journal.id], journal, publisher);
+  let data;
+  try {
+    data = await fetchJournalData(journal);
+  } catch (err) {
+    if (seq === renderSeq) {
+      main.innerHTML = `<div class="error-state">⚠ Failed to load ${escapeHtml(journal.name)}: ${escapeHtml(err.message)}</div>`;
+    }
     return;
   }
+  if (seq !== renderSeq) return;
 
-  main.innerHTML = `<div class="loading-state"><div class="spinner"></div><p>Loading ${escapeHtml(journal.short)} data…</p></div>`;
-
-  try {
-    const data = await fetch(`data/${journal.id}.json`).then(r => {
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      return r.json();
-    });
-    dataCache[journal.id] = data;
-    indexJournalData(data, journal.name);
-    if (activeJournalId !== journal.id) return;
-    journalTrendsYearMin = null;
-    journalTrendsYearMax = null;
-    main.innerHTML = renderJournalView(journal, publisher, data);
-    setLastUpdated(data.updated_at);
-    bindToggleButtons(journal, publisher);
-    bindJournalTrendsEvents(data, journal, publisher);
-  } catch (err) {
-    main.innerHTML = `<div class="error-state">⚠ Failed to load ${escapeHtml(journal.name)}: ${escapeHtml(err.message)}</div>`;
-  }
+  journalTrendsYearMin = null;
+  journalTrendsYearMax = null;
+  main.innerHTML = renderJournalView(journal, publisher, data);
+  setLastUpdated(data.updated_at);
+  bindToggleButtons(journal, publisher);
+  bindJournalTrendsEvents(data, journal, publisher);
 }
 
 function bindToggleButtons(journal, publisher) {
@@ -1316,10 +1550,10 @@ function bindToggleButtons(journal, publisher) {
     btn.addEventListener('click', () => {
       const mode = btn.dataset.mode;
       const journalId = btn.dataset.journal;
-      if (citeModeState[journalId] === mode) return;
-      citeModeState[journalId] = mode;
       const data = dataCache[journalId];
       if (!data) return;
+      if ((citeModeState[journalId] || defaultCiteMode(data)) === mode) return;
+      citeModeState[journalId] = mode;
       const col = document.getElementById(`cite-section-${journalId}`);
       if (col) col.outerHTML = renderCiteSection(data, journalId, publisher.color);
       bindToggleButtons(journal, publisher);
@@ -1351,7 +1585,6 @@ function bindJournalTrendsEvents(data, _journal, _publisher) {
 
   bindJournalSectionFilter(data);
   bindJournalYearRange(data);
-  bindTrendsSearchLinks();
 }
 
 function bindJournalSectionFilter(data) {

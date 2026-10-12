@@ -6,6 +6,7 @@
   <title>ICA Journal Tracker</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title="Journal Tracker — newest papers, all journals" href="feeds/all.xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
@@ -20,13 +21,21 @@
         <p class="header-sub">Most cited &amp; latest papers across 25 comm journals — updated weekly</p>
       </div>
       <div class="header-search">
-        <input type="search" id="search-input" placeholder="Search titles or authors across all journals…" autocomplete="off" />
+        <input type="search" id="search-input" placeholder="Search titles, authors, topics, abstracts…" autocomplete="off" />
       </div>
       <div class="header-meta">
         <div class="update-badge" id="last-updated" title="Data refresh timestamp">
           <span class="update-dot"></span>
           <span id="update-text">Loading…</span>
         </div>
+        <button class="subscribe-btn" id="subscribe-btn" aria-expanded="false" aria-controls="subscribe-panel">RSS feeds</button>
+      </div>
+      <div class="subscribe-panel" id="subscribe-panel" hidden>
+        <p class="subscribe-intro">
+          Follow new papers in a feed reader such as Feedly, Inoreader, NetNewsWire, Thunderbird or Zotero:
+          copy a feed link and add it as a new subscription. Feeds update weekly.
+        </p>
+        <ul class="subscribe-list" id="subscribe-list"></ul>
       </div>
     </div>
   </header>

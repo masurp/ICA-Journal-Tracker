@@ -108,6 +108,103 @@ a:hover {
   font-weight: 400;
 }
 
+.header-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.subscribe-btn {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  padding: 0.4rem 0.9rem;
+  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color var(--transition), color var(--transition);
+}
+
+.subscribe-btn:hover,
+.subscribe-btn[aria-expanded="true"] {
+  border-color: var(--border-hover);
+  color: var(--text-primary);
+}
+
+.subscribe-panel {
+  flex-basis: 100%;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.1rem;
+}
+
+.subscribe-intro {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  max-width: 75ch;
+  margin-bottom: 0.75rem;
+}
+
+.subscribe-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.4rem 0.75rem;
+}
+
+.subscribe-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.78rem;
+}
+
+.subscribe-name {
+  flex: 1;
+  min-width: 0;
+  color: var(--text-primary);
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.subscribe-name:hover {
+  color: var(--accent);
+}
+
+.subscribe-count {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.subscribe-copy {
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-pill);
+  color: var(--text-secondary);
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  padding: 0.15rem 0.55rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: border-color var(--transition), color var(--transition);
+}
+
+.subscribe-copy:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .update-badge {
   display: flex;
   align-items: center;
@@ -734,6 +831,9 @@ a:hover {
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
   padding: 2px;
+  max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
 }
 
 .search-filter-btn {
@@ -799,6 +899,34 @@ a:hover {
   text-transform: uppercase;
   color: var(--journal-color);
   padding-left: 0.2rem;
+}
+
+.search-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1.25rem;
+}
+
+.search-controls select {
+  max-width: 100%;
+}
+
+.search-more-btn {
+  max-width: 680px;
+}
+
+.search-snippet {
+  font-size: 0.75rem;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+mark {
+  background: color-mix(in srgb, var(--accent) 30%, transparent);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
 }
 
 /* ── Overview View ───────────────────────────────────────────────────────── */
@@ -879,6 +1007,9 @@ a:hover {
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
   padding: 2px;
+  max-width: 100%;
+  overflow-x: auto;
+  scrollbar-width: none;
 }
 
 .trends-toggle-btn {
@@ -1401,6 +1532,12 @@ a:hover {
 }
 
 /* ── Alluvial Chart ──────────────────────────────────────────────────────── */
+
+.alluvial-note {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
 
 .alluvial-wrapper {
   width: 100%;

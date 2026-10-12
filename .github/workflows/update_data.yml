@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 6 * * 1'   # Every Monday at 06:00 UTC
   workflow_dispatch:        # Manual trigger from GitHub Actions UI
+    inputs:
+      retag:
+        description: 'Re-generate topic keywords for all papers (--force, ~3,000 Claude Haiku calls, under $1)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -11,14 +16,14 @@ permissions:
 jobs:
   fetch-and-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -26,16 +31,18 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Fetch journal data
-        run: python scripts/fetch_data.py
+        run: python scripts/fetch_data.py ${{ inputs.retag && '--force' || '' }}
         env:
           MAILTO: ${{ secrets.CROSSREF_MAILTO }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      # Runs even if some journals failed, so the others still get committed (the job stays red)
       - name: Commit and push updated data
+        if: success() || failure()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
+          git add data/*.json feeds/*.xml
           git diff --staged --quiet || git commit -m "chore: update journal data $(date -u +%Y-%m-%d)"
           git pull --rebase
           git push
