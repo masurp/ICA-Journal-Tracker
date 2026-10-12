@@ -77,6 +77,8 @@ Each paper: `doi, title, authors, year, publication_date, citation_count, abstra
 
 ## Deployment
 
-GitHub Actions runs `fetch_data.py` every Monday 06:00 UTC, commits updated JSONs to main. GitHub Pages serves the static site. Secrets needed: `CROSSREF_MAILTO` (email for OpenAlex polite pool), `ANTHROPIC_API_KEY`.
+GitHub Actions runs `fetch_data.py` every Monday 06:00 UTC, commits updated JSONs to main. GitHub Pages serves the static site.
+
+When changing `app.js` or `style.css`, bump the `?v=` stamp on both links in `index.html`: Pages lets browsers cache assets for 10 minutes, so a reload right after a deploy can otherwise pair the new page with old CSS/JS. Secrets needed: `CROSSREF_MAILTO` (email for OpenAlex polite pool), `ANTHROPIC_API_KEY`.
 
 Trigger a manual run: GitHub repo → Actions → Update Journal Data → Run workflow. Tick *Re-generate topic keywords* to run with `--force` (~3,000 Haiku calls, well under $1).

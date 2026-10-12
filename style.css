@@ -116,22 +116,32 @@ a:hover {
 }
 
 .subscribe-btn {
-  background: rgba(255,255,255,0.04);
-  border: 1px solid var(--border);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.25);
   border-radius: var(--radius-pill);
   padding: 0.4rem 0.9rem;
+  font-family: var(--font-body);
   font-size: 0.75rem;
-  font-family: var(--font-mono);
-  color: var(--text-secondary);
+  font-weight: 600;
+  color: var(--text-primary);
   white-space: nowrap;
   cursor: pointer;
-  transition: border-color var(--transition), color var(--transition);
+  transition: background var(--transition), border-color var(--transition);
 }
 
 .subscribe-btn:hover,
 .subscribe-btn[aria-expanded="true"] {
-  border-color: var(--border-hover);
-  color: var(--text-primary);
+  background: rgba(245, 158, 11, 0.16);
+  border-color: rgba(245, 158, 11, 0.5);
+}
+
+.rss-icon {
+  width: 13px;
+  height: 13px;
+  fill: #f59e0b;
 }
 
 .subscribe-panel {

@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ICA Journal Tracker</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css?v=2026-10-12b" />
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
   <link rel="alternate" type="application/rss+xml" title="Journal Tracker — newest papers, all journals" href="feeds/all.xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -28,7 +28,10 @@
           <span class="update-dot"></span>
           <span id="update-text">Loading…</span>
         </div>
-        <button class="subscribe-btn" id="subscribe-btn" aria-expanded="false" aria-controls="subscribe-panel">RSS feeds</button>
+        <button class="subscribe-btn" id="subscribe-btn" aria-expanded="false" aria-controls="subscribe-panel">
+          <svg class="rss-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56z"/><path d="M4 10.1v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+          Subscribe
+        </button>
       </div>
       <div class="subscribe-panel" id="subscribe-panel" hidden>
         <p class="subscribe-intro">
@@ -83,6 +86,6 @@
     </div>
   </div>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=2026-10-12b"></script>
 </body>
 </html>
