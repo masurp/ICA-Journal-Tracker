@@ -1,7 +1,7 @@
 {
   "journal_id": "communication_methods_measures",
-  "updated_at": "2026-10-12T19:19:18Z",
-  "trending_from": "2024-10-12",
+  "updated_at": "2026-10-19T12:12:20Z",
+  "trending_from": "2024-10-19",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
         ],
         "year": 2007,
         "publication_date": "2007-04-01",
-        "citation_count": 4197,
+        "citation_count": 4209,
         "topics": [
           "Content analysis",
           "Research methodology",
@@ -32,7 +32,7 @@
         ],
         "year": 2020,
         "publication_date": "2020-01-02",
-        "citation_count": 2628,
+        "citation_count": 2649,
         "topics": [
           "Scale development",
           "Measurement validity",
@@ -51,7 +51,7 @@
         ],
         "year": 2012,
         "publication_date": "2012-04-01",
-        "citation_count": 1875,
+        "citation_count": 1884,
         "topics": [
           "Research methodology",
           "Communication theory",
@@ -69,7 +69,7 @@
         ],
         "year": 2017,
         "publication_date": "2017-11-22",
-        "citation_count": 1131,
+        "citation_count": 1135,
         "topics": [
           "Scale development",
           "Research methodology",
@@ -87,7 +87,7 @@
         ],
         "year": 2008,
         "publication_date": "2008-12-02",
-        "citation_count": 929,
+        "citation_count": 937,
         "topics": [
           "Scale development",
           "Research methodology",
@@ -114,7 +114,7 @@
         ],
         "year": 2018,
         "publication_date": "2018-02-16",
-        "citation_count": 832,
+        "citation_count": 845,
         "topics": [
           "Topic modeling",
           "Computational text analysis",
@@ -180,24 +180,6 @@
         "url": "https://doi.org/10.1080/19312458.2016.1271116"
       },
       {
-        "doi": "10.1080/19312458.2015.1118446",
-        "title": "The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data",
-        "authors": [
-          "Michael Scharkow"
-        ],
-        "year": 2016,
-        "publication_date": "2016-01-02",
-        "citation_count": 409,
-        "topics": [
-          "Internet use",
-          "Measurement validity",
-          "Media use",
-          "Social media use"
-        ],
-        "abstract": "The vast majority of empirical research on online communication, or media use in general, relies on self-report measures instead of behavioral data. Previous research has shown that the accuracy of these self-report measures can be quite low, and both over- and underreporting of media use are commonplace. This study compares self-reports of Internet use with client log files from a large household sample. Results show that the accuracy of self-reported frequency and duration of Internet use is quite low, and that survey data are only moderately correlated with log file data. Moreover, there are systematic patterns of misreporting, especially overreporting, rather than random deviations from the log files. Self-reports for specific content such as social network sites or video platforms seem to be more accurate and less consistently biased than self-reports of generic frequency or duration of Internet use. The article closes by demonstrating the consequences of biased self-reports and discussing possible solutions to the problem.",
-        "url": "https://doi.org/10.1080/19312458.2015.1118446"
-      },
-      {
         "doi": "10.1080/19312458.2020.1869198",
         "title": "The Validity of Sentiment Analysis: Comparing Manual Annotation, Crowd-Coding, Dictionary Approaches, and Machine Learning Algorithms",
         "authors": [
@@ -207,7 +189,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-01-28",
-        "citation_count": 409,
+        "citation_count": 410,
         "topics": [
           "Sentiment analysis",
           "Computational text analysis",
@@ -216,6 +198,24 @@
         ],
         "abstract": "Sentiment is central to many studies of communication science, from negativity and polarization in political communication to analyzing product reviews and social media comments in other sub-fields. This study provides an exhaustive comparison of sentiment analysis methods, using a validation set of Dutch economic headlines to compare the performance of manual annotation, crowd coding, numerous dictionaries and machine learning using both traditional and deep learning algorithms. The three main conclusions of this article are that: (1) The best performance is still attained with trained human or crowd coding; (2) None of the used dictionaries come close to acceptable levels of validity; and (3) machine learning, especially deep learning, substantially outperforms dictionary-based methods but falls short of human performance. From these findings, we stress the importance of always validating automatic text analysis methods before usage. Moreover, we provide a recommended step-by-step approach for (automated) text analysis projects to ensure both efficiency and validity.",
         "url": "https://doi.org/10.1080/19312458.2020.1869198"
+      },
+      {
+        "doi": "10.1080/19312458.2015.1118446",
+        "title": "The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data",
+        "authors": [
+          "Michael Scharkow"
+        ],
+        "year": 2016,
+        "publication_date": "2016-01-02",
+        "citation_count": 408,
+        "topics": [
+          "Internet use",
+          "Measurement validity",
+          "Media use",
+          "Social media use"
+        ],
+        "abstract": "The vast majority of empirical research on online communication, or media use in general, relies on self-report measures instead of behavioral data. Previous research has shown that the accuracy of these self-report measures can be quite low, and both over- and underreporting of media use are commonplace. This study compares self-reports of Internet use with client log files from a large household sample. Results show that the accuracy of self-reported frequency and duration of Internet use is quite low, and that survey data are only moderately correlated with log file data. Moreover, there are systematic patterns of misreporting, especially overreporting, rather than random deviations from the log files. Self-reports for specific content such as social network sites or video platforms seem to be more accurate and less consistently biased than self-reports of generic frequency or duration of Internet use. The article closes by demonstrating the consequences of biased self-reports and discussing possible solutions to the problem.",
+        "url": "https://doi.org/10.1080/19312458.2015.1118446"
       },
       {
         "doi": "10.1080/19312458.2017.1387238",
@@ -227,7 +227,7 @@
         ],
         "year": 2017,
         "publication_date": "2017-10-02",
-        "citation_count": 276,
+        "citation_count": 284,
         "topics": [
           "Computational text analysis",
           "Computational methods",
@@ -285,7 +285,7 @@
         ],
         "year": 2019,
         "publication_date": "2019-07-23",
-        "citation_count": 229,
+        "citation_count": 230,
         "topics": [
           "News framing",
           "Topic modeling",
@@ -368,7 +368,7 @@
         ],
         "year": 2018,
         "publication_date": "2018-04-03",
-        "citation_count": 197,
+        "citation_count": 198,
         "topics": [
           "Computational methods",
           "Computational text analysis",
@@ -389,7 +389,7 @@
         ],
         "year": 2019,
         "publication_date": "2019-01-09",
-        "citation_count": 195,
+        "citation_count": 197,
         "topics": [
           "Eye-tracking",
           "Research methodology",
@@ -409,7 +409,7 @@
         ],
         "year": 2016,
         "publication_date": "2016-04-02",
-        "citation_count": 182,
+        "citation_count": 183,
         "topics": [
           "Eye-tracking",
           "Social media use",
@@ -450,11 +450,11 @@
           "Deen Freelon",
           "Nilám Ram",
           "Byron B. Reeves",
-          "Thomas Nichols Robinson"
+          "Thomas N. Robinson"
         ],
         "year": 2023,
         "publication_date": "2023-02-27",
-        "citation_count": 176,
+        "citation_count": 178,
         "topics": [
           "Digital trace data",
           "Social media use",
@@ -474,7 +474,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-09-13",
-        "citation_count": 170,
+        "citation_count": 171,
         "topics": [
           "Algorithmic literacy",
           "Scale development",
@@ -531,7 +531,7 @@
         ],
         "year": 2018,
         "publication_date": "2018-04-06",
-        "citation_count": 139,
+        "citation_count": 141,
         "topics": [
           "Health communication",
           "Culture-centered approach",
@@ -550,7 +550,7 @@
         ],
         "year": 2018,
         "publication_date": "2018-08-15",
-        "citation_count": 139,
+        "citation_count": 140,
         "topics": [
           "Media trust",
           "Scale development",
@@ -601,29 +601,6 @@
         "url": "https://doi.org/10.1080/19312458.2019.1671966"
       },
       {
-        "doi": "10.1080/19312458.2017.1380175",
-        "title": "Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls",
-        "authors": [
-          "Claes H. de Vreese",
-          "Mark Boukes",
-          "Andreas R. T. Schuck",
-          "Rens Vliegenthart",
-          "Linda Bos",
-          "Yph Lelkes"
-        ],
-        "year": 2017,
-        "publication_date": "2017-10-02",
-        "citation_count": 124,
-        "topics": [
-          "Media effects",
-          "Content analysis",
-          "Research methodology",
-          "Media coverage"
-        ],
-        "abstract": "In media effects research a fundamental choice is often made between (field) experiments or observational studies that rely on survey data in combination with data about the information environment or media coverage. Such studies linking survey data and media content data are often dubbed “linkage studies.” On the one hand, such designs are the state of the art in our field and on the other hand, they come with a long list of challenges and choices. This article reviews the rationales for linkage studies, outlines different types of linkage studies, reviews the state-of-the-art in this area, discusses which survey and content items to use in an analysis, reviews different types of analyses, outlines considerations for alternative specifications, and provides a step-by-step example.",
-        "url": "https://doi.org/10.1080/19312458.2017.1380175"
-      },
-      {
         "doi": "10.1080/19312458.2020.1832976",
         "title": "Latent Semantic Scaling: A Semisupervised Text Analysis Technique for New Domains and Languages",
         "authors": [
@@ -649,7 +626,7 @@
         ],
         "year": 2012,
         "publication_date": "2012-04-01",
-        "citation_count": 122,
+        "citation_count": 123,
         "topics": [
           "Instructional communication",
           "Student engagement",
@@ -658,6 +635,29 @@
         ],
         "abstract": "A series of studies report the development of empirically derived instruments that measure student interest and engagement. The first study inductively develops an initial item pool through open-ended questionnaire data. A second study subjects the measures to exploratory factor analysis to ascertain an underlying factor structure. The third study deductively tests the measures through confirmatory factor analysis and examines associations among teacher communication behaviors, student emotional and cognitive interest, and engagement. A fourth study offers discriminant validity evidence, suggesting that the new measures are distinct from scales that assess similar yet divergent constructs. Guided by prior theory (Mottet, Frymier, & Beebe, 2006 Mottet, T. P., Frymier, A. B. and Beebe, S. A. 2006. “Theorizing about instructional communication”. In Handbook of instructional communication, Edited by: Mottet, T. P., Richmond, V. P. and McCroskey, J. C. 255–282. Boston, MA: Pearson. [Google Scholar]) and research (Harp & Mayer, 1997 Harp, S. F. and Mayer, R. E. 1997. The role of interest in learning from scientific text and illustration: On the distinction between emotional interest and cognitive interest. Journal of Educational Psychology, 89: 92–102. [Crossref], [Web of Science ®] , [Google Scholar]), the instruments developed here possess heuristic potential for instructional communication research. Implications and areas for future research are discussed.",
         "url": "https://doi.org/10.1080/19312458.2012.679244"
+      },
+      {
+        "doi": "10.1080/19312458.2017.1380175",
+        "title": "Linking Survey and Media Content Data: Opportunities, Considerations, and Pitfalls",
+        "authors": [
+          "Claes H. de Vreese",
+          "Mark Boukes",
+          "Andreas R. T. Schuck",
+          "Rens Vliegenthart",
+          "Linda Bos",
+          "Yph Lelkes"
+        ],
+        "year": 2017,
+        "publication_date": "2017-10-02",
+        "citation_count": 123,
+        "topics": [
+          "Media effects",
+          "Content analysis",
+          "Research methodology",
+          "Media coverage"
+        ],
+        "abstract": "In media effects research a fundamental choice is often made between (field) experiments or observational studies that rely on survey data in combination with data about the information environment or media coverage. Such studies linking survey data and media content data are often dubbed “linkage studies.” On the one hand, such designs are the state of the art in our field and on the other hand, they come with a long list of challenges and choices. This article reviews the rationales for linkage studies, outlines different types of linkage studies, reviews the state-of-the-art in this area, discusses which survey and content items to use in an analysis, reviews different types of analyses, outlines considerations for alternative specifications, and provides a step-by-step example.",
+        "url": "https://doi.org/10.1080/19312458.2017.1380175"
       },
       {
         "doi": "10.1080/19312458.2010.547823",
@@ -733,7 +733,7 @@
         ],
         "year": 2017,
         "publication_date": "2017-01-02",
-        "citation_count": 103,
+        "citation_count": 104,
         "topics": [
           "Media trust",
           "Journalism",
@@ -752,7 +752,7 @@
         ],
         "year": 2012,
         "publication_date": "2012-10-01",
-        "citation_count": 102,
+        "citation_count": 103,
         "topics": [
           "Communication theory",
           "Research methodology",
@@ -795,7 +795,7 @@
         ],
         "year": 2018,
         "publication_date": "2018-12-25",
-        "citation_count": 94,
+        "citation_count": 93,
         "topics": [
           "Mobile social media use",
           "Experience sampling",
@@ -804,6 +804,24 @@
         ],
         "abstract": "Quantifying the ubiquitous, ephemeral, and highly diverse patterns of mobile social media (MSM) use is a challenge for communication research. Most researchers employ retrospective survey measurement, thus depending on the accuracy of users’ memories and generalizations. Alternatively, some researchers rely on in-situ measurement, being less dependent on users’ memories and generalizations, but requiring random situation samples. To assess differences and similarities between these two measurement approaches we analyzed whether characteristics (duration and frequency of a usage episode, habit, elaboration, and gratifications) of MSM use (regarding Facebook, WhatsApp, and YouTube) vary between retrospective survey and mobile experience sampling measurement. We observe a consistent pattern of higher estimates in retrospect as compared to individual averages of in-situ reports. The absolute magnitude of these differences varies considerably between platforms and characteristics studied. Nonetheless, for most constructs and platforms we find low significant positive correlations between retrospective and aggregated in-situ values.",
         "url": "https://doi.org/10.1080/19312458.2018.1555799"
+      },
+      {
+        "doi": "10.1080/19312458.2013.873777",
+        "title": "Experimental Manipulation of Psychological Involvement with Media",
+        "authors": [
+          "Riva H. Tukachinsky"
+        ],
+        "year": 2014,
+        "publication_date": "2014-01-02",
+        "citation_count": 93,
+        "topics": [
+          "Media effects",
+          "Meta-analysis",
+          "Transportation",
+          "Presence"
+        ],
+        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
+        "url": "https://doi.org/10.1080/19312458.2013.873777"
       },
       {
         "doi": "10.1080/19312458.2014.903390",
@@ -823,24 +841,6 @@
         ],
         "abstract": "Communication research based on social cognition draws heavily from dual process models such as the heuristic-systematic model. Both heuristic and systematic processing are said to be aided by quick rules of thumb or mental shortcuts called heuristics. However, the operationalization of heuristics is quite problematic because their use in decision-making is not directly measured. Scholars claim the operation of specific heuristics in specific situations, based often on clever experimental evidence. We propose a methodological framework that calls for both manipulation and measurement of heuristics in order to offer more direct evidence of their operation. We first review different existing approaches in the literature for operationalizing heuristics. We then discuss our approach and describe the application of moderated mediation to analyze the resulting data. We conclude with a study idea and simulated data that illustrate how our proposed design and analysis framework could be applied in communication research.",
         "url": "https://doi.org/10.1080/19312458.2014.903390"
-      },
-      {
-        "doi": "10.1080/19312458.2013.873777",
-        "title": "Experimental Manipulation of Psychological Involvement with Media",
-        "authors": [
-          "Riva H. Tukachinsky"
-        ],
-        "year": 2014,
-        "publication_date": "2014-01-02",
-        "citation_count": 93,
-        "topics": [
-          "Media effects",
-          "Meta-analysis",
-          "Transportation",
-          "Presence"
-        ],
-        "abstract": "The study evaluates the effectiveness of experimental manipulations of transportation, immersion, spatial presence, character identification, and perceived similarity. The meta-analysis reveals that only about half the studies reported significant group differences in the predicted direction. On average, manipulations had a small to medium effect. Certain manipulations were more likely to influence some types of involvement than others. Transportation was impacted by distraction, perspective taking instructions, and meta-narrative information. Manipulation of literary qualities that had a large effect on character identification had no effect on transportation. Stimulus display characteristics had the strongest effect on immersion, whereas manipulations of the media world qualities had a larger effect on presence. Demographic similarity enhanced perceived similarity but not identification. Effect sizes were larger for advertising than for entertainment. Print and videogame stimuli yielded larger effects than videos. Together, these findings identify manipulations that future studies can use to enhance their statistical power.",
-        "url": "https://doi.org/10.1080/19312458.2013.873777"
       },
       {
         "doi": "10.1080/19312458.2010.527869",
@@ -871,7 +871,7 @@
         ],
         "year": 2012,
         "publication_date": "2012-10-01",
-        "citation_count": 83,
+        "citation_count": 84,
         "topics": [
           "Electrodermal activity",
           "Physiological arousal",
@@ -880,6 +880,24 @@
         ],
         "abstract": "Skin conductance provides an inexpensive and nonreactive measure of electrodermal activity (EDA) that is widely used as an arousal indicator. When communication research employs real-world audiovisual stimuli, the measurement sensitivity of EDA-based data can become challenging. Measures that are commonly employed to correlate EDA with continuous stimuli (the tonic skin conductance level and the frequency of skin conductance responses) are replicable for stimuli of one minute or longer. This article discusses positive changes in EDA (EPC) as a measure that integrates the frequency of skin conductance responses with their amplitude while reducing processing complexity and error. The use of EDA data from 115 subjects demonstrates that EPC is a more accurate measure of stimulus-induced arousal than the response frequency, the conductance baseline, and average skin conductance. Assets and drawbacks are discussed in the context of theoretical and practical issues.",
         "url": "https://doi.org/10.1080/19312458.2012.732627"
+      },
+      {
+        "doi": "10.1080/19312450709336663",
+        "title": "The Role of Numbers and Statistics within Conversation Analysis",
+        "authors": [
+          "Jeffrey D. Robinson"
+        ],
+        "year": 2007,
+        "publication_date": "2007-04-01",
+        "citation_count": 80,
+        "topics": [
+          "Discourse analysis",
+          "Research methodology",
+          "Communication theory",
+          "Interpersonal communication"
+        ],
+        "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
+        "url": "https://doi.org/10.1080/19312450709336663"
       },
       {
         "doi": "10.1080/19312458.2014.903391",
@@ -898,24 +916,6 @@
         ],
         "abstract": "The ability to validly measure campaign exposure is central to claims of public communication campaign effectiveness. Surprisingly, scholars have paid remarkably little attention to questions about the validity of various ways to measure campaign exposure. This paper begins to address this gap by outlining conceptual, empirical, and practical issues in developing valid measures of campaign exposure. First, I offer a brief definition of measurement validity and describe a variety of measurement options utilized in recent, large–scale health communication campaign evaluations. Next, I outline conceptual and empirical assumptions behind these various measurement strategies. I continue with a review of research that has applied validation criteria to specific measures of campaign exposure. I conclude by offering a series of guidelines for exposure measurement and validation practices based on the evidence to date, which I caveat by describing tensions and emergent issues that researchers will need to consider in future work.",
         "url": "https://doi.org/10.1080/19312458.2014.903391"
-      },
-      {
-        "doi": "10.1080/19312450709336663",
-        "title": "The Role of Numbers and Statistics within Conversation Analysis",
-        "authors": [
-          "Jeffrey D. Robinson"
-        ],
-        "year": 2007,
-        "publication_date": "2007-04-01",
-        "citation_count": 79,
-        "topics": [
-          "Discourse analysis",
-          "Research methodology",
-          "Communication theory",
-          "Interpersonal communication"
-        ],
-        "abstract": "In this article, I discuss the role of numbers and statistics within Conversation Analysis (hereafter CA). Due to space limitations, I do not review CA (see Heritage, 1984). Furthermore, I do not f...",
-        "url": "https://doi.org/10.1080/19312450709336663"
       },
       {
         "doi": "10.1080/19312450903378925",
@@ -1105,7 +1105,7 @@
         ],
         "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
-        "trend_score": 0.36
+        "trend_score": 0.352
       },
       {
         "doi": "10.1080/19312458.2026.2652240",
@@ -1145,7 +1145,7 @@
         ],
         "abstract": "Our field has been questioning whether self-reported media use actually captures the time spent using media, resulting in a shift from subjective to objective measurements. We advocate for a new paradigm that, instead of abandoning subjectivity, places it at the center of our research. To this end, we introduce a novel theoretical and methodological framework called 'felt time', which captures nuances in how individuals perceive the passage of time while interacting with media. In two studies (N1 = 68, N2 = 1,030), we develop and validate a measure called the Felt Time Scale (FTS) and its short version (FTS-S), revealing that studies relying on subjective self-reports or the more objective, tracked screen time may have overlooked a critical dimension of users’ media experience: felt time. We validate the scale in the context of screen media use and show empirically that screen engagement situationally alters how people feel time, producing unique effects. We conclude by proposing future directions that integrate this perspective, aiming to foster a more comprehensive understanding of screen time.",
         "url": "https://doi.org/10.1080/19312458.2026.2627548",
-        "trend_score": 0.227
+        "trend_score": 0.223
       },
       {
         "doi": "10.1080/19312458.2025.2605946",
@@ -1207,7 +1207,7 @@
         ],
         "abstract": "This paper discusses automated gender classification for social media profiles. It focuses on epistemological and methodological issues that researchers need to consider when using gender classification techniques. It begins with an examination of the category of gender from a queer feminist perspective in the first part. The second part discusses decision points and their potential impact on results at different stages of the research process: From identifying the research angle, to choosing a method, to analysis and validation, to reporting results. Several existing approaches are critically discussed. In the third part, an empirical case study is presented that follows a multi-step procedure of gender classification that aims to overcome a binary gender logic using different methods, such as dictionaries of gendered attributes and personal pronouns, as well as name-gender-inference. By reflecting on the challenges of each step of the analysis, the procedure follows an approach of discrimination-aware data analysis, which can be conceptualized as a form of intervention within the context of queer data practices.",
         "url": "https://doi.org/10.1080/19312458.2025.2554864",
-        "trend_score": 0.109
+        "trend_score": 0.108
       },
       {
         "doi": "10.1080/19312458.2025.2562034",
@@ -1216,7 +1216,7 @@
           "Mariken Anna Catharina Geertruida van der Velden",
           "Felicia Löecherbach",
           "Wouter van Atteveldt",
-          "Antske Fokkens",
+          "Antske S. Fokkens",
           "Myrthe Reuver",
           "Kasper Welbers"
         ],
@@ -1231,7 +1231,7 @@
         ],
         "abstract": "Information shapes citizens' political decision-making. This process is amply studied by social scientists, who have human annotation as a crucial instrument in their toolkit. To address concerns regarding the validity and reliability of annotation tasks, we establish strict standards. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these standards are more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Our tools to create valid and reliable annotation data currently do not allow for dealing with different perspectives of annotators. In two pre-registered experiments in the United States and the Netherlands, we show that personal characteristics of annotators, like political ideology or knowledge, interfere with annotators' judgement of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
         "url": "https://doi.org/10.1080/19312458.2025.2562034",
-        "trend_score": 0.161
+        "trend_score": 0.159
       },
       {
         "doi": "10.1080/19312458.2025.2551693",
@@ -1253,7 +1253,7 @@
         ],
         "abstract": "This study explores potential biases in current language models for detecting different forms of incivility in online discussions. Our work builds on prior research demonstrating that numerous classification approaches disproportionately focus on overt forms of uncivil language, while more subtle forms of incivility remain underrecognized. Such classification bias may lead to the unfair treatment of social groups that are more frequently targeted by implicit forms of incivility in online debates, such as stereotyping and discrimination, including, for instance, female politicians. On a dataset of 24,681 user comments from YouTube and X, we evaluate state-of-the-art language models including BERT, GPT-4, and Meta Llama 3, for their ability to reliably identify different subtypes of incivility directed at female and male politicians, combining comparative performance evaluation and in-depth error analysis. Our results suggest that stereotyping and discriminatory comments are less reliably classified across all models and learning strategies than, for example, vulgar language and insults, indicating a continued risk of bias toward overt forms of incivility in modern language models. As a result, incivility directed at social groups that are more frequently targeted with stereotyping and discrimination may remain underdetected. With this study, we aim to offer valuable implications for the use of current language models in both incivility research and online moderation, supporting the development of more transparent and fairer artificial intelligence grounded in democratic principles.",
         "url": "https://doi.org/10.1080/19312458.2025.2551693",
-        "trend_score": 0.268
+        "trend_score": 0.265
       },
       {
         "doi": "10.1080/19312458.2025.2553300",
@@ -1278,7 +1278,7 @@
         ],
         "abstract": "This article explores the (in)ability of automated tools to measure the deliberative quality of online user comments along the standards set out by Habermas: interactivity, diversity, rationality, and (in)civility. Utilizing a stratified sample of manually coded comments (n = 3,862) responding to news videos on YouTube and Twitter, we examined the performance of rule-based measures (i.e. dictionaries), machine-learning classifiers (conventional and transformer-based) and measurements by generative AI (Llama 3.1, GPT-4o, GPT-4T). We present results for over 50 metrics side-by-side to judge the opportunity costs of choosing one method over another. The results revealed strong variation across different groups of models. Overall, our expectation that more modern methods (transformers and generative AI) outperform the older, simpler ones was confirmed. However, the absolute differences between these model groups strongly depended on the measured concept, and we observed strong variance in performance among models of the same group. We provide recommendations for future research that balance ease of use with the performance of automated measurements, along with important cautions to consider.",
         "url": "https://doi.org/10.1080/19312458.2025.2553300",
-        "trend_score": 0.211
+        "trend_score": 0.208
       },
       {
         "doi": "10.1080/19312458.2025.2542725",
@@ -1291,7 +1291,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-08-13",
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Political polarization",
           "Social media engagement",
@@ -1300,7 +1300,7 @@
         ],
         "abstract": "Measurements of political polarization online have so far been largely focused on visible traces accessible through platformAPIs,while neglecting invisible traces not recorded or otherwise unavailable via online channels, which can reveal key aspects of political engagement online. Our study aims to address this gap by investigating the polarization measurement bias that arises when only visible engagement is considered. Using a combined dataset that links survey responses with YouTube digital traces froma representative sample of Hungarian Internet users (N=758), we uncover disparities at both user and channel levels.We find that users who visibly engage through commenting are more politically polarized. People tend to comment and subscribe to ideologically concentrated content, while viewingideologically diverse content. We also notice that ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, the segregation ofpolitical channels may be overstated or simplified when relying solely on public comment data. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers online. We highlight the benefits of data donation to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
         "url": "https://doi.org/10.1080/19312458.2025.2542725",
-        "trend_score": 0.1
+        "trend_score": 0.149
       },
       {
         "doi": "10.1080/19312458.2025.2549707",
@@ -1320,7 +1320,7 @@
         ],
         "abstract": "Understanding visual narratives is essential for analyzing media representation. This paper introduces VisTopics, a computational framework for analyzing large-scale visual datasets through frame extraction, deduplication, image captioning, and topic modeling. In Study 1, we apply VisTopics to 452 NBC News videos, reducing 11,070 frames to 6,928 unique images and identifying 35 latent topics – ranging from political unrest to environmental disasters – using Latent Dirichlet Allocation (LDA) on AI-generated captions. Study 2 extends this approach to 7,290 socially mediated news images, demonstrating the method’s scalability beyond video. We validate the reliability of VisTopics through human-coded accuracy, internal coherence metrics, and comparative replication of traditional image clustering methods. Our findings show that caption-based topic modeling captures semantically coherent groupings while enabling interpretable, human-readable outputs. By bridging the gap between visual representation and semantic meaning, VisTopics provides a transformative tool for advancing the methodological toolkit in computational media studies. Future research may leverage VisTopics for comparative analyses across media outlets or geographic regions, offering insights into the shifting landscapes of media narratives and their societal implications.",
         "url": "https://doi.org/10.1080/19312458.2025.2549707",
-        "trend_score": 0.094
+        "trend_score": 0.093
       },
       {
         "doi": "10.1080/19312458.2025.2500329",
@@ -1345,7 +1345,7 @@
         ],
         "abstract": "What is the prevalence of moral themes in textual corpora? Most previous moral mining research has been informed by Moral Foundations Theory (MFT). Here, we develop and evaluate an alternative moral mining tool based on the theory of Morality as Cooperation (MAC), using crowd-sourced annotations and the web-based hybrid content annotation platform, the Moral Narrative Analyzer (MoNA). We compare the empirical performance of the extended Morality as Cooperation Dictionary (eMACD) with previous dictionaries, including the extended Moral Foundations Dictionary (eMFD), across ten validation analyses, encompassing diverse corpora that include news media, journal entries, presidential speeches, social media, and movies. We find that eMACD outperforms previous dictionaries in most cases. We conclude that eMACD is an important addition to the methodological toolkit of researchers examining moral content in textual data, and we provide eMACDscore – a Python-based moral mining tool – to facilitate future research.",
         "url": "https://doi.org/10.1080/19312458.2025.2500329",
-        "trend_score": 0.22
+        "trend_score": 0.218
       },
       {
         "doi": "10.1080/19312458.2025.2482538",
@@ -1359,7 +1359,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-03-26",
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Web scraping",
           "Digital trace data",
@@ -1368,7 +1368,7 @@
         ],
         "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants’ logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
-        "trend_score": 0.448
+        "trend_score": 0.484
       },
       {
         "doi": "10.1080/19312458.2024.2443396",
@@ -1392,7 +1392,7 @@
         ],
         "abstract": "The goal of the current study is to compare different methods for automated object detection (i.e. tag detection, shape detection, matching, and machine learning) with manual coding on different types of objects (i.e. static, dynamic, and dynamic with human interaction) and describe the advantages and limitations of each method. We tested the methods in an experiment that utilizes mobile eye tracking because of the importance of attention in communication science and the challenges posed by this type of data when analyzing different objects because visual parameters are consistently changing within and between participants. Machine learning was found to be the most reliable method to detect all types of objects and was slightly more conservative compared to manual coding. Feature-based matching worked well for static objects. We discuss the advantages and challenges of each method along with key considerations for researchers depending on their research objective, the type of object, and the object detection method they will use.",
         "url": "https://doi.org/10.1080/19312458.2024.2443396",
-        "trend_score": 0.145
+        "trend_score": 0.144
       },
       {
         "doi": "10.1080/19312458.2024.2383453",
@@ -1413,8 +1413,7 @@
           "Natural language processing"
         ],
         "abstract": "This paper demonstrates the performance of the Joint Sentiment Topic model (JST) and the reversed Joint Sentiment Topic model (rJST) in measuring sentiment in political speeches, comparing them against a set of popular methods for sentiment analysis: widely used off-the-shelf sentiment dictionaries; an embeddings-enhanced dictionary approach; Latent Semantic Scaling, a semi-supervised approach; and a zero-shot transformer-based approach using a large language model (GPT-4). The findings reveal JST’s superiority over all non-transformer-based approaches in predicting human-coded sentiment in multiple languages and its ability to replicate known sentiment trends in legislative speech. rJST, meanwhile, provides valuable topic-specific sentiment estimates, responsive to political dynamics and significant events. Both models are, however, outperformed by transformer-based models like GPT-4. Additionally, the paper introduces the ’sentitopics’ R-package, designed to facilitate the use of JST and rJST in computational text analysis workflows. This package is compatible with popular text analysis tools, making the models accessible for applied researchers in communication science.",
-        "url": "https://doi.org/10.1080/19312458.2024.2383453",
-        "trend_score": 0.201
+        "url": "https://doi.org/10.1080/19312458.2024.2383453"
       },
       {
         "doi": "10.1080/19312458.2024.2413973",
@@ -1436,8 +1435,7 @@
           "Social support"
         ],
         "abstract": "This paper illustrates how to implement state space grid analysis for analyzing the back-and-forth multi-turn dynamics that manifest in dyadic conversations. In doing so, we contribute to a dynamic dyadic systems perspective that seeks to advance theories about individual and relational antecedents and outcomes of interpersonal communication through the articulation and study of dyadic interaction dynamics. We first review state space grid terminology, data requirements, visualizations, and quantifications, and how the use of state space grid analysis maps to conversation-related research questions. We then illustrate the application of state space grids to the examination of dyadic support conversations; specifically, we demonstrate how this method can be used to derive parameters that operationalize the use of or movement in the state space and to examine between-dyad differences in movement through the state space. Empirically, we found that conversation behavior flexibility was related to characteristics of the dyadic relationship but not to support receiver outcomes, and that our operationalizations of conversation attractors were related to neither relational characteristics nor support receiver outcomes. We conclude with a discussion of theoretical, methodological, and practical issues that researchers can consider when using state space grids in the analysis of conversation dynamics.",
-        "url": "https://doi.org/10.1080/19312458.2024.2413973",
-        "trend_score": 0.168
+        "url": "https://doi.org/10.1080/19312458.2024.2413973"
       },
       {
         "doi": "10.1080/19312458.2024.2393165",
@@ -1450,7 +1448,7 @@
         ],
         "year": 2024,
         "publication_date": "2024-09-08",
-        "citation_count": 17,
+        "citation_count": 18,
         "topics": [
           "Digital trace data",
           "Web tracking",
@@ -2081,7 +2079,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-03-26",
-        "citation_count": 11,
+        "citation_count": 12,
         "topics": [
           "Web scraping",
           "Digital trace data",
@@ -2090,7 +2088,7 @@
         ],
         "abstract": "As the exploration of digital behavioral data revolutionizes communication research, understanding the nuances of data collection methodologies becomes increasingly pertinent. This study focuses on one prominent data collection approach, web scraping;specifically, its application in the growing field of research relying on web browsing data. We investigate discrepancies between content obtained directly during user interaction with a website (in-situ) and content scraped using the URLs of participants’ logged visits (ex-situ) with various time delays (0, 30, 60, and 90 days). We find substantial disparities between the methodologies, uncovering that errors are not uniformly distributed across news categories regardless of the classification method (domain, URL, or content analysis). These biases compromise the precision of measurements used in the existing literature. The ex-situ collection environment is the primary source of the discrepancies (~33.8%), while the time delays in the scraping process play a smaller role (adding ~6.5% points in 90 days). Our research emphasizes the need for data collection methods that capture web content directly in the user’s environment. However, acknowledging its complexities, we further explore strategies to mitigate biases in web-scraped browsing histories, offering recommendations for researchers who rely on this method and laying the groundwork for developing error-correction frameworks.",
         "url": "https://doi.org/10.1080/19312458.2025.2482538",
-        "trend_score": 0.448
+        "trend_score": 0.484
       },
       {
         "doi": "10.1080/19312458.2026.2664873",
@@ -2111,7 +2109,7 @@
         ],
         "abstract": "Communication is commonly considered a process that is dynamically situated in a temporal context. However, there remains a disconnection between this theoretical dynamicality and the often less dynamic methods that communication scholars use to study it. Given the increasing accessibility of digital trace data, this study provides a methodological overview of how such fine-grained temporal information can be used in communication research. In particular, we show how to retain the hyper-longitudinal information in the trace data and analyze time-evolving “user-sequences,” which capture user activities at high temporal resolution. We then survey a set of established sequential methods, including sequence analysis, event history analysis, hidden Markov models, network analysis, process mining, and language-based models. We also articulate important sequential features that can be studied within user-sequences, such as transitions, subsequences, and trajectories. As an illustrative example, we apply the six methods to real-world user-sequences containing 1,262,775 timestamped traces from 309 unique users, gathered via data donations. Overall, our study provides a methodological overview of sequence analysis applied to digital trace data and offers initial guidance on method selection.",
         "url": "https://doi.org/10.1080/19312458.2026.2664873",
-        "trend_score": 0.36
+        "trend_score": 0.352
       },
       {
         "doi": "10.1080/19312458.2025.2551693",
@@ -2133,7 +2131,7 @@
         ],
         "abstract": "This study explores potential biases in current language models for detecting different forms of incivility in online discussions. Our work builds on prior research demonstrating that numerous classification approaches disproportionately focus on overt forms of uncivil language, while more subtle forms of incivility remain underrecognized. Such classification bias may lead to the unfair treatment of social groups that are more frequently targeted by implicit forms of incivility in online debates, such as stereotyping and discrimination, including, for instance, female politicians. On a dataset of 24,681 user comments from YouTube and X, we evaluate state-of-the-art language models including BERT, GPT-4, and Meta Llama 3, for their ability to reliably identify different subtypes of incivility directed at female and male politicians, combining comparative performance evaluation and in-depth error analysis. Our results suggest that stereotyping and discriminatory comments are less reliably classified across all models and learning strategies than, for example, vulgar language and insults, indicating a continued risk of bias toward overt forms of incivility in modern language models. As a result, incivility directed at social groups that are more frequently targeted with stereotyping and discrimination may remain underdetected. With this study, we aim to offer valuable implications for the use of current language models in both incivility research and online moderation, supporting the development of more transparent and fairer artificial intelligence grounded in democratic principles.",
         "url": "https://doi.org/10.1080/19312458.2025.2551693",
-        "trend_score": 0.268
+        "trend_score": 0.265
       },
       {
         "doi": "10.1080/19312458.2026.2627548",
@@ -2153,7 +2151,7 @@
         ],
         "abstract": "Our field has been questioning whether self-reported media use actually captures the time spent using media, resulting in a shift from subjective to objective measurements. We advocate for a new paradigm that, instead of abandoning subjectivity, places it at the center of our research. To this end, we introduce a novel theoretical and methodological framework called 'felt time', which captures nuances in how individuals perceive the passage of time while interacting with media. In two studies (N1 = 68, N2 = 1,030), we develop and validate a measure called the Felt Time Scale (FTS) and its short version (FTS-S), revealing that studies relying on subjective self-reports or the more objective, tracked screen time may have overlooked a critical dimension of users’ media experience: felt time. We validate the scale in the context of screen media use and show empirically that screen engagement situationally alters how people feel time, producing unique effects. We conclude by proposing future directions that integrate this perspective, aiming to foster a more comprehensive understanding of screen time.",
         "url": "https://doi.org/10.1080/19312458.2026.2627548",
-        "trend_score": 0.227
+        "trend_score": 0.223
       },
       {
         "doi": "10.1080/19312458.2025.2500329",
@@ -2178,7 +2176,7 @@
         ],
         "abstract": "What is the prevalence of moral themes in textual corpora? Most previous moral mining research has been informed by Moral Foundations Theory (MFT). Here, we develop and evaluate an alternative moral mining tool based on the theory of Morality as Cooperation (MAC), using crowd-sourced annotations and the web-based hybrid content annotation platform, the Moral Narrative Analyzer (MoNA). We compare the empirical performance of the extended Morality as Cooperation Dictionary (eMACD) with previous dictionaries, including the extended Moral Foundations Dictionary (eMFD), across ten validation analyses, encompassing diverse corpora that include news media, journal entries, presidential speeches, social media, and movies. We find that eMACD outperforms previous dictionaries in most cases. We conclude that eMACD is an important addition to the methodological toolkit of researchers examining moral content in textual data, and we provide eMACDscore – a Python-based moral mining tool – to facilitate future research.",
         "url": "https://doi.org/10.1080/19312458.2025.2500329",
-        "trend_score": 0.22
+        "trend_score": 0.218
       },
       {
         "doi": "10.1080/19312458.2025.2553300",
@@ -2203,52 +2201,7 @@
         ],
         "abstract": "This article explores the (in)ability of automated tools to measure the deliberative quality of online user comments along the standards set out by Habermas: interactivity, diversity, rationality, and (in)civility. Utilizing a stratified sample of manually coded comments (n = 3,862) responding to news videos on YouTube and Twitter, we examined the performance of rule-based measures (i.e. dictionaries), machine-learning classifiers (conventional and transformer-based) and measurements by generative AI (Llama 3.1, GPT-4o, GPT-4T). We present results for over 50 metrics side-by-side to judge the opportunity costs of choosing one method over another. The results revealed strong variation across different groups of models. Overall, our expectation that more modern methods (transformers and generative AI) outperform the older, simpler ones was confirmed. However, the absolute differences between these model groups strongly depended on the measured concept, and we observed strong variance in performance among models of the same group. We provide recommendations for future research that balance ease of use with the performance of automated measurements, along with important cautions to consider.",
         "url": "https://doi.org/10.1080/19312458.2025.2553300",
-        "trend_score": 0.211
-      },
-      {
-        "doi": "10.1080/19312458.2024.2383453",
-        "title": "JST and rJST: joint estimation of sentiment and topics in textual data using a semi-supervised approach",
-        "authors": [
-          "Christian Pipal",
-          "Martijn Schoonvelde",
-          "Gijs Schumacher",
-          "Max Boiten"
-        ],
-        "year": 2024,
-        "publication_date": "2024-10-18",
-        "citation_count": 6,
-        "topics": [
-          "Sentiment analysis",
-          "Topic modeling",
-          "Political communication",
-          "Natural language processing"
-        ],
-        "abstract": "This paper demonstrates the performance of the Joint Sentiment Topic model (JST) and the reversed Joint Sentiment Topic model (rJST) in measuring sentiment in political speeches, comparing them against a set of popular methods for sentiment analysis: widely used off-the-shelf sentiment dictionaries; an embeddings-enhanced dictionary approach; Latent Semantic Scaling, a semi-supervised approach; and a zero-shot transformer-based approach using a large language model (GPT-4). The findings reveal JST’s superiority over all non-transformer-based approaches in predicting human-coded sentiment in multiple languages and its ability to replicate known sentiment trends in legislative speech. rJST, meanwhile, provides valuable topic-specific sentiment estimates, responsive to political dynamics and significant events. Both models are, however, outperformed by transformer-based models like GPT-4. Additionally, the paper introduces the ’sentitopics’ R-package, designed to facilitate the use of JST and rJST in computational text analysis workflows. This package is compatible with popular text analysis tools, making the models accessible for applied researchers in communication science.",
-        "url": "https://doi.org/10.1080/19312458.2024.2383453",
-        "trend_score": 0.201
-      },
-      {
-        "doi": "10.1080/19312458.2024.2413973",
-        "title": "Using State Space Grids to Quantify and Examine Dynamics of Dyadic Conversation",
-        "authors": [
-          "Miriam Brinberg",
-          "Denise Haunani Solomon",
-          "Graham D. Bodie",
-          "Susanne M. Jones",
-          "Nilám Ram"
-        ],
-        "year": 2024,
-        "publication_date": "2024-10-17",
-        "citation_count": 5,
-        "topics": [
-          "Interpersonal communication",
-          "Computational methods",
-          "Longitudinal study",
-          "Social support"
-        ],
-        "abstract": "This paper illustrates how to implement state space grid analysis for analyzing the back-and-forth multi-turn dynamics that manifest in dyadic conversations. In doing so, we contribute to a dynamic dyadic systems perspective that seeks to advance theories about individual and relational antecedents and outcomes of interpersonal communication through the articulation and study of dyadic interaction dynamics. We first review state space grid terminology, data requirements, visualizations, and quantifications, and how the use of state space grid analysis maps to conversation-related research questions. We then illustrate the application of state space grids to the examination of dyadic support conversations; specifically, we demonstrate how this method can be used to derive parameters that operationalize the use of or movement in the state space and to examine between-dyad differences in movement through the state space. Empirically, we found that conversation behavior flexibility was related to characteristics of the dyadic relationship but not to support receiver outcomes, and that our operationalizations of conversation attractors were related to neither relational characteristics nor support receiver outcomes. We conclude with a discussion of theoretical, methodological, and practical issues that researchers can consider when using state space grids in the analysis of conversation dynamics.",
-        "url": "https://doi.org/10.1080/19312458.2024.2413973",
-        "trend_score": 0.168
+        "trend_score": 0.208
       },
       {
         "doi": "10.1080/19312458.2025.2562034",
@@ -2257,7 +2210,7 @@
           "Mariken Anna Catharina Geertruida van der Velden",
           "Felicia Löecherbach",
           "Wouter van Atteveldt",
-          "Antske Fokkens",
+          "Antske S. Fokkens",
           "Myrthe Reuver",
           "Kasper Welbers"
         ],
@@ -2272,7 +2225,29 @@
         ],
         "abstract": "Information shapes citizens' political decision-making. This process is amply studied by social scientists, who have human annotation as a crucial instrument in their toolkit. To address concerns regarding the validity and reliability of annotation tasks, we establish strict standards. Due to the democratization of data and the advances in NLP more data can be analyzed or classified, making these standards are more important than ever: An algorithm trained on biased data will reproduce and often exacerbate bias. Our tools to create valid and reliable annotation data currently do not allow for dealing with different perspectives of annotators. In two pre-registered experiments in the United States and the Netherlands, we show that personal characteristics of annotators, like political ideology or knowledge, interfere with annotators' judgement of political stances. Our results show that to improve annotated data for automated text analyses, and for stance detection models in particular, we need to critically evaluate how we create our gold standards.",
         "url": "https://doi.org/10.1080/19312458.2025.2562034",
-        "trend_score": 0.161
+        "trend_score": 0.159
+      },
+      {
+        "doi": "10.1080/19312458.2025.2542725",
+        "title": "The public that engages invisibly: what visible engagement fails to capture in online political communication",
+        "authors": [
+          "Yijing Chen",
+          "Zoltán Kmetty",
+          "Gerardo Íñiguez",
+          "Elisa Omodei"
+        ],
+        "year": 2025,
+        "publication_date": "2025-08-13",
+        "citation_count": 3,
+        "topics": [
+          "Political polarization",
+          "Social media engagement",
+          "Echo chambers",
+          "Data donation"
+        ],
+        "abstract": "Measurements of political polarization online have so far been largely focused on visible traces accessible through platformAPIs,while neglecting invisible traces not recorded or otherwise unavailable via online channels, which can reveal key aspects of political engagement online. Our study aims to address this gap by investigating the polarization measurement bias that arises when only visible engagement is considered. Using a combined dataset that links survey responses with YouTube digital traces froma representative sample of Hungarian Internet users (N=758), we uncover disparities at both user and channel levels.We find that users who visibly engage through commenting are more politically polarized. People tend to comment and subscribe to ideologically concentrated content, while viewingideologically diverse content. We also notice that ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, the segregation ofpolitical channels may be overstated or simplified when relying solely on public comment data. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers online. We highlight the benefits of data donation to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
+        "url": "https://doi.org/10.1080/19312458.2025.2542725",
+        "trend_score": 0.149
       },
       {
         "doi": "10.1080/19312458.2024.2443396",
@@ -2296,7 +2271,7 @@
         ],
         "abstract": "The goal of the current study is to compare different methods for automated object detection (i.e. tag detection, shape detection, matching, and machine learning) with manual coding on different types of objects (i.e. static, dynamic, and dynamic with human interaction) and describe the advantages and limitations of each method. We tested the methods in an experiment that utilizes mobile eye tracking because of the importance of attention in communication science and the challenges posed by this type of data when analyzing different objects because visual parameters are consistently changing within and between participants. Machine learning was found to be the most reliable method to detect all types of objects and was slightly more conservative compared to manual coding. Feature-based matching worked well for static objects. We discuss the advantages and challenges of each method along with key considerations for researchers depending on their research objective, the type of object, and the object detection method they will use.",
         "url": "https://doi.org/10.1080/19312458.2024.2443396",
-        "trend_score": 0.145
+        "trend_score": 0.144
       },
       {
         "doi": "10.1080/19312458.2025.2554864",
@@ -2315,29 +2290,7 @@
         ],
         "abstract": "This paper discusses automated gender classification for social media profiles. It focuses on epistemological and methodological issues that researchers need to consider when using gender classification techniques. It begins with an examination of the category of gender from a queer feminist perspective in the first part. The second part discusses decision points and their potential impact on results at different stages of the research process: From identifying the research angle, to choosing a method, to analysis and validation, to reporting results. Several existing approaches are critically discussed. In the third part, an empirical case study is presented that follows a multi-step procedure of gender classification that aims to overcome a binary gender logic using different methods, such as dictionaries of gendered attributes and personal pronouns, as well as name-gender-inference. By reflecting on the challenges of each step of the analysis, the procedure follows an approach of discrimination-aware data analysis, which can be conceptualized as a form of intervention within the context of queer data practices.",
         "url": "https://doi.org/10.1080/19312458.2025.2554864",
-        "trend_score": 0.109
-      },
-      {
-        "doi": "10.1080/19312458.2025.2542725",
-        "title": "The public that engages invisibly: what visible engagement fails to capture in online political communication",
-        "authors": [
-          "Yijing Chen",
-          "Zoltán Kmetty",
-          "Gerardo Íñiguez",
-          "Elisa Omodei"
-        ],
-        "year": 2025,
-        "publication_date": "2025-08-13",
-        "citation_count": 2,
-        "topics": [
-          "Political polarization",
-          "Social media engagement",
-          "Echo chambers",
-          "Data donation"
-        ],
-        "abstract": "Measurements of political polarization online have so far been largely focused on visible traces accessible through platformAPIs,while neglecting invisible traces not recorded or otherwise unavailable via online channels, which can reveal key aspects of political engagement online. Our study aims to address this gap by investigating the polarization measurement bias that arises when only visible engagement is considered. Using a combined dataset that links survey responses with YouTube digital traces froma representative sample of Hungarian Internet users (N=758), we uncover disparities at both user and channel levels.We find that users who visibly engage through commenting are more politically polarized. People tend to comment and subscribe to ideologically concentrated content, while viewingideologically diverse content. We also notice that ideologically heterogeneous channels are more likely to share viewers than subscribers or commenters. Thus, the segregation ofpolitical channels may be overstated or simplified when relying solely on public comment data. Our results suggest that research using only visible engagement may overestimate the extent of polarization and the prevalence of echo chambers online. We highlight the benefits of data donation to address measurement bias in online political communication, and contribute to the polarization literature by providing a fresh evaluation of potential biases in platform-focused research.",
-        "url": "https://doi.org/10.1080/19312458.2025.2542725",
-        "trend_score": 0.1
+        "trend_score": 0.108
       },
       {
         "doi": "10.1080/19312458.2025.2549707",
@@ -2357,7 +2310,7 @@
         ],
         "abstract": "Understanding visual narratives is essential for analyzing media representation. This paper introduces VisTopics, a computational framework for analyzing large-scale visual datasets through frame extraction, deduplication, image captioning, and topic modeling. In Study 1, we apply VisTopics to 452 NBC News videos, reducing 11,070 frames to 6,928 unique images and identifying 35 latent topics – ranging from political unrest to environmental disasters – using Latent Dirichlet Allocation (LDA) on AI-generated captions. Study 2 extends this approach to 7,290 socially mediated news images, demonstrating the method’s scalability beyond video. We validate the reliability of VisTopics through human-coded accuracy, internal coherence metrics, and comparative replication of traditional image clustering methods. Our findings show that caption-based topic modeling captures semantically coherent groupings while enabling interpretable, human-readable outputs. By bridging the gap between visual representation and semantic meaning, VisTopics provides a transformative tool for advancing the methodological toolkit in computational media studies. Future research may leverage VisTopics for comparative analyses across media outlets or geographic regions, offering insights into the shifting landscapes of media narratives and their societal implications.",
         "url": "https://doi.org/10.1080/19312458.2025.2549707",
-        "trend_score": 0.094
+        "trend_score": 0.093
       }
     ]
   }

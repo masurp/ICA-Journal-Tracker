@@ -5,8 +5,128 @@
     <link>https://masurp.github.io/ICA-Journal-Tracker/</link>
     <description>Newest papers from the 1 Amsterdam University Press journals tracked (CCR), with AI-generated topic keywords. Updated weekly.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:12:57 GMT</lastBuildDate>
     <atom:link href="https://masurp.github.io/ICA-Journal-Tracker/feeds/aup.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deconstructing the MeToo Movement and the Blue Wave in the 2018 House Elections</title>
+      <link>https://doi.org/10.5117/ccr2026.3.4.shen</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.4.shen</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Lucas Shen</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>MeToo movement</category>
+      <category>Social movements</category>
+      <category>Election campaigns</category>
+      <category>Political participation</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Lucas Shen&lt;/p&gt;
+&lt;p&gt;Topics: MeToo movement, Social movements, Election campaigns, Political participation&lt;/p&gt;
+&lt;p&gt;At the peak of the #MeToo movement in 2018 is the historical performance of women candidates in the 2018 midterm elections. I examine three ways in which the movement could have an electoral impact using geocoded #MeToo tweets that text analyses show engage core movement discourse and figures, and that geographically predict individual attitudes. I find no credible evidence that the movement increased Democratic vote shares or turnout. Instead, I find that in districts with a stronger movement, Democratic women are more likely to challenge their co-partisan male incumbents, a pattern absent in the Republican Party and in 2016. Hence, the more likely channel is the rise of new Democratic women through a weakening of party norms against same-party challenges.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators</title>
+      <link>https://doi.org/10.5117/ccr2026.4.7.jo</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.4.7.jo</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Wonjeong Jo, Miki Wesołowska, Magdalena Wojcieszak</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Content moderation</category>
+      <category>Large Language Models</category>
+      <category>Digital platforms</category>
+      <category>Misinformation</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Wonjeong Jo, Miki Wesołowska, Magdalena Wojcieszak&lt;/p&gt;
+&lt;p&gt;Topics: Content moderation, Large Language Models, Digital platforms, Misinformation&lt;/p&gt;
+&lt;p&gt;Video platforms, used by billions globally, are criticized for exposing users to harmful content. Yet, detecting online harm remains challenging due to inconsistent approaches to what constitutes harm and limitations of human annotation. We address both challenges. Theoretically, we integrate and expand existing taxonomies and platform guidelines to multimodal contexts and develop a comprehensive taxonomy for online harm. We categorize online harm on video platforms into six content-based categories: Information, Hate and harassment, Addictive, Clickbait, Sexual, and Physical harms. Methodologically, we propose and systematically test multimodal large language models (MLLMs) as alternative annotators of harmful videos. We curate a dataset of 19,422 potentially harmful YouTube videos and annotate them using GPT-4-Turbo, non-trained crowdworkers, and trained annotators. We discuss the potential applications of MLLMs in platform content moderation and social science research, particularly in contexts where they perform comparably to human annotators in binary and multi-label classification tasks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A privacy-preserving approach to identify riot-related footage on social media</title>
+      <link>https://doi.org/10.5117/ccr2026.3.6.vanh</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.6.vanh</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Bryan van Horik, Naufal El Khatibi, Maurits van Galen, Lucas Spierenburg</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Computational methods</category>
+      <category>Social media analysis</category>
+      <category>Visual communication</category>
+      <category>Machine learning</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Bryan van Horik, Naufal El Khatibi, Maurits van Galen, Lucas Spierenburg&lt;/p&gt;
+&lt;p&gt;Topics: Computational methods, Social media analysis, Visual communication, Machine learning&lt;/p&gt;
+&lt;p&gt;Visual social media data provides unprecedented opportunities for studying riot dynamics at fine spatiotemporal scales, yet analyzing such content raises significant privacy concerns as images can identify individuals participating in politically sensitive events. This creates tension between analytical transparency and ethical obligations that existing methods inadequately address. We propose a privacy-preserving methodology for identifying riot-related content from visual social media posts by converting images to text descriptions during data collection, then classifying these captions rather than analyzing raw visual content. Using France’s 2023 riots as a case study, we collect 107,674 Snapchat posts (19% of images, 81 % of videos) and process them through a BLIP2 image-to-text model, generating descriptive captions at a frame rate of 2 frames per second. A BERT classifier trained on 2,084 manually annotated captions achieves an F1 score of 0.73±0.03 at video-level classification, approaching the performance of direct computer vision methods (F1=0.72) while substantially enhancing privacy protection. The methodology enables researchers to share interpretable text data for replication and secondary analysis, reconciling open science principles with privacy requirements. While computational costs increase significantly (2.7B vs 5M parameters), this trade-off represents a meaningful advance for ethically studying social movements through visual social media data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Using GitHub Actions for Computational Communication Research</title>
+      <link>https://doi.org/10.5117/ccr2026.1.14.dean</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.14.dean</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Inessa De Angelis</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Computational methods</category>
+      <category>Research methodology</category>
+      <category>Communication science</category>
+      <category>Digital trace data</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Inessa De Angelis&lt;/p&gt;
+&lt;p&gt;Topics: Computational methods, Research methodology, Communication science, Digital trace data&lt;/p&gt;
+&lt;p&gt;Communication researchers increasingly use computational methods to collect and analyze large datasets. Part of the promise of these methods is their ability to increase the reproducibility and transparency of workflows. Taking up calls for more reproducible workflows and better recognition of the tools used in communication research, this paper introduces GitHub Actions for automated data collection. I describe the components required to set up and run a GitHub Actions workflow and illustrate its utility by discussing how I collected Bluesky posts tagged with &amp;quot;#CdnPoli&amp;quot; during the 2025 Canadian federal election. I conclude by offering best practices for other researchers, contributing to the development and documentation of reproducible workflows for computational communication research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Computational Analysis of News Content Diversity: A Comparison of Methods for Measuring Topics, Actors and Viewpoints</title>
+      <link>https://doi.org/10.5117/ccr2026.1.15.kili</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.15.kili</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Elif Kılık</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Computational text analysis</category>
+      <category>News media</category>
+      <category>Content analysis</category>
+      <category>Machine learning</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Elif Kılık&lt;/p&gt;
+&lt;p&gt;Topics: Computational text analysis, News media, Content analysis, Machine learning&lt;/p&gt;
+&lt;p&gt;The rise of digital platforms poses challenges for news media that may threaten content diversity. Despite growing scholarly interest, existing research largely relies on manual content analysis, while computational studies typically lack validation and comparative assessment. Addressing this gap, this study systematically compares four computational approaches, supervised classification, topic modeling, named entity recognition, and open-source Large Language Models (LLMs), against human annotations for identifying topics, actors and viewpoints as conceptualized in communication and journalism studies, using Dutch public broadcaster coverage of Covid-19 as a test case. Findings reveal varying performance at each step of the proposed diversity analysis pipeline. Zero-shot learning with open-source LLMs outperforms supervised classifiers for extracting the main topic of news articles, whereas BERTopic outperforms LDA for nuanced sub-topic clusters. Combining named entity recognition with a RoBERTa-based quote classifier identifies and categorizes journalistic actors, with LLMs a comparable alternative. While measuring viewpoints remains challenging for both automated models and human annotators, the study shows that computational techniques enable detailed topic and actor analysis of whose views are represented across issues and subdimensions. The resulting pipeline is modular as each component can be applied across languages and issues and refined as methods advance.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just redo it? An assessment of study attributes and open science practices affecting the potential reproducibility and replicability of research in Computational Communication Science</title>
+      <link>https://doi.org/10.5117/ccr2026.1.16.breu</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.16.breu</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Johannes Breuer, Philipp Knöpfle, Mario Haim</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Computational methods</category>
+      <category>Research methodology</category>
+      <category>Communication science</category>
+      <category>Machine learning</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Johannes Breuer, Philipp Knöpfle, Mario Haim&lt;/p&gt;
+&lt;p&gt;Topics: Computational methods, Research methodology, Communication science, Machine learning&lt;/p&gt;
+&lt;p&gt;This study examines factors that affect the potential reproducibility and replicability of research in Computational Communication Science (CCS). Through a systematic literature review and content analysis of 476 CCS publications, we assessed open science practices that influence reproducibility and study attributes that can influence the reproducibility as well as the replicability of research in this field. Our findings reveal low rates of data and code sharing that reduce the reproducibility of CCS research. In addition, we find a high prevalence of media content and self-report data and a widespread use of APIs and database downloads for data collection in CCS studies, which can negatively impact both reproducibility and replicability. We discuss the implications of these findings and propose ways in which they might be addressed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>When Validation Disagrees: How Validation Choices Shape Word Embedding Selection in Computational Communication Science</title>
+      <link>https://doi.org/10.5117/ccr2026.1.17.bern</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.17.bern</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Computational methods</category>
+      <category>Measurement validity</category>
+      <category>Machine learning</category>
+      <category>Natural language processing</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
+&lt;p&gt;Topics: Computational methods, Measurement validity, Machine learning, Natural language processing&lt;/p&gt;
+&lt;p&gt;In the computational communication sciences, accurately representing text as data is essential for making valid analysis. Word embeddings are one option of representing texts. However, selecting a suitable model remains challenging, due to the sheer plethora of options. To examine the impact of validation methods on model selection, we develop 320 specialised word embeddings using fastText and validate the models using both quantitative methods, including intrinsic (semantic and syntactic tasks) and extrinsic (author classification, topic classification, sentiment analysis) evaluations, and qualitative methods based on analysing nearest neighbours and semantic similarity relationships, to highlight the different conclusions they lead to. Specifically, we find that models favoured by intrinsic benchmarks are not consistently those that perform best on extrinsic tasks, leading to substantially different nearest-neighbour structures for key concepts across validation strategies. Based on these findings, we provide practical recommendations for validating word embedding models in social science research, including aligning validation strategies with research goals, distinguishing between model and result validation, assessing stability across models and configurations, and combining quantitative and qualitative evaluation approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>From Codebooks to Scalable Frame Detection with LLMs: A Zero-Shot Approach via Binary Questions</title>
+      <link>https://doi.org/10.5117/ccr2026.1.12.olie</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.12.olie</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Juan Sebastián Olier</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Framing analysis</category>
+      <category>Large Language Models</category>
+      <category>Zero-shot learning</category>
+      <category>Media framing</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Juan Sebastián Olier&lt;/p&gt;
+&lt;p&gt;Topics: Framing analysis, Large Language Models, Zero-shot learning, Media framing&lt;/p&gt;
+&lt;p&gt;Framing analysis is essential for understanding how media and political discourse shape public perception, yet automating it at scale remains challenging and often relies on large annotated datasets. Large language models (LLMs) offer a promising alternative, but their use has been limited by reliance on lengthy, abstract codebook prompts and a focus on proprietary models. This study investigates a zero-shot approach using open-source LLMs prompted with binary questions derived from simplified, descriptive codebook statements. Using the Gun Violence Frame Classification (GVFC) dataset, three approaches are compared: (1) binary indicator questions based on simplified codebook entries, (2) direct classification using full codebook descriptions, and (3) a sentence similarity baseline. The binary question approach achieves performance comparable to fine-tuned models (accuracy of 0.81 vs. 0.84) without any training or fine-tuning and outperforms the full codebook prompting method by over 20% in accuracy. Furthermore, the binary questions approach enhances transparency by linking decisions directly to specific natural language statements. These results demonstrate that simplifying prompts for LLMs is a feasible way to bridge the gap between qualitative codebooks and scalable, transparent frame classification. The study provides a comparative evaluation of LLM-based strategies and models, along with practical guidance for application and reproducibility.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Beyond Keywords: Comparing LLM-Assisted Topic Modeling Approaches Across Political Communication Contexts</title>
       <link>https://doi.org/10.5117/ccr2026.2.12.wang</link>
@@ -23,47 +143,17 @@
 &lt;p&gt;This study provides a comprehensive evaluation of large language model (LLM)-assisted topic modeling across diverse political communication datasets, proposing a conceptual distinction between topic categorization (manifest subject mapping) and concept induction (latent construct discovery). We compare four methods, LDA, BERTopic, TopicGPT, and LLooM paired with four proprietary LLMs and one open-weights model across social media posts, party platforms, and legislative bills. Using a multi-dimensional framework of alignment, coherence, diversity, and human interpretability, we find that TopicGPT excels at high-precision topic categorization, achieving peak semantic alignment especially in structured policy contexts. Conversely, LLooM functions as a powerful tool for concept induction; although it may diverge from manifest ground-truth labels, it frequently demonstrates stronger text-topic relevance by capturing latent discursive logics that deductive approaches may overlook. Our findings further reveal that GPT-family models generally mitigate semantic vagueness, whereas the open-weights model shows a distinctive capacity for thematic diversity and performs competitively in some alignment settings, though its performance varies across contexts. Human annotation uncovers a semantic compression loss, where models identify rich latent themes but struggle to condense them into concise labels, highlighting the persistent need for human interpretive oversight. We conclude by offering an epistemological and practical framework to guide communication scholars in selecting GenAI-assisted methods that align with their theoretical level of meaning.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Using GitHub Actions for Computational Communication Research</title>
-      <link>https://doi.org/10.5117/ccr2026.1.14.dean</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.14.dean</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Inessa De Angelis</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Computational methods</category>
-      <category>Research methodology</category>
-      <category>Communication science</category>
-      <category>Digital trace data</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Inessa De Angelis&lt;/p&gt;
-&lt;p&gt;Topics: Computational methods, Research methodology, Communication science, Digital trace data&lt;/p&gt;
-&lt;p&gt;Communication researchers increasingly use computational methods to collect and analyze large datasets. Part of the promise of these methods is their ability to increase the reproducibility and transparency of workflows. Taking up calls for more reproducible workflows and better recognition of the tools used in communication research, this paper introduces GitHub Actions for automated data collection. I describe the components required to set up and run a GitHub Actions workflow and illustrate its utility by discussing how I collected Bluesky posts tagged with &amp;quot;#CdnPoli&amp;quot; during the 2025 Canadian federal election. I conclude by offering best practices for other researchers, contributing to the development and documentation of reproducible workflows for computational communication research.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A privacy-preserving approach to identify riot-related footage on social media</title>
-      <link>https://doi.org/10.5117/ccr2026.3.6.vanh</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.6.vanh</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Bryan van Horik, Naufal El Khatibi, Maurits van Galen, Lucas Spierenburg</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Computational methods</category>
-      <category>Social media analysis</category>
-      <category>Visual communication</category>
-      <category>Machine learning</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Bryan van Horik, Naufal El Khatibi, Maurits van Galen, Lucas Spierenburg&lt;/p&gt;
-&lt;p&gt;Topics: Computational methods, Social media analysis, Visual communication, Machine learning&lt;/p&gt;
-&lt;p&gt;Visual social media data provides unprecedented opportunities for studying riot dynamics at fine spatiotemporal scales, yet analyzing such content raises significant privacy concerns as images can identify individuals participating in politically sensitive events. This creates tension between analytical transparency and ethical obligations that existing methods inadequately address. We propose a privacy-preserving methodology for identifying riot-related content from visual social media posts by converting images to text descriptions during data collection, then classifying these captions rather than analyzing raw visual content. Using France’s 2023 riots as a case study, we collect 107,674 Snapchat posts (19% of images, 81 % of videos) and process them through a BLIP2 image-to-text model, generating descriptive captions at a frame rate of 2 frames per second. A BERT classifier trained on 2,084 manually annotated captions achieves an F1 score of 0.73±0.03 at video-level classification, approaching the performance of direct computer vision methods (F1=0.72) while substantially enhancing privacy protection. The methodology enables researchers to share interpretable text data for replication and secondary analysis, reconciling open science principles with privacy requirements. While computational costs increase significantly (2.7B vs 5M parameters), this trade-off represents a meaningful advance for ethically studying social movements through visual social media data.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Leveraging Survey-Informed LLM Personas to Identify Cultural References : Enhancing Inclusivity in News Reporting</title>
       <link>https://doi.org/10.5117/ccr2026.2.10.pill</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.10.pill</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Reshmi Pillai, Antske Fokkens, Wouter van Atteveldt</dc:creator>
+      <dc:creator>Reshmi Gopalakrishna Pillai, Antske S. Fokkens, Wouter van Atteveldt</dc:creator>
       <category>Computational Communication Research</category>
       <category>Large Language Models</category>
       <category>Journalism</category>
       <category>Cross-cultural communication</category>
       <category>Audience perception</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Reshmi Pillai, Antske Fokkens, Wouter van Atteveldt&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Reshmi Gopalakrishna Pillai, Antske S. Fokkens, Wouter van Atteveldt&lt;/p&gt;
 &lt;p&gt;Topics: Large Language Models, Journalism, Cross-cultural communication, Audience perception&lt;/p&gt;
 &lt;p&gt;With increasingly mobile and diverse audiences, newsrooms worldwide face the growing challenge of addressing the needs of, and fostering meaningful connections with, a wide range of audience segments. We explore the possibility of using LLM personas to support inclusivity in news writing by identifying cultural references in news reports which pose challenges for non-native news readers. We design and implement a pipeline for building and evaluating persona of specific groups (international students, knowledge workers and non-knowledge workers) within non-native news readers in two modes: (1) minimal demographics (occupation, age) and (2) demographics plus survey-derived information. The results demonstrate that persona-driven prompting can support inclusivity in journalism, albeit with certain limitations. Qualitative evaluation showed reasonable alignment between LLM outputs prompted with the same persona, and improvement in LLM performance with additional prompt inputs based on survey data. The present results show, for the first time, empirical analysis of the application of LLM personas in identifying cultural references. Our approach can be useful for journalists to receive regular and on-the-go feedback on culturally complex references, which might require simplification or additional explanation, thus making news reports better accessible for diverse audience.&lt;/p&gt;</description>
     </item>
@@ -147,13 +237,13 @@
       <link>https://doi.org/10.5117/ccr2026.1.7.schr</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.7.schr</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Lotte Schrijver, Rens Vliegenthart, Pearl A. Dykstra</dc:creator>
+      <dc:creator>Lotte L. Schrijver, Rens Vliegenthart, Pearl A. Dykstra</dc:creator>
       <category>Computational Communication Research</category>
       <category>Misinformation</category>
       <category>Machine learning</category>
       <category>COVID-19 pandemic</category>
       <category>Twitter</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Lotte Schrijver, Rens Vliegenthart, Pearl A. Dykstra&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Lotte L. Schrijver, Rens Vliegenthart, Pearl A. Dykstra&lt;/p&gt;
 &lt;p&gt;Topics: Misinformation, Machine learning, COVID-19 pandemic, Twitter&lt;/p&gt;
 &lt;p&gt;Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.&lt;/p&gt;</description>
     </item>
@@ -192,13 +282,13 @@
       <link>https://doi.org/10.5117/ccr2026.3.5.much</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.5.much</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Melina Much, Daniel Ebanks, Sara Kangaslahti, Jean Kossaifi, R. Michael Alvarez, Anqi Liu, Anima Anandkumar</dc:creator>
+      <dc:creator>Melina Much, Daniel Ebanks, Sara Kangaslahti, Jean Kossaifi, R. Michael Alvarez, Anqi Liu, Animashree Anandkumar</dc:creator>
       <category>Computational Communication Research</category>
       <category>Social movements</category>
       <category>Digital activism</category>
       <category>Social media discourse</category>
       <category>Twitter</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Melina Much, Daniel Ebanks, Sara Kangaslahti, Jean Kossaifi, R. Michael Alvarez, Anqi Liu, Anima Anandkumar&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Melina Much, Daniel Ebanks, Sara Kangaslahti, Jean Kossaifi, R. Michael Alvarez, Anqi Liu, Animashree Anandkumar&lt;/p&gt;
 &lt;p&gt;Topics: Social movements, Digital activism, Social media discourse, Twitter&lt;/p&gt;
 &lt;p&gt;Twitter (now X) represented an invaluable space for sparking and mobilizing political movements. An example of this is the #MeToo movement beginning in 2017, which was one of the largest social and political reckonings with sexual violence the U.S. has ever seen. This study analyzes over 8 million tweets related to #MeToo over two years, aiming to provide new insights into the movement’s dynamics and its relationship to fourth-wave feminism. Our findings challenge assumptions about consciousness-raising efforts, showing that politicized calls to action do not immediately materialize in online spaces. The study also highlights a lack of intersectional discourse in consciousness-raising discussions, emphasizing the need for broader considerations of gendered sexual violence. We further offer among the first systematic evidence of the relative scale of #MeToo’s reactionary counter-movement, finding that oppositional discourse had come to dominate Twitter’s #MeToo ecosystem by 2019.&lt;/p&gt;</description>
     </item>
@@ -312,13 +402,13 @@
       <link>https://doi.org/10.5117/ccr2026.3.2.stei</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.2.stei</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <dc:creator>ZACHARY STEINERT-THRELKELD, Karsten Donnay, Jungseock Joo, Thomas C. Zeitzoff, Stuart Soroka, Phillip Kling, Alexander Chan</dc:creator>
+      <dc:creator>ZACHARY STEINERT-THRELKELD, Karsten Donnay, Jungseock Joo, Thomas Zeitzoff, Stuart Soroka, Phillip Kling, Alexander Chan</dc:creator>
       <category>Computational Communication Research</category>
       <category>Media framing</category>
       <category>Social media</category>
       <category>Visual communication</category>
       <category>Journalism</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · ZACHARY STEINERT-THRELKELD, Karsten Donnay, Jungseock Joo, Thomas C. Zeitzoff, Stuart Soroka, Phillip Kling, Alexander Chan&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · ZACHARY STEINERT-THRELKELD, Karsten Donnay, Jungseock Joo, Thomas Zeitzoff, Stuart Soroka, Phillip Kling, Alexander Chan&lt;/p&gt;
 &lt;p&gt;Topics: Media framing, Social media, Visual communication, Journalism&lt;/p&gt;
 &lt;p&gt;Recent developments in both mobile technology and social media have produced significant shifts in both the volume and nature of current events images available to the public. Whereas images of current events used to be the sole domain of professional photojournalists, now nearly anyone with a mobile phone can witness and photograph an event, and distribute that photograph to the public at large. This paper explores roughly 9.5 million tweets and nearly 807,000 images about the August 2017 Unite the Right protest in Charlottesville, VA. We assign “frames” to images, and consider variation in framing across news organizations and individuals. We find individuals&amp;#x27; accounts engage in more diverse framing than news organizations, and that there is no convergence of framing over time between individuals and the media. These results have important implications for the diversity of perspectives represented in online discourse, and raise questions about the roles – both positive and negative – of “citizen photojournalists.”&lt;/p&gt;</description>
     </item>
@@ -666,96 +756,6 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Luiz  Neves, Chico Q. Camargo, Luisa Massarani&lt;/p&gt;
 &lt;p&gt;Topics: Large Language Models, Machine learning, Natural language processing, Vaccine news coverage&lt;/p&gt;
 &lt;p&gt;The introduction of Transformers, neural networks employing self-attention mechanisms, revolutionized Natural Language Processing, handling long-range dependencies and capturing context effectively. Models like BERT and GPT, trained on massive text data, are at the forefront of Large Language Models and have found widespread use in text classification. Despite their benchmark performance, real-world applications pose challenges, including the requirement for substantial labeled data and class balance. Few-shot learning approaches, like the Recognizing Textual Entailment framework, have emerged to address these issues. RTE identifies relationships between a text T and a hypothesis H. T entails H if the meaning of H, as interpreted in the context of T, can be inferred from the meaning of T. This study explores an RTE- based framework for classifying vaccine-related news headlines with only 751 labeled data points distributed unevenly across 10 classes. The study evaluates eight models and procedures. The results highlight that deep transfer learning, combining language and task knowledge, like Transformers and RTE, enables the development of text classification models with superior performance, effectively addressing data scarcity and class imbalance. This approach provides a valuable protocol for creating new text classification models and delivers an advanced automated model for classifying vaccine- related content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies</title>
-      <link>https://doi.org/10.5117/ccr2024.2.2.hase</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.2.2.hase</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Valerie Hase, Mario Haim</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Digital trace data</category>
-      <category>Survey methodology</category>
-      <category>Research methodology</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Valerie Hase, Mario Haim&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Digital trace data, Survey methodology, Research methodology&lt;/p&gt;
-&lt;p&gt;Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anything you would like to share: Evaluating a data donation application in a survey and field study</title>
-      <link>https://doi.org/10.5117/ccr2024.2.5.welb</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.2.5.welb</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Kasper Welbers, Felicia Löecherbach, Zilin Lin, Damian Trilling</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Digital trace data</category>
-      <category>Research methodology</category>
-      <category>Media use</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Kasper Welbers, Felicia Löecherbach, Zilin Lin, Damian Trilling&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Digital trace data, Research methodology, Media use&lt;/p&gt;
-&lt;p&gt;Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The blind spot in data donations: who is (not) willing to donate digital data in social scientific research</title>
-      <link>https://doi.org/10.5117/ccr2024.2.3.stry</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.2.3.stry</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Joanna Strycharz, Corine S. Meppelink, Brahim Zarouali, Theo Araujo, Hilde A. M. Voorveld</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Computational methods</category>
-      <category>Research methodology</category>
-      <category>Digital trace data</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Joanna Strycharz, Corine S. Meppelink, Brahim Zarouali, Theo Araujo, Hilde A. M. Voorveld&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Computational methods, Research methodology, Digital trace data&lt;/p&gt;
-&lt;p&gt;The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What makes computational communication science (ir)reproducible?</title>
-      <link>https://doi.org/10.5117/ccr2024.1.5.chan</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.1.5.chan</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Chung-hong  Chan, Tim Schatto‐Eckrodt, Johannes B. Gruber</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Computational methods</category>
-      <category>Research methodology</category>
-      <category>Communication science</category>
-      <category>Computational communication science</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Chung-hong  Chan, Tim Schatto‐Eckrodt, Johannes B. Gruber&lt;/p&gt;
-&lt;p&gt;Topics: Computational methods, Research methodology, Communication science, Computational communication science&lt;/p&gt;
-&lt;p&gt;Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Data Donation Module: A Web Application for Collecting and Enriching Data Donations</title>
-      <link>https://doi.org/10.5117/ccr2024.2.4.pfif</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.2.4.pfif</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Nico Pfiffner, Pim Witlox, Thomas N. Friemel</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Digital trace data</category>
-      <category>Research methodology</category>
-      <category>Computational methods</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Nico Pfiffner, Pim Witlox, Thomas N. Friemel&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Digital trace data, Research methodology, Computational methods&lt;/p&gt;
-&lt;p&gt;Currently, few tools are openly available that researchers can use to collect data donations. The Data Donation Module (DDM) presented in this paper addresses this gap and provides a new solution for collecting data donations from citizens. The DDM is a web application that provides researchers with the means to guide participants through the data donation process, define rules on how the personal data provided by the participants are preprocessed and filtered before being transmitted to the researchers, and optionally enrich the donated data with the participants’ self-reports, collected through an integrated questionnaire. The design of the DDM builds on a particular set of principles that distinguishes it from other data donation tools. First, it can be deployed at an institutional level and can support multiple data donation projects simultaneously. Second, it emphasizes the usability of the application for both participants and researchers. Third, it offers additional built-in data enrichment features, such as the possibility to include information contained in a data donation in the integrated questionnaire. In this paper, we further elaborate on these principles, present the DDM’s core functionalities from both the participants’ and the researchers’ perspectives, and provide an outlook on the application’s accessibility and sustainability.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enabling Online Advertising Transparency through Data Donation Methods</title>
-      <link>https://doi.org/10.5117/ccr2024.2.6.angu</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2024.2.6.angu</guid>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <dc:creator>Daniel J. Angus, Abdul Karim Obeid, Jean Burgess, Christine Parker, Mark Andrejevic, Nicholas Carah, Xue Ying Tan</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Digital platforms</category>
-      <category>Social media advertising</category>
-      <category>Computational methods</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Daniel J. Angus, Abdul Karim Obeid, Jean Burgess, Christine Parker, Mark Andrejevic, Nicholas Carah, Xue Ying Tan&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Digital platforms, Social media advertising, Computational methods&lt;/p&gt;
-&lt;p&gt;Advertising has historically played a major cultural role in media and society; targeted advertising based on the detailed profiling of consumers has become central to the business models of commercial digital and social media platforms. Despite their immense cultural and economic significance, the operations of these advertising systems are difficult to observe, preventing the independent, systematic study of both advertising content and how it is delivered to audiences. This paper details a novel data donation infrastructure aimed at improving the observability of both of these aspects of platform-based advertising. The infrastructure includes custom plugins developed for major web browsers to capture web-based Facebook advertising content and targeting information from individual Facebook users for large- scale offline analysis. The paper describes the technical components of the infrastructure, including the plugin(s), data storage, data processing and enrichment, and researcher dashboard. We also discuss preliminary findings from case studies conducted using the tool, the ethical considerations associated with the research, and insights for future data donation projects.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
