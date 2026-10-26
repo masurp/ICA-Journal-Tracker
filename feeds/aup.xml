@@ -5,7 +5,7 @@
     <link>https://masurp.github.io/ICA-Journal-Tracker/</link>
     <description>Newest papers from the 1 Amsterdam University Press journals tracked (CCR), with AI-generated topic keywords. Updated weekly.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:18:33 GMT</lastBuildDate>
     <atom:link href="https://masurp.github.io/ICA-Journal-Tracker/feeds/aup.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deconstructing the MeToo Movement and the Blue Wave in the 2018 House Elections</title>
@@ -102,13 +102,13 @@
       <link>https://doi.org/10.5117/ccr2026.1.17.bern</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.17.bern</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
+      <dc:creator>Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
       <category>Computational Communication Research</category>
       <category>Computational methods</category>
       <category>Measurement validity</category>
       <category>Machine learning</category>
       <category>Natural language processing</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
 &lt;p&gt;Topics: Computational methods, Measurement validity, Machine learning, Natural language processing&lt;/p&gt;
 &lt;p&gt;In the computational communication sciences, accurately representing text as data is essential for making valid analysis. Word embeddings are one option of representing texts. However, selecting a suitable model remains challenging, due to the sheer plethora of options. To examine the impact of validation methods on model selection, we develop 320 specialised word embeddings using fastText and validate the models using both quantitative methods, including intrinsic (semantic and syntactic tasks) and extrinsic (author classification, topic classification, sentiment analysis) evaluations, and qualitative methods based on analysing nearest neighbours and semantic similarity relationships, to highlight the different conclusions they lead to. Specifically, we find that models favoured by intrinsic benchmarks are not consistently those that perform best on extrinsic tasks, leading to substantially different nearest-neighbour structures for key concepts across validation strategies. Based on these findings, we provide practical recommendations for validating word embedding models in social science research, including aligning validation strategies with research goals, distinguishing between model and result validation, assessing stability across models and configurations, and combining quantitative and qualitative evaluation approaches.&lt;/p&gt;</description>
     </item>
@@ -458,21 +458,6 @@
 &lt;p&gt;The representation of gender in large language models (LLMs) can reflect and reinforce existing sociocultural inequalities. However, the nature of such gender biases can differ significantly across languages, influenced by linguistic features and a model’s training data. In this study, we investigate gender representation in 24 open-weight LLMs across six linguistically distinct languages (English, German, Russian, Czech, Albanian, and Serbian). Extending beyond binary frameworks, we incorporate nonbinary individuals as response options and examine associations across psychometrically validated stereotype dimensions (agency, communality, dominance, weakness, and giftedness). Our analysis accounts for variations between and within model families and differences in sampling parameters. The results reveal that traditional gender stereotypes persist with varying degrees of strength, while nonbinary associations show substantial cross-linguistic variations. Temperature analysis demonstrates that such associations are deeply embedded in model parameters rather than being artifacts of sampling procedures. These findings suggest that gender bias identification and potential mitigation in LLMs are shaped by both contextual and technical factors. Overall, our findings challenge the notion that gender bias is a simple, measurable construct, highlighting its complex, context-dependent nature across languages, models, and stereotype dimensions. Effective bias mitigation requires interventions at the level of training data, model architecture, or alignment procedures.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Reddit Conversation Laboratory: Field experiments with conversational AI agents</title>
-      <link>https://doi.org/10.5117/ccr2026.2.5.foot</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.5.foot</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jeremy Foote, Loizos Bitsikokos, Hitesh Goel, Deepak Kumar</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Generative AI</category>
-      <category>Human-AI interaction</category>
-      <category>Research methodology</category>
-      <category>Social media platforms</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jeremy Foote, Loizos Bitsikokos, Hitesh Goel, Deepak Kumar&lt;/p&gt;
-&lt;p&gt;Topics: Generative AI, Human-AI interaction, Research methodology, Social media platforms&lt;/p&gt;
-&lt;p&gt;LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>When More Shots Don’t Help: LLM Sensitivity and Variability in Social Media Annotation and Stance Detection of Health Information</title>
       <link>https://doi.org/10.5117/ccr2026.1.4.sun</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.4.sun</guid>
@@ -486,6 +471,21 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Luhang Sun, Varsha Pendyala, Yun-Shiuan Chuang, Shanglin Yang, Jonathan Feldman, Andrew Zhao, Munmun De Choudhury, Sijia Yang, Dhavan V. Shah&lt;/p&gt;
 &lt;p&gt;Topics: Large Language Models, Health communication, Social media analysis, Machine learning&lt;/p&gt;
 &lt;p&gt;This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit Conversation Laboratory: Field experiments with conversational AI agents</title>
+      <link>https://doi.org/10.5117/ccr2026.2.5.foot</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.5.foot</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Jeremy Foote, Loizos Bitsikokos, Hitesh Goel, Deepak Kumar</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Generative AI</category>
+      <category>Human-AI interaction</category>
+      <category>Research methodology</category>
+      <category>Social media platforms</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jeremy Foote, Loizos Bitsikokos, Hitesh Goel, Deepak Kumar&lt;/p&gt;
+&lt;p&gt;Topics: Generative AI, Human-AI interaction, Research methodology, Social media platforms&lt;/p&gt;
+&lt;p&gt;LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Longitudinal Data Donation Behavior and Data Omission across Four Social Media Platforms</title>

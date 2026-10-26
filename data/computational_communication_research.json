@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-10-19T12:12:25Z",
-  "trending_from": "2024-10-19",
+  "updated_at": "2026-10-26T12:18:13Z",
+  "trending_from": "2024-10-26",
   "sections": {
     "most_cited": [
       {
@@ -13,7 +13,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-01-01",
-        "citation_count": 83,
+        "citation_count": 84,
         "topics": [
           "Computational methods",
           "Social media analysis",
@@ -55,7 +55,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 75,
+        "citation_count": 76,
         "topics": [
           "TikTok",
           "Political communication",
@@ -185,7 +185,7 @@
         ],
         "year": 2020,
         "publication_date": "2020-10-01",
-        "citation_count": 32,
+        "citation_count": 33,
         "topics": [
           "Topic modeling",
           "Computational methods",
@@ -734,7 +734,7 @@
         "doi": "10.5117/ccr2023.1.13.bern",
         "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
         "authors": [
-          "Jana Bernhard",
+          "Jana Bernhard-Harrer",
           "Martin Teuffenbach",
           "Hajo G. Boomgaarden"
         ],
@@ -827,7 +827,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.299
+        "trend_score": 0.297
       },
       {
         "doi": "10.5117/ccr2022.2.003.vrie",
@@ -1148,7 +1148,7 @@
         "doi": "10.5117/ccr2026.1.17.bern",
         "title": "When Validation Disagrees: How Validation Choices Shape Word Embedding Selection in Computational Communication Science",
         "authors": [
-          "Jana Bernhard",
+          "Jana Bernhard-Harrer",
           "Paul Balluff",
           "Ahrabhi Kathirgamalingam"
         ],
@@ -1555,7 +1555,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-04-21",
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Generative AI",
           "AI-generated content",
@@ -1655,6 +1655,33 @@
         "url": "https://doi.org/10.5117/ccr2026.2.11.urma"
       },
       {
+        "doi": "10.5117/ccr2026.1.4.sun",
+        "title": "When More Shots Don’t Help: LLM Sensitivity and Variability in Social Media Annotation and Stance Detection of Health Information",
+        "authors": [
+          "Luhang Sun",
+          "Varsha Pendyala",
+          "Yun-Shiuan Chuang",
+          "Shanglin Yang",
+          "Jonathan Feldman",
+          "Andrew Zhao",
+          "Munmun De Choudhury",
+          "Sijia Yang",
+          "Dhavan V. Shah"
+        ],
+        "year": 2026,
+        "publication_date": "2026-03-10",
+        "citation_count": 2,
+        "topics": [
+          "Large Language Models",
+          "Health communication",
+          "Social media analysis",
+          "Machine learning"
+        ],
+        "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
+        "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
+        "trend_score": 0.148
+      },
+      {
         "doi": "10.5117/ccr2026.2.5.foot",
         "title": "Reddit Conversation Laboratory: Field experiments with conversational AI agents",
         "authors": [
@@ -1674,32 +1701,6 @@
         ],
         "abstract": "LLM-based generative AI agents are the first autonomous technologies that can act as true conversational partners. Communication researchers and others have already begun to explore the influence of AI conversations on their interlocutors. We present a methodological framework and software tool for conducting field experiments with AI agents on Reddit. The Reddit Conversational Laboratory is Python-based software that identifies potential participants, messages and consents them, and conducts conversational experiments with researcher-designed AI chatbots. In addition to storing all conversations, the software can also record participant behavior before and after conversations. In this paper, we outline design principles, best practices for using the tool, and possibilities for future extensions.",
         "url": "https://doi.org/10.5117/ccr2026.2.5.foot"
-      },
-      {
-        "doi": "10.5117/ccr2026.1.4.sun",
-        "title": "When More Shots Don’t Help: LLM Sensitivity and Variability in Social Media Annotation and Stance Detection of Health Information",
-        "authors": [
-          "Luhang Sun",
-          "Varsha Pendyala",
-          "Yun-Shiuan Chuang",
-          "Shanglin Yang",
-          "Jonathan Feldman",
-          "Andrew Zhao",
-          "Munmun De Choudhury",
-          "Sijia Yang",
-          "Dhavan V. Shah"
-        ],
-        "year": 2026,
-        "publication_date": "2026-03-10",
-        "citation_count": 1,
-        "topics": [
-          "Large Language Models",
-          "Health communication",
-          "Social media analysis",
-          "Machine learning"
-        ],
-        "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
-        "url": "https://doi.org/10.5117/ccr2026.1.4.sun"
       },
       {
         "doi": "10.5117/ccr2026.1.3.wede",
@@ -1778,7 +1779,7 @@
         ],
         "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
         "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.137
+        "trend_score": 0.135
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -1799,7 +1800,7 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.137
+        "trend_score": 0.135
       },
       {
         "doi": "10.5117/ccr2026.1.1.haga",
@@ -1917,7 +1918,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.299
+        "trend_score": 0.297
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -1937,7 +1938,7 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.171
+        "trend_score": 0.169
       },
       {
         "doi": "10.5117/ccr2025.1.5.chew",
@@ -1959,7 +1960,7 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.086
+        "trend_score": 0.085
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
@@ -1982,7 +1983,7 @@
         ],
         "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
         "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
-        "trend_score": 0.082
+        "trend_score": 0.081
       },
       {
         "doi": "10.5117/ccr2025.1.3.dumi",
@@ -2086,7 +2087,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.299
+        "trend_score": 0.297
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -2106,7 +2107,34 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.171
+        "trend_score": 0.169
+      },
+      {
+        "doi": "10.5117/ccr2026.1.4.sun",
+        "title": "When More Shots Don’t Help: LLM Sensitivity and Variability in Social Media Annotation and Stance Detection of Health Information",
+        "authors": [
+          "Luhang Sun",
+          "Varsha Pendyala",
+          "Yun-Shiuan Chuang",
+          "Shanglin Yang",
+          "Jonathan Feldman",
+          "Andrew Zhao",
+          "Munmun De Choudhury",
+          "Sijia Yang",
+          "Dhavan V. Shah"
+        ],
+        "year": 2026,
+        "publication_date": "2026-03-10",
+        "citation_count": 2,
+        "topics": [
+          "Large Language Models",
+          "Health communication",
+          "Social media analysis",
+          "Machine learning"
+        ],
+        "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
+        "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
+        "trend_score": 0.148
       },
       {
         "doi": "10.5117/ccr2026.2.4.liu",
@@ -2126,7 +2154,7 @@
         ],
         "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
         "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.137
+        "trend_score": 0.135
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -2147,7 +2175,7 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.137
+        "trend_score": 0.135
       },
       {
         "doi": "10.5117/ccr2025.1.5.chew",
@@ -2169,7 +2197,7 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.086
+        "trend_score": 0.085
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
@@ -2192,7 +2220,7 @@
         ],
         "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
         "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
-        "trend_score": 0.082
+        "trend_score": 0.081
       }
     ]
   }
