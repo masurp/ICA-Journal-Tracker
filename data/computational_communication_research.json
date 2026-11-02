@@ -1,7 +1,7 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-10-26T12:18:13Z",
-  "trending_from": "2024-10-26",
+  "updated_at": "2026-11-02T14:49:14Z",
+  "trending_from": "2024-11-02",
   "sections": {
     "most_cited": [
       {
@@ -35,7 +35,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 81,
+        "citation_count": 83,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -55,7 +55,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 76,
+        "citation_count": 77,
         "topics": [
           "TikTok",
           "Political communication",
@@ -101,7 +101,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-02-01",
-        "citation_count": 65,
+        "citation_count": 66,
         "topics": [
           "Platform governance",
           "Short-form video",
@@ -293,6 +293,27 @@
         "url": "https://doi.org/10.5117/ccr2022.1.009.peng"
       },
       {
+        "doi": "10.5117/ccr2022.1.003.chen",
+        "title": "Visual Framing of Science Conspiracy Videos",
+        "authors": [
+          "Kaiping Chen",
+          "Sang Jung Kim",
+          "Qiantong Gao",
+          "Sebastian Raschka"
+        ],
+        "year": 2022,
+        "publication_date": "2022-02-01",
+        "citation_count": 23,
+        "topics": [
+          "Science conspiracy",
+          "Visual framing",
+          "Conspiracy theories",
+          "Computational methods"
+        ],
+        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
+        "url": "https://doi.org/10.5117/ccr2022.1.003.chen"
+      },
+      {
         "doi": "10.5117/ccr2020.1.003.loec",
         "title": "3bij3 – Developing a framework for researching recommender systems and their effects",
         "authors": [
@@ -310,27 +331,6 @@
         ],
         "abstract": "Today’s online news environment is increasingly characterized by personalized news selections, relying on algorithmic solutions for extracting relevant articles and composing an individual’s news diet. Yet, the impact of such recommendation algorithms on how we consume and perceive news is still understudied. We therefore developed one of the first software solutions to conduct studies on effects of news recommender systems in a realistic setting. The web app of our framework (called 3bij3) displays real-time news articles selected by different mechanisms. 3bij3 can be used to conduct large-scale field experiments, in which participants’ use of the site can be tracked over extended periods of time. Compared to previous work, 3bij3 gives researchers control over the recommendation system under study and creates a realistic environment for the participants. It integrates web scraping, different methods to compare and classify news articles, different recommender systems, a web interface for participants, gamification elements, and a user survey to enrich the behavioral measures obtained.",
         "url": "https://doi.org/10.5117/ccr2020.1.003.loec"
-      },
-      {
-        "doi": "10.5117/ccr2022.1.003.chen",
-        "title": "Visual Framing of Science Conspiracy Videos",
-        "authors": [
-          "Kaiping Chen",
-          "Sang Jung Kim",
-          "Qiantong Gao",
-          "Sebastian Raschka"
-        ],
-        "year": 2022,
-        "publication_date": "2022-02-01",
-        "citation_count": 22,
-        "topics": [
-          "Science conspiracy",
-          "Visual framing",
-          "Conspiracy theories",
-          "Computational methods"
-        ],
-        "abstract": "Recent years have witnessed an explosion of science conspiracy videos on the Internet, challenging science epistemology and public understanding of science. Scholars have started to examine the persuasion techniques used in conspiracy messages such as uncertainty and fear yet, little is understood about the visual narratives, especially how visual narratives differ in videos that debunk conspiracies versus those that propagate conspiracies. This paper addresses this gap in understanding visual framing in conspiracy videos through analyzing millions of frames from conspiracy and counter-conspiracy YouTube videos using computational methods. We found that conspiracy videos tended to use lower color variance and brightness, especially in thumbnails and earlier parts of the videos. This paper also demonstrates how researchers can integrate textual and visual features in machine learning modelsto study conspiracies on social mediaand discusses the implications of computational modeling for scholars interested in studying visual manipulation in the digital era. The analysis of visual and textual features presented in this paper could be useful for future studies focused on designing systems to identify conspiracy content on the Internet.",
-        "url": "https://doi.org/10.5117/ccr2022.1.003.chen"
       },
       {
         "doi": "10.5117/ccr2023.2.2.lich",
@@ -624,6 +624,27 @@
         "url": "https://doi.org/10.5117/ccr2023.2.10.chen"
       },
       {
+        "doi": "10.5117/ccr2024.2.5.welb",
+        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
+        "authors": [
+          "Kasper Welbers",
+          "Felicia Löecherbach",
+          "Zilin Lin",
+          "Damian Trilling"
+        ],
+        "year": 2024,
+        "publication_date": "2024-01-01",
+        "citation_count": 11,
+        "topics": [
+          "Data donation",
+          "Digital trace data",
+          "Research methodology",
+          "Media use"
+        ],
+        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
+        "url": "https://doi.org/10.5117/ccr2024.2.5.welb"
+      },
+      {
         "doi": "10.5117/ccr2023.2.6.mate",
         "title": "Machine Translation as an Underrated Ingredient? Solving Classification Tasks with Large Language Models for Comparative Research",
         "authors": [
@@ -665,27 +686,6 @@
         ],
         "abstract": "The social science toolkit for computational text analysis is still very much in the making. We know surprisingly little about how to produce valid insights from large amounts of multilingual texts for comparative social science research. In this paper, we test several recent innovations from deep transfer learning to help advance the computational toolkit for social science research in multilingual settings. We investigate the extent to which ‘prior language and task knowledge’ stored in the parameters of modern language models is useful for enabling multilingual research; we investigate the extent to which these algorithms can be fruitfully combined with machine translation; and we investigate whether these methods are not only accurate but also practical and valid in multilingual settings – three essential conditions for lowering the language barrier in practice. We use two datasets with texts in 12 languages from 27 countries for our investigation. Our analysis shows, that, based on these innovations, supervised machine learning can produce substantively meaningful outputs. Our BERT-NLI model trained on only 674 or 1674 texts in only one or two languages can validly predict political party families’ stances towards immigration in eight other languages and ten other countries.",
         "url": "https://doi.org/10.5117/ccr2023.2.7.laur"
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "publication_date": "2024-01-01",
-        "citation_count": 11,
-        "topics": [
-          "Data donation",
-          "Digital trace data",
-          "Research methodology",
-          "Media use"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb"
       },
       {
         "doi": "10.5117/ccr2024.2.3.stry",
@@ -827,7 +827,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.297
+        "trend_score": 0.294
       },
       {
         "doi": "10.5117/ccr2022.2.003.vrie",
@@ -1679,7 +1679,7 @@
         ],
         "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
         "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
-        "trend_score": 0.148
+        "trend_score": 0.145
       },
       {
         "doi": "10.5117/ccr2026.2.5.foot",
@@ -1779,7 +1779,7 @@
         ],
         "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
         "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.135
+        "trend_score": 0.133
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -1800,7 +1800,7 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.135
+        "trend_score": 0.133
       },
       {
         "doi": "10.5117/ccr2026.1.1.haga",
@@ -1918,7 +1918,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.297
+        "trend_score": 0.294
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -1938,7 +1938,7 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.169
+        "trend_score": 0.168
       },
       {
         "doi": "10.5117/ccr2025.1.5.chew",
@@ -1960,7 +1960,7 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.085
+        "trend_score": 0.084
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
@@ -2087,7 +2087,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.297
+        "trend_score": 0.294
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -2107,7 +2107,7 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.169
+        "trend_score": 0.168
       },
       {
         "doi": "10.5117/ccr2026.1.4.sun",
@@ -2134,7 +2134,7 @@
         ],
         "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
         "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
-        "trend_score": 0.148
+        "trend_score": 0.145
       },
       {
         "doi": "10.5117/ccr2026.2.4.liu",
@@ -2154,7 +2154,7 @@
         ],
         "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
         "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.135
+        "trend_score": 0.133
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -2175,7 +2175,7 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.135
+        "trend_score": 0.133
       },
       {
         "doi": "10.5117/ccr2025.1.5.chew",
@@ -2197,7 +2197,7 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.085
+        "trend_score": 0.084
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
