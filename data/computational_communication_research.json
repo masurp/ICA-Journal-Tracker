@@ -1,28 +1,9 @@
 {
   "journal_id": "computational_communication_research",
-  "updated_at": "2026-11-02T14:49:14Z",
-  "trending_from": "2024-11-02",
+  "updated_at": "2026-11-09T15:15:39Z",
+  "trending_from": "2024-11-09",
   "sections": {
     "most_cited": [
-      {
-        "doi": "10.2139/ssrn.3914892",
-        "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
-        "authors": [
-          "Stijn Peeters",
-          "Sal Hagen"
-        ],
-        "year": 2021,
-        "publication_date": "2021-01-01",
-        "citation_count": 84,
-        "topics": [
-          "Computational methods",
-          "Social media analysis",
-          "Research methodology",
-          "Computational text analysis"
-        ],
-        "abstract": "This paper introduces the 4CAT Capture and Analysis Toolkit (4CAT), an open-source Web-based research tool. 4CAT can capture data from a variety of online sources (including Twitter, Telegram, Reddit, 4chan, 8kun, BitChute, Douban and Parler) and analyze them through analytical processors. 4CAT seeks to make robust data capture and analysis available to researchers not familiar with computer programming, without ‘black-boxing’ the implemented research methods. Before outlining the practical use of 4CAT, we discuss three ‘affordances’ that inform its design: modularity, transparency, and traceability. 4CAT is modular because new data sources and analytical processors can be easily added and changed; transparent because it aims to render legible its inner workings; and traceable because of automatic and shareable documentation of intermediate analysis steps. We then show how 4CAT operationalizes these features through a description of its general setup and a short walkthrough. Finally, we discuss how 4CAT strives for an ‘ethics by design’ development philosophy that enables ethically sound data-driven research. 4CAT is then positioned as both an answer to and a further call for ‘tool criticism’ in computational social research.",
-        "url": "https://doi.org/10.2139/ssrn.3914892"
-      },
       {
         "doi": "10.5117/ccr2022.2.002.boes",
         "title": "A framework for privacy preserving digital trace data collection through data donation",
@@ -35,7 +16,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 83,
+        "citation_count": 150,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -46,16 +27,35 @@
         "url": "https://doi.org/10.5117/ccr2022.2.002.boes"
       },
       {
+        "doi": "10.5117/ccr2022.2.007.hage",
+        "title": "The 4CAT Capture and Analysis Toolkit: A Modular Tool for Transparent and Traceable Social Media Research",
+        "authors": [
+          "Stijn Peeters",
+          "Sal Hagen"
+        ],
+        "year": 2021,
+        "publication_date": "2021-01-01",
+        "citation_count": 101,
+        "topics": [
+          "Computational methods",
+          "Social media analysis",
+          "Computational text analysis",
+          "Research methodology"
+        ],
+        "abstract": "This paper introduces the 4CAT Capture and Analysis Toolkit (4CAT), an open-source Web-based research tool. 4CAT can capture data from a variety of online sources (including Twitter, Telegram, Reddit, 4chan, 8kun, BitChute, Douban and Parler) and analyze them through analytical processors. 4CAT seeks to make robust data capture and analysis available to researchers not familiar with computer programming, without ‘black-boxing’ the implemented research methods. Before outlining the practical use of 4CAT, we discuss three ‘affordances’ that inform its design: modularity, transparency, and traceability. 4CAT is modular because new data sources and analytical processors can be easily added and changed; transparent because it aims to render legible its inner workings; and traceable because of automatic and shareable documentation of intermediate analysis steps. We then show how 4CAT operationalizes these features through a description of its general setup and a short walkthrough. Finally, we discuss how 4CAT strives for an ‘ethics by design’ development philosophy that enables ethically sound data-driven research. 4CAT is then positioned as both an answer to and a further call for ‘tool criticism’ in computational social research.",
+        "url": "https://doi.org/10.5117/ccr2022.2.007.hage"
+      },
+      {
         "doi": "10.5117/ccr2022.2.004.guin",
         "title": "Fifteen Seconds of Fame: TikTok and the Supply Side of Social Video",
         "authors": [
           "Benjamin Guinaudeau",
           "Kevin Munger",
-          "Fabio A. Votta"
+          "Fabio Votta"
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 77,
+        "citation_count": 87,
         "topics": [
           "TikTok",
           "Political communication",
@@ -82,7 +82,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 72,
+        "citation_count": 86,
         "topics": [
           "Data donation",
           "Digital trace data",
@@ -101,7 +101,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-02-01",
-        "citation_count": 66,
+        "citation_count": 73,
         "topics": [
           "Platform governance",
           "Short-form video",
@@ -119,7 +119,7 @@
         ],
         "year": 2020,
         "publication_date": "2020-02-01",
-        "citation_count": 42,
+        "citation_count": 43,
         "topics": [
           "Artificial intelligence",
           "Computational methods",
@@ -128,26 +128,6 @@
         ],
         "abstract": "Conversational agents in the form of chatbots available in messaging platforms are gaining increasing relevance in our communication environment. Based on natural language processing and generation techniques, they are built to automatically interact with users in several contexts. We present here a tool, the Conversational Agent Research Toolkit (CART), aimed at enabling researchers to create conversational agents for experimental studies. CART integrates existing APIs frequently used in practice and provides functionality that allows researchers to create and manage multiple versions of a chatbot to be used as stimuli in experimental studies. This paper provides an overview of the tool and provides a step-by-step tutorial of to design an experiment with a chatbot.",
         "url": "https://doi.org/10.5117/ccr2020.1.002.arau"
-      },
-      {
-        "doi": "10.5117/ccr2020.1.005.kath",
-        "title": "Detecting Impoliteness and Incivility in Online Discussions",
-        "authors": [
-          "Anke Stoll",
-          "Marc Ziegele",
-          "Oliver Quiring"
-        ],
-        "year": 2020,
-        "publication_date": "2020-02-01",
-        "citation_count": 36,
-        "topics": [
-          "Online harassment",
-          "Computational methods",
-          "Machine learning",
-          "Content moderation"
-        ],
-        "abstract": "Impoliteness and incivility in online discussions have recently been discussed as relevant issues in communication science. However, automatically detecting these concepts with computational methods is challenging. In our study, we build and compare supervised classification models to predict impoliteness and incivility in online discussions on German media outlets on Facebook. Using a sample of 10,000 hand-coded user comments and a theory-grounded coding scheme, we develop classifiers on different feature sets including unigram and n-gram distributions as well as various dictionary-based features. Our findings show that impoliteness and incivility can be measured to a certain extent on the word level of a comment, but the models suffer from high misclassification rates, even if lexical resources are included. This is mainly because the classifiers cannot reveal subtle forms of incivility and because comment authors often use predictive words of incivility or impoliteness in non-offensive ways or in different contexts. Still, when applying the classifiers to a comparable set of comments, we find that the machine-coded categories and the hand-coded categories reveal similar patterns regarding the distribution of and the user reactions to uncivil/impolite comments. The findings of our study therefore provide new insights into the supervised machine learning approach to the detection of different forms of offensive language.",
-        "url": "https://doi.org/10.5117/ccr2020.1.005.kath"
       },
       {
         "doi": "10.5117/ccr2021.1.001.chan",
@@ -164,7 +144,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-03-01",
-        "citation_count": 34,
+        "citation_count": 38,
         "topics": [
           "Sentiment analysis",
           "Computational text analysis",
@@ -173,6 +153,26 @@
         ],
         "abstract": "We examined the validity of 37 sentiment scores based on dictionary-based methods using a large news corpus and demonstrated the risk of generating a spectrum of results with different levels of statistical significance by presenting an analysis of relationships between news sentiment and U.S. presidential approval. We summarize our findings into four best practices: 1) use a suitable sentiment dictionary; 2) do not assume that the validity and reliability of the dictionary is ‘built-in’; 3) check for the influence of content length and 4) do not use multiple dictionaries to test the same statistical hypothesis.",
         "url": "https://doi.org/10.5117/ccr2021.1.001.chan"
+      },
+      {
+        "doi": "10.5117/ccr2020.1.005.kath",
+        "title": "Detecting Impoliteness and Incivility in Online Discussions",
+        "authors": [
+          "Anke Stoll",
+          "Marc Ziegele",
+          "Oliver Quiring"
+        ],
+        "year": 2020,
+        "publication_date": "2020-02-01",
+        "citation_count": 37,
+        "topics": [
+          "Online harassment",
+          "Computational methods",
+          "Machine learning",
+          "Content moderation"
+        ],
+        "abstract": "Impoliteness and incivility in online discussions have recently been discussed as relevant issues in communication science. However, automatically detecting these concepts with computational methods is challenging. In our study, we build and compare supervised classification models to predict impoliteness and incivility in online discussions on German media outlets on Facebook. Using a sample of 10,000 hand-coded user comments and a theory-grounded coding scheme, we develop classifiers on different feature sets including unigram and n-gram distributions as well as various dictionary-based features. Our findings show that impoliteness and incivility can be measured to a certain extent on the word level of a comment, but the models suffer from high misclassification rates, even if lexical resources are included. This is mainly because the classifiers cannot reveal subtle forms of incivility and because comment authors often use predictive words of incivility or impoliteness in non-offensive ways or in different contexts. Still, when applying the classifiers to a comparable set of comments, we find that the machine-coded categories and the hand-coded categories reveal similar patterns regarding the distribution of and the user reactions to uncivil/impolite comments. The findings of our study therefore provide new insights into the supervised machine learning approach to the detection of different forms of offensive language.",
+        "url": "https://doi.org/10.5117/ccr2020.1.005.kath"
       },
       {
         "doi": "10.5117/ccr2020.2.001.maie",
@@ -185,7 +185,7 @@
         ],
         "year": 2020,
         "publication_date": "2020-10-01",
-        "citation_count": 33,
+        "citation_count": 36,
         "topics": [
           "Topic modeling",
           "Computational methods",
@@ -204,7 +204,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-02-01",
-        "citation_count": 32,
+        "citation_count": 35,
         "topics": [
           "Computational methods",
           "Visual communication",
@@ -213,6 +213,25 @@
         ],
         "abstract": "Images matter because they help individuals evaluate policies, primarily through emotional resonance, and can help researchers from a variety of fields measure otherwise difficult to estimate quantities. The lack of scalable analytic methods, however, has prevented researchers from incorporating large scale image data in studies. This article offers an in-depth overview of automated methods for image analysis and explains their usage and implementation. It elaborates on how these methods and results can be validated and interpreted and discusses ethical concerns. Two examples then highlight approaches to systematically understanding visual presentations of political actors and events from large scale image datasets collected from social media. The first study examines gender and party differences in the self-presentation of the U.S. politicians through their Facebook photographs, using an off-the-shelf computer vision model, Google’s Label Detection API. The second study develops image classifiers based on convolutional neural networks to detect custom labels from images of protesters shared on Twitter to understand how protests are framed on social media. These analyses demonstrate advantages of computer vision and deep learning as a novel analytic tool that can expand the scope and size of traditional visual analysis to thousands of features and millions of images. The paper also provides comprehensive technical details and practices to help guide political communication scholars and practitioners.",
         "url": "https://doi.org/10.5117/ccr2022.1.001.joo"
+      },
+      {
+        "doi": "10.5117/ccr2019.1.004.haim",
+        "title": "Computational observation",
+        "authors": [
+          "Mario Haim",
+          "Angela Nienierza"
+        ],
+        "year": 2019,
+        "publication_date": "2019-10-01",
+        "citation_count": 29,
+        "topics": [
+          "Algorithmic curation",
+          "Computational methods",
+          "Social media algorithms",
+          "Research methodology"
+        ],
+        "abstract": "A lot of modern media use is guided by algorithmic curation, a phenomenon that is in desperate need of empirical observation, but for which adequate methodological tools are largely missing. To fill this gap, computational observation offers a novel approach—the unobtrusive and automated collection of information encountered within algorithmically curated media environments by means of a browser plug-in. In contrast to prior methodological approaches, browser plug-ins allow for reliable capture and repetitive analysis of both content and context at the point of the actual user encounter. After discussing the technological, ethical, and practical considerations relevant to this automated solution, we present our open-source browser plug-in as an element in an adequate multi-method design, along with potential links to panel surveys and content analysis. Ultimately, we present a proof-of-concept study in the realm of news exposure on Facebook; we successfully deployed the plug-in to Chrome and Firefox, and we combined the computational observation with a two-wave panel survey. Although this study suffered from severe recruitment difficulties, the results indicate that the methodological setup is reliable and ready to implement for data collection within a variety of studies on media use and media effects.",
+        "url": "https://doi.org/10.5117/ccr2019.1.004.haim"
       },
       {
         "doi": "10.5117/ccr2019.1.002.hopp",
@@ -225,7 +244,7 @@
         ],
         "year": 2019,
         "publication_date": "2019-10-01",
-        "citation_count": 28,
+        "citation_count": 29,
         "topics": [
           "Computational methods",
           "Digital media",
@@ -236,53 +255,14 @@
         "url": "https://doi.org/10.5117/ccr2019.1.002.hopp"
       },
       {
-        "doi": "10.5117/ccr2019.1.004.haim",
-        "title": "Computational observation",
-        "authors": [
-          "Mario Haim",
-          "Angela Nienierza"
-        ],
-        "year": 2019,
-        "publication_date": "2019-10-01",
-        "citation_count": 27,
-        "topics": [
-          "Algorithmic curation",
-          "Computational methods",
-          "Social media algorithms",
-          "Research methodology"
-        ],
-        "abstract": "A lot of modern media use is guided by algorithmic curation, a phenomenon that is in desperate need of empirical observation, but for which adequate methodological tools are largely missing. To fill this gap, computational observation offers a novel approach—the unobtrusive and automated collection of information encountered within algorithmically curated media environments by means of a browser plug-in. In contrast to prior methodological approaches, browser plug-ins allow for reliable capture and repetitive analysis of both content and context at the point of the actual user encounter. After discussing the technological, ethical, and practical considerations relevant to this automated solution, we present our open-source browser plug-in as an element in an adequate multi-method design, along with potential links to panel surveys and content analysis. Ultimately, we present a proof-of-concept study in the realm of news exposure on Facebook; we successfully deployed the plug-in to Chrome and Firefox, and we combined the computational observation with a two-wave panel survey. Although this study suffered from severe recruitment difficulties, the results indicate that the methodological setup is reliable and ready to implement for data collection within a variety of studies on media use and media effects.",
-        "url": "https://doi.org/10.5117/ccr2019.1.004.haim"
-      },
-      {
-        "doi": "10.5117/ccr2022.2.006.kroo",
-        "title": "Beyond Counting Words",
-        "authors": [
-          "Anne C. Kroon",
-          "Toni G.L.A. van der Meer",
-          "Rens Vliegenthart"
-        ],
-        "year": 2022,
-        "publication_date": "2022-09-28",
-        "citation_count": 25,
-        "topics": [
-          "Computational text analysis",
-          "Machine learning",
-          "Frame analysis",
-          "Topic modeling"
-        ],
-        "abstract": "Topics and frames are at the heart of various theories in communication science and other social sciences, making their measurement of key interest to many scholars. The current study compares and contrasts two main deductive computational approaches to measure policy topics and frames: Dictionary (lexicon) based identification, and supervised machine learning. Additionally, we introduce domain-specific word embeddings to these classification tasks. Drawing on a manually coded dataset of Dutch news articles and parliamentary questions, our results indicate that supervised machine learning outperforms dictionary-based classification for both tasks. Furthermore, results show that word embeddings may boost performance at relatively low cost by introducing relevant and domain-specific semantic information to the classification model.",
-        "url": "https://doi.org/10.5117/ccr2022.2.006.kroo"
-      },
-      {
         "doi": "10.5117/ccr2022.1.009.peng",
         "title": "Athec",
         "authors": [
           "Yilang Peng"
         ],
-        "year": 2022,
-        "publication_date": "2022-02-01",
-        "citation_count": 23,
+        "year": 2021,
+        "publication_date": "2021-01-01",
+        "citation_count": 27,
         "topics": [
           "Visual communication",
           "Computational methods",
@@ -303,7 +283,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-02-01",
-        "citation_count": 23,
+        "citation_count": 27,
         "topics": [
           "Science conspiracy",
           "Visual framing",
@@ -314,23 +294,46 @@
         "url": "https://doi.org/10.5117/ccr2022.1.003.chen"
       },
       {
-        "doi": "10.5117/ccr2020.1.003.loec",
-        "title": "3bij3 – Developing a framework for researching recommender systems and their effects",
+        "doi": "10.5117/ccr2022.2.006.kroo",
+        "title": "Beyond Counting Words",
         "authors": [
-          "Felicia Löecherbach",
-          "Damian Trilling"
+          "Anne C. Kroon",
+          "Toni G.L.A. van der Meer",
+          "Rens Vliegenthart"
         ],
-        "year": 2020,
-        "publication_date": "2020-02-01",
-        "citation_count": 23,
+        "year": 2022,
+        "publication_date": "2022-09-28",
+        "citation_count": 27,
         "topics": [
-          "Algorithmic curation",
-          "News consumption",
-          "Digital platforms",
-          "Computational methods"
+          "Computational text analysis",
+          "Machine learning",
+          "Frame analysis",
+          "Topic modeling"
         ],
-        "abstract": "Today’s online news environment is increasingly characterized by personalized news selections, relying on algorithmic solutions for extracting relevant articles and composing an individual’s news diet. Yet, the impact of such recommendation algorithms on how we consume and perceive news is still understudied. We therefore developed one of the first software solutions to conduct studies on effects of news recommender systems in a realistic setting. The web app of our framework (called 3bij3) displays real-time news articles selected by different mechanisms. 3bij3 can be used to conduct large-scale field experiments, in which participants’ use of the site can be tracked over extended periods of time. Compared to previous work, 3bij3 gives researchers control over the recommendation system under study and creates a realistic environment for the participants. It integrates web scraping, different methods to compare and classify news articles, different recommender systems, a web interface for participants, gamification elements, and a user survey to enrich the behavioral measures obtained.",
-        "url": "https://doi.org/10.5117/ccr2020.1.003.loec"
+        "abstract": "Topics and frames are at the heart of various theories in communication science and other social sciences, making their measurement of key interest to many scholars. The current study compares and contrasts two main deductive computational approaches to measure policy topics and frames: Dictionary (lexicon) based identification, and supervised machine learning. Additionally, we introduce domain-specific word embeddings to these classification tasks. Drawing on a manually coded dataset of Dutch news articles and parliamentary questions, our results indicate that supervised machine learning outperforms dictionary-based classification for both tasks. Furthermore, results show that word embeddings may boost performance at relatively low cost by introducing relevant and domain-specific semantic information to the classification model.",
+        "url": "https://doi.org/10.5117/ccr2022.2.006.kroo"
+      },
+      {
+        "doi": "10.5117/ccr2026.2.8.li",
+        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
+        "authors": [
+          "Xinyi Li",
+          "Yu Xu",
+          "Yongfeng Zhang",
+          "Edward Carl Malthouse"
+        ],
+        "year": 2026,
+        "publication_date": "2026-04-20",
+        "citation_count": 25,
+        "topics": [
+          "Misinformation",
+          "Large Language Models",
+          "Agent-based modeling",
+          "Social networks"
+        ],
+        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
+        "url": "https://doi.org/10.5117/ccr2026.2.8.li",
+        "trend_score": 1.973
       },
       {
         "doi": "10.5117/ccr2023.2.2.lich",
@@ -341,7 +344,7 @@
         ],
         "year": 2023,
         "publication_date": "2023-01-01",
-        "citation_count": 22,
+        "citation_count": 25,
         "topics": [
           "Computational text analysis",
           "Computational methods",
@@ -363,7 +366,7 @@
         ],
         "year": 2020,
         "publication_date": "2020-02-01",
-        "citation_count": 20,
+        "citation_count": 23,
         "topics": [
           "Political polarization",
           "Echo chambers",
@@ -374,6 +377,25 @@
         "url": "https://doi.org/10.5117/ccr2020.1.004.roch"
       },
       {
+        "doi": "10.5117/ccr2020.1.003.loec",
+        "title": "3bij3 – Developing a framework for researching recommender systems and their effects",
+        "authors": [
+          "Felicia Löecherbach",
+          "Damian Trilling"
+        ],
+        "year": 2020,
+        "publication_date": "2020-02-01",
+        "citation_count": 22,
+        "topics": [
+          "Algorithmic curation",
+          "News consumption",
+          "Digital platforms",
+          "Computational methods"
+        ],
+        "abstract": "Today’s online news environment is increasingly characterized by personalized news selections, relying on algorithmic solutions for extracting relevant articles and composing an individual’s news diet. Yet, the impact of such recommendation algorithms on how we consume and perceive news is still understudied. We therefore developed one of the first software solutions to conduct studies on effects of news recommender systems in a realistic setting. The web app of our framework (called 3bij3) displays real-time news articles selected by different mechanisms. 3bij3 can be used to conduct large-scale field experiments, in which participants’ use of the site can be tracked over extended periods of time. Compared to previous work, 3bij3 gives researchers control over the recommendation system under study and creates a realistic environment for the participants. It integrates web scraping, different methods to compare and classify news articles, different recommender systems, a web interface for participants, gamification elements, and a user survey to enrich the behavioral measures obtained.",
+        "url": "https://doi.org/10.5117/ccr2020.1.003.loec"
+      },
+      {
         "doi": "10.5117/ccr2021.1.003.geis",
         "title": "Statistical Power in Content Analysis Designs: How Effect Size, Sample Size and Coding Accuracy Jointly Affect Hypothesis Testing – A Monte Carlo Simulation Approach.",
         "authors": [
@@ -381,7 +403,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-03-01",
-        "citation_count": 19,
+        "citation_count": 21,
         "topics": [
           "Research methodology",
           "Content analysis",
@@ -395,7 +417,7 @@
         "doi": "10.5117/ccr2023.1.001.vott",
         "title": "Going Micro to Go Negative?",
         "authors": [
-          "Fabio A. Votta",
+          "Fabio Votta",
           "Arman Noroozian",
           "Tom Dobber",
           "Natali Helberger",
@@ -403,7 +425,7 @@
         ],
         "year": 2023,
         "publication_date": "2023-01-01",
-        "citation_count": 19,
+        "citation_count": 20,
         "topics": [
           "Political advertising",
           "Microtargeting",
@@ -425,7 +447,7 @@
         ],
         "year": 2021,
         "publication_date": "2021-10-01",
-        "citation_count": 18,
+        "citation_count": 19,
         "topics": [
           "Computational methods",
           "Communication theory",
@@ -457,6 +479,87 @@
         "url": "https://doi.org/10.5117/ccr2021.3.001.lind"
       },
       {
+        "doi": "10.5117/ccr2024.2.2.hase",
+        "title": "Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies",
+        "authors": [
+          "Valerie Hase",
+          "Mario Haim"
+        ],
+        "year": 2024,
+        "publication_date": "2024-01-01",
+        "citation_count": 17,
+        "topics": [
+          "Data donation",
+          "Digital trace data",
+          "Survey methodology",
+          "Research methodology"
+        ],
+        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
+        "url": "https://doi.org/10.5117/ccr2024.2.2.hase"
+      },
+      {
+        "doi": "10.5117/ccr2026.4.7.jo",
+        "title": "Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators",
+        "authors": [
+          "Wonjeong Jo",
+          "Miki Wesołowska",
+          "Magdalena Wojcieszak"
+        ],
+        "year": 2026,
+        "publication_date": "2026-10-06",
+        "citation_count": 17,
+        "topics": [
+          "Content moderation",
+          "Large Language Models",
+          "Digital platforms",
+          "Misinformation"
+        ],
+        "abstract": "Video platforms, used by billions globally, are criticized for exposing users to harmful content. Yet, detecting online harm remains challenging due to inconsistent approaches to what constitutes harm and limitations of human annotation. We address both challenges. Theoretically, we integrate and expand existing taxonomies and platform guidelines to multimodal contexts and develop a comprehensive taxonomy for online harm. We categorize online harm on video platforms into six content-based categories: Information, Hate and harassment, Addictive, Clickbait, Sexual, and Physical harms. Methodologically, we propose and systematically test multimodal large language models (MLLMs) as alternative annotators of harmful videos. We curate a dataset of 19,422 potentially harmful YouTube videos and annotate them using GPT-4-Turbo, non-trained crowdworkers, and trained annotators. We discuss the potential applications of MLLMs in platform content moderation and social science research, particularly in contexts where they perform comparably to human annotators in binary and multi-label classification tasks.",
+        "url": "https://doi.org/10.5117/ccr2026.4.7.jo",
+        "trend_score": 2.389
+      },
+      {
+        "doi": "10.5117/ccr2024.2.5.welb",
+        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
+        "authors": [
+          "Kasper Welbers",
+          "Felicia Löecherbach",
+          "Zilin Lin",
+          "Damian Trilling"
+        ],
+        "year": 2024,
+        "publication_date": "2024-01-01",
+        "citation_count": 16,
+        "topics": [
+          "Data donation",
+          "Digital trace data",
+          "Research methodology",
+          "Media use"
+        ],
+        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
+        "url": "https://doi.org/10.5117/ccr2024.2.5.welb"
+      },
+      {
+        "doi": "10.5117/ccr2022.1.006.mali",
+        "title": "Representations of Racial Minorities in Popular Movies",
+        "authors": [
+          "Musa Malik",
+          "Frederic R. Hopp",
+          "René Weber"
+        ],
+        "year": 2022,
+        "publication_date": "2022-02-01",
+        "citation_count": 16,
+        "topics": [
+          "Gender representation",
+          "Media representation",
+          "Computational methods",
+          "Content analysis"
+        ],
+        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
+        "url": "https://doi.org/10.5117/ccr2022.1.006.mali"
+      },
+      {
         "doi": "10.5117/ccr2023.1.8.wang",
         "title": "Cross-Platform Information Flow and Multilingual Text Analysis: A Comparative Study of Weibo and Twitter Through Deep Learning",
         "authors": [
@@ -468,7 +571,7 @@
         ],
         "year": 2023,
         "publication_date": "2023-01-01",
-        "citation_count": 17,
+        "citation_count": 16,
         "topics": [
           "Computational text analysis",
           "Social media discourse",
@@ -499,6 +602,26 @@
         "url": "https://doi.org/10.5117/ccr2022.1.007.neum"
       },
       {
+        "doi": "10.5117/ccr2025.1.8.parr",
+        "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
+        "authors": [
+          "Douglas A. Parry",
+          "Roland Tóth"
+        ],
+        "year": 2025,
+        "publication_date": "2025-05-08",
+        "citation_count": 14,
+        "topics": [
+          "Smartphone use",
+          "Research methodology",
+          "Digital trace data",
+          "Mobile communication"
+        ],
+        "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
+        "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
+        "trend_score": 0.582
+      },
+      {
         "doi": "10.5117/ccr2019.1.005.sukk",
         "title": "An Experimental Study of Recommendation Algorithms for Tailored Health Communication",
         "authors": [
@@ -511,7 +634,7 @@
         ],
         "year": 2019,
         "publication_date": "2019-10-01",
-        "citation_count": 13,
+        "citation_count": 14,
         "topics": [
           "Health communication",
           "Recommendation algorithms",
@@ -520,6 +643,48 @@
         ],
         "abstract": "Recommendation algorithms are widely used in online cultural markets to provide personalized suggestions for products like books and movies. At the heart of the commercial success of recommendation algorithms is their ability to make an accurate prediction of a target person’s preferences for previously unseen items. Can these algorithms also be used to predict which health messages an individual will evaluate favorably, and thereby provide effective tailored communication to the person? Although there is evidence that message tailoring enhances persuasion, little research has examined the effectiveness of recommendation algorithms for tailored health interventions aimed at promoting behavior change. We developed a message tailoring algorithm to select smoking-related public service announcements (PSAs) for smokers, and experimentally test its effectiveness in predicting a target smoker’s evaluations of PSAs and encouraging smoking cessation. The tailoring algorithm was constructed using multiple levels of data on smokers’ PSA rating history, individual differences, content features of the PSAs, and other smokers’ PSA ratings. We conducted a longitudinal online experiment to examine its efficacy in comparison to two non-tailored methods: “best in show” (choosing messages most preferred by other smokers) and “off the shelf” (random selection from eligible ads). The results showed that the tailoring algorithm produced more accurate predictions of smokers’ message evaluations than the simple-average method used for the “best in show” approach. Smokers who viewed PSAs recommended by the tailoring algorithm were more likely than those receiving a random set to evaluate the PSAs favorably and quit smoking. There was no significant difference between the “best in show” and “off the shelf” methods in message assessment and quitting behavior.",
         "url": "https://doi.org/10.5117/ccr2019.1.005.sukk"
+      },
+      {
+        "doi": "10.5117/ccr2022.1.005.jurg",
+        "title": "Age and Gender Representation on German TV",
+        "authors": [
+          "Pascal Jürgens",
+          "Christine E. Meltzer",
+          "Michael Scharkow"
+        ],
+        "year": 2022,
+        "publication_date": "2022-02-01",
+        "citation_count": 14,
+        "topics": [
+          "Gender representation",
+          "Media representation",
+          "Content analysis",
+          "Machine learning"
+        ],
+        "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
+        "url": "https://doi.org/10.5117/ccr2022.1.005.jurg"
+      },
+      {
+        "doi": "10.5117/ccr2023.1.11.gito",
+        "title": "The speech we miss: How keyword-based data collection obscures youth participation in online political discourse",
+        "authors": [
+          "Adina Gitomer",
+          "Sarah Shugars",
+          "Ryan J. Gallagher",
+          "Stefan McCabe",
+          "Brooke Foucault Welles"
+        ],
+        "year": 2023,
+        "publication_date": "2023-01-01",
+        "citation_count": 13,
+        "topics": [
+          "Political participation",
+          "Social media",
+          "Twitter",
+          "Research methodology"
+        ],
+        "abstract": "In this work, we leverage a panel of over 1.6 million Twitter users matched with public voter records to assess how a standard keyword-based approach to social media data collection performs in the context of participatory politics, and we critically examine the speech this method leaves behind. We find that keyword classifiers undercount young people’s participation in online political discourse, and that valuable political expression is lost in the process. We argue that a mainstream keyword approach to collecting social media data is not well-suited to the participatory politics associated with young people and may reinforce a false perception of youth political apathy as a result.",
+        "url": "https://doi.org/10.5117/ccr2023.1.11.gito"
       },
       {
         "doi": "10.5117/ccr2020.2.004.rain",
@@ -544,65 +709,26 @@
         "url": "https://doi.org/10.5117/ccr2020.2.004.rain"
       },
       {
-        "doi": "10.5117/ccr2022.1.005.jurg",
-        "title": "Age and Gender Representation on German TV",
+        "doi": "10.5117/ccr2024.2.3.stry",
+        "title": "The blind spot in data donations: who is (not) willing to donate digital data in social scientific research",
         "authors": [
-          "Pascal Jürgens",
-          "Christine E. Meltzer",
-          "Michael Scharkow"
-        ],
-        "year": 2022,
-        "publication_date": "2022-02-01",
-        "citation_count": 12,
-        "topics": [
-          "Gender representation",
-          "Media representation",
-          "Content analysis",
-          "Machine learning"
-        ],
-        "abstract": "Television offers an enticing glimpse into the world, but its perspective is often skewed. When societal groups are systematically excluded from appearing on the screen, they lose the chance to represent their characteristics and interests. Recipients may then form distorted perceptions and attitudes towards those groups. Empirical research on the prevalence of such biases - especially across stations, time, and genre - has been limited by the effort of manual content analyses. We develop and validate a deep-learning based method for measuring age and gender of faces in video material. An analysis of approximately 16 million faces from six years of German mainstream TV across six stations is fused with existing program metadata indicating timing and genre of broadcasts, including advertisements. Multilevel regression models show a consistent and temporally stable discrimination against women and elderly people, along with a double discrimination of elderly women. A significant amount of variation across genres and systematic differences between public and private broadcasters furthermore indicate previously undocumented heterogeneity in the representation of societal groups on TV. We discuss potential implications of a genre-specific differentiation against the backdrop of societal trends.",
-        "url": "https://doi.org/10.5117/ccr2022.1.005.jurg"
-      },
-      {
-        "doi": "10.5117/ccr2023.1.11.gito",
-        "title": "The speech we miss: How keyword-based data collection obscures youth participation in online political discourse",
-        "authors": [
-          "Adina Gitomer",
-          "Sarah Shugars",
-          "Ryan J. Gallagher",
-          "Stefan McCabe",
-          "Brooke Foucault Welles"
-        ],
-        "year": 2023,
-        "publication_date": "2023-01-01",
-        "citation_count": 12,
-        "topics": [
-          "Political participation",
-          "Social media",
-          "Twitter",
-          "Research methodology"
-        ],
-        "abstract": "In this work, we leverage a panel of over 1.6 million Twitter users matched with public voter records to assess how a standard keyword-based approach to social media data collection performs in the context of participatory politics, and we critically examine the speech this method leaves behind. We find that keyword classifiers undercount young people’s participation in online political discourse, and that valuable political expression is lost in the process. We argue that a mainstream keyword approach to collecting social media data is not well-suited to the participatory politics associated with young people and may reinforce a false perception of youth political apathy as a result.",
-        "url": "https://doi.org/10.5117/ccr2023.1.11.gito"
-      },
-      {
-        "doi": "10.5117/ccr2024.2.2.hase",
-        "title": "Can We Get Rid of Bias? Mitigating Systematic Error in Data Donation Studies through Survey Design Strategies",
-        "authors": [
-          "Valerie Hase",
-          "Mario Haim"
+          "Joanna Strycharz",
+          "Corine S. Meppelink",
+          "Brahim Zarouali",
+          "Theo Araujo",
+          "Hilde A. M. Voorveld"
         ],
         "year": 2024,
         "publication_date": "2024-01-01",
-        "citation_count": 12,
+        "citation_count": 11,
         "topics": [
           "Data donation",
-          "Digital trace data",
-          "Survey methodology",
-          "Research methodology"
+          "Computational methods",
+          "Research methodology",
+          "Digital trace data"
         ],
-        "abstract": "Digital trace data retrieved via data donations holds significant potential for the study of individual behavior. However, data donation studies may be subject to bias. Researchers therefore need to quantify and address systematic error in digital trace data. To complement a-posteriori error correction methods like statistical modeling, we tested how ex-ante approaches, in particular survey design strategies, may help address bias in data donation studies. We conducted two preregistered experiments, one with a convenience sample of students (NI = 345) and one with a convenience sample from an online access panel (NII = 2,039). In both experiments, we analyzed the effects of survey design strategies – technical support during data donation, personalized incentives, and highlighting the societal relevance of participants’ data – on nonresponse rates and nonresponse bias. Our results indicate that while data donation studies are prone to both, our ex-ante strategies could not effectively decrease nonresponse rates or nonresponse bias. Overall, our study underlines the need to (a) make bias in digital trace data more transparent and (b) advance research on error correction methods.",
-        "url": "https://doi.org/10.5117/ccr2024.2.2.hase"
+        "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
+        "url": "https://doi.org/10.5117/ccr2024.2.3.stry"
       },
       {
         "doi": "10.5117/ccr2023.2.10.chen",
@@ -622,27 +748,6 @@
         ],
         "abstract": "Our paper describes the development of a Chinese Moral Foundation Dictionary (C- MFD 2.0) to assist the automated detection and analysis of moral intuition in the Chinese context. Taking the approach of method-theory co-development, we follow a human-led and machine-assisted procedure that emphasizes opportunities for theoretical advancement, which enhances the validity of the computational tool. Starting from the existing Chinese translation of the established English MFDs, we enriched the dictionary with a list of unique Chinese moral-relevant words from an extensive Chinese dictionary. Four experts went through four rounds of coding, followed by validation by 202 crowd coders. The C-MFD 2.0 identifies not only the classic five moral foundations but also proposes several potential moral foundation candidates in the Chinese context. It demonstrates acceptable validity in detecting moral foundation values from Chinese texts. Our paper illustrates how a non-English moral foundation dictionary can be built for computational analysis and furthers moral foundation theory in a cross-language context.",
         "url": "https://doi.org/10.5117/ccr2023.2.10.chen"
-      },
-      {
-        "doi": "10.5117/ccr2024.2.5.welb",
-        "title": "Anything you would like to share: Evaluating a data donation application in a survey and field study",
-        "authors": [
-          "Kasper Welbers",
-          "Felicia Löecherbach",
-          "Zilin Lin",
-          "Damian Trilling"
-        ],
-        "year": 2024,
-        "publication_date": "2024-01-01",
-        "citation_count": 11,
-        "topics": [
-          "Data donation",
-          "Digital trace data",
-          "Research methodology",
-          "Media use"
-        ],
-        "abstract": "Data donation methods have shown great potential as a means to measure a person’s media consumption behavior and exposure at an unprecedented level of detail. Yet what hampers this potential is that studies often suffer from high drop-out rates, and the accuracy of the digital trace data cannot be taken for granted. To improve the potency of this method, we need to systematically investigate how different recruitment strategies and design choices affect drop-out and accuracy. We used a novel open-source data donation application, and reflect on both a survey and field study where participants were asked to donate their browsing and YouTube history data from Google. Our results confirm that drop-out is high and non-random in the survey study, but adds the positive note that a field lab settings might help alleviate primary barriers of participation. We reflect on opportunities and challenges for data donation research and tools based on log data from our application, questions to participants, and our experience of building the application and guiding users through it.",
-        "url": "https://doi.org/10.5117/ccr2024.2.5.welb"
       },
       {
         "doi": "10.5117/ccr2023.2.6.mate",
@@ -688,26 +793,64 @@
         "url": "https://doi.org/10.5117/ccr2023.2.7.laur"
       },
       {
-        "doi": "10.5117/ccr2024.2.3.stry",
-        "title": "The blind spot in data donations: who is (not) willing to donate digital data in social scientific research",
+        "doi": "10.5117/ccr2023.1.13.bern",
+        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
         "authors": [
-          "Joanna Strycharz",
-          "Corine S. Meppelink",
-          "Brahim Zarouali",
-          "Theo Araujo",
-          "Hilde A. M. Voorveld"
+          "Jana Bernhard",
+          "Martin Teuffenbach",
+          "Hajo G. Boomgaarden"
+        ],
+        "year": 2023,
+        "publication_date": "2023-01-01",
+        "citation_count": 11,
+        "topics": [
+          "Computational text analysis",
+          "Topic modeling",
+          "Measurement validity",
+          "Computational methods"
+        ],
+        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
+        "url": "https://doi.org/10.5117/ccr2023.1.13.bern"
+      },
+      {
+        "doi": "10.5117/ccr2021.2.001.calc",
+        "title": "The Accuracy and Precision of Measurement",
+        "authors": [
+          "Leandro Calcagnotto",
+          "Richard Huskey",
+          "Gerald M. Kosicki"
+        ],
+        "year": 2021,
+        "publication_date": "2021-09-22",
+        "citation_count": 11,
+        "topics": [
+          "Research methodology",
+          "Measurement validity",
+          "Cognitive processing",
+          "Communication science"
+        ],
+        "abstract": "Measurement noise differs by instrument and limits the validity and reliability of findings. Researchers collecting reaction time data introduce noise in the form of response time latency from hardware and software, even when collecting data on standardized computer-based experimental equipment. Reaction time is a measure with broad application for studying cognitive processing in communication research that is vulnerable to response latency noise. In this study, we utilized an Arduino microcontroller to generate a ground truth value of average response time latency in Asteroid Impact, an open source, naturalistic, experimental video game stimulus. We tested if response time latency differed across computer operating system, software, and trial modality. Here we show that reaction time measurements collected using Asteroid Impact were susceptible to response latency variability on par with other response-latency measuring software tests. These results demonstrate that Asteroid Impact is a valid and reliable stimulus for measuring reaction time data. Moreover, we provide researchers with a low-cost and open-source tool for evaluating response time latency in their own labs. Our results highlight the importance of validating measurement tools and support the philosophy of contributing methodological improvements in communication science.",
+        "url": "https://doi.org/10.5117/ccr2021.2.001.calc"
+      },
+      {
+        "doi": "10.5117/ccr2024.2.4.pfif",
+        "title": "Data Donation Module: A Web Application for Collecting and Enriching Data Donations",
+        "authors": [
+          "Nico Pfiffner",
+          "Pim Witlox",
+          "Thomas N. Friemel"
         ],
         "year": 2024,
         "publication_date": "2024-01-01",
-        "citation_count": 9,
+        "citation_count": 10,
         "topics": [
           "Data donation",
-          "Computational methods",
+          "Digital trace data",
           "Research methodology",
-          "Digital trace data"
+          "Computational methods"
         ],
-        "abstract": "The use of online media has led to an increase in digital footprints of human behavior, which has resulted in a growing interest in the collection and analysis of such data in non-intrusive ways. One such approach is digital data donation, which involves requesting participants to share data that they have requested from digital platforms with researchers. While this approach promises to provide an unprecedented level of detail for computational communication research, it also raises concerns about the representativeness and validity of the data. This study investigates the issue of potential selection bias and non-response bias in data donation samples. It aims to identify subparts of the population that might be underrepresented (or even absent) in data donation sampling methods, which might lead to inaccurate and biased research conclusions. Utilizing a survey with a sample frame of 1178 and 289 participants from the Netherlands, the study investigates the relation between demographics, knowledge, privacy and trust factors, and donation behavior. The results show biases in donation behavior in terms of age and digital and algorithmic efficacy, while privacy and trust factors are not related to it. It suggests that individuals decide not to donate to academic research due to skills and not due to concerns or lack of trust. This offers possibilities for improvement in study design so that all willing individuals are equally able to participate.",
-        "url": "https://doi.org/10.5117/ccr2024.2.3.stry"
+        "abstract": "Currently, few tools are openly available that researchers can use to collect data donations. The Data Donation Module (DDM) presented in this paper addresses this gap and provides a new solution for collecting data donations from citizens. The DDM is a web application that provides researchers with the means to guide participants through the data donation process, define rules on how the personal data provided by the participants are preprocessed and filtered before being transmitted to the researchers, and optionally enrich the donated data with the participants’ self-reports, collected through an integrated questionnaire. The design of the DDM builds on a particular set of principles that distinguishes it from other data donation tools. First, it can be deployed at an institutional level and can support multiple data donation projects simultaneously. Second, it emphasizes the usability of the application for both participants and researchers. Third, it offers additional built-in data enrichment features, such as the possibility to include information contained in a data donation in the integrated questionnaire. In this paper, we further elaborate on these principles, present the DDM’s core functionalities from both the participants’ and the researchers’ perspectives, and provide an outlook on the application’s accessibility and sustainability.",
+        "url": "https://doi.org/10.5117/ccr2024.2.4.pfif"
       },
       {
         "doi": "10.5117/ccr2021.1.005.will",
@@ -731,46 +874,6 @@
         "url": "https://doi.org/10.5117/ccr2021.1.005.will"
       },
       {
-        "doi": "10.5117/ccr2023.1.13.bern",
-        "title": "Topic Model Validation Methods and their Impact on Model Selection and Evaluation",
-        "authors": [
-          "Jana Bernhard-Harrer",
-          "Martin Teuffenbach",
-          "Hajo G. Boomgaarden"
-        ],
-        "year": 2023,
-        "publication_date": "2023-01-01",
-        "citation_count": 9,
-        "topics": [
-          "Computational text analysis",
-          "Topic modeling",
-          "Measurement validity",
-          "Computational methods"
-        ],
-        "abstract": "Topic Modeling is currently one of the most widely employed unsupervised text-as-data techniques in the field of communication science. While researchers increasingly recognize the importance of validating topic models and given the prevalence of discussions of inadequate validation practices in the literature, there is limited understanding of the consequences of employing different validation strategies when evaluating topic models. This study applies two different methods for topic modeling to the same text corpus. It uses four validation strategies to assess how the choice of validation method affects the final model selection and evaluation. Our findings indicate that different approaches and methods lead to different model choices and evaluations, which is problematic. This might lead to unwanted results in case the choice of model has a decisive impact on findings and, consequently, on theory development and practical implications.",
-        "url": "https://doi.org/10.5117/ccr2023.1.13.bern"
-      },
-      {
-        "doi": "10.5117/ccr2022.1.006.mali",
-        "title": "Representations of Racial Minorities in Popular Movies",
-        "authors": [
-          "Musa Malik",
-          "Frederic R. Hopp",
-          "René Weber"
-        ],
-        "year": 2022,
-        "publication_date": "2022-02-01",
-        "citation_count": 8,
-        "topics": [
-          "Gender representation",
-          "Media representation",
-          "Computational methods",
-          "Content analysis"
-        ],
-        "abstract": "In the Hollywood film industry, racial minorities remain underrepresented. Characters from racially underrepresented groups receive less screen time, fewer central story positions, and frequently inherit plotlines, motivations, and actions that are primarily driven by White characters. Currently, there are no clearly defined, standardized, and scalable metrics for taking stock of racial minorities’ cinematographic representation. In this paper, we combine methodological tools from computer vision and network science to develop a content analytic framework for identifying visual and structural racial biases in film productions. We apply our approach on a set of 89 popular, full-length movies, demonstrating that this method provides a scalable examination of racial inclusion in film production and predicts movie performance. We integrate our method into larger theoretical discussions on audiences’ perception of racial minorities and illuminate future research trajectories towards the computational assessment of racial biases in audiovisual narratives.",
-        "url": "https://doi.org/10.5117/ccr2022.1.006.mali"
-      },
-      {
         "doi": "10.5117/ccr2022.1.008.wu",
         "title": "MARMOT",
         "authors": [
@@ -779,7 +882,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-02-01",
-        "citation_count": 8,
+        "citation_count": 9,
         "topics": [
           "Multimodal analysis",
           "Machine learning",
@@ -790,46 +893,6 @@
         "url": "https://doi.org/10.5117/ccr2022.1.008.wu"
       },
       {
-        "doi": "10.5117/ccr2021.2.001.calc",
-        "title": "The Accuracy and Precision of Measurement",
-        "authors": [
-          "Leandro Calcagnotto",
-          "Richard Huskey",
-          "Gerald M. Kosicki"
-        ],
-        "year": 2021,
-        "publication_date": "2021-09-22",
-        "citation_count": 8,
-        "topics": [
-          "Research methodology",
-          "Measurement validity",
-          "Cognitive processing",
-          "Communication science"
-        ],
-        "abstract": "Measurement noise differs by instrument and limits the validity and reliability of findings. Researchers collecting reaction time data introduce noise in the form of response time latency from hardware and software, even when collecting data on standardized computer-based experimental equipment. Reaction time is a measure with broad application for studying cognitive processing in communication research that is vulnerable to response latency noise. In this study, we utilized an Arduino microcontroller to generate a ground truth value of average response time latency in Asteroid Impact, an open source, naturalistic, experimental video game stimulus. We tested if response time latency differed across computer operating system, software, and trial modality. Here we show that reaction time measurements collected using Asteroid Impact were susceptible to response latency variability on par with other response-latency measuring software tests. These results demonstrate that Asteroid Impact is a valid and reliable stimulus for measuring reaction time data. Moreover, we provide researchers with a low-cost and open-source tool for evaluating response time latency in their own labs. Our results highlight the importance of validating measurement tools and support the philosophy of contributing methodological improvements in communication science.",
-        "url": "https://doi.org/10.5117/ccr2021.2.001.calc"
-      },
-      {
-        "doi": "10.5117/ccr2025.1.8.parr",
-        "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
-        "authors": [
-          "Douglas A. Parry",
-          "Roland Tóth"
-        ],
-        "year": 2025,
-        "publication_date": "2025-05-08",
-        "citation_count": 7,
-        "topics": [
-          "Smartphone use",
-          "Research methodology",
-          "Digital trace data",
-          "Mobile communication"
-        ],
-        "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
-        "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.294
-      },
-      {
         "doi": "10.5117/ccr2022.2.003.vrie",
         "title": "The Sentiment is in the Details",
         "authors": [
@@ -837,7 +900,7 @@
         ],
         "year": 2022,
         "publication_date": "2022-09-28",
-        "citation_count": 7,
+        "citation_count": 9,
         "topics": [
           "Sentiment analysis",
           "Natural language processing",
@@ -846,6 +909,108 @@
         ],
         "abstract": "Determining the sentiment in the individual sentences of a newspaper article in an automated fashion is a major challenge. Manually created sentiment dictionaries often fail to meet the required standards. And while computer-generated dictionaries show promise, they are often limited by the availability of suitable linguistic resources. I propose and test a novel, language-agnostic and resource-efficient way of constructing sentiment dictionaries, based on word embedding models. The dictionaries are constructed and evaluated based on four corpora containing two decades of Danish, Dutch (Flanders and the Netherlands), English, and Norwegian newspaper articles, which are cleaned and parsed using Natural Language Processing. Concurrent validity is evaluated using a dataset of human-coded newspaper sentences, and compared to the performance of the Polyglot sentiment dictionaries. Predictive validity is tested through two long-standing hypotheses on the negativity bias in political news. Results show that both the concurrent validity and predictive validity is good. The dictionaries outperform their Polyglot counterparts, and are able to correctly detect a negativity bias, which is stronger for tabloids. The method is resource-efficient in terms of manual labor when compared to manually constructed dictionaries, and requires a limited amount of computational power.",
         "url": "https://doi.org/10.5117/ccr2022.2.003.vrie"
+      },
+      {
+        "doi": "10.5117/ccr2024.1.5.chan",
+        "title": "What makes computational communication science (ir)reproducible?",
+        "authors": [
+          "Chung-hong  Chan",
+          "Tim Schatto‐Eckrodt",
+          "Johannes B. Gruber"
+        ],
+        "year": 2024,
+        "publication_date": "2024-01-01",
+        "citation_count": 8,
+        "topics": [
+          "Computational methods",
+          "Research methodology",
+          "Communication science",
+          "Computational communication science"
+        ],
+        "abstract": "Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.",
+        "url": "https://doi.org/10.5117/ccr2024.1.5.chan"
+      },
+      {
+        "doi": "10.5117/ccr2023.1.005.zier",
+        "title": "Algorithmic Recommendations’ Role for the Interrelatedness of Counter-Messages and Polluted Content on YouTube – A Network Analysis",
+        "authors": [
+          "Lisa Zieringer",
+          "Diana Rieger"
+        ],
+        "year": 2023,
+        "publication_date": "2023-01-01",
+        "citation_count": 8,
+        "topics": [
+          "Algorithmic curation",
+          "Social media algorithms",
+          "Content moderation",
+          "Misinformation"
+        ],
+        "abstract": "Counter-messages are used by civil education, youth prevention actors, and security agencies to counter the magnitude of polluted content. On the Internet, algorithmic operations of intermediaries affect how users encounter and receive polluted content. As counter-messages often show similar keywords, algorithms establish connections between counter-messages and polluted content, primarily because they share mutual topics. Against the background of legislative attempts to stop the spread of extremist online content, this paper aims to further investigate the interrelatedness of counter-messages and polluted content on YouTube due to the platform’s recommendation algorithm. To that end, two information network analyses were conducted based on each five seed videos of two differently designed counter-message campaigns one year after their publication on YouTube in 2019. Five thousand four hundred of the 35,982 videos of the two networks were analyzed qualitatively and manually. Results show that counter-messages are indirectly strongly connected to more polluted content. We further identify the campaigns’ design and setup on YouTube as factors that can cause the interrelatedness between counter-messages and polluted content.",
+        "url": "https://doi.org/10.5117/ccr2023.1.005.zier"
+      },
+      {
+        "doi": "10.5117/ccr2023.2.3.ho",
+        "title": "Evaluating Transferability in Multilingual Text Analyses",
+        "authors": [
+          "Justin Chun‐ting Ho",
+          "Chung‐hong Chan"
+        ],
+        "year": 2023,
+        "publication_date": "2023-01-01",
+        "citation_count": 8,
+        "topics": [
+          "Machine learning",
+          "Computational text analysis",
+          "Research methodology",
+          "Cross-cultural communication"
+        ],
+        "abstract": "Multilingual text analysis is increasingly important to address the current narrow focus of English and other Indo-European languages in comparative studies. However, there has been a lack of a comprehensive approach to evaluate the validity of multilingual text analytic methods across different language contexts. To address this issue, we propose that the validity of multilingual text analysis should be studied through the lens of transferability, which assesses the extent to which the performance of a multilingual text analytic method can be maintained when switching from one language context to another. We first formally conceptualize transferability in multilingual text analysis as a measure of whether the method is equivalent across language groups (linguistic transferability) and societal contexts (contextual transferability). We propose a model-agnostic approach to evaluate transferability using (1) natural and synthetic data pairs, (2) manual annotation of errors, and (3) the Local Interpretable Model-Agnostic Explanations (LIME) technique. As an application of our approach, we analyze the transferability of a multilingual BERT (mBERT) model fine-tuned with annotated manifestos and media texts from five Indo-European language-speaking countries of the Comparative Agendas Project. The transferability is then evaluated using natural and synthetic parliamentary data from the UK, Basque, Hong Kong, and Taiwan. Through the evaluation of transferability, this study sheds light on the common causes that lead to prediction errors in multilingual text classification using mBERT.",
+        "url": "https://doi.org/10.5117/ccr2023.2.3.ho"
+      },
+      {
+        "doi": "10.5117/ccr2023.1.10.lian",
+        "title": "Word Embedding Enrichment for Dictionary Construction: An Example of Incivility in Cantonese",
+        "authors": [
+          "Hai Liang",
+          "Yee Man Margaret Ng",
+          "Nathan L.T. Tsang"
+        ],
+        "year": 2023,
+        "publication_date": "2023-01-01",
+        "citation_count": 7,
+        "topics": [
+          "Computational text analysis",
+          "Incivility",
+          "Word embeddings",
+          "Political communication"
+        ],
+        "abstract": "Dictionary-based methods remain valuable to measure concepts based on texts, though supervised machine learning has been widely used in much recent communication research. The present study proposes a semi-automatic and easily implemented method to build and enrich dictionaries based on word embeddings. As an example, we create a dictionary of political incivility that contains vulgarity and name-calling words in Cantonese. The study shows that dictionary-based classification outperforms supervised machine learning methods, including deep neural network models. Furthermore, a small number of random seed words can generate a highly accurate dictionary. However, the uncivil content detected is only weakly correlated with uncivil perceptions, as we demonstrate in a population-based survey experiment. The strengths and limitations of dictionary-based methods are discussed.",
+        "url": "https://doi.org/10.5117/ccr2023.1.10.lian"
+      },
+      {
+        "doi": "10.5117/ccr2024.2.6.angu",
+        "title": "Enabling Online Advertising Transparency through Data Donation Methods",
+        "authors": [
+          "Daniel J. Angus",
+          "Abdul Karim Obeid",
+          "Jean Burgess",
+          "Christine Parker",
+          "Mark Andrejevic",
+          "Nicholas Carah",
+          "Xue Ying Tan"
+        ],
+        "year": 2024,
+        "publication_date": "2024-01-01",
+        "citation_count": 7,
+        "topics": [
+          "Data donation",
+          "Digital platforms",
+          "Social media advertising",
+          "Computational methods"
+        ],
+        "abstract": "Advertising has historically played a major cultural role in media and society; targeted advertising based on the detailed profiling of consumers has become central to the business models of commercial digital and social media platforms. Despite their immense cultural and economic significance, the operations of these advertising systems are difficult to observe, preventing the independent, systematic study of both advertising content and how it is delivered to audiences. This paper details a novel data donation infrastructure aimed at improving the observability of both of these aspects of platform-based advertising. The infrastructure includes custom plugins developed for major web browsers to capture web-based Facebook advertising content and targeting information from individual Facebook users for large- scale offline analysis. The paper describes the technical components of the infrastructure, including the plugin(s), data storage, data processing and enrichment, and researcher dashboard. We also discuss preliminary findings from case studies conducted using the tool, the ethical considerations associated with the research, and insights for future data donation projects.",
+        "url": "https://doi.org/10.5117/ccr2024.2.6.angu"
       },
       {
         "doi": "10.5117/ccr2020.2.003.kell",
@@ -864,168 +1029,6 @@
         ],
         "abstract": "Politicians use social media platforms such as Twitter to connect with the public. However, it remains largely unknown who constitutes the public sphere to whom politicians actually connect, talk, and listen. Focusing on the Twitter network of all Swiss MPs, I identified 129,063 Twitter users with whom politicians connected (i.e., their follower–followee network) or with whom they interacted (e.g., [were] replied to or retweeted). I qualitatively analyzed top connected, talking, and listening MPs, and conducted a semi-automated content analysis of the Twitter users to classify them (N = 70.589). Politicians’ audience consists primarily of ordinary citizens, who also react most often to the politicians’ messages. However, politicians listen more often to actors close to politics and the media than to ordinary citizens. Thus, politicians navigate between engaging with everyone without losing control over the communication situation and address key multipliers such journalist to get their messages out.",
         "url": "https://doi.org/10.5117/ccr2020.2.003.kell"
-      },
-      {
-        "doi": "10.5117/ccr2021.2.003.welb",
-        "title": "Extracting semantic relations using syntax",
-        "authors": [
-          "Kasper Welbers",
-          "Wouter van Atteveldt",
-          "Jan Kleinnijenhuis"
-        ],
-        "year": 2021,
-        "publication_date": "2021-09-22",
-        "citation_count": 7,
-        "topics": [
-          "Computational text analysis",
-          "Natural language processing",
-          "Computational methods",
-          "Communication research"
-        ],
-        "abstract": "Most common methods for automatic text analysis in communication science ignore syntactic information, focusing on the occurrence and co-occurrence of individual words, and sometimes n-grams. This is remarkably effective for some purposes, but poses a limitation for fine-grained analyses into semantic relations such as who does what to whom and according to what source. One tested, effective method for moving beyond this bag-of-words assumption is to use a rule-based approach for labeling and extracting syntactic patterns in dependency trees. Although this method can be used for a variety of purposes, its application is hindered by the lack of dedicated and accessible tools. In this paper we introduce the rsyntax R package, which is designed to make working with dependency trees easier and more intuitive for R users, and provides a framework for combining multiple rules for reliably extracting useful semantic relations.",
-        "url": "https://doi.org/10.5117/ccr2021.2.003.welb"
-      },
-      {
-        "doi": "10.5117/ccr2024.1.5.chan",
-        "title": "What makes computational communication science (ir)reproducible?",
-        "authors": [
-          "Chung-hong  Chan",
-          "Tim Schatto‐Eckrodt",
-          "Johannes B. Gruber"
-        ],
-        "year": 2024,
-        "publication_date": "2024-01-01",
-        "citation_count": 6,
-        "topics": [
-          "Computational methods",
-          "Research methodology",
-          "Communication science",
-          "Computational communication science"
-        ],
-        "abstract": "Computational methods are in full swing in communication science. Part of their promise is to make communication research more reproducible. However, how this plays out in practice has not been systematically studied. We verify the reproducibility of the entire cohort of 30 substantive and methods papers published in the journal Computational Communication Research (CCR), the official journal of the ICA Computational Methods Division with a focus on transparency and hence a high rate of voluntary Open Science participation in the field. Among these CCR papers, we are not able to verify the computational reproducibility of 16 papers as no data and/or code were shared. For the remaining 14 papers, we attempt to execute the code shared by the original authors in a standardized containerized computational environment. We encounter a variety of issues that preclude us from reproducing the original findings, where incomplete sharing of data or code is the most common issue. In the end, we could at least partially reproduce the findings in only 6 papers (20%). Based on our findings, we discuss strategies for researchers and the subfield to correct for this disheartening state of computational reproducibility.",
-        "url": "https://doi.org/10.5117/ccr2024.1.5.chan"
-      },
-      {
-        "doi": "10.5117/ccr2023.1.10.lian",
-        "title": "Word Embedding Enrichment for Dictionary Construction: An Example of Incivility in Cantonese",
-        "authors": [
-          "Hai Liang",
-          "Yee Man Margaret Ng",
-          "Nathan L.T. Tsang"
-        ],
-        "year": 2023,
-        "publication_date": "2023-01-01",
-        "citation_count": 6,
-        "topics": [
-          "Computational text analysis",
-          "Incivility",
-          "Word embeddings",
-          "Political communication"
-        ],
-        "abstract": "Dictionary-based methods remain valuable to measure concepts based on texts, though supervised machine learning has been widely used in much recent communication research. The present study proposes a semi-automatic and easily implemented method to build and enrich dictionaries based on word embeddings. As an example, we create a dictionary of political incivility that contains vulgarity and name-calling words in Cantonese. The study shows that dictionary-based classification outperforms supervised machine learning methods, including deep neural network models. Furthermore, a small number of random seed words can generate a highly accurate dictionary. However, the uncivil content detected is only weakly correlated with uncivil perceptions, as we demonstrate in a population-based survey experiment. The strengths and limitations of dictionary-based methods are discussed.",
-        "url": "https://doi.org/10.5117/ccr2023.1.10.lian"
-      },
-      {
-        "doi": "10.5117/ccr2023.1.005.zier",
-        "title": "Algorithmic Recommendations’ Role for the Interrelatedness of Counter-Messages and Polluted Content on YouTube – A Network Analysis",
-        "authors": [
-          "Lisa Zieringer",
-          "Diana Rieger"
-        ],
-        "year": 2023,
-        "publication_date": "2023-01-01",
-        "citation_count": 6,
-        "topics": [
-          "Algorithmic curation",
-          "Social media algorithms",
-          "Content moderation",
-          "Misinformation"
-        ],
-        "abstract": "Counter-messages are used by civil education, youth prevention actors, and security agencies to counter the magnitude of polluted content. On the Internet, algorithmic operations of intermediaries affect how users encounter and receive polluted content. As counter-messages often show similar keywords, algorithms establish connections between counter-messages and polluted content, primarily because they share mutual topics. Against the background of legislative attempts to stop the spread of extremist online content, this paper aims to further investigate the interrelatedness of counter-messages and polluted content on YouTube due to the platform’s recommendation algorithm. To that end, two information network analyses were conducted based on each five seed videos of two differently designed counter-message campaigns one year after their publication on YouTube in 2019. Five thousand four hundred of the 35,982 videos of the two networks were analyzed qualitatively and manually. Results show that counter-messages are indirectly strongly connected to more polluted content. We further identify the campaigns’ design and setup on YouTube as factors that can cause the interrelatedness between counter-messages and polluted content.",
-        "url": "https://doi.org/10.5117/ccr2023.1.005.zier"
-      },
-      {
-        "doi": "10.5117/ccr2023.1.006.dinh",
-        "title": "Are we projecting gender biases to ungendered things? Differences in referring to female versus male named hurricanes in 33 years of news coverage",
-        "authors": [
-          "Ly Dinh",
-          "Maria Janina Sarol",
-          "Sullam Jeoung",
-          "Jana Diesner"
-        ],
-        "year": 2023,
-        "publication_date": "2023-01-01",
-        "citation_count": 6,
-        "topics": [
-          "Gender representation",
-          "News framing",
-          "Natural language processing",
-          "Content analysis"
-        ],
-        "abstract": "Hurricanes are ungendered phenomena that are ascribed with gendered names. We examined if news information about the hurricanes are presented using gendered language. This work helps identify if people use gender stereotyping when referring to gender-neutral entities, and what these stereotypes might be. We use methods from natural language processing, qualitative text analysis, and statistics to analyze how gender is expressed in disaster-related news via text-level indicators: (1) pronouns, (2) lexical, syntactic, and semantic features of words related to hurricanes, and (3) types of sources quoted. Our sample contains news articles on 47 hurricane events from 1979 to 2012 from two weeks before to two weeks after landfall. We find that: (1) hurricanes are mainly referred to by gender-neutral pronouns, however, (2) when gendered pronouns are used, female-named hurricanes are five times more likely to be referred to by a gendered pronoun than male-named hurricanes, (3) adjectives and verbs used in discussing female-named hurricanes are on average more negative than those used for reporting on male-named-hurricanes, and (4) governmental sources are most frequently quoted as authority voices (voices from citizens and non-governmental entities are catching up), and a majority of these voices do not directly mention hurricanes with gendered references.",
-        "url": "https://doi.org/10.5117/ccr2023.1.006.dinh"
-      },
-      {
-        "doi": "10.5117/ccr2024.2.6.angu",
-        "title": "Enabling Online Advertising Transparency through Data Donation Methods",
-        "authors": [
-          "Daniel J. Angus",
-          "Abdul Karim Obeid",
-          "Jean Burgess",
-          "Christine Parker",
-          "Mark Andrejevic",
-          "Nicholas Carah",
-          "Xue Ying Tan"
-        ],
-        "year": 2024,
-        "publication_date": "2024-01-01",
-        "citation_count": 6,
-        "topics": [
-          "Data donation",
-          "Digital platforms",
-          "Social media advertising",
-          "Computational methods"
-        ],
-        "abstract": "Advertising has historically played a major cultural role in media and society; targeted advertising based on the detailed profiling of consumers has become central to the business models of commercial digital and social media platforms. Despite their immense cultural and economic significance, the operations of these advertising systems are difficult to observe, preventing the independent, systematic study of both advertising content and how it is delivered to audiences. This paper details a novel data donation infrastructure aimed at improving the observability of both of these aspects of platform-based advertising. The infrastructure includes custom plugins developed for major web browsers to capture web-based Facebook advertising content and targeting information from individual Facebook users for large- scale offline analysis. The paper describes the technical components of the infrastructure, including the plugin(s), data storage, data processing and enrichment, and researcher dashboard. We also discuss preliminary findings from case studies conducted using the tool, the ethical considerations associated with the research, and insights for future data donation projects.",
-        "url": "https://doi.org/10.5117/ccr2024.2.6.angu"
-      },
-      {
-        "doi": "10.5117/ccr2020.2.002.jose",
-        "title": "Who Says What with Whom",
-        "authors": [
-          "Kenneth Joseph",
-          "Ryan J. Gallagher",
-          "Brooke Foucault Welles"
-        ],
-        "year": 2020,
-        "publication_date": "2020-10-01",
-        "citation_count": 6,
-        "topics": [
-          "Social movements",
-          "Computational text analysis",
-          "Twitter",
-          "Social media discourse"
-        ],
-        "abstract": "Social media protest networks involve many participants, from long-time activists to individuals who are engaged only in a particular protest event. We propose a new approach to studying how various communities of users participate in protest events. Our approach combines two methodological innovations. First, rather than study tweets central to one event, we collect full timelines of user activity leading up to participation in a focal event. Second, we propose bi-spectral clustering as a scalable computational method for rapidly identifying communities of users by the words (hashtags) they use. Using a large sample of tweets from users who discussed the 2016 protests in Charlotte, North Carolina following the extrajudicial killing of Keith Lamont Scott as a case study, we demonstrate how bi-spectral clustering can be applied to sort, sample, and identify ideologically and thematically coherent clusters whose members participated in the protest on Twitter. Our proposed approach provides another tool in the mixed methods scholar’s toolkit to computationally sort and cluster large-scale network data by allowing researchers to look beyond focal hashtags or keywords and situate protest messages within the broader communication context of participating users.",
-        "url": "https://doi.org/10.5117/ccr2020.2.002.jose"
-      },
-      {
-        "doi": "10.5117/ccr2022.2.005.jaid",
-        "title": "Talking politics: Building and validating data-driven lexica to measure political discussion quality",
-        "authors": [
-          "Kokil Jaidka"
-        ],
-        "year": 2022,
-        "publication_date": "2022-09-28",
-        "citation_count": 6,
-        "topics": [
-          "Political discussion",
-          "Machine learning",
-          "Natural language processing",
-          "Social media discourse"
-        ],
-        "abstract": "Social media data offers computational social scientists the opportunity to understand how ordinary citizens engage in political activities, such as expressing their ideological stances and engaging in policy discussions. This study curates and develops discussion quality lexica from the Corpus for the Linguistic Analysis of Political Talk ONline (CLAPTON). Supervised machine learning classifiers to characterize political talk are evaluated for out-of-sample label prediction and generalizability to new contexts. The approach yields data-driven lexica, or dictionaries, that can be applied to measure the constructiveness, justification, relevance, reciprocity, empathy, and incivility of political discussions. In addition, the findings illustrate how the choices made in training such classifiers, such as the heterogeneity of the data, the feature sets used to train classifiers, and the classification approach, affect their generalizability. The article concludes by summarizing the strengths and weaknesses of applying machine learning methods to social media posts and theoretical insights into the quality and structure of online political discussions.",
-        "url": "https://doi.org/10.5117/ccr2022.2.005.jaid"
       }
     ],
     "latest": [
@@ -1057,7 +1060,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-10-06",
-        "citation_count": 0,
+        "citation_count": 17,
         "topics": [
           "Content moderation",
           "Large Language Models",
@@ -1065,7 +1068,8 @@
           "Misinformation"
         ],
         "abstract": "Video platforms, used by billions globally, are criticized for exposing users to harmful content. Yet, detecting online harm remains challenging due to inconsistent approaches to what constitutes harm and limitations of human annotation. We address both challenges. Theoretically, we integrate and expand existing taxonomies and platform guidelines to multimodal contexts and develop a comprehensive taxonomy for online harm. We categorize online harm on video platforms into six content-based categories: Information, Hate and harassment, Addictive, Clickbait, Sexual, and Physical harms. Methodologically, we propose and systematically test multimodal large language models (MLLMs) as alternative annotators of harmful videos. We curate a dataset of 19,422 potentially harmful YouTube videos and annotate them using GPT-4-Turbo, non-trained crowdworkers, and trained annotators. We discuss the potential applications of MLLMs in platform content moderation and social science research, particularly in contexts where they perform comparably to human annotators in binary and multi-label classification tasks.",
-        "url": "https://doi.org/10.5117/ccr2026.4.7.jo"
+        "url": "https://doi.org/10.5117/ccr2026.4.7.jo",
+        "trend_score": 2.389
       },
       {
         "doi": "10.5117/ccr2026.3.6.vanh",
@@ -1096,7 +1100,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-09-16",
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Computational methods",
           "Research methodology",
@@ -1148,7 +1152,7 @@
         "doi": "10.5117/ccr2026.1.17.bern",
         "title": "When Validation Disagrees: How Validation Choices Shape Word Embedding Selection in Computational Communication Science",
         "authors": [
-          "Jana Bernhard-Harrer",
+          "Jana Bernhard",
           "Paul Balluff",
           "Ahrabhi Kathirgamalingam"
         ],
@@ -1287,6 +1291,28 @@
         "url": "https://doi.org/10.5117/ccr2026.1.10.sahi"
       },
       {
+        "doi": "10.5117/ccr2026.4.3.wohl",
+        "title": "Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok",
+        "authors": [
+          "Inga K. Wohlert",
+          "Davide Vega",
+          "Matteo Magnani",
+          "Alexandra Segerberg"
+        ],
+        "year": 2026,
+        "publication_date": "2026-07-14",
+        "citation_count": 3,
+        "topics": [
+          "Coordinated behaviour",
+          "TikTok",
+          "Short-form video",
+          "Multimodal analysis"
+        ],
+        "abstract": "Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.",
+        "url": "https://doi.org/10.5117/ccr2026.4.3.wohl",
+        "trend_score": 0.304
+      },
+      {
         "doi": "10.5117/ccr2026.4.5.vand",
         "title": "What’s on Their For You Page? A Large-Scale Computational Approach to Analyzing Adolescents’ TikTok Archives Through Hashtag Topic Modeling",
         "authors": [
@@ -1348,27 +1374,6 @@
         ],
         "abstract": "Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.",
         "url": "https://doi.org/10.5117/ccr2026.1.7.schr"
-      },
-      {
-        "doi": "10.5117/ccr2026.4.3.wohl",
-        "title": "Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok",
-        "authors": [
-          "Inga K. Wohlert",
-          "Davide Vega",
-          "Matteo Magnani",
-          "Alexandra Segerberg"
-        ],
-        "year": 2026,
-        "publication_date": "2026-07-14",
-        "citation_count": 0,
-        "topics": [
-          "Coordinated behaviour",
-          "TikTok",
-          "Short-form video",
-          "Multimodal analysis"
-        ],
-        "abstract": "Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.",
-        "url": "https://doi.org/10.5117/ccr2026.4.3.wohl"
       },
       {
         "doi": "10.5117/ccr2026.2.7.huan",
@@ -1477,6 +1482,30 @@
         "url": "https://doi.org/10.5117/ccr2026.4.2.li"
       },
       {
+        "doi": "10.5117/ccr2026.1.9.obei",
+        "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
+        "authors": [
+          "Abdul Karim Obeid",
+          "Daniel J. Angus",
+          "Dang Khuong Tran",
+          "Lauren Hayden",
+          "Nicholas Carah",
+          "Khanh Luong",
+          "Giselle Newton"
+        ],
+        "year": 2026,
+        "publication_date": "2026-05-18",
+        "citation_count": 1,
+        "topics": [
+          "Digital platforms",
+          "Platform studies",
+          "Mobile media",
+          "Social media advertising"
+        ],
+        "abstract": "We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.",
+        "url": "https://doi.org/10.5117/ccr2026.1.9.obei"
+      },
+      {
         "doi": "10.5117/ccr2026.1.5.gais",
         "title": "Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter",
         "authors": [
@@ -1497,30 +1526,6 @@
         "url": "https://doi.org/10.5117/ccr2026.1.5.gais"
       },
       {
-        "doi": "10.5117/ccr2026.1.9.obei",
-        "title": "The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data",
-        "authors": [
-          "Abdul Karim Obeid",
-          "Daniel J. Angus",
-          "Dang Khuong Tran",
-          "Lauren Hayden",
-          "Nicholas Carah",
-          "Khanh Luong",
-          "Giselle Newton"
-        ],
-        "year": 2026,
-        "publication_date": "2026-05-18",
-        "citation_count": 0,
-        "topics": [
-          "Digital platforms",
-          "Platform studies",
-          "Mobile media",
-          "Social media advertising"
-        ],
-        "abstract": "We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.",
-        "url": "https://doi.org/10.5117/ccr2026.1.9.obei"
-      },
-      {
         "doi": "10.5117/ccr2026.1.8.xue",
         "title": "A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement",
         "authors": [
@@ -1532,7 +1537,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-05-18",
-        "citation_count": 0,
+        "citation_count": 1,
         "topics": [
           "Short-form video",
           "Message sensation value",
@@ -1564,6 +1569,28 @@
         ],
         "abstract": "Photorealistic AI-generated images (AIGIs) are increasingly indistinguishable from real photographs, raising significant social concerns. While prior research focuses on the production quality and detection of photorealistic AIGIs, such research often overlooks their expressive features. This study focuses on surrealism as a key feature of AIGIs, and introduces the concept of algorithmic surrealism to capture AIGIs' algorithmically driven and public accessible generative processes and consequences. Using 28,290 AIGIs collected from Instagram creators and a mixed-methods, Large Language Model (LLM)-assisted framework, we categorized physical, behavioral, and contextual surrealism at scale and found a pervasive presence of surrealism in AIGIs. Topic network and qualitative analyses show that algorithmic surrealism often appears in hybrid forms, indicates patterns of visual excess, reinforces stereotypes, transforms technical flaws into surreal aesthetic features, and exhibits visual homogenization tendencies. This study advances the theoretical understanding of surrealism and photorealism in the age of generative AI. Methodologically, it contributes to computational social science by demonstrating an LLM-based framework that integrates computational, qualitative, and network analyses to examine complex visual concepts.",
         "url": "https://doi.org/10.5117/ccr2026.2.6.liu"
+      },
+      {
+        "doi": "10.5117/ccr2026.2.8.li",
+        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
+        "authors": [
+          "Xinyi Li",
+          "Yu Xu",
+          "Yongfeng Zhang",
+          "Edward Carl Malthouse"
+        ],
+        "year": 2026,
+        "publication_date": "2026-04-20",
+        "citation_count": 25,
+        "topics": [
+          "Misinformation",
+          "Large Language Models",
+          "Agent-based modeling",
+          "Social networks"
+        ],
+        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
+        "url": "https://doi.org/10.5117/ccr2026.2.8.li",
+        "trend_score": 1.973
       },
       {
         "doi": "10.5117/ccr2026.3.2.stei",
@@ -1607,27 +1634,6 @@
         ],
         "abstract": "A bottom–up, reproducible multi-agent simulation framework is presented for investigating opinion dynamics via LLM-based agents embedded in an endogenously evolving small-world network. The study simulates cognitive–affective agents deliberating the real-world controversy over rounds, generating natural-language exchanges, instantaneous appraisals, and systemic reflections. Network topology co-evolves through agent-driven edge rewiring. Community detection and intra- community stance-variance analyses reveal three temporal phases—turbulence, coalescence, consolidation—with opinion variance declining. Correlations between closeness centrality and Influence Score uncover heterogeneous influence patterns, exemplified by positively, negatively, and negligibly correlated agent archetypes. These results demonstrate that LLM-based generative agents can (1) reproduce key opinion and network structural dynamics (H1), (2) self-organize into stable communities with constructive opinion aggregation via endogenous rewiring (H2), and (3) convert network structure into persuasive influence through adaptive discourse strategies (H3). This framework bridges micro-level cognitive–affective processes and macro-level network phenomena, offering a versatile platform for computational communication research.",
         "url": "https://doi.org/10.5117/ccr2026.2.9.huan"
-      },
-      {
-        "doi": "10.5117/ccr2026.2.8.li",
-        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
-        "authors": [
-          "Xinyi Li",
-          "Yu Xu",
-          "Yongfeng Zhang",
-          "Edward Carl Malthouse"
-        ],
-        "year": 2026,
-        "publication_date": "2026-04-20",
-        "citation_count": 0,
-        "topics": [
-          "Misinformation",
-          "Large Language Models",
-          "Agent-based modeling",
-          "Social networks"
-        ],
-        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
-        "url": "https://doi.org/10.5117/ccr2026.2.8.li"
       },
       {
         "doi": "10.5117/ccr2026.2.11.urma",
@@ -1679,7 +1685,7 @@
         ],
         "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
         "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
-        "trend_score": 0.145
+        "trend_score": 0.143
       },
       {
         "doi": "10.5117/ccr2026.2.5.foot",
@@ -1711,7 +1717,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-02-16",
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Data donation",
           "Longitudinal study",
@@ -1719,7 +1725,8 @@
           "Social media use"
         ],
         "abstract": "This research article presents insights from a two-wave, longitudinal data donation study across four major social media platforms: TikTok, YouTube, Facebook, and Instagram. We investigate a critical yet underexplored aspect of data donation: allowing participants to delete specific data traces before submission. Our analysis quantifies the impact of this selective omission on data completeness and, consequently, the analytical power of the resulting datasets. Furthermore, leveraging a longitudinal design, we examine the stability of donation and deletion behaviors over time in a panel setting. Findings reveal an overall increase in the platform donor rate in the second wave. However, we also observe substantial donor attrition. Notably, the omission of data traces is predominantly observed among first-time donors.Our results suggest the feasibility of longitudinal data donation research designs. For allowing participants selective data omission, a careful weighing of the trade-offs is necessary, as this practice—when utilized—significantly compromises data completeness.",
-        "url": "https://doi.org/10.5117/ccr2026.1.3.wede"
+        "url": "https://doi.org/10.5117/ccr2026.1.3.wede",
+        "trend_score": 0.136
       },
       {
         "doi": "10.5117/ccr2026.1.2.elda",
@@ -1770,7 +1777,7 @@
         ],
         "year": 2026,
         "publication_date": "2026-01-30",
-        "citation_count": 2,
+        "citation_count": 3,
         "topics": [
           "Generative AI",
           "Sentiment analysis",
@@ -1779,7 +1786,7 @@
         ],
         "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
         "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.133
+        "trend_score": 0.196
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -1800,7 +1807,7 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.133
+        "trend_score": 0.131
       },
       {
         "doi": "10.5117/ccr2026.1.1.haga",
@@ -1871,7 +1878,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-08-28",
-        "citation_count": 1,
+        "citation_count": 2,
         "topics": [
           "Gender representation",
           "Media representation",
@@ -1879,7 +1886,8 @@
           "Large Language Models"
         ],
         "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
-        "url": "https://doi.org/10.5117/ccr2025.1.11.melt"
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
+        "trend_score": 0.098
       },
       {
         "doi": "10.5117/ccr2025.1.10.wang",
@@ -1909,7 +1917,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-05-08",
-        "citation_count": 7,
+        "citation_count": 14,
         "topics": [
           "Smartphone use",
           "Research methodology",
@@ -1918,7 +1926,7 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.294
+        "trend_score": 0.582
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -1938,7 +1946,7 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.168
+        "trend_score": 0.166
       },
       {
         "doi": "10.5117/ccr2025.1.5.chew",
@@ -1951,7 +1959,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-05-08",
-        "citation_count": 2,
+        "citation_count": 6,
         "topics": [
           "Machine translation",
           "Computational methods",
@@ -1960,7 +1968,7 @@
         ],
         "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.084
+        "trend_score": 0.249
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
@@ -1983,7 +1991,7 @@
         ],
         "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
         "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
-        "trend_score": 0.081
+        "trend_score": 0.08
       },
       {
         "doi": "10.5117/ccr2025.1.3.dumi",
@@ -2070,6 +2078,49 @@
     ],
     "trending": [
       {
+        "doi": "10.5117/ccr2026.4.7.jo",
+        "title": "Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators",
+        "authors": [
+          "Wonjeong Jo",
+          "Miki Wesołowska",
+          "Magdalena Wojcieszak"
+        ],
+        "year": 2026,
+        "publication_date": "2026-10-06",
+        "citation_count": 17,
+        "topics": [
+          "Content moderation",
+          "Large Language Models",
+          "Digital platforms",
+          "Misinformation"
+        ],
+        "abstract": "Video platforms, used by billions globally, are criticized for exposing users to harmful content. Yet, detecting online harm remains challenging due to inconsistent approaches to what constitutes harm and limitations of human annotation. We address both challenges. Theoretically, we integrate and expand existing taxonomies and platform guidelines to multimodal contexts and develop a comprehensive taxonomy for online harm. We categorize online harm on video platforms into six content-based categories: Information, Hate and harassment, Addictive, Clickbait, Sexual, and Physical harms. Methodologically, we propose and systematically test multimodal large language models (MLLMs) as alternative annotators of harmful videos. We curate a dataset of 19,422 potentially harmful YouTube videos and annotate them using GPT-4-Turbo, non-trained crowdworkers, and trained annotators. We discuss the potential applications of MLLMs in platform content moderation and social science research, particularly in contexts where they perform comparably to human annotators in binary and multi-label classification tasks.",
+        "url": "https://doi.org/10.5117/ccr2026.4.7.jo",
+        "trend_score": 2.389
+      },
+      {
+        "doi": "10.5117/ccr2026.2.8.li",
+        "title": "Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures",
+        "authors": [
+          "Xinyi Li",
+          "Yu Xu",
+          "Yongfeng Zhang",
+          "Edward Carl Malthouse"
+        ],
+        "year": 2026,
+        "publication_date": "2026-04-20",
+        "citation_count": 25,
+        "topics": [
+          "Misinformation",
+          "Large Language Models",
+          "Agent-based modeling",
+          "Social networks"
+        ],
+        "abstract": "The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.",
+        "url": "https://doi.org/10.5117/ccr2026.2.8.li",
+        "trend_score": 1.973
+      },
+      {
         "doi": "10.5117/ccr2025.1.8.parr",
         "title": "Extracting Meaningful Measures of Smartphone Usage from Android Event Log Data: A Methodological Primer",
         "authors": [
@@ -2078,7 +2129,7 @@
         ],
         "year": 2025,
         "publication_date": "2025-05-08",
-        "citation_count": 7,
+        "citation_count": 14,
         "topics": [
           "Smartphone use",
           "Research methodology",
@@ -2087,7 +2138,71 @@
         ],
         "abstract": "As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.",
         "url": "https://doi.org/10.5117/ccr2025.1.8.parr",
-        "trend_score": 0.294
+        "trend_score": 0.582
+      },
+      {
+        "doi": "10.5117/ccr2026.4.3.wohl",
+        "title": "Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok",
+        "authors": [
+          "Inga K. Wohlert",
+          "Davide Vega",
+          "Matteo Magnani",
+          "Alexandra Segerberg"
+        ],
+        "year": 2026,
+        "publication_date": "2026-07-14",
+        "citation_count": 3,
+        "topics": [
+          "Coordinated behaviour",
+          "TikTok",
+          "Short-form video",
+          "Multimodal analysis"
+        ],
+        "abstract": "Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.",
+        "url": "https://doi.org/10.5117/ccr2026.4.3.wohl",
+        "trend_score": 0.304
+      },
+      {
+        "doi": "10.5117/ccr2025.1.5.chew",
+        "title": "Machine Translation for Accessible Multi-Language Text Analysis",
+        "authors": [
+          "Edward W. Chew",
+          "Mahasweta Chakraborti",
+          "William Weisman",
+          "Seth Frey"
+        ],
+        "year": 2025,
+        "publication_date": "2025-05-08",
+        "citation_count": 6,
+        "topics": [
+          "Machine translation",
+          "Computational methods",
+          "Sentiment analysis",
+          "Topic modeling"
+        ],
+        "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
+        "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
+        "trend_score": 0.249
+      },
+      {
+        "doi": "10.5117/ccr2026.2.4.liu",
+        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
+        "authors": [
+          "Anna Yan Liu",
+          "Maggie Mengqing Zhang"
+        ],
+        "year": 2026,
+        "publication_date": "2026-01-30",
+        "citation_count": 3,
+        "topics": [
+          "Generative AI",
+          "Sentiment analysis",
+          "AI-generated content",
+          "Social media"
+        ],
+        "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
+        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
+        "trend_score": 0.196
       },
       {
         "doi": "10.5117/ccr2025.1.7.righ",
@@ -2107,7 +2222,7 @@
         ],
         "abstract": "This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.",
         "url": "https://doi.org/10.5117/ccr2025.1.7.righ",
-        "trend_score": 0.168
+        "trend_score": 0.166
       },
       {
         "doi": "10.5117/ccr2026.1.4.sun",
@@ -2134,27 +2249,27 @@
         ],
         "abstract": "This paper leverages large-language models (LLMs) to experimentally determine strategies for scaling up social media annotation and stance detection of health information, with HPV vaccine-related tweets as a case study. We examine both conventional fine-tuning and emergent in-context learning methods, systematically varying strategies of prompt engineering and in-context learning across widely used LLMs and their variants (e.g., GPT-4, Mistral, Llama 3, and Flan- UL2). Specifically, we varied prompt template design, shot sampling methods, and shot quantity to detect stance on HPV vaccination. Our findings reveal that (a) in-context learning outperformed fine-tuning in stance detection for HPV vaccine social media content; (b) increasing shot quantity does not necessarily enhance performance across models; (c) stratified sampling often outperforms random sampling, with the performance gap more pronounced in smaller model variants, and (d) LLMs and their variants present differing sensitivity to in-context learning conditions. This study highlights the potential and provides an applicable approach for applying LLMs to research on social media annotation and stance detection of health information.",
         "url": "https://doi.org/10.5117/ccr2026.1.4.sun",
-        "trend_score": 0.145
+        "trend_score": 0.143
       },
       {
-        "doi": "10.5117/ccr2026.2.4.liu",
-        "title": "Positivity Bias in AI-Generated Summaries of User-Generated Content: Exploring Its Sources and Impact on Public Sentiment",
+        "doi": "10.5117/ccr2026.1.3.wede",
+        "title": "Longitudinal Data Donation Behavior and Data Omission across Four Social Media Platforms",
         "authors": [
-          "Anna Yan Liu",
-          "Maggie Mengqing Zhang"
+          "Lion Wedel",
+          "Jakob Ohme"
         ],
         "year": 2026,
-        "publication_date": "2026-01-30",
+        "publication_date": "2026-02-16",
         "citation_count": 2,
         "topics": [
-          "Generative AI",
-          "Sentiment analysis",
-          "AI-generated content",
-          "Social media"
+          "Data donation",
+          "Longitudinal study",
+          "TikTok",
+          "Social media use"
         ],
-        "abstract": "Recently, platforms have been increasingly deploying generative AI (GenAI) to summarize user-generated content (UGC) into AI-generated summaries (AIGS). However, the potential bias in AIGS and its impact on the public remain inadequately examined. We used Weibo, a leading social media in China, as a case to investigate these important questions, focusing on public sentiments. Specifically, we explored whether AIGS are biased in representing emotions in UGC and whether such representation influences subsequent public sentiment. We empirically identify two sources of bias in the algorithmic processes underlying the production of AIGS from UGC: the sampling process, in which GenAI selects a subset of UGC, and the summarizing process, in which the summary is generated from the sampled content. Comparing emotions in AIGS, sampled UGC, and all UGC, we found evidence of bias in both processes. In our case, GenAI tends to favor positive UGC during the sampling process and produces summaries that further amplify this positivity, leading to an over-representation of positive sentiments in AIGS. Additionally, we utilized a Difference-in-Differences (DiD) design to explore AIGS in public sentiment dynamics. Findings suggest that AIGS alone are insufficient to influence public sentiment significantly. Overall, this study provides important implications for deploying GenAI in public online discussions.",
-        "url": "https://doi.org/10.5117/ccr2026.2.4.liu",
-        "trend_score": 0.133
+        "abstract": "This research article presents insights from a two-wave, longitudinal data donation study across four major social media platforms: TikTok, YouTube, Facebook, and Instagram. We investigate a critical yet underexplored aspect of data donation: allowing participants to delete specific data traces before submission. Our analysis quantifies the impact of this selective omission on data completeness and, consequently, the analytical power of the resulting datasets. Furthermore, leveraging a longitudinal design, we examine the stability of donation and deletion behaviors over time in a panel setting. Findings reveal an overall increase in the platform donor rate in the second wave. However, we also observe substantial donor attrition. Notably, the omission of data traces is predominantly observed among first-time donors.Our results suggest the feasibility of longitudinal data donation research designs. For allowing participants selective data omission, a careful weighing of the trade-offs is necessary, as this practice—when utilized—significantly compromises data completeness.",
+        "url": "https://doi.org/10.5117/ccr2026.1.3.wede",
+        "trend_score": 0.136
       },
       {
         "doi": "10.5117/ccr2026.2.2.toma",
@@ -2175,29 +2290,28 @@
         ],
         "abstract": "This software demonstration article introduces transforEmotion, an open-source R package that addresses critical bottlenecks in communication research emotion analysis. Communication researchers currently face three key barriers: (1) modal fragmentation requiring separate tools for text/image/video analysis, (2) rigid emotion taxonomies that don't match theoretical frameworks, and (3) irreproducible workflows dependent on commercial APIs. transforEmotion removes these bottlenecks through unified multimodal processing, zero-shot classification with arbitrary labels, local inference capabilities, and seamless R integration. This enables systematic investigation of emotion dynamics across communication contexts and modalities that were previously technically difficult to analyze.",
         "url": "https://doi.org/10.5117/ccr2026.2.2.toma",
-        "trend_score": 0.133
+        "trend_score": 0.131
       },
       {
-        "doi": "10.5117/ccr2025.1.5.chew",
-        "title": "Machine Translation for Accessible Multi-Language Text Analysis",
+        "doi": "10.5117/ccr2025.1.11.melt",
+        "title": "Beyond the Beat: The Representation of Women in Music Videos Across Genres over Four Decades",
         "authors": [
-          "Edward W. Chew",
-          "Mahasweta Chakraborti",
-          "William Weisman",
-          "Seth Frey"
+          "Christine E. Meltzer",
+          "Michael Scharkow",
+          "Pascal Jürgens"
         ],
         "year": 2025,
-        "publication_date": "2025-05-08",
+        "publication_date": "2025-08-28",
         "citation_count": 2,
         "topics": [
-          "Machine translation",
-          "Computational methods",
-          "Sentiment analysis",
-          "Topic modeling"
+          "Gender representation",
+          "Media representation",
+          "Multimodal analysis",
+          "Large Language Models"
         ],
-        "abstract": "English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.",
-        "url": "https://doi.org/10.5117/ccr2025.1.5.chew",
-        "trend_score": 0.084
+        "abstract": "The portrayal of gender in music videos has significant implications for societal attitudes and behavior. Women continue to be underrepresented and sexualized in music videos. Most research on the subject thus far has focused on a single music genre, which carries the inherent risk of placing the blame for encouraging gender inequality and misogyny on specific music genres. Our study uses a comprehensive automated quantitative analysis of 9,799 music videos spanning four decades and multiple genres. We used multimodal large language models (MLLMs) to examine the visibility and sexualization of women. We find that while women’s visibility has increased over time, gender inequalities persist and vary significantly across genres. In particular, women artists tend to have higher visibility and are more likely to be sexualized in their videos. In addition, genre differences play a significant role, with the results revealing that dance videos have higher levels of sexualization. These findings emphasize the problematic role of music videos in shaping gender perceptions and highlight the need for continued research and awareness-raising to promote gender equality in media representations, particularly within the dynamic landscape of the production and consumption of music videos.",
+        "url": "https://doi.org/10.5117/ccr2025.1.11.melt",
+        "trend_score": 0.098
       },
       {
         "doi": "10.5117/ccr2025.1.4.horn",
@@ -2220,7 +2334,7 @@
         ],
         "abstract": "As media platforms continue to develop content moderation policies, alternative platforms have emerged as safe havens for deplatformed content. As these alternatives to major media platforms grow, the importance of understanding their role in the media ecosystem grows too. In this paper, we perform a longitudinal study of the content dynamics of one such alternative media platform, BitChute. BitChute is an alternative video-hosting site similar to YouTube. We first theorize what technological affordances may drive the supply and demand of content on BitChute. We then test those theories through an analysis of 6,363,596 videos from 82,162 channels, which were viewed 2,868,117,905 times, over 54 months. We find that BitChute’s minimal content moderation drives much of the content supply and demand. Videos which were more offensive, certain, and covered commonly deplatformed topics were most popular. In particular, we find that BitChute fills a demand gap created by moderation policies on major media platforms around COVID-19 and - to a lesser extent - elections fraud. The most popular videos on the platform were re-uploaded videos that were banned by YouTube and Facebook. As a whole, our results suggest that BitChute’s current role is less as a town square and more as a backup for deplatformed video content.",
         "url": "https://doi.org/10.5117/ccr2025.1.4.horn",
-        "trend_score": 0.081
+        "trend_score": 0.08
       }
     ]
   }

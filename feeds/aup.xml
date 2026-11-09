@@ -5,7 +5,7 @@
     <link>https://masurp.github.io/ICA-Journal-Tracker/</link>
     <description>Newest papers from the 1 Amsterdam University Press journals tracked (CCR), with AI-generated topic keywords. Updated weekly.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:16:24 GMT</lastBuildDate>
     <atom:link href="https://masurp.github.io/ICA-Journal-Tracker/feeds/aup.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deconstructing the MeToo Movement and the Blue Wave in the 2018 House Elections</title>
@@ -102,13 +102,13 @@
       <link>https://doi.org/10.5117/ccr2026.1.17.bern</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.17.bern</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
+      <dc:creator>Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
       <category>Computational Communication Research</category>
       <category>Computational methods</category>
       <category>Measurement validity</category>
       <category>Machine learning</category>
       <category>Natural language processing</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
 &lt;p&gt;Topics: Computational methods, Measurement validity, Machine learning, Natural language processing&lt;/p&gt;
 &lt;p&gt;In the computational communication sciences, accurately representing text as data is essential for making valid analysis. Word embeddings are one option of representing texts. However, selecting a suitable model remains challenging, due to the sheer plethora of options. To examine the impact of validation methods on model selection, we develop 320 specialised word embeddings using fastText and validate the models using both quantitative methods, including intrinsic (semantic and syntactic tasks) and extrinsic (author classification, topic classification, sentiment analysis) evaluations, and qualitative methods based on analysing nearest neighbours and semantic similarity relationships, to highlight the different conclusions they lead to. Specifically, we find that models favoured by intrinsic benchmarks are not consistently those that perform best on extrinsic tasks, leading to substantially different nearest-neighbour structures for key concepts across validation strategies. Based on these findings, we provide practical recommendations for validating word embedding models in social science research, including aligning validation strategies with research goals, distinguishing between model and result validation, assessing stability across models and configurations, and combining quantitative and qualitative evaluation approaches.&lt;/p&gt;</description>
     </item>
@@ -203,6 +203,21 @@
 &lt;p&gt;Visual self-representation on social media is a central concern in communication research, as bodily posture and movement convey gendered social codes that shape audience perceptions and contribute to the reproduction of stereotypes. While previous research has identified gendered body-pose patterns in static Instagram imagery, contemporary platform communication is increasingly dominated by short-form video formats, where self-presentation unfolds dynamically over time. Building on Tsolak &amp;amp; Kühne (2025), who identified 150 body-pose clusters in Instagram imagery using OpenPose, this paper introduces an open-source research tool for analyzing gendered bodily self-presentation in video. Using the original raw keypoint dataset, we implemented an independent unsupervised learning pipeline to derive 150 pose prototypes through K-means clustering. These prototypes form the basis of a browser-based application that performs frame-by-frame pose classification using the MediaPipe framework. To bridge differences between OpenPose and MediaPipe landmarks, the tool employs a custom mapping layer that aligns live video data with the original clusters. The framework enables communication researchers to trace how gendered bodily performances unfold over time in short-form video content that now dominates social media engagement.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok</title>
+      <link>https://doi.org/10.5117/ccr2026.4.3.wohl</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.4.3.wohl</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Inga K. Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Coordinated behaviour</category>
+      <category>TikTok</category>
+      <category>Short-form video</category>
+      <category>Multimodal analysis</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Inga K. Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg&lt;/p&gt;
+&lt;p&gt;Topics: Coordinated behaviour, TikTok, Short-form video, Multimodal analysis&lt;/p&gt;
+&lt;p&gt;Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>What’s on Their For You Page? A Large-Scale Computational Approach to Analyzing Adolescents’ TikTok Archives Through Hashtag Topic Modeling</title>
       <link>https://doi.org/10.5117/ccr2026.4.5.vand</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.4.5.vand</guid>
@@ -246,21 +261,6 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Lotte L. Schrijver, Rens Vliegenthart, Pearl A. Dykstra&lt;/p&gt;
 &lt;p&gt;Topics: Misinformation, Machine learning, COVID-19 pandemic, Twitter&lt;/p&gt;
 &lt;p&gt;Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Detecting Coordinated Behaviour on Video-First Platforms: The Challenge of Multimodality and Complex Similarity on TikTok</title>
-      <link>https://doi.org/10.5117/ccr2026.4.3.wohl</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.4.3.wohl</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Inga K. Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Coordinated behaviour</category>
-      <category>TikTok</category>
-      <category>Short-form video</category>
-      <category>Multimodal analysis</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Inga K. Wohlert, Davide Vega, Matteo Magnani, Alexandra Segerberg&lt;/p&gt;
-&lt;p&gt;Topics: Coordinated behaviour, TikTok, Short-form video, Multimodal analysis&lt;/p&gt;
-&lt;p&gt;Research on online coordinated behaviour has predominantly focused on text-based social media platforms. However, the rise of video-first platforms such as TikTok introduces distinct challenges. The multimodal nature of video posts, combining visuals, audio, and text, allows for coordination across various modalities and complicates comparison between posts. This paper proposes an approach to detecting coordination that addresses these characteristic challenges. Our approach, based on multilayer network analysis, is tailored to capture coordination across multiple modalities, and explicitly handles complex forms of similarity inherent in video and audio content. We test this approach on German political posts regarding the 2024 European Elections retrieved via the TikTok Research API. Our results demonstrate the ability of our approach to identify coordination within the constraints of the API, while also critically highlighting potential pitfalls and limitations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LabelGenius: A Python Library for LLM-based Text-Image Content Labeling</title>
@@ -338,21 +338,6 @@
 &lt;p&gt;TikTok offers interactive features, such as stitch, duet, and reply-to, that enable creators to respond to others and co-create science content, but it remains unclear whether these features translate into participatory science communication in practice. We developed an AI-powered framework to analyze 2,796 TikTok science short videos with 31,782 image frames and 2,796 audio files, examining how interactive features intersect with communicator identity, communication objectives, and audio-visual presentation strategies. We found that interactive videos were a small share of the overall science videos, yet they showed both promise and risks of participatory science communication: they were actively adopted by scientists and influencers and often used to inform the public and debunk misinformation, but they also facilitated the circulation of pseudoscience. Using latent class analysis, we identified four recurring styles of interactive videos: professional-led explanatory science, ordinary user-led personal commentary on science, influencer-led entertainment or experimental science, and ordinary user-led visual science. This study enriches our understanding of participatory science communication on TikTok and offers an AI-powered analysis framework for studying multimodal science messages on short-video platforms.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter</title>
-      <link>https://doi.org/10.5117/ccr2026.1.5.gais</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.5.gais</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Felix Gaisbauer, Armin Pournaki, Jakob Ohme</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>News sharing</category>
-      <category>Computational methods</category>
-      <category>Political polarization</category>
-      <category>Digital platforms</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Felix Gaisbauer, Armin Pournaki, Jakob Ohme&lt;/p&gt;
-&lt;p&gt;Topics: News sharing, Computational methods, Political polarization, Digital platforms&lt;/p&gt;
-&lt;p&gt;News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data</title>
       <link>https://doi.org/10.5117/ccr2026.1.9.obei</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.9.obei</guid>
@@ -366,6 +351,21 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Abdul Karim Obeid, Daniel J. Angus, Dang Khuong Tran, Lauren Hayden, Nicholas Carah, Khanh Luong, Giselle Newton&lt;/p&gt;
 &lt;p&gt;Topics: Digital platforms, Platform studies, Mobile media, Social media advertising&lt;/p&gt;
 &lt;p&gt;We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter</title>
+      <link>https://doi.org/10.5117/ccr2026.1.5.gais</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.5.gais</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Felix Gaisbauer, Armin Pournaki, Jakob Ohme</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>News sharing</category>
+      <category>Computational methods</category>
+      <category>Political polarization</category>
+      <category>Digital platforms</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Felix Gaisbauer, Armin Pournaki, Jakob Ohme&lt;/p&gt;
+&lt;p&gt;Topics: News sharing, Computational methods, Political polarization, Digital platforms&lt;/p&gt;
+&lt;p&gt;News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement</title>
@@ -398,6 +398,21 @@
 &lt;p&gt;Photorealistic AI-generated images (AIGIs) are increasingly indistinguishable from real photographs, raising significant social concerns. While prior research focuses on the production quality and detection of photorealistic AIGIs, such research often overlooks their expressive features. This study focuses on surrealism as a key feature of AIGIs, and introduces the concept of algorithmic surrealism to capture AIGIs&amp;#x27; algorithmically driven and public accessible generative processes and consequences. Using 28,290 AIGIs collected from Instagram creators and a mixed-methods, Large Language Model (LLM)-assisted framework, we categorized physical, behavioral, and contextual surrealism at scale and found a pervasive presence of surrealism in AIGIs. Topic network and qualitative analyses show that algorithmic surrealism often appears in hybrid forms, indicates patterns of visual excess, reinforces stereotypes, transforms technical flaws into surreal aesthetic features, and exhibits visual homogenization tendencies. This study advances the theoretical understanding of surrealism and photorealism in the age of generative AI. Methodologically, it contributes to computational social science by demonstrating an LLM-based framework that integrates computational, qualitative, and network analyses to examine complex visual concepts.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures</title>
+      <link>https://doi.org/10.5117/ccr2026.2.8.li</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.8.li</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Xinyi Li, Yu Xu, Yongfeng Zhang, Edward Carl Malthouse</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Misinformation</category>
+      <category>Large Language Models</category>
+      <category>Agent-based modeling</category>
+      <category>Social networks</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Xinyi Li, Yu Xu, Yongfeng Zhang, Edward Carl Malthouse&lt;/p&gt;
+&lt;p&gt;Topics: Misinformation, Large Language Models, Agent-based modeling, Social networks&lt;/p&gt;
+&lt;p&gt;The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Fanning the Frames: News Organizations’ versus Individuals’ Online Images of Protest</title>
       <link>https://doi.org/10.5117/ccr2026.3.2.stei</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.3.2.stei</guid>
@@ -426,21 +441,6 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Ming Huang, Zi-Ke Zhang&lt;/p&gt;
 &lt;p&gt;Topics: Computational methods, Social networks, Persuasion, Social influence&lt;/p&gt;
 &lt;p&gt;A bottom–up, reproducible multi-agent simulation framework is presented for investigating opinion dynamics via LLM-based agents embedded in an endogenously evolving small-world network. The study simulates cognitive–affective agents deliberating the real-world controversy over rounds, generating natural-language exchanges, instantaneous appraisals, and systemic reflections. Network topology co-evolves through agent-driven edge rewiring. Community detection and intra- community stance-variance analyses reveal three temporal phases—turbulence, coalescence, consolidation—with opinion variance declining. Correlations between closeness centrality and Influence Score uncover heterogeneous influence patterns, exemplified by positively, negatively, and negligibly correlated agent archetypes. These results demonstrate that LLM-based generative agents can (1) reproduce key opinion and network structural dynamics (H1), (2) self-organize into stable communities with constructive opinion aggregation via endogenous rewiring (H2), and (3) convert network structure into persuasive influence through adaptive discourse strategies (H3). This framework bridges micro-level cognitive–affective processes and macro-level network phenomena, offering a versatile platform for computational communication research.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Large Language Model-driven Multi-Agent Simulation for Fake News Diffusion Under Different Network Structures</title>
-      <link>https://doi.org/10.5117/ccr2026.2.8.li</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.8.li</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Xinyi Li, Yu Xu, Yongfeng Zhang, Edward Carl Malthouse</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Misinformation</category>
-      <category>Large Language Models</category>
-      <category>Agent-based modeling</category>
-      <category>Social networks</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Xinyi Li, Yu Xu, Yongfeng Zhang, Edward Carl Malthouse&lt;/p&gt;
-&lt;p&gt;Topics: Misinformation, Large Language Models, Agent-based modeling, Social networks&lt;/p&gt;
-&lt;p&gt;The spread of misinformation threatens societal trust and democratic processes, motivating extensive research on how misinformation diffuses through social networks in communication research. While simulation has long been a central tool for studying such processes, existing agent-based models typically rely on hand-crafted contagion rules that limit behavioral expressiveness. In this work, we propose a novel approach of using generative AI (GenAI) as a methodological tool for simulating complex dynamics in information ecosystems. Specifically, we introduce a large language model (LLM)-driven multi-agent simulation framework in which LLM-driven agents make forwarding decisions conditioned on psychological traits, while misinformation propagates through given network structures. Simulations conducted across network topologies indicate that LLM-driven agents generate diffusion patterns that are both internally coherent and sensitive to structural properties of the network. Moreover, they exhibit emergent behavioral phenomena that are not replicated by conventional rule-based models. To assess external plausibility, we further conduct simulations on an empirical community derived from the Higgs dataset and show that the resulting diffusion patterns exhibit key qualitative regularities observed in real-world rumor propagation. Finally, we evaluate several intervention strategies and find that their effectiveness varies across network structures. Taken together, our results suggest that LLMs can serve as a flexible and expressive simulation component for studying information diffusion, enabling network-aware and behaviorally grounded analysis of misinformation dynamics beyond traditional modeling approaches.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gender Representation in Large Language Models: A Cross-Linguistic and Cross-Model Analysis</title>
