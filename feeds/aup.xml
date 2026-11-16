@@ -5,7 +5,7 @@
     <link>https://masurp.github.io/ICA-Journal-Tracker/</link>
     <description>Newest papers from the 1 Amsterdam University Press journals tracked (CCR), with AI-generated topic keywords. Updated weekly.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:52:31 GMT</lastBuildDate>
     <atom:link href="https://masurp.github.io/ICA-Journal-Tracker/feeds/aup.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deconstructing the MeToo Movement and the Blue Wave in the 2018 House Elections</title>
@@ -65,7 +65,7 @@
       <category>Digital trace data</category>
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Inessa De Angelis&lt;/p&gt;
 &lt;p&gt;Topics: Computational methods, Research methodology, Communication science, Digital trace data&lt;/p&gt;
-&lt;p&gt;Communication researchers increasingly use computational methods to collect and analyze large datasets. Part of the promise of these methods is their ability to increase the reproducibility and transparency of workflows. Taking up calls for more reproducible workflows and better recognition of the tools used in communication research, this paper introduces GitHub Actions for automated data collection. I describe the components required to set up and run a GitHub Actions workflow and illustrate its utility by discussing how I collected Bluesky posts tagged with &amp;quot;#CdnPoli&amp;quot; during the 2025 Canadian federal election. I conclude by offering best practices for other researchers, contributing to the development and documentation of reproducible workflows for computational communication research.&lt;/p&gt;</description>
+&lt;p&gt;Communication researchers increasingly use computational methods to collect and analyze large datasets. Part of the promise of these methods is their ability to support more transparent and systematic research workflows. Taking up calls for more reproducible workflows and greater recognition of the tools used in communication research, this paper provides a step-by-step guide for setting up a GitHub Actions workflow for automated data collection. I describe the components required to set up and run a GitHub Actions workflow and illustrate its utility by discussing how I collected Bluesky posts tagged with “#CdnPoli” during the 2025 Canadian federal election. I conclude by offering best practices for other researchers, demonstrating how transparent, automated, and well-documented workflows can support reproducible practices in computational communication research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computational Analysis of News Content Diversity: A Comparison of Methods for Measuring Topics, Actors and Viewpoints</title>
@@ -102,13 +102,13 @@
       <link>https://doi.org/10.5117/ccr2026.1.17.bern</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.17.bern</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
+      <dc:creator>Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam</dc:creator>
       <category>Computational Communication Research</category>
       <category>Computational methods</category>
       <category>Measurement validity</category>
       <category>Machine learning</category>
       <category>Natural language processing</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Jana Bernhard-Harrer, Paul Balluff, Ahrabhi Kathirgamalingam&lt;/p&gt;
 &lt;p&gt;Topics: Computational methods, Measurement validity, Machine learning, Natural language processing&lt;/p&gt;
 &lt;p&gt;In the computational communication sciences, accurately representing text as data is essential for making valid analysis. Word embeddings are one option of representing texts. However, selecting a suitable model remains challenging, due to the sheer plethora of options. To examine the impact of validation methods on model selection, we develop 320 specialised word embeddings using fastText and validate the models using both quantitative methods, including intrinsic (semantic and syntactic tasks) and extrinsic (author classification, topic classification, sentiment analysis) evaluations, and qualitative methods based on analysing nearest neighbours and semantic similarity relationships, to highlight the different conclusions they lead to. Specifically, we find that models favoured by intrinsic benchmarks are not consistently those that perform best on extrinsic tasks, leading to substantially different nearest-neighbour structures for key concepts across validation strategies. Based on these findings, we provide practical recommendations for validating word embedding models in social science research, including aligning validation strategies with research goals, distinguishing between model and result validation, assessing stability across models and configurations, and combining quantitative and qualitative evaluation approaches.&lt;/p&gt;</description>
     </item>
@@ -230,7 +230,7 @@
       <category>Topic modeling</category>
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Amber van der Wal, Inga Vondenhof, Konrad Mikalauskas, Rebecca Godard, Kfir Zioni, Felicia Löecherbach, Ine Beyens&lt;/p&gt;
 &lt;p&gt;Topics: TikTok, Social media use, Computational methods, Topic modeling&lt;/p&gt;
-&lt;p&gt;Short-form video platforms like TikTok play a central role in adolescents’ lives, yet little is known about the actual content they engage with. This study presents a large-scale, computational approach to analyze adolescents’ TikTok feeds using hashtag-based topic modeling applied to user-donated archives from 102 Dutch adolescents (ages 15–19). Using BERTopic, we identified 304 coherent topics, organized them into 32 higher-order content categories, and validated both through a structured human validation study. Analyses reveal that adolescents’ feeds are dominated by entertainment and leisure content, with ‘Media productions,’ ‘Sports,’ ‘Style and appearance,’ ‘Hobbies,’ and ‘Gaming’ as the most prevalent categories. At the same time, there is marked individual variation: niche areas such as K-pop, anime, and specific fandoms are central to some users’ feeds. Latent profile analysis identified six distinct, gendered content-consumption profiles. Together, the findings shed light on adolescents’ TikTok exposure, revealing predominantly benign but highly personalized media diets in which appearance-focused content stands out as a potential risk domain. In all, our approach offers a scalable, efficient way to map short-form video content. Linking these maps to individual users’ media diets opens new possibilities for examining how different content patterns relate to user experiences and outcomes.&lt;/p&gt;</description>
+&lt;p&gt;Short-form video platforms like TikTok play a central role in adolescents’ lives, yet little is known about the actual content they engage with. This study presents a large-scale, computational approach to analyzing adolescents’ TikTok feeds using hashtag-based topic modeling applied to user-donated archives from 102 Dutch adolescents (ages 15–19). Using BERTopic, we identify 304 coherent topics, organize them into 32 higher-order content categories, and validate both through a structured human validation study. Analyses reveal that adolescents’ feeds are dominated by entertainment and leisure content, with ‘Media productions,’ ‘Sports,’ ‘Style and appearance,’ ‘Hobbies,’ and ‘Gaming’ as the most prevalent categories. At the same time, there is marked individual variation: niche areas such as K-pop, anime, and specific fandoms are central to some users’ feeds. Latent profile analysis identifies six distinct, gendered content-consumption profiles. Together, the findings shed light on adolescents’ TikTok exposure, revealing predominantly benign but highly personalized media diets in which appearance-focused content stands out as a potential risk domain. In all, our approach offers a scalable, efficient way to map short-form video content. Linking these maps to individual users’ media diets opens new possibilities for examining how different content patterns relate to user experiences and outcomes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seeing, Reading, Hearing, Interpreting: Computational Multimodal Framing Analysis in Short-Form News Videos</title>
@@ -263,6 +263,21 @@
 &lt;p&gt;Developments in machine learning-based misinformation detection, though impressive, have been dominated by overly simplistic definitions and measurements. In this paper, we aimed to improve the validity and transparency of machine learning models by moving beyond simplified understandings of misinformation. We developed an extensive codebook to classify misinformation, and tested the performance of a BERT model trained with tweets from the covid pandemic that were annotated by human coders using this codebook. We showed that annotating misinformation involves many subjective and practical choices. We also found that, although our model performed well overall, it was better at detecting accurate information than misinformation. This may be due to data imbalance, but may also suggest that BERT models do not perform as well when they are trained with more nuanced annotations of misinformation, or are inherently better at detecting accurate information. We conclude that, to increase the validity of machine learning models and better understand what they recognize as misinformation, researchers should be clear about how they collect and annotate misinformation to train their model.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Put your Data where your Mouth is: Exploring the Viability of WhatsApp Data Donations to investigate Interpersonal Relationships</title>
+      <link>https://doi.org/10.5117/ccr2026.1.6.kohn</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.6.kohn</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Julian Kohne, Christian Montag</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Data donation</category>
+      <category>Interpersonal communication</category>
+      <category>Privacy concerns</category>
+      <category>Research methodology</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Julian Kohne, Christian Montag&lt;/p&gt;
+&lt;p&gt;Topics: Data donation, Interpersonal communication, Privacy concerns, Research methodology&lt;/p&gt;
+&lt;p&gt;This study combined a questionnaire with data donations to explore the viability of anonymized WhatsApp data donations for investigating interpersonal relationships. We examined differences in willingness to donate, actual donations, and participants’ removal of parts of the data before donation (self-censorship) across a range of demographic, psychological and relationship-relevant characteristics. In our opt-in study, about 70% of participants stated to be willing to donate, with younger participants being more willing, and willing participants exhibiting less concerns for privacy than unwilling participants. We found some evidence pointing to women being more willing to donate than men. Overall, we observed an intention-behavior gap with only 68% of willing participants actually donating. We did not find significant differences between donors and non-donors based on univariate tests (e.g., gender, age, personality, relationship status) but found some evidence for personality and sexual orientation as potentially influential factors in a logistic regression model. We discuss implications for conducting WhatsApp data donation studies, limitations, and directions for future research.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>LabelGenius: A Python Library for LLM-based Text-Image Content Labeling</title>
       <link>https://doi.org/10.5117/ccr2026.2.7.huan</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.2.7.huan</guid>
@@ -291,21 +306,6 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Melina Much, Daniel Ebanks, Sara Kangaslahti, Jean Kossaifi, R. Michael Alvarez, Anqi Liu, Animashree Anandkumar&lt;/p&gt;
 &lt;p&gt;Topics: Social movements, Digital activism, Social media discourse, Twitter&lt;/p&gt;
 &lt;p&gt;Twitter (now X) represented an invaluable space for sparking and mobilizing political movements. An example of this is the #MeToo movement beginning in 2017, which was one of the largest social and political reckonings with sexual violence the U.S. has ever seen. This study analyzes over 8 million tweets related to #MeToo over two years, aiming to provide new insights into the movement’s dynamics and its relationship to fourth-wave feminism. Our findings challenge assumptions about consciousness-raising efforts, showing that politicized calls to action do not immediately materialize in online spaces. The study also highlights a lack of intersectional discourse in consciousness-raising discussions, emphasizing the need for broader considerations of gendered sexual violence. We further offer among the first systematic evidence of the relative scale of #MeToo’s reactionary counter-movement, finding that oppositional discourse had come to dominate Twitter’s #MeToo ecosystem by 2019.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Put your Data where your Mouth is: Exploring the Viability of WhatsApp Data Donations to investigate Interpersonal Relationships</title>
-      <link>https://doi.org/10.5117/ccr2026.1.6.kohn</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.6.kohn</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Julian Kohne, Christian Montag</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Data donation</category>
-      <category>Interpersonal communication</category>
-      <category>Privacy concerns</category>
-      <category>Research methodology</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Julian Kohne, Christian Montag&lt;/p&gt;
-&lt;p&gt;Topics: Data donation, Interpersonal communication, Privacy concerns, Research methodology&lt;/p&gt;
-&lt;p&gt;This study combined a questionnaire with data donations to explore the viability of anonymized WhatsApp data donations for investigating interpersonal relationships. We examined differences in willingness to donate, actual donations, and participants’ removal of parts of the data before donation (self-censorship) across a range of demographic, psychological and relationship-relevant characteristics. In our opt-in study, about 70% of participants stated to be willing to donate, with younger participants being more willing, and willing participants exhibiting less concerns for privacy than unwilling participants. We found some evidence pointing to women being more willing to donate than men. Overall, we observed an intention-behavior gap with only 68% of willing participants actually donating. We did not find significant differences between donors and non-donors based on univariate tests (e.g., gender, age, personality, relationship status) but found some evidence for personality and sexual orientation as potentially influential factors in a logistic regression model. We discuss implications for conducting WhatsApp data donation studies, limitations, and directions for future research.&lt;/p&gt;</description>
     </item>
     <item>
       <title>When Does Self-Correction Work for LLMs in Content Analysis? The Role of External Structure and Task Complexity</title>
@@ -338,21 +338,6 @@
 &lt;p&gt;TikTok offers interactive features, such as stitch, duet, and reply-to, that enable creators to respond to others and co-create science content, but it remains unclear whether these features translate into participatory science communication in practice. We developed an AI-powered framework to analyze 2,796 TikTok science short videos with 31,782 image frames and 2,796 audio files, examining how interactive features intersect with communicator identity, communication objectives, and audio-visual presentation strategies. We found that interactive videos were a small share of the overall science videos, yet they showed both promise and risks of participatory science communication: they were actively adopted by scientists and influencers and often used to inform the public and debunk misinformation, but they also facilitated the circulation of pseudoscience. Using latent class analysis, we identified four recurring styles of interactive videos: professional-led explanatory science, ordinary user-led personal commentary on science, influencer-led entertainment or experimental science, and ordinary user-led visual science. This study enriches our understanding of participatory science communication on TikTok and offers an AI-powered analysis framework for studying multimodal science messages on short-video platforms.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data</title>
-      <link>https://doi.org/10.5117/ccr2026.1.9.obei</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.9.obei</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
-      <dc:creator>Abdul Karim Obeid, Daniel J. Angus, Dang Khuong Tran, Lauren Hayden, Nicholas Carah, Khanh Luong, Giselle Newton</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Digital platforms</category>
-      <category>Platform studies</category>
-      <category>Mobile media</category>
-      <category>Social media advertising</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Abdul Karim Obeid, Daniel J. Angus, Dang Khuong Tran, Lauren Hayden, Nicholas Carah, Khanh Luong, Giselle Newton&lt;/p&gt;
-&lt;p&gt;Topics: Digital platforms, Platform studies, Mobile media, Social media advertising&lt;/p&gt;
-&lt;p&gt;We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Introducing a Political Cartography of News Sharing: Capturing Story, Outlet and Content Level of News Circulation on Twitter</title>
       <link>https://doi.org/10.5117/ccr2026.1.5.gais</link>
       <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.5.gais</guid>
@@ -366,6 +351,21 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Felix Gaisbauer, Armin Pournaki, Jakob Ohme&lt;/p&gt;
 &lt;p&gt;Topics: News sharing, Computational methods, Political polarization, Digital platforms&lt;/p&gt;
 &lt;p&gt;News sharing on digital platforms shapes the digital spaces millions of users navigate. Trace data from these platforms also enables researchers to study online news circulation. In this context, research on the types of news shared by users of differential political leaning has received considerable attention. We argue that most existing approaches (i) rely on an overly simplified measurement of political leaning, (ii) consider only the outlet level in their analyses, and/or (iii) study news circulation among partisans by making ex-ante distinctions between partisan and non-partisan news. In this methodological contribution, we introduce a research pipeline that allows a systematic mapping of news sharing both with respect to source and content. As a proof of concept, we demonstrate insights that otherwise remain unnoticed: Diversification of news sharing along the second political dimension; topic-dependent sharing of outlets; some outlets catering different items to different audiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Mobile Observation of Advertising Toolkit: A Tool for Understanding Ephemeral and Sequenced Social Media Data</title>
+      <link>https://doi.org/10.5117/ccr2026.1.9.obei</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2026.1.9.obei</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Abdul Karim Obeid, Daniel J. Angus, Dang Khuong Tran, Lauren Hayden, Nicholas Carah, Khanh Luong, Giselle Newton</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Digital platforms</category>
+      <category>Platform studies</category>
+      <category>Mobile media</category>
+      <category>Social media advertising</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Abdul Karim Obeid, Daniel J. Angus, Dang Khuong Tran, Lauren Hayden, Nicholas Carah, Khanh Luong, Giselle Newton&lt;/p&gt;
+&lt;p&gt;Topics: Digital platforms, Platform studies, Mobile media, Social media advertising&lt;/p&gt;
+&lt;p&gt;We introduce the Mobile Observation of Advertising Toolkit (MOAT), a mobile screen recording tool designed to enhance platform observability by capturing mobile advertising data from modern Android devices. Standard social media data collection methods often focus on the production side of platforms, examining content creation, distribution, and algorithmic outputs, rather than the consumption side, where users encounter sequenced, ephemeral, and context-dependent experiences that are difficult to capture through conventional means. Expanding on Krieter’s (2019) initial mobile data recording concept, our toolkit collects mobile advertising experiences in a privacy-sensitive manner, allowing researchers to analyse mobile advertising in platforms such as Facebook, Instagram, YouTube, TikTok and more. The toolkit’s broad adaptability suggests wide applicability to various contexts beyond advertising, highlighting a crucial development in the collection and analysis of mobile platform data.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Computational Model of Message Sensation Value in Short Video Multimodal Features that Predicts Sensory and Behavioral Engagement</title>
@@ -650,22 +650,7 @@
       <category>Mobile communication</category>
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Douglas A. Parry, Roland Tóth&lt;/p&gt;
 &lt;p&gt;Topics: Smartphone use, Research methodology, Digital trace data, Mobile communication&lt;/p&gt;
-&lt;p&gt;As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling this data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, facilitating deeper insights into smartphone use patterns and their effects. By increasing access to and use of this type of data, this paper seeks to broaden our understanding of digital behavior and communication.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CooRTweet: A Generalized R Software for Coordinated Network Detection</title>
-      <link>https://doi.org/10.5117/ccr2025.1.7.righ</link>
-      <guid isPermaLink="true">https://doi.org/10.5117/ccr2025.1.7.righ</guid>
-      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
-      <dc:creator>Nicola Righetti, Paul Balluff</dc:creator>
-      <category>Computational Communication Research</category>
-      <category>Coordinated behavior</category>
-      <category>Computational methods</category>
-      <category>Social media analysis</category>
-      <category>Research methodology</category>
-      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Nicola Righetti, Paul Balluff&lt;/p&gt;
-&lt;p&gt;Topics: Coordinated behavior, Computational methods, Social media analysis, Research methodology&lt;/p&gt;
-&lt;p&gt;This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.&lt;/p&gt;</description>
+&lt;p&gt;As smartphones become increasingly integral to daily life, their importance for understanding human behavior will only continue to grow. Recognizing the potential of objective data on smartphone usage and the challenges associated with raw Android event log data, this paper provides a foundational guide for extracting meaningful measures of smartphone usage from such data. We describe the characteristics of Android event log data, define key smartphone usage types (i.e., glances, sessions, and episodes), and briefly discuss common challenges in handling these data. The core of the paper presents a detailed practical procedure to extract relevant usage metrics (sessions, glances, app episodes) from raw Android event logs, described visually, verbally, and with pseudo-code (with sample data and code in R available in the supplementary materials). This guide aims to equip researchers with the knowledge and tools to effectively utilize Android event log data, advancing knowledge of smartphone use patterns and their effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Translation for Accessible Multi-Language Text Analysis</title>
@@ -681,6 +666,21 @@
       <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Edward W. Chew, Mahasweta Chakraborti, William Weisman, Seth Frey&lt;/p&gt;
 &lt;p&gt;Topics: Machine translation, Computational methods, Sentiment analysis, Topic modeling&lt;/p&gt;
 &lt;p&gt;English is the international standard of social research, but scholars are increasingly conscious of their responsibility to meet the need for scholarly insight into communication processes globally. This tension is as true in computational methods as in any other area, with revolutionary advances in the tools for English language texts leaving most other languages far behind. In this paper, we aim to leverage those very advances to demonstrate that multi- language analysis is currently accessible to all computational scholars. We show that English-trained measures computed after translation to English have adequate-to-excellent accuracy compared to source-language measures computed on original texts. We show this for three major analytics—sentiment analysis, topic analysis, and word embeddings—over 16 languages, including Spanish, Chinese, Hindi, and Arabic. We validate this claim by comparing predictions on original language tweets and their back-translations: double translations from their source language to English and back to the source language. Our results suggest that Google Translate, a simple and widely accessible tool, effectively preserves semantic content across languages and methods. Modern machine translation can thus help computational scholars make more inclusive and general claims about human communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CooRTweet: A Generalized R Software for Coordinated Network Detection</title>
+      <link>https://doi.org/10.5117/ccr2025.1.7.righ</link>
+      <guid isPermaLink="true">https://doi.org/10.5117/ccr2025.1.7.righ</guid>
+      <pubDate>Thu, 08 May 2025 00:00:00 GMT</pubDate>
+      <dc:creator>Nicola Righetti, Paul Balluff</dc:creator>
+      <category>Computational Communication Research</category>
+      <category>Coordinated behavior</category>
+      <category>Computational methods</category>
+      <category>Social media analysis</category>
+      <category>Research methodology</category>
+      <description>&lt;p&gt;&lt;em&gt;Computational Communication Research&lt;/em&gt; · Nicola Righetti, Paul Balluff&lt;/p&gt;
+&lt;p&gt;Topics: Coordinated behavior, Computational methods, Social media analysis, Research methodology&lt;/p&gt;
+&lt;p&gt;This paper introduces CooRTweet, an innovative R package designed for detecting and analyzing coordinated behavior. CooRTweet’s distinctiveness lies in its essential architecture, derived from a minimal definition of coordinated behavior that captures its core elements in an abstract way. This approach makes it possible for the tool to be applied to the widest range of cases, from mono-modal network analysis on a single social media platform, to multi-modal and cross-platform network analysis, and to any types of objects shared by a network, whether singular identical objects (e.g., the same tweet), similar objects (e.g., clusters of similar images), or complex objects (e.g., a combination of hashtags, images, and emojis). Additionally, it offers a comprehensive view of coordinated activities that include both explicit coordination and organic forms of content sharing. The comprehensive architecture of CooRTweet provides flexibility and a broad scope for analyzing coordinated activities across various digital landscapes. This positions it as a distinctive resource for researchers investigating coordinated communication online. More generally, CooRTweet provides a valuable example to methodologists and research tool developers of how software tools for research can be developed in a generalized and thus flexible way. This is particularly important for social media research, given how quickly new APIs are being released, modified, and even shut down. This paper aims to provide an introduction to CooRTweet and the analysis of coordinated behavior, demonstrating the software’s application through a case study of cross-platform coordinated behavior during the 2021 German elections.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supply and Demand on Alt-Tech Social Media: A Case Study of BitChute</title>
